@@ -9,10 +9,13 @@ Clasificarea pasilor:
 	a. Metadatele
 	b. Statisticile preluate din componenta audio
 	c. Probabilitati (extrase din segmente)
-	a. Metadatele
-	Fisierul audio vine insotit cu o serie de informatii suplimentare, spre exemplu anul, luna in care a fost realizata inregistrarea, date de localizare in spatiu, autorul inregistrarii, elevatia.
-	b. Statistici audio
-	Din fisierul audio se pot prelua anumite informatii ce ne pot fi de ajutor. Pentru a face acest lucru, avem ca suport framework-ul openSMILE. Acesta ne permite atat extragerea unor caracteristici si analiza audio.
+
+a. Metadatele
+	
+     	Fisierul audio vine insotit cu o serie de informatii suplimentare, spre exemplu anul, luna in care a fost realizata inregistrarea, date de localizare in spatiu, autorul inregistrarii, elevatia.
+b. Statistici audio
+
+	Din fisierul audio se pot prelua anumite informatii ce ne pot fi de ajutor. Pentru a face acest lucru, avem ca suport framework-ul openSMILE(C++). Acesta ne permite atat extragerea unor caracteristici si analiza audio.
 	Framework-ul este configurat cu un fisier emo_large.conf.  Acest fisier a fost conceput pentru detectia semnalelor din vorbire, pentru a detecta emotii si contine 57 de date low-level (LLD) iar pentru fiecare dintre acestea se calculeaza coeficientii pentru viteza si accelelare iar la final se aplica 39 de parametri statistici. In urma procesarii cu openSMILE, vom obtine o suma de 6669 de caracteristici pentru fiecare inregistrare.
 
 c. Probabilitatea pe segmente
@@ -24,7 +27,7 @@ c. Probabilitatea pe segmente
 Pasi urmati pentru aplicarea metodei de mai sus:
 1.	Convertirea fisierului in format .wav
 2.	Redimensionarea fisierului audio la 22050 Hz
-3.	Obtinerea spectrogramei via STFT (Short Time Fourier Transform)
+3.	Obtinerea spectrogramei via STFT (Short Time Fourier Transform)(Java API)
 4.	Editarea spectorgramei: stergerea randurilor cu frecventa cea mai joasa(4 r.) si a celora cu frecventa cea mai inalta(24 r.)
 5.	Obtinerea imaginii binare via Median Clipping(1 daca segmentul curent este de 3 ori mai mare decat  media pe rand & pe coloana)
 6.	Aplicam inchiderea, dilatarea si filtrarea medianelor pentru a reduce ‘zgomotul’
@@ -34,7 +37,7 @@ Pasi urmati pentru aplicarea metodei de mai sus:
 
 2. Selctia caracteristicilor
 
-Inainte de invatare (Machine Learning)
+   Inainte de invatare (Machine Learning)
 
    openSmile
 •	Eliminarea recursiva a caracteristicilor prin SVM
@@ -43,7 +46,8 @@ Inainte de invatare (Machine Learning)
 •	6669 -> 1277 caracteristici
 
 In timpul invatarii (Machine Learning)
-Selectarea caracteristicilor univariate:
+
+    Selectarea caracteristicilor univariate:
 •	Selectarea a k rezultate dintre cele mai bune caracteristici pentru fiecare specie
 •	k variatii de la 150 la 400 caracteristici pe specie (clasa)
 •	pentru fiecare pliere (validare) din timpul clasificarii
@@ -61,6 +65,7 @@ Selectarea caracteristicilor univariate:
 •	Numarul de plieri, numarul de arbori, ...
    
    Perspective
+
     OpenSmile
 •	Altereaza configuratia fisierului pentru a captura mai bine caracteristicile sunetului
 •	Selectarea caracteristicilor pe specie
