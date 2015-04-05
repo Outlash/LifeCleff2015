@@ -1,0 +1,78 @@
+			
+Clasificarea pasilor:
+	1. Preprocesarea datelor;
+	2. Selectia;
+	3. Invatarea & clasificarea
+
+1. Preprocesarea
+	Avem trei surse de unde putem extrage informatii care sa ne ajute la identificarea pasarilor:
+	a. Metadatele
+	b. Statisticile preluate din componenta audio
+	c. Probabilitati (extrase din segmente)
+	a. Metadatele
+	Fisierul audio vine insotit cu o serie de informatii suplimentare, spre exemplu anul, luna in care a fost realizata inregistrarea, date de localizare in spatiu, autorul inregistrarii, elevatia.
+	b. Statistici audio
+	Din fisierul audio se pot prelua anumite informatii ce ne pot fi de ajutor. Pentru a face acest lucru, avem ca suport framework-ul openSMILE. Acesta ne permite atat extragerea unor caracteristici si analiza audio.
+	Framework-ul este configurat cu un fisier emo_large.conf.  Acest fisier a fost conceput pentru detectia semnalelor din vorbire, pentru a detecta emotii si contine 57 de date low-level (LLD) iar pentru fiecare dintre acestea se calculeaza coeficientii pentru viteza si accelelare iar la final se aplica 39 de parametri statistici. In urma procesarii cu openSMILE, vom obtine o suma de 6669 de caracteristici pentru fiecare inregistrare.
+
+c. Probabilitatea pe segmente
+	Metoda Template Matching:  
+•	Segmentarea spectogramei intr-un numar relativ mic de Segmente reprezentative, per imagine;
+•	Gasirea corelatiei(similaritatii) maxime  dintre 2 segmente
+•	Selectarea segmentelor pe specie 
+
+Pasi urmati pentru aplicarea metodei de mai sus:
+1.	Convertirea fisierului in format .wav
+2.	Redimensionarea fisierului audio la 22050 Hz
+3.	Obtinerea spectrogramei via STFT (Short Time Fourier Transform)
+4.	Editarea spectorgramei: stergerea randurilor cu frecventa cea mai joasa(4 r.) si a celora cu frecventa cea mai inalta(24 r.)
+5.	Obtinerea imaginii binare via Median Clipping(1 daca segmentul curent este de 3 ori mai mare decat  media pe rand & pe coloana)
+6.	Aplicam inchiderea, dilatarea si filtrarea medianelor pentru a reduce ‘zgomotul’
+7.	Etichetam pixelii selectati ca segmente
+8.	Marirea(zoom) segmentelor(adaugarea unui surplus in fiecare directie)
+
+
+2. Selctia caracteristicilor
+
+Inainte de invatare (Machine Learning)
+
+   openSmile
+•	Eliminarea recursiva a caracteristicilor prin SVM
+   Probabilitatile pe segmente
+•	doar segmentele din fisierele cu o calitate audio buna si fara zgomot de fond sunt folosite
+•	6669 -> 1277 caracteristici
+
+In timpul invatarii (Machine Learning)
+Selectarea caracteristicilor univariate:
+•	Selectarea a k rezultate dintre cele mai bune caracteristici pentru fiecare specie
+•	k variatii de la 150 la 400 caracteristici pe specie (clasa)
+•	pentru fiecare pliere (validare) din timpul clasificarii
+
+3.  Invatarea & Clafisicare
+•	Clasificarea: asamblarea arborilor de decizie randomizata cu iesirile probabilistice (scikit-learn: ExtraTreesRegressor)
+•	Problema clasificarii este impartita in alte 501 probleme de clasificare individuale
+
+•	Metode de clasificare:
+•	Single- vs. multi-label
+•	Probabilitatile speciilor de fundal
+•	Seturi de caracteristici & seturi de caracteristici combinate
+•	Metadate vs. openSmile vs. Seg.Probs. vs. Audio-Only, ...
+•	Numarul caracteristicilor 150, 200, ..., 400
+•	Numarul de plieri, numarul de arbori, ...
+   
+   Perspective
+    OpenSmile
+•	Altereaza configuratia fisierului pentru a captura mai bine caracteristicile sunetului
+•	Selectarea caracteristicilor pe specie
+    Probabilitatea pe segmente
+•	Cresterea vitezei pentru Template Matching
+•	Clasificarea pe ierarhii
+•	O segmentare mai buna
+
+
+
+Nevoe Lucian
+Sandu Vlad
+Varaciuc Marius
+Nistor G. Daniel
+Nistor D. Daniel
