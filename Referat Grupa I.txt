@@ -1,4 +1,5 @@
 AS: Cand faceti prezentarea unui articol, poate ar trebui sa ii specificati numele, autorii si link-ul pentru a fi usor de ajuns la el. Toata lumea trebuie sa stie de unde ati preluat aceste date.			
+Me: Update: Am adaugat referintele. 
 
 Clasificarea pasilor:
 	1. Preprocesarea datelor;
@@ -82,3 +83,9 @@ Sandu Vlad
 Varaciuc Marius
 Nistor G. Daniel
 Nistor D. Daniel
+
+
+References:
+1. http://ceur-ws.org/Vol-1180/CLEF2014wn-Life-Lasseck2014.pdf
+2. https://ninesights.ninesigma.com/documents/10587249/0/Lasseck2014b.pdf/f84b705f-d5bb-4c16-aa1b-ca980626ad9b?version=1.0
+3. http://www.audeering.com/research/opensmile - OpenSmile
