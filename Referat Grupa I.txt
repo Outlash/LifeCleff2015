@@ -1,5 +1,5 @@
 AS: Cand faceti prezentarea unui articol, poate ar trebui sa ii specificati numele, autorii si link-ul pentru a fi usor de ajuns la el. Toata lumea trebuie sa stie de unde ati preluat aceste date.			
-Me: Update: Am adaugat referintele. 
+Me: Update - Am adaugat referintele(bibliografia). 
 
 Clasificarea pasilor:
 	1. Preprocesarea datelor;
