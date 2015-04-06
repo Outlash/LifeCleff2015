@@ -1,4 +1,5 @@
-			
+AS: Cand faceti prezentarea unui articol, poate ar trebui sa ii specificati numele, autorii si link-ul pentru a fi usor de ajuns la el. Toata lumea trebuie sa stie de unde ati preluat aceste date.			
+
 Clasificarea pasilor:
 	1. Preprocesarea datelor;
 	2. Selectia;
@@ -20,9 +21,9 @@ b. Statistici audio
 
 c. Probabilitatea pe segmente
 	Metoda Template Matching:  
-•	Segmentarea spectogramei intr-un numar relativ mic de Segmente reprezentative, per imagine;
-•	Gasirea corelatiei(similaritatii) maxime  dintre 2 segmente
-•	Selectarea segmentelor pe specie 
+â€¢	Segmentarea spectogramei intr-un numar relativ mic de Segmente reprezentative, per imagine;
+â€¢	Gasirea corelatiei(similaritatii) maxime  dintre 2 segmente
+â€¢	Selectarea segmentelor pe specie 
 
 Pasi urmati pentru aplicarea metodei de mai sus:
 1.	Convertirea fisierului in format .wav
@@ -30,7 +31,7 @@ Pasi urmati pentru aplicarea metodei de mai sus:
 3.	Obtinerea spectrogramei via STFT (Short Time Fourier Transform)(Java API)
 4.	Editarea spectorgramei: stergerea randurilor cu frecventa cea mai joasa(4 r.) si a celora cu frecventa cea mai inalta(24 r.)
 5.	Obtinerea imaginii binare via Median Clipping(1 daca segmentul curent este de 3 ori mai mare decat  media pe rand & pe coloana)
-6.	Aplicam inchiderea, dilatarea si filtrarea medianelor pentru a reduce ‘zgomotul’
+6.	Aplicam inchiderea, dilatarea si filtrarea medianelor pentru a reduce â€˜zgomotulâ€™
 7.	Etichetam pixelii selectati ca segmente
 8.	Marirea(zoom) segmentelor(adaugarea unui surplus in fiecare directie)
 
@@ -40,39 +41,39 @@ Pasi urmati pentru aplicarea metodei de mai sus:
    Inainte de invatare (Machine Learning)
 
    openSmile
-•	Eliminarea recursiva a caracteristicilor prin SVM
+â€¢	Eliminarea recursiva a caracteristicilor prin SVM
    Probabilitatile pe segmente
-•	doar segmentele din fisierele cu o calitate audio buna si fara zgomot de fond sunt folosite
-•	6669 -> 1277 caracteristici
+â€¢	doar segmentele din fisierele cu o calitate audio buna si fara zgomot de fond sunt folosite
+â€¢	6669 -> 1277 caracteristici
 
 In timpul invatarii (Machine Learning)
 
     Selectarea caracteristicilor univariate:
-•	Selectarea a k rezultate dintre cele mai bune caracteristici pentru fiecare specie
-•	k variatii de la 150 la 400 caracteristici pe specie (clasa)
-•	pentru fiecare pliere (validare) din timpul clasificarii
+â€¢	Selectarea a k rezultate dintre cele mai bune caracteristici pentru fiecare specie
+â€¢	k variatii de la 150 la 400 caracteristici pe specie (clasa)
+â€¢	pentru fiecare pliere (validare) din timpul clasificarii
 
 3.  Invatarea & Clafisicare
-•	Clasificarea: asamblarea arborilor de decizie randomizata cu iesirile probabilistice (scikit-learn: ExtraTreesRegressor)
-•	Problema clasificarii este impartita in alte 501 probleme de clasificare individuale
+â€¢	Clasificarea: asamblarea arborilor de decizie randomizata cu iesirile probabilistice (scikit-learn: ExtraTreesRegressor)
+â€¢	Problema clasificarii este impartita in alte 501 probleme de clasificare individuale
 
-•	Metode de clasificare:
-•	Single- vs. multi-label
-•	Probabilitatile speciilor de fundal
-•	Seturi de caracteristici & seturi de caracteristici combinate
-•	Metadate vs. openSmile vs. Seg.Probs. vs. Audio-Only, ...
-•	Numarul caracteristicilor 150, 200, ..., 400
-•	Numarul de plieri, numarul de arbori, ...
+â€¢	Metode de clasificare:
+â€¢	Single- vs. multi-label
+â€¢	Probabilitatile speciilor de fundal
+â€¢	Seturi de caracteristici & seturi de caracteristici combinate
+â€¢	Metadate vs. openSmile vs. Seg.Probs. vs. Audio-Only, ...
+â€¢	Numarul caracteristicilor 150, 200, ..., 400
+â€¢	Numarul de plieri, numarul de arbori, ...
    
    Perspective
 
     OpenSmile
-•	Altereaza configuratia fisierului pentru a captura mai bine caracteristicile sunetului
-•	Selectarea caracteristicilor pe specie
+â€¢	Altereaza configuratia fisierului pentru a captura mai bine caracteristicile sunetului
+â€¢	Selectarea caracteristicilor pe specie
     Probabilitatea pe segmente
-•	Cresterea vitezei pentru Template Matching
-•	Clasificarea pe ierarhii
-•	O segmentare mai buna
+â€¢	Cresterea vitezei pentru Template Matching
+â€¢	Clasificarea pe ierarhii
+â€¢	O segmentare mai buna
 
 
 
