@@ -14,9 +14,9 @@ LifeCLEF 2015 Bird task
 	* Soare George
 #Module III
 	* Robert Pamfile
-        * Cobuz Veniamin
-        * Calara Ionut
-        * Tirpescu Nicu Cosmin
+	* Cobuz Veniamin
+	* Calara Ionut
+	* Tirpescu Nicu Cosmin
 #Module IV
 	*Dinu Ionut Stefan
 	*Dobrainici Alexandru
