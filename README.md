@@ -8,15 +8,15 @@ LifeCLEF 2015 Bird task
 	* Nistor G. Daniel
 	* Nistor D. Daniel
 #Module II
-	* Giulitti Salvatore Elio
-	* Tutuianu Corneliu
-	* Dorneanu Anca
-	* Soare George
-#Module III
 	* Robert Pamfile
 	* Cobuz Veniamin
 	* Calara Ionut
 	* Tirpescu Nicu Cosmin
+#Module III
+	* Giulitti Salvatore Elio
+	* Tutuianu Corneliu
+	* Dorneanu Anca
+	* Soare George
 #Module IV
 	*Dinu Ionut Stefan
 	*Dobrainici Alexandru
