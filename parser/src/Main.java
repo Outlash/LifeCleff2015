@@ -12,6 +12,9 @@ public class Main {
                 System.out.println(parser.getValues()[i][j]);
             }
             System.out.println("################################");
+
+            ToSimpleFile createFile = new ToSimpleFile(parser.getValues());
+
         }
     }
 }

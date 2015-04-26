@@ -6,9 +6,9 @@ import org.w3c.dom.Element;
 import org.w3c.dom.Node;
 import org.w3c.dom.NodeList;
 import org.xml.sax.SAXException;
-
 import java.io.File;
 import java.io.IOException;
+
 public class Parser
 {
     private String[][] values;
@@ -17,7 +17,7 @@ public class Parser
     File directory;
 
     public Parser(){
-        this.directory=new File("src\\file");//setam directorul
+        this.directory=new File("src/file");//setam directorul
         this.files=this.directory.listFiles();//listam toate fisierele
         this.nrOfFiles=this.files.length;// initializam nr de fisiere
         this.values=new String[this.nrOfFiles][];
