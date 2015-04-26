@@ -5,7 +5,7 @@ import java.util.*;
 public class ToSimpleFile {
 
     private Formatter file;
-    private String fileName = "xmlTrainingValues.txt";
+    private String fileName = "src\\file\\xmlTrainingValues.txt";
 
     ToSimpleFile(String values[][]) {
 
