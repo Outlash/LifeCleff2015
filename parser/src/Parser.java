@@ -23,7 +23,7 @@ public class Parser
         this.values=new String[this.nrOfFiles][];
     }
 
-    public void parseByTutu(){
+    public void machineParser(){
 
         DocumentBuilderFactory documentBuilderFactorytory =DocumentBuilderFactory.newInstance();
         try {
@@ -63,49 +63,6 @@ public class Parser
         }
     }
 
-    public void parseMeByToto()
-    {
-        DocumentBuilderFactory factory = DocumentBuilderFactory.newInstance();
-        try {
-            DocumentBuilder builder = factory.newDocumentBuilder();
-            try{
-                Document doc = builder.parse("simple.xml");
-                NodeList foodList = doc.getElementsByTagName("food");
-                for(int i =0 ;i<foodList.getLength();i++)
-                {
-                    Node p = foodList.item(i);
-                    if(p.getNodeType() == Node.ELEMENT_NODE){
-                        Element food =(Element) p;
-                        String id = food.getAttribute("id");
-                        NodeList infoList  = food.getChildNodes();
-                        for(int j = 0;j<=infoList.getLength();j++)
-                        {
-                            Node n = infoList.item(j);
-                                if (n.getNodeType() == Node.ELEMENT_NODE) {
-                                    try {
-                                        Element info = (Element) n;
-                                        System.out.println("Food " + id + ": " + info.getTagName() + " = " + "= "
-                                                + info.getTextContent());
-
-                                    }catch(NullPointerException e)
-                                    {
-                                        e.printStackTrace();
-                                    }
-                                }
-                        }
-                    }
-                }
-            }catch(SAXException e)
-            {
-                e.printStackTrace();
-            }catch(IOException e) {
-                e.printStackTrace();
-            }
-        }catch(ParserConfigurationException e)
-        {
-            e.printStackTrace();
-        }
-    }
 
     public String[][] getValues() {
         return values;

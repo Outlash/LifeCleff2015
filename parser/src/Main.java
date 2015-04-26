@@ -4,7 +4,7 @@ public class Main {
     public static void main(String args[])
     {
         Parser parser = new Parser();
-        parser.parseByTutu();
+        parser.machineParser();
 
         for(int i=0;i<parser.getValues().length;i++){
             System.out.println("########### File :"+i+"###############");
