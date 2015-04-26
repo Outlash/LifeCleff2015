@@ -6,9 +6,9 @@ import org.w3c.dom.Element;
 import org.w3c.dom.Node;
 import org.w3c.dom.NodeList;
 import org.xml.sax.SAXException;
+
 import java.io.File;
 import java.io.IOException;
-
 public class Parser
 {
     private String[][] values;
@@ -17,13 +17,13 @@ public class Parser
     File directory;
 
     public Parser(){
-        this.directory=new File("src/file");//setam directorul
+        this.directory=new File("src\\file\\train");//setam directorul
         this.files=this.directory.listFiles();//listam toate fisierele
         this.nrOfFiles=this.files.length;// initializam nr de fisiere
         this.values=new String[this.nrOfFiles][];
     }
 
-    public void machineParser(){
+    public void parse(){
 
         DocumentBuilderFactory documentBuilderFactorytory =DocumentBuilderFactory.newInstance();
         try {
@@ -36,7 +36,7 @@ public class Parser
 
                     NodeList nodeList = document.getElementsByTagName("*");//lista cu toate tagurile
 
-                    System.out.println("List =" + nodeList.getLength());//numarul de taguri
+                   // System.out.println("List =" + nodeList.getLength());//numarul de taguri
 
                     values[index]=new String[nodeList.getLength()];//initializam o linie din matrice cu nr de taguri
 
@@ -52,6 +52,7 @@ public class Parser
                             values[index][i]=element.getTextContent();
                              }
                     }
+                    index++;//incrementam indexul pt linii a matricei values
                 }
             } catch (SAXException e) {
                 e.printStackTrace();
@@ -62,7 +63,6 @@ public class Parser
             e.printStackTrace();
         }
     }
-
 
     public String[][] getValues() {
         return values;
