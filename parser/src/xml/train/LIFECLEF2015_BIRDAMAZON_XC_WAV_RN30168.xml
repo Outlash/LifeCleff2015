@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>30168</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN30168.wav</FileName>
+  <ClassId>xnhoxm</ClassId>
+  <Date>2001-10-00</Date>
+  <Time>?:?</Time>
+  <Locality>Serra da Canastra, Minas Gerais</Locality>
+  <Latitude>-20.2551</Latitude>
+  <Longitude>-46.4101</Longitude>
+  <Elevation>?</Elevation>
+  <Author>John van der Woude</Author>
+  <AuthorID>LDKAWQWMRJ</AuthorID>
+  <Content>song</Content>
+  <Comments>trip:http://home.tiscali.nl/~jvanderw/brazil01/summary.html</Comments>
+  <Quality>2</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Piciformes</Order>
+  <Family>Picidae</Family>
+  <Genus>Picumnus</Genus>
+  <Species>cirratus</Species>
+  <Sub-species />
+  <VernacularNames>White-barred Piculet</VernacularNames>
+</Audio>

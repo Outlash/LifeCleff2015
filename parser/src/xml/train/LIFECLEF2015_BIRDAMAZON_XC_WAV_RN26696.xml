@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>26696</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN26696.wav</FileName>
+  <ClassId>wxqfzo</ClassId>
+  <Date>2000-11-30</Date>
+  <Time>08:18</Time>
+  <Locality>Serra do Navio, AP</Locality>
+  <Latitude>0.8926</Latitude>
+  <Longitude>-52.056</Longitude>
+  <Elevation>170</Elevation>
+  <Author>Jeremy Minns</Author>
+  <AuthorID>DGVLLRYDXS</AuthorID>
+  <Content>song</Content>
+  <Comments>secondary terra firme forestbird-seen:noplayback-used:no</Comments>
+  <Quality>3</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Pipridae</Family>
+  <Genus>Dixiphia</Genus>
+  <Species>erythrocephala</Species>
+  <Sub-species>erythrocephala (assumed from locality)</Sub-species>
+  <VernacularNames>Golden-headed Manakin</VernacularNames>
+</Audio>

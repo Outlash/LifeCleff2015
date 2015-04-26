@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>6800</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN6800.wav</FileName>
+  <ClassId>uzzjrh</ClassId>
+  <Date>2002-03-17</Date>
+  <Time>14:40</Time>
+  <Locality>Serra do Mar State Park. Curucutú</Locality>
+  <Latitude>-23.9501</Latitude>
+  <Longitude>-46.7667</Longitude>
+  <Elevation>800</Elevation>
+  <Author>Jeremy Minns</Author>
+  <AuthorID>DGVLLRYDXS</AuthorID>
+  <Content>Call</Content>
+  <Comments>Patch of montane forest in a cleared area. This is Call A in our DVD-ROM 'Birds of Brazil'.</Comments>
+  <Quality>2</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Tyrannidae</Family>
+  <Genus>Myiarchus</Genus>
+  <Species>swainsoni</Species>
+  <Sub-species>swainsoni</Sub-species>
+  <VernacularNames>Swainson's Flycatcher</VernacularNames>
+</Audio>

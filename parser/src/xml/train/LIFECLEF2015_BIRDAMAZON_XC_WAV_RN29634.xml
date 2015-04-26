@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>29634</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN29634.wav</FileName>
+  <ClassId>uxoaxq</ClassId>
+  <Date>2008-08-05</Date>
+  <Time>?</Time>
+  <Locality>Tachira, Paramo de Tama, Betania</Locality>
+  <Latitude>7.40389</Latitude>
+  <Longitude>-72.41722</Longitude>
+  <Elevation>?</Elevation>
+  <Author>Alexandre Renaudier</Author>
+  <AuthorID>GKADEITXTH</AuthorID>
+  <Content>call or song ?</Content>
+  <Comments />
+  <Quality>4</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Tyrannidae</Family>
+  <Genus>Mecocerculus</Genus>
+  <Species>leucophrys</Species>
+  <Sub-species />
+  <VernacularNames>White-throated Tyrannulet</VernacularNames>
+</Audio>

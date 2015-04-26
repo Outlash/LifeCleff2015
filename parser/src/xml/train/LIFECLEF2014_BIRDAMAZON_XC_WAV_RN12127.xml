@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>12127</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN12127.wav</FileName>
+  <ClassId>lssubf</ClassId>
+  <Date>2013-02-26</Date>
+  <Time>07:30</Time>
+  <Locality>Piracicaba, São Paulo</Locality>
+  <Latitude>-22.6771</Latitude>
+  <Longitude>-47.9831</Longitude>
+  <Elevation>460</Elevation>
+  <Author>GABRIEL LEITE</Author>
+  <AuthorID>TGBFXDVERJ</AuthorID>
+  <Content>song</Content>
+  <Comments>bird-seen:yesplayback-used:yes</Comments>
+  <Quality>1</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies>Taraba major</BackgroundSpecies>
+  <Order>Passeriformes</Order>
+  <Family>Thamnophilidae</Family>
+  <Genus>Drymophila</Genus>
+  <Species>ferruginea</Species>
+  <Sub-species />
+  <VernacularNames>Ferruginous Antbird</VernacularNames>
+</Audio>

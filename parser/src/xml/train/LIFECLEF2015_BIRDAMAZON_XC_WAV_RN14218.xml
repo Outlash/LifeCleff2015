@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>14218</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN14218.wav</FileName>
+  <ClassId>tmcoyg</ClassId>
+  <Date>2009-07-01</Date>
+  <Time>07:30</Time>
+  <Locality>Ome Ecological Station, Purite River, Amazonas dep. 70 Km N of Leticia</Locality>
+  <Latitude>NULL</Latitude>
+  <Longitude>NULL</Longitude>
+  <Elevation>110</Elevation>
+  <Author>Gabriela Navarrete Forero</Author>
+  <AuthorID>LEHRZWLXDV</AuthorID>
+  <Content>song</Content>
+  <Comments>In floodplain forest. link:www.ornitologiacolombiana.org/oc9/Resumenes%20Tesis%20OC9.pdf</Comments>
+  <Quality>3</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Cotingidae</Family>
+  <Genus>Querula</Genus>
+  <Species>purpurata</Species>
+  <Sub-species />
+  <VernacularNames>Purple-throated Fruitcrow</VernacularNames>
+</Audio>

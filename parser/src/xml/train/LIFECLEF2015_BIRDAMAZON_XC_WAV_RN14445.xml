@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>14445</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN14445.wav</FileName>
+  <ClassId>mbrhfx</ClassId>
+  <Date>2014-02-03</Date>
+  <Time>10:00</Time>
+  <Locality>Estação Ecológica Mata Preta, Abelardo Luz, Santa Catarina</Locality>
+  <Latitude>-26.4895</Latitude>
+  <Longitude>-52.2009</Longitude>
+  <Elevation>950</Elevation>
+  <Author>Antonio de Almeida Correia Junior</Author>
+  <AuthorID>FUUWTBJYFV</AuthorID>
+  <Content>song</Content>
+  <Comments>bird-seen:noplayback-used:no</Comments>
+  <Quality>2</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Columbiformes</Order>
+  <Family>Columbidae</Family>
+  <Genus>Leptotila</Genus>
+  <Species>rufaxilla</Species>
+  <Sub-species />
+  <VernacularNames>Grey-fronted Dove</VernacularNames>
+</Audio>

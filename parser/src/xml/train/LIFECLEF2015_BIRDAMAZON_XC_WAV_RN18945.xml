@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>18945</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN18945.wav</FileName>
+  <ClassId>kgrlhv</ClassId>
+  <Date>2006-11-07</Date>
+  <Time>20:40</Time>
+  <Locality>Sao Francisco de Paula, ca 15km SW, Rio Grande do Sul</Locality>
+  <Latitude>-29.494</Latitude>
+  <Longitude>-50.73</Longitude>
+  <Elevation>450</Elevation>
+  <Author>Daniel Lane</Author>
+  <AuthorID>WOEAFQRMUD</AuthorID>
+  <Content>song</Content>
+  <Comments>Response to playback (one of two, the other not audible) . About 4m up in understory of group of trees along bank of road amid pastures. Yellow-eyed, gray plumage.</Comments>
+  <Quality>2</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Strigiformes</Order>
+  <Family>Strigidae</Family>
+  <Genus>Megascops</Genus>
+  <Species>sanctaecatarinae</Species>
+  <Sub-species />
+  <VernacularNames>Long-tufted Screech Owl</VernacularNames>
+</Audio>

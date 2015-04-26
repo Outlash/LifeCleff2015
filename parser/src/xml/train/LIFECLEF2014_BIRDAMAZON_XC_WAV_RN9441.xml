@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>9441</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN9441.wav</FileName>
+  <ClassId>aiiwiu</ClassId>
+  <Date>2012-10-04</Date>
+  <Time>11:15</Time>
+  <Locality>Vale da Benção, Chapada dos Guimarães, Mato Grosso</Locality>
+  <Latitude>-15.4356</Latitude>
+  <Longitude>-55.7917</Longitude>
+  <Elevation>700</Elevation>
+  <Author>Andrew Spencer</Author>
+  <AuthorID>CDTGHVBGZP</AuthorID>
+  <Content>call</Content>
+  <Comments>natural vocalization, calls from a large flock of birds perched near the top of tall trees in gallery forest.  Lots of noise from dropping fruit as they feed.bird-seen:yesplayback-used:no</Comments>
+  <Quality>1</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies />
+  <Order>Psittaciformes</Order>
+  <Family>Psittacidae</Family>
+  <Genus>Psittacara</Genus>
+  <Species>leucophthalmus</Species>
+  <Sub-species>leucophthalmus</Sub-species>
+  <VernacularNames>White-eyed Parakeet</VernacularNames>
+</Audio>

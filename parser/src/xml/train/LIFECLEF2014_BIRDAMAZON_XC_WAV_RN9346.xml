@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>9346</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN9346.wav</FileName>
+  <ClassId>doafbd</ClassId>
+  <Date>2004-08-12</Date>
+  <Time>14:16</Time>
+  <Locality>Borba, Amazonas</Locality>
+  <Latitude>-4.3881</Latitude>
+  <Longitude>-59.5934</Longitude>
+  <Elevation>30</Elevation>
+  <Author>Jeremy Minns</Author>
+  <AuthorID>DGVLLRYDXS</AuthorID>
+  <Content>Call</Content>
+  <Comments>Terra firme forest.</Comments>
+  <Quality>0</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Thamnophilidae</Family>
+  <Genus>Hypocnemis</Genus>
+  <Species>striata</Species>
+  <Sub-species>implicata</Sub-species>
+  <VernacularNames>Spix's Warbling Antbird</VernacularNames>
+</Audio>

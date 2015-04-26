@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>25718</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN25718.wav</FileName>
+  <ClassId>vspgzn</ClassId>
+  <Date>2004-06-02</Date>
+  <Time>07.00</Time>
+  <Locality>Cristalino Jungle Lodge, MT</Locality>
+  <Latitude>-9.5981</Latitude>
+  <Longitude>-55.932</Longitude>
+  <Elevation>?</Elevation>
+  <Author>Alexander Lees</Author>
+  <AuthorID>INDDBZAFJL</AuthorID>
+  <Content>song</Content>
+  <Comments />
+  <Quality>3</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies>Saltator maximus</BackgroundSpecies>
+  <Order>Passeriformes</Order>
+  <Family>Pipridae</Family>
+  <Genus>Lepidothrix</Genus>
+  <Species>nattereri</Species>
+  <Sub-species>nattereri</Sub-species>
+  <VernacularNames>Snow-capped Manakin</VernacularNames>
+</Audio>

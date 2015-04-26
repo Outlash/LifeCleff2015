@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>29847</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN29847.wav</FileName>
+  <ClassId>ywownv</ClassId>
+  <Date>2011-03-02</Date>
+  <Time>7-30</Time>
+  <Locality>La Soledad Tunnel, 20 km NW Barinitas, Barinas</Locality>
+  <Latitude>8.8526</Latitude>
+  <Longitude>-70.5806</Longitude>
+  <Elevation>1700</Elevation>
+  <Author>Albert Lastukhin</Author>
+  <AuthorID>LELYWQKUZX</AuthorID>
+  <Content>song</Content>
+  <Comments />
+  <Quality>3</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Galliformes</Order>
+  <Family>Cracidae</Family>
+  <Genus>Ortalis</Genus>
+  <Species>ruficauda</Species>
+  <Sub-species />
+  <VernacularNames>Rufous-vented Chachalaca</VernacularNames>
+</Audio>

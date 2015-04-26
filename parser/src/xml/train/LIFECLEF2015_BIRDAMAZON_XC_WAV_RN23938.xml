@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>23938</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN23938.wav</FileName>
+  <ClassId>fiennj</ClassId>
+  <Date>2011-06-09</Date>
+  <Time>14:00</Time>
+  <Locality>Mitu, Vaupes</Locality>
+  <Latitude>1.2598</Latitude>
+  <Longitude>-70.2367</Longitude>
+  <Elevation>190</Elevation>
+  <Author>Andrew Spencer</Author>
+  <AuthorID>CDTGHVBGZP</AuthorID>
+  <Content>call, song</Content>
+  <Comments>multiple call types and song in response to playback</Comments>
+  <Quality>1</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Emberizidae</Family>
+  <Genus>Arremon</Genus>
+  <Species>taciturnus</Species>
+  <Sub-species>taciturnus</Sub-species>
+  <VernacularNames>Pectoral Sparrow</VernacularNames>
+</Audio>

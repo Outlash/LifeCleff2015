@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>20162</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN20162.wav</FileName>
+  <ClassId>tsxwwl</ClassId>
+  <Date>2011-08-06</Date>
+  <Time>10:40</Time>
+  <Locality>Terra de Areia, Rio Grande do Sul</Locality>
+  <Latitude>-29.5787</Latitude>
+  <Longitude>-50.0649</Longitude>
+  <Elevation>20</Elevation>
+  <Author>João Antônio de B. Vitto</Author>
+  <AuthorID>RIVNLYTULO</AuthorID>
+  <Content>song</Content>
+  <Comments>bird-seen:yesplayback-used:no</Comments>
+  <Quality>1</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Thamnophilidae</Family>
+  <Genus>Myrmeciza</Genus>
+  <Species>squamosa</Species>
+  <Sub-species />
+  <VernacularNames>Squamate Antbird</VernacularNames>
+</Audio>

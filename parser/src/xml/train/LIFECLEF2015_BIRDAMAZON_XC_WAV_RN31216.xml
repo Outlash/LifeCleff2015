@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>31216</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN31216.wav</FileName>
+  <ClassId>uytsig</ClassId>
+  <Date>2010-03-17</Date>
+  <Time>05:40</Time>
+  <Locality>Surama, Guyana</Locality>
+  <Latitude>NULL</Latitude>
+  <Longitude>NULL</Longitude>
+  <Elevation>100</Elevation>
+  <Author>Charlie Vogt</Author>
+  <AuthorID>NYTXYAQSTH</AuthorID>
+  <Content>dawn song</Content>
+  <Comments>natural vocalization</Comments>
+  <Quality>2</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies>Elaenia flavogaster,Tyrannus melancholicus,Nyctidromus albicollis</BackgroundSpecies>
+  <Order>Passeriformes</Order>
+  <Family>Turdidae</Family>
+  <Genus>Turdus</Genus>
+  <Species>leucomelas</Species>
+  <Sub-species />
+  <VernacularNames>Pale-breasted Thrush</VernacularNames>
+</Audio>

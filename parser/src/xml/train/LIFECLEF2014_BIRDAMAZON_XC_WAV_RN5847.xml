@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>5847</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN5847.wav</FileName>
+  <ClassId>ksvanv</ClassId>
+  <Date>2010-06-06</Date>
+  <Time>10:00</Time>
+  <Locality>Careiro, Amazonas</Locality>
+  <Latitude>-3.4915</Latitude>
+  <Longitude>-59.9304</Longitude>
+  <Elevation>20</Elevation>
+  <Author>GABRIEL LEITE</Author>
+  <AuthorID>TGBFXDVERJ</AuthorID>
+  <Content>song</Content>
+  <Comments>bird-seen:yesplayback-used:no</Comments>
+  <Quality>3</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies>Sclateria naevia</BackgroundSpecies>
+  <Order>Passeriformes</Order>
+  <Family>Thamnophilidae</Family>
+  <Genus>Pygiptila</Genus>
+  <Species>stellaris</Species>
+  <Sub-species />
+  <VernacularNames>Spot-winged Antshrike</VernacularNames>
+</Audio>

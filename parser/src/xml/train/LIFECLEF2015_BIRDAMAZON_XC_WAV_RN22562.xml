@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>22562</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN22562.wav</FileName>
+  <ClassId>cwhfyt</ClassId>
+  <Date>2013-03-23</Date>
+  <Time>11:00</Time>
+  <Locality>Cajamarca, Tolima</Locality>
+  <Latitude>4.4837</Latitude>
+  <Longitude>-75.4797</Longitude>
+  <Elevation>2500</Elevation>
+  <Author>Oscar H. Marín-Gómez</Author>
+  <AuthorID>CSUHASNRSU</AuthorID>
+  <Content>song</Content>
+  <Comments>Ref OHM362. Un individuo en borde de bosquebird-seen:yesplayback-used:no</Comments>
+  <Quality>2</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Vireonidae</Family>
+  <Genus>Vireo</Genus>
+  <Species>leucophrys</Species>
+  <Sub-species />
+  <VernacularNames>Brown-capped Vireo</VernacularNames>
+</Audio>

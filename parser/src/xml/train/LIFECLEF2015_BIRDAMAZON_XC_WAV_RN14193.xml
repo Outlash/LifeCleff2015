@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>14193</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN14193.wav</FileName>
+  <ClassId>iangvt</ClassId>
+  <Date>2014-09-07</Date>
+  <Time>08:30</Time>
+  <Locality>Pueblo El Hatillo, San Juan de Capistrano, Anzoategui</Locality>
+  <Latitude>10.1234</Latitude>
+  <Longitude>-65.3668</Longitude>
+  <Elevation>0</Elevation>
+  <Author>Thore Noernberg</Author>
+  <AuthorID>TTSQGWDDGW</AuthorID>
+  <Content>call, song</Content>
+  <Comments>adult calling at a thorny bush area by the Unare Lagoonbird-seen:yesplayback-used:no</Comments>
+  <Quality>2</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Polioptilidae</Family>
+  <Genus>Polioptila</Genus>
+  <Species>plumbea</Species>
+  <Sub-species />
+  <VernacularNames>Tropical Gnatcatcher</VernacularNames>
+</Audio>

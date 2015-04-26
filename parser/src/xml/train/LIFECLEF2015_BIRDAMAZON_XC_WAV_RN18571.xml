@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>18571</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN18571.wav</FileName>
+  <ClassId>kojbjz</ClassId>
+  <Date>0000-00-00</Date>
+  <Time>8:00 AM</Time>
+  <Locality>San Lorenzo ridge</Locality>
+  <Latitude>11.1167</Latitude>
+  <Longitude>-74.0834</Longitude>
+  <Elevation>2500</Elevation>
+  <Author>Fabrice Schmitt</Author>
+  <AuthorID>FPAGKPAQYO</AuthorID>
+  <Content>?</Content>
+  <Comments>after playback</Comments>
+  <Quality>1</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Furnariidae</Family>
+  <Genus>Thripadectes</Genus>
+  <Species>flammulatus</Species>
+  <Sub-species>flammulatus</Sub-species>
+  <VernacularNames>Flammulated Treehunter</VernacularNames>
+</Audio>

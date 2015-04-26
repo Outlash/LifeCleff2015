@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>13998</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN13998.wav</FileName>
+  <ClassId>waknsi</ClassId>
+  <Date>2010-07-19</Date>
+  <Time>18:20</Time>
+  <Locality>Parque Ecológico da Raposa, Apucarana - PR</Locality>
+  <Latitude>-23.5339</Latitude>
+  <Longitude>-51.4178</Longitude>
+  <Elevation>750</Elevation>
+  <Author>Renan Campos de Oliveira</Author>
+  <AuthorID>SDARDTGGWP</AuthorID>
+  <Content>call</Content>
+  <Comments />
+  <Quality>1</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies />
+  <Order>Caprimulgiformes</Order>
+  <Family>Caprimulgidae</Family>
+  <Genus>Nyctidromus</Genus>
+  <Species>albicollis</Species>
+  <Sub-species />
+  <VernacularNames>Pauraque</VernacularNames>
+</Audio>

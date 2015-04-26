@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>22687</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN22687.wav</FileName>
+  <ClassId>jnqggx</ClassId>
+  <Date>2011-06-18</Date>
+  <Time>07:00</Time>
+  <Locality>RNA Arrierito Antioqueño, Anorí, Antioquia</Locality>
+  <Latitude>6.9862</Latitude>
+  <Longitude>-75.1251</Longitude>
+  <Elevation>1500</Elevation>
+  <Author>Andrew Spencer</Author>
+  <AuthorID>CDTGHVBGZP</AuthorID>
+  <Content>call</Content>
+  <Comments>in response to playback</Comments>
+  <Quality>1</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Furnariidae</Family>
+  <Genus>Glyphorynchus</Genus>
+  <Species>spirurus</Species>
+  <Sub-species>integratus?</Sub-species>
+  <VernacularNames>Wedge-billed Woodcreeper</VernacularNames>
+</Audio>

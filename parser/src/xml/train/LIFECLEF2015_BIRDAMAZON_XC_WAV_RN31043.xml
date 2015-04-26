@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>31043</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN31043.wav</FileName>
+  <ClassId>lzezgo</ClassId>
+  <Date>2011-02-27</Date>
+  <Time>10:30</Time>
+  <Locality>5 km NNE Guayabetal</Locality>
+  <Latitude>4.261</Latitude>
+  <Longitude>-73.81</Longitude>
+  <Elevation>2200</Elevation>
+  <Author>Niels Krabbe</Author>
+  <AuthorID>XTVEPHMPPJ</AuthorID>
+  <Content>end of song</Content>
+  <Comments />
+  <Quality>2</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Rhinocryptidae</Family>
+  <Genus>Scytalopus</Genus>
+  <Species>latrans</Species>
+  <Sub-species>eastern form</Sub-species>
+  <VernacularNames>Blackish Tapaculo</VernacularNames>
+</Audio>

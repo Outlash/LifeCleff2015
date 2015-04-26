@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>2810</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN2810.wav</FileName>
+  <ClassId>nntytu</ClassId>
+  <Date>2005-04-01</Date>
+  <Time>08:49</Time>
+  <Locality>Mata do Cedro, Usina Utinga Leão, Rio Largo, Alagoas</Locality>
+  <Latitude>NULL</Latitude>
+  <Longitude>NULL</Longitude>
+  <Elevation>39</Elevation>
+  <Author>Glauco Alves Pereira</Author>
+  <AuthorID>ZWEROGGYVP</AuthorID>
+  <Content>call</Content>
+  <Comments />
+  <Quality>2</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Thamnophilidae</Family>
+  <Genus>Pyriglena</Genus>
+  <Species>leuconota</Species>
+  <Sub-species>pernambucensis</Sub-species>
+  <VernacularNames>White-backed Fire-eye</VernacularNames>
+</Audio>

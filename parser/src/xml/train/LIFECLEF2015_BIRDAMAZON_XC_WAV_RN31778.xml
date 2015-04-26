@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>31778</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN31778.wav</FileName>
+  <ClassId>armfvy</ClassId>
+  <Date>1994-11-09</Date>
+  <Time>?</Time>
+  <Locality>Meta, Cabuyaro</Locality>
+  <Latitude>4.264167</Latitude>
+  <Longitude>-73.05</Longitude>
+  <Elevation>488</Elevation>
+  <Author>Gary Stiles (Colección de Sonidos Ambientales - Instituto Humboldt)</Author>
+  <AuthorID>XMFDPACYJN</AuthorID>
+  <Content>song</Content>
+  <Comments>BSA 11183To obtain a wav file of the original recording, please contact csa@humboldt.org.cobird-seen:yesplayback-used:no</Comments>
+  <Quality>1</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Tyrannidae</Family>
+  <Genus>Camptostoma</Genus>
+  <Species>obsoletum</Species>
+  <Sub-species />
+  <VernacularNames>Southern Beardless Tyrannulet</VernacularNames>
+</Audio>

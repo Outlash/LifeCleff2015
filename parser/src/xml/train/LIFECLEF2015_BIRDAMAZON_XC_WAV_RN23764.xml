@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>23764</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN23764.wav</FileName>
+  <ClassId>xoqhws</ClassId>
+  <Date>2005-04-14</Date>
+  <Time>08:00</Time>
+  <Locality>Araripe National Forest, Crato, Ceará State</Locality>
+  <Latitude>-7.2501</Latitude>
+  <Longitude>-39.5834</Longitude>
+  <Elevation>700</Elevation>
+  <Author>Ciro Albano</Author>
+  <AuthorID>MXVQPUKGWW</AuthorID>
+  <Content>song</Content>
+  <Comments />
+  <Quality>2</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Furnariidae</Family>
+  <Genus>Megaxenops</Genus>
+  <Species>parnaguae</Species>
+  <Sub-species />
+  <VernacularNames>Great Xenops</VernacularNames>
+</Audio>

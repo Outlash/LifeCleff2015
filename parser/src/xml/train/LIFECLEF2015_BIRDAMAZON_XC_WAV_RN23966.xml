@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>23966</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN23966.wav</FileName>
+  <ClassId>fwrnff</ClassId>
+  <Date>2012-02-14</Date>
+  <Time>14:16</Time>
+  <Locality>Reserva Natural Mesenia - Paramillo</Locality>
+  <Latitude>5.4828</Latitude>
+  <Longitude>-75.8959</Longitude>
+  <Elevation>2000</Elevation>
+  <Author>Oswaldo Cortes</Author>
+  <AuthorID>VVDRVZCVWW</AuthorID>
+  <Content>call</Content>
+  <Comments />
+  <Quality>0</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Apodiformes</Order>
+  <Family>Trochilidae</Family>
+  <Genus>Colibri</Genus>
+  <Species>thalassinus</Species>
+  <Sub-species />
+  <VernacularNames>Green Violetear</VernacularNames>
+</Audio>

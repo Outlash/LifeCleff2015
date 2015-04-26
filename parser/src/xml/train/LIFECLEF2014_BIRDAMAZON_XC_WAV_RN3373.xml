@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>3373</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN3373.wav</FileName>
+  <ClassId>xunfjj</ClassId>
+  <Date>2001-10-12</Date>
+  <Time>07:23</Time>
+  <Locality>Arujá, São Paulo</Locality>
+  <Latitude>-23.3001</Latitude>
+  <Longitude>-46.3501</Longitude>
+  <Elevation>700</Elevation>
+  <Author>Jeremy Minns</Author>
+  <AuthorID>DGVLLRYDXS</AuthorID>
+  <Content>Call</Content>
+  <Comments>S’tio Cruz da Pedra. Marsh between road and Rio Jaguari. This is Call D in our DVD-ROM 'Birds of Brazil'.</Comments>
+  <Quality>2</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies>Synallaxis spixi</BackgroundSpecies>
+  <Order>Passeriformes</Order>
+  <Family>Turdidae</Family>
+  <Genus>Turdus</Genus>
+  <Species>rufiventris</Species>
+  <Sub-species>rufiventris</Sub-species>
+  <VernacularNames>Rufous-bellied Thrush</VernacularNames>
+</Audio>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>1078</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN1078.wav</FileName>
+  <ClassId>bgqyzr</ClassId>
+  <Date>2010-05-18</Date>
+  <Time>16:59</Time>
+  <Locality>Pantanal do Miranda - MS</Locality>
+  <Latitude>-19.5512</Latitude>
+  <Longitude>-57.012</Longitude>
+  <Elevation>100</Elevation>
+  <Author>Renan Campos de Oliveira</Author>
+  <AuthorID>SDARDTGGWP</AuthorID>
+  <Content>call</Content>
+  <Comments />
+  <Quality>1</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies />
+  <Order>Galliformes</Order>
+  <Family>Cracidae</Family>
+  <Genus>Crax</Genus>
+  <Species>fasciolata</Species>
+  <Sub-species />
+  <VernacularNames>Bare-faced Curassow</VernacularNames>
+</Audio>

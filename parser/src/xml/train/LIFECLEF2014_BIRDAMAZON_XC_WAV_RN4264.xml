@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>4264</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN4264.wav</FileName>
+  <ClassId>ixjdrc</ClassId>
+  <Date>2013-02-03</Date>
+  <Time>07:30</Time>
+  <Locality>Linhares, Espirito Santo</Locality>
+  <Latitude>-19.4148</Latitude>
+  <Longitude>-40.188</Longitude>
+  <Elevation>50</Elevation>
+  <Author>Noé Eiterer</Author>
+  <AuthorID>TWSKITNQOV</AuthorID>
+  <Content>song</Content>
+  <Comments>bird-seen:yesplayback-used:yes</Comments>
+  <Quality>3</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Pipridae</Family>
+  <Genus>Dixiphia</Genus>
+  <Species>rubrocapilla</Species>
+  <Sub-species />
+  <VernacularNames>Red-headed Manakin</VernacularNames>
+</Audio>

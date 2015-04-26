@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>6236</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN6236.wav</FileName>
+  <ClassId>liclqi</ClassId>
+  <Date>2012-08-09</Date>
+  <Time>07:30</Time>
+  <Locality>Tapauá, Amazonas</Locality>
+  <Latitude>-5.6909</Latitude>
+  <Longitude>-63.2057</Longitude>
+  <Elevation>70</Elevation>
+  <Author>GABRIEL LEITE</Author>
+  <AuthorID>TGBFXDVERJ</AuthorID>
+  <Content>song</Content>
+  <Comments>bird-seen:yesplayback-used:yes</Comments>
+  <Quality>2</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Furnariidae</Family>
+  <Genus>Dendrexetastes</Genus>
+  <Species>rufigula</Species>
+  <Sub-species />
+  <VernacularNames>Cinnamon-throated Woodcreeper</VernacularNames>
+</Audio>

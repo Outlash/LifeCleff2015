@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>27860</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN27860.wav</FileName>
+  <ClassId>nlvpld</ClassId>
+  <Date>2011-02-25</Date>
+  <Time>6:20</Time>
+  <Locality>Conbeima canyon. Ibague. Tolima</Locality>
+  <Latitude>4.383</Latitude>
+  <Longitude>-75.328</Longitude>
+  <Elevation>1700</Elevation>
+  <Author>Pablo Florez</Author>
+  <AuthorID>ISWBQKPBGS</AuthorID>
+  <Content>?</Content>
+  <Comments />
+  <Quality>2</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Columbiformes</Order>
+  <Family>Columbidae</Family>
+  <Genus>Leptotila</Genus>
+  <Species>conoveri</Species>
+  <Sub-species />
+  <VernacularNames>Tolima Dove</VernacularNames>
+</Audio>

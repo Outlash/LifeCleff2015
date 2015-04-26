@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>7952</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN7952.wav</FileName>
+  <ClassId>ryckte</ClassId>
+  <Date>2004-03-23</Date>
+  <Time>06:56</Time>
+  <Locality>Jaqueira Private Reserve, State of Pernambuco</Locality>
+  <Latitude>-8.72667</Latitude>
+  <Longitude>-35.79333</Longitude>
+  <Elevation>700</Elevation>
+  <Author>Jeremy Minns</Author>
+  <AuthorID>DGVLLRYDXS</AuthorID>
+  <Content>Call</Content>
+  <Comments>Humid forest. This is Call B in our DVD-ROM 'Birds of Brazil'.</Comments>
+  <Quality>1</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies>Chiroxiphia pareola</BackgroundSpecies>
+  <Order>Passeriformes</Order>
+  <Family>Thamnophilidae</Family>
+  <Genus>Drymophila</Genus>
+  <Species>squamata</Species>
+  <Sub-species>squamata</Sub-species>
+  <VernacularNames>Scaled Antbird</VernacularNames>
+</Audio>

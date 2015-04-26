@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>31886</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN31886.wav</FileName>
+  <ClassId>vsywgi</ClassId>
+  <Date>1997-09-05</Date>
+  <Time>08:48</Time>
+  <Locality>Cristalino Jungle Lodge, MT</Locality>
+  <Latitude>-9.5981</Latitude>
+  <Longitude>-55.932</Longitude>
+  <Elevation>250</Elevation>
+  <Author>Jeremy Minns</Author>
+  <AuthorID>DGVLLRYDXS</AuthorID>
+  <Content>call</Content>
+  <Comments>Castanheiras trail. Terra firme forest.</Comments>
+  <Quality>2</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Psittaciformes</Order>
+  <Family>Psittacidae</Family>
+  <Genus>Ara</Genus>
+  <Species>macao</Species>
+  <Sub-species />
+  <VernacularNames>Scarlet Macaw</VernacularNames>
+</Audio>

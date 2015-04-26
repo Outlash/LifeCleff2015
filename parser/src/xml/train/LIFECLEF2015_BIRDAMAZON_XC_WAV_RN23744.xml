@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>23744</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN23744.wav</FileName>
+  <ClassId>uhwmky</ClassId>
+  <Date>2007-04-29</Date>
+  <Time>?</Time>
+  <Locality>RNA Reinita Cielo Azul, San Vicente de Chucuri, Santander</Locality>
+  <Latitude>6.8464</Latitude>
+  <Longitude>-73.3751</Longitude>
+  <Elevation>1600</Elevation>
+  <Author>Frank Lambert</Author>
+  <AuthorID>YTUXOCTUEM</AuthorID>
+  <Content>call?</Content>
+  <Comments>Certainty: 90%. Bird not seen.</Comments>
+  <Quality>0</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Tyrannidae</Family>
+  <Genus>Lophotriccus</Genus>
+  <Species>pileatus</Species>
+  <Sub-species />
+  <VernacularNames>Scale-crested Pygmy Tyrant</VernacularNames>
+</Audio>

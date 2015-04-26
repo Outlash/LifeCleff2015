@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>2024</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN2024.wav</FileName>
+  <ClassId>gcyzcu</ClassId>
+  <Date>2001-11-10</Date>
+  <Time>07:44</Time>
+  <Locality>Mata do Crasto, Município de Santa Luzia do Itanhy, Sergipe</Locality>
+  <Latitude>-11.3834</Latitude>
+  <Longitude>-37.4001</Longitude>
+  <Elevation>10</Elevation>
+  <Author>Jeremy Minns</Author>
+  <AuthorID>DGVLLRYDXS</AuthorID>
+  <Content>Calls, perched</Content>
+  <Comments>Coconut palm plantation near Crasto. Pair. In background Masked Titi Monkey (Callicebus personatus).</Comments>
+  <Quality>2</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies>Gnorimopsar chopi</BackgroundSpecies>
+  <Order>Psittaciformes</Order>
+  <Family>Psittacidae</Family>
+  <Genus>Diopsittaca</Genus>
+  <Species>nobilis</Species>
+  <Sub-species>cumanensis</Sub-species>
+  <VernacularNames>Red-shouldered Macaw</VernacularNames>
+</Audio>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>24925</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN24925.wav</FileName>
+  <ClassId>cnkibe</ClassId>
+  <Date>2013-12-28</Date>
+  <Time>06:30</Time>
+  <Locality>Intervales State Park. Mirante</Locality>
+  <Latitude>-24.2667</Latitude>
+  <Longitude>-48.4001</Longitude>
+  <Elevation>900</Elevation>
+  <Author>Rodrigo Dela Rosa</Author>
+  <AuthorID>VGXDJMKETZ</AuthorID>
+  <Content>song</Content>
+  <Comments>bird-seen:yesplayback-used:yes</Comments>
+  <Quality>2</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies>Lathrotriccus euleri,Odontophorus capueira,Tinamus solitarius,Turdus albicollis</BackgroundSpecies>
+  <Order>Passeriformes</Order>
+  <Family>Furnariidae</Family>
+  <Genus>Heliobletus</Genus>
+  <Species>contaminatus</Species>
+  <Sub-species />
+  <VernacularNames>Sharp-billed Treehunter</VernacularNames>
+</Audio>

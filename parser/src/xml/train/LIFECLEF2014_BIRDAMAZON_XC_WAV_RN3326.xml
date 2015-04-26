@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>3326</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN3326.wav</FileName>
+  <ClassId>fmdsaj</ClassId>
+  <Date>2000-11-21</Date>
+  <Time>07:07</Time>
+  <Locality>Parque Nacional da Amazônia</Locality>
+  <Latitude>-4.5167</Latitude>
+  <Longitude>-56.3001</Longitude>
+  <Elevation>90</Elevation>
+  <Author>Jeremy Minns</Author>
+  <AuthorID>DGVLLRYDXS</AuthorID>
+  <Content>song</Content>
+  <Comments>ssp. presumed from location. Tracoá trail. Transitional forest beside igarapé. In canopy. bird-seen:noplayback-used:no</Comments>
+  <Quality>3</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies>Cantorchilus leucotis,Crypturellus cinereus</BackgroundSpecies>
+  <Order>Passeriformes</Order>
+  <Family>Tyrannidae</Family>
+  <Genus>Piprites</Genus>
+  <Species>chloris</Species>
+  <Sub-species>chlorion</Sub-species>
+  <VernacularNames>Wing-barred Piprites</VernacularNames>
+</Audio>

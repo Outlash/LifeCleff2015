@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>8125</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN8125.wav</FileName>
+  <ClassId>thrclx</ClassId>
+  <Date>2013-10-11</Date>
+  <Time>08:00</Time>
+  <Locality>Fazenda Country, Canavieiras, Bahia state</Locality>
+  <Latitude>-15.4236</Latitude>
+  <Longitude>-39.0067</Longitude>
+  <Elevation>50</Elevation>
+  <Author>Antonio Silveira</Author>
+  <AuthorID>NBJQSQJRYH</AuthorID>
+  <Content>male, song</Content>
+  <Comments>Male call (first) and sing after.  in the open area after playback. in the background sound of Manacus manacus.bird-seen:yesplayback-used:yes</Comments>
+  <Quality>0</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies>Manacus manacus</BackgroundSpecies>
+  <Order>Passeriformes</Order>
+  <Family>Thamnophilidae</Family>
+  <Genus>Formicivora</Genus>
+  <Species>grisea</Species>
+  <Sub-species />
+  <VernacularNames>Southern White-fringed Antwren</VernacularNames>
+</Audio>

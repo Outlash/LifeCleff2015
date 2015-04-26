@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>23868</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN23868.wav</FileName>
+  <ClassId>mddteh</ClassId>
+  <Date>2011-01-23</Date>
+  <Time>10:05</Time>
+  <Locality>Tapajos National Forest, Bacia 363, Santarem</Locality>
+  <Latitude>-3.294</Latitude>
+  <Longitude>-54.998</Longitude>
+  <Elevation>?</Elevation>
+  <Author>Alexander Lees</Author>
+  <AuthorID>INDDBZAFJL</AuthorID>
+  <Content>song</Content>
+  <Comments>undisturbed primary forest</Comments>
+  <Quality>2</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies>Ramphastos tucanus,Ramphastos vitellinus</BackgroundSpecies>
+  <Order>Passeriformes</Order>
+  <Family>Tyrannidae</Family>
+  <Genus>Myiopagis</Genus>
+  <Species>gaimardii</Species>
+  <Sub-species>gaimardii</Sub-species>
+  <VernacularNames>Forest Elaenia</VernacularNames>
+</Audio>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>18870</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN18870.wav</FileName>
+  <ClassId>aiwvzm</ClassId>
+  <Date>2014-01-11</Date>
+  <Time>09:00</Time>
+  <Locality>Hotel Donati, Itatiaia NP, Rio de Janeiro state</Locality>
+  <Latitude>-22.4334</Latitude>
+  <Longitude>-44.6334</Longitude>
+  <Elevation>1500</Elevation>
+  <Author>Antonio Silveira</Author>
+  <AuthorID>NBJQSQJRYH</AuthorID>
+  <Content>song</Content>
+  <Comments>Bird singing in Atlantic Rainforest. Birding with biol. Bruno Lima invited to collaborate with my project Birds of Itatiaia NP.bird-seen:yesplayback-used:no""</Comments>
+  <Quality>3</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Furnariidae</Family>
+  <Genus>Cranioleuca</Genus>
+  <Species>pallida</Species>
+  <Sub-species />
+  <VernacularNames>Pallid Spinetail</VernacularNames>
+</Audio>

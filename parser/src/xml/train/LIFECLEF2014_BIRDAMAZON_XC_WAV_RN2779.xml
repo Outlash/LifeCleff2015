@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>2779</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN2779.wav</FileName>
+  <ClassId>jfkqxa</ClassId>
+  <Date>2009-05-13</Date>
+  <Time>?</Time>
+  <Locality>Itajaí-mirim, Parque Nacional da Serra do Itajaí, Presidente Nereu, Santa Catarina</Locality>
+  <Latitude>-27.247</Latitude>
+  <Longitude>-49.287</Longitude>
+  <Elevation>450</Elevation>
+  <Author>Adrian Eisen Rupp</Author>
+  <AuthorID>AOPMSCIDIA</AuthorID>
+  <Content>drum call</Content>
+  <Comments />
+  <Quality>2</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies />
+  <Order>Piciformes</Order>
+  <Family>Picidae</Family>
+  <Genus>Dryocopus</Genus>
+  <Species>lineatus</Species>
+  <Sub-species />
+  <VernacularNames>Lineated Woodpecker</VernacularNames>
+</Audio>

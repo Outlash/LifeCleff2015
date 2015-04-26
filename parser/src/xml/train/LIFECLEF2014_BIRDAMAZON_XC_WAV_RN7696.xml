@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>7696</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN7696.wav</FileName>
+  <ClassId>mztxid</ClassId>
+  <Date>2011-12-07</Date>
+  <Time>09:00</Time>
+  <Locality>Banhado do Maçarico region, Rio Grande, Rio Grande do Sul</Locality>
+  <Latitude>-32.533</Latitude>
+  <Longitude>-52.483</Longitude>
+  <Elevation>18</Elevation>
+  <Author>Rafael Antunes Dias</Author>
+  <AuthorID>XJSWEWQCEC</AuthorID>
+  <Content>song</Content>
+  <Comments>After playback, in eucalyptus grove in grassland-wetland mosaic</Comments>
+  <Quality>2</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies>Pitangus sulphuratus</BackgroundSpecies>
+  <Order>Passeriformes</Order>
+  <Family>Thraupidae</Family>
+  <Genus>Thraupis</Genus>
+  <Species>sayaca</Species>
+  <Sub-species />
+  <VernacularNames>Sayaca Tanager</VernacularNames>
+</Audio>

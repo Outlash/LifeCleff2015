@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>1525</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN1525.wav</FileName>
+  <ClassId>tpwgoq</ClassId>
+  <Date>2008-11-05</Date>
+  <Time>15:00</Time>
+  <Locality>Matarazzo - Arroio Grande, Rio Grande do Sul</Locality>
+  <Latitude>NULL</Latitude>
+  <Longitude>NULL</Longitude>
+  <Elevation>80</Elevation>
+  <Author>Fernando Jacobs</Author>
+  <AuthorID>MHHPJBCUXC</AuthorID>
+  <Content>duet, song</Content>
+  <Comments>low quality. recorded with mp3 player</Comments>
+  <Quality>0</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies>Myiopsitta monachus,Furnarius rufus,Zonotrichia capensis,Troglodytes aedon,Sicalis flaveola,Pitangus sulphuratus</BackgroundSpecies>
+  <Order>Passeriformes</Order>
+  <Family>Icteridae</Family>
+  <Genus>Gnorimopsar</Genus>
+  <Species>chopi</Species>
+  <Sub-species />
+  <VernacularNames>Chopi Blackbird</VernacularNames>
+</Audio>

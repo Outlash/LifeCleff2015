@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>6213</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN6213.wav</FileName>
+  <ClassId>pzlgrh</ClassId>
+  <Date>2009-11-01</Date>
+  <Time>08:28</Time>
+  <Locality>Parque Municipal Nove de Julho, São Paulo, SP</Locality>
+  <Latitude>-23.7192</Latitude>
+  <Longitude>-46.717</Longitude>
+  <Elevation>760</Elevation>
+  <Author>Marcos Melo</Author>
+  <AuthorID>MRGDYNJGUJ</AuthorID>
+  <Content>flight call</Content>
+  <Comments>36 individuals flying in circles above of my head</Comments>
+  <Quality>2</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies>Pitangus sulphuratus</BackgroundSpecies>
+  <Order>Psittaciformes</Order>
+  <Family>Psittacidae</Family>
+  <Genus>Brotogeris</Genus>
+  <Species>tirica</Species>
+  <Sub-species />
+  <VernacularNames>Plain Parakeet</VernacularNames>
+</Audio>

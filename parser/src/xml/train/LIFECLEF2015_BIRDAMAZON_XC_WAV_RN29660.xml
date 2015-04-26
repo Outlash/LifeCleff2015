@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>29660</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN29660.wav</FileName>
+  <ClassId>bnwtxt</ClassId>
+  <Date>2009-11-06</Date>
+  <Time>10:00</Time>
+  <Locality>Estação de Pesquisa do Canguçu - Pium - Tocantins State</Locality>
+  <Latitude>-9.9826</Latitude>
+  <Longitude>-50.0151</Longitude>
+  <Elevation>180</Elevation>
+  <Author>GABRIEL LEITE</Author>
+  <AuthorID>TGBFXDVERJ</AuthorID>
+  <Content>male, song</Content>
+  <Comments>bird-seen:yesplayback-used:no</Comments>
+  <Quality>2</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Piciformes</Order>
+  <Family>Galbulidae</Family>
+  <Genus>Brachygalba</Genus>
+  <Species>lugubris</Species>
+  <Sub-species />
+  <VernacularNames>Brown Jacamar</VernacularNames>
+</Audio>

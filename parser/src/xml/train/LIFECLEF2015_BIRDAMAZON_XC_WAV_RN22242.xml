@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>22242</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN22242.wav</FileName>
+  <ClassId>baleaf</ClassId>
+  <Date>2014-03-17</Date>
+  <Time>10:30</Time>
+  <Locality>Chupinguaia, Rondônia</Locality>
+  <Latitude>-12.2417</Latitude>
+  <Longitude>-60.7141</Longitude>
+  <Elevation>340</Elevation>
+  <Author>GABRIEL LEITE</Author>
+  <AuthorID>TGBFXDVERJ</AuthorID>
+  <Content>call, female, flight call, male</Content>
+  <Comments>bird-seen:yesplayback-used:no</Comments>
+  <Quality>2</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies>Formicarius colma</BackgroundSpecies>
+  <Order>Passeriformes</Order>
+  <Family>Thraupidae</Family>
+  <Genus>Tangara</Genus>
+  <Species>chilensis</Species>
+  <Sub-species />
+  <VernacularNames>Paradise Tanager</VernacularNames>
+</Audio>

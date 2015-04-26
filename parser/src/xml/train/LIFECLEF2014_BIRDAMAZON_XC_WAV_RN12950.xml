@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>12950</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN12950.wav</FileName>
+  <ClassId>jgbztp</ClassId>
+  <Date>2006-06-22</Date>
+  <Time>08:30</Time>
+  <Locality>10km north of Sumidouro, RJ</Locality>
+  <Latitude>-21.9439</Latitude>
+  <Longitude>-42.692</Longitude>
+  <Elevation>300</Elevation>
+  <Author>Nick Athanas</Author>
+  <AuthorID>XRABICUARW</AuthorID>
+  <Content>call</Content>
+  <Comments>Calls from a male. These are the high-pitched notes. I don't know what the lower-pitched notes are.</Comments>
+  <Quality>1</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Thraupidae</Family>
+  <Genus>Tiaris</Genus>
+  <Species>fuliginosus</Species>
+  <Sub-species />
+  <VernacularNames>Sooty Grassquit</VernacularNames>
+</Audio>

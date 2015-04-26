@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>11697</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN11697.wav</FileName>
+  <ClassId>jgbztp</ClassId>
+  <Date>2007-09-08</Date>
+  <Time>06:30</Time>
+  <Locality>Vargem Grande - Teresópolis - RJ</Locality>
+  <Latitude>-22.3751</Latitude>
+  <Longitude>-42.8751</Longitude>
+  <Elevation>900</Elevation>
+  <Author>Ricardo Gagliardi</Author>
+  <AuthorID>YRDADNREOP</AuthorID>
+  <Content>call</Content>
+  <Comments />
+  <Quality>2</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies>Chiroxiphia caudata,Sporophila falcirostris</BackgroundSpecies>
+  <Order>Passeriformes</Order>
+  <Family>Thraupidae</Family>
+  <Genus>Tiaris</Genus>
+  <Species>fuliginosus</Species>
+  <Sub-species />
+  <VernacularNames>Sooty Grassquit</VernacularNames>
+</Audio>

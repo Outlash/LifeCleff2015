@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>5950</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN5950.wav</FileName>
+  <ClassId>prpzcg</ClassId>
+  <Date>2002-06-07</Date>
+  <Time>9:55</Time>
+  <Locality>Fazenda Santa Teresa, Rio Pixiam, MT</Locality>
+  <Latitude>-16.7501</Latitude>
+  <Longitude>-56.8667</Longitude>
+  <Elevation>?</Elevation>
+  <Author>Paul Donahue</Author>
+  <AuthorID>LLRXADGTBA</AuthorID>
+  <Content>call</Content>
+  <Comments>two types of calls</Comments>
+  <Quality>1</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies>Poecilotriccus latirostris,Cyanocorax cyanomelas</BackgroundSpecies>
+  <Order>Passeriformes</Order>
+  <Family>Pipridae</Family>
+  <Genus>Antilophia</Genus>
+  <Species>galeata</Species>
+  <Sub-species />
+  <VernacularNames>Helmeted Manakin</VernacularNames>
+</Audio>

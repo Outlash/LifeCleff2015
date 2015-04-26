@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>32796</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN32796.wav</FileName>
+  <ClassId>bfwjif</ClassId>
+  <Date>2000-00-00</Date>
+  <Time>07:00</Time>
+  <Locality>Municipio de Galan (Santander)</Locality>
+  <Latitude>4.611331</Latitude>
+  <Longitude>-74.3153</Longitude>
+  <Elevation>2010</Elevation>
+  <Author>Oswaldo Cortes y Giovanni Chaves</Author>
+  <AuthorID>VVDRVZCVWW</AuthorID>
+  <Content>call</Content>
+  <Comments />
+  <Quality>2</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Galliformes</Order>
+  <Family>Odontophoridae</Family>
+  <Genus>Odontophorus</Genus>
+  <Species>strophium</Species>
+  <Sub-species />
+  <VernacularNames>Gorgeted Wood Quail</VernacularNames>
+</Audio>

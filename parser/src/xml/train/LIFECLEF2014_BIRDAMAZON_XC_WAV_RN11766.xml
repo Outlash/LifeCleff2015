@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>11766</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN11766.wav</FileName>
+  <ClassId>mfiwku</ClassId>
+  <Date>2002-11-30</Date>
+  <Time>06:57</Time>
+  <Locality>Planície Alta, SC</Locality>
+  <Latitude>-27.0667</Latitude>
+  <Longitude>-49.01</Longitude>
+  <Elevation>1350</Elevation>
+  <Author>Jeremy Minns</Author>
+  <AuthorID>DGVLLRYDXS</AuthorID>
+  <Content>Call</Content>
+  <Comments>Degraded secondary growth near humid submontane forest. An atypical habit for this species which is usually found in coastal forest on white sand.</Comments>
+  <Quality>2</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies>Vireo olivaceus</BackgroundSpecies>
+  <Order>Passeriformes</Order>
+  <Family>Tyrannidae</Family>
+  <Genus>Phylloscartes</Genus>
+  <Species>kronei</Species>
+  <Sub-species />
+  <VernacularNames>Restinga Tyrannulet</VernacularNames>
+</Audio>

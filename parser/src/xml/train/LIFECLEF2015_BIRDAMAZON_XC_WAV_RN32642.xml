@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>32642</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN32642.wav</FileName>
+  <ClassId>hultky</ClassId>
+  <Date>2008-12-30</Date>
+  <Time>?:?</Time>
+  <Locality>Mana, piste ONF Dardanelles</Locality>
+  <Latitude>5.649811</Latitude>
+  <Longitude>-53.814468</Longitude>
+  <Elevation>35</Elevation>
+  <Author>Alexandre Renaudier</Author>
+  <AuthorID>GKADEITXTH</AuthorID>
+  <Content>song, wing noise and calls at colony</Content>
+  <Comments>natural recording</Comments>
+  <Quality>2</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Icteridae</Family>
+  <Genus>Psarocolius</Genus>
+  <Species>viridis</Species>
+  <Sub-species />
+  <VernacularNames>Green Oropendola</VernacularNames>
+</Audio>

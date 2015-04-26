@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>11644</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN11644.wav</FileName>
+  <ClassId>enwiay</ClassId>
+  <Date>2003-04-20</Date>
+  <Time>15:00</Time>
+  <Locality>Porteiras, Altinho, Pernambuco</Locality>
+  <Latitude>-8.3</Latitude>
+  <Longitude>-37.75</Longitude>
+  <Elevation>460</Elevation>
+  <Author>Glauco Alves Pereira</Author>
+  <AuthorID>ZWEROGGYVP</AuthorID>
+  <Content>Long song</Content>
+  <Comments>Caatinga habitat</Comments>
+  <Quality>3</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies />
+  <Order>Tinamiformes</Order>
+  <Family>Tinamidae</Family>
+  <Genus>Crypturellus</Genus>
+  <Species>tataupa</Species>
+  <Sub-species>lepidotus</Sub-species>
+  <VernacularNames>Tataupa Tinamou</VernacularNames>
+</Audio>

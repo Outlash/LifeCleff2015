@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>18614</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN18614.wav</FileName>
+  <ClassId>bpyrxb</ClassId>
+  <Date>2012-06-27</Date>
+  <Time>08:57</Time>
+  <Locality>San Jose de Guaviare - Departamento del Guaviare</Locality>
+  <Latitude>2.667</Latitude>
+  <Longitude>-72.6148</Longitude>
+  <Elevation>50</Elevation>
+  <Author>Oswaldo Cortes</Author>
+  <AuthorID>VVDRVZCVWW</AuthorID>
+  <Content>song</Content>
+  <Comments />
+  <Quality>2</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Tyrannidae</Family>
+  <Genus>Myiornis</Genus>
+  <Species>ecaudatus</Species>
+  <Sub-species />
+  <VernacularNames>Short-tailed Pygmy Tyrant</VernacularNames>
+</Audio>

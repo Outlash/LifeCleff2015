@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>9392</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN9392.wav</FileName>
+  <ClassId>uvsyop</ClassId>
+  <Date>2007-08-00</Date>
+  <Time>am</Time>
+  <Locality>Parque Estadual Mata dos Godoy, Londrina, Parana</Locality>
+  <Latitude>-23.4501</Latitude>
+  <Longitude>-51.2334</Longitude>
+  <Elevation>500</Elevation>
+  <Author>Eduardo Patrial</Author>
+  <AuthorID>QEFRRVCRRP</AuthorID>
+  <Content>song?</Content>
+  <Comments />
+  <Quality>2</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies>Cyclarhis gujanensis</BackgroundSpecies>
+  <Order>Apodiformes</Order>
+  <Family>Trochilidae</Family>
+  <Genus>Thalurania</Genus>
+  <Species>glaucopis</Species>
+  <Sub-species />
+  <VernacularNames>Violet-capped Woodnymph</VernacularNames>
+</Audio>

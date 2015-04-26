@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>13041</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN13041.wav</FileName>
+  <ClassId>gcyuvy</ClassId>
+  <Date>2010-07-24</Date>
+  <Time>07:15</Time>
+  <Locality>Presidente Figueiredo, Amazonas</Locality>
+  <Latitude>-2.028</Latitude>
+  <Longitude>-59.997</Longitude>
+  <Elevation>50</Elevation>
+  <Author>Marcos Melo</Author>
+  <AuthorID>MRGDYNJGUJ</AuthorID>
+  <Content>calls or alarm</Content>
+  <Comments />
+  <Quality>2</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Tyrannidae</Family>
+  <Genus>Attila</Genus>
+  <Species>spadiceus</Species>
+  <Sub-species />
+  <VernacularNames>Bright-rumped Attila</VernacularNames>
+</Audio>

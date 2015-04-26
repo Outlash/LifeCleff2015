@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>31859</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN31859.wav</FileName>
+  <ClassId>glsklv</ClassId>
+  <Date>2012-01-12</Date>
+  <Time>11:00</Time>
+  <Locality>Surama Ecolodge</Locality>
+  <Latitude>4.0286587193699</Latitude>
+  <Longitude>-59.002075195312</Longitude>
+  <Elevation>100</Elevation>
+  <Author>Niels Poul Dreyer</Author>
+  <AuthorID>YIQSVPAMDQ</AuthorID>
+  <Content>song</Content>
+  <Comments>Iwokrama River Lodge, Turtle Mt</Comments>
+  <Quality>0</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Tyrannidae</Family>
+  <Genus>Platyrinchus</Genus>
+  <Species>saturatus</Species>
+  <Sub-species />
+  <VernacularNames>Cinnamon-crested Spadebill</VernacularNames>
+</Audio>

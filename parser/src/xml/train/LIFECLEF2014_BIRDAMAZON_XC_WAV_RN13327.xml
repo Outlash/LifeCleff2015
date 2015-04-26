@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>13327</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN13327.wav</FileName>
+  <ClassId>nrzcow</ClassId>
+  <Date>2009-04-22</Date>
+  <Time>08:47</Time>
+  <Locality>Fazenda Santa Tereza, Rio Pixaim, Mato Grosso</Locality>
+  <Latitude>-16.7501</Latitude>
+  <Longitude>-56.8501</Longitude>
+  <Elevation>?</Elevation>
+  <Author>Paul Donahue</Author>
+  <AuthorID>LLRXADGTBA</AuthorID>
+  <Content>call</Content>
+  <Comments />
+  <Quality>2</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies>Caracara plancus,Furnarius rufus,Furnarius rufus</BackgroundSpecies>
+  <Order>Piciformes</Order>
+  <Family>Picidae</Family>
+  <Genus>Colaptes</Genus>
+  <Species>campestris</Species>
+  <Sub-species />
+  <VernacularNames>Campo Flicker</VernacularNames>
+</Audio>

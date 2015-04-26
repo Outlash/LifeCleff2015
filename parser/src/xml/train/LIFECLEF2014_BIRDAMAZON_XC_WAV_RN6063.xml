@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>6063</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN6063.wav</FileName>
+  <ClassId>hdkmhj</ClassId>
+  <Date>2010-04-21</Date>
+  <Time>08:00</Time>
+  <Locality>Parque Municipal Nove de Julho, São Paulo, SP</Locality>
+  <Latitude>-23.7192</Latitude>
+  <Longitude>-46.717</Longitude>
+  <Elevation>760</Elevation>
+  <Author>Marcos Melo</Author>
+  <AuthorID>MRGDYNJGUJ</AuthorID>
+  <Content>song</Content>
+  <Comments>displaycouple</Comments>
+  <Quality>3</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Tyrannidae</Family>
+  <Genus>Fluvicola</Genus>
+  <Species>nengeta</Species>
+  <Sub-species />
+  <VernacularNames>Masked Water Tyrant</VernacularNames>
+</Audio>

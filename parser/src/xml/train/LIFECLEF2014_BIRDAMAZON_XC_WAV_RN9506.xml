@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>9506</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN9506.wav</FileName>
+  <ClassId>cyghvw</ClassId>
+  <Date>2013-07-10</Date>
+  <Time>05:30</Time>
+  <Locality>Silves, Amazonas</Locality>
+  <Latitude>-2.9578</Latitude>
+  <Longitude>-58.348</Longitude>
+  <Elevation>30</Elevation>
+  <Author>Thiago Bicudo</Author>
+  <AuthorID>VPCOOSQDRP</AuthorID>
+  <Content>call</Content>
+  <Comments>bird-seen:noplayback-used:no</Comments>
+  <Quality>2</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies />
+  <Order>Falconiformes</Order>
+  <Family>Falconidae</Family>
+  <Genus>Micrastur</Genus>
+  <Species>semitorquatus</Species>
+  <Sub-species />
+  <VernacularNames>Collared Forest Falcon</VernacularNames>
+</Audio>

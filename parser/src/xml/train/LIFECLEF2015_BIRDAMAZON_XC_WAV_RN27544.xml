@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>27544</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN27544.wav</FileName>
+  <ClassId>hzpdik</ClassId>
+  <Date>2006-11-03</Date>
+  <Time>11:30</Time>
+  <Locality>Parque Dois Irmãos, Recife, Pernambuco</Locality>
+  <Latitude>-8.0539</Latitude>
+  <Longitude>-34.8809</Longitude>
+  <Elevation>60</Elevation>
+  <Author>Glauco Alves Pereira</Author>
+  <AuthorID>ZWEROGGYVP</AuthorID>
+  <Content>call</Content>
+  <Comments>couple in the edge of forest</Comments>
+  <Quality>0</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies>Porphyrio martinicus</BackgroundSpecies>
+  <Order>Passeriformes</Order>
+  <Family>Thraupidae</Family>
+  <Genus>Chlorophanes</Genus>
+  <Species>spiza</Species>
+  <Sub-species>axillaris</Sub-species>
+  <VernacularNames>Green Honeycreeper</VernacularNames>
+</Audio>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>24718</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN24718.wav</FileName>
+  <ClassId>jjeesd</ClassId>
+  <Date>2014-06-22</Date>
+  <Time>13:30</Time>
+  <Locality>Libano, Tolima</Locality>
+  <Latitude>4.9093</Latitude>
+  <Longitude>-75.0465</Longitude>
+  <Elevation>1500</Elevation>
+  <Author>Jeisson Poveda</Author>
+  <AuthorID>CVJNYXJFAW</AuthorID>
+  <Content>song</Content>
+  <Comments>Male vocalizingbird-seen:yesplayback-used:no</Comments>
+  <Quality>3</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Cardinalidae</Family>
+  <Genus>Cyanocompsa</Genus>
+  <Species>cyanoides</Species>
+  <Sub-species />
+  <VernacularNames>Blue-black Grosbeak</VernacularNames>
+</Audio>

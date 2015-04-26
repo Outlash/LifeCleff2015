@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>4027</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN4027.wav</FileName>
+  <ClassId>gsmjhm</ClassId>
+  <Date>2009-04-26</Date>
+  <Time>08:20</Time>
+  <Locality>Tijuca National Park - RJ</Locality>
+  <Latitude>-22.9567</Latitude>
+  <Longitude>-43.2806</Longitude>
+  <Elevation>550</Elevation>
+  <Author>Ricardo Gagliardi</Author>
+  <AuthorID>YRDADNREOP</AuthorID>
+  <Content>flight call</Content>
+  <Comments />
+  <Quality>0</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies>Conopophaga melanops,Ramphastos vitellinus</BackgroundSpecies>
+  <Order>Psittaciformes</Order>
+  <Family>Psittacidae</Family>
+  <Genus>Pyrrhura</Genus>
+  <Species>frontalis</Species>
+  <Sub-species />
+  <VernacularNames>Maroon-bellied Parakeet</VernacularNames>
+</Audio>

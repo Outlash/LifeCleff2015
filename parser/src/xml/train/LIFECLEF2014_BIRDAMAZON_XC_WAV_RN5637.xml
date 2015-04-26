@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>5637</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN5637.wav</FileName>
+  <ClassId>xunfjj</ClassId>
+  <Date>2002-11-28</Date>
+  <Time>08:52</Time>
+  <Locality>Santa Catarina, near Urubici</Locality>
+  <Latitude>-27.83</Latitude>
+  <Longitude>-49.58</Longitude>
+  <Elevation>915</Elevation>
+  <Author>Jeremy Minns</Author>
+  <AuthorID>DGVLLRYDXS</AuthorID>
+  <Content>Call</Content>
+  <Comments>Edge of humid submontane forest with much bamboo. This is Call F in our DVD-ROM 'Birds of Brazil'.</Comments>
+  <Quality>2</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies>Pipraeidea melanonota</BackgroundSpecies>
+  <Order>Passeriformes</Order>
+  <Family>Turdidae</Family>
+  <Genus>Turdus</Genus>
+  <Species>rufiventris</Species>
+  <Sub-species>rufiventris</Sub-species>
+  <VernacularNames>Rufous-bellied Thrush</VernacularNames>
+</Audio>

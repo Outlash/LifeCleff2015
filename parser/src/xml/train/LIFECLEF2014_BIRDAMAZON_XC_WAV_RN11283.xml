@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>11283</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN11283.wav</FileName>
+  <ClassId>gtmyeh</ClassId>
+  <Date>2009-10-16</Date>
+  <Time>15:30h</Time>
+  <Locality>Afluente Mata Agua Fria, Pres. Kennedy, Tocantins</Locality>
+  <Latitude>-8.554</Latitude>
+  <Longitude>-48.478</Longitude>
+  <Elevation>270</Elevation>
+  <Author>Tulio Dornas</Author>
+  <AuthorID>MTUQGBMRNC</AuthorID>
+  <Content>drumming</Content>
+  <Comments>More details in article submetted</Comments>
+  <Quality>2</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies />
+  <Order>Piciformes</Order>
+  <Family>Picidae</Family>
+  <Genus>Celeus</Genus>
+  <Species>obrieni</Species>
+  <Sub-species />
+  <VernacularNames>Kaempfer's Woodpecker</VernacularNames>
+</Audio>

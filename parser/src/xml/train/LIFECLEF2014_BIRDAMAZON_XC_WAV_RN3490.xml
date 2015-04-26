@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>3490</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN3490.wav</FileName>
+  <ClassId>krpshi</ClassId>
+  <Date>2001-10-20</Date>
+  <Time>06:05</Time>
+  <Locality>Pousada Thaimaçu. Rio São Benedito</Locality>
+  <Latitude>-9.0501</Latitude>
+  <Longitude>-56.5834</Longitude>
+  <Elevation>250</Elevation>
+  <Author>Jeremy Minns</Author>
+  <AuthorID>DGVLLRYDXS</AuthorID>
+  <Content>Call and whistle</Content>
+  <Comments>Terra firme forest.</Comments>
+  <Quality>0</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Thamnophilidae</Family>
+  <Genus>Cymbilaimus</Genus>
+  <Species>lineatus</Species>
+  <Sub-species>intermedius</Sub-species>
+  <VernacularNames>Fasciated Antshrike</VernacularNames>
+</Audio>

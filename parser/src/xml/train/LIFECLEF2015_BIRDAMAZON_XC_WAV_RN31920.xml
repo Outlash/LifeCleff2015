@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>31920</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN31920.wav</FileName>
+  <ClassId>yjdnmm</ClassId>
+  <Date>2014-10-04</Date>
+  <Time>10:30</Time>
+  <Locality>Guayabal de Síquima, Cundinamarca</Locality>
+  <Latitude>4.8646</Latitude>
+  <Longitude>-74.473</Longitude>
+  <Elevation>1700</Elevation>
+  <Author>Juan David González Barreto</Author>
+  <AuthorID>EYWGVLKVUN</AuthorID>
+  <Content>alarm call</Content>
+  <Comments>bird-seen:yesplayback-used:no</Comments>
+  <Quality>3</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Galliformes</Order>
+  <Family>Cracidae</Family>
+  <Genus>Ortalis</Genus>
+  <Species>columbiana</Species>
+  <Sub-species />
+  <VernacularNames>Colombian Chachalaca</VernacularNames>
+</Audio>

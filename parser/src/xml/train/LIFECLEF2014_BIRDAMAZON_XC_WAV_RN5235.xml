@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>5235</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN5235.wav</FileName>
+  <ClassId>qfjwpy</ClassId>
+  <Date>2012-12-06</Date>
+  <Time>09:00</Time>
+  <Locality>Ibirapuera Park,São Paulo city,São Paulo State</Locality>
+  <Latitude>-23.59</Latitude>
+  <Longitude>-46.66</Longitude>
+  <Elevation>750</Elevation>
+  <Author>Antonio Silveira</Author>
+  <AuthorID>NBJQSQJRYH</AuthorID>
+  <Content>song</Content>
+  <Comments>Three individuals call and flying over the lake of this urban park.bird-seen:yesplayback-used:no</Comments>
+  <Quality>1</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies />
+  <Order>Charadriiformes</Order>
+  <Family>Charadriidae</Family>
+  <Genus>Vanellus</Genus>
+  <Species>chilensis</Species>
+  <Sub-species />
+  <VernacularNames>Southern Lapwing</VernacularNames>
+</Audio>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>3087</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN3087.wav</FileName>
+  <ClassId>ppearp</ClassId>
+  <Date>1999-12-19</Date>
+  <Time>09:08</Time>
+  <Locality>Cavernas do Peruaçu National Park</Locality>
+  <Latitude>-15.0334</Latitude>
+  <Longitude>-44.2501</Longitude>
+  <Elevation>750</Elevation>
+  <Author>Jeremy Minns</Author>
+  <AuthorID>DGVLLRYDXS</AuthorID>
+  <Content>call</Content>
+  <Comments>Secondary semi-deciduous forest.</Comments>
+  <Quality>2</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies>Troglodytes aedon,Turdus amaurochalinus</BackgroundSpecies>
+  <Order>Passeriformes</Order>
+  <Family>Tyrannidae</Family>
+  <Genus>Tolmomyias</Genus>
+  <Species>flaviventris</Species>
+  <Sub-species>flaviventris</Sub-species>
+  <VernacularNames>Ochre-lored Flatbill</VernacularNames>
+</Audio>

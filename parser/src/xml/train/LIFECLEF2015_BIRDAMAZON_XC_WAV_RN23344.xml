@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>23344</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN23344.wav</FileName>
+  <ClassId>uvijpy</ClassId>
+  <Date>2007-11-12</Date>
+  <Time>06:10</Time>
+  <Locality>Parque Regional Barbas-Bremen, Filandia, Quindio. Sector Bremen-La Popa</Locality>
+  <Latitude>4.6717</Latitude>
+  <Longitude>-75.6283</Longitude>
+  <Elevation>1800</Elevation>
+  <Author>Oscar Humberto Marin-Gomez</Author>
+  <AuthorID>CSUHASNRSU</AuthorID>
+  <Content>Dawn song, call</Content>
+  <Comments>Ref: OHM005B 0623. Second part of XC130104. Low Montane Forest. 40m distace to Mic. Natural Vocalization.bird-seen:noplayback-used:no</Comments>
+  <Quality>3</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Tyrannidae</Family>
+  <Genus>Pogonotriccus</Genus>
+  <Species>ophthalmicus</Species>
+  <Sub-species />
+  <VernacularNames>Marble-faced Bristle Tyrant</VernacularNames>
+</Audio>

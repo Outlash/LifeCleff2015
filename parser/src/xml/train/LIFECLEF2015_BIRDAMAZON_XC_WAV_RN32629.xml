@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>32629</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN32629.wav</FileName>
+  <ClassId>zmtiwk</ClassId>
+  <Date>2000-06-05</Date>
+  <Time>16:00</Time>
+  <Locality>Reserva La Serrana (Vereda La Serrana), Anori, Antioquia</Locality>
+  <Latitude>NULL</Latitude>
+  <Longitude>NULL</Longitude>
+  <Elevation>1800</Elevation>
+  <Author>Bernabe Lopez-Lanus</Author>
+  <AuthorID>BYLLSJRVDZ</AuthorID>
+  <Content>Song</Content>
+  <Comments>Far</Comments>
+  <Quality>3</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Columbiformes</Order>
+  <Family>Columbidae</Family>
+  <Genus>Patagioenas</Genus>
+  <Species>speciosa</Species>
+  <Sub-species />
+  <VernacularNames>Scaled Pigeon</VernacularNames>
+</Audio>

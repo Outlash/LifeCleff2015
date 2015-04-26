@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>24027</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN24027.wav</FileName>
+  <ClassId>ibivsq</ClassId>
+  <Date>2008-02-01</Date>
+  <Time>10:15</Time>
+  <Locality>Sierra Nevada de Santa Marta, Magdalena</Locality>
+  <Latitude>10.898042</Latitude>
+  <Longitude>-73.7677</Longitude>
+  <Elevation>1900</Elevation>
+  <Author>Herman van Oosten</Author>
+  <AuthorID>SNUDCZVUQK</AuthorID>
+  <Content>call</Content>
+  <Comments>Several calls: the normal Atlapetes tssrie, sharper tick notes and quick calls whulst taking off.</Comments>
+  <Quality>1</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Emberizidae</Family>
+  <Genus>Atlapetes</Genus>
+  <Species>melanocephalus</Species>
+  <Sub-species />
+  <VernacularNames>Santa Marta Brush Finch</VernacularNames>
+</Audio>

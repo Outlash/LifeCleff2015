@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>27136</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN27136.wav</FileName>
+  <ClassId>ebxlim</ClassId>
+  <Date>2006-12-30</Date>
+  <Time>17:00</Time>
+  <Locality>road to the Rio Cuyuni east of Tumeremo, Bolivar</Locality>
+  <Latitude>6.9001</Latitude>
+  <Longitude>-61.2501</Longitude>
+  <Elevation>?</Elevation>
+  <Author>Nathan Pieplow</Author>
+  <AuthorID>EKKJJJRDJY</AuthorID>
+  <Content>song</Content>
+  <Comments />
+  <Quality>1</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Thamnophilidae</Family>
+  <Genus>Taraba</Genus>
+  <Species>major</Species>
+  <Sub-species />
+  <VernacularNames>Great Antshrike</VernacularNames>
+</Audio>

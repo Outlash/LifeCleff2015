@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>29555</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN29555.wav</FileName>
+  <ClassId>sywekf</ClassId>
+  <Date>2012-02-04</Date>
+  <Time>09:30</Time>
+  <Locality>Parauapebas, Para</Locality>
+  <Latitude>-5.9794</Latitude>
+  <Longitude>-50.1801</Longitude>
+  <Elevation>240</Elevation>
+  <Author>GABRIEL LEITE</Author>
+  <AuthorID>TGBFXDVERJ</AuthorID>
+  <Content>male, song</Content>
+  <Comments>bird-seen:yesplayback-used:no</Comments>
+  <Quality>3</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Tyrannidae</Family>
+  <Genus>Todirostrum</Genus>
+  <Species>chrysocrotaphum</Species>
+  <Sub-species />
+  <VernacularNames>Yellow-browed Tody-Flycatcher</VernacularNames>
+</Audio>

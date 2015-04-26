@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>3657</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN3657.wav</FileName>
+  <ClassId>asvgnp</ClassId>
+  <Date>2009-04-02</Date>
+  <Time>?:?</Time>
+  <Locality>Anavilhanas Archipelago</Locality>
+  <Latitude>-2.6834</Latitude>
+  <Longitude>-60.7501</Longitude>
+  <Elevation>?</Elevation>
+  <Author>Joseph Tobias and Nathalie Seddon</Author>
+  <AuthorID>IKMWQIXRNV</AuthorID>
+  <Content>song</Content>
+  <Comments>track T1874.</Comments>
+  <Quality>2</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies />
+  <Order>Falconiformes</Order>
+  <Family>Falconidae</Family>
+  <Genus>Milvago</Genus>
+  <Species>chimachima</Species>
+  <Sub-species />
+  <VernacularNames>Yellow-headed Caracara</VernacularNames>
+</Audio>

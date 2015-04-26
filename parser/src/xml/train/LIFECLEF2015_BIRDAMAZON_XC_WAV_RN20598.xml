@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>20598</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN20598.wav</FileName>
+  <ClassId>ummihq</ClassId>
+  <Date>2011-03-02</Date>
+  <Time>08:30</Time>
+  <Locality>La Soledad Tunnel, 20 km NW Barinitas, Barinas</Locality>
+  <Latitude>8.8526</Latitude>
+  <Longitude>-70.5806</Longitude>
+  <Elevation>1600</Elevation>
+  <Author>Albert Lastukhin</Author>
+  <AuthorID>LELYWQKUZX</AuthorID>
+  <Content>call</Content>
+  <Comments>bird-seen:yesplayback-used:no</Comments>
+  <Quality>3</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Tyrannidae</Family>
+  <Genus>Myiozetetes</Genus>
+  <Species>cayanensis</Species>
+  <Sub-species />
+  <VernacularNames>Rusty-margined Flycatcher</VernacularNames>
+</Audio>

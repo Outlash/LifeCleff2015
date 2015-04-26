@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>1360</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN1360.wav</FileName>
+  <ClassId>bljpac</ClassId>
+  <Date>2010-05-02</Date>
+  <Time>7:30</Time>
+  <Locality>Fazenda Siri, Floresta , Pernambuco</Locality>
+  <Latitude>NULL</Latitude>
+  <Longitude>NULL</Longitude>
+  <Elevation>400</Elevation>
+  <Author>Mauricio Cabral Periquito</Author>
+  <AuthorID>HERKCTHDZI</AuthorID>
+  <Content>alarm call</Content>
+  <Comments>Edge of dam</Comments>
+  <Quality>2</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies>Cyclarhis gujanensis,Himantopus mexicanus</BackgroundSpecies>
+  <Order>Pelecaniformes</Order>
+  <Family>Ardeidae</Family>
+  <Genus>Butorides</Genus>
+  <Species>striata</Species>
+  <Sub-species />
+  <VernacularNames>Striated Heron</VernacularNames>
+</Audio>

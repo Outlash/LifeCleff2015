@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>14705</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN14705.wav</FileName>
+  <ClassId>iiwvue</ClassId>
+  <Date>2001-05-13</Date>
+  <Time>17:00</Time>
+  <Locality>Cienaga del Convento (Parque Crocodilia), Vereda El Puerto, Sabanagrande, Atlantico</Locality>
+  <Latitude>10.854</Latitude>
+  <Longitude>-74.761</Longitude>
+  <Elevation>2</Elevation>
+  <Author>Bernabe Lopez-Lanus</Author>
+  <AuthorID>BYLLSJRVDZ</AuthorID>
+  <Content>Song</Content>
+  <Comments />
+  <Quality>3</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Troglodytidae</Family>
+  <Genus>Campylorhynchus</Genus>
+  <Species>griseus</Species>
+  <Sub-species>albicilius</Sub-species>
+  <VernacularNames>Bicolored Wren</VernacularNames>
+</Audio>

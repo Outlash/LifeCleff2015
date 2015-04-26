@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>2454</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN2454.wav</FileName>
+  <ClassId>gvqejj</ClassId>
+  <Date>2013-02-24</Date>
+  <Time>11:00</Time>
+  <Locality>Campos do Jordão, São Paulo</Locality>
+  <Latitude>-22.7418</Latitude>
+  <Longitude>-45.5529</Longitude>
+  <Elevation>1800</Elevation>
+  <Author>Rodrigo Dela Rosa de Souza</Author>
+  <AuthorID>VGXDJMKETZ</AuthorID>
+  <Content>song</Content>
+  <Comments>bird-seen:yesplayback-used:yes</Comments>
+  <Quality>3</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies />
+  <Order>Piciformes</Order>
+  <Family>Picidae</Family>
+  <Genus>Campephilus</Genus>
+  <Species>robustus</Species>
+  <Sub-species />
+  <VernacularNames>Robust Woodpecker</VernacularNames>
+</Audio>

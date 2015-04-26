@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>21150</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN21150.wav</FileName>
+  <ClassId>pndtuh</ClassId>
+  <Date>2010-01-15</Date>
+  <Time>?:?</Time>
+  <Locality>Awala-Yalimapo, Coswine</Locality>
+  <Latitude>5.7334</Latitude>
+  <Longitude>-53.9001</Longitude>
+  <Elevation>9</Elevation>
+  <Author>Alexandre Renaudier</Author>
+  <AuthorID>GKADEITXTH</AuthorID>
+  <Content>song</Content>
+  <Comments>natural recording</Comments>
+  <Quality>1</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies>Leptotila rufaxilla</BackgroundSpecies>
+  <Order>Apodiformes</Order>
+  <Family>Trochilidae</Family>
+  <Genus>Phaethornis</Genus>
+  <Species>ruber</Species>
+  <Sub-species />
+  <VernacularNames>Reddish Hermit</VernacularNames>
+</Audio>

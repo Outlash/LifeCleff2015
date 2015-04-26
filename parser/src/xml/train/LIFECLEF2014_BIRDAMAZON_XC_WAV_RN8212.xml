@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>8212</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN8212.wav</FileName>
+  <ClassId>llhyaz</ClassId>
+  <Date>2009-09-25</Date>
+  <Time>11:45</Time>
+  <Locality>Chapada do Catuni, Francisco Sá, Brazil</Locality>
+  <Latitude>NULL</Latitude>
+  <Longitude>NULL</Longitude>
+  <Elevation>800</Elevation>
+  <Author>Eduardo Gazzinelli</Author>
+  <AuthorID>MPOKMOFDDX</AuthorID>
+  <Content>Song</Content>
+  <Comments>Recorded by a friend of mine, Eduardo Gazzinelli</Comments>
+  <Quality>2</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Tyrannidae</Family>
+  <Genus>Euscarthmus</Genus>
+  <Species>rufomarginatus</Species>
+  <Sub-species />
+  <VernacularNames>Rufous-sided Pygmy Tyrant</VernacularNames>
+</Audio>

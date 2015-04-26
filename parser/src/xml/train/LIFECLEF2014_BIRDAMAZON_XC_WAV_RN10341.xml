@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>10341</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN10341.wav</FileName>
+  <ClassId>tsbdow</ClassId>
+  <Date>1992-08-00</Date>
+  <Time>6pm</Time>
+  <Locality>Passo do Lontra, Pantanal de Miranda, MS</Locality>
+  <Latitude>-19.2667</Latitude>
+  <Longitude>-57.0167</Longitude>
+  <Elevation>91</Elevation>
+  <Author>Antonio Silveira</Author>
+  <AuthorID>NBJQSQJRYH</AuthorID>
+  <Content>song</Content>
+  <Comments />
+  <Quality>1</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies />
+  <Order>Gruiformes</Order>
+  <Family>Aramidae</Family>
+  <Genus>Aramus</Genus>
+  <Species>guarauna</Species>
+  <Sub-species />
+  <VernacularNames>Limpkin</VernacularNames>
+</Audio>

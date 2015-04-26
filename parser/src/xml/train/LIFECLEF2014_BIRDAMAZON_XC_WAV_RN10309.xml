@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>10309</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN10309.wav</FileName>
+  <ClassId>hctcgx</ClassId>
+  <Date>2006-11-07</Date>
+  <Time>08:02</Time>
+  <Locality>near Arroio Santa Bárbara - Pelotas, Rio Grande do Sul</Locality>
+  <Latitude>-31.7301</Latitude>
+  <Longitude>-52.3659</Longitude>
+  <Elevation>0</Elevation>
+  <Author>Fernando Jacobs</Author>
+  <AuthorID>MHHPJBCUXC</AuthorID>
+  <Content>song</Content>
+  <Comments />
+  <Quality>2</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Parulidae</Family>
+  <Genus>Geothlypis</Genus>
+  <Species>velata</Species>
+  <Sub-species />
+  <VernacularNames>Southern Yellowthroat</VernacularNames>
+</Audio>

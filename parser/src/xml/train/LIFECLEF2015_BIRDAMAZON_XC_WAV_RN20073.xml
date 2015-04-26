@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>20073</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN20073.wav</FileName>
+  <ClassId>zqzulo</ClassId>
+  <Date>2010-06-16</Date>
+  <Time>17:26</Time>
+  <Locality>Cupido &amp; Refugio Farm, Linhares, state of Espírito Santo, SE Brazil.</Locality>
+  <Latitude>NULL</Latitude>
+  <Longitude>NULL</Longitude>
+  <Elevation>80</Elevation>
+  <Author>Ciro Albano</Author>
+  <AuthorID>MXVQPUKGWW</AuthorID>
+  <Content>song after playback</Content>
+  <Comments />
+  <Quality>2</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies>Tinamus solitarius</BackgroundSpecies>
+  <Order>Gruiformes</Order>
+  <Family>Rallidae</Family>
+  <Genus>Amaurolimnas</Genus>
+  <Species>concolor</Species>
+  <Sub-species />
+  <VernacularNames>Uniform Crake</VernacularNames>
+</Audio>

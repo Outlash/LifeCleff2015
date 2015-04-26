@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>19156</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN19156.wav</FileName>
+  <ClassId>swoorg</ClassId>
+  <Date>2013-10-05</Date>
+  <Time>09:30</Time>
+  <Locality>San Carlos Guaroa, Meta</Locality>
+  <Latitude>3.7126</Latitude>
+  <Longitude>-73.2483</Longitude>
+  <Elevation>220</Elevation>
+  <Author>Oswaldo Cortes</Author>
+  <AuthorID>VVDRVZCVWW</AuthorID>
+  <Content>call</Content>
+  <Comments>bird-seen:yesplayback-used:no</Comments>
+  <Quality>3</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Pelecaniformes</Order>
+  <Family>Ardeidae</Family>
+  <Genus>Syrigma</Genus>
+  <Species>sibilatrix</Species>
+  <Sub-species />
+  <VernacularNames>Whistling Heron</VernacularNames>
+</Audio>

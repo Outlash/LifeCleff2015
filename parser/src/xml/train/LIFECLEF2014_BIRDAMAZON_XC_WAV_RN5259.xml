@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>5259</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN5259.wav</FileName>
+  <ClassId>bafzon</ClassId>
+  <Date>2004-02-11</Date>
+  <Time>?:?</Time>
+  <Locality>Bahia, fazenda (Fausto's Fazenda) just to the west of Colonia, near Una</Locality>
+  <Latitude>-15</Latitude>
+  <Longitude>-39</Longitude>
+  <Elevation>?</Elevation>
+  <Author>Frank Lambert</Author>
+  <AuthorID>YTUXOCTUEM</AuthorID>
+  <Content>song</Content>
+  <Comments>Previously published on AVoCet as &lt;a href=http://avocet.zoology.msu.edu/recordings/8209&gt;AV8209&lt;/a&gt;.  Certainty: 100%.  ID determined by: not specifically indicated, recordist normally sees birds recorded and indicates if any question, matches XC cuts. Response to playback.  GPS: rough estimate.</Comments>
+  <Quality>2</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Formicariidae</Family>
+  <Genus>Formicarius</Genus>
+  <Species>colma</Species>
+  <Sub-species />
+  <VernacularNames>Rufous-capped Antthrush</VernacularNames>
+</Audio>

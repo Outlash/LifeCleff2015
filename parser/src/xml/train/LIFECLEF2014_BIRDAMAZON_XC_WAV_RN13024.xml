@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>13024</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN13024.wav</FileName>
+  <ClassId>fofjao</ClassId>
+  <Date>2010-03-22</Date>
+  <Time>10:15</Time>
+  <Locality>Cristalina, Goiás.</Locality>
+  <Latitude>NULL</Latitude>
+  <Longitude>NULL</Longitude>
+  <Elevation>990</Elevation>
+  <Author>Nunes D´Acosta</Author>
+  <AuthorID>OHHTDSDNBT</AuthorID>
+  <Content>song</Content>
+  <Comments>Asio flammeus atacando quando aproximaos do seu ninho.</Comments>
+  <Quality>1</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies />
+  <Order>Strigiformes</Order>
+  <Family>Strigidae</Family>
+  <Genus>Asio</Genus>
+  <Species>flammeus</Species>
+  <Sub-species />
+  <VernacularNames>Short-eared Owl</VernacularNames>
+</Audio>

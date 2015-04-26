@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>29056</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN29056.wav</FileName>
+  <ClassId>fdjofa</ClassId>
+  <Date>2010-07-25</Date>
+  <Time>08:00</Time>
+  <Locality>Presidente Figueiredo, Amazonas</Locality>
+  <Latitude>-2.028</Latitude>
+  <Longitude>-59.997</Longitude>
+  <Elevation>50</Elevation>
+  <Author>Marcos Melo</Author>
+  <AuthorID>MRGDYNJGUJ</AuthorID>
+  <Content>flight call</Content>
+  <Comments />
+  <Quality>2</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies>Pitangus sulphuratus</BackgroundSpecies>
+  <Order>Psittaciformes</Order>
+  <Family>Psittacidae</Family>
+  <Genus>Pionus</Genus>
+  <Species>menstruus</Species>
+  <Sub-species>menstruus</Sub-species>
+  <VernacularNames>Blue-headed Parrot</VernacularNames>
+</Audio>

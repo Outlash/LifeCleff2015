@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>22131</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN22131.wav</FileName>
+  <ClassId>iyshfg</ClassId>
+  <Date>2003-11-27</Date>
+  <Time>11:30</Time>
+  <Locality>Mato Grosso, Rio Cristalino</Locality>
+  <Latitude>-9.6</Latitude>
+  <Longitude>-55.9</Longitude>
+  <Elevation>280</Elevation>
+  <Author>Jeremy Minns</Author>
+  <AuthorID>DGVLLRYDXS</AuthorID>
+  <Content>song</Content>
+  <Comments>seasonally flooded forest on bank of riverbird-seen:yesplayback-used:no</Comments>
+  <Quality>1</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Pipridae</Family>
+  <Genus>Tyranneutes</Genus>
+  <Species>stolzmanni</Species>
+  <Sub-species />
+  <VernacularNames>Dwarf Tyrant-Manakin</VernacularNames>
+</Audio>

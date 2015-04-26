@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>30933</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN30933.wav</FileName>
+  <ClassId>hdtboj</ClassId>
+  <Date>2007-07-29</Date>
+  <Time>?</Time>
+  <Locality>Merida, San Isidro quarry</Locality>
+  <Latitude>NULL</Latitude>
+  <Longitude>NULL</Longitude>
+  <Elevation>?</Elevation>
+  <Author>Alexandre Renaudier</Author>
+  <AuthorID>GKADEITXTH</AuthorID>
+  <Content>call</Content>
+  <Comments>2 birds</Comments>
+  <Quality>2</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Tyrannidae</Family>
+  <Genus>Hirundinea</Genus>
+  <Species>ferruginea</Species>
+  <Sub-species />
+  <VernacularNames>Cliff Flycatcher</VernacularNames>
+</Audio>

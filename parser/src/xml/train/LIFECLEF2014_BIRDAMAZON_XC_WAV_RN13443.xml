@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>13443</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN13443.wav</FileName>
+  <ClassId>omlmlo</ClassId>
+  <Date>2012-07-04</Date>
+  <Time>08:00</Time>
+  <Locality>Rio Grande do Sul</Locality>
+  <Latitude>-28.8638</Latitude>
+  <Longitude>-51.7304</Longitude>
+  <Elevation>480</Elevation>
+  <Author>Alexandre Bianco</Author>
+  <AuthorID>ODNEDFESFY</AuthorID>
+  <Content>song</Content>
+  <Comments>bird-seen:yesplayback-used:no</Comments>
+  <Quality>2</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Cardinalidae</Family>
+  <Genus>Cyanocompsa</Genus>
+  <Species>brissonii</Species>
+  <Sub-species />
+  <VernacularNames>Ultramarine Grosbeak</VernacularNames>
+</Audio>

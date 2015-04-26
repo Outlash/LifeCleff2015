@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>22939</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN22939.wav</FileName>
+  <ClassId>hdtboj</ClassId>
+  <Date>2012-12-21</Date>
+  <Time>15:30</Time>
+  <Locality>Santana do Cariri, Santana do Cariri, Ceara</Locality>
+  <Latitude>-7.2132</Latitude>
+  <Longitude>-39.7348</Longitude>
+  <Elevation>650</Elevation>
+  <Author>Caio Brito</Author>
+  <AuthorID>YWWWUBVAJF</AuthorID>
+  <Content>alarm call</Content>
+  <Comments>Lowcut at about 250Hz and normalized at 0db.bird-seen:yesplayback-used:no</Comments>
+  <Quality>1</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Tyrannidae</Family>
+  <Genus>Hirundinea</Genus>
+  <Species>ferruginea</Species>
+  <Sub-species />
+  <VernacularNames>Cliff Flycatcher</VernacularNames>
+</Audio>

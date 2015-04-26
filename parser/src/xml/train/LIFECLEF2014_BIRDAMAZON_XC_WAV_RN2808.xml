@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>2808</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN2808.wav</FileName>
+  <ClassId>drteex</ClassId>
+  <Date>2006-11-06</Date>
+  <Time>05:58</Time>
+  <Locality>Parque do Zizo, Sao Paulo state</Locality>
+  <Latitude>-24.017146</Latitude>
+  <Longitude>-47.81044</Longitude>
+  <Elevation>650</Elevation>
+  <Author>Jeremy Minns</Author>
+  <AuthorID>DGVLLRYDXS</AuthorID>
+  <Content>Long call</Content>
+  <Comments>Single bird.</Comments>
+  <Quality>2</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies>Patagioenas picazuro,Chamaeza campanisona,Basileuterus culicivorus</BackgroundSpecies>
+  <Order>Gruiformes</Order>
+  <Family>Rallidae</Family>
+  <Genus>Aramides</Genus>
+  <Species>saracura</Species>
+  <Sub-species />
+  <VernacularNames>Slaty-breasted Wood Rail</VernacularNames>
+</Audio>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>9276</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN9276.wav</FileName>
+  <ClassId>ajqxje</ClassId>
+  <Date>2006-10-05</Date>
+  <Time>10:00</Time>
+  <Locality>Fazenda caetes, nr Vargem Alta, Esperito Santo</Locality>
+  <Latitude>-20.457253</Latitude>
+  <Longitude>-40.99205</Longitude>
+  <Elevation>?</Elevation>
+  <Author>Frank Lambert</Author>
+  <AuthorID>YTUXOCTUEM</AuthorID>
+  <Content>song</Content>
+  <Comments />
+  <Quality>1</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Cotingidae</Family>
+  <Genus>Carpornis</Genus>
+  <Species>cucullata</Species>
+  <Sub-species />
+  <VernacularNames>Hooded Berryeater</VernacularNames>
+</Audio>

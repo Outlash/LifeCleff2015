@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>30588</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN30588.wav</FileName>
+  <ClassId>fvhrfq</ClassId>
+  <Date>2005-11-19</Date>
+  <Time>18:10</Time>
+  <Locality>Parque do Zizo, Sao Paulo State</Locality>
+  <Latitude>-24.017146</Latitude>
+  <Longitude>-47.81044</Longitude>
+  <Elevation>630</Elevation>
+  <Author>Bob Planqué</Author>
+  <AuthorID>OH38YHKJBS</AuthorID>
+  <Content>song</Content>
+  <Comments>full song (short song is single fluting note)</Comments>
+  <Quality>2</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Tinamiformes</Order>
+  <Family>Tinamidae</Family>
+  <Genus>Tinamus</Genus>
+  <Species>solitarius</Species>
+  <Sub-species />
+  <VernacularNames>Solitary Tinamou</VernacularNames>
+</Audio>

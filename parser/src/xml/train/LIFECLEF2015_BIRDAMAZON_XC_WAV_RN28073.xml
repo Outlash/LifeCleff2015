@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>28073</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN28073.wav</FileName>
+  <ClassId>rdpjcl</ClassId>
+  <Date>2008-07-16</Date>
+  <Time>06:10</Time>
+  <Locality>Inhotim, Brumadinho, Minas Gerais State</Locality>
+  <Latitude>-20.123894</Latitude>
+  <Longitude>-44.219091</Longitude>
+  <Elevation>900</Elevation>
+  <Author>Wagner Nogueira Alves</Author>
+  <AuthorID>MFERBHYYSW</AuthorID>
+  <Content>song</Content>
+  <Comments />
+  <Quality>1</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies>Coereba flaveola</BackgroundSpecies>
+  <Order>Apodiformes</Order>
+  <Family>Trochilidae</Family>
+  <Genus>Amazilia</Genus>
+  <Species>lactea</Species>
+  <Sub-species />
+  <VernacularNames>Sapphire-spangled Emerald</VernacularNames>
+</Audio>

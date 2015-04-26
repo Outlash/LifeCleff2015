@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>31189</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN31189.wav</FileName>
+  <ClassId>cqbxux</ClassId>
+  <Date>2006-11-23</Date>
+  <Time>07:19</Time>
+  <Locality>Iwokrama Forest</Locality>
+  <Latitude>4.2448</Latitude>
+  <Longitude>-58.9056</Longitude>
+  <Elevation>80</Elevation>
+  <Author>Nick Athanas</Author>
+  <AuthorID>XRABICUARW</AuthorID>
+  <Content>song</Content>
+  <Comments>Male. Response to playback</Comments>
+  <Quality>1</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies>Herpsilochmus sticturus,Cacicus cela,Pionus menstruus,Psarocolius viridis</BackgroundSpecies>
+  <Order>Passeriformes</Order>
+  <Family>Thamnophilidae</Family>
+  <Genus>Frederickena</Genus>
+  <Species>viridis</Species>
+  <Sub-species />
+  <VernacularNames>Black-throated Antshrike</VernacularNames>
+</Audio>

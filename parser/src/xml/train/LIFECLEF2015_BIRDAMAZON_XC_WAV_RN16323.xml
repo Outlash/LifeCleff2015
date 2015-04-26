@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>16323</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN16323.wav</FileName>
+  <ClassId>xychdo</ClassId>
+  <Date>2013-09-11</Date>
+  <Time>08:00</Time>
+  <Locality>Pirenópolis, Goiás</Locality>
+  <Latitude>-15.8456</Latitude>
+  <Longitude>-48.9582</Longitude>
+  <Elevation>800</Elevation>
+  <Author>Krzysztof Deoniziak</Author>
+  <AuthorID>VCROLXMVLX</AuthorID>
+  <Content>male, song</Content>
+  <Comments>The bird was singing from shrubs.bird-seen:yesplayback-used:no</Comments>
+  <Quality>2</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies>Brotogeris chiriri,Turdus rufiventris</BackgroundSpecies>
+  <Order>Passeriformes</Order>
+  <Family>Troglodytidae</Family>
+  <Genus>Troglodytes</Genus>
+  <Species>aedon</Species>
+  <Sub-species />
+  <VernacularNames>House Wren</VernacularNames>
+</Audio>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>4561</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN4561.wav</FileName>
+  <ClassId>igcivw</ClassId>
+  <Date>2009-11-06</Date>
+  <Time>11:30</Time>
+  <Locality>Estação de Pesquisa do Canguçu - Pium - Tocantins State</Locality>
+  <Latitude>-9.9826</Latitude>
+  <Longitude>-50.0151</Longitude>
+  <Elevation>180</Elevation>
+  <Author>GABRIEL LEITE</Author>
+  <AuthorID>TGBFXDVERJ</AuthorID>
+  <Content>call, song</Content>
+  <Comments>bird-seen:yesplayback-used:no</Comments>
+  <Quality>3</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies />
+  <Order>Pelecaniformes</Order>
+  <Family>Threskiornithidae</Family>
+  <Genus>Theristicus</Genus>
+  <Species>caudatus</Species>
+  <Sub-species />
+  <VernacularNames>Buff-necked Ibis</VernacularNames>
+</Audio>

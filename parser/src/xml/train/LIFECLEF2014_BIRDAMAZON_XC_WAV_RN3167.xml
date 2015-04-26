@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>3167</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN3167.wav</FileName>
+  <ClassId>qnjjng</ClassId>
+  <Date>2004-08-15</Date>
+  <Time>06:06</Time>
+  <Locality>Borba, Amazonas</Locality>
+  <Latitude>-4.3881</Latitude>
+  <Longitude>-59.5934</Longitude>
+  <Elevation>30</Elevation>
+  <Author>Jeremy Minns</Author>
+  <AuthorID>DGVLLRYDXS</AuthorID>
+  <Content>Male and female songs</Content>
+  <Comments>Scrub at edge of terra firme forest.</Comments>
+  <Quality>1</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies>Pheugopedius genibarbis,Thamnophilus doliatus</BackgroundSpecies>
+  <Order>Passeriformes</Order>
+  <Family>Thamnophilidae</Family>
+  <Genus>Cercomacra</Genus>
+  <Species>nigrescens</Species>
+  <Sub-species>approximans</Sub-species>
+  <VernacularNames>Blackish Antbird</VernacularNames>
+</Audio>

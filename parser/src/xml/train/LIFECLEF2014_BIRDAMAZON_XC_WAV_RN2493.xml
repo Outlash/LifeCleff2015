@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>2493</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN2493.wav</FileName>
+  <ClassId>umxbnz</ClassId>
+  <Date>2009-03-24</Date>
+  <Time>07:00</Time>
+  <Locality>Ribeirão Cristal, Cristalina-Goiás</Locality>
+  <Latitude>-16.857284</Latitude>
+  <Longitude>-47.381287</Longitude>
+  <Elevation>1050</Elevation>
+  <Author>Nunes D'Acosta</Author>
+  <AuthorID>OHHTDSDNBT</AuthorID>
+  <Content>song</Content>
+  <Comments>Canto de um jovem-Taoniscus ensaiando seus primeiros cantos , provalvelmente com 4 meses(fêmea) Gravado em um pequeno fragmento de campo-limpo cercado de  cultura de soja-Barulho de avião agrícola ao fundo.</Comments>
+  <Quality>3</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies />
+  <Order>Tinamiformes</Order>
+  <Family>Tinamidae</Family>
+  <Genus>Taoniscus</Genus>
+  <Species>nanus</Species>
+  <Sub-species />
+  <VernacularNames>Dwarf Tinamou</VernacularNames>
+</Audio>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>1483</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN1483.wav</FileName>
+  <ClassId>thrclx</ClassId>
+  <Date>2011-09-09</Date>
+  <Time>8:35</Time>
+  <Locality>Cristalino Jungle Lodge, MT</Locality>
+  <Latitude>-9.5981</Latitude>
+  <Longitude>-55.932</Longitude>
+  <Elevation>200</Elevation>
+  <Author>Tayler Brooks</Author>
+  <AuthorID>ARFGONJCBJ</AuthorID>
+  <Content>song</Content>
+  <Comments>Natural vocalization. In dry hilltop forest.</Comments>
+  <Quality>2</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Thamnophilidae</Family>
+  <Genus>Formicivora</Genus>
+  <Species>grisea</Species>
+  <Sub-species>grisea</Sub-species>
+  <VernacularNames>Southern White-fringed Antwren</VernacularNames>
+</Audio>

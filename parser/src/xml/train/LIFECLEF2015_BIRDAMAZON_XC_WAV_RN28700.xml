@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>28700</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN28700.wav</FileName>
+  <ClassId>edquox</ClassId>
+  <Date>2004-08-11</Date>
+  <Time>16:30</Time>
+  <Locality>Ricaurte, RN La Planada, Narino</Locality>
+  <Latitude>1.0834</Latitude>
+  <Longitude>-77.8834</Longitude>
+  <Elevation>2000</Elevation>
+  <Author>Oscar Laverde</Author>
+  <AuthorID>WKVKSVMNDZ</AuthorID>
+  <Content>call</Content>
+  <Comments />
+  <Quality>2</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Tyrannidae</Family>
+  <Genus>Ochthoeca</Genus>
+  <Species>cinnamomeiventris</Species>
+  <Sub-species />
+  <VernacularNames>Slaty-backed Chat-Tyrant</VernacularNames>
+</Audio>

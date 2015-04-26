@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>682</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN682.wav</FileName>
+  <ClassId>qoqtfu</ClassId>
+  <Date>2011-09-18</Date>
+  <Time>16:00</Time>
+  <Locality>Cristalino Jungle Lodge, MT</Locality>
+  <Latitude>-9.5981</Latitude>
+  <Longitude>-55.932</Longitude>
+  <Elevation>260</Elevation>
+  <Author>Eric DeFonso</Author>
+  <AuthorID>KTLCZCRCQX</AuthorID>
+  <Content>song</Content>
+  <Comments>Short break in recording was about 20 seconds. Mostly individual chirps, but a couple chitters. Along the Rio Cristalino.bird-seen:yesplayback-used:no</Comments>
+  <Quality>2</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Hirundinidae</Family>
+  <Genus>Stelgidopteryx</Genus>
+  <Species>ruficollis</Species>
+  <Sub-species />
+  <VernacularNames>Southern Rough-winged Swallow</VernacularNames>
+</Audio>

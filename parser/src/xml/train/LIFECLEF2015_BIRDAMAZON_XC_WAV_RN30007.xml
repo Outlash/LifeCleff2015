@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>30007</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN30007.wav</FileName>
+  <ClassId>eghdvj</ClassId>
+  <Date>2013-09-14</Date>
+  <Time>20:00</Time>
+  <Locality>Jardim da Amazônia</Locality>
+  <Latitude>-13.5406</Latitude>
+  <Longitude>-56.6304</Longitude>
+  <Elevation>300</Elevation>
+  <Author>Richard Hoyer</Author>
+  <AuthorID>SRRRBQPENI</AuthorID>
+  <Content>song</Content>
+  <Comments>Two song types, natural progression. File edited to remove egregious handling noise, Audacity Low Pass filter and Noise Removal. Olympus LS-11 and Sennheiser ME67. Bird on nest about 120 meter away, but this bird came in from opposite direction of nest, which on the next morning had an adult on a small downy chick.bird-seen:yesplayback-used:yes</Comments>
+  <Quality>3</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies>Megascops watsonii</BackgroundSpecies>
+  <Order>Caprimulgiformes</Order>
+  <Family>Nyctibiidae</Family>
+  <Genus>Nyctibius</Genus>
+  <Species>aethereus</Species>
+  <Sub-species>longicaudatus</Sub-species>
+  <VernacularNames>Long-tailed Potoo</VernacularNames>
+</Audio>

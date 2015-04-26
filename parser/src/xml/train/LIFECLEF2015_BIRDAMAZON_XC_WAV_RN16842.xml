@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>16842</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN16842.wav</FileName>
+  <ClassId>llzpag</ClassId>
+  <Date>2006-07-14</Date>
+  <Time>?</Time>
+  <Locality>Serra dos Caiabis, Alta Floresta - MT</Locality>
+  <Latitude>-10.7501</Latitude>
+  <Longitude>-56.7501</Longitude>
+  <Elevation>300</Elevation>
+  <Author>Bradley Davis</Author>
+  <AuthorID>YNXJLOESBB</AuthorID>
+  <Content>call</Content>
+  <Comments />
+  <Quality>3</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies>Dixiphia rubrocapilla,Machaeropterus pyrocephalus</BackgroundSpecies>
+  <Order>Passeriformes</Order>
+  <Family>Thraupidae</Family>
+  <Genus>Tangara</Genus>
+  <Species>gyrola</Species>
+  <Sub-species />
+  <VernacularNames>Bay-headed Tanager</VernacularNames>
+</Audio>

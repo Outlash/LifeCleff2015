@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>26637</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN26637.wav</FileName>
+  <ClassId>eaahqv</ClassId>
+  <Date>2013-04-26</Date>
+  <Time>08:30</Time>
+  <Locality>Antioquia, Municipio de Yarumal, Vereda Corcovado, carretera entre el Alto de Ventanas y el Cedro, Finca Villa Nueva.</Locality>
+  <Latitude>7.055</Latitude>
+  <Longitude>-75.4482</Longitude>
+  <Elevation>2100</Elevation>
+  <Author>Oscar Humberto Marin-Gomez</Author>
+  <AuthorID>CSUHASNRSU</AuthorID>
+  <Content>song</Content>
+  <Comments>Ref: OHMYA 614. Regrabado de  XC131786.bird-seen:noplayback-used:no</Comments>
+  <Quality>3</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Cotingidae</Family>
+  <Genus>Pipreola</Genus>
+  <Species>riefferii</Species>
+  <Sub-species />
+  <VernacularNames>Green-and-black Fruiteater</VernacularNames>
+</Audio>

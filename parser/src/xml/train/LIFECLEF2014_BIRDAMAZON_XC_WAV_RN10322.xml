@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>10322</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN10322.wav</FileName>
+  <ClassId>iangvt</ClassId>
+  <Date>2006-08-06</Date>
+  <Time>07:20</Time>
+  <Locality>Serra da Passira, Passira, Pernambuco</Locality>
+  <Latitude>-7.963528</Latitude>
+  <Longitude>-35.673294</Longitude>
+  <Elevation>171</Elevation>
+  <Author>Glauco Alves Pereira</Author>
+  <AuthorID>ZWEROGGYVP</AuthorID>
+  <Content>song</Content>
+  <Comments>Caatinga habitat</Comments>
+  <Quality>0</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies>Tapera naevia</BackgroundSpecies>
+  <Order>Passeriformes</Order>
+  <Family>Polioptilidae</Family>
+  <Genus>Polioptila</Genus>
+  <Species>plumbea</Species>
+  <Sub-species />
+  <VernacularNames>Tropical Gnatcatcher</VernacularNames>
+</Audio>

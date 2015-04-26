@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>9746</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN9746.wav</FileName>
+  <ClassId>ghwdea</ClassId>
+  <Date>2002-07-03</Date>
+  <Time>10:40</Time>
+  <Locality>Estrada da Graciosa, Paraná state</Locality>
+  <Latitude>-25.3334</Latitude>
+  <Longitude>-48.9001</Longitude>
+  <Elevation>875</Elevation>
+  <Author>Jeremy Minns</Author>
+  <AuthorID>DGVLLRYDXS</AuthorID>
+  <Content>call, song</Content>
+  <Comments>Montane forest. Song and calls, after playback, by a male, moving around rapidly in bamboo. Female present but silent.</Comments>
+  <Quality>2</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies>Carpornis cucullata</BackgroundSpecies>
+  <Order>Passeriformes</Order>
+  <Family>Cardinalidae</Family>
+  <Genus>Amaurospiza</Genus>
+  <Species>moesta</Species>
+  <Sub-species />
+  <VernacularNames>Blackish-blue Seedeater</VernacularNames>
+</Audio>

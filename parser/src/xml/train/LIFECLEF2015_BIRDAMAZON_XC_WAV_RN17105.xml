@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>17105</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN17105.wav</FileName>
+  <ClassId>zszaux</ClassId>
+  <Date>2013-12-28</Date>
+  <Time>10:30</Time>
+  <Locality>Cuenca del Rio Otun, Pereira, Risaralda</Locality>
+  <Latitude>4.7267</Latitude>
+  <Longitude>-75.5732</Longitude>
+  <Elevation>1900</Elevation>
+  <Author>Jaime Suárez</Author>
+  <AuthorID>NNHLQJVOUP</AuthorID>
+  <Content>call</Content>
+  <Comments>group of at least 8 moving in the undergrowthbird-seen:yesplayback-used:no</Comments>
+  <Quality>1</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Cardinalidae</Family>
+  <Genus>Habia</Genus>
+  <Species>cristata</Species>
+  <Sub-species />
+  <VernacularNames>Crested Ant Tanager</VernacularNames>
+</Audio>

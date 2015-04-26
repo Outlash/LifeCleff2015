@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>6458</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN6458.wav</FileName>
+  <ClassId>wyqhet</ClassId>
+  <Date>2011-09-03</Date>
+  <Time>06:00</Time>
+  <Locality>Pantanal Wildlife Center, MT</Locality>
+  <Latitude>-16.7581</Latitude>
+  <Longitude>-56.8764</Longitude>
+  <Elevation>110</Elevation>
+  <Author>Eric DeFonso</Author>
+  <AuthorID>KTLCZCRCQX</AuthorID>
+  <Content>song</Content>
+  <Comments>Typical, natural song. Habitat is tropical deciduous woodland.bird-seen:yesplayback-used:no</Comments>
+  <Quality>1</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies>Patagioenas picazuro,Antilophia galeata,Ortalis canicollis,Myiothlypis flaveola,Crypturellus undulatus</BackgroundSpecies>
+  <Order>Passeriformes</Order>
+  <Family>Thamnophilidae</Family>
+  <Genus>Thamnophilus</Genus>
+  <Species>pelzelni</Species>
+  <Sub-species />
+  <VernacularNames>Planalto Slaty Antshrike</VernacularNames>
+</Audio>

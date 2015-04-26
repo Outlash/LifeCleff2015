@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>18287</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN18287.wav</FileName>
+  <ClassId>uyjoqf</ClassId>
+  <Date>2006-07-25</Date>
+  <Time>08:40</Time>
+  <Locality>Eldorado, Mato Grosso do Sul state</Locality>
+  <Latitude>-23.8501</Latitude>
+  <Longitude>-54.2537</Longitude>
+  <Elevation>340</Elevation>
+  <Author>Joao Menezes</Author>
+  <AuthorID>BEYMZHZHIB</AuthorID>
+  <Content>call</Content>
+  <Comments />
+  <Quality>2</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Charadriiformes</Order>
+  <Family>Recurvirostridae</Family>
+  <Genus>Himantopus</Genus>
+  <Species>melanurus</Species>
+  <Sub-species>melanurus</Sub-species>
+  <VernacularNames>White-backed Stilt</VernacularNames>
+</Audio>

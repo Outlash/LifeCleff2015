@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>5643</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN5643.wav</FileName>
+  <ClassId>nurzze</ClassId>
+  <Date>2010-06-27</Date>
+  <Time>01:00 pm</Time>
+  <Locality>morro do barão</Locality>
+  <Latitude>NULL</Latitude>
+  <Longitude>NULL</Longitude>
+  <Elevation>900</Elevation>
+  <Author>Sandro Salomon</Author>
+  <AuthorID>XCAOAKBXWH</AuthorID>
+  <Content>SONG</Content>
+  <Comments />
+  <Quality>3</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies />
+  <Order>Columbiformes</Order>
+  <Family>Columbidae</Family>
+  <Genus>Patagioenas</Genus>
+  <Species>plumbea</Species>
+  <Sub-species />
+  <VernacularNames>Plumbeous Pigeon</VernacularNames>
+</Audio>

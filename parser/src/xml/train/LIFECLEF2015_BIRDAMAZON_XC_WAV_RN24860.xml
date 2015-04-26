@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>24860</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN24860.wav</FileName>
+  <ClassId>qliyib</ClassId>
+  <Date>2008-02-17</Date>
+  <Time>17:00</Time>
+  <Locality>Serra dos Carajás, PA</Locality>
+  <Latitude>-6.1603</Latitude>
+  <Longitude>-50.3459</Longitude>
+  <Elevation>400</Elevation>
+  <Author>Sidnei Dantas</Author>
+  <AuthorID>NNCKQMBGPH</AuthorID>
+  <Content>song</Content>
+  <Comments>I reduced intervals between sequences</Comments>
+  <Quality>5</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies>Cercomacra cinerascens</BackgroundSpecies>
+  <Order>Passeriformes</Order>
+  <Family>Grallariidae</Family>
+  <Genus>Hylopezus</Genus>
+  <Species>macularius</Species>
+  <Sub-species />
+  <VernacularNames>Spotted Antpitta</VernacularNames>
+</Audio>

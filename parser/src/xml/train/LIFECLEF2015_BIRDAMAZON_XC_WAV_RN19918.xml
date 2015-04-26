@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>19918</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN19918.wav</FileName>
+  <ClassId>dmowwi</ClassId>
+  <Date>2012-01-06</Date>
+  <Time>12:00</Time>
+  <Locality>Finca below Santa Cecilia, Serrania de San Lucas</Locality>
+  <Latitude>7.9759</Latitude>
+  <Longitude>-74.2153</Longitude>
+  <Elevation>1300</Elevation>
+  <Author>Thomas Donegan</Author>
+  <AuthorID>OXSIOLJJUP</AuthorID>
+  <Content>Song</Content>
+  <Comments>Birds seen in scrub</Comments>
+  <Quality>4</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies>Gallus gallus</BackgroundSpecies>
+  <Order>Passeriformes</Order>
+  <Family>Tyrannidae</Family>
+  <Genus>Todirostrum</Genus>
+  <Species>cinereum</Species>
+  <Sub-species />
+  <VernacularNames>Common Tody-Flycatcher</VernacularNames>
+</Audio>

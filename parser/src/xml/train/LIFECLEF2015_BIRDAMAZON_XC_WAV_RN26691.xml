@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>26691</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN26691.wav</FileName>
+  <ClassId>byvvse</ClassId>
+  <Date>2002-09-12</Date>
+  <Time>07:01</Time>
+  <Locality>Serra dos Orgaos National Park. Teresopolis</Locality>
+  <Latitude>-22.4667</Latitude>
+  <Longitude>-43.01</Longitude>
+  <Elevation>1500</Elevation>
+  <Author>Jeremy Minns</Author>
+  <AuthorID>DGVLLRYDXS</AuthorID>
+  <Content>Song</Content>
+  <Comments>Pedra do Sino trail. Montane forest. Natural song of bird high up in a 25-35m high emergent.</Comments>
+  <Quality>2</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies>Pyrrhura frontalis,Streptoprocne biscutata,Thamnophilus caerulescens,Drymophila rubricollis,Chamaeza ruficauda,Xiphorhynchus fuscus,Syndactyla rufosuperciliata,Phyllomyias griseocapilla,Phyllomyias burmeisteri,Carpornis cucullata,Schiffornis virescens</BackgroundSpecies>
+  <Order>Passeriformes</Order>
+  <Family>Tityridae</Family>
+  <Genus>Oxyruncus</Genus>
+  <Species>cristatus</Species>
+  <Sub-species>cristatus</Sub-species>
+  <VernacularNames>Sharpbill</VernacularNames>
+</Audio>

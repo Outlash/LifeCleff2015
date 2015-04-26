@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>30774</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN30774.wav</FileName>
+  <ClassId>vrmygt</ClassId>
+  <Date>2013-03-23</Date>
+  <Time>14:41</Time>
+  <Locality>Cajamarca, Tolima</Locality>
+  <Latitude>4.4837</Latitude>
+  <Longitude>-75.4797</Longitude>
+  <Elevation>2800</Elevation>
+  <Author>Oscar H. Marín-Gómez</Author>
+  <AuthorID>CSUHASNRSU</AuthorID>
+  <Content>song</Content>
+  <Comments>Ref: OHM398. Un individuo observado en sotobosque de Chusque, en bosque montano alto en regeneraciónbird-seen:yesplayback-used:no</Comments>
+  <Quality>1</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies>Myiarchus cephalotes,Synallaxis azarae,Pheugopedius mystacalis,Elaenia frantzii,Tangara vassorii</BackgroundSpecies>
+  <Order>Passeriformes</Order>
+  <Family>Emberizidae</Family>
+  <Genus>Arremon</Genus>
+  <Species>assimilis</Species>
+  <Sub-species />
+  <VernacularNames>Grey-browed Brush Finch</VernacularNames>
+</Audio>

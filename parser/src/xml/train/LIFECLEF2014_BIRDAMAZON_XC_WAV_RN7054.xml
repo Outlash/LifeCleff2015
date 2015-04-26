@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>7054</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN7054.wav</FileName>
+  <ClassId>yplahx</ClassId>
+  <Date>2011-09-28</Date>
+  <Time>06:29</Time>
+  <Locality>Cristalino Jungle Lodge, MT</Locality>
+  <Latitude>-9.5981</Latitude>
+  <Longitude>-55.932</Longitude>
+  <Elevation>260</Elevation>
+  <Author>Eric DeFonso</Author>
+  <AuthorID>KTLCZCRCQX</AuthorID>
+  <Content>song</Content>
+  <Comments>Fairly distant bird along the Taboca trail, singing in undergrowth in terra firme forest.bird-seen:noplayback-used:no</Comments>
+  <Quality>3</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies>Cercomacra cinerascens,Ramphotrigon fuscicauda</BackgroundSpecies>
+  <Order>Passeriformes</Order>
+  <Family>Polioptilidae</Family>
+  <Genus>Ramphocaenus</Genus>
+  <Species>melanurus</Species>
+  <Sub-species />
+  <VernacularNames>Long-billed Gnatwren</VernacularNames>
+</Audio>

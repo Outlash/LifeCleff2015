@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>20819</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN20819.wav</FileName>
+  <ClassId>smnliu</ClassId>
+  <Date>2010-10-20</Date>
+  <Time>06:28</Time>
+  <Locality>Paragominas, PA, Brazil, Bacia 274</Locality>
+  <Latitude>-3.2348</Latitude>
+  <Longitude>-47.3714</Longitude>
+  <Elevation>?</Elevation>
+  <Author>Nargila Moura</Author>
+  <AuthorID>CWEIBYBYYD</AuthorID>
+  <Content>call</Content>
+  <Comments>primary forest (selectively logged)</Comments>
+  <Quality>3</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies>Thraupis episcopus,Ramphocelus carbo</BackgroundSpecies>
+  <Order>Passeriformes</Order>
+  <Family>Tityridae</Family>
+  <Genus>Tityra</Genus>
+  <Species>cayana</Species>
+  <Sub-species>braziliensis</Sub-species>
+  <VernacularNames>Black-tailed Tityra</VernacularNames>
+</Audio>

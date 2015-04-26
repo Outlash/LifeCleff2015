@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>25235</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN25235.wav</FileName>
+  <ClassId>yegkua</ClassId>
+  <Date>2004-01-00</Date>
+  <Time>08:00</Time>
+  <Locality>Cerro de la Paz, nr. Serrania de los Yariguies, mun. Zapatoca Santande</Locality>
+  <Latitude>6.9834</Latitude>
+  <Longitude>-73.4334</Longitude>
+  <Elevation>1350</Elevation>
+  <Author>Thomas Donegan</Author>
+  <AuthorID>OXSIOLJJUP</AuthorID>
+  <Content>Song</Content>
+  <Comments>Ref: Donegan TM, Avendaño JE, Briceño ER &amp; Huertas BC. 2007. Bird range extensions with taxonomic and ecological notes from Serranía de los Yariguíes, Colombias new National Park. Bulletin of the British Ornithologists' Club 127(3): 172-213.</Comments>
+  <Quality>2</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies>Thamnophilus atrinucha</BackgroundSpecies>
+  <Order>Passeriformes</Order>
+  <Family>Troglodytidae</Family>
+  <Genus>Pheugopedius</Genus>
+  <Species>spadix</Species>
+  <Sub-species />
+  <VernacularNames>Sooty-headed Wren</VernacularNames>
+</Audio>

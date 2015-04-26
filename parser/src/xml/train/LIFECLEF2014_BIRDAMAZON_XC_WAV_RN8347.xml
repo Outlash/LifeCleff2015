@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>8347</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN8347.wav</FileName>
+  <ClassId>dawwtj</ClassId>
+  <Date>2012-11-10</Date>
+  <Time>16:00</Time>
+  <Locality>Minas Gerais</Locality>
+  <Latitude>-20.4569</Latitude>
+  <Longitude>-42.6603</Longitude>
+  <Elevation>400</Elevation>
+  <Author>Noé Eiterer</Author>
+  <AuthorID>TWSKITNQOV</AuthorID>
+  <Content>female, male, song</Content>
+  <Comments>bird-seen:yesplayback-used:yes</Comments>
+  <Quality>2</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies />
+  <Order>Trogoniformes</Order>
+  <Family>Trogonidae</Family>
+  <Genus>Trogon</Genus>
+  <Species>surrucura</Species>
+  <Sub-species />
+  <VernacularNames>Surucua Trogon</VernacularNames>
+</Audio>

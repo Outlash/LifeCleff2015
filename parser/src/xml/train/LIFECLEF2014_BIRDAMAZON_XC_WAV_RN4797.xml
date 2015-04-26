@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>4797</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN4797.wav</FileName>
+  <ClassId>aufwve</ClassId>
+  <Date>2007-11-30</Date>
+  <Time>21:00</Time>
+  <Locality>Fazenda Angelim, Ubatuba SP</Locality>
+  <Latitude>-23.393</Latitude>
+  <Longitude>-45.065</Longitude>
+  <Elevation>30</Elevation>
+  <Author>Antonio Silveira</Author>
+  <AuthorID>NBJQSQJRYH</AuthorID>
+  <Content>male, song</Content>
+  <Comments>bird-seen:yesplayback-used:yes</Comments>
+  <Quality>0</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies />
+  <Order>Strigiformes</Order>
+  <Family>Strigidae</Family>
+  <Genus>Megascops</Genus>
+  <Species>atricapilla</Species>
+  <Sub-species />
+  <VernacularNames>Black-capped Screech Owl</VernacularNames>
+</Audio>

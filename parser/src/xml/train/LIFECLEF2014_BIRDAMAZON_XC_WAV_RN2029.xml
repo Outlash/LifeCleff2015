@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>2029</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN2029.wav</FileName>
+  <ClassId>ytroxk</ClassId>
+  <Date>2011-11-07</Date>
+  <Time>17:00</Time>
+  <Locality>Viçosa, Minas Gerais</Locality>
+  <Latitude>-20.79</Latitude>
+  <Longitude>-42.8882</Longitude>
+  <Elevation>800</Elevation>
+  <Author>Noé Eiterer</Author>
+  <AuthorID>TWSKITNQOV</AuthorID>
+  <Content>call</Content>
+  <Comments>Recording terrible. Only for personnel record.bird-seen:yesplayback-used:no</Comments>
+  <Quality>4</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Turdidae</Family>
+  <Genus>Turdus</Genus>
+  <Species>amaurochalinus</Species>
+  <Sub-species />
+  <VernacularNames>Creamy-bellied Thrush</VernacularNames>
+</Audio>

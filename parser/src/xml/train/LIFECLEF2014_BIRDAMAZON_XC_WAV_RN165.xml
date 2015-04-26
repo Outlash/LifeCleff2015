@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>165</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN165.wav</FileName>
+  <ClassId>jvqabt</ClassId>
+  <Date>2007-09-23</Date>
+  <Time>7:00</Time>
+  <Locality>Guarau, Peruibe, Sao Paulo</Locality>
+  <Latitude>-24.3701</Latitude>
+  <Longitude>-47.0226</Longitude>
+  <Elevation>2</Elevation>
+  <Author>Gustavo S Cabanne</Author>
+  <AuthorID>XXVEEPYYBD</AuthorID>
+  <Content>song</Content>
+  <Comments />
+  <Quality>4</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies>Coereba flaveola,Setophaga pitiayumi,Cacicus haemorrhous</BackgroundSpecies>
+  <Order>Passeriformes</Order>
+  <Family>Parulidae</Family>
+  <Genus>Myiothlypis</Genus>
+  <Species>rivularis</Species>
+  <Sub-species />
+  <VernacularNames>Riverbank Warbler</VernacularNames>
+</Audio>

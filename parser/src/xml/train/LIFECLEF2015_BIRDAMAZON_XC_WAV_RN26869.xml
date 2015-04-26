@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>26869</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN26869.wav</FileName>
+  <ClassId>smulfl</ClassId>
+  <Date>2012-02-11</Date>
+  <Time>09:42</Time>
+  <Locality>Reserva Natural Mesenia - Paramillo</Locality>
+  <Latitude>5.4828</Latitude>
+  <Longitude>-75.8959</Longitude>
+  <Elevation>2000</Elevation>
+  <Author>Oswaldo Cortes</Author>
+  <AuthorID>VVDRVZCVWW</AuthorID>
+  <Content>song</Content>
+  <Comments />
+  <Quality>3</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Furnariidae</Family>
+  <Genus>Cranioleuca</Genus>
+  <Species>erythrops</Species>
+  <Sub-species />
+  <VernacularNames>Red-faced Spinetail</VernacularNames>
+</Audio>

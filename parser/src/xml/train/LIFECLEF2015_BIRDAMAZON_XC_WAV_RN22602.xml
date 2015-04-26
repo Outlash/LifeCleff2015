@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>22602</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN22602.wav</FileName>
+  <ClassId>qlpnws</ClassId>
+  <Date>2010-04-18</Date>
+  <Time>07:30</Time>
+  <Locality>Montagne des chevaux - Roura</Locality>
+  <Latitude>NULL</Latitude>
+  <Longitude>NULL</Longitude>
+  <Elevation>?</Elevation>
+  <Author>Patrick INGREMEAU</Author>
+  <AuthorID>IIVTYSKEYX</AuthorID>
+  <Content>song</Content>
+  <Comments />
+  <Quality>2</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies>Percnostola rufifrons</BackgroundSpecies>
+  <Order>Passeriformes</Order>
+  <Family>Thamnophilidae</Family>
+  <Genus>Thamnophilus</Genus>
+  <Species>punctatus</Species>
+  <Sub-species />
+  <VernacularNames>Northern Slaty Antshrike</VernacularNames>
+</Audio>

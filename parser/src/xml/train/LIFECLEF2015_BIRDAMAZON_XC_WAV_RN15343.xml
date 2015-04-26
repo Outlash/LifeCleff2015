@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>15343</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN15343.wav</FileName>
+  <ClassId>prpzcg</ClassId>
+  <Date>2013-04-29</Date>
+  <Time>15:33</Time>
+  <Locality>Pedra do Indaiá, Minas Gerais</Locality>
+  <Latitude>-20.2568</Latitude>
+  <Longitude>-45.2111</Longitude>
+  <Elevation>850</Elevation>
+  <Author>Douglas Meyer</Author>
+  <AuthorID>MNENFHYTAE</AuthorID>
+  <Content>call, song</Content>
+  <Comments>bird-seen:yesplayback-used:no</Comments>
+  <Quality>0</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Pipridae</Family>
+  <Genus>Antilophia</Genus>
+  <Species>galeata</Species>
+  <Sub-species />
+  <VernacularNames>Helmeted Manakin</VernacularNames>
+</Audio>

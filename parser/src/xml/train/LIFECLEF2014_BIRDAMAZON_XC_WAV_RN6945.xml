@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>6945</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN6945.wav</FileName>
+  <ClassId>drteex</ClassId>
+  <Date>2008-07-30</Date>
+  <Time>07:30</Time>
+  <Locality>Sítio do Cervo, Miracatú-SP</Locality>
+  <Latitude>-24.38333</Latitude>
+  <Longitude>-47.7</Longitude>
+  <Elevation>50</Elevation>
+  <Author>Tim Hirsch</Author>
+  <AuthorID>BMVCNRFNOY</AuthorID>
+  <Content>duet, song</Content>
+  <Comments>Recorded by riverbank</Comments>
+  <Quality>2</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies>Leptotila verreauxi</BackgroundSpecies>
+  <Order>Gruiformes</Order>
+  <Family>Rallidae</Family>
+  <Genus>Aramides</Genus>
+  <Species>saracura</Species>
+  <Sub-species />
+  <VernacularNames>Slaty-breasted Wood Rail</VernacularNames>
+</Audio>

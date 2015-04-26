@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>23535</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN23535.wav</FileName>
+  <ClassId>loriov</ClassId>
+  <Date>2006-09-14</Date>
+  <Time>04:50</Time>
+  <Locality>Serra de Baturité, Ceará</Locality>
+  <Latitude>-4.2334</Latitude>
+  <Longitude>-38.9167</Longitude>
+  <Elevation>850</Elevation>
+  <Author>Ciro Albano</Author>
+  <AuthorID>MXVQPUKGWW</AuthorID>
+  <Content>song</Content>
+  <Comments />
+  <Quality>3</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Strigiformes</Order>
+  <Family>Strigidae</Family>
+  <Genus>Pulsatrix</Genus>
+  <Species>perspicillata</Species>
+  <Sub-species />
+  <VernacularNames>Spectacled Owl</VernacularNames>
+</Audio>

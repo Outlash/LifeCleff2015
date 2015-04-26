@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>3042</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN3042.wav</FileName>
+  <ClassId>sgfjyn</ClassId>
+  <Date>2002-06-07</Date>
+  <Time>9:42</Time>
+  <Locality>Fazenda Santa Teresa, Rio Pixiam, MT</Locality>
+  <Latitude>-16.7501</Latitude>
+  <Longitude>-56.8667</Longitude>
+  <Elevation>?</Elevation>
+  <Author>Paul Donahue</Author>
+  <AuthorID>LLRXADGTBA</AuthorID>
+  <Content>call, song</Content>
+  <Comments>pair</Comments>
+  <Quality>2</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies>Myiarchus ferox,Inezia inornata,Leptotila verreauxi</BackgroundSpecies>
+  <Order>Passeriformes</Order>
+  <Family>Thamnophilidae</Family>
+  <Genus>Herpsilochmus</Genus>
+  <Species>longirostris</Species>
+  <Sub-species />
+  <VernacularNames>Large-billed Antwren</VernacularNames>
+</Audio>

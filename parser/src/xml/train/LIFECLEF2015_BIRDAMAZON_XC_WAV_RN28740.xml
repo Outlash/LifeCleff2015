@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>28740</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN28740.wav</FileName>
+  <ClassId>tobdcn</ClassId>
+  <Date>2011-07-20</Date>
+  <Time>09:00</Time>
+  <Locality>Galapagos Road, El Cairo / San Jose del Palmar, Valle del Cauca / Choco, W Andes</Locality>
+  <Latitude>4.867</Latitude>
+  <Longitude>-76.219</Longitude>
+  <Elevation>1900</Elevation>
+  <Author>Diego Calderon-F.</Author>
+  <AuthorID>OGATBVKNAG</AuthorID>
+  <Content>call</Content>
+  <Comments />
+  <Quality>3</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Grallariidae</Family>
+  <Genus>Grallaria</Genus>
+  <Species>flavotincta</Species>
+  <Sub-species />
+  <VernacularNames>Yellow-breasted Antpitta</VernacularNames>
+</Audio>

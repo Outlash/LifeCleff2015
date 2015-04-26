@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>32322</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN32322.wav</FileName>
+  <ClassId>ygcrlc</ClassId>
+  <Date>1997-10-10</Date>
+  <Time>00:00</Time>
+  <Locality>Pacific slope below P. N. Munchique, Cauca</Locality>
+  <Latitude>NULL</Latitude>
+  <Longitude>NULL</Longitude>
+  <Elevation>?</Elevation>
+  <Author>Todd Mark</Author>
+  <AuthorID>CLKPHLYUHA</AuthorID>
+  <Content>song</Content>
+  <Comments />
+  <Quality>2</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Troglodytidae</Family>
+  <Genus>Cyphorhinus</Genus>
+  <Species>thoracicus</Species>
+  <Sub-species>dichrous</Sub-species>
+  <VernacularNames>Chestnut-breasted Wren</VernacularNames>
+</Audio>

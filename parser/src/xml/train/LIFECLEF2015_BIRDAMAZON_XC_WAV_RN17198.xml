@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>17198</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN17198.wav</FileName>
+  <ClassId>mexmxs</ClassId>
+  <Date>2013-07-09</Date>
+  <Time>16:00</Time>
+  <Locality>Montezuma Peak Road, Pueblo Rico, Risaralda, W Andes - Tatama National Park</Locality>
+  <Latitude>5.2431</Latitude>
+  <Longitude>-76.0964</Longitude>
+  <Elevation>1610</Elevation>
+  <Author>Diego Calderon-F.</Author>
+  <AuthorID>OGATBVKNAG</AuthorID>
+  <Content>call</Content>
+  <Comments>bird-seen:yesplayback-used:yes</Comments>
+  <Quality>2</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Furnariidae</Family>
+  <Genus>Automolus</Genus>
+  <Species>rubiginosus</Species>
+  <Sub-species>nigricauda?</Sub-species>
+  <VernacularNames>Ruddy Foliage-gleaner</VernacularNames>
+</Audio>

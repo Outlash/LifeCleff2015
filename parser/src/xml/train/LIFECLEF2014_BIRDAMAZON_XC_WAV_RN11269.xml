@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>11269</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN11269.wav</FileName>
+  <ClassId>msentw</ClassId>
+  <Date>2003-03-23</Date>
+  <Time>06:54</Time>
+  <Locality>Vila Bela da Santíssima Trindade</Locality>
+  <Latitude>-14.9834</Latitude>
+  <Longitude>-59.9834</Longitude>
+  <Elevation>225</Elevation>
+  <Author>Jeremy Minns</Author>
+  <AuthorID>DGVLLRYDXS</AuthorID>
+  <Content>Song</Content>
+  <Comments>Terra firme forest.</Comments>
+  <Quality>1</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies>Trogon melanurus,Pheugopedius genibarbis,Ramphocelus carbo,Trogon viridis</BackgroundSpecies>
+  <Order>Piciformes</Order>
+  <Family>Picidae</Family>
+  <Genus>Melanerpes</Genus>
+  <Species>cruentatus</Species>
+  <Sub-species />
+  <VernacularNames>Yellow-tufted Woodpecker</VernacularNames>
+</Audio>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>26314</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN26314.wav</FileName>
+  <ClassId>udwyft</ClassId>
+  <Date>2009-07-19</Date>
+  <Time>08:00</Time>
+  <Locality>Jardin Botanico de Bogota</Locality>
+  <Latitude>NULL</Latitude>
+  <Longitude>NULL</Longitude>
+  <Elevation>2500</Elevation>
+  <Author>Oswaldo Cortes</Author>
+  <AuthorID>VVDRVZCVWW</AuthorID>
+  <Content>song</Content>
+  <Comments />
+  <Quality>2</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Icteridae</Family>
+  <Genus>Icterus</Genus>
+  <Species>chrysater</Species>
+  <Sub-species />
+  <VernacularNames>Yellow-backed Oriole</VernacularNames>
+</Audio>

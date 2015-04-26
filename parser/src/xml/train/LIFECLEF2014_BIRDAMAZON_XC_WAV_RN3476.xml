@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>3476</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN3476.wav</FileName>
+  <ClassId>gwdmfy</ClassId>
+  <Date>2007-07-31</Date>
+  <Time>05:55</Time>
+  <Locality>Pousada Rio Azul, PA</Locality>
+  <Latitude>-9.2456</Latitude>
+  <Longitude>-55.987</Longitude>
+  <Elevation>220</Elevation>
+  <Author>Bradley Davis</Author>
+  <AuthorID>YNXJLOESBB</AuthorID>
+  <Content>song</Content>
+  <Comments>natural song, a territory borders the lodge clearing at Pousada RIo Azul</Comments>
+  <Quality>2</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies>Pygiptila stellaris,Attila spadiceus,Saltator grossus</BackgroundSpecies>
+  <Order>Passeriformes</Order>
+  <Family>Thamnophilidae</Family>
+  <Genus>Hypocnemis</Genus>
+  <Species>hypoxantha</Species>
+  <Sub-species />
+  <VernacularNames>Yellow-browed Antbird</VernacularNames>
+</Audio>

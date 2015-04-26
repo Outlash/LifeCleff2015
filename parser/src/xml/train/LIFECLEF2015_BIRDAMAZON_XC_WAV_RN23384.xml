@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>23384</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN23384.wav</FileName>
+  <ClassId>buacoa</ClassId>
+  <Date>2011-03-08</Date>
+  <Time>08:30</Time>
+  <Locality>Voltzberg, Raleighvallen National Park</Locality>
+  <Latitude>4.68333</Latitude>
+  <Longitude>-56.16667</Longitude>
+  <Elevation>60</Elevation>
+  <Author>Daniel Lane</Author>
+  <AuthorID>WOEAFQRMUD</AuthorID>
+  <Content>song</Content>
+  <Comments>Response to playback from pair (same as XC74915) from about 4-5m up in dense vine tangles in low-stature forest. Male singing first, female giving second song or chatters.</Comments>
+  <Quality>2</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies>Percnostola rufifrons,Myrmoborus leucophrys,Ramphastos tucanus</BackgroundSpecies>
+  <Order>Passeriformes</Order>
+  <Family>Thamnophilidae</Family>
+  <Genus>Cercomacra</Genus>
+  <Species>tyrannina</Species>
+  <Sub-species>saturatior</Sub-species>
+  <VernacularNames>Dusky Antbird</VernacularNames>
+</Audio>

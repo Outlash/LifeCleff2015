@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>22092</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN22092.wav</FileName>
+  <ClassId>fzbuqa</ClassId>
+  <Date>2010-11-18</Date>
+  <Time>?</Time>
+  <Locality>Karasabai</Locality>
+  <Latitude>4.0334</Latitude>
+  <Longitude>-59.5334</Longitude>
+  <Elevation>?</Elevation>
+  <Author>Alexandre Renaudier</Author>
+  <AuthorID>GKADEITXTH</AuthorID>
+  <Content>?</Content>
+  <Comments />
+  <Quality>1</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies>Mimus gilvus</BackgroundSpecies>
+  <Order>Passeriformes</Order>
+  <Family>Tyrannidae</Family>
+  <Genus>Tyrannus</Genus>
+  <Species>savana</Species>
+  <Sub-species />
+  <VernacularNames>Fork-tailed Flycatcher</VernacularNames>
+</Audio>

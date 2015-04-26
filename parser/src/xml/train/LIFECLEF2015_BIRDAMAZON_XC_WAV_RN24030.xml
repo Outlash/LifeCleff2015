@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>24030</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN24030.wav</FileName>
+  <ClassId>rlbfhk</ClassId>
+  <Date>2012-07-09</Date>
+  <Time>08:31</Time>
+  <Locality>Serra do Gandarela, Santa Bárbara, Minas Gerais</Locality>
+  <Latitude>-20.1041</Latitude>
+  <Longitude>-43.6358</Longitude>
+  <Elevation>1300</Elevation>
+  <Author>Luiz Gabriel Mazzoni</Author>
+  <AuthorID>MPOKMOFDDX</AuthorID>
+  <Content>song</Content>
+  <Comments>Montane semideciduous forest.bird-seen:yesplayback-used:no</Comments>
+  <Quality>1</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies>Thalurania glaucopis</BackgroundSpecies>
+  <Order>Piciformes</Order>
+  <Family>Picidae</Family>
+  <Genus>Piculus</Genus>
+  <Species>aurulentus</Species>
+  <Sub-species />
+  <VernacularNames>Yellow-browed Woodpecker</VernacularNames>
+</Audio>

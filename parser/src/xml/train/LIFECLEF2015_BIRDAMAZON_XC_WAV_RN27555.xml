@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>27555</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN27555.wav</FileName>
+  <ClassId>pexhzz</ClassId>
+  <Date>2000-02-18</Date>
+  <Time>13:40</Time>
+  <Locality>PN Sierra Nevada (Loma redonda-La Aguada), Merida</Locality>
+  <Latitude>NULL</Latitude>
+  <Longitude>NULL</Longitude>
+  <Elevation>3445</Elevation>
+  <Author>Bernabe Lopez-Lanus</Author>
+  <AuthorID>BYLLSJRVDZ</AuthorID>
+  <Content>Song</Content>
+  <Comments>Before playback</Comments>
+  <Quality>0</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Rhinocryptidae</Family>
+  <Genus>Scytalopus</Genus>
+  <Species>meridanus</Species>
+  <Sub-species>fuscicauda</Sub-species>
+  <VernacularNames>Merida Tapaculo</VernacularNames>
+</Audio>

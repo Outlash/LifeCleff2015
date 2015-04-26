@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>26147</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN26147.wav</FileName>
+  <ClassId>xlgbxs</ClassId>
+  <Date>2010-04-14</Date>
+  <Time>?</Time>
+  <Locality>Ouanary aircraft and digue</Locality>
+  <Latitude>4.657</Latitude>
+  <Longitude>-51.869</Longitude>
+  <Elevation>2</Elevation>
+  <Author>Renaudier Alexandre</Author>
+  <AuthorID>GKADEITXTH</AuthorID>
+  <Content>call</Content>
+  <Comments />
+  <Quality>1</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Furnariidae</Family>
+  <Genus>Philydor</Genus>
+  <Species>pyrrhodes</Species>
+  <Sub-species />
+  <VernacularNames>Cinnamon-rumped Foliage-gleaner</VernacularNames>
+</Audio>

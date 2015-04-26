@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>24364</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN24364.wav</FileName>
+  <ClassId>xlxoay</ClassId>
+  <Date>2000-07-03</Date>
+  <Time>05:19</Time>
+  <Locality>Barrio El Poblado (alrededores de San Gil), Vereda Buenos Aires, municipio San Gil, Santander</Locality>
+  <Latitude>NULL</Latitude>
+  <Longitude>NULL</Longitude>
+  <Elevation>1100</Elevation>
+  <Author>Bernabe Lopez-Lanus</Author>
+  <AuthorID>BYLLSJRVDZ</AuthorID>
+  <Content>Song</Content>
+  <Comments />
+  <Quality>2</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Thamnophilidae</Family>
+  <Genus>Formicivora</Genus>
+  <Species>intermedia</Species>
+  <Sub-species>fumosa?</Sub-species>
+  <VernacularNames>Northern White-fringed Antwren</VernacularNames>
+</Audio>

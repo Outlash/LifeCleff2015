@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>28285</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN28285.wav</FileName>
+  <ClassId>edqvwi</ClassId>
+  <Date>2014-08-31</Date>
+  <Time>08:30</Time>
+  <Locality>RNA El Mirador, Génova, Quindío</Locality>
+  <Latitude>4.1395</Latitude>
+  <Longitude>-75.7356</Longitude>
+  <Elevation>3300</Elevation>
+  <Author>Oswaldo Cortes</Author>
+  <AuthorID>VVDRVZCVWW</AuthorID>
+  <Content>song</Content>
+  <Comments>bird-seen:yesplayback-used:no</Comments>
+  <Quality>4</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Thraupidae</Family>
+  <Genus>Hemispingus</Genus>
+  <Species>superciliaris</Species>
+  <Sub-species />
+  <VernacularNames>Superciliaried Hemispingus</VernacularNames>
+</Audio>

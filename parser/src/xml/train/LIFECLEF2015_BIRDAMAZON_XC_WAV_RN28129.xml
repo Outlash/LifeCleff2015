@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>28129</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN28129.wav</FileName>
+  <ClassId>vofzgr</ClassId>
+  <Date>2009-09-18</Date>
+  <Time>?</Time>
+  <Locality>Linha Emília, Dois Lajeados, Rio Grande do Sul</Locality>
+  <Latitude>-28.9403</Latitude>
+  <Longitude>-51.7806</Longitude>
+  <Elevation>200</Elevation>
+  <Author>Adrian Eisen Rupp</Author>
+  <AuthorID>AOPMSCIDIA</AuthorID>
+  <Content>song</Content>
+  <Comments />
+  <Quality>3</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Fringillidae</Family>
+  <Genus>Spinus</Genus>
+  <Species>magellanica</Species>
+  <Sub-species />
+  <VernacularNames>Hooded Siskin</VernacularNames>
+</Audio>

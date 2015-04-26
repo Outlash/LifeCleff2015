@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>685</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN685.wav</FileName>
+  <ClassId>jfkqxa</ClassId>
+  <Date>2010-04-07</Date>
+  <Time>8:49</Time>
+  <Locality>Parque Ecológico Colônia Mineira, Apucarana - PR</Locality>
+  <Latitude>-23.5834</Latitude>
+  <Longitude>-51.4345</Longitude>
+  <Elevation>550</Elevation>
+  <Author>Renan Campos de Oliveira</Author>
+  <AuthorID>SDARDTGGWP</AuthorID>
+  <Content>drumming</Content>
+  <Comments />
+  <Quality>1</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies />
+  <Order>Piciformes</Order>
+  <Family>Picidae</Family>
+  <Genus>Dryocopus</Genus>
+  <Species>lineatus</Species>
+  <Sub-species />
+  <VernacularNames>Lineated Woodpecker</VernacularNames>
+</Audio>

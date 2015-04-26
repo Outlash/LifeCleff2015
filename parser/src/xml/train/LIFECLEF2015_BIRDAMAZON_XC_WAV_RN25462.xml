@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>25462</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN25462.wav</FileName>
+  <ClassId>qerdnh</ClassId>
+  <Date>2005-05-02</Date>
+  <Time>08:00</Time>
+  <Locality>Montagne de Fer - Mana</Locality>
+  <Latitude>NULL</Latitude>
+  <Longitude>NULL</Longitude>
+  <Elevation>?</Elevation>
+  <Author>Patrick INGREMEAU</Author>
+  <AuthorID>IIVTYSKEYX</AuthorID>
+  <Content>song</Content>
+  <Comments />
+  <Quality>1</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Thamnophilidae</Family>
+  <Genus>Thamnophilus</Genus>
+  <Species>murinus</Species>
+  <Sub-species />
+  <VernacularNames>Mouse-colored Antshrike</VernacularNames>
+</Audio>

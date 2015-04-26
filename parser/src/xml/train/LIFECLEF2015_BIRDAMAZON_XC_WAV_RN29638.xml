@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>29638</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN29638.wav</FileName>
+  <ClassId>cmcyuw</ClassId>
+  <Date>2013-05-09</Date>
+  <Time>08:30</Time>
+  <Locality>San José del Guaviare, Guaviare</Locality>
+  <Latitude>2.4865</Latitude>
+  <Longitude>-72.794</Longitude>
+  <Elevation>220</Elevation>
+  <Author>Oswaldo Cortes</Author>
+  <AuthorID>VVDRVZCVWW</AuthorID>
+  <Content>song</Content>
+  <Comments>bird-seen:yesplayback-used:no</Comments>
+  <Quality>3</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Troglodytidae</Family>
+  <Genus>Cantorchilus</Genus>
+  <Species>leucotis</Species>
+  <Sub-species />
+  <VernacularNames>Buff-breasted Wren</VernacularNames>
+</Audio>

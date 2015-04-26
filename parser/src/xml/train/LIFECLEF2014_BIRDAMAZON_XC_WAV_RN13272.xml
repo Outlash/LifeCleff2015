@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>13272</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN13272.wav</FileName>
+  <ClassId>zreufv</ClassId>
+  <Date>2010-01-15</Date>
+  <Time>09:20</Time>
+  <Locality>Salseiro, Vidal Ramos, Santa Catarina</Locality>
+  <Latitude>-27.39726</Latitude>
+  <Longitude>-49.379082</Longitude>
+  <Elevation>400</Elevation>
+  <Author>Evair Legal</Author>
+  <AuthorID>SMJXFKLATM</AuthorID>
+  <Content>song</Content>
+  <Comments />
+  <Quality>1</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies>Philydor rufum,Veniliornis spilogaster</BackgroundSpecies>
+  <Order>Passeriformes</Order>
+  <Family>Tityridae</Family>
+  <Genus>Pachyramphus</Genus>
+  <Species>polychopterus</Species>
+  <Sub-species />
+  <VernacularNames>White-winged Becard</VernacularNames>
+</Audio>

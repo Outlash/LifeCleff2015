@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>28859</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN28859.wav</FileName>
+  <ClassId>eghdvj</ClassId>
+  <Date>2006-10-14</Date>
+  <Time>04:50</Time>
+  <Locality>Cristalino Jungle Lodge, MT</Locality>
+  <Latitude>-9.5981</Latitude>
+  <Longitude>-55.932</Longitude>
+  <Elevation>250</Elevation>
+  <Author>Richard C. Hoyer</Author>
+  <AuthorID>SRRRBQPENI</AuthorID>
+  <Content>alternate song</Content>
+  <Comments />
+  <Quality>2</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Caprimulgiformes</Order>
+  <Family>Nyctibiidae</Family>
+  <Genus>Nyctibius</Genus>
+  <Species>aethereus</Species>
+  <Sub-species />
+  <VernacularNames>Long-tailed Potoo</VernacularNames>
+</Audio>

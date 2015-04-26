@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>14100</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN14100.wav</FileName>
+  <ClassId>zuweoe</ClassId>
+  <Date>1993-03-00</Date>
+  <Time>?</Time>
+  <Locality>Curaçá, Bahia</Locality>
+  <Latitude>-9.01</Latitude>
+  <Longitude>-39.9001</Longitude>
+  <Elevation>360</Elevation>
+  <Author>Frank Lambert</Author>
+  <AuthorID>YTUXOCTUEM</AuthorID>
+  <Content>call</Content>
+  <Comments>bird-seen:yesplayback-used:no</Comments>
+  <Quality>2</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies>Primolius maracana</BackgroundSpecies>
+  <Order>Passeriformes</Order>
+  <Family>Thraupidae</Family>
+  <Genus>Compsothraupis</Genus>
+  <Species>loricata</Species>
+  <Sub-species />
+  <VernacularNames>Scarlet-throated Tanager</VernacularNames>
+</Audio>

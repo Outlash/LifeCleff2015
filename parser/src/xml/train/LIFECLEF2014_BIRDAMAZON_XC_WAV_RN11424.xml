@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>11424</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN11424.wav</FileName>
+  <ClassId>onkywx</ClassId>
+  <Date>2009-09-02</Date>
+  <Time>08:50</Time>
+  <Locality>Cristalino Jungle Lodge, MT</Locality>
+  <Latitude>-9.5981</Latitude>
+  <Longitude>-55.932</Longitude>
+  <Elevation>250</Elevation>
+  <Author>Andrew Spencer</Author>
+  <AuthorID>CDTGHVBGZP</AuthorID>
+  <Content>song</Content>
+  <Comments />
+  <Quality>2</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Thamnophilidae</Family>
+  <Genus>Cercomacra</Genus>
+  <Species>manu</Species>
+  <Sub-species />
+  <VernacularNames>Manu Antbird</VernacularNames>
+</Audio>

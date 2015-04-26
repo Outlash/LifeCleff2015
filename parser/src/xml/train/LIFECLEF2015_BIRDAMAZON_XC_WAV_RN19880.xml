@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>19880</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN19880.wav</FileName>
+  <ClassId>vjukoo</ClassId>
+  <Date>2013-11-13</Date>
+  <Time>13:30</Time>
+  <Locality>Itanhaém, SP. Rio Preto</Locality>
+  <Latitude>-24.1834</Latitude>
+  <Longitude>-46.9001</Longitude>
+  <Elevation>20</Elevation>
+  <Author>Bruno Lima</Author>
+  <AuthorID>DVJCMXOTVL</AuthorID>
+  <Content>alarm call, call, song</Content>
+  <Comments>Three songs of this fantastic atlantic forest endemism.bird-seen:yesplayback-used:yes</Comments>
+  <Quality>1</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Tyrannidae</Family>
+  <Genus>Attila</Genus>
+  <Species>rufus</Species>
+  <Sub-species />
+  <VernacularNames>Grey-hooded Attila</VernacularNames>
+</Audio>

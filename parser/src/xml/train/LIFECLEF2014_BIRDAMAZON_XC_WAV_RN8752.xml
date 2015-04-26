@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>8752</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN8752.wav</FileName>
+  <ClassId>lmawzv</ClassId>
+  <Date>2009-12-16</Date>
+  <Time>11:30</Time>
+  <Locality>Palmas, Tocantins</Locality>
+  <Latitude>-10.2095</Latitude>
+  <Longitude>-48.252</Longitude>
+  <Elevation>500</Elevation>
+  <Author>GABRIEL LEITE</Author>
+  <AuthorID>TGBFXDVERJ</AuthorID>
+  <Content>male, song</Content>
+  <Comments>bird-seen:yesplayback-used:no</Comments>
+  <Quality>5</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies>Myiozetetes cayanensis</BackgroundSpecies>
+  <Order>Psittaciformes</Order>
+  <Family>Psittacidae</Family>
+  <Genus>Primolius</Genus>
+  <Species>maracana</Species>
+  <Sub-species />
+  <VernacularNames>Blue-winged Macaw</VernacularNames>
+</Audio>

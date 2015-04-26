@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>7429</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN7429.wav</FileName>
+  <ClassId>pzlgrh</ClassId>
+  <Date>2012-10-28</Date>
+  <Time>08:15</Time>
+  <Locality>Wetland along the Iguaçu River - Curitiba - Paraná</Locality>
+  <Latitude>-25.5492</Latitude>
+  <Longitude>-49.2262</Longitude>
+  <Elevation>900</Elevation>
+  <Author>Ben Tavener</Author>
+  <AuthorID>ZXIEZTHEPH</AuthorID>
+  <Content>Call</Content>
+  <Comments>About 40 birds in flock</Comments>
+  <Quality>3</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies />
+  <Order>Psittaciformes</Order>
+  <Family>Psittacidae</Family>
+  <Genus>Brotogeris</Genus>
+  <Species>tirica</Species>
+  <Sub-species />
+  <VernacularNames>Plain Parakeet</VernacularNames>
+</Audio>

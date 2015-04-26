@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>23878</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN23878.wav</FileName>
+  <ClassId>cpmbyl</ClassId>
+  <Date>2005-10-21</Date>
+  <Time>9:12</Time>
+  <Locality>San Juan de Pasto, Corregimiento de Daza, Nariño</Locality>
+  <Latitude>1.2667</Latitude>
+  <Longitude>-77.2501</Longitude>
+  <Elevation>2800</Elevation>
+  <Author>Oscar Laverde</Author>
+  <AuthorID>WKVKSVMNDZ</AuthorID>
+  <Content>song</Content>
+  <Comments>juvenil??</Comments>
+  <Quality>0</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Grallariidae</Family>
+  <Genus>Grallaria</Genus>
+  <Species>ruficapilla</Species>
+  <Sub-species />
+  <VernacularNames>Chestnut-crowned Antpitta</VernacularNames>
+</Audio>

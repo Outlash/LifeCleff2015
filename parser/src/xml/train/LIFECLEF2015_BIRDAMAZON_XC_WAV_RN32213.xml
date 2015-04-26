@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>32213</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN32213.wav</FileName>
+  <ClassId>ffvgyk</ClassId>
+  <Date>2002-01-00</Date>
+  <Time>xx:xx</Time>
+  <Locality>Ocaña, Agua de la Virgen, Cerro de la virgen, Norte de Santander</Locality>
+  <Latitude>8.2167</Latitude>
+  <Longitude>-73.4001</Longitude>
+  <Elevation>1600</Elevation>
+  <Author>Thomas Donegan</Author>
+  <AuthorID>OXSIOLJJUP</AuthorID>
+  <Content>Song</Content>
+  <Comments>Appears to be two individuals</Comments>
+  <Quality>3</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Troglodytidae</Family>
+  <Genus>Henicorhina</Genus>
+  <Species>leucophrys</Species>
+  <Sub-species>tamae</Sub-species>
+  <VernacularNames>Grey-breasted Wood Wren</VernacularNames>
+</Audio>

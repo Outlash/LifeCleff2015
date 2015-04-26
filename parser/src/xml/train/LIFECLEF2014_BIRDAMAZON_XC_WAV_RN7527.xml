@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>7527</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN7527.wav</FileName>
+  <ClassId>gevshc</ClassId>
+  <Date>2010-08-25</Date>
+  <Time>13:51</Time>
+  <Locality>trail between Hotel Donati and Hotel Simon, Itatiaia NP, RJ</Locality>
+  <Latitude>-22.457</Latitude>
+  <Longitude>-44.5901</Longitude>
+  <Elevation>1000</Elevation>
+  <Author>Herman van Oosten</Author>
+  <AuthorID>SNUDCZVUQK</AuthorID>
+  <Content>call?</Content>
+  <Comments>Small group, feeding</Comments>
+  <Quality>1</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Thraupidae</Family>
+  <Genus>Tangara</Genus>
+  <Species>desmaresti</Species>
+  <Sub-species />
+  <VernacularNames>Brassy-breasted Tanager</VernacularNames>
+</Audio>

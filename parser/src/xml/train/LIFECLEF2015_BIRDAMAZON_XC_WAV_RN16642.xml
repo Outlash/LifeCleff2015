@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>16642</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN16642.wav</FileName>
+  <ClassId>waknsi</ClassId>
+  <Date>2013-03-16</Date>
+  <Time>19:51</Time>
+  <Locality>Anserma (Caldas)</Locality>
+  <Latitude>NULL</Latitude>
+  <Longitude>NULL</Longitude>
+  <Elevation>1010</Elevation>
+  <Author>Juan Alejandro Morales Betancourt</Author>
+  <AuthorID>IGDQIENOHE</AuthorID>
+  <Content>call</Content>
+  <Comments>bird-seen:yesplayback-used:no</Comments>
+  <Quality>2</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Caprimulgiformes</Order>
+  <Family>Caprimulgidae</Family>
+  <Genus>Nyctidromus</Genus>
+  <Species>albicollis</Species>
+  <Sub-species />
+  <VernacularNames>Pauraque</VernacularNames>
+</Audio>

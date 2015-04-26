@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>19179</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN19179.wav</FileName>
+  <ClassId>wwwgvj</ClassId>
+  <Date>2012-07-21</Date>
+  <Time>07:59</Time>
+  <Locality>Quinchia, Departamento de Risaralda</Locality>
+  <Latitude>5.3448</Latitude>
+  <Longitude>-75.67</Longitude>
+  <Elevation>1650</Elevation>
+  <Author>Oswaldo Cortes</Author>
+  <AuthorID>VVDRVZCVWW</AuthorID>
+  <Content>songl</Content>
+  <Comments />
+  <Quality>0</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Emberizidae</Family>
+  <Genus>Atlapetes</Genus>
+  <Species>albinucha</Species>
+  <Sub-species />
+  <VernacularNames>White-naped Brush Finch</VernacularNames>
+</Audio>

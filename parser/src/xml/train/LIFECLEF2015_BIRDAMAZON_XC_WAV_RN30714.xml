@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>30714</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN30714.wav</FileName>
+  <ClassId>zufgrw</ClassId>
+  <Date>1993-07-23</Date>
+  <Time>00:23</Time>
+  <Locality>Chapada dos Guimaraes, MT</Locality>
+  <Latitude>-15.456327</Latitude>
+  <Longitude>-55.774841</Longitude>
+  <Elevation>800</Elevation>
+  <Author>Teus Luijendijk</Author>
+  <AuthorID>VLNULZJNSX</AuthorID>
+  <Content>(sub?)song</Content>
+  <Comments>immature male, cut out 10s in the middle</Comments>
+  <Quality>3</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Fringillidae</Family>
+  <Genus>Euphonia</Genus>
+  <Species>laniirostris</Species>
+  <Sub-species />
+  <VernacularNames>Thick-billed Euphonia</VernacularNames>
+</Audio>

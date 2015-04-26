@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>4658</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN4658.wav</FileName>
+  <ClassId>nhvrzu</ClassId>
+  <Date>2003-04-08</Date>
+  <Time>08:47</Time>
+  <Locality>Pousada Thaimaçu. Rio São Benedito</Locality>
+  <Latitude>-9.0501</Latitude>
+  <Longitude>-56.5834</Longitude>
+  <Elevation>180</Elevation>
+  <Author>Jeremy Minns</Author>
+  <AuthorID>DGVLLRYDXS</AuthorID>
+  <Content>call</Content>
+  <Comments>Terra firme forest. Calls by male, after playback.</Comments>
+  <Quality>1</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies>Crypturellus cinereus,Crypturellus strigulosus</BackgroundSpecies>
+  <Order>Passeriformes</Order>
+  <Family>Thamnophilidae</Family>
+  <Genus>Thamnophilus</Genus>
+  <Species>stictocephalus</Species>
+  <Sub-species>stictocephalus</Sub-species>
+  <VernacularNames>Natterer's Slaty Antshrike</VernacularNames>
+</Audio>

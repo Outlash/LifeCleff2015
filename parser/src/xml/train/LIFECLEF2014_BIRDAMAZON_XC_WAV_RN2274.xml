@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>2274</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN2274.wav</FileName>
+  <ClassId>gevshc</ClassId>
+  <Date>2001-03-14</Date>
+  <Time>08:32</Time>
+  <Locality>Conceicao de Ibitipoca</Locality>
+  <Latitude>-21.7001</Latitude>
+  <Longitude>-43.8834</Longitude>
+  <Elevation>1200</Elevation>
+  <Author>Jeremy Minns</Author>
+  <AuthorID>DGVLLRYDXS</AuthorID>
+  <Content>call</Content>
+  <Comments>Edge of montane forest. Small flock low down in bushes.</Comments>
+  <Quality>1</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Thraupidae</Family>
+  <Genus>Tangara</Genus>
+  <Species>desmaresti</Species>
+  <Sub-species />
+  <VernacularNames>Brassy-breasted Tanager</VernacularNames>
+</Audio>

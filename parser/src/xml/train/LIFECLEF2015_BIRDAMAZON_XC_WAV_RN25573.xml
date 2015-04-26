@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>25573</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN25573.wav</FileName>
+  <ClassId>dyxufx</ClassId>
+  <Date>0000-00-00</Date>
+  <Time>?:?</Time>
+  <Locality>Departamento de Choco, Parque Nacional Natural Ensenada de Utria</Locality>
+  <Latitude>5.98</Latitude>
+  <Longitude>-77.35</Longitude>
+  <Elevation>?</Elevation>
+  <Author>Frank Lambert</Author>
+  <AuthorID>YTUXOCTUEM</AuthorID>
+  <Content>call</Content>
+  <Comments>Previously published on AVoCet as &lt;a href=http://avocet.zoology.msu.edu/recordings/9226&gt;AV9226&lt;/a&gt;.  Certainty: 100%.  ID determined by: not seen calling, matches XC cuts. GPS: GeoHack.</Comments>
+  <Quality>2</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Thamnophilidae</Family>
+  <Genus>Thamnophilus</Genus>
+  <Species>atrinucha</Species>
+  <Sub-species />
+  <VernacularNames>Black-crowned Antshrike</VernacularNames>
+</Audio>

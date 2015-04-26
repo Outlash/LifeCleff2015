@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>20106</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN20106.wav</FileName>
+  <ClassId>bogxos</ClassId>
+  <Date>2011-03-31</Date>
+  <Time>?</Time>
+  <Locality>sinnamary, savanes de la piste de St Elie</Locality>
+  <Latitude>NULL</Latitude>
+  <Longitude>NULL</Longitude>
+  <Elevation>9</Elevation>
+  <Author>Alexandre Renaudier</Author>
+  <AuthorID>GKADEITXTH</AuthorID>
+  <Content>dawn song</Content>
+  <Comments />
+  <Quality>2</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies>Xiphorhynchus pardalotus,Ortalis motmot,Tyrannus melancholicus,Turdus leucomelas,Crypturellus cinereus,Tinamus major</BackgroundSpecies>
+  <Order>Passeriformes</Order>
+  <Family>Tyrannidae</Family>
+  <Genus>Megarynchus</Genus>
+  <Species>pitangua</Species>
+  <Sub-species />
+  <VernacularNames>Boat-billed Flycatcher</VernacularNames>
+</Audio>

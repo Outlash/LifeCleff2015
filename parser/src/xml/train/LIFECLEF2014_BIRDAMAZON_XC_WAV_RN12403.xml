@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>12403</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN12403.wav</FileName>
+  <ClassId>gshgib</ClassId>
+  <Date>2011-07-13</Date>
+  <Time>09:00</Time>
+  <Locality>Resende, Rio de Janeiro</Locality>
+  <Latitude>-22.392</Latitude>
+  <Longitude>-44.6656</Longitude>
+  <Elevation>2300</Elevation>
+  <Author>Rodrigo Dela Rosa</Author>
+  <AuthorID>VGXDJMKETZ</AuthorID>
+  <Content>Song, male, song</Content>
+  <Comments>bird-seen:yesplayback-used:no</Comments>
+  <Quality>3</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Furnariidae</Family>
+  <Genus>Asthenes</Genus>
+  <Species>moreirae</Species>
+  <Sub-species />
+  <VernacularNames>Itatiaia Spinetail</VernacularNames>
+</Audio>

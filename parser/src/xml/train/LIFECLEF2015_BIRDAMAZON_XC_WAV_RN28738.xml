@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>28738</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN28738.wav</FileName>
+  <ClassId>uphahj</ClassId>
+  <Date>2014-08-01</Date>
+  <Time>10:00</Time>
+  <Locality>Libano, Tolima</Locality>
+  <Latitude>4.9174</Latitude>
+  <Longitude>-75.073</Longitude>
+  <Elevation>1600</Elevation>
+  <Author>Jeisson Poveda</Author>
+  <AuthorID>CVJNYXJFAW</AuthorID>
+  <Content>call</Content>
+  <Comments>bird-seen:yesplayback-used:no</Comments>
+  <Quality>2</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Accipitriformes</Order>
+  <Family>Accipitridae</Family>
+  <Genus>Rupornis</Genus>
+  <Species>magnirostris</Species>
+  <Sub-species />
+  <VernacularNames>Roadside Hawk</VernacularNames>
+</Audio>

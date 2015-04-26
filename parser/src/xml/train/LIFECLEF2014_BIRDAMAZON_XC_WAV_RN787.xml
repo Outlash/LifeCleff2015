@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>787</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN787.wav</FileName>
+  <ClassId>jpjrlh</ClassId>
+  <Date>2012-01-03</Date>
+  <Time>08:00</Time>
+  <Locality>Campos do Jordão, São Paulo</Locality>
+  <Latitude>-22.6895</Latitude>
+  <Longitude>-45.4896</Longitude>
+  <Elevation>1500</Elevation>
+  <Author>GABRIEL LEITE</Author>
+  <AuthorID>TGBFXDVERJ</AuthorID>
+  <Content>male, song</Content>
+  <Comments>bird-seen:yesplayback-used:yes</Comments>
+  <Quality>1</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies>Scytalopus speluncae</BackgroundSpecies>
+  <Order>Passeriformes</Order>
+  <Family>Thamnophilidae</Family>
+  <Genus>Mackenziaena</Genus>
+  <Species>leachii</Species>
+  <Sub-species />
+  <VernacularNames>Large-tailed Antshrike</VernacularNames>
+</Audio>

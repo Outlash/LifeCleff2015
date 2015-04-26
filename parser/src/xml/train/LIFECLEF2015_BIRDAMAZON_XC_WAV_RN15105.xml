@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>15105</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN15105.wav</FileName>
+  <ClassId>lktqhx</ClassId>
+  <Date>2014-04-09</Date>
+  <Time>07:30</Time>
+  <Locality>La Escalera Road - Sierra de Imataca</Locality>
+  <Latitude>6.0192</Latitude>
+  <Longitude>-61.4259</Longitude>
+  <Elevation>850</Elevation>
+  <Author>Thore Noernberg</Author>
+  <AuthorID>TTSQGWDDGW</AuthorID>
+  <Content>call, song</Content>
+  <Comments>bird calling at the cloud forest close to the Cock 0f the Rock trail bird-seen:yesplayback-used:no</Comments>
+  <Quality>2</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Piciformes</Order>
+  <Family>Ramphastidae</Family>
+  <Genus>Selenidera</Genus>
+  <Species>piperivora</Species>
+  <Sub-species />
+  <VernacularNames>Guianan Toucanet</VernacularNames>
+</Audio>

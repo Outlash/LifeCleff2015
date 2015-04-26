@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>10180</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN10180.wav</FileName>
+  <ClassId>kazyby</ClassId>
+  <Date>2003-12-04</Date>
+  <Time>04:51</Time>
+  <Locality>Pousada Araras, Pantanal, MT</Locality>
+  <Latitude>-16.5167</Latitude>
+  <Longitude>-56.7167</Longitude>
+  <Elevation>120</Elevation>
+  <Author>Jeremy Minns</Author>
+  <AuthorID>DGVLLRYDXS</AuthorID>
+  <Content>call</Content>
+  <Comments>Seasonally flooded pasture and gallery forest. In the distance Black Howler Monkey (Alouatta caraya).</Comments>
+  <Quality>2</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies>Cyanocorax cyanomelas</BackgroundSpecies>
+  <Order>Passeriformes</Order>
+  <Family>Furnariidae</Family>
+  <Genus>Synallaxis</Genus>
+  <Species>albilora</Species>
+  <Sub-species />
+  <VernacularNames>White-lored Spinetail</VernacularNames>
+</Audio>

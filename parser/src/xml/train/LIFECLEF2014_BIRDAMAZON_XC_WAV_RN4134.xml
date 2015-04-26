@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>4134</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN4134.wav</FileName>
+  <ClassId>rogygm</ClassId>
+  <Date>2012-09-19</Date>
+  <Time>08:00</Time>
+  <Locality>Iporanga, São Paulo State</Locality>
+  <Latitude>NULL</Latitude>
+  <Longitude>NULL</Longitude>
+  <Elevation>610</Elevation>
+  <Author>Robson Silva e Silva</Author>
+  <AuthorID>WZSVLIHYQF</AuthorID>
+  <Content>Song</Content>
+  <Comments />
+  <Quality>1</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Cotingidae</Family>
+  <Genus>Lipaugus</Genus>
+  <Species>lanioides</Species>
+  <Sub-species />
+  <VernacularNames>Cinnamon-vented Piha</VernacularNames>
+</Audio>

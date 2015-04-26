@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>5068</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN5068.wav</FileName>
+  <ClassId>syipvo</ClassId>
+  <Date>2012-09-23</Date>
+  <Time>16:15</Time>
+  <Locality>Parque Florestal Quedas do Rio Bonito, Lavras, Minas Gerais.</Locality>
+  <Latitude>NULL</Latitude>
+  <Longitude>NULL</Longitude>
+  <Elevation>1145</Elevation>
+  <Author>Kassius K. Santos</Author>
+  <AuthorID>LDUBEBHXQK</AuthorID>
+  <Content>song</Content>
+  <Comments />
+  <Quality>2</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Turdidae</Family>
+  <Genus>Turdus</Genus>
+  <Species>subalaris</Species>
+  <Sub-species />
+  <VernacularNames>Eastern Slaty Thrush</VernacularNames>
+</Audio>

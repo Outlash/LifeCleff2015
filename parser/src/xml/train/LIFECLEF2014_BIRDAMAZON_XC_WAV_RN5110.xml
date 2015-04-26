@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>5110</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN5110.wav</FileName>
+  <ClassId>qdnved</ClassId>
+  <Date>2002-07-23</Date>
+  <Time>07:01</Time>
+  <Locality>Boa Nova, Wet Forest, state of Bahia</Locality>
+  <Latitude>-14.3834</Latitude>
+  <Longitude>-40.1001</Longitude>
+  <Elevation>825</Elevation>
+  <Author>Jeremy Minns</Author>
+  <AuthorID>DGVLLRYDXS</AuthorID>
+  <Content>call</Content>
+  <Comments>Humid forest. Natural calls by a single bird, perched on a hanging branch  and sallying for insects. Called after each sally. Other individuals calling in the background.</Comments>
+  <Quality>2</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies>Chamaeza meruloides,Synallaxis whitneyi,Hemitriccus diops,Contopus cinereus,Saltator fuliginosus</BackgroundSpecies>
+  <Order>Passeriformes</Order>
+  <Family>Tyrannidae</Family>
+  <Genus>Colonia</Genus>
+  <Species>colonus</Species>
+  <Sub-species>colonus</Sub-species>
+  <VernacularNames>Long-tailed Tyrant</VernacularNames>
+</Audio>

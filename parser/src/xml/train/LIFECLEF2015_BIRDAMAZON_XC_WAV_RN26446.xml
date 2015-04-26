@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>26446</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN26446.wav</FileName>
+  <ClassId>fevggo</ClassId>
+  <Date>2010-12-05</Date>
+  <Time>?</Time>
+  <Locality>bolivar, el pauji road, cinco rancho</Locality>
+  <Latitude>NULL</Latitude>
+  <Longitude>NULL</Longitude>
+  <Elevation>800</Elevation>
+  <Author>Alexandre Renaudier</Author>
+  <AuthorID>GKADEITXTH</AuthorID>
+  <Content>song</Content>
+  <Comments>in response to playback</Comments>
+  <Quality>2</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies>Hylophilus semicinereus,Progne chalybea,Ramphocaenus melanurus</BackgroundSpecies>
+  <Order>Passeriformes</Order>
+  <Family>Furnariidae</Family>
+  <Genus>Lepidocolaptes</Genus>
+  <Species>albolineatus</Species>
+  <Sub-species>duidae</Sub-species>
+  <VernacularNames>Lineated Woodcreeper</VernacularNames>
+</Audio>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>5350</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN5350.wav</FileName>
+  <ClassId>syipvo</ClassId>
+  <Date>2009-09-06</Date>
+  <Time>05:50</Time>
+  <Locality>Goiânia, Goiás.</Locality>
+  <Latitude>-16.691448</Latitude>
+  <Longitude>-49.266815</Longitude>
+  <Elevation>610</Elevation>
+  <Author>Nunes D´Acosta</Author>
+  <AuthorID>OHHTDSDNBT</AuthorID>
+  <Content>song</Content>
+  <Comments>Spp. Turdus  subalaris, espécie que sazonalmente aparece migrando do sul nos bosques de Goiânia - Campus Samambaia, mata  alta e seca.</Comments>
+  <Quality>2</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Turdidae</Family>
+  <Genus>Turdus</Genus>
+  <Species>subalaris</Species>
+  <Sub-species />
+  <VernacularNames>Eastern Slaty Thrush</VernacularNames>
+</Audio>

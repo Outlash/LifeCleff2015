@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>20693</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN20693.wav</FileName>
+  <ClassId>jntlqc</ClassId>
+  <Date>2000-04-18</Date>
+  <Time>am</Time>
+  <Locality>Finca La Pradera, Parroquia Remolinos, Municipio Puerto Lopez, Meta</Locality>
+  <Latitude>NULL</Latitude>
+  <Longitude>NULL</Longitude>
+  <Elevation>400</Elevation>
+  <Author>Bernabe Lopez-Lanus</Author>
+  <AuthorID>BYLLSJRVDZ</AuthorID>
+  <Content>song</Content>
+  <Comments />
+  <Quality>3</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies>Cyanocorax violaceus</BackgroundSpecies>
+  <Order>Piciformes</Order>
+  <Family>Bucconidae</Family>
+  <Genus>Hypnelus</Genus>
+  <Species>ruficollis</Species>
+  <Sub-species>ruficollis</Sub-species>
+  <VernacularNames>Russet-throated Puffbird</VernacularNames>
+</Audio>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>26199</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN26199.wav</FileName>
+  <ClassId>ombazy</ClassId>
+  <Date>2010-01-00</Date>
+  <Time>xx:xx</Time>
+  <Locality>Santa Cecilia, Serrania de San Lucas</Locality>
+  <Latitude>7.9759</Latitude>
+  <Longitude>-74.2153</Longitude>
+  <Elevation>1550</Elevation>
+  <Author>Thomas Donegan</Author>
+  <AuthorID>OXSIOLJJUP</AuthorID>
+  <Content>Song</Content>
+  <Comments>ID not certain, bird in a flock with at least 10 other Furnariidae</Comments>
+  <Quality>5</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies>Trogon personatus,Hylophilus semibrunneus,Dendrocincla fuliginosa</BackgroundSpecies>
+  <Order>Passeriformes</Order>
+  <Family>Furnariidae</Family>
+  <Genus>Campylorhamphus</Genus>
+  <Species>trochilirostris</Species>
+  <Sub-species />
+  <VernacularNames>Red-billed Scythebill</VernacularNames>
+</Audio>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>3324</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN3324.wav</FileName>
+  <ClassId>perzmu</ClassId>
+  <Date>2003-09-13</Date>
+  <Time>08:15</Time>
+  <Locality>Tiradentes, MG</Locality>
+  <Latitude>-21.1167</Latitude>
+  <Longitude>-44.1501</Longitude>
+  <Elevation>900</Elevation>
+  <Author>Jeremy Minns</Author>
+  <AuthorID>DGVLLRYDXS</AuthorID>
+  <Content>Song</Content>
+  <Comments>Trail up Serra de S‹o JosŽ. Scrub and semi-deciduous forest. Song by bird in canopy of small tree.</Comments>
+  <Quality>2</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies>Psittacara leucophthalmus,Dysithamnus mentalis,Hemitriccus nidipendulus,Saltator similis</BackgroundSpecies>
+  <Order>Passeriformes</Order>
+  <Family>Coerebidae</Family>
+  <Genus>Coereba</Genus>
+  <Species>flaveola</Species>
+  <Sub-species>chloropyga</Sub-species>
+  <VernacularNames>Bananaquit</VernacularNames>
+</Audio>

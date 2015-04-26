@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>4798</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN4798.wav</FileName>
+  <ClassId>yjatvw</ClassId>
+  <Date>2007-08-05</Date>
+  <Time>23:35</Time>
+  <Locality>Brusque - Santa Catarina State</Locality>
+  <Latitude>-27.0834</Latitude>
+  <Longitude>-48.9001</Longitude>
+  <Elevation>60</Elevation>
+  <Author>Glauco Kohler</Author>
+  <AuthorID>FGRUITYYXA</AuthorID>
+  <Content>call</Content>
+  <Comments />
+  <Quality>4</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies />
+  <Order>Strigiformes</Order>
+  <Family>Strigidae</Family>
+  <Genus>Pseudoscops</Genus>
+  <Species>clamator</Species>
+  <Sub-species />
+  <VernacularNames>Striped Owl</VernacularNames>
+</Audio>

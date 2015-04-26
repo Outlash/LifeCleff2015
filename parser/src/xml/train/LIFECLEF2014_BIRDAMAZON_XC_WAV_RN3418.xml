@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>3418</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN3418.wav</FileName>
+  <ClassId>xiyuxl</ClassId>
+  <Date>2005-05-19</Date>
+  <Time>10:00</Time>
+  <Locality>Parque Estadual Intervales, SP</Locality>
+  <Latitude>-24.2759</Latitude>
+  <Longitude>-48.4181</Longitude>
+  <Elevation>850</Elevation>
+  <Author>Nick Athanas</Author>
+  <AuthorID>XRABICUARW</AuthorID>
+  <Content>call</Content>
+  <Comments />
+  <Quality>2</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Furnariidae</Family>
+  <Genus>Syndactyla</Genus>
+  <Species>rufosuperciliata</Species>
+  <Sub-species>rufosuperciliata</Sub-species>
+  <VernacularNames>Buff-browed Foliage-gleaner</VernacularNames>
+</Audio>

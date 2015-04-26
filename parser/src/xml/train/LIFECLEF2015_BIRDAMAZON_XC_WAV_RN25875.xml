@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>25875</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN25875.wav</FileName>
+  <ClassId>mppolc</ClassId>
+  <Date>2013-07-23</Date>
+  <Time>07:00</Time>
+  <Locality>PNN TATAMÁ</Locality>
+  <Latitude>5.1113</Latitude>
+  <Longitude>-76.0633</Longitude>
+  <Elevation>3600</Elevation>
+  <Author>Julian Andres Zuleta Marín</Author>
+  <AuthorID>AMCJKUNQOR</AuthorID>
+  <Content>song</Content>
+  <Comments>bird-seen:yes</Comments>
+  <Quality>0</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Thraupidae</Family>
+  <Genus>Diglossa</Genus>
+  <Species>gloriosissima</Species>
+  <Sub-species />
+  <VernacularNames>Chestnut-bellied Flowerpiercer</VernacularNames>
+</Audio>

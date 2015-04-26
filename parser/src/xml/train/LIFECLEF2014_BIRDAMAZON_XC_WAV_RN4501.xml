@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>4501</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN4501.wav</FileName>
+  <ClassId>fqumzc</ClassId>
+  <Date>1998-08-00</Date>
+  <Time>?:?</Time>
+  <Locality>Transpantaneira, Pantanal</Locality>
+  <Latitude>NULL</Latitude>
+  <Longitude>NULL</Longitude>
+  <Elevation>?</Elevation>
+  <Author>Miguel Castelino</Author>
+  <AuthorID>RCJCABZSNP</AuthorID>
+  <Content>song</Content>
+  <Comments>female &lt;a href=http://www.xeno-canto.org/graphics/conosur.jpg rel=lightbox&gt;From Bird Sounds of Southern South America by Lopez-Lanus (2008)&lt;/a&gt;</Comments>
+  <Quality>2</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies />
+  <Order>Piciformes</Order>
+  <Family>Picidae</Family>
+  <Genus>Campephilus</Genus>
+  <Species>melanoleucos</Species>
+  <Sub-species />
+  <VernacularNames>Crimson-crested Woodpecker</VernacularNames>
+</Audio>

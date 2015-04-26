@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>15152</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN15152.wav</FileName>
+  <ClassId>drcmin</ClassId>
+  <Date>2001-07-02</Date>
+  <Time>06:07</Time>
+  <Locality>Anavilhanas Archipelago</Locality>
+  <Latitude>-2.6834</Latitude>
+  <Longitude>-60.7501</Longitude>
+  <Elevation>16</Elevation>
+  <Author>Jeremy Minns</Author>
+  <AuthorID>DGVLLRYDXS</AuthorID>
+  <Content>Song</Content>
+  <Comments>Edge of flooded igapó forest.</Comments>
+  <Quality>0</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies>Nyctiprogne leucopyga,Ramphastos tucanus,Pitangus sulphuratus</BackgroundSpecies>
+  <Order>Passeriformes</Order>
+  <Family>Thamnophilidae</Family>
+  <Genus>Sakesphorus</Genus>
+  <Species>canadensis</Species>
+  <Sub-species>loretoyacuensis</Sub-species>
+  <VernacularNames>Black-crested Antshrike</VernacularNames>
+</Audio>

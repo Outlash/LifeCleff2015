@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>13185</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN13185.wav</FileName>
+  <ClassId>gvyxhh</ClassId>
+  <Date>2011-07-27</Date>
+  <Time>10:00</Time>
+  <Locality>Banhado do Maçarico region, Rio Grande, Rio Grande do Sul</Locality>
+  <Latitude>-32.141</Latitude>
+  <Longitude>-52.28</Longitude>
+  <Elevation>2</Elevation>
+  <Author>Rafael Antunes Dias</Author>
+  <AuthorID>XJSWEWQCEC</AuthorID>
+  <Content>call</Content>
+  <Comments>In tiny forest patch, poor quality, only for documentation purposes</Comments>
+  <Quality>5</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Thraupidae</Family>
+  <Genus>Stephanophorus</Genus>
+  <Species>diadematus</Species>
+  <Sub-species />
+  <VernacularNames>Diademed Tanager</VernacularNames>
+</Audio>

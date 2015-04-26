@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>15041</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN15041.wav</FileName>
+  <ClassId>jbynhe</ClassId>
+  <Date>2011-01-30</Date>
+  <Time>11:30</Time>
+  <Locality>Manaus, Amazonas</Locality>
+  <Latitude>-2.6248</Latitude>
+  <Longitude>-59.9771</Longitude>
+  <Elevation>130</Elevation>
+  <Author>GABRIEL LEITE</Author>
+  <AuthorID>TGBFXDVERJ</AuthorID>
+  <Content>male, song</Content>
+  <Comments>bird-seen:yesplayback-used:no</Comments>
+  <Quality>2</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies>Hypocnemis cantator</BackgroundSpecies>
+  <Order>Passeriformes</Order>
+  <Family>Thamnophilidae</Family>
+  <Genus>Willisornis</Genus>
+  <Species>poecilinotus</Species>
+  <Sub-species />
+  <VernacularNames>Common Scale-backed Antbird</VernacularNames>
+</Audio>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>25957</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN25957.wav</FileName>
+  <ClassId>iofesp</ClassId>
+  <Date>2011-12-13</Date>
+  <Time>08:00</Time>
+  <Locality>Presidente Figueiredo, Amazonas</Locality>
+  <Latitude>-1.8097</Latitude>
+  <Longitude>-59.6667</Longitude>
+  <Elevation>40</Elevation>
+  <Author>GABRIEL LEITE</Author>
+  <AuthorID>TGBFXDVERJ</AuthorID>
+  <Content>song</Content>
+  <Comments>bird-seen:yesplayback-used:no</Comments>
+  <Quality>2</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies>Lipaugus vociferans,Formicarius analis</BackgroundSpecies>
+  <Order>Passeriformes</Order>
+  <Family>Tyrannidae</Family>
+  <Genus>Rhynchocyclus</Genus>
+  <Species>olivaceus</Species>
+  <Sub-species />
+  <VernacularNames>Olivaceous Flatbill</VernacularNames>
+</Audio>

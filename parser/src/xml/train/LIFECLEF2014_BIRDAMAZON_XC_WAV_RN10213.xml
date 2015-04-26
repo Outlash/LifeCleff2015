@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>10213</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN10213.wav</FileName>
+  <ClassId>waknsi</ClassId>
+  <Date>2012-10-30</Date>
+  <Time>23:30</Time>
+  <Locality>Barão de Melgaço, RPPN SESC Pantanal</Locality>
+  <Latitude>-16.7692</Latitude>
+  <Longitude>-56.1712</Longitude>
+  <Elevation>130</Elevation>
+  <Author>Paulo Affonso Fonseca Pires Neto</Author>
+  <AuthorID>QOMWCAGQJX</AuthorID>
+  <Content>song</Content>
+  <Comments>bird-seen:noplayback-used:no</Comments>
+  <Quality>2</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies />
+  <Order>Caprimulgiformes</Order>
+  <Family>Caprimulgidae</Family>
+  <Genus>Nyctidromus</Genus>
+  <Species>albicollis</Species>
+  <Sub-species />
+  <VernacularNames>Pauraque</VernacularNames>
+</Audio>

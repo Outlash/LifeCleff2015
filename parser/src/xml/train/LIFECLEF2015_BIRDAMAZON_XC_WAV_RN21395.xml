@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>21395</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN21395.wav</FileName>
+  <ClassId>jhwuqr</ClassId>
+  <Date>2011-05-24</Date>
+  <Time>?</Time>
+  <Locality>Saint-Georges, savane-roche N2</Locality>
+  <Latitude>NULL</Latitude>
+  <Longitude>NULL</Longitude>
+  <Elevation>30</Elevation>
+  <Author>Alexandre Renaudier</Author>
+  <AuthorID>GKADEITXTH</AuthorID>
+  <Content>song</Content>
+  <Comments>a very rare species in French Guiana. This is the first recording for this country.</Comments>
+  <Quality>3</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies>Myiarchus ferox,Volatinia jacarina,Progne chalybea</BackgroundSpecies>
+  <Order>Passeriformes</Order>
+  <Family>Thraupidae</Family>
+  <Genus>Sporophila</Genus>
+  <Species>nigricollis</Species>
+  <Sub-species />
+  <VernacularNames>Yellow-bellied Seedeater</VernacularNames>
+</Audio>

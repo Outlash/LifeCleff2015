@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>31720</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN31720.wav</FileName>
+  <ClassId>cwsozb</ClassId>
+  <Date>2013-07-31</Date>
+  <Time>07:30</Time>
+  <Locality>Caura - Las Trincheras</Locality>
+  <Latitude>6.963</Latitude>
+  <Longitude>-64.899</Longitude>
+  <Elevation>60</Elevation>
+  <Author>Thore Noernberg</Author>
+  <AuthorID>TTSQGWDDGW</AuthorID>
+  <Content>call</Content>
+  <Comments>bird calling at Rio Caura Lodge bird-seen:yesplayback-used:no</Comments>
+  <Quality>2</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Corvidae</Family>
+  <Genus>Cyanocorax</Genus>
+  <Species>violaceus</Species>
+  <Sub-species />
+  <VernacularNames>Violaceous Jay</VernacularNames>
+</Audio>

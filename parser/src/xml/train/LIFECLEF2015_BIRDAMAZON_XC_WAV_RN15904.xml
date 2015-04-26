@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>15904</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN15904.wav</FileName>
+  <ClassId>uwehqf</ClassId>
+  <Date>2011-05-24</Date>
+  <Time>?</Time>
+  <Locality>Saint-Georges, savane-roche N2</Locality>
+  <Latitude>NULL</Latitude>
+  <Longitude>NULL</Longitude>
+  <Elevation>30</Elevation>
+  <Author>Alexandre Renaudier</Author>
+  <AuthorID>GKADEITXTH</AuthorID>
+  <Content>call</Content>
+  <Comments />
+  <Quality>2</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Piciformes</Order>
+  <Family>Ramphastidae</Family>
+  <Genus>Pteroglossus</Genus>
+  <Species>aracari</Species>
+  <Sub-species />
+  <VernacularNames>Black-necked Aracari</VernacularNames>
+</Audio>

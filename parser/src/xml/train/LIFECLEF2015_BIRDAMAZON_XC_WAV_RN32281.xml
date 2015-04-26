@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>32281</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN32281.wav</FileName>
+  <ClassId>lavuag</ClassId>
+  <Date>2008-05-04</Date>
+  <Time>06:10</Time>
+  <Locality>Finca el Vergel, Vereda Toche, limite entre Cajamarca y Salento  entre Quindio y Tolima</Locality>
+  <Latitude>4.6432</Latitude>
+  <Longitude>-75.4131</Longitude>
+  <Elevation>3600</Elevation>
+  <Author>Oscar Humberto Marin-Gomez</Author>
+  <AuthorID>CSUHASNRSU</AuthorID>
+  <Content>male, song</Content>
+  <Comments>Ref OHM025A  2929. Un macho forrajeando en arbusto de Melastomataceae en potrero. 20m del Mic. Vocalización Natural. Camino hacia la Primavera. Grabaciones realizadas en compañía  de Diego Duque Montoya.bird-seen:yesplayback-used:no</Comments>
+  <Quality>2</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies>Myioborus ornatus</BackgroundSpecies>
+  <Order>Apodiformes</Order>
+  <Family>Trochilidae</Family>
+  <Genus>Metallura</Genus>
+  <Species>tyrianthina</Species>
+  <Sub-species />
+  <VernacularNames>Tyrian Metaltail</VernacularNames>
+</Audio>

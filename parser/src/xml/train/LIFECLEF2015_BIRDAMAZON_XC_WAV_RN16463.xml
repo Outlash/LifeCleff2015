@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>16463</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN16463.wav</FileName>
+  <ClassId>ayfewp</ClassId>
+  <Date>2008-08-03</Date>
+  <Time>09:15</Time>
+  <Locality>RNA Hormiguero de Torcoroma, Ocaña, Norte de Santander</Locality>
+  <Latitude>8.2031</Latitude>
+  <Longitude>-73.3798</Longitude>
+  <Elevation>1600</Elevation>
+  <Author>Andrew Spencer</Author>
+  <AuthorID>CDTGHVBGZP</AuthorID>
+  <Content>song</Content>
+  <Comments />
+  <Quality>1</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Emberizidae</Family>
+  <Genus>Arremon</Genus>
+  <Species>brunneinucha</Species>
+  <Sub-species>frontalis</Sub-species>
+  <VernacularNames>Chestnut-capped Brush Finch</VernacularNames>
+</Audio>

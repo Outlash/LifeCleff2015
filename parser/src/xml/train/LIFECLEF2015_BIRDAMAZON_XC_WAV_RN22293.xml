@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>22293</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN22293.wav</FileName>
+  <ClassId>vdoulx</ClassId>
+  <Date>2010-08-07</Date>
+  <Time>?</Time>
+  <Locality>awala-Yalimapo, digue</Locality>
+  <Latitude>5.73778</Latitude>
+  <Longitude>-53.945961</Longitude>
+  <Elevation>1</Elevation>
+  <Author>Alexandre Renaudier</Author>
+  <AuthorID>GKADEITXTH</AuthorID>
+  <Content>alarm call</Content>
+  <Comments />
+  <Quality>1</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies>Pitangus sulphuratus,Saltator coerulescens,Cantorchilus leucotis,Phaeomyias murina,Camptostoma obsoletum</BackgroundSpecies>
+  <Order>Passeriformes</Order>
+  <Family>Icteridae</Family>
+  <Genus>Icterus</Genus>
+  <Species>nigrogularis</Species>
+  <Sub-species />
+  <VernacularNames>Yellow Oriole</VernacularNames>
+</Audio>

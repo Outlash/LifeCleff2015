@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>19501</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN19501.wav</FileName>
+  <ClassId>nsmtcj</ClassId>
+  <Date>2014-05-18</Date>
+  <Time>09:53</Time>
+  <Locality>Rio Branco, Rio Branco, Acre</Locality>
+  <Latitude>-9.9491</Latitude>
+  <Longitude>-67.8809</Longitude>
+  <Elevation>160</Elevation>
+  <Author>Edson Guilherme</Author>
+  <AuthorID>FZTTBRELVC</AuthorID>
+  <Content>song</Content>
+  <Comments>Parque Zoobotânico/Universidade Federal do Acrebird-seen:yes</Comments>
+  <Quality>0</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies>Phaethornis ruber</BackgroundSpecies>
+  <Order>Piciformes</Order>
+  <Family>Picidae</Family>
+  <Genus>Veniliornis</Genus>
+  <Species>affinis</Species>
+  <Sub-species />
+  <VernacularNames>Red-stained Woodpecker</VernacularNames>
+</Audio>

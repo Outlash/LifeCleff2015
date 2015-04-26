@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>9968</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN9968.wav</FileName>
+  <ClassId>zieccy</ClassId>
+  <Date>2002-07-24</Date>
+  <Time>09:51</Time>
+  <Locality>Boa Nova, Wet Forest, state of Bahia</Locality>
+  <Latitude>-14.3834</Latitude>
+  <Longitude>-40.1001</Longitude>
+  <Elevation>825</Elevation>
+  <Author>Jeremy Minns</Author>
+  <AuthorID>DGVLLRYDXS</AuthorID>
+  <Content>Call</Content>
+  <Comments>Call A. Classification as in our DVD-ROM 'Birds of Brazil' Humid forest. Natural calls of bird seen perched in bush beside stream. Probably Such's Antthrush which had sung close by, whereas Short-tailed Antthrush was not heard at all during this visit to Boa Nova. This is Call A in our DVD-ROM 'Birds of Brazil'.</Comments>
+  <Quality>2</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Formicariidae</Family>
+  <Genus>Chamaeza</Genus>
+  <Species>meruloides</Species>
+  <Sub-species />
+  <VernacularNames>Cryptic Antthrush</VernacularNames>
+</Audio>

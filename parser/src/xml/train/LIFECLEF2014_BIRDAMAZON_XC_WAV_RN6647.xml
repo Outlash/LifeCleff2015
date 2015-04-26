@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>6647</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN6647.wav</FileName>
+  <ClassId>mjvnht</ClassId>
+  <Date>2006-09-27</Date>
+  <Time>11:30</Time>
+  <Locality>Reserva Ecológica de Guapiaçu, RJ</Locality>
+  <Latitude>-22.5001</Latitude>
+  <Longitude>-42.7167</Longitude>
+  <Elevation>?</Elevation>
+  <Author>Leonardo Pimentel</Author>
+  <AuthorID>JHBOHGJALL</AuthorID>
+  <Content>Song</Content>
+  <Comments>This recording represented the first record of this species in the reserve.</Comments>
+  <Quality>3</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies>Brotogeris tirica</BackgroundSpecies>
+  <Order>Passeriformes</Order>
+  <Family>Rhinocryptidae</Family>
+  <Genus>Psilorhamphus</Genus>
+  <Species>guttatus</Species>
+  <Sub-species />
+  <VernacularNames>Spotted Bamboowren</VernacularNames>
+</Audio>

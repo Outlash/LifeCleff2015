@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>11291</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN11291.wav</FileName>
+  <ClassId>ywpbix</ClassId>
+  <Date>2012-11-02</Date>
+  <Time>10:00</Time>
+  <Locality>Manacapuru, Amazonas</Locality>
+  <Latitude>-3.2062</Latitude>
+  <Longitude>-60.1781</Longitude>
+  <Elevation>40</Elevation>
+  <Author>Glauco Kohler</Author>
+  <AuthorID>JDNMEJOJEQ</AuthorID>
+  <Content>song</Content>
+  <Comments>bird-seen:yesplayback-used:no</Comments>
+  <Quality>1</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Troglodytidae</Family>
+  <Genus>Cyphorhinus</Genus>
+  <Species>arada</Species>
+  <Sub-species />
+  <VernacularNames>Musician Wren</VernacularNames>
+</Audio>

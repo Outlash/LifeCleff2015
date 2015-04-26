@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>7397</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN7397.wav</FileName>
+  <ClassId>bgqyzr</ClassId>
+  <Date>2011-09-28</Date>
+  <Time>06:13</Time>
+  <Locality>Cristalino Jungle Lodge, MT</Locality>
+  <Latitude>-9.5981</Latitude>
+  <Longitude>-55.932</Longitude>
+  <Elevation>260</Elevation>
+  <Author>Eric DeFonso</Author>
+  <AuthorID>KTLCZCRCQX</AuthorID>
+  <Content>call, female</Content>
+  <Comments>At the lodge grounds. Bird strolling by at very close range while male sings nearby.bird-seen:yesplayback-used:no</Comments>
+  <Quality>1</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies />
+  <Order>Galliformes</Order>
+  <Family>Cracidae</Family>
+  <Genus>Crax</Genus>
+  <Species>fasciolata</Species>
+  <Sub-species />
+  <VernacularNames>Bare-faced Curassow</VernacularNames>
+</Audio>

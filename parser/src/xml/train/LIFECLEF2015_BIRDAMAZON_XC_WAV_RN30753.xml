@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>30753</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN30753.wav</FileName>
+  <ClassId>bpufoz</ClassId>
+  <Date>2013-10-14</Date>
+  <Time>08:00</Time>
+  <Locality>Route de Guatemala (Kourou)</Locality>
+  <Latitude>5.0901</Latitude>
+  <Longitude>-52.5698</Longitude>
+  <Elevation>10</Elevation>
+  <Author>Michel Giraud-Audine</Author>
+  <AuthorID>WLMNCMVQIR</AuthorID>
+  <Content>song</Content>
+  <Comments>Natural vocalization.bird-seen:yesplayback-used:no</Comments>
+  <Quality>5</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Tyrannidae</Family>
+  <Genus>Conopias</Genus>
+  <Species>parvus</Species>
+  <Sub-species />
+  <VernacularNames>Yellow-throated Flycatcher</VernacularNames>
+</Audio>

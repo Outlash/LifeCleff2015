@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>25636</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN25636.wav</FileName>
+  <ClassId>ngukgn</ClassId>
+  <Date>2010-01-09</Date>
+  <Time>07:00</Time>
+  <Locality>Santa Cecilia, Serrania de San Lucas</Locality>
+  <Latitude>7.9759</Latitude>
+  <Longitude>-74.2153</Longitude>
+  <Elevation>1550</Elevation>
+  <Author>Thomas Donegan</Author>
+  <AuthorID>OXSIOLJJUP</AuthorID>
+  <Content>Call</Content>
+  <Comments>Bird netted at site but not seen here.</Comments>
+  <Quality>5</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Troglodytidae</Family>
+  <Genus>Microcerculus</Genus>
+  <Species>marginatus</Species>
+  <Sub-species />
+  <VernacularNames>Southern Nightingale-Wren</VernacularNames>
+</Audio>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>6268</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN6268.wav</FileName>
+  <ClassId>hwqenp</ClassId>
+  <Date>2011-11-04</Date>
+  <Time>09:00</Time>
+  <Locality>São Luiz do Paraitinga, São Paulo</Locality>
+  <Latitude>-23.3309</Latitude>
+  <Longitude>-45.1566</Longitude>
+  <Elevation>1000</Elevation>
+  <Author>GABRIEL LEITE</Author>
+  <AuthorID>TGBFXDVERJ</AuthorID>
+  <Content>male, song</Content>
+  <Comments>bird-seen:yesplayback-used:no</Comments>
+  <Quality>3</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies>Turdus flavipes</BackgroundSpecies>
+  <Order>Passeriformes</Order>
+  <Family>Thamnophilidae</Family>
+  <Genus>Dysithamnus</Genus>
+  <Species>mentalis</Species>
+  <Sub-species />
+  <VernacularNames>Plain Antvireo</VernacularNames>
+</Audio>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>28713</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN28713.wav</FileName>
+  <ClassId>oozajf</ClassId>
+  <Date>2008-12-26</Date>
+  <Time>09:00</Time>
+  <Locality>Parque Natural Chicaque</Locality>
+  <Latitude>4.611331</Latitude>
+  <Longitude>-74.3153</Longitude>
+  <Elevation>2500</Elevation>
+  <Author>Oswaldo Cortes</Author>
+  <AuthorID>VVDRVZCVWW</AuthorID>
+  <Content>Songs, song</Content>
+  <Comments />
+  <Quality>2</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies>Geotrygon frenata</BackgroundSpecies>
+  <Order>Tinamiformes</Order>
+  <Family>Tinamidae</Family>
+  <Genus>Crypturellus</Genus>
+  <Species>obsoletus</Species>
+  <Sub-species />
+  <VernacularNames>Brown Tinamou</VernacularNames>
+</Audio>

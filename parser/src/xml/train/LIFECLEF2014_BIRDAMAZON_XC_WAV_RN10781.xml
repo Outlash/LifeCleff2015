@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>10781</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN10781.wav</FileName>
+  <ClassId>mfqpdt</ClassId>
+  <Date>2005-09-29</Date>
+  <Time>15:00</Time>
+  <Locality>Reserva Biologica da Campina, north of Manaus</Locality>
+  <Latitude>-2.5909</Latitude>
+  <Longitude>-60.0306</Longitude>
+  <Elevation>140</Elevation>
+  <Author>Richard C. Hoyer</Author>
+  <AuthorID>SRRRBQPENI</AuthorID>
+  <Content>call</Content>
+  <Comments />
+  <Quality>1</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies />
+  <Order>Piciformes</Order>
+  <Family>Galbulidae</Family>
+  <Genus>Galbula</Genus>
+  <Species>leucogastra</Species>
+  <Sub-species />
+  <VernacularNames>Bronzy Jacamar</VernacularNames>
+</Audio>

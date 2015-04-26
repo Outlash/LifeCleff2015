@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>33176</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN33176.wav</FileName>
+  <ClassId>asvgnp</ClassId>
+  <Date>2009-01-12</Date>
+  <Time>10:00</Time>
+  <Locality>Achaguas, Apure</Locality>
+  <Latitude>7.4943</Latitude>
+  <Longitude>-67.8362</Longitude>
+  <Elevation>50</Elevation>
+  <Author>Joe Klaiber</Author>
+  <AuthorID>TNPOVFLZMY</AuthorID>
+  <Content>call</Content>
+  <Comments>bird-seen:yesplayback-used:no</Comments>
+  <Quality>1</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Falconiformes</Order>
+  <Family>Falconidae</Family>
+  <Genus>Milvago</Genus>
+  <Species>chimachima</Species>
+  <Sub-species />
+  <VernacularNames>Yellow-headed Caracara</VernacularNames>
+</Audio>

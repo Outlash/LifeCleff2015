@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>23664</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN23664.wav</FileName>
+  <ClassId>yruddd</ClassId>
+  <Date>2011-01-15</Date>
+  <Time>09:18</Time>
+  <Locality>Bacia 81, Santarem, PA</Locality>
+  <Latitude>-2.598</Latitude>
+  <Longitude>-54.521</Longitude>
+  <Elevation>?</Elevation>
+  <Author>Alexander Lees</Author>
+  <AuthorID>INDDBZAFJL</AuthorID>
+  <Content>call</Content>
+  <Comments>primary forest (logged and burnt), visually confirmed, interval reduced</Comments>
+  <Quality>4</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies>Myiopagis gaimardii,Tyrannulus elatus</BackgroundSpecies>
+  <Order>Piciformes</Order>
+  <Family>Picidae</Family>
+  <Genus>Piculus</Genus>
+  <Species>flavigula</Species>
+  <Sub-species>magnus</Sub-species>
+  <VernacularNames>Yellow-throated Woodpecker</VernacularNames>
+</Audio>

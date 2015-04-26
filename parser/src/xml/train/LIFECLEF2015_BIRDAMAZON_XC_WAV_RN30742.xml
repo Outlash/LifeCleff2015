@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>30742</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN30742.wav</FileName>
+  <ClassId>aaogct</ClassId>
+  <Date>2004-07-13</Date>
+  <Time>05:01</Time>
+  <Locality>Aquidauana. Fazenda Aguapé</Locality>
+  <Latitude>-20.0834</Latitude>
+  <Longitude>-55.9501</Longitude>
+  <Elevation>128</Elevation>
+  <Author>Jeremy Minns</Author>
+  <AuthorID>DGVLLRYDXS</AuthorID>
+  <Content>Song</Content>
+  <Comments>Pasture beside lake, near gallery forest.</Comments>
+  <Quality>2</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies>Aratinga nenday</BackgroundSpecies>
+  <Order>Passeriformes</Order>
+  <Family>Icteridae</Family>
+  <Genus>Icterus</Genus>
+  <Species>croconotus</Species>
+  <Sub-species>strictifrons</Sub-species>
+  <VernacularNames>Orange-backed Troupial</VernacularNames>
+</Audio>

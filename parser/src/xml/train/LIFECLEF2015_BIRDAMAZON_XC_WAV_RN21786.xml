@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>21786</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN21786.wav</FileName>
+  <ClassId>efxnjc</ClassId>
+  <Date>2010-09-22</Date>
+  <Time>?</Time>
+  <Locality>Régina, grande Montagne tortue Bélizon</Locality>
+  <Latitude>4.31667</Latitude>
+  <Longitude>-52.1333</Longitude>
+  <Elevation>200</Elevation>
+  <Author>Alexandre Renaudier</Author>
+  <AuthorID>GKADEITXTH</AuthorID>
+  <Content>Song</Content>
+  <Comments>In response to playback</Comments>
+  <Quality>2</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Strigiformes</Order>
+  <Family>Strigidae</Family>
+  <Genus>Glaucidium</Genus>
+  <Species>hardyi</Species>
+  <Sub-species />
+  <VernacularNames>Amazonian Pygmy Owl</VernacularNames>
+</Audio>

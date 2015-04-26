@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>31044</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN31044.wav</FileName>
+  <ClassId>eydhxz</ClassId>
+  <Date>2000-01-13</Date>
+  <Time>07:37</Time>
+  <Locality>Bonito, MS. Serra da Bodoquena</Locality>
+  <Latitude>-21.0834</Latitude>
+  <Longitude>-56.8667</Longitude>
+  <Elevation>315</Elevation>
+  <Author>Jeremy Minns</Author>
+  <AuthorID>DGVLLRYDXS</AuthorID>
+  <Content>Song</Content>
+  <Comments>Dry forest and scrub. Single male, perched at top of bare tree.</Comments>
+  <Quality>2</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies>Leptotila verreauxi,Brotogeris chiriri</BackgroundSpecies>
+  <Order>Passeriformes</Order>
+  <Family>Thraupidae</Family>
+  <Genus>Coryphospingus</Genus>
+  <Species>cucullatus</Species>
+  <Sub-species>rubescens</Sub-species>
+  <VernacularNames>Red Pileated Finch</VernacularNames>
+</Audio>

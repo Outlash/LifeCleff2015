@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>2191</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN2191.wav</FileName>
+  <ClassId>kwpuds</ClassId>
+  <Date>2009-07-11</Date>
+  <Time>09:00</Time>
+  <Locality>Tupana lodge, Amazonas</Locality>
+  <Latitude>-4.067</Latitude>
+  <Longitude>-60.6598</Longitude>
+  <Elevation>?</Elevation>
+  <Author>Olivier Claessens</Author>
+  <AuthorID>KRQYNRSSDF</AuthorID>
+  <Content>song</Content>
+  <Comments />
+  <Quality>2</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies />
+  <Order>Piciformes</Order>
+  <Family>Galbulidae</Family>
+  <Genus>Galbula</Genus>
+  <Species>cyanicollis</Species>
+  <Sub-species />
+  <VernacularNames>Blue-necked Jacamar</VernacularNames>
+</Audio>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>7254</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN7254.wav</FileName>
+  <ClassId>inrkmj</ClassId>
+  <Date>2001-03-15</Date>
+  <Time>16:58</Time>
+  <Locality>Tiradentes. Serra de São José</Locality>
+  <Latitude>-21.1001</Latitude>
+  <Longitude>-44.2001</Longitude>
+  <Elevation>1050</Elevation>
+  <Author>Jeremy Minns</Author>
+  <AuthorID>DGVLLRYDXS</AuthorID>
+  <Content>Call</Content>
+  <Comments>Low scrub. This is Call A in our DVD-ROM 'Birds of Brazil'.</Comments>
+  <Quality>2</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Furnariidae</Family>
+  <Genus>Synallaxis</Genus>
+  <Species>spixi</Species>
+  <Sub-species />
+  <VernacularNames>Spix's Spinetail</VernacularNames>
+</Audio>

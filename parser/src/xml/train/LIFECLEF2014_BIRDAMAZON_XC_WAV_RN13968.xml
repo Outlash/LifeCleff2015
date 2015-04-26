@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>13968</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN13968.wav</FileName>
+  <ClassId>hgmqff</ClassId>
+  <Date>2012-04-14</Date>
+  <Time>14:16</Time>
+  <Locality>Timbaúba, Pernambuco</Locality>
+  <Latitude>-7.6096</Latitude>
+  <Longitude>-35.3952</Longitude>
+  <Elevation>440</Elevation>
+  <Author>Marcus Braun</Author>
+  <AuthorID>EICLYDGEKS</AuthorID>
+  <Content>song</Content>
+  <Comments>bird-seen:noplayback-used:no</Comments>
+  <Quality>1</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies>Pheugopedius genibarbis</BackgroundSpecies>
+  <Order>Passeriformes</Order>
+  <Family>Thamnophilidae</Family>
+  <Genus>Myrmeciza</Genus>
+  <Species>ruficauda</Species>
+  <Sub-species />
+  <VernacularNames>Scalloped Antbird</VernacularNames>
+</Audio>

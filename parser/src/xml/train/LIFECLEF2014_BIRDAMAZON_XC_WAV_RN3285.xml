@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>3285</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN3285.wav</FileName>
+  <ClassId>hkqgia</ClassId>
+  <Date>2000-08-14</Date>
+  <Time>09:28</Time>
+  <Locality>Caraguatatuba, São Paulo state. 'Hípica as Gaivotas'</Locality>
+  <Latitude>-23.5667</Latitude>
+  <Longitude>-45.3167</Longitude>
+  <Elevation>10</Elevation>
+  <Author>Jeremy Minns</Author>
+  <AuthorID>DGVLLRYDXS</AuthorID>
+  <Content>call</Content>
+  <Comments>Lowland humid forest.</Comments>
+  <Quality>1</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies>Drymophila squamata,Automolus leucophthalmus,Procnias nudicollis</BackgroundSpecies>
+  <Order>Passeriformes</Order>
+  <Family>Tyrannidae</Family>
+  <Genus>Todirostrum</Genus>
+  <Species>poliocephalum</Species>
+  <Sub-species />
+  <VernacularNames>Yellow-lored Tody-Flycatcher</VernacularNames>
+</Audio>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>11501</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN11501.wav</FileName>
+  <ClassId>pprfie</ClassId>
+  <Date>2013-09-17</Date>
+  <Time>8:10</Time>
+  <Locality>Alto Paraiso, Goias</Locality>
+  <Latitude>-14.161877</Latitude>
+  <Longitude>-47.526169</Longitude>
+  <Elevation />
+  <Author>Marcelo Araya-Salas</Author>
+  <AuthorID>EMCWQLLKEW</AuthorID>
+  <Content>song</Content>
+  <Comments>Recording equipment: iphone/tascam adaptor+senheisser ME67. Comments: rec at 15m perched at 10 m,  Cerrado forest, riparian vegetation patch, rec at 8m of distance, Road to Sao Jorge. To access original .WAV file contact marceloa27(at)gmail.combird-seen:yesplayback-used:no</Comments>
+  <Quality>1</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Vireonidae</Family>
+  <Genus>Cyclarhis</Genus>
+  <Species>gujanensis</Species>
+  <Sub-species />
+  <VernacularNames>Rufous-browed Peppershrike</VernacularNames>
+</Audio>

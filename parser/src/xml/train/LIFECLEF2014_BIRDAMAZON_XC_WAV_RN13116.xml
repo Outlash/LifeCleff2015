@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>13116</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN13116.wav</FileName>
+  <ClassId>ssdpyu</ClassId>
+  <Date>2012-07-14</Date>
+  <Time>08:17</Time>
+  <Locality>Assentamentos no pé da Serra Grande-Pão de Açúcar-alagoas-Brasil</Locality>
+  <Latitude>-9.661</Latitude>
+  <Longitude>-37.412</Longitude>
+  <Elevation>200</Elevation>
+  <Author>pedroteia</Author>
+  <AuthorID>BZVNDWLRSQ</AuthorID>
+  <Content>song</Content>
+  <Comments>inédito som de dueto .A medida que se avança mata adentro se encontra outros sons diferentes d cantos desse incrível pássaro.</Comments>
+  <Quality>1</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Troglodytidae</Family>
+  <Genus>Cantorchilus</Genus>
+  <Species>longirostris</Species>
+  <Sub-species />
+  <VernacularNames>Long-billed Wren</VernacularNames>
+</Audio>

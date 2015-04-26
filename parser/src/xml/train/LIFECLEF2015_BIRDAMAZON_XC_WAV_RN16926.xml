@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>16926</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN16926.wav</FileName>
+  <ClassId>kzadgq</ClassId>
+  <Date>2002-06-27</Date>
+  <Time>06:17</Time>
+  <Locality>Reserva Iguaque (SFF), Villa de Leyva, Boyaca</Locality>
+  <Latitude>NULL</Latitude>
+  <Longitude>NULL</Longitude>
+  <Elevation>2850</Elevation>
+  <Author>Bernabe Lopez-Lanus</Author>
+  <AuthorID>BYLLSJRVDZ</AuthorID>
+  <Content>Song</Content>
+  <Comments />
+  <Quality>0</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Emberizidae</Family>
+  <Genus>Chlorospingus</Genus>
+  <Species>flavopectus</Species>
+  <Sub-species>flavopectus</Sub-species>
+  <VernacularNames>Common Bush Tanager</VernacularNames>
+</Audio>

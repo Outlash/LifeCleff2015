@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>30554</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN30554.wav</FileName>
+  <ClassId>wwwgvj</ClassId>
+  <Date>2011-02-22</Date>
+  <Time>7:05</Time>
+  <Locality>Conbeima canyon. Ibague. Tolima</Locality>
+  <Latitude>4.3828</Latitude>
+  <Longitude>-75.3278</Longitude>
+  <Elevation>1800</Elevation>
+  <Author>Pablo Florez</Author>
+  <AuthorID>ISWBQKPBGS</AuthorID>
+  <Content>?</Content>
+  <Comments />
+  <Quality>1</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Emberizidae</Family>
+  <Genus>Atlapetes</Genus>
+  <Species>albinucha</Species>
+  <Sub-species />
+  <VernacularNames>White-naped Brush Finch</VernacularNames>
+</Audio>

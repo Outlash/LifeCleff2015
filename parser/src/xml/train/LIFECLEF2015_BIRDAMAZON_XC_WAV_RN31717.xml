@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>31717</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN31717.wav</FileName>
+  <ClassId>ntezht</ClassId>
+  <Date>2009-04-10</Date>
+  <Time>17:20</Time>
+  <Locality>Finca La Judea, Vereda Pedregales Alto, Génova, Quindio</Locality>
+  <Latitude>4.1543</Latitude>
+  <Longitude>-75.7191</Longitude>
+  <Elevation>3300</Elevation>
+  <Author>Oscar Humberto Marin-Gomez</Author>
+  <AuthorID>CSUHASNRSU</AuthorID>
+  <Content>flight call</Content>
+  <Comments>OHM059B. 1052.  Grupo de 12 individuos en borde de bosque, cerca a nidos artificiales, el grupo de disgrego.bird-seen:yesplayback-used:no</Comments>
+  <Quality>2</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Psittaciformes</Order>
+  <Family>Psittacidae</Family>
+  <Genus>Hapalopsittaca</Genus>
+  <Species>fuertesi</Species>
+  <Sub-species />
+  <VernacularNames>Fuertes's Parrot</VernacularNames>
+</Audio>

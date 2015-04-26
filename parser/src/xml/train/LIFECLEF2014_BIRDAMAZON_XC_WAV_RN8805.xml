@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>8805</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN8805.wav</FileName>
+  <ClassId>tscknr</ClassId>
+  <Date>2007-04-30</Date>
+  <Time>?</Time>
+  <Locality>Estrada das Agulhas Negras, Parque Nacional Itatiaia, Itamonte, Minas Gerais</Locality>
+  <Latitude>-22.3692</Latitude>
+  <Longitude>-44.7478</Longitude>
+  <Elevation>1900</Elevation>
+  <Author>Vitor de Q. Piacentini</Author>
+  <AuthorID>BMAIKRWPPA</AuthorID>
+  <Content>calls/songs</Content>
+  <Comments>a male, after playback</Comments>
+  <Quality>1</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies>Tijuca atra,Myiothlypis leucoblephara</BackgroundSpecies>
+  <Order>Passeriformes</Order>
+  <Family>Fringillidae</Family>
+  <Genus>Euphonia</Genus>
+  <Species>chalybea</Species>
+  <Sub-species />
+  <VernacularNames>Green-chinned Euphonia</VernacularNames>
+</Audio>

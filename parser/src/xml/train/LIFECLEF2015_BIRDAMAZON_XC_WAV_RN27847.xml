@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>27847</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN27847.wav</FileName>
+  <ClassId>jbufjj</ClassId>
+  <Date>1998-10-21</Date>
+  <Time>09:45</Time>
+  <Locality>Casca d'Anta, Parque Nacional da Serra da Canastra, SW Minas Gerais</Locality>
+  <Latitude>-20.2503</Latitude>
+  <Longitude>-46.3667</Longitude>
+  <Elevation>900</Elevation>
+  <Author>Jeremy Minns</Author>
+  <AuthorID>DGVLLRYDXS</AuthorID>
+  <Content>call</Content>
+  <Comments>Road to Casca d'Anta. Single female plumaged bird at top of bare tree.</Comments>
+  <Quality>1</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies>Saltator similis,Myiothlypis flaveola</BackgroundSpecies>
+  <Order>Passeriformes</Order>
+  <Family>Thraupidae</Family>
+  <Genus>Tersina</Genus>
+  <Species>viridis</Species>
+  <Sub-species>viridis</Sub-species>
+  <VernacularNames>Swallow Tanager</VernacularNames>
+</Audio>

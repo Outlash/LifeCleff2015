@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>20625</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN20625.wav</FileName>
+  <ClassId>sywekf</ClassId>
+  <Date>2007-10-04</Date>
+  <Time>07:00</Time>
+  <Locality>Rio Branco, state of Acre</Locality>
+  <Latitude>-9.979671</Latitude>
+  <Longitude>-67.774658</Longitude>
+  <Elevation>100</Elevation>
+  <Author>Sidnei Dantas</Author>
+  <AuthorID>NNCKQMBGPH</AuthorID>
+  <Content>call</Content>
+  <Comments />
+  <Quality>2</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies>Pitangus sulphuratus</BackgroundSpecies>
+  <Order>Passeriformes</Order>
+  <Family>Tyrannidae</Family>
+  <Genus>Todirostrum</Genus>
+  <Species>chrysocrotaphum</Species>
+  <Sub-species />
+  <VernacularNames>Yellow-browed Tody-Flycatcher</VernacularNames>
+</Audio>

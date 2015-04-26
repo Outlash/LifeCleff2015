@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>11883</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN11883.wav</FileName>
+  <ClassId>bpyrxb</ClassId>
+  <Date>2000-09-14</Date>
+  <Time>08:05</Time>
+  <Locality>Cristalino Jungle Lodge, MT</Locality>
+  <Latitude>-9.5981</Latitude>
+  <Longitude>-55.932</Longitude>
+  <Elevation>250</Elevation>
+  <Author>Jeremy Minns</Author>
+  <AuthorID>DGVLLRYDXS</AuthorID>
+  <Content>Call and song.</Content>
+  <Comments>Serra trail. Dry woodland on rocky hillside.</Comments>
+  <Quality>2</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Tyrannidae</Family>
+  <Genus>Myiornis</Genus>
+  <Species>ecaudatus</Species>
+  <Sub-species>ecaudatus</Sub-species>
+  <VernacularNames>Short-tailed Pygmy Tyrant</VernacularNames>
+</Audio>

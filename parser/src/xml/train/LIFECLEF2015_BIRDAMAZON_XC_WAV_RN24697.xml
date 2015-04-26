@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>24697</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN24697.wav</FileName>
+  <ClassId>xpjomg</ClassId>
+  <Date>2008-02-10</Date>
+  <Time>17:50</Time>
+  <Locality>R. N. Rio Blanco, Caldas</Locality>
+  <Latitude>5.0834</Latitude>
+  <Longitude>-75.5001</Longitude>
+  <Elevation>2800</Elevation>
+  <Author>Herman van Oosten</Author>
+  <AuthorID>SNUDCZVUQK</AuthorID>
+  <Content>song</Content>
+  <Comments>After playback. Bird not seen. This should be the male's song, compare to XC 18278, bird's getting excited?</Comments>
+  <Quality>0</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Grallariidae</Family>
+  <Genus>Grallaria</Genus>
+  <Species>rufocinerea</Species>
+  <Sub-species />
+  <VernacularNames>Bicolored Antpitta</VernacularNames>
+</Audio>

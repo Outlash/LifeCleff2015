@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>16804</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN16804.wav</FileName>
+  <ClassId>uqcfuk</ClassId>
+  <Date>2007-09-22</Date>
+  <Time>21:19</Time>
+  <Locality>Parque Nacional da Serra do Cipó, Minas Gerais State</Locality>
+  <Latitude>-19.3481</Latitude>
+  <Longitude>-43.6189</Longitude>
+  <Elevation>800</Elevation>
+  <Author>Rubem Dornas</Author>
+  <AuthorID>OQEZWYGIGN</AuthorID>
+  <Content>Song</Content>
+  <Comments />
+  <Quality>1</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Caprimulgiformes</Order>
+  <Family>Caprimulgidae</Family>
+  <Genus>Antrostomus</Genus>
+  <Species>rufus</Species>
+  <Sub-species />
+  <VernacularNames>Rufous Nightjar</VernacularNames>
+</Audio>

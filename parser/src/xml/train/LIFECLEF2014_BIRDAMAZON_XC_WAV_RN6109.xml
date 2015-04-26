@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>6109</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN6109.wav</FileName>
+  <ClassId>hdtboj</ClassId>
+  <Date>2005-10-26</Date>
+  <Time>13:54</Time>
+  <Locality>Serra dos Carajás. In the mine town</Locality>
+  <Latitude>-6.095</Latitude>
+  <Longitude>-49.9769</Longitude>
+  <Elevation>340</Elevation>
+  <Author>Jeremy Minns</Author>
+  <AuthorID>DGVLLRYDXS</AuthorID>
+  <Content>call</Content>
+  <Comments>Natural vocalization by a bird perched on roof of hotel. Looked at passing insects but did not hawk. Probably begging call of an immature bird.bird-seen:yesplayback-used:no</Comments>
+  <Quality>2</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Tyrannidae</Family>
+  <Genus>Hirundinea</Genus>
+  <Species>ferruginea</Species>
+  <Sub-species>bellicosa</Sub-species>
+  <VernacularNames>Cliff Flycatcher</VernacularNames>
+</Audio>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>8289</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN8289.wav</FileName>
+  <ClassId>lddsyh</ClassId>
+  <Date>2010-12-03</Date>
+  <Time>?</Time>
+  <Locality>Belterra, Bacia 357, PA</Locality>
+  <Latitude>-3.372</Latitude>
+  <Longitude>-54.848</Longitude>
+  <Elevation>?</Elevation>
+  <Author>Nargila Moura</Author>
+  <AuthorID>CWEIBYBYYD</AuthorID>
+  <Content>song</Content>
+  <Comments>primary forest</Comments>
+  <Quality>3</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies>Herpsilochmus rufimarginatus,Myrmeciza hemimelaena,Zimmerius gracilipes</BackgroundSpecies>
+  <Order>Passeriformes</Order>
+  <Family>Thamnophilidae</Family>
+  <Genus>Thamnophilus</Genus>
+  <Species>schistaceus</Species>
+  <Sub-species>schistaceus</Sub-species>
+  <VernacularNames>Plain-winged Antshrike</VernacularNames>
+</Audio>

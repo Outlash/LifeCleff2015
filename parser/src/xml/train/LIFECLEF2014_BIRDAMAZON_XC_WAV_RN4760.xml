@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>4760</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN4760.wav</FileName>
+  <ClassId>lksjxc</ClassId>
+  <Date>1997-07-19</Date>
+  <Time>05:56</Time>
+  <Locality>Road to Remanso, Lençóis, Chapada Diamantina, BA</Locality>
+  <Latitude>-12.5834</Latitude>
+  <Longitude>-41.3667</Longitude>
+  <Elevation>400</Elevation>
+  <Author>Jeremy Minns</Author>
+  <AuthorID>DGVLLRYDXS</AuthorID>
+  <Content>call, song</Content>
+  <Comments>Humid forest. In canopy of a tall, isolated tree. Perhaps a dawn song.</Comments>
+  <Quality>2</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies>Troglodytes aedon</BackgroundSpecies>
+  <Order>Passeriformes</Order>
+  <Family>Tyrannidae</Family>
+  <Genus>Myiopagis</Genus>
+  <Species>caniceps</Species>
+  <Sub-species>caniceps</Sub-species>
+  <VernacularNames>Grey Elaenia</VernacularNames>
+</Audio>

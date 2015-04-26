@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>24341</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN24341.wav</FileName>
+  <ClassId>rtiqac</ClassId>
+  <Date>2010-12-01</Date>
+  <Time>07:50</Time>
+  <Locality>Alto Anchicaya, corregimiento El Danubio, Valle</Locality>
+  <Latitude>3.3889</Latitude>
+  <Longitude>-76.7998</Longitude>
+  <Elevation>666</Elevation>
+  <Author>Eliana Fierro-Calderón</Author>
+  <AuthorID>XZZUTMHBLM</AuthorID>
+  <Content>call, song</Content>
+  <Comments />
+  <Quality>3</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Parulidae</Family>
+  <Genus>Myiothlypis</Genus>
+  <Species>fulvicauda</Species>
+  <Sub-species />
+  <VernacularNames>Buff-rumped Warbler</VernacularNames>
+</Audio>

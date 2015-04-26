@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>11065</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN11065.wav</FileName>
+  <ClassId>jlumfv</ClassId>
+  <Date>2011-09-21</Date>
+  <Time>08:00</Time>
+  <Locality>PARNA da Lagoa do Peixe, Tavares, Rio Grande do Sul</Locality>
+  <Latitude>-31.2924</Latitude>
+  <Longitude>-51.0326</Longitude>
+  <Elevation>0</Elevation>
+  <Author>Rafael Antunes Dias</Author>
+  <AuthorID>XJSWEWQCEC</AuthorID>
+  <Content>call</Content>
+  <Comments>In border of forest adjacent to the Lagoa do Peixe. Photograph: http://www.wikiaves.com/754586bird-seen:yesplayback-used:yes</Comments>
+  <Quality>3</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies>Vanellus chilensis</BackgroundSpecies>
+  <Order>Passeriformes</Order>
+  <Family>Tyrannidae</Family>
+  <Genus>Elaenia</Genus>
+  <Species>obscura</Species>
+  <Sub-species />
+  <VernacularNames>Highland Elaenia</VernacularNames>
+</Audio>

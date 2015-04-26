@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>1005</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN1005.wav</FileName>
+  <ClassId>xxjaog</ClassId>
+  <Date>2010-03-18</Date>
+  <Time>12:05</Time>
+  <Locality>Parque Estadual Mata São Francisco</Locality>
+  <Latitude>-23.1503</Latitude>
+  <Longitude>-50.5673</Longitude>
+  <Elevation>580</Elevation>
+  <Author>Renan Campos de Oliveira</Author>
+  <AuthorID>SDARDTGGWP</AuthorID>
+  <Content>call, Songs</Content>
+  <Comments />
+  <Quality>1</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Thraupidae</Family>
+  <Genus>Hemithraupis</Genus>
+  <Species>guira</Species>
+  <Sub-species />
+  <VernacularNames>Guira Tanager</VernacularNames>
+</Audio>

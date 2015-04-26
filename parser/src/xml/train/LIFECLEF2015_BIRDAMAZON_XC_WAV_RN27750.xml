@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>27750</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN27750.wav</FileName>
+  <ClassId>bogxos</ClassId>
+  <Date>2010-09-03</Date>
+  <Time>?</Time>
+  <Locality>Mana, piste ONF Dégrad Florian</Locality>
+  <Latitude>NULL</Latitude>
+  <Longitude>NULL</Longitude>
+  <Elevation>20</Elevation>
+  <Author>Alexandre Renaudier</Author>
+  <AuthorID>GKADEITXTH</AuthorID>
+  <Content>Song</Content>
+  <Comments />
+  <Quality>1</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies>Micrastur mirandollei</BackgroundSpecies>
+  <Order>Passeriformes</Order>
+  <Family>Tyrannidae</Family>
+  <Genus>Megarynchus</Genus>
+  <Species>pitangua</Species>
+  <Sub-species />
+  <VernacularNames>Boat-billed Flycatcher</VernacularNames>
+</Audio>

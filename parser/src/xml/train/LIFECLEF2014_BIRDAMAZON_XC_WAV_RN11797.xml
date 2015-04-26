@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>11797</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN11797.wav</FileName>
+  <ClassId>nipfbr</ClassId>
+  <Date>2002-02-10</Date>
+  <Time>09:07</Time>
+  <Locality>Januária, Minas Gerais</Locality>
+  <Latitude>-15.4667</Latitude>
+  <Longitude>-44.3667</Longitude>
+  <Elevation>554</Elevation>
+  <Author>Jeremy Minns</Author>
+  <AuthorID>DGVLLRYDXS</AuthorID>
+  <Content>Song</Content>
+  <Comments>Left bank of Rio Sao Francisco. Riparian thickets and farmland.</Comments>
+  <Quality>1</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies>Columbina talpacoti,Columbina squammata,Leptotila verreauxi,Thamnophilus doliatus,Pitangus sulphuratus,Cyclarhis gujanensis</BackgroundSpecies>
+  <Order>Passeriformes</Order>
+  <Family>Furnariidae</Family>
+  <Genus>Synallaxis</Genus>
+  <Species>frontalis</Species>
+  <Sub-species />
+  <VernacularNames>Sooty-fronted Spinetail</VernacularNames>
+</Audio>

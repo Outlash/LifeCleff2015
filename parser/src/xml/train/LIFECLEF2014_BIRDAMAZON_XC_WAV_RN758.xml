@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>758</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN758.wav</FileName>
+  <ClassId>sdpuyf</ClassId>
+  <Date>2010-09-26</Date>
+  <Time>8:16</Time>
+  <Locality>Cardeal da Silva, Bahia.</Locality>
+  <Latitude>NULL</Latitude>
+  <Longitude>NULL</Longitude>
+  <Elevation>?</Elevation>
+  <Author>Sidnei S. dos Santos</Author>
+  <AuthorID>BHODJXTHGQ</AuthorID>
+  <Content>Song</Content>
+  <Comments />
+  <Quality>2</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Tyrannidae</Family>
+  <Genus>Rhytipterna</Genus>
+  <Species>simplex</Species>
+  <Sub-species />
+  <VernacularNames>Greyish Mourner</VernacularNames>
+</Audio>

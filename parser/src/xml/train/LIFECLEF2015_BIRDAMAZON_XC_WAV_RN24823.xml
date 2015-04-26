@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>24823</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN24823.wav</FileName>
+  <ClassId>ftvesx</ClassId>
+  <Date>2001-11-18</Date>
+  <Time>07:49</Time>
+  <Locality>Jeremoabo</Locality>
+  <Latitude>-10.063769</Latitude>
+  <Longitude>-38.339453</Longitude>
+  <Elevation>300</Elevation>
+  <Author>Jeremy Minns</Author>
+  <AuthorID>DGVLLRYDXS</AuthorID>
+  <Content>flight call</Content>
+  <Comments>Same birds.</Comments>
+  <Quality>2</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Psittaciformes</Order>
+  <Family>Psittacidae</Family>
+  <Genus>Thectocercus</Genus>
+  <Species>acuticaudatus</Species>
+  <Sub-species>haemorrhous</Sub-species>
+  <VernacularNames>Blue-crowned Parakeet</VernacularNames>
+</Audio>

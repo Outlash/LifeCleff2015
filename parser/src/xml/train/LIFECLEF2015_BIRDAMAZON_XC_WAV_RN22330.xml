@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>22330</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN22330.wav</FileName>
+  <ClassId>ilymqq</ClassId>
+  <Date>2012-01-08</Date>
+  <Time>10:00</Time>
+  <Locality>Santa Cecilia, Serrania de San Lucas</Locality>
+  <Latitude>7.9759</Latitude>
+  <Longitude>-74.2153</Longitude>
+  <Elevation>1550</Elevation>
+  <Author>Thomas Donegan</Author>
+  <AuthorID>OXSIOLJJUP</AuthorID>
+  <Content>Scolds</Content>
+  <Comments>With a canopy mixed insectivore flock.</Comments>
+  <Quality>0</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies>Trogon personatus,Picoides fumigatus,Trogon collaris</BackgroundSpecies>
+  <Order>Passeriformes</Order>
+  <Family>Vireonidae</Family>
+  <Genus>Hylophilus</Genus>
+  <Species>semibrunneus</Species>
+  <Sub-species />
+  <VernacularNames>Rufous-naped Greenlet</VernacularNames>
+</Audio>

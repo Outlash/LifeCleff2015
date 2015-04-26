@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>22316</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN22316.wav</FileName>
+  <ClassId>nnbhgj</ClassId>
+  <Date>2012-06-29</Date>
+  <Time>06:29</Time>
+  <Locality>Coromandel, Minas Gerais</Locality>
+  <Latitude>-18.4003</Latitude>
+  <Longitude>-47.1764</Longitude>
+  <Elevation>750</Elevation>
+  <Author>Luiz Gabriel Mazzoni</Author>
+  <AuthorID>MPOKMOFDDX</AuthorID>
+  <Content>song</Content>
+  <Comments>bird-seen:yesplayback-used:yes</Comments>
+  <Quality>3</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Piciformes</Order>
+  <Family>Bucconidae</Family>
+  <Genus>Nonnula</Genus>
+  <Species>rubecula</Species>
+  <Sub-species />
+  <VernacularNames>Rusty-breasted Nunlet</VernacularNames>
+</Audio>

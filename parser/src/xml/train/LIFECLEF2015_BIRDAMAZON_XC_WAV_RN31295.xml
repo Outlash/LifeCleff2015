@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>31295</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN31295.wav</FileName>
+  <ClassId>runaut</ClassId>
+  <Date>2008-10-31</Date>
+  <Time>03:15</Time>
+  <Locality>Rogitama (Reserva Principe de Arcabuco)</Locality>
+  <Latitude>5.779625</Latitude>
+  <Longitude>-73.44635</Longitude>
+  <Elevation>2200</Elevation>
+  <Author>Oswaldo Cortes</Author>
+  <AuthorID>VVDRVZCVWW</AuthorID>
+  <Content>call</Content>
+  <Comments />
+  <Quality>0</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Furnariidae</Family>
+  <Genus>Synallaxis</Genus>
+  <Species>azarae</Species>
+  <Sub-species />
+  <VernacularNames>Azara's Spinetail</VernacularNames>
+</Audio>

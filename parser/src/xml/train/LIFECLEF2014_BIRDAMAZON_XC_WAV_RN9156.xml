@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>9156</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN9156.wav</FileName>
+  <ClassId>jlumfv</ClassId>
+  <Date>2002-08-29</Date>
+  <Time>13:06</Time>
+  <Locality>Reserva Volta Velha, Itapoá, SC</Locality>
+  <Latitude>-26.0834</Latitude>
+  <Longitude>-48.6334</Longitude>
+  <Elevation>10</Elevation>
+  <Author>Jeremy Minns</Author>
+  <AuthorID>DGVLLRYDXS</AuthorID>
+  <Content>Call</Content>
+  <Comments>Marshy area beside pousada. This is Call A in our DVD-ROM 'Birds of Brazil'.</Comments>
+  <Quality>1</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies>Camptostoma obsoletum</BackgroundSpecies>
+  <Order>Passeriformes</Order>
+  <Family>Tyrannidae</Family>
+  <Genus>Elaenia</Genus>
+  <Species>obscura</Species>
+  <Sub-species>sordida</Sub-species>
+  <VernacularNames>Highland Elaenia</VernacularNames>
+</Audio>

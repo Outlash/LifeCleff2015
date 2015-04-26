@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>20163</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN20163.wav</FileName>
+  <ClassId>ytwasa</ClassId>
+  <Date>2000-06-19</Date>
+  <Time>11:00</Time>
+  <Locality>Estacion La Pradera (parte alta), Municipio Don Matias, Antioquia</Locality>
+  <Latitude>NULL</Latitude>
+  <Longitude>NULL</Longitude>
+  <Elevation>1550</Elevation>
+  <Author>Bernabe Lopez-Lanus</Author>
+  <AuthorID>BYLLSJRVDZ</AuthorID>
+  <Content>Song</Content>
+  <Comments />
+  <Quality>1</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Troglodytidae</Family>
+  <Genus>Henicorhina</Genus>
+  <Species>leucosticta</Species>
+  <Sub-species>albilateralis?</Sub-species>
+  <VernacularNames>White-breasted Wood Wren</VernacularNames>
+</Audio>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>13669</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN13669.wav</FileName>
+  <ClassId>rfinai</ClassId>
+  <Date>2011-12-07</Date>
+  <Time>08:00</Time>
+  <Locality>Banhado do Maçarico region, Rio Grande, Rio Grande do Sul</Locality>
+  <Latitude>-32.542</Latitude>
+  <Longitude>-52.486</Longitude>
+  <Elevation>8</Elevation>
+  <Author>Rafael Antunes Dias</Author>
+  <AuthorID>XJSWEWQCEC</AuthorID>
+  <Content>song</Content>
+  <Comments>After playback, in grassland in grassland-wetland mosaic</Comments>
+  <Quality>3</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies>Vanellus chilensis,Sicalis luteola</BackgroundSpecies>
+  <Order>Passeriformes</Order>
+  <Family>Motacillidae</Family>
+  <Genus>Anthus</Genus>
+  <Species>hellmayri</Species>
+  <Sub-species />
+  <VernacularNames>Hellmayr's Pipit</VernacularNames>
+</Audio>

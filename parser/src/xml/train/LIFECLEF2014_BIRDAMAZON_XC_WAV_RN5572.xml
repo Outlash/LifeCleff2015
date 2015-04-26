@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>5572</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN5572.wav</FileName>
+  <ClassId>waknsi</ClassId>
+  <Date>2006-09-29</Date>
+  <Time>06:00</Time>
+  <Locality>Usina Zillo Lorenzetti - Quatá, Sao Paulo State</Locality>
+  <Latitude>-22.2589</Latitude>
+  <Longitude>-50.7089</Longitude>
+  <Elevation>550</Elevation>
+  <Author>Guilherme R R Brito</Author>
+  <AuthorID>OAYOBWYOOM</AuthorID>
+  <Content>song</Content>
+  <Comments />
+  <Quality>2</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies />
+  <Order>Caprimulgiformes</Order>
+  <Family>Caprimulgidae</Family>
+  <Genus>Nyctidromus</Genus>
+  <Species>albicollis</Species>
+  <Sub-species />
+  <VernacularNames>Pauraque</VernacularNames>
+</Audio>

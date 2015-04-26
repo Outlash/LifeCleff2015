@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>29810</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN29810.wav</FileName>
+  <ClassId>mzajou</ClassId>
+  <Date>2011-05-25</Date>
+  <Time>06:55</Time>
+  <Locality>Paragominas, PA, Brazil, Bacia 369</Locality>
+  <Latitude>-3.3448</Latitude>
+  <Longitude>-47.8187</Longitude>
+  <Elevation>?</Elevation>
+  <Author>Alexander Lees</Author>
+  <AuthorID>INDDBZAFJL</AuthorID>
+  <Content>song</Content>
+  <Comments>secondary forest</Comments>
+  <Quality>2</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies>Crypturellus strigulosus,Lepidocolaptes albolineatus,Cercomacra cinerascens,Ramphocaenus melanurus,Coereba flaveola</BackgroundSpecies>
+  <Order>Passeriformes</Order>
+  <Family>Cardinalidae</Family>
+  <Genus>Saltator</Genus>
+  <Species>grossus</Species>
+  <Sub-species />
+  <VernacularNames>Slate-colored Grosbeak</VernacularNames>
+</Audio>

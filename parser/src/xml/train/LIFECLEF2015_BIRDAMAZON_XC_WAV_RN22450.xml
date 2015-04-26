@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>22450</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN22450.wav</FileName>
+  <ClassId>jbynhe</ClassId>
+  <Date>2006-11-22</Date>
+  <Time>?</Time>
+  <Locality>Iwokrama Forest</Locality>
+  <Latitude>4.2448</Latitude>
+  <Longitude>-58.9056</Longitude>
+  <Elevation>20?</Elevation>
+  <Author>Frank Lambert</Author>
+  <AuthorID>YTUXOCTUEM</AuthorID>
+  <Content>song</Content>
+  <Comments />
+  <Quality>1</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Thamnophilidae</Family>
+  <Genus>Willisornis</Genus>
+  <Species>poecilinotus</Species>
+  <Sub-species>poecilinotus</Sub-species>
+  <VernacularNames>Common Scale-backed Antbird</VernacularNames>
+</Audio>

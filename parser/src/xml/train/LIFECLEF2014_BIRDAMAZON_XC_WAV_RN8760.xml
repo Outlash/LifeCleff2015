@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>8760</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN8760.wav</FileName>
+  <ClassId>ltmvlu</ClassId>
+  <Date>2013-01-29</Date>
+  <Time>08:00</Time>
+  <Locality>RPPN Estação Veracel, Porto Seguro, Bahia</Locality>
+  <Latitude>-16.3458</Latitude>
+  <Longitude>-39.1395</Longitude>
+  <Elevation>90</Elevation>
+  <Author>Dan Lane</Author>
+  <AuthorID>WOEAFQRMUD</AuthorID>
+  <Content>song</Content>
+  <Comments>Response to playback from a bird probably perched 2-3m (seen flying by in response to playback, but not while vocalizing) up in dense understory of short-stature white sand forest.bird-seen:yesplayback-used:yes</Comments>
+  <Quality>2</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies>Thamnophilus ambiguus</BackgroundSpecies>
+  <Order>Passeriformes</Order>
+  <Family>Furnariidae</Family>
+  <Genus>Xiphorhynchus</Genus>
+  <Species>guttatus</Species>
+  <Sub-species>guttatus</Sub-species>
+  <VernacularNames>Buff-throated Woodcreeper</VernacularNames>
+</Audio>

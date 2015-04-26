@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>7797</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN7797.wav</FileName>
+  <ClassId>uwehqf</ClassId>
+  <Date>2011-01-26</Date>
+  <Time>08:14</Time>
+  <Locality>Tapajos National Forest, Bacia 363, Santarem</Locality>
+  <Latitude>-3.294</Latitude>
+  <Longitude>-54.998</Longitude>
+  <Elevation>?</Elevation>
+  <Author>Alexander Lees</Author>
+  <AuthorID>INDDBZAFJL</AuthorID>
+  <Content>call</Content>
+  <Comments>undisturbed primary forest, nearly drowned out by pihas</Comments>
+  <Quality>2</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies>Ramphastos tucanus,Ramphastos vitellinus,Lipaugus vociferans</BackgroundSpecies>
+  <Order>Piciformes</Order>
+  <Family>Ramphastidae</Family>
+  <Genus>Pteroglossus</Genus>
+  <Species>aracari</Species>
+  <Sub-species>aracari</Sub-species>
+  <VernacularNames>Black-necked Aracari</VernacularNames>
+</Audio>

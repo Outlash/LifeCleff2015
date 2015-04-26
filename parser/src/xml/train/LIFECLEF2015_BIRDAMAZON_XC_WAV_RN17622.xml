@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>17622</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN17622.wav</FileName>
+  <ClassId>nehqqq</ClassId>
+  <Date>1998-07-20</Date>
+  <Time>17:00</Time>
+  <Locality>Alrededores de Toche, Cajamarca, Tolima</Locality>
+  <Latitude>4.5331</Latitude>
+  <Longitude>-75.4167</Longitude>
+  <Elevation>2000</Elevation>
+  <Author>Bernabe Lopez-Lanus</Author>
+  <AuthorID>BYLLSJRVDZ</AuthorID>
+  <Content>Song</Content>
+  <Comments />
+  <Quality>3</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Vireonidae</Family>
+  <Genus>Cyclarhis</Genus>
+  <Species>nigrirostris</Species>
+  <Sub-species />
+  <VernacularNames>Black-billed Peppershrike</VernacularNames>
+</Audio>

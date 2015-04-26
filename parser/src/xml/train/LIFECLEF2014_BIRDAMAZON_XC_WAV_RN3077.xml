@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>3077</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN3077.wav</FileName>
+  <ClassId>ckerdu</ClassId>
+  <Date>2005-10-06</Date>
+  <Time>13:00</Time>
+  <Locality>Serra dos Órgãos National Park - RJ</Locality>
+  <Latitude>-22.448</Latitude>
+  <Longitude>-43.01</Longitude>
+  <Elevation>1700</Elevation>
+  <Author>Ricardo Gagliardi</Author>
+  <AuthorID>YRDADNREOP</AuthorID>
+  <Content>lekking</Content>
+  <Comments />
+  <Quality>3</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies>Scytalopus speluncae,Tijuca atra,Saltator similis,Turdus rufiventris</BackgroundSpecies>
+  <Order>Apodiformes</Order>
+  <Family>Trochilidae</Family>
+  <Genus>Stephanoxis</Genus>
+  <Species>lalandi</Species>
+  <Sub-species />
+  <VernacularNames>Plovercrest</VernacularNames>
+</Audio>

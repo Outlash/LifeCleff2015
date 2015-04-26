@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>5424</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN5424.wav</FileName>
+  <ClassId>viluoh</ClassId>
+  <Date>2001-01-16</Date>
+  <Time>08:40</Time>
+  <Locality>Reserva Natural da Vale - Linhares, Espirito Santo</Locality>
+  <Latitude>-19.1456</Latitude>
+  <Longitude>-40.0645</Longitude>
+  <Elevation>40</Elevation>
+  <Author>Jeremy Minns</Author>
+  <AuthorID>DGVLLRYDXS</AuthorID>
+  <Content>Dawn song</Content>
+  <Comments>Lowland forest.</Comments>
+  <Quality>2</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies>Pyrrhura leucotis</BackgroundSpecies>
+  <Order>Passeriformes</Order>
+  <Family>Tyrannidae</Family>
+  <Genus>Pitangus</Genus>
+  <Species>sulphuratus</Species>
+  <Sub-species>maximiliani</Sub-species>
+  <VernacularNames>Great Kiskadee</VernacularNames>
+</Audio>

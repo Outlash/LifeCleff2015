@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>25602</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN25602.wav</FileName>
+  <ClassId>ctdbgi</ClassId>
+  <Date>2014-02-02</Date>
+  <Time>11:30</Time>
+  <Locality>Marliéria, Minas Gerais - Entorno Parque Estadual do Rio Doce</Locality>
+  <Latitude>NULL</Latitude>
+  <Longitude>NULL</Longitude>
+  <Elevation>325</Elevation>
+  <Author>Vinicius T. Dornas</Author>
+  <AuthorID>XCMORADVJT</AuthorID>
+  <Content>call, song</Content>
+  <Comments>Utilizado pio artesanal como chamariz para aproximação da ave.bird-seen:yesplayback-used:no</Comments>
+  <Quality>3</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Tinamiformes</Order>
+  <Family>Tinamidae</Family>
+  <Genus>Rhynchotus</Genus>
+  <Species>rufescens</Species>
+  <Sub-species />
+  <VernacularNames>Red-winged Tinamou</VernacularNames>
+</Audio>

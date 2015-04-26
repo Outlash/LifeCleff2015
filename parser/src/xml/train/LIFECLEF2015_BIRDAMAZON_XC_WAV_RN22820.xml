@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>22820</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN22820.wav</FileName>
+  <ClassId>wkjlrj</ClassId>
+  <Date>2014-06-10</Date>
+  <Time>14:30</Time>
+  <Locality>Nova Veneza, Santa Catarina</Locality>
+  <Latitude>-28.7315</Latitude>
+  <Longitude>-49.5969</Longitude>
+  <Elevation>40</Elevation>
+  <Author>João Gava</Author>
+  <AuthorID>CEKMJEZKSJ</AuthorID>
+  <Content>call, male, mechanical sound (wings)</Content>
+  <Comments>Adult male  attracted by playback, secondary forest, mechanical sounds produced by wings.bird-seen:yesplayback-used:yes</Comments>
+  <Quality>2</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Pipridae</Family>
+  <Genus>Manacus</Genus>
+  <Species>manacus</Species>
+  <Sub-species />
+  <VernacularNames>White-bearded Manakin</VernacularNames>
+</Audio>

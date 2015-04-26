@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>6329</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN6329.wav</FileName>
+  <ClassId>ypmevr</ClassId>
+  <Date>2006-01-28</Date>
+  <Time>07:15</Time>
+  <Locality>Engenho Cachoeira Linda, Barreiros, Pernambuco</Locality>
+  <Latitude>-8.8173</Latitude>
+  <Longitude>-35.4773</Longitude>
+  <Elevation>90</Elevation>
+  <Author>Glauco Alves Pereira</Author>
+  <AuthorID>ZWEROGGYVP</AuthorID>
+  <Content>song</Content>
+  <Comments />
+  <Quality>3</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies>Turdus leucomelas,Vireo olivaceus,Xiphorhynchus fuscus</BackgroundSpecies>
+  <Order>Passeriformes</Order>
+  <Family>Conopophagidae</Family>
+  <Genus>Conopophaga</Genus>
+  <Species>melanops</Species>
+  <Sub-species>nigrifrons</Sub-species>
+  <VernacularNames>Black-cheeked Gnateater</VernacularNames>
+</Audio>

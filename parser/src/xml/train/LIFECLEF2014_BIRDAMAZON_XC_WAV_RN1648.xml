@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>1648</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN1648.wav</FileName>
+  <ClassId>kwpuds</ClassId>
+  <Date>2006-01-20</Date>
+  <Time>08:30</Time>
+  <Locality>Serra dos Carajás, PA</Locality>
+  <Latitude>-6.1603</Latitude>
+  <Longitude>-50.3459</Longitude>
+  <Elevation>380</Elevation>
+  <Author>Nick Athanas</Author>
+  <AuthorID>XRABICUARW</AuthorID>
+  <Content>call</Content>
+  <Comments>img:http://www.antpitta.com/images/photos/jacamars/Blue-cheeked-Jacamar.jpg</Comments>
+  <Quality>2</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies>Patagioenas subvinacea,Lipaugus vociferans,Turdus albicollis</BackgroundSpecies>
+  <Order>Piciformes</Order>
+  <Family>Galbulidae</Family>
+  <Genus>Galbula</Genus>
+  <Species>cyanicollis</Species>
+  <Sub-species />
+  <VernacularNames>Blue-necked Jacamar</VernacularNames>
+</Audio>

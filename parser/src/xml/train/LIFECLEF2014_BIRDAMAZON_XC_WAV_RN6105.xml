@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>6105</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN6105.wav</FileName>
+  <ClassId>sgsdgm</ClassId>
+  <Date>2011-01-12</Date>
+  <Time>?</Time>
+  <Locality>Bacia 69, Santarem, PA</Locality>
+  <Latitude>-2.5601</Latitude>
+  <Longitude>-54.6528</Longitude>
+  <Elevation>?</Elevation>
+  <Author>Nargila Moura</Author>
+  <AuthorID>CWEIBYBYYD</AuthorID>
+  <Content>call</Content>
+  <Comments>secondary forest</Comments>
+  <Quality>0</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies>Cantorchilus leucotis,Amazona amazonica,Pitangus sulphuratus,Vireo olivaceus</BackgroundSpecies>
+  <Order>Passeriformes</Order>
+  <Family>Icteridae</Family>
+  <Genus>Cacicus</Genus>
+  <Species>cela</Species>
+  <Sub-species>cela</Sub-species>
+  <VernacularNames>Yellow-rumped Cacique</VernacularNames>
+</Audio>

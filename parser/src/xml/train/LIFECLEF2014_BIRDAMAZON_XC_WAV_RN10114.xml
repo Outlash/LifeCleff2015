@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>10114</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN10114.wav</FileName>
+  <ClassId>zhxbyo</ClassId>
+  <Date>2010-08-28</Date>
+  <Time>06:58</Time>
+  <Locality>Pedra de Baú, Campos do Jordao, SP</Locality>
+  <Latitude>-22.6834</Latitude>
+  <Longitude>-45.6501</Longitude>
+  <Elevation>1700</Elevation>
+  <Author>Herman van Oosten</Author>
+  <AuthorID>SNUDCZVUQK</AuthorID>
+  <Content>song?</Content>
+  <Comments>Bird not seen, id by Nacho Areta &amp; Alvaro Riccetto</Comments>
+  <Quality>1</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Tyrannidae</Family>
+  <Genus>Serpophaga</Genus>
+  <Species>subcristata</Species>
+  <Sub-species />
+  <VernacularNames>White-crested Tyrannulet</VernacularNames>
+</Audio>

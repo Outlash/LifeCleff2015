@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>7877</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN7877.wav</FileName>
+  <ClassId>tmlmmx</ClassId>
+  <Date>2007-06-17</Date>
+  <Time>09:30</Time>
+  <Locality>Hidráulica - Capão do Leão, Rio Grande do Sul</Locality>
+  <Latitude>-31.72889</Latitude>
+  <Longitude>-52.48944</Longitude>
+  <Elevation>0</Elevation>
+  <Author>Fernando Jacobs</Author>
+  <AuthorID>MHHPJBCUXC</AuthorID>
+  <Content>song?</Content>
+  <Comments />
+  <Quality>1</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies />
+  <Order>Piciformes</Order>
+  <Family>Picidae</Family>
+  <Genus>Colaptes</Genus>
+  <Species>melanochloros</Species>
+  <Sub-species />
+  <VernacularNames>Green-barred Woodpecker</VernacularNames>
+</Audio>

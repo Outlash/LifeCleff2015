@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>22377</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN22377.wav</FileName>
+  <ClassId>xjdnrm</ClassId>
+  <Date>2000-06-05</Date>
+  <Time>16:00</Time>
+  <Locality>Reserva La Serrana (Vereda La Serrana), Anori, Antioquia</Locality>
+  <Latitude>NULL</Latitude>
+  <Longitude>NULL</Longitude>
+  <Elevation>1800</Elevation>
+  <Author>Bernabe Lopez-Lanus</Author>
+  <AuthorID>BYLLSJRVDZ</AuthorID>
+  <Content>Song</Content>
+  <Comments>Bird not seen. 99%. Original recording, longer without cuts.</Comments>
+  <Quality>3</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Furnariidae</Family>
+  <Genus>Margarornis</Genus>
+  <Species>stellatus</Species>
+  <Sub-species />
+  <VernacularNames>Star-chested Treerunner</VernacularNames>
+</Audio>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>32372</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN32372.wav</FileName>
+  <ClassId>qpdcil</ClassId>
+  <Date>2014-02-08</Date>
+  <Time>10:00</Time>
+  <Locality>Machadinho d'Oeste, Rondônia</Locality>
+  <Latitude>-8.7521</Latitude>
+  <Longitude>-62.2375</Longitude>
+  <Elevation>90</Elevation>
+  <Author>GABRIEL LEITE</Author>
+  <AuthorID>TGBFXDVERJ</AuthorID>
+  <Content>male, song</Content>
+  <Comments>bird-seen:yesplayback-used:yes</Comments>
+  <Quality>3</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Thamnophilidae</Family>
+  <Genus>Isleria</Genus>
+  <Species>hauxwelli</Species>
+  <Sub-species />
+  <VernacularNames>Plain-throated Antwren</VernacularNames>
+</Audio>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>5216</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN5216.wav</FileName>
+  <ClassId>xbszpg</ClassId>
+  <Date>2001-03-16</Date>
+  <Time>07:28</Time>
+  <Locality>Tiradentes. Serra de São José</Locality>
+  <Latitude>-21.1001</Latitude>
+  <Longitude>-44.2001</Longitude>
+  <Elevation>1050</Elevation>
+  <Author>Jeremy Minns</Author>
+  <AuthorID>DGVLLRYDXS</AuthorID>
+  <Content>Song</Content>
+  <Comments>Cerrado. Male on bush on crest of rocky hillside.</Comments>
+  <Quality>1</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies>Eupsittula aurea</BackgroundSpecies>
+  <Order>Passeriformes</Order>
+  <Family>Thraupidae</Family>
+  <Genus>Sicalis</Genus>
+  <Species>citrina</Species>
+  <Sub-species>citrina</Sub-species>
+  <VernacularNames>Stripe-tailed Yellow Finch</VernacularNames>
+</Audio>

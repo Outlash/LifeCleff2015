@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>28961</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN28961.wav</FileName>
+  <ClassId>ltetho</ClassId>
+  <Date>2007-12-27</Date>
+  <Time>?</Time>
+  <Locality>PN da Serra dos Órgãos-RJ</Locality>
+  <Latitude>NULL</Latitude>
+  <Longitude>NULL</Longitude>
+  <Elevation>?</Elevation>
+  <Author>Guilherme Serpa</Author>
+  <AuthorID>ZIEUWTHKRO</AuthorID>
+  <Content>song</Content>
+  <Comments>First 5 secs. of the recording. Indiv. was seing while carrying material to the nest.</Comments>
+  <Quality>0</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Thraupidae</Family>
+  <Genus>Thraupis</Genus>
+  <Species>cyanoptera</Species>
+  <Sub-species />
+  <VernacularNames>Azure-shouldered Tanager</VernacularNames>
+</Audio>

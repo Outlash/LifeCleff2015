@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>839</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN839.wav</FileName>
+  <ClassId>pprfie</ClassId>
+  <Date>2010-01-25</Date>
+  <Time>09:40</Time>
+  <Locality>APA da Bacia do Rio Paraíba do Sul - Guarulhos, SP</Locality>
+  <Latitude>-23.3038935315393</Latitude>
+  <Longitude>-46.4058272839247</Longitude>
+  <Elevation>1050</Elevation>
+  <Author>Marcos Melo</Author>
+  <AuthorID>MRGDYNJGUJ</AuthorID>
+  <Content>song</Content>
+  <Comments />
+  <Quality>3</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies>Vireo olivaceus,Sporophila frontalis</BackgroundSpecies>
+  <Order>Passeriformes</Order>
+  <Family>Vireonidae</Family>
+  <Genus>Cyclarhis</Genus>
+  <Species>gujanensis</Species>
+  <Sub-species />
+  <VernacularNames>Rufous-browed Peppershrike</VernacularNames>
+</Audio>

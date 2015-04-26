@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>16186</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN16186.wav</FileName>
+  <ClassId>pgnepr</ClassId>
+  <Date>2008-02-10</Date>
+  <Time>15:35</Time>
+  <Locality>R. N. Rio Blanco, Caldas</Locality>
+  <Latitude>5.0834</Latitude>
+  <Longitude>-75.5001</Longitude>
+  <Elevation>2800</Elevation>
+  <Author>Herman van Oosten</Author>
+  <AuthorID>SNUDCZVUQK</AuthorID>
+  <Content>song</Content>
+  <Comments>After playback, beautifully seen, what a bird!</Comments>
+  <Quality>1</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Grallariidae</Family>
+  <Genus>Grallaria</Genus>
+  <Species>nuchalis</Species>
+  <Sub-species />
+  <VernacularNames>Chestnut-naped Antpitta</VernacularNames>
+</Audio>

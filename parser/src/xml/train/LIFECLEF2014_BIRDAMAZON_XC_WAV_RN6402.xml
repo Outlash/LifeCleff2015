@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>6402</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN6402.wav</FileName>
+  <ClassId>drteex</ClassId>
+  <Date>2008-09-13</Date>
+  <Time>11:30</Time>
+  <Locality>Serra Maracujá - Laurentino - Santa Catarina</Locality>
+  <Latitude>-27.21667</Latitude>
+  <Longitude>-49.717</Longitude>
+  <Elevation>450</Elevation>
+  <Author>www.aapimentao.com.br</Author>
+  <AuthorID>VVQBELMRMH</AuthorID>
+  <Content>song</Content>
+  <Comments>Borda de Mata</Comments>
+  <Quality>1</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies />
+  <Order>Gruiformes</Order>
+  <Family>Rallidae</Family>
+  <Genus>Aramides</Genus>
+  <Species>saracura</Species>
+  <Sub-species />
+  <VernacularNames>Slaty-breasted Wood Rail</VernacularNames>
+</Audio>

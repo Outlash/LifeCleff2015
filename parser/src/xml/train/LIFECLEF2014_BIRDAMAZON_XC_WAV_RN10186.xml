@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>10186</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN10186.wav</FileName>
+  <ClassId>zwdpnv</ClassId>
+  <Date>2010-07-24</Date>
+  <Time>10:26</Time>
+  <Locality>Presidente Figueiredo, Amazonas</Locality>
+  <Latitude>-2.028</Latitude>
+  <Longitude>-59.997</Longitude>
+  <Elevation>50</Elevation>
+  <Author>Marcos Melo</Author>
+  <AuthorID>MRGDYNJGUJ</AuthorID>
+  <Content>song</Content>
+  <Comments />
+  <Quality>3</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Thamnophilidae</Family>
+  <Genus>Myrmotherula</Genus>
+  <Species>menetriesii</Species>
+  <Sub-species />
+  <VernacularNames>Grey Antwren</VernacularNames>
+</Audio>

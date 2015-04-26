@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>8745</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN8745.wav</FileName>
+  <ClassId>ywuvnu</ClassId>
+  <Date>2013-07-15</Date>
+  <Time>16:30</Time>
+  <Locality>Senador Guiomard, Acre</Locality>
+  <Latitude>-10.1453</Latitude>
+  <Longitude>-67.7537</Longitude>
+  <Elevation>180</Elevation>
+  <Author>Rodrigo Dela Rosa</Author>
+  <AuthorID>VGXDJMKETZ</AuthorID>
+  <Content>call, song</Content>
+  <Comments>bird-seen:noplayback-used:yes</Comments>
+  <Quality>1</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies>Conioptilon mcilhennyi,Piculus chrysochloros,Xiphorhynchus guttatus</BackgroundSpecies>
+  <Order>Tinamiformes</Order>
+  <Family>Tinamidae</Family>
+  <Genus>Crypturellus</Genus>
+  <Species>cinereus</Species>
+  <Sub-species />
+  <VernacularNames>Cinereous Tinamou</VernacularNames>
+</Audio>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>14265</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN14265.wav</FileName>
+  <ClassId>uzzjrh</ClassId>
+  <Date>2011-12-17</Date>
+  <Time>08:30</Time>
+  <Locality>Coromandel, Minas Gerais</Locality>
+  <Latitude>-18.3905</Latitude>
+  <Longitude>-47.1596</Longitude>
+  <Elevation>750</Elevation>
+  <Author>Luiz Gabriel Mazzoni</Author>
+  <AuthorID>MPOKMOFDDX</AuthorID>
+  <Content>call</Content>
+  <Comments>bird-seen:yesplayback-used:no</Comments>
+  <Quality>2</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Tyrannidae</Family>
+  <Genus>Myiarchus</Genus>
+  <Species>swainsoni</Species>
+  <Sub-species />
+  <VernacularNames>Swainson's Flycatcher</VernacularNames>
+</Audio>

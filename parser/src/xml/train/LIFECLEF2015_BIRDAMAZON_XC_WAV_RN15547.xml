@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>15547</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN15547.wav</FileName>
+  <ClassId>ytwasa</ClassId>
+  <Date>2013-01-09</Date>
+  <Time>15:30</Time>
+  <Locality>Reserva Natural La Montaña del Ocaso, Quimbaya, Quindío</Locality>
+  <Latitude>4.6197</Latitude>
+  <Longitude>-75.851</Longitude>
+  <Elevation>1000</Elevation>
+  <Author>Oscar H. Marín-Gómez</Author>
+  <AuthorID>CSUHASNRSU</AuthorID>
+  <Content>song</Content>
+  <Comments>Vocalizando en sotobosque dominado por Heliconia, en interior de guadual (Guadua angustifolia), grabado a 12 m de distancia.bird-seen:noplayback-used:no</Comments>
+  <Quality>2</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Troglodytidae</Family>
+  <Genus>Henicorhina</Genus>
+  <Species>leucosticta</Species>
+  <Sub-species />
+  <VernacularNames>White-breasted Wood Wren</VernacularNames>
+</Audio>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>21409</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN21409.wav</FileName>
+  <ClassId>wxqfzo</ClassId>
+  <Date>1998-12-15</Date>
+  <Time>08:18</Time>
+  <Locality>Manaus. Road off BR174 at km 41</Locality>
+  <Latitude>-2.6131</Latitude>
+  <Longitude>-60.0248</Longitude>
+  <Elevation>100</Elevation>
+  <Author>Jeremy Minns</Author>
+  <AuthorID>DGVLLRYDXS</AuthorID>
+  <Content>song</Content>
+  <Comments>terra firme forestbird-seen:noplayback-used:no</Comments>
+  <Quality>3</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies>Piaya melanogaster,Brotogeris chrysoptera</BackgroundSpecies>
+  <Order>Passeriformes</Order>
+  <Family>Pipridae</Family>
+  <Genus>Dixiphia</Genus>
+  <Species>erythrocephala</Species>
+  <Sub-species>erythrocephala (assumed from locality)</Sub-species>
+  <VernacularNames>Golden-headed Manakin</VernacularNames>
+</Audio>

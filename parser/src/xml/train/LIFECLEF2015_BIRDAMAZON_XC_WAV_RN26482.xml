@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>26482</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN26482.wav</FileName>
+  <ClassId>qfjwpy</ClassId>
+  <Date>2009-02-00</Date>
+  <Time>?:?</Time>
+  <Locality>Llanos - Hato El Cedral</Locality>
+  <Latitude>7.058986</Latitude>
+  <Longitude>-69.494019</Longitude>
+  <Elevation>50</Elevation>
+  <Author>Joe Klaiber</Author>
+  <AuthorID>TNPOVFLZMY</AuthorID>
+  <Content>song</Content>
+  <Comments>link:http://www.birds-venezuela.de</Comments>
+  <Quality>3</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Charadriiformes</Order>
+  <Family>Charadriidae</Family>
+  <Genus>Vanellus</Genus>
+  <Species>chilensis</Species>
+  <Sub-species />
+  <VernacularNames>Southern Lapwing</VernacularNames>
+</Audio>

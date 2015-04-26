@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>10798</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN10798.wav</FileName>
+  <ClassId>oxjndd</ClassId>
+  <Date>2002-08-12</Date>
+  <Time>17:46</Time>
+  <Locality>Parque Estadual Intervales. Barra Grande</Locality>
+  <Latitude>-24.2667</Latitude>
+  <Longitude>-48.3834</Longitude>
+  <Elevation>800</Elevation>
+  <Author>Jeremy Minns</Author>
+  <AuthorID>DGVLLRYDXS</AuthorID>
+  <Content>Song</Content>
+  <Comments>Secondary montane forest. About 30 m above ground.</Comments>
+  <Quality>2</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies>Hemitriccus obsoletus</BackgroundSpecies>
+  <Order>Strigiformes</Order>
+  <Family>Strigidae</Family>
+  <Genus>Glaucidium</Genus>
+  <Species>minutissimum</Species>
+  <Sub-species />
+  <VernacularNames>East Brazilian Pygmy Owl</VernacularNames>
+</Audio>

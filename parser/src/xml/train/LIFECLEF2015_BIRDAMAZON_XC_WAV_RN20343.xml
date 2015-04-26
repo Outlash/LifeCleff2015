@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>20343</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN20343.wav</FileName>
+  <ClassId>ltwgth</ClassId>
+  <Date>2006-07-06</Date>
+  <Time>10:20</Time>
+  <Locality>Reserva Ducke, north of Manaus</Locality>
+  <Latitude>NULL</Latitude>
+  <Longitude>NULL</Longitude>
+  <Elevation>?</Elevation>
+  <Author>Thiago Vernaschi V. Costa</Author>
+  <AuthorID>FPHQAPNAFU</AuthorID>
+  <Content>song</Content>
+  <Comments />
+  <Quality>2</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Tityridae</Family>
+  <Genus>Laniocera</Genus>
+  <Species>hypopyrra</Species>
+  <Sub-species />
+  <VernacularNames>Cinereous Mourner</VernacularNames>
+</Audio>

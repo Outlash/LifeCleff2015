@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>5417</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN5417.wav</FileName>
+  <ClassId>pbqnkl</ClassId>
+  <Date>2010-01-31</Date>
+  <Time>10:10</Time>
+  <Locality>Centro, Angelina, Santa Catarina</Locality>
+  <Latitude>-27.552</Latitude>
+  <Longitude>-49.002</Longitude>
+  <Elevation>430</Elevation>
+  <Author>Evair Legal</Author>
+  <AuthorID>SMJXFKLATM</AuthorID>
+  <Content>alarm call</Content>
+  <Comments />
+  <Quality>1</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies />
+  <Order>Cuculiformes</Order>
+  <Family>Cuculidae</Family>
+  <Genus>Guira</Genus>
+  <Species>guira</Species>
+  <Sub-species />
+  <VernacularNames>Guira Cuckoo</VernacularNames>
+</Audio>

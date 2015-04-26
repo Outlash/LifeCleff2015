@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>30074</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN30074.wav</FileName>
+  <ClassId>exsmje</ClassId>
+  <Date>2000-09-12</Date>
+  <Time>09:15</Time>
+  <Locality>Cristalino Jungle Lodge, MT</Locality>
+  <Latitude>-9.5981</Latitude>
+  <Longitude>-55.932</Longitude>
+  <Elevation>250</Elevation>
+  <Author>Jeremy Minns</Author>
+  <AuthorID>DGVLLRYDXS</AuthorID>
+  <Content>Song</Content>
+  <Comments>Transitional riverside forest.</Comments>
+  <Quality>2</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Trogoniformes</Order>
+  <Family>Trogonidae</Family>
+  <Genus>Trogon</Genus>
+  <Species>collaris</Species>
+  <Sub-species>collaris</Sub-species>
+  <VernacularNames>Collared Trogon</VernacularNames>
+</Audio>

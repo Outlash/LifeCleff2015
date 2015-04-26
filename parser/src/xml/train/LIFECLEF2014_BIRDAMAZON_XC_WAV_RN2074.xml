@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>2074</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN2074.wav</FileName>
+  <ClassId>qrhwnu</ClassId>
+  <Date>2012-09-02</Date>
+  <Time>12:25</Time>
+  <Locality>Jardim Botânico de Rio de Janeiro/Rio de Janeiro/Brasil</Locality>
+  <Latitude>-22.962</Latitude>
+  <Longitude>-43.228</Longitude>
+  <Elevation>26</Elevation>
+  <Author>Yair G Molina - Martínez</Author>
+  <AuthorID>UQUOPFIYYQ</AuthorID>
+  <Content>Call</Content>
+  <Comments>Duet</Comments>
+  <Quality>0</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies />
+  <Order>Piciformes</Order>
+  <Family>Ramphastidae</Family>
+  <Genus>Ramphastos</Genus>
+  <Species>vitellinus</Species>
+  <Sub-species>ariel</Sub-species>
+  <VernacularNames>Channel-billed Toucan</VernacularNames>
+</Audio>

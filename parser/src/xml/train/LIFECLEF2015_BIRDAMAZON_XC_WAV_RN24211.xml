@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>24211</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN24211.wav</FileName>
+  <ClassId>vrciyl</ClassId>
+  <Date>2007-01-08</Date>
+  <Time>12:30</Time>
+  <Locality>Hato El Porvenir, Apure</Locality>
+  <Latitude>NULL</Latitude>
+  <Longitude>NULL</Longitude>
+  <Elevation>?</Elevation>
+  <Author>Andrew Spencer</Author>
+  <AuthorID>CDTGHVBGZP</AuthorID>
+  <Content>call</Content>
+  <Comments />
+  <Quality>2</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Donacobiidae</Family>
+  <Genus>Donacobius</Genus>
+  <Species>atricapilla</Species>
+  <Sub-species />
+  <VernacularNames>Black-capped Donacobius</VernacularNames>
+</Audio>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>13052</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN13052.wav</FileName>
+  <ClassId>fxwyhh</ClassId>
+  <Date>2006-01-22</Date>
+  <Time>06:45</Time>
+  <Locality>Serra dos Carajás, PA</Locality>
+  <Latitude>-6.1603</Latitude>
+  <Longitude>-50.3459</Longitude>
+  <Elevation>380</Elevation>
+  <Author>Nick Athanas</Author>
+  <AuthorID>XRABICUARW</AuthorID>
+  <Content>call</Content>
+  <Comments />
+  <Quality>2</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies>Hypocnemis striata,Ibycter americanus,Myrmoborus myotherinus,Formicarius analis</BackgroundSpecies>
+  <Order>Passeriformes</Order>
+  <Family>Tyrannidae</Family>
+  <Genus>Platyrinchus</Genus>
+  <Species>platyrhynchos</Species>
+  <Sub-species>amazonicus</Sub-species>
+  <VernacularNames>White-crested Spadebill</VernacularNames>
+</Audio>

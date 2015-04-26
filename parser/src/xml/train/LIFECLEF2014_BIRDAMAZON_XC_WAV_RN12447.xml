@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>12447</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN12447.wav</FileName>
+  <ClassId>qlwaes</ClassId>
+  <Date>2003-11-15</Date>
+  <Time>?</Time>
+  <Locality>Mogi das Cruzes, Sao Paolo State</Locality>
+  <Latitude>-23.52</Latitude>
+  <Longitude>-46.18</Longitude>
+  <Elevation>700</Elevation>
+  <Author>Carlos Candia-Gallardo</Author>
+  <AuthorID>CXQSLQJCAG</AuthorID>
+  <Content>song</Content>
+  <Comments>The species typical song is just like that, but uninterupted.</Comments>
+  <Quality>2</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies>Celeus flavescens</BackgroundSpecies>
+  <Order>Passeriformes</Order>
+  <Family>Furnariidae</Family>
+  <Genus>Xiphorhynchus</Genus>
+  <Species>fuscus</Species>
+  <Sub-species />
+  <VernacularNames>Lesser Woodcreeper</VernacularNames>
+</Audio>

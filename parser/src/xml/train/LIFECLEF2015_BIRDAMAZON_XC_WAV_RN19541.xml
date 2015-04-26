@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>19541</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN19541.wav</FileName>
+  <ClassId>uebldf</ClassId>
+  <Date>2013-02-08</Date>
+  <Time>09:00</Time>
+  <Locality>Laguna Tabacal</Locality>
+  <Latitude>5.0209</Latitude>
+  <Longitude>-74.302</Longitude>
+  <Elevation>1380</Elevation>
+  <Author>Diego Calderon-F.</Author>
+  <AuthorID>OGATBVKNAG</AuthorID>
+  <Content>song</Content>
+  <Comments>bird-seen:yesplayback-used:yes</Comments>
+  <Quality>0</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies>Rupornis magnirostris</BackgroundSpecies>
+  <Order>Passeriformes</Order>
+  <Family>Parulidae</Family>
+  <Genus>Myiothlypis</Genus>
+  <Species>cinereicollis</Species>
+  <Sub-species>cinereicollis</Sub-species>
+  <VernacularNames>Grey-throated Warbler</VernacularNames>
+</Audio>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>3729</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN3729.wav</FileName>
+  <ClassId>jirbln</ClassId>
+  <Date>2013-02-04</Date>
+  <Time>08:00</Time>
+  <Locality>Aracruz, Espirito Santo</Locality>
+  <Latitude>-19.8189</Latitude>
+  <Longitude>-40.2739</Longitude>
+  <Elevation>60</Elevation>
+  <Author>Noé Eiterer</Author>
+  <AuthorID>TWSKITNQOV</AuthorID>
+  <Content>call, song</Content>
+  <Comments>bird-seen:yesplayback-used:no</Comments>
+  <Quality>1</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies />
+  <Order>Piciformes</Order>
+  <Family>Picidae</Family>
+  <Genus>Melanerpes</Genus>
+  <Species>candidus</Species>
+  <Sub-species />
+  <VernacularNames>White Woodpecker</VernacularNames>
+</Audio>

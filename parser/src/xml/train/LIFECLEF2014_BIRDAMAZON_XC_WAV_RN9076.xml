@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>9076</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN9076.wav</FileName>
+  <ClassId>fpnmqt</ClassId>
+  <Date>2011-06-05</Date>
+  <Time>06:50</Time>
+  <Locality>Quatro Barras - Paraná State</Locality>
+  <Latitude>-25.344</Latitude>
+  <Longitude>-49.074</Longitude>
+  <Elevation>1000</Elevation>
+  <Author>Cid Espínola</Author>
+  <AuthorID>IRBNRXBEVU</AuthorID>
+  <Content>song</Content>
+  <Comments>After playback</Comments>
+  <Quality>2</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Rhinocryptidae</Family>
+  <Genus>Scytalopus</Genus>
+  <Species>speluncae</Species>
+  <Sub-species />
+  <VernacularNames>Mouse-colored Tapaculo</VernacularNames>
+</Audio>

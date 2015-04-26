@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>31082</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN31082.wav</FileName>
+  <ClassId>ezprzx</ClassId>
+  <Date>2014-08-15</Date>
+  <Time>08:00</Time>
+  <Locality>Finca Cachicamo, Santa Ines - Caripe area, Monagas</Locality>
+  <Latitude>10.1988</Latitude>
+  <Longitude>-63.4418</Longitude>
+  <Elevation>1000</Elevation>
+  <Author>Thore Noernberg</Author>
+  <AuthorID>TTSQGWDDGW</AuthorID>
+  <Content>song</Content>
+  <Comments>bird singing on the upper road by the farm - primary forestbird-seen:noplayback-used:no</Comments>
+  <Quality>2</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies>Patagioenas subvinacea</BackgroundSpecies>
+  <Order>Tinamiformes</Order>
+  <Family>Tinamidae</Family>
+  <Genus>Crypturellus</Genus>
+  <Species>soui</Species>
+  <Sub-species>andrei</Sub-species>
+  <VernacularNames>Little Tinamou</VernacularNames>
+</Audio>

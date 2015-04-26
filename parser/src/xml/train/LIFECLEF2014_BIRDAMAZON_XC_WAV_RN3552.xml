@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>3552</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN3552.wav</FileName>
+  <ClassId>czvsyl</ClassId>
+  <Date>2012-08-17</Date>
+  <Time>10:30am</Time>
+  <Locality>Jaguareguava valley,Bertioga,São Paulo State</Locality>
+  <Latitude>-23.832</Latitude>
+  <Longitude>-46.168</Longitude>
+  <Elevation>5</Elevation>
+  <Author>Antonio Silveira</Author>
+  <AuthorID>NBJQSQJRYH</AuthorID>
+  <Content>song</Content>
+  <Comments />
+  <Quality>3</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Thamnophilidae</Family>
+  <Genus>Myrmotherula</Genus>
+  <Species>unicolor</Species>
+  <Sub-species />
+  <VernacularNames>Unicolored Antwren</VernacularNames>
+</Audio>

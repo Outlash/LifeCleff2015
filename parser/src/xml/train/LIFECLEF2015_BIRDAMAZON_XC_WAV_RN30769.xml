@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>30769</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN30769.wav</FileName>
+  <ClassId>fdjofa</ClassId>
+  <Date>2007-03-17</Date>
+  <Time>07:30</Time>
+  <Locality>Reserva Natural La Montaña del Ocaso, Quimbaya, Quindío</Locality>
+  <Latitude>4.6197</Latitude>
+  <Longitude>-75.851</Longitude>
+  <Elevation>1000</Elevation>
+  <Author>Oscar H. Marín-Gómez</Author>
+  <AuthorID>CSUHASNRSU</AuthorID>
+  <Content>song</Content>
+  <Comments>bird-seen:yesplayback-used:no</Comments>
+  <Quality>2</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Psittaciformes</Order>
+  <Family>Psittacidae</Family>
+  <Genus>Pionus</Genus>
+  <Species>menstruus</Species>
+  <Sub-species />
+  <VernacularNames>Blue-headed Parrot</VernacularNames>
+</Audio>

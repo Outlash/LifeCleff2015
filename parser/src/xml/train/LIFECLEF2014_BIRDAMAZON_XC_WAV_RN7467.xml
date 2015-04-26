@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>7467</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN7467.wav</FileName>
+  <ClassId>rthdxq</ClassId>
+  <Date>2011-09-22</Date>
+  <Time>08:00</Time>
+  <Locality>PARNA da Lagoa do Peixe, Tavares, Rio Grande do Sul</Locality>
+  <Latitude>-31.2924</Latitude>
+  <Longitude>-51.0326</Longitude>
+  <Elevation>0</Elevation>
+  <Author>Rafael Antunes Dias</Author>
+  <AuthorID>XJSWEWQCEC</AuthorID>
+  <Content>call, song</Content>
+  <Comments>In wet, short-grass grassland adjacent to salt marsh near the Lagoa do Peixe. On the ground after playback.  Photo: http://www.wikiaves.com.br/565785&amp;p=1&amp;t=u&amp;u=1273&amp;s=11537bird-seen:yesplayback-used:yes</Comments>
+  <Quality>2</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies>Vanellus chilensis</BackgroundSpecies>
+  <Order>Passeriformes</Order>
+  <Family>Motacillidae</Family>
+  <Genus>Anthus</Genus>
+  <Species>lutescens</Species>
+  <Sub-species />
+  <VernacularNames>Yellowish Pipit</VernacularNames>
+</Audio>

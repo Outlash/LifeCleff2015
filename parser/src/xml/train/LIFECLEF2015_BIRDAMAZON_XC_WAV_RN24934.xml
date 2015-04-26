@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>24934</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN24934.wav</FileName>
+  <ClassId>jttuic</ClassId>
+  <Date>2009-06-09</Date>
+  <Time>18:30</Time>
+  <Locality>Paramo Belmira</Locality>
+  <Latitude>6.62</Latitude>
+  <Longitude>-75.638</Longitude>
+  <Elevation>2600</Elevation>
+  <Author>Pablo Florez</Author>
+  <AuthorID>ISWBQKPBGS</AuthorID>
+  <Content>?</Content>
+  <Comments />
+  <Quality>3</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Caprimulgiformes</Order>
+  <Family>Nyctibiidae</Family>
+  <Genus>Nyctibius</Genus>
+  <Species>griseus</Species>
+  <Sub-species />
+  <VernacularNames>Common Potoo</VernacularNames>
+</Audio>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>7086</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN7086.wav</FileName>
+  <ClassId>dawwtj</ClassId>
+  <Date>2003-10-09</Date>
+  <Time>10:01</Time>
+  <Locality>Parque Estadual Intervales. Barra Grande</Locality>
+  <Latitude>-24.2667</Latitude>
+  <Longitude>-48.3834</Longitude>
+  <Elevation>800</Elevation>
+  <Author>Jeremy Minns</Author>
+  <AuthorID>DGVLLRYDXS</AuthorID>
+  <Content>Song</Content>
+  <Comments>Secondary montane forest. Male.</Comments>
+  <Quality>2</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies />
+  <Order>Trogoniformes</Order>
+  <Family>Trogonidae</Family>
+  <Genus>Trogon</Genus>
+  <Species>surrucura</Species>
+  <Sub-species>surrucura</Sub-species>
+  <VernacularNames>Surucua Trogon</VernacularNames>
+</Audio>

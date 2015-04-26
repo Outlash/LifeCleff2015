@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>3837</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN3837.wav</FileName>
+  <ClassId>vnmlmt</ClassId>
+  <Date>2000-08-30</Date>
+  <Time>05:43</Time>
+  <Locality>Agua Fria Road, Chapada dos Guimaraes, MT</Locality>
+  <Latitude>-15.1</Latitude>
+  <Longitude>-55.61667</Longitude>
+  <Elevation>400</Elevation>
+  <Author>Jeremy Minns</Author>
+  <AuthorID>DGVLLRYDXS</AuthorID>
+  <Content>duet, song</Content>
+  <Comments>Cerrado. Two pairs singing.</Comments>
+  <Quality>1</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies>Elaenia cristata</BackgroundSpecies>
+  <Order>Passeriformes</Order>
+  <Family>Thamnophilidae</Family>
+  <Genus>Thamnophilus</Genus>
+  <Species>doliatus</Species>
+  <Sub-species>radiatus</Sub-species>
+  <VernacularNames>Barred Antshrike</VernacularNames>
+</Audio>

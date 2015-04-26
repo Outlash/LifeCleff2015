@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>20409</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN20409.wav</FileName>
+  <ClassId>vxwrza</ClassId>
+  <Date>2008-12-28</Date>
+  <Time>15:30</Time>
+  <Locality>Cuenca del Rio Lajas, Sierra de Perija</Locality>
+  <Latitude>10.3676</Latitude>
+  <Longitude>-72.5684</Longitude>
+  <Elevation>900</Elevation>
+  <Author>Jose Gustavo Leon/Adrian Naveda-Rodríguez</Author>
+  <AuthorID>YFQYPIHHTS</AuthorID>
+  <Content>Song</Content>
+  <Comments />
+  <Quality>3</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Thamnophilidae</Family>
+  <Genus>Clytoctantes</Genus>
+  <Species>alixii</Species>
+  <Sub-species />
+  <VernacularNames>Recurve-billed Bushbird</VernacularNames>
+</Audio>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>11279</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN11279.wav</FileName>
+  <ClassId>gevshc</ClassId>
+  <Date>2002-09-12</Date>
+  <Time>15:23</Time>
+  <Locality>Serra dos Orgaos National Park. Teresopolis</Locality>
+  <Latitude>-22.4667</Latitude>
+  <Longitude>-43.01</Longitude>
+  <Elevation>1400</Elevation>
+  <Author>Jeremy Minns</Author>
+  <AuthorID>DGVLLRYDXS</AuthorID>
+  <Content>call</Content>
+  <Comments>Pedra do Sino trail. Montane forest. Sounds of a flock.</Comments>
+  <Quality>1</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies>Crypturellus obsoletus</BackgroundSpecies>
+  <Order>Passeriformes</Order>
+  <Family>Thraupidae</Family>
+  <Genus>Tangara</Genus>
+  <Species>desmaresti</Species>
+  <Sub-species />
+  <VernacularNames>Brassy-breasted Tanager</VernacularNames>
+</Audio>

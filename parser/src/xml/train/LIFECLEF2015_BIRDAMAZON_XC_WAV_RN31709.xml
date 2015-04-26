@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>31709</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN31709.wav</FileName>
+  <ClassId>uqcfuk</ClassId>
+  <Date>2012-12-27</Date>
+  <Time>22:13</Time>
+  <Locality>Santa Cruz do Sul, Rio Grande do Sul</Locality>
+  <Latitude>-29.672</Latitude>
+  <Longitude>-52.4204</Longitude>
+  <Elevation>160</Elevation>
+  <Author>Samuel Lopes Oliveira</Author>
+  <AuthorID>HJWRCPSXJP</AuthorID>
+  <Content>song</Content>
+  <Comments>bird-seen:yesplayback-used:no</Comments>
+  <Quality>1</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Caprimulgiformes</Order>
+  <Family>Caprimulgidae</Family>
+  <Genus>Antrostomus</Genus>
+  <Species>rufus</Species>
+  <Sub-species>rutilus</Sub-species>
+  <VernacularNames>Rufous Nightjar</VernacularNames>
+</Audio>

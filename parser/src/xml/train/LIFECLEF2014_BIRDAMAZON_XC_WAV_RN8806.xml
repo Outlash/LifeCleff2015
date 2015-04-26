@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>8806</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN8806.wav</FileName>
+  <ClassId>fjiyjf</ClassId>
+  <Date>2001-10-00</Date>
+  <Time>?:?</Time>
+  <Locality>Caparao NP at campsite</Locality>
+  <Latitude>-20.5</Latitude>
+  <Longitude>-42</Longitude>
+  <Elevation>?</Elevation>
+  <Author>John van der Woude</Author>
+  <AuthorID>LDKAWQWMRJ</AuthorID>
+  <Content>song</Content>
+  <Comments>trip:http://home.tiscali.nl/~jvanderw/brazil01/summary.html</Comments>
+  <Quality>2</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Thamnophilidae</Family>
+  <Genus>Drymophila</Genus>
+  <Species>genei</Species>
+  <Sub-species />
+  <VernacularNames>Rufous-tailed Antbird</VernacularNames>
+</Audio>

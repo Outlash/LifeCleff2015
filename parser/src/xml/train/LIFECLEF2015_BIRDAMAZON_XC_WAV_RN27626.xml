@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>27626</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN27626.wav</FileName>
+  <ClassId>lgpxjn</ClassId>
+  <Date>2002-11-30</Date>
+  <Time>?:?</Time>
+  <Locality>Chapada dos Guimaraes, Mato Grosso</Locality>
+  <Latitude>NULL</Latitude>
+  <Longitude>NULL</Longitude>
+  <Elevation>?</Elevation>
+  <Author>Miguel Castelino</Author>
+  <AuthorID>RCJCABZSNP</AuthorID>
+  <Content>song</Content>
+  <Comments>&lt;a href=http://www.xeno-canto.org/graphics/conosur.jpg rel=lightbox&gt;From Bird Sounds of Southern South America by Lopez-Lanus (2008)&lt;/a&gt;</Comments>
+  <Quality>2</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Tyrannidae</Family>
+  <Genus>Elaenia</Genus>
+  <Species>chiriquensis</Species>
+  <Sub-species />
+  <VernacularNames>Lesser Elaenia</VernacularNames>
+</Audio>

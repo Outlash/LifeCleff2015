@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>129</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN129.wav</FileName>
+  <ClassId>gaigws</ClassId>
+  <Date>2004-05-03</Date>
+  <Time>?:?</Time>
+  <Locality>Cristalino Jungle Lodge, MT</Locality>
+  <Latitude>-9.5981</Latitude>
+  <Longitude>-55.932</Longitude>
+  <Elevation>240</Elevation>
+  <Author>Frank Lambert</Author>
+  <AuthorID>YTUXOCTUEM</AuthorID>
+  <Content>song</Content>
+  <Comments>Previously published on AVoCet as &lt;a href=http://avocet.zoology.msu.edu/recordings/10086&gt;AV10086&lt;/a&gt;.  Certainty: 100%.  ID determined by: seen. GPS: Google Earth.</Comments>
+  <Quality>2</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Cardinalidae</Family>
+  <Genus>Granatellus</Genus>
+  <Species>pelzelni</Species>
+  <Sub-species />
+  <VernacularNames>Rose-breasted Chat</VernacularNames>
+</Audio>

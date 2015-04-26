@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>32952</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN32952.wav</FileName>
+  <ClassId>oowmpu</ClassId>
+  <Date>2011-06-06</Date>
+  <Time>14:00</Time>
+  <Locality>Banhado do Maçarico region, Rio Grande, Rio Grande do Sul</Locality>
+  <Latitude>-32.111</Latitude>
+  <Longitude>-52.261</Longitude>
+  <Elevation>6</Elevation>
+  <Author>Rafael Antunes Dias</Author>
+  <AuthorID>XJSWEWQCEC</AuthorID>
+  <Content>call</Content>
+  <Comments>After playback, in sawgrass - bullrush marsh</Comments>
+  <Quality>4</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Furnariidae</Family>
+  <Genus>Limnornis</Genus>
+  <Species>curvirostris</Species>
+  <Sub-species />
+  <VernacularNames>Curve-billed Reedhaunter</VernacularNames>
+</Audio>

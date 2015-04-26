@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>9333</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN9333.wav</FileName>
+  <ClassId>acvtjw</ClassId>
+  <Date>2009-04-13</Date>
+  <Time>?:?</Time>
+  <Locality>?</Locality>
+  <Latitude>NULL</Latitude>
+  <Longitude>NULL</Longitude>
+  <Elevation>?</Elevation>
+  <Author>Joseph Tobias and Nathalie Seddon</Author>
+  <AuthorID>IKMWQIXRNV</AuthorID>
+  <Content>duet, song</Content>
+  <Comments>Cut announced as Herpsilochmus sp nov in error (member of same flock)</Comments>
+  <Quality>2</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Thamnophilidae</Family>
+  <Genus>Myrmotherula</Genus>
+  <Species>brachyura</Species>
+  <Sub-species />
+  <VernacularNames>Pygmy Antwren</VernacularNames>
+</Audio>

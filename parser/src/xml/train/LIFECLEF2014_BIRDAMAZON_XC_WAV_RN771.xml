@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>771</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN771.wav</FileName>
+  <ClassId>ekarsb</ClassId>
+  <Date>2003-03-30</Date>
+  <Time>08:17</Time>
+  <Locality>Guajará-Mirim, RO</Locality>
+  <Latitude>-10.8814</Latitude>
+  <Longitude>-65.2501</Longitude>
+  <Elevation>130</Elevation>
+  <Author>Jeremy Minns</Author>
+  <AuthorID>DGVLLRYDXS</AuthorID>
+  <Content>call</Content>
+  <Comments>Terra firme forest. Two different calls by a pair.</Comments>
+  <Quality>1</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Thamnophilidae</Family>
+  <Genus>Myrmoborus</Genus>
+  <Species>myotherinus</Species>
+  <Sub-species>sororius</Sub-species>
+  <VernacularNames>Black-faced Antbird</VernacularNames>
+</Audio>

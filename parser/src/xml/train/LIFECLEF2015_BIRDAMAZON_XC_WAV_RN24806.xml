@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>24806</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN24806.wav</FileName>
+  <ClassId>ejtezg</ClassId>
+  <Date>2012-02-17</Date>
+  <Time>07:00</Time>
+  <Locality>reserve located at La Mesenia to protect the Dusky Starfrontlet</Locality>
+  <Latitude>5.483</Latitude>
+  <Longitude>-75.896</Longitude>
+  <Elevation>2500</Elevation>
+  <Author>Oswaldo Cortes</Author>
+  <AuthorID>VVDRVZCVWW</AuthorID>
+  <Content>song</Content>
+  <Comments>bird-seen:yesplayback-used:no</Comments>
+  <Quality>3</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies>Oreothraupis arremonops</BackgroundSpecies>
+  <Order>Passeriformes</Order>
+  <Family>Troglodytidae</Family>
+  <Genus>Henicorhina</Genus>
+  <Species>negreti</Species>
+  <Sub-species />
+  <VernacularNames>Munchique Wood Wren</VernacularNames>
+</Audio>

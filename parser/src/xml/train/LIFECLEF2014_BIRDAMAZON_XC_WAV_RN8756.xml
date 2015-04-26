@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>8756</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN8756.wav</FileName>
+  <ClassId>ibvnlg</ClassId>
+  <Date>2007-11-09</Date>
+  <Time>11:50</Time>
+  <Locality>ReBio da Vista Chinesa - Rio de Janeiro - RJ</Locality>
+  <Latitude>-22.9167</Latitude>
+  <Longitude>-43.2667</Longitude>
+  <Elevation>350</Elevation>
+  <Author>Ricardo Gagliardi</Author>
+  <AuthorID>YRDADNREOP</AuthorID>
+  <Content>call</Content>
+  <Comments />
+  <Quality>2</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Tyrannidae</Family>
+  <Genus>Myiornis</Genus>
+  <Species>auricularis</Species>
+  <Sub-species />
+  <VernacularNames>Eared Pygmy Tyrant</VernacularNames>
+</Audio>

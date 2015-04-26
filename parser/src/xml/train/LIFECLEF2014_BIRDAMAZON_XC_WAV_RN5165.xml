@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>5165</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN5165.wav</FileName>
+  <ClassId>sgsdgm</ClassId>
+  <Date>2009-09-07</Date>
+  <Time>11:00</Time>
+  <Locality>Goiânia, Goiás.</Locality>
+  <Latitude>-16.691448</Latitude>
+  <Longitude>-49.266815</Longitude>
+  <Elevation>710</Elevation>
+  <Author>Nunes D´Acosta</Author>
+  <AuthorID>OHHTDSDNBT</AuthorID>
+  <Content>VoclaizaÃ§Ã£o</Content>
+  <Comments>Colonia de Cacicus cela construindo ninho -  Zona habitacional, Clube de Roma - Setor Samambaia - Macho vocalizando.</Comments>
+  <Quality>0</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Icteridae</Family>
+  <Genus>Cacicus</Genus>
+  <Species>cela</Species>
+  <Sub-species />
+  <VernacularNames>Yellow-rumped Cacique</VernacularNames>
+</Audio>

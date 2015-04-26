@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>27211</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN27211.wav</FileName>
+  <ClassId>mveelf</ClassId>
+  <Date>2005-11-19</Date>
+  <Time>?</Time>
+  <Locality>Mana</Locality>
+  <Latitude>5.652886</Latitude>
+  <Longitude>-53.831291</Longitude>
+  <Elevation>8</Elevation>
+  <Author>Alexandre Renaudier</Author>
+  <AuthorID>GKADEITXTH</AuthorID>
+  <Content>flight call</Content>
+  <Comments />
+  <Quality>4</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies>Trogon violaceus</BackgroundSpecies>
+  <Order>Psittaciformes</Order>
+  <Family>Psittacidae</Family>
+  <Genus>Pionus</Genus>
+  <Species>fuscus</Species>
+  <Sub-species />
+  <VernacularNames>Dusky Parrot</VernacularNames>
+</Audio>

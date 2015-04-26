@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>5947</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN5947.wav</FileName>
+  <ClassId>wwgoay</ClassId>
+  <Date>2004-02-17</Date>
+  <Time>12:00</Time>
+  <Locality>Nucleo Picinguaba (Rio Fazenda), 32 km al N de Ubatuba, Sao Paulo</Locality>
+  <Latitude>NULL</Latitude>
+  <Longitude>NULL</Longitude>
+  <Elevation>1</Elevation>
+  <Author>Bernabe Lopez-Lanus</Author>
+  <AuthorID>BYLLSJRVDZ</AuthorID>
+  <Content>call</Content>
+  <Comments>Original cut (=7 T. cyanocephala) with others species calls (3-4 individuals).</Comments>
+  <Quality>3</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Thraupidae</Family>
+  <Genus>Tangara</Genus>
+  <Species>cyanocephala</Species>
+  <Sub-species />
+  <VernacularNames>Red-necked Tanager</VernacularNames>
+</Audio>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>17080</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN17080.wav</FileName>
+  <ClassId>cadwtw</ClassId>
+  <Date>2011-09-01</Date>
+  <Time>09:00</Time>
+  <Locality>Pantanal Wildlife Center, MT</Locality>
+  <Latitude>-16.7581</Latitude>
+  <Longitude>-56.8764</Longitude>
+  <Elevation>110</Elevation>
+  <Author>Eric DeFonso</Author>
+  <AuthorID>KTLCZCRCQX</AuthorID>
+  <Content>call</Content>
+  <Comments>More chik calls from a pair of birds in a reedy wet area next to the road. Noise below 100 Hz filtered. Habitat is tropical deciduous woodland in dry season.bird-seen:yesplayback-used:no</Comments>
+  <Quality>2</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Icteridae</Family>
+  <Genus>Amblyramphus</Genus>
+  <Species>holosericeus</Species>
+  <Sub-species />
+  <VernacularNames>Scarlet-headed Blackbird</VernacularNames>
+</Audio>

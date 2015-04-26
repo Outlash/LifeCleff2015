@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>32227</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN32227.wav</FileName>
+  <ClassId>etnvbo</ClassId>
+  <Date>2009-01-00</Date>
+  <Time>xx:xx</Time>
+  <Locality>RNA El Dorado, Sierra de Santa Marta, Magdalena</Locality>
+  <Latitude>11.1009</Latitude>
+  <Longitude>-74.072</Longitude>
+  <Elevation>1800</Elevation>
+  <Author>Thomas Donegan</Author>
+  <AuthorID>OXSIOLJJUP</AuthorID>
+  <Content>Call</Content>
+  <Comments />
+  <Quality>3</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Thraupidae</Family>
+  <Genus>Tangara</Genus>
+  <Species>heinei</Species>
+  <Sub-species />
+  <VernacularNames>Black-capped Tanager</VernacularNames>
+</Audio>

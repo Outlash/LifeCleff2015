@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>32128</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN32128.wav</FileName>
+  <ClassId>tqlwqz</ClassId>
+  <Date>2013-09-25</Date>
+  <Time>15:31</Time>
+  <Locality>Parque Nacional da Serra do Itajaí, Botuverá, Santa Catarina</Locality>
+  <Latitude>-27.2042</Latitude>
+  <Longitude>-49.1212</Longitude>
+  <Elevation>340</Elevation>
+  <Author>Douglas Meyer</Author>
+  <AuthorID>MNENFHYTAE</AuthorID>
+  <Content>song</Content>
+  <Comments>bird-seen:yesplayback-used:no</Comments>
+  <Quality>2</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Furnariidae</Family>
+  <Genus>Philydor</Genus>
+  <Species>lichtensteini</Species>
+  <Sub-species />
+  <VernacularNames>Ochre-breasted Foliage-gleaner</VernacularNames>
+</Audio>

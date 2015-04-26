@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>22639</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN22639.wav</FileName>
+  <ClassId>aflwfz</ClassId>
+  <Date>2007-11-03</Date>
+  <Time>05:55</Time>
+  <Locality>Parque Regional Barbas-Bremen, Filandia, Quindio</Locality>
+  <Latitude>4.6717</Latitude>
+  <Longitude>-75.6283</Longitude>
+  <Elevation>1800</Elevation>
+  <Author>Oscar H. Marín-Gómez</Author>
+  <AuthorID>CSUHASNRSU</AuthorID>
+  <Content>call, flight call</Content>
+  <Comments>Ref: Tape OHM000A27:55. Another Two birds calling in mature forest understory, near to Bremen campament. In the background at 1:55 two Henicorhian leucophrys singing and at 2:39 another Cauca Guan issuing flight call. Low Montane Forest.  Distance to Mic: 25m. Not filtering. Natural vocalization.bird-seen:noplayback-used:no</Comments>
+  <Quality>2</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies>Henicorhina leucophrys,Myadestes ralloides,Penelope perspicax</BackgroundSpecies>
+  <Order>Galliformes</Order>
+  <Family>Cracidae</Family>
+  <Genus>Penelope</Genus>
+  <Species>perspicax</Species>
+  <Sub-species />
+  <VernacularNames>Cauca Guan</VernacularNames>
+</Audio>

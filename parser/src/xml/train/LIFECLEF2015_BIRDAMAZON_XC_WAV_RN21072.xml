@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>21072</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN21072.wav</FileName>
+  <ClassId>rdpjcl</ClassId>
+  <Date>2003-09-13</Date>
+  <Time>06:09</Time>
+  <Locality>Tiradentes, MG</Locality>
+  <Latitude>-21.1167</Latitude>
+  <Longitude>-44.1501</Longitude>
+  <Elevation>900</Elevation>
+  <Author>Jeremy Minns</Author>
+  <AuthorID>DGVLLRYDXS</AuthorID>
+  <Content>Song</Content>
+  <Comments>Similar behaviour by a bird in the same place as in #2, recorded two and a half years previously.</Comments>
+  <Quality>1</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies>Synallaxis spixi,Coereba flaveola,Saltator similis</BackgroundSpecies>
+  <Order>Apodiformes</Order>
+  <Family>Trochilidae</Family>
+  <Genus>Amazilia</Genus>
+  <Species>lactea</Species>
+  <Sub-species>lactea</Sub-species>
+  <VernacularNames>Sapphire-spangled Emerald</VernacularNames>
+</Audio>

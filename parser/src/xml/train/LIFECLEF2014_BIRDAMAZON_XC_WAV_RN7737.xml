@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>7737</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN7737.wav</FileName>
+  <ClassId>qdjrwu</ClassId>
+  <Date>2012-12-10</Date>
+  <Time>06:30</Time>
+  <Locality>Serra Grande-Pão de Açúcar-alagoas-Brasil</Locality>
+  <Latitude>-9.661</Latitude>
+  <Longitude>-37.412</Longitude>
+  <Elevation>320</Elevation>
+  <Author>pedrotêia</Author>
+  <AuthorID>BZVNDWLRSQ</AuthorID>
+  <Content>song</Content>
+  <Comments />
+  <Quality>2</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies />
+  <Order>Tinamiformes</Order>
+  <Family>Tinamidae</Family>
+  <Genus>Crypturellus</Genus>
+  <Species>parvirostris</Species>
+  <Sub-species />
+  <VernacularNames>Small-billed Tinamou</VernacularNames>
+</Audio>

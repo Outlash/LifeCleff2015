@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>28463</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN28463.wav</FileName>
+  <ClassId>vnhvbs</ClassId>
+  <Date>2009-06-09</Date>
+  <Time>08:50</Time>
+  <Locality>Left bank of Rio Teles Pires, Paranaita, Mato Grosso</Locality>
+  <Latitude>-9.2373</Latitude>
+  <Longitude>-56.9851</Longitude>
+  <Elevation>190</Elevation>
+  <Author>Guilherme R R Brito</Author>
+  <AuthorID>OAYOBWYOOM</AuthorID>
+  <Content>song</Content>
+  <Comments>espontaneous vocalization</Comments>
+  <Quality>2</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Vireonidae</Family>
+  <Genus>Hylophilus</Genus>
+  <Species>hypoxanthus</Species>
+  <Sub-species />
+  <VernacularNames>Dusky-capped Greenlet</VernacularNames>
+</Audio>

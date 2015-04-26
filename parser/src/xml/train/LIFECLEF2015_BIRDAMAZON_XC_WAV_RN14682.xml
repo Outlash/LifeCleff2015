@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>14682</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN14682.wav</FileName>
+  <ClassId>rojrwf</ClassId>
+  <Date>2006-12-26</Date>
+  <Time>06:15</Time>
+  <Locality>Paso de Choroni, Aragua</Locality>
+  <Latitude>10.3612</Latitude>
+  <Longitude>-67.5856</Longitude>
+  <Elevation>?</Elevation>
+  <Author>Andrew Spencer</Author>
+  <AuthorID>CDTGHVBGZP</AuthorID>
+  <Content>song</Content>
+  <Comments />
+  <Quality>1</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Caprimulgiformes</Order>
+  <Family>Caprimulgidae</Family>
+  <Genus>Systellura</Genus>
+  <Species>longirostris</Species>
+  <Sub-species>ruficervix</Sub-species>
+  <VernacularNames>Band-winged Nightjar</VernacularNames>
+</Audio>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>15488</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN15488.wav</FileName>
+  <ClassId>yvbyyb</ClassId>
+  <Date>2009-02-25</Date>
+  <Time>11:00</Time>
+  <Locality>Munoz, Apure</Locality>
+  <Latitude>7.7143</Latitude>
+  <Longitude>-69.3326</Longitude>
+  <Elevation>80</Elevation>
+  <Author>Fernand DEROUSSEN</Author>
+  <AuthorID>UXGZWVYDFE</AuthorID>
+  <Content>flight call</Content>
+  <Comments>a groupebird-seen:yesplayback-used:no</Comments>
+  <Quality>3</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Anseriformes</Order>
+  <Family>Anatidae</Family>
+  <Genus>Dendrocygna</Genus>
+  <Species>autumnalis</Species>
+  <Sub-species />
+  <VernacularNames>Black-bellied Whistling Duck</VernacularNames>
+</Audio>

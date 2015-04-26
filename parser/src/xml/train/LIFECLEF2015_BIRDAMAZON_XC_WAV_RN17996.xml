@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>17996</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN17996.wav</FileName>
+  <ClassId>wstttv</ClassId>
+  <Date>2013-11-19</Date>
+  <Time>13:43</Time>
+  <Locality>Caldas, Antioquia</Locality>
+  <Latitude>6.0505</Latitude>
+  <Longitude>-75.624</Longitude>
+  <Elevation>1900</Elevation>
+  <Author>Danny Zapata-Henao</Author>
+  <AuthorID>AHYWLCEJLP</AuthorID>
+  <Content>alarm call</Content>
+  <Comments>About 5 individuals in a small tree that were frightened by my presence and a motorcycle nearby.bird-seen:yesplayback-used:no</Comments>
+  <Quality>3</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Icteridae</Family>
+  <Genus>Hypopyrrhus</Genus>
+  <Species>pyrohypogaster</Species>
+  <Sub-species />
+  <VernacularNames>Red-bellied Grackle</VernacularNames>
+</Audio>

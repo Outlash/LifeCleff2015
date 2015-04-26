@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>33235</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN33235.wav</FileName>
+  <ClassId>armfvy</ClassId>
+  <Date>2014-03-28</Date>
+  <Time>11:00</Time>
+  <Locality>Belo Oriente, Minas Gerais</Locality>
+  <Latitude>-19.2204</Latitude>
+  <Longitude>-42.4832</Longitude>
+  <Elevation>260</Elevation>
+  <Author>Roney Assis Souza</Author>
+  <AuthorID>AJYSYOLBOF</AuthorID>
+  <Content>song</Content>
+  <Comments>bird-seen:noplayback-used:no</Comments>
+  <Quality>0</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies>Cacicus haemorrhous</BackgroundSpecies>
+  <Order>Passeriformes</Order>
+  <Family>Tyrannidae</Family>
+  <Genus>Camptostoma</Genus>
+  <Species>obsoletum</Species>
+  <Sub-species />
+  <VernacularNames>Southern Beardless Tyrannulet</VernacularNames>
+</Audio>

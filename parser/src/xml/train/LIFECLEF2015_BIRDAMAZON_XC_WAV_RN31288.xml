@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>31288</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN31288.wav</FileName>
+  <ClassId>kfijne</ClassId>
+  <Date>2013-03-24</Date>
+  <Time>17:30</Time>
+  <Locality>RPPN Serra Bonita, Camacan, Bahia.</Locality>
+  <Latitude>-15.3851</Latitude>
+  <Longitude>-39.5709</Longitude>
+  <Elevation>850</Elevation>
+  <Author>Juha Honkala</Author>
+  <AuthorID>UTCLOBFQPH</AuthorID>
+  <Content>call</Content>
+  <Comments>The bird was calling in the bush nearby the hummingbird feeders set in the garden of the HQ.bird-seen:yesplayback-used:no</Comments>
+  <Quality>2</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Apodiformes</Order>
+  <Family>Trochilidae</Family>
+  <Genus>Aphantochroa</Genus>
+  <Species>cirrochloris</Species>
+  <Sub-species />
+  <VernacularNames>Sombre Hummingbird</VernacularNames>
+</Audio>

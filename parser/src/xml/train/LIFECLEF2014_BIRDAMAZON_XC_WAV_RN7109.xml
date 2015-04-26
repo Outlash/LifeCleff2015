@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>7109</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN7109.wav</FileName>
+  <ClassId>kcjurp</ClassId>
+  <Date>2006-02-18</Date>
+  <Time>06:00</Time>
+  <Locality>Reserva Biológica de Saltinho, Tamandaré, Pernambuco</Locality>
+  <Latitude>-8.7167</Latitude>
+  <Longitude>-35.1667</Longitude>
+  <Elevation>140</Elevation>
+  <Author>Glauco Alves Pereira</Author>
+  <AuthorID>ZWEROGGYVP</AuthorID>
+  <Content>call, song</Content>
+  <Comments>edge of forest (two individuals)</Comments>
+  <Quality>3</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies>Thamnophilus aethiops,Turdus leucomelas,Xiphorhynchus guttatus,Cyclarhis gujanensis</BackgroundSpecies>
+  <Order>Passeriformes</Order>
+  <Family>Thraupidae</Family>
+  <Genus>Cissopis</Genus>
+  <Species>leverianus</Species>
+  <Sub-species />
+  <VernacularNames>Magpie Tanager</VernacularNames>
+</Audio>

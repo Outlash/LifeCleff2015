@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>2548</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN2548.wav</FileName>
+  <ClassId>jiuopg</ClassId>
+  <Date>2005-05-24</Date>
+  <Time>12:30</Time>
+  <Locality>Itatiaia NP, RJ</Locality>
+  <Latitude>-22.38</Latitude>
+  <Longitude>-44.63</Longitude>
+  <Elevation>1150</Elevation>
+  <Author>Nick Athanas</Author>
+  <AuthorID>XRABICUARW</AuthorID>
+  <Content>song</Content>
+  <Comments />
+  <Quality>2</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies>Biatas nigropectus,Conopophaga lineata,Colonia colonus</BackgroundSpecies>
+  <Order>Passeriformes</Order>
+  <Family>Tyrannidae</Family>
+  <Genus>Sirystes</Genus>
+  <Species>sibilator</Species>
+  <Sub-species>sibilator</Sub-species>
+  <VernacularNames>Eastern Sirystes</VernacularNames>
+</Audio>

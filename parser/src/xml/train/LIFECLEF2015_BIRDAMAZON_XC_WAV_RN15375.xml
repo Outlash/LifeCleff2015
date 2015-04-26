@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>15375</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN15375.wav</FileName>
+  <ClassId>dxtjbh</ClassId>
+  <Date>2000-07-28</Date>
+  <Time>09:33</Time>
+  <Locality>Juntas, Municipio de Ibague, Tolima</Locality>
+  <Latitude>NULL</Latitude>
+  <Longitude>NULL</Longitude>
+  <Elevation>2300</Elevation>
+  <Author>Bernabe Lopez-Lanus</Author>
+  <AuthorID>BYLLSJRVDZ</AuthorID>
+  <Content>Second song</Content>
+  <Comments />
+  <Quality>3</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Emberizidae</Family>
+  <Genus>Atlapetes</Genus>
+  <Species>flaviceps</Species>
+  <Sub-species />
+  <VernacularNames>Yellow-headed Brush Finch</VernacularNames>
+</Audio>

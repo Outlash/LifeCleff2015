@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>16813</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN16813.wav</FileName>
+  <ClassId>itonmb</ClassId>
+  <Date>2010-01-10</Date>
+  <Time>15:00</Time>
+  <Locality>Santa Cecilia, Serrania de San Lucas</Locality>
+  <Latitude>7.9759</Latitude>
+  <Longitude>-74.2153</Longitude>
+  <Elevation>1600</Elevation>
+  <Author>Thomas Donegan</Author>
+  <AuthorID>OXSIOLJJUP</AuthorID>
+  <Content>Song</Content>
+  <Comments>Singing from canopy in forest, made to call using 'stomp back'.  Note this series of calls is all of the same individual, which called sporadically for a period of a few hours during the afternoon sun.</Comments>
+  <Quality>3</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Cotingidae</Family>
+  <Genus>Lipaugus</Genus>
+  <Species>unirufus</Species>
+  <Sub-species />
+  <VernacularNames>Rufous Piha</VernacularNames>
+</Audio>

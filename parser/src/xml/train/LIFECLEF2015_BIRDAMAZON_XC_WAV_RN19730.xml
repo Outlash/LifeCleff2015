@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>19730</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN19730.wav</FileName>
+  <ClassId>fvftkw</ClassId>
+  <Date>2002-12-12</Date>
+  <Time>06:00</Time>
+  <Locality>Bogota, Quebrada la Vieja</Locality>
+  <Latitude>4.6231</Latitude>
+  <Longitude>-74.0562</Longitude>
+  <Elevation>2800</Elevation>
+  <Author>Doug Knapp</Author>
+  <AuthorID>BHRXQZEQFL</AuthorID>
+  <Content>Call</Content>
+  <Comments />
+  <Quality>1</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Tyrannidae</Family>
+  <Genus>Elaenia</Genus>
+  <Species>frantzii</Species>
+  <Sub-species />
+  <VernacularNames>Mountain Elaenia</VernacularNames>
+</Audio>

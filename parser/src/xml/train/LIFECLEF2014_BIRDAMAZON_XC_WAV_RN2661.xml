@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>2661</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN2661.wav</FileName>
+  <ClassId>ptfyqz</ClassId>
+  <Date>1992-02-16</Date>
+  <Time>pm</Time>
+  <Locality>Fazenda das Araras, Ruta Transpantaneira, Pocone, Mato Grosso</Locality>
+  <Latitude>-16.512178</Latitude>
+  <Longitude>-56.712627</Longitude>
+  <Elevation>?</Elevation>
+  <Author>Bernabe Lopez-Lanus</Author>
+  <AuthorID>BYLLSJRVDZ</AuthorID>
+  <Content>Song</Content>
+  <Comments>Response to play back</Comments>
+  <Quality>2</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies />
+  <Order>Tinamiformes</Order>
+  <Family>Tinamidae</Family>
+  <Genus>Crypturellus</Genus>
+  <Species>undulatus</Species>
+  <Sub-species>undulatus (?)</Sub-species>
+  <VernacularNames>Undulated Tinamou</VernacularNames>
+</Audio>

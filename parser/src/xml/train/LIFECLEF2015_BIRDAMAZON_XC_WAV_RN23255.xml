@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>23255</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN23255.wav</FileName>
+  <ClassId>kqjbfy</ClassId>
+  <Date>2009-02-05</Date>
+  <Time>morning</Time>
+  <Locality>Alcantara, Maranhao (02º18’S, 44º22’’’W)</Locality>
+  <Latitude>NULL</Latitude>
+  <Longitude>NULL</Longitude>
+  <Elevation>30</Elevation>
+  <Author>Fabio Olmos</Author>
+  <AuthorID>KSFTXTWUGU</AuthorID>
+  <Content>song</Content>
+  <Comments>no play-back, bird calling atop buriti palm in riverine forest</Comments>
+  <Quality>2</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies>Turdus leucomelas,Diopsittaca nobilis</BackgroundSpecies>
+  <Order>Passeriformes</Order>
+  <Family>Tyrannidae</Family>
+  <Genus>Tyrannopsis</Genus>
+  <Species>sulphurea</Species>
+  <Sub-species />
+  <VernacularNames>Sulphury Flycatcher</VernacularNames>
+</Audio>

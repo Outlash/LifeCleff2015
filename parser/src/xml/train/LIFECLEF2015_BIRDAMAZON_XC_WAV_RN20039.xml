@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>20039</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN20039.wav</FileName>
+  <ClassId>asvgnp</ClassId>
+  <Date>2012-11-15</Date>
+  <Time>11:00</Time>
+  <Locality>Nova Veneza, Santa Catarina state, Brazil</Locality>
+  <Latitude>-28.6301</Latitude>
+  <Longitude>-49.5073</Longitude>
+  <Elevation>80</Elevation>
+  <Author>João Gava</Author>
+  <AuthorID>CEKMJEZKSJ</AuthorID>
+  <Content>flight call</Content>
+  <Comments>bird-seen:yesplayback-used:no</Comments>
+  <Quality>2</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Falconiformes</Order>
+  <Family>Falconidae</Family>
+  <Genus>Milvago</Genus>
+  <Species>chimachima</Species>
+  <Sub-species />
+  <VernacularNames>Yellow-headed Caracara</VernacularNames>
+</Audio>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>19456</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN19456.wav</FileName>
+  <ClassId>ygcrlc</ClassId>
+  <Date>2010-01-29</Date>
+  <Time>11:00</Time>
+  <Locality>La Suiza (SFF Otun/Quimbaya), corregimiento La Florida, Pereira, Risaralda</Locality>
+  <Latitude>NULL</Latitude>
+  <Longitude>NULL</Longitude>
+  <Elevation>1900</Elevation>
+  <Author>Frank Lambert</Author>
+  <AuthorID>YTUXOCTUEM</AuthorID>
+  <Content>song</Content>
+  <Comments />
+  <Quality>2</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Troglodytidae</Family>
+  <Genus>Cyphorhinus</Genus>
+  <Species>thoracicus</Species>
+  <Sub-species />
+  <VernacularNames>Chestnut-breasted Wren</VernacularNames>
+</Audio>

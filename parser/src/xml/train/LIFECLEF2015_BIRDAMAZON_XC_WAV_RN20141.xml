@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>20141</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN20141.wav</FileName>
+  <ClassId>vqpvft</ClassId>
+  <Date>2005-12-20</Date>
+  <Time>09:10</Time>
+  <Locality>Soata (Reserva de Aves para Amazilia castaneiventris y Macroagelaius)</Locality>
+  <Latitude>6.3001</Latitude>
+  <Longitude>-72.7167</Longitude>
+  <Elevation>2800</Elevation>
+  <Author>Oswaldo Cortes</Author>
+  <AuthorID>VVDRVZCVWW</AuthorID>
+  <Content>Song</Content>
+  <Comments />
+  <Quality>3</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Icteridae</Family>
+  <Genus>Sturnella</Genus>
+  <Species>magna</Species>
+  <Sub-species />
+  <VernacularNames>Eastern Meadowlark</VernacularNames>
+</Audio>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>7461</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN7461.wav</FileName>
+  <ClassId>ltjfqv</ClassId>
+  <Date>2009-10-14</Date>
+  <Time>07:30</Time>
+  <Locality>Tocantins</Locality>
+  <Latitude>-12.0554</Latitude>
+  <Longitude>-49.0237</Longitude>
+  <Elevation>280</Elevation>
+  <Author>GABRIEL LEITE</Author>
+  <AuthorID>TGBFXDVERJ</AuthorID>
+  <Content>call, song</Content>
+  <Comments>bird-seen:yesplayback-used:no</Comments>
+  <Quality>4</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies>Pitangus sulphuratus</BackgroundSpecies>
+  <Order>Passeriformes</Order>
+  <Family>Tyrannidae</Family>
+  <Genus>Myiarchus</Genus>
+  <Species>tyrannulus</Species>
+  <Sub-species />
+  <VernacularNames>Brown-crested Flycatcher</VernacularNames>
+</Audio>

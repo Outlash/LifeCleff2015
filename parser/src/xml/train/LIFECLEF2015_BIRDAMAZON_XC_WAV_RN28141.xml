@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>28141</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN28141.wav</FileName>
+  <ClassId>jjeesd</ClassId>
+  <Date>2012-01-22</Date>
+  <Time>11:00</Time>
+  <Locality>Iwokrama River Lodge, Turtle Moutain</Locality>
+  <Latitude>4.68</Latitude>
+  <Longitude>-58.671</Longitude>
+  <Elevation>100</Elevation>
+  <Author>Niels Poul Dreyer</Author>
+  <AuthorID>YIQSVPAMDQ</AuthorID>
+  <Content>song</Content>
+  <Comments>Iwokrama River Lodge, Turtle Mt</Comments>
+  <Quality>1</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Cardinalidae</Family>
+  <Genus>Cyanocompsa</Genus>
+  <Species>cyanoides</Species>
+  <Sub-species>rothschildii</Sub-species>
+  <VernacularNames>Blue-black Grosbeak</VernacularNames>
+</Audio>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>8120</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN8120.wav</FileName>
+  <ClassId>uuvfxv</ClassId>
+  <Date>2001-01-24</Date>
+  <Time>07:46</Time>
+  <Locality>Maraú, BA</Locality>
+  <Latitude>-14.1334</Latitude>
+  <Longitude>-39.0501</Longitude>
+  <Elevation>50</Elevation>
+  <Author>Jeremy Minns</Author>
+  <AuthorID>DGVLLRYDXS</AuthorID>
+  <Content>Song</Content>
+  <Comments>Secondary growth on sandy soil.</Comments>
+  <Quality>2</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Parulidae</Family>
+  <Genus>Myiothlypis</Genus>
+  <Species>flaveola</Species>
+  <Sub-species />
+  <VernacularNames>Flavescent Warbler</VernacularNames>
+</Audio>

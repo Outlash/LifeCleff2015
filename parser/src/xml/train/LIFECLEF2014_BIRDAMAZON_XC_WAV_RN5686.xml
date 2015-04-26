@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>5686</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN5686.wav</FileName>
+  <ClassId>yyjrms</ClassId>
+  <Date>2013-02-01</Date>
+  <Time>08:30</Time>
+  <Locality>Diadema, São Paulo</Locality>
+  <Latitude>-23.7343</Latitude>
+  <Longitude>-46.6339</Longitude>
+  <Elevation>800</Elevation>
+  <Author>Michel Fernandes</Author>
+  <AuthorID>PODOTHFVGG</AuthorID>
+  <Content>macho, song</Content>
+  <Comments>era dois ticos gravei e editei os audios .Eldorado/Diadema/SP</Comments>
+  <Quality>2</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Emberizidae</Family>
+  <Genus>Zonotrichia</Genus>
+  <Species>capensis</Species>
+  <Sub-species />
+  <VernacularNames>Rufous-collared Sparrow</VernacularNames>
+</Audio>

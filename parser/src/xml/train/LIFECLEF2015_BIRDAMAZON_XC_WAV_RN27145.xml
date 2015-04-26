@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>27145</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN27145.wav</FileName>
+  <ClassId>wwbydf</ClassId>
+  <Date>2011-01-28</Date>
+  <Time>08:00</Time>
+  <Locality>Rio Blanco Reserve. Manizales. Caldas</Locality>
+  <Latitude>5.1278</Latitude>
+  <Longitude>-75.4628</Longitude>
+  <Elevation>2500</Elevation>
+  <Author>Oswaldo Cortes</Author>
+  <AuthorID>VVDRVZCVWW</AuthorID>
+  <Content>song</Content>
+  <Comments />
+  <Quality>3</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Troglodytidae</Family>
+  <Genus>Troglodytes</Genus>
+  <Species>solstitialis</Species>
+  <Sub-species />
+  <VernacularNames>Mountain Wren</VernacularNames>
+</Audio>

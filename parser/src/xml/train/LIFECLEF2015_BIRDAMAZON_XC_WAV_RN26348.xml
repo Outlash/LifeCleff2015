@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>26348</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN26348.wav</FileName>
+  <ClassId>ipvlig</ClassId>
+  <Date>2010-01-06</Date>
+  <Time>07:30</Time>
+  <Locality>Sonsón, Antioquia, Vereda San Francisco, Cerro de las Palomas, Páramo de Sonsón</Locality>
+  <Latitude>5.716</Latitude>
+  <Longitude>-75.2583</Longitude>
+  <Elevation>2800</Elevation>
+  <Author>Oscar H. Marín-Gómez</Author>
+  <AuthorID>CSUHASNRSU</AuthorID>
+  <Content>song</Content>
+  <Comments>Ref: OHM067B 1106. Dos individuos en estrato medio en robledal. Distancia de 15 m al micrófono.bird-seen:yesplayback-used:no</Comments>
+  <Quality>2</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies>Melanerpes formicivorus,Turdus fuscater,Myiarchus cephalotes</BackgroundSpecies>
+  <Order>Passeriformes</Order>
+  <Family>Parulidae</Family>
+  <Genus>Myioborus</Genus>
+  <Species>ornatus</Species>
+  <Sub-species />
+  <VernacularNames>Golden-fronted Whitestart</VernacularNames>
+</Audio>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>25121</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN25121.wav</FileName>
+  <ClassId>tsxwwl</ClassId>
+  <Date>2014-08-08</Date>
+  <Time>14:00</Time>
+  <Locality>Siderópolis, Santa Catarina state, Brazil</Locality>
+  <Latitude>-28.6155</Latitude>
+  <Longitude>-49.5164</Longitude>
+  <Elevation>180</Elevation>
+  <Author>João Gava Just</Author>
+  <AuthorID>CEKMJEZKSJ</AuthorID>
+  <Content>call</Content>
+  <Comments>bird-seen:noplayback-used:no</Comments>
+  <Quality>2</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Thamnophilidae</Family>
+  <Genus>Myrmeciza</Genus>
+  <Species>squamosa</Species>
+  <Sub-species />
+  <VernacularNames>Squamate Antbird</VernacularNames>
+</Audio>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>3831</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN3831.wav</FileName>
+  <ClassId>vrciyl</ClassId>
+  <Date>2011-12-08</Date>
+  <Time>11:31</Time>
+  <Locality>Reserva Ecológica de Guapi Açu (REGUA), RJ</Locality>
+  <Latitude>-22.4508</Latitude>
+  <Longitude>-42.7735</Longitude>
+  <Elevation>30</Elevation>
+  <Author>Eric DeFonso</Author>
+  <AuthorID>KTLCZCRCQX</AuthorID>
+  <Content>call</Content>
+  <Comments>Two short churr calls. Recorded from the footpaths that encircle the large wetlands on the main reserve grounds.bird-seen:yesplayback-used:no</Comments>
+  <Quality>1</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies>Columbina talpacoti</BackgroundSpecies>
+  <Order>Passeriformes</Order>
+  <Family>Donacobiidae</Family>
+  <Genus>Donacobius</Genus>
+  <Species>atricapilla</Species>
+  <Sub-species />
+  <VernacularNames>Black-capped Donacobius</VernacularNames>
+</Audio>

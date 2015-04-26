@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>13495</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN13495.wav</FileName>
+  <ClassId>dkecip</ClassId>
+  <Date>2005-12-23</Date>
+  <Time>10:00</Time>
+  <Locality>Porteiras, Altinho, Pernambuco</Locality>
+  <Latitude>-8.3</Latitude>
+  <Longitude>-37.75</Longitude>
+  <Elevation>460</Elevation>
+  <Author>Glauco Alves Pereira</Author>
+  <AuthorID>ZWEROGGYVP</AuthorID>
+  <Content>Call</Content>
+  <Comments />
+  <Quality>4</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Tyrannidae</Family>
+  <Genus>Myiophobus</Genus>
+  <Species>fasciatus</Species>
+  <Sub-species />
+  <VernacularNames>Bran-colored Flycatcher</VernacularNames>
+</Audio>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>493</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN493.wav</FileName>
+  <ClassId>osqzxt</ClassId>
+  <Date>2007-10-11</Date>
+  <Time>08:00</Time>
+  <Locality>Near Ilha Diana, Santos, São Paulo state</Locality>
+  <Latitude>NULL</Latitude>
+  <Longitude>NULL</Longitude>
+  <Elevation>5</Elevation>
+  <Author>Robson Silva e Silva</Author>
+  <AuthorID>WZSVLIHYQF</AuthorID>
+  <Content>?</Content>
+  <Comments />
+  <Quality>1</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Furnariidae</Family>
+  <Genus>Phacellodomus</Genus>
+  <Species>ferrugineigula</Species>
+  <Sub-species />
+  <VernacularNames>Orange-breasted Thornbird</VernacularNames>
+</Audio>

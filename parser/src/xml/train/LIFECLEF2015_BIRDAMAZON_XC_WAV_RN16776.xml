@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>16776</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN16776.wav</FileName>
+  <ClassId>fdjofa</ClassId>
+  <Date>2010-10-16</Date>
+  <Time>7:36</Time>
+  <Locality>Belterra, PA - Bacia 261</Locality>
+  <Latitude>-2.896</Latitude>
+  <Longitude>-54.937</Longitude>
+  <Elevation>?</Elevation>
+  <Author>Christian Borges Andretti</Author>
+  <AuthorID>EZSMXGTXKS</AuthorID>
+  <Content>song</Content>
+  <Comments />
+  <Quality>2</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies>Myiarchus tuberculifer</BackgroundSpecies>
+  <Order>Psittaciformes</Order>
+  <Family>Psittacidae</Family>
+  <Genus>Pionus</Genus>
+  <Species>menstruus</Species>
+  <Sub-species />
+  <VernacularNames>Blue-headed Parrot</VernacularNames>
+</Audio>

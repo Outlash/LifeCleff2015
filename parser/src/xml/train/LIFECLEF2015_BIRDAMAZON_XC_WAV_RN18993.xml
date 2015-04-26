@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>18993</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN18993.wav</FileName>
+  <ClassId>ctdbgi</ClassId>
+  <Date>2001-11-22</Date>
+  <Time>08:02</Time>
+  <Locality>Road to Remanso, Lençóis, Chapada Diamantina, BA</Locality>
+  <Latitude>-12.5834</Latitude>
+  <Longitude>-41.3667</Longitude>
+  <Elevation>400</Elevation>
+  <Author>Jeremy Minns</Author>
+  <AuthorID>DGVLLRYDXS</AuthorID>
+  <Content>Song</Content>
+  <Comments>Area of humid forest cleared for pasture and then abandoned and overgrown with Solanum lycocarpum.</Comments>
+  <Quality>2</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies>Cyclarhis gujanensis,Saltator similis</BackgroundSpecies>
+  <Order>Tinamiformes</Order>
+  <Family>Tinamidae</Family>
+  <Genus>Rhynchotus</Genus>
+  <Species>rufescens</Species>
+  <Sub-species>rufescens</Sub-species>
+  <VernacularNames>Red-winged Tinamou</VernacularNames>
+</Audio>

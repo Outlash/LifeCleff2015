@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>30336</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN30336.wav</FileName>
+  <ClassId>feohaf</ClassId>
+  <Date>2000-05-19</Date>
+  <Time>07:30</Time>
+  <Locality>Finca El Emporio (represa), Villa de Leyva, Boyaca</Locality>
+  <Latitude>NULL</Latitude>
+  <Longitude>NULL</Longitude>
+  <Elevation>2150</Elevation>
+  <Author>Bernabe Lopez-Lanus</Author>
+  <AuthorID>BYLLSJRVDZ</AuthorID>
+  <Content>Call</Content>
+  <Comments />
+  <Quality>3</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Tyrannidae</Family>
+  <Genus>Elaenia</Genus>
+  <Species>flavogaster</Species>
+  <Sub-species>flavogaster</Sub-species>
+  <VernacularNames>Yellow-bellied Elaenia</VernacularNames>
+</Audio>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>6734</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN6734.wav</FileName>
+  <ClassId>igcivw</ClassId>
+  <Date>2000-09-19</Date>
+  <Time>05:38</Time>
+  <Locality>Fazenda Santa Tereza, Rio Pixaim, Mato Grosso</Locality>
+  <Latitude>-16.7501</Latitude>
+  <Longitude>-56.8501</Longitude>
+  <Elevation>110</Elevation>
+  <Author>Jeremy Minns</Author>
+  <AuthorID>DGVLLRYDXS</AuthorID>
+  <Content>flight call</Content>
+  <Comments>Two birds, probably a pair.</Comments>
+  <Quality>2</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies>Brotogeris chiriri</BackgroundSpecies>
+  <Order>Pelecaniformes</Order>
+  <Family>Threskiornithidae</Family>
+  <Genus>Theristicus</Genus>
+  <Species>caudatus</Species>
+  <Sub-species>caudatus</Sub-species>
+  <VernacularNames>Buff-necked Ibis</VernacularNames>
+</Audio>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>20127</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN20127.wav</FileName>
+  <ClassId>xrkpcj</ClassId>
+  <Date>2010-03-30</Date>
+  <Time>14:23</Time>
+  <Locality>El Calabazo, Tayrona National Natural Park, Sierra Nevada de Santa Marta</Locality>
+  <Latitude>11.2039982527036</Latitude>
+  <Longitude>-73.8185119628906</Longitude>
+  <Elevation>390</Elevation>
+  <Author>Jorge Muñoz</Author>
+  <AuthorID>SAJLATXYOO</AuthorID>
+  <Content>Lekking</Content>
+  <Comments>Wingsnaps and songs of lekking at a primary humid forest of Sierra Nevada de Santa Marta</Comments>
+  <Quality>2</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Pipridae</Family>
+  <Genus>Chiroxiphia</Genus>
+  <Species>lanceolata</Species>
+  <Sub-species />
+  <VernacularNames>Lance-tailed Manakin</VernacularNames>
+</Audio>

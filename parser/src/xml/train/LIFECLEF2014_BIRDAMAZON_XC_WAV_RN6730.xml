@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>6730</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN6730.wav</FileName>
+  <ClassId>bgothl</ClassId>
+  <Date>2009-06-10</Date>
+  <Time>09:30</Time>
+  <Locality>Left bank of Rio Teles Pires, Paranaita, Mato Grosso</Locality>
+  <Latitude>-9.2373</Latitude>
+  <Longitude>-56.9851</Longitude>
+  <Elevation>190</Elevation>
+  <Author>Guilherme R R Brito</Author>
+  <AuthorID>OAYOBWYOOM</AuthorID>
+  <Content>call</Content>
+  <Comments>A rare register of this species on the left bank of the Teles Pires - Tapajos system. Collected singing female individual. Male also collected. Both housed at MZUSP.</Comments>
+  <Quality>2</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Thamnophilidae</Family>
+  <Genus>Rhegmatorhina</Genus>
+  <Species>gymnops</Species>
+  <Sub-species />
+  <VernacularNames>Bare-eyed Antbird</VernacularNames>
+</Audio>

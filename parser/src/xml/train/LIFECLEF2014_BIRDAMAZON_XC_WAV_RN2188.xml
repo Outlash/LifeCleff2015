@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>2188</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN2188.wav</FileName>
+  <ClassId>ypmevr</ClassId>
+  <Date>2009-04-05</Date>
+  <Time>10:30</Time>
+  <Locality>Parque Natural Municipal de Nova Iguaçu</Locality>
+  <Latitude>-22.7787</Latitude>
+  <Longitude>-43.462</Longitude>
+  <Elevation>250</Elevation>
+  <Author>Ricardo Gagliardi</Author>
+  <AuthorID>YRDADNREOP</AuthorID>
+  <Content>call</Content>
+  <Comments />
+  <Quality>1</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies>Picumnus cirratus</BackgroundSpecies>
+  <Order>Passeriformes</Order>
+  <Family>Conopophagidae</Family>
+  <Genus>Conopophaga</Genus>
+  <Species>melanops</Species>
+  <Sub-species />
+  <VernacularNames>Black-cheeked Gnateater</VernacularNames>
+</Audio>

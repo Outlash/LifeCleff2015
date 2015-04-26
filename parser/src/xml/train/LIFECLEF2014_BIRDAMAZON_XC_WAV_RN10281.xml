@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>10281</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN10281.wav</FileName>
+  <ClassId>cyghvw</ClassId>
+  <Date>2005-05-04</Date>
+  <Time>05:00</Time>
+  <Locality>Tucuruí dam, left margin of the lake, state of Pará</Locality>
+  <Latitude>-4.3662</Latitude>
+  <Longitude>-49.6034</Longitude>
+  <Elevation>70</Elevation>
+  <Author>Sidnei Dantas</Author>
+  <AuthorID>NNCKQMBGPH</AuthorID>
+  <Content>call</Content>
+  <Comments>two individuals. 'Laughing' call at the end</Comments>
+  <Quality>3</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies />
+  <Order>Falconiformes</Order>
+  <Family>Falconidae</Family>
+  <Genus>Micrastur</Genus>
+  <Species>semitorquatus</Species>
+  <Sub-species />
+  <VernacularNames>Collared Forest Falcon</VernacularNames>
+</Audio>

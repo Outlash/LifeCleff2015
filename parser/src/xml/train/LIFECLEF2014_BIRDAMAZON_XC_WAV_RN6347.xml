@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>6347</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN6347.wav</FileName>
+  <ClassId>ombazy</ClassId>
+  <Date>2013-01-29</Date>
+  <Time>17:00</Time>
+  <Locality>RPPN Estação Veracel, Porto Seguro, Bahia</Locality>
+  <Latitude>-16.3458</Latitude>
+  <Longitude>-39.1395</Longitude>
+  <Elevation>90</Elevation>
+  <Author>Dan Lane</Author>
+  <AuthorID>WOEAFQRMUD</AuthorID>
+  <Content>song</Content>
+  <Comments>Response to playback from a bird perched about 8-9m up in subcanopy of white sand forest.bird-seen:yesplayback-used:yes</Comments>
+  <Quality>2</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Furnariidae</Family>
+  <Genus>Campylorhamphus</Genus>
+  <Species>trochilirostris</Species>
+  <Sub-species />
+  <VernacularNames>Red-billed Scythebill</VernacularNames>
+</Audio>

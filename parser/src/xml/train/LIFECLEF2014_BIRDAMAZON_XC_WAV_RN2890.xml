@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>2890</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN2890.wav</FileName>
+  <ClassId>uydzcv</ClassId>
+  <Date>2010-01-23</Date>
+  <Time>07:30</Time>
+  <Locality>Tapajos National Forest, Bacia 363, Santarem</Locality>
+  <Latitude>-3.294</Latitude>
+  <Longitude>-54.998</Longitude>
+  <Elevation>?</Elevation>
+  <Author>Alexander Lees</Author>
+  <AuthorID>INDDBZAFJL</AuthorID>
+  <Content>song</Content>
+  <Comments>undisturbed primary forest</Comments>
+  <Quality>3</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies>Myrmotherula sclateri,Herpsilochmus rufimarginatus,Myrmeciza hemimelaena,Hylophilus hypoxanthus</BackgroundSpecies>
+  <Order>Passeriformes</Order>
+  <Family>Tyrannidae</Family>
+  <Genus>Tolmomyias</Genus>
+  <Species>assimilis</Species>
+  <Sub-species>paraensis</Sub-species>
+  <VernacularNames>Zimmer's Flatbill</VernacularNames>
+</Audio>

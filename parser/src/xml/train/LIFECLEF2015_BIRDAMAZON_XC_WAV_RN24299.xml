@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>24299</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN24299.wav</FileName>
+  <ClassId>gmeajz</ClassId>
+  <Date>2010-02-04</Date>
+  <Time>15:00</Time>
+  <Locality>Sinnamary, Malmanoury river</Locality>
+  <Latitude>5.317</Latitude>
+  <Longitude>-52.82</Longitude>
+  <Elevation>?</Elevation>
+  <Author>Fabrice Schmitt</Author>
+  <AuthorID>FPAGKPAQYO</AuthorID>
+  <Content>call</Content>
+  <Comments />
+  <Quality>2</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Pipridae</Family>
+  <Genus>Chiroxiphia</Genus>
+  <Species>pareola</Species>
+  <Sub-species>pareola</Sub-species>
+  <VernacularNames>Blue-backed Manakin</VernacularNames>
+</Audio>

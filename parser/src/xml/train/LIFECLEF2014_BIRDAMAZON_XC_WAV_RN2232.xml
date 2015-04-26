@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>2232</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN2232.wav</FileName>
+  <ClassId>liclqi</ClassId>
+  <Date>2013-05-11</Date>
+  <Time>06:30</Time>
+  <Locality>Rio Teuini, Serginal Tupy, Pauini, Amazonas</Locality>
+  <Latitude>-7.9644</Latitude>
+  <Longitude>-67.3469</Longitude>
+  <Elevation>100</Elevation>
+  <Author>Thiago Orsi Laranjeiras</Author>
+  <AuthorID>PMYLTPLTLT</AuthorID>
+  <Content>song</Content>
+  <Comments>No Rio Teuini (afluente da margem esquerda do Rio Purus), sul do Amazonas. Durante expedição de avaliação para ampliação da Floresta Nacional do Purus. bird-seen:noplayback-used:no</Comments>
+  <Quality>2</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies>Nyctidromus albicollis,Crypturellus undulatus</BackgroundSpecies>
+  <Order>Passeriformes</Order>
+  <Family>Furnariidae</Family>
+  <Genus>Dendrexetastes</Genus>
+  <Species>rufigula</Species>
+  <Sub-species />
+  <VernacularNames>Cinnamon-throated Woodcreeper</VernacularNames>
+</Audio>

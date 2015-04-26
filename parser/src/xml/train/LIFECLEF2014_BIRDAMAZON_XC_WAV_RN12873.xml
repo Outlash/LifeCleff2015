@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>12873</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN12873.wav</FileName>
+  <ClassId>nabmpi</ClassId>
+  <Date>1993-11-18</Date>
+  <Time>?</Time>
+  <Locality>Pousada o Pantaneiro, Transpantaneira Hwy., Mato Grosso</Locality>
+  <Latitude>-16.9398</Latitude>
+  <Longitude>-56.8834</Longitude>
+  <Elevation>110</Elevation>
+  <Author>Allen T. Chartier</Author>
+  <AuthorID>AZXTZTQJRO</AuthorID>
+  <Content>duet, song</Content>
+  <Comments />
+  <Quality>2</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies>Gnorimopsar chopi</BackgroundSpecies>
+  <Order>Passeriformes</Order>
+  <Family>Furnariidae</Family>
+  <Genus>Furnarius</Genus>
+  <Species>rufus</Species>
+  <Sub-species />
+  <VernacularNames>Rufous Hornero</VernacularNames>
+</Audio>

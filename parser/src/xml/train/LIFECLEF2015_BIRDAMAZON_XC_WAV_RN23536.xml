@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>23536</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN23536.wav</FileName>
+  <ClassId>ppearp</ClassId>
+  <Date>2013-11-18</Date>
+  <Time>10:00</Time>
+  <Locality>Barreiras, Bahia</Locality>
+  <Latitude>-12.2012</Latitude>
+  <Longitude>-44.9451</Longitude>
+  <Elevation>600</Elevation>
+  <Author>Roney Assis Souza</Author>
+  <AuthorID>AJYSYOLBOF</AuthorID>
+  <Content>song</Content>
+  <Comments>bird-seen:noplayback-used:no</Comments>
+  <Quality>0</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies>Hylopezus ochroleucus</BackgroundSpecies>
+  <Order>Passeriformes</Order>
+  <Family>Tyrannidae</Family>
+  <Genus>Tolmomyias</Genus>
+  <Species>flaviventris</Species>
+  <Sub-species />
+  <VernacularNames>Ochre-lored Flatbill</VernacularNames>
+</Audio>

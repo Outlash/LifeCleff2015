@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>4222</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN4222.wav</FileName>
+  <ClassId>fdhzmw</ClassId>
+  <Date>2005-10-30</Date>
+  <Time>?</Time>
+  <Locality>Sítio Ponte Velha, Ritapólis,  Minas Gerais</Locality>
+  <Latitude>-21.068</Latitude>
+  <Longitude>-44.3408</Longitude>
+  <Elevation>950</Elevation>
+  <Author>Vitor Torga Lombardi</Author>
+  <AuthorID>CIMKKZLHDE</AuthorID>
+  <Content>alarm call</Content>
+  <Comments>near the nest in the riverbank</Comments>
+  <Quality>3</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Furnariidae</Family>
+  <Genus>Hylocryptus</Genus>
+  <Species>rectirostris</Species>
+  <Sub-species />
+  <VernacularNames>Henna-capped Foliage-gleaner</VernacularNames>
+</Audio>

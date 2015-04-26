@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>18243</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN18243.wav</FileName>
+  <ClassId>ygcrlc</ClassId>
+  <Date>2008-12-03</Date>
+  <Time>11:00</Time>
+  <Locality>Clarita Botero, Ibagué, Tolima</Locality>
+  <Latitude>4.4689</Latitude>
+  <Longitude>-75.2281</Longitude>
+  <Elevation>1600</Elevation>
+  <Author>Hernan Arias</Author>
+  <AuthorID>FGHNKBQURB</AuthorID>
+  <Content>Song</Content>
+  <Comments />
+  <Quality>2</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Troglodytidae</Family>
+  <Genus>Cyphorhinus</Genus>
+  <Species>thoracicus</Species>
+  <Sub-species />
+  <VernacularNames>Chestnut-breasted Wren</VernacularNames>
+</Audio>

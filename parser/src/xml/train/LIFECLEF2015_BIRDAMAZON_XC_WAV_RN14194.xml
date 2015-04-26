@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>14194</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN14194.wav</FileName>
+  <ClassId>pscjat</ClassId>
+  <Date>2014-01-28</Date>
+  <Time>10:00</Time>
+  <Locality>Estação Experimental Lemos Maia, Una, Bahia state</Locality>
+  <Latitude>-15.2799</Latitude>
+  <Longitude>-39.0907</Longitude>
+  <Elevation>70</Elevation>
+  <Author>Antonio Silveira</Author>
+  <AuthorID>NBJQSQJRYH</AuthorID>
+  <Content>male, song</Content>
+  <Comments>male sining perched on small tree in open area. is a common species iin this place.bird-seen:yesplayback-used:no</Comments>
+  <Quality>0</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Thraupidae</Family>
+  <Genus>Sicalis</Genus>
+  <Species>flaveola</Species>
+  <Sub-species />
+  <VernacularNames>Saffron Finch</VernacularNames>
+</Audio>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>17464</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN17464.wav</FileName>
+  <ClassId>bnpmye</ClassId>
+  <Date>2008-06-09</Date>
+  <Time>08:00</Time>
+  <Locality>Villavicencio Botanical Gardens, Meta</Locality>
+  <Latitude>4.1501</Latitude>
+  <Longitude>-73.6501</Longitude>
+  <Elevation>400</Elevation>
+  <Author>Oswaldo Cortes</Author>
+  <AuthorID>VVDRVZCVWW</AuthorID>
+  <Content>song</Content>
+  <Comments />
+  <Quality>3</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Charadriiformes</Order>
+  <Family>Jacanidae</Family>
+  <Genus>Jacana</Genus>
+  <Species>jacana</Species>
+  <Sub-species />
+  <VernacularNames>Wattled Jacana</VernacularNames>
+</Audio>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>21098</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN21098.wav</FileName>
+  <ClassId>mwbtii</ClassId>
+  <Date>2000-06-05</Date>
+  <Time>16:00</Time>
+  <Locality>Reserva La Serrana (Vereda La Serrana), Anori, Antioquia</Locality>
+  <Latitude>NULL</Latitude>
+  <Longitude>NULL</Longitude>
+  <Elevation>1800</Elevation>
+  <Author>Bernabe Lopez-Lanus</Author>
+  <AuthorID>BYLLSJRVDZ</AuthorID>
+  <Content>Song</Content>
+  <Comments>Song's last two notes.</Comments>
+  <Quality>2</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Furnariidae</Family>
+  <Genus>Philydor</Genus>
+  <Species>rufum</Species>
+  <Sub-species>panerythrum</Sub-species>
+  <VernacularNames>Buff-fronted Foliage-gleaner</VernacularNames>
+</Audio>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>20850</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN20850.wav</FileName>
+  <ClassId>gifcqu</ClassId>
+  <Date>2010-08-04</Date>
+  <Time>18:01</Time>
+  <Locality>Do Prata stream, Palmas, Tocantins</Locality>
+  <Latitude>-10.2232</Latitude>
+  <Longitude>-48.363</Longitude>
+  <Elevation>240</Elevation>
+  <Author>Marcelo O. Barbosa</Author>
+  <AuthorID>PRUNXYYZTR</AuthorID>
+  <Content>song</Content>
+  <Comments>Recording made in a wetland (vereda) of Prata stream near Lajeado dam.bird-seen:noplayback-used:no</Comments>
+  <Quality>1</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Caprimulgiformes</Order>
+  <Family>Caprimulgidae</Family>
+  <Genus>Hydropsalis</Genus>
+  <Species>maculicaudus</Species>
+  <Sub-species />
+  <VernacularNames>Spot-tailed Nightjar</VernacularNames>
+</Audio>

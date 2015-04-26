@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>1936</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN1936.wav</FileName>
+  <ClassId>pxqbfm</ClassId>
+  <Date>2013-03-12</Date>
+  <Time>14:30</Time>
+  <Locality>Guarulhos, São Paulo</Locality>
+  <Latitude>-23.3983</Latitude>
+  <Longitude>-46.5314</Longitude>
+  <Elevation>800</Elevation>
+  <Author>Marcelo Marcelino</Author>
+  <AuthorID>SVVXZLHVXD</AuthorID>
+  <Content>song</Content>
+  <Comments>bird-seen:noplayback-used:no</Comments>
+  <Quality>3</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies />
+  <Order>Piciformes</Order>
+  <Family>Bucconidae</Family>
+  <Genus>Malacoptila</Genus>
+  <Species>striata</Species>
+  <Sub-species />
+  <VernacularNames>Crescent-chested Puffbird</VernacularNames>
+</Audio>

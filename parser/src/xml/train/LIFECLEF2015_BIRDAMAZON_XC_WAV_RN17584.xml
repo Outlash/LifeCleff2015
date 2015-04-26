@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>17584</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN17584.wav</FileName>
+  <ClassId>rxywkl</ClassId>
+  <Date>2008-01-24</Date>
+  <Time>07:00</Time>
+  <Locality>Agua Blanca, about 10 km NE, Portuguesa</Locality>
+  <Latitude>9.6978</Latitude>
+  <Longitude>-69.0273</Longitude>
+  <Elevation>220</Elevation>
+  <Author>Daniel Lane</Author>
+  <AuthorID>WOEAFQRMUD</AuthorID>
+  <Content>song</Content>
+  <Comments>Natural vocalizations (song?) from pair. Excited, one would jump into the air as the other flared its tail and wings while singing this duet from small trees on grassy slope.</Comments>
+  <Quality>2</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies>Phacellodomus inornatus,Columbina talpacoti,Gallus gallus,Myiarchus tyrannulus,Crotophaga ani,Troglodytes aedon</BackgroundSpecies>
+  <Order>Passeriformes</Order>
+  <Family>Tyrannidae</Family>
+  <Genus>Phaeomyias</Genus>
+  <Species>murina</Species>
+  <Sub-species>incomta?</Sub-species>
+  <VernacularNames>Mouse-colored Tyrannulet</VernacularNames>
+</Audio>

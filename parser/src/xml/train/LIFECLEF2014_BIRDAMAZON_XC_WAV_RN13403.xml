@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>13403</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN13403.wav</FileName>
+  <ClassId>qgrzoy</ClassId>
+  <Date>2011-09-26</Date>
+  <Time>09:36</Time>
+  <Locality>Cristalino Jungle Lodge, MT</Locality>
+  <Latitude>-9.5981</Latitude>
+  <Longitude>-55.932</Longitude>
+  <Elevation>260</Elevation>
+  <Author>Eric DeFonso</Author>
+  <AuthorID>KTLCZCRCQX</AuthorID>
+  <Content>call</Content>
+  <Comments>A few assorted chips from some very close birds in the understory, along the Saliero trail in terra firme forest.bird-seen:yesplayback-used:no</Comments>
+  <Quality>1</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Tyrannidae</Family>
+  <Genus>Hemitriccus</Genus>
+  <Species>griseipectus</Species>
+  <Sub-species />
+  <VernacularNames>White-bellied Tody-Tyrant</VernacularNames>
+</Audio>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>10858</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN10858.wav</FileName>
+  <ClassId>ptfyqz</ClassId>
+  <Date>2006-10-20</Date>
+  <Time>6:30A</Time>
+  <Locality>Northern Pantanal near Pixain</Locality>
+  <Latitude>NULL</Latitude>
+  <Longitude>NULL</Longitude>
+  <Elevation>105</Elevation>
+  <Author>Ailton Lara</Author>
+  <AuthorID>AGODYFPUUK</AuthorID>
+  <Content>Call</Content>
+  <Comments>Ciliary forest following the pond</Comments>
+  <Quality>3</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies />
+  <Order>Tinamiformes</Order>
+  <Family>Tinamidae</Family>
+  <Genus>Crypturellus</Genus>
+  <Species>undulatus</Species>
+  <Sub-species />
+  <VernacularNames>Undulated Tinamou</VernacularNames>
+</Audio>

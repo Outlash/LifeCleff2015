@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>32866</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN32866.wav</FileName>
+  <ClassId>swkumm</ClassId>
+  <Date>2014-08-01</Date>
+  <Time>17:30</Time>
+  <Locality>Libano, Tolima</Locality>
+  <Latitude>4.9223</Latitude>
+  <Longitude>-75.0748</Longitude>
+  <Elevation>1600</Elevation>
+  <Author>Jeisson Poveda</Author>
+  <AuthorID>CVJNYXJFAW</AuthorID>
+  <Content>call</Content>
+  <Comments>bird-seen:yesplayback-used:no</Comments>
+  <Quality>3</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Thraupidae</Family>
+  <Genus>Rhodinocichla</Genus>
+  <Species>rosea</Species>
+  <Sub-species />
+  <VernacularNames>Rosy Thrush-Tanager</VernacularNames>
+</Audio>

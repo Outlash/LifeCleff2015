@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>12755</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN12755.wav</FileName>
+  <ClassId>xmknai</ClassId>
+  <Date>2006-11-09</Date>
+  <Time>05:23</Time>
+  <Locality>Parque do Zizo, Sao Paulo state</Locality>
+  <Latitude>-24.017146</Latitude>
+  <Longitude>-47.81044</Longitude>
+  <Elevation>650</Elevation>
+  <Author>Jeremy Minns</Author>
+  <AuthorID>DGVLLRYDXS</AuthorID>
+  <Content>Song</Content>
+  <Comments>Edge of humid forest. One of the birds in XC80498, 20 mins after playback.</Comments>
+  <Quality>2</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies>Camptostoma obsoletum,Myiodynastes maculatus</BackgroundSpecies>
+  <Order>Passeriformes</Order>
+  <Family>Furnariidae</Family>
+  <Genus>Xiphocolaptes</Genus>
+  <Species>albicollis</Species>
+  <Sub-species>albicollis</Sub-species>
+  <VernacularNames>White-throated Woodcreeper</VernacularNames>
+</Audio>

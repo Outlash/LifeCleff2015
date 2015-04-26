@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>21017</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN21017.wav</FileName>
+  <ClassId>bljpac</ClassId>
+  <Date>2001-12-10</Date>
+  <Time>08:00</Time>
+  <Locality>05-00 N, 73-24 W</Locality>
+  <Latitude>5.0728</Latitude>
+  <Longitude>-73.4001</Longitude>
+  <Elevation>1300</Elevation>
+  <Author>Doug Knapp</Author>
+  <AuthorID>BHRXQZEQFL</AuthorID>
+  <Content>Alarm Call</Content>
+  <Comments />
+  <Quality>2</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Pelecaniformes</Order>
+  <Family>Ardeidae</Family>
+  <Genus>Butorides</Genus>
+  <Species>striata</Species>
+  <Sub-species />
+  <VernacularNames>Striated Heron</VernacularNames>
+</Audio>

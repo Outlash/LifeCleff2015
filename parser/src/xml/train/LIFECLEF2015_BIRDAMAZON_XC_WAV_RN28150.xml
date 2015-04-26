@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>28150</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN28150.wav</FileName>
+  <ClassId>jjapvq</ClassId>
+  <Date>2010-01-21</Date>
+  <Time>08:00</Time>
+  <Locality>Laguna Tabacal</Locality>
+  <Latitude>5.0209</Latitude>
+  <Longitude>-74.302</Longitude>
+  <Elevation>1350</Elevation>
+  <Author>Frank Lambert</Author>
+  <AuthorID>YTUXOCTUEM</AuthorID>
+  <Content>song</Content>
+  <Comments>Sounds different to some of the other so-called subspecies. Altitude is approx</Comments>
+  <Quality>0</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Grallariidae</Family>
+  <Genus>Grallaricula</Genus>
+  <Species>ferrugineipectus</Species>
+  <Sub-species>rara</Sub-species>
+  <VernacularNames>Rusty-breasted Antpitta</VernacularNames>
+</Audio>

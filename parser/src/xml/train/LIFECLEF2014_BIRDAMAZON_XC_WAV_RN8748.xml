@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>8748</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN8748.wav</FileName>
+  <ClassId>ebxlim</ClassId>
+  <Date>2001-11-20</Date>
+  <Time>06:04</Time>
+  <Locality>Road to Remanso, Lençóis, Chapada Diamantina, BA</Locality>
+  <Latitude>-12.5834</Latitude>
+  <Longitude>-41.3667</Longitude>
+  <Elevation>400</Elevation>
+  <Author>Jeremy Minns</Author>
+  <AuthorID>DGVLLRYDXS</AuthorID>
+  <Content>Call</Content>
+  <Comments>Call A. Classification as in our DVD-ROM 'Birds of Brazil' Humid forest. Natural calls by male. Female present but silent.</Comments>
+  <Quality>1</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies>Pachyramphus polychopterus,Pheugopedius genibarbis</BackgroundSpecies>
+  <Order>Passeriformes</Order>
+  <Family>Thamnophilidae</Family>
+  <Genus>Taraba</Genus>
+  <Species>major</Species>
+  <Sub-species>stagurus</Sub-species>
+  <VernacularNames>Great Antshrike</VernacularNames>
+</Audio>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>10168</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN10168.wav</FileName>
+  <ClassId>obpowj</ClassId>
+  <Date>2009-04-03</Date>
+  <Time>?</Time>
+  <Locality>Itajaí-mirim, Parque Nacional da Serra do Itajaí, Presidente Nereu, Santa Catarina</Locality>
+  <Latitude>-27.247</Latitude>
+  <Longitude>-49.287</Longitude>
+  <Elevation>450</Elevation>
+  <Author>Adrian Eisen Rupp</Author>
+  <AuthorID>AOPMSCIDIA</AuthorID>
+  <Content>song</Content>
+  <Comments />
+  <Quality>1</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Tityridae</Family>
+  <Genus>Schiffornis</Genus>
+  <Species>virescens</Species>
+  <Sub-species />
+  <VernacularNames>Greenish Schiffornis</VernacularNames>
+</Audio>

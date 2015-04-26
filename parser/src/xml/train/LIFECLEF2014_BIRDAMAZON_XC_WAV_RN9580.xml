@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>9580</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN9580.wav</FileName>
+  <ClassId>viluoh</ClassId>
+  <Date>2005-04-30</Date>
+  <Time>06:55</Time>
+  <Locality>Reserva Ecológica de Guapiaçu, RJ</Locality>
+  <Latitude>-22.5001</Latitude>
+  <Longitude>-42.7167</Longitude>
+  <Elevation>50</Elevation>
+  <Author>Nick Athanas</Author>
+  <AuthorID>XRABICUARW</AuthorID>
+  <Content>song</Content>
+  <Comments />
+  <Quality>2</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies>Turdus leucomelas,Columbina talpacoti,Cantorchilus longirostris,Coereba flaveola,Elaenia flavogaster</BackgroundSpecies>
+  <Order>Passeriformes</Order>
+  <Family>Tyrannidae</Family>
+  <Genus>Pitangus</Genus>
+  <Species>sulphuratus</Species>
+  <Sub-species>maximiliani</Sub-species>
+  <VernacularNames>Great Kiskadee</VernacularNames>
+</Audio>

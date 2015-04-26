@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>18146</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN18146.wav</FileName>
+  <ClassId>iydjte</ClassId>
+  <Date>2008-11-02</Date>
+  <Time>04:30</Time>
+  <Locality>Parque Natural Chingaza</Locality>
+  <Latitude>NULL</Latitude>
+  <Longitude>NULL</Longitude>
+  <Elevation>3000</Elevation>
+  <Author>Oswaldo Cortes</Author>
+  <AuthorID>VVDRVZCVWW</AuthorID>
+  <Content>song</Content>
+  <Comments />
+  <Quality>2</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Furnariidae</Family>
+  <Genus>Asthenes</Genus>
+  <Species>fuliginosa</Species>
+  <Sub-species>fuliginosa</Sub-species>
+  <VernacularNames>White-chinned Thistletail</VernacularNames>
+</Audio>

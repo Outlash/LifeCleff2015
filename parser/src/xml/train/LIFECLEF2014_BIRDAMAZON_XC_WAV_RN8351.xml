@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>8351</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN8351.wav</FileName>
+  <ClassId>oinzpv</ClassId>
+  <Date>2011-07-07</Date>
+  <Time>09:26</Time>
+  <Locality>1Brasília National Park, Brasília/DF.</Locality>
+  <Latitude>-15.6626</Latitude>
+  <Longitude>-48.017</Longitude>
+  <Elevation>1084</Elevation>
+  <Author>Fernando Fávaro</Author>
+  <AuthorID>QTNGUZTTQM</AuthorID>
+  <Content>Call?</Content>
+  <Comments>Gallery forest, Milho Cozido Stream.</Comments>
+  <Quality>0</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies>Patagioenas cayennensis</BackgroundSpecies>
+  <Order>Passeriformes</Order>
+  <Family>Corvidae</Family>
+  <Genus>Cyanocorax</Genus>
+  <Species>cyanopogon</Species>
+  <Sub-species />
+  <VernacularNames>White-naped Jay</VernacularNames>
+</Audio>

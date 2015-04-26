@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>4608</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN4608.wav</FileName>
+  <ClassId>ajqxje</ClassId>
+  <Date>2003-10-30</Date>
+  <Time>10:41</Time>
+  <Locality>Parque Estadual Intervales. Barra Grande</Locality>
+  <Latitude>-24.2667</Latitude>
+  <Longitude>-48.3834</Longitude>
+  <Elevation>800</Elevation>
+  <Author>Jeremy Minns</Author>
+  <AuthorID>DGVLLRYDXS</AuthorID>
+  <Content>Song</Content>
+  <Comments>Montane forest.</Comments>
+  <Quality>2</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies>Schiffornis virescens</BackgroundSpecies>
+  <Order>Passeriformes</Order>
+  <Family>Cotingidae</Family>
+  <Genus>Carpornis</Genus>
+  <Species>cucullata</Species>
+  <Sub-species />
+  <VernacularNames>Hooded Berryeater</VernacularNames>
+</Audio>

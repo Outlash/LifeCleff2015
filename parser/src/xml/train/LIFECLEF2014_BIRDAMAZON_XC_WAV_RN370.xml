@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>370</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN370.wav</FileName>
+  <ClassId>fmdsaj</ClassId>
+  <Date>2001-07-26</Date>
+  <Time>07:50</Time>
+  <Locality>Reserva Volta Velha, Itapoá, SC</Locality>
+  <Latitude>-26.0834</Latitude>
+  <Longitude>-48.6334</Longitude>
+  <Elevation>10</Elevation>
+  <Author>Jeremy Minns</Author>
+  <AuthorID>DGVLLRYDXS</AuthorID>
+  <Content>Song</Content>
+  <Comments>Humid forest on white sand with c. 15 m canopy.</Comments>
+  <Quality>2</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies>Herpsilochmus rufimarginatus,Sirystes sibilator,Cacicus haemorrhous</BackgroundSpecies>
+  <Order>Passeriformes</Order>
+  <Family>Tyrannidae</Family>
+  <Genus>Piprites</Genus>
+  <Species>chloris</Species>
+  <Sub-species>chloris</Sub-species>
+  <VernacularNames>Wing-barred Piprites</VernacularNames>
+</Audio>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>22798</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN22798.wav</FileName>
+  <ClassId>nabmpi</ClassId>
+  <Date>2011-03-11</Date>
+  <Time>08:30</Time>
+  <Locality>Bozano, Rio Grande do Sul</Locality>
+  <Latitude>-28.3758</Latitude>
+  <Longitude>-53.8115</Longitude>
+  <Elevation>380</Elevation>
+  <Author>Fernando Igor de Godoy</Author>
+  <AuthorID>CHDHFSVVIN</AuthorID>
+  <Content>song</Content>
+  <Comments>FNJV 30302bird-seen:yesplayback-used:no</Comments>
+  <Quality>0</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Furnariidae</Family>
+  <Genus>Furnarius</Genus>
+  <Species>rufus</Species>
+  <Sub-species>rufus</Sub-species>
+  <VernacularNames>Rufous Hornero</VernacularNames>
+</Audio>

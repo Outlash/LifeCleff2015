@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>22869</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN22869.wav</FileName>
+  <ClassId>xfkpxa</ClassId>
+  <Date>2011-07-20</Date>
+  <Time>08:00</Time>
+  <Locality>Ibague combeima</Locality>
+  <Latitude>4.4589</Latitude>
+  <Longitude>-75.2559</Longitude>
+  <Elevation>1200</Elevation>
+  <Author>Oswaldo Cortes</Author>
+  <AuthorID>VVDRVZCVWW</AuthorID>
+  <Content>song</Content>
+  <Comments />
+  <Quality>3</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Cardinalidae</Family>
+  <Genus>Habia</Genus>
+  <Species>gutturalis</Species>
+  <Sub-species />
+  <VernacularNames>Sooty Ant Tanager</VernacularNames>
+</Audio>

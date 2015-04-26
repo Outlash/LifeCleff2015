@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>23990</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN23990.wav</FileName>
+  <ClassId>pzlpoj</ClassId>
+  <Date>2006-01-07</Date>
+  <Time>8:00</Time>
+  <Locality>Otanche, Boyacá, Otanche, La Ye, Serranía de las Quinchas</Locality>
+  <Latitude>5.8167</Latitude>
+  <Longitude>-74.3001</Longitude>
+  <Elevation>1450</Elevation>
+  <Author>Oscar Laverde</Author>
+  <AuthorID>WKVKSVMNDZ</AuthorID>
+  <Content>song</Content>
+  <Comments />
+  <Quality>1</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies>Patagioenas plumbea,Capito hypoleucus,Lepidocolaptes lacrymiger</BackgroundSpecies>
+  <Order>Passeriformes</Order>
+  <Family>Furnariidae</Family>
+  <Genus>Xenops</Genus>
+  <Species>minutus</Species>
+  <Sub-species />
+  <VernacularNames>Plain Xenops</VernacularNames>
+</Audio>

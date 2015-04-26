@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>3191</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN3191.wav</FileName>
+  <ClassId>gupfgh</ClassId>
+  <Date>2011-12-03</Date>
+  <Time>10:00</Time>
+  <Locality>Itaituba, Para</Locality>
+  <Latitude>-5.8483</Latitude>
+  <Longitude>-55.8298</Longitude>
+  <Elevation>180</Elevation>
+  <Author>GABRIEL LEITE</Author>
+  <AuthorID>TGBFXDVERJ</AuthorID>
+  <Content>alarm call, male</Content>
+  <Comments>bird-seen:yesplayback-used:no</Comments>
+  <Quality>4</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Thamnophilidae</Family>
+  <Genus>Thamnomanes</Genus>
+  <Species>caesius</Species>
+  <Sub-species />
+  <VernacularNames>Cinereous Antshrike</VernacularNames>
+</Audio>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>22037</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN22037.wav</FileName>
+  <ClassId>ahuzrk</ClassId>
+  <Date>2010-01-20</Date>
+  <Time>11:00</Time>
+  <Locality>La Mesa</Locality>
+  <Latitude>NULL</Latitude>
+  <Longitude>NULL</Longitude>
+  <Elevation>2000</Elevation>
+  <Author>Frank Lambert</Author>
+  <AuthorID>YTUXOCTUEM</AuthorID>
+  <Content>song</Content>
+  <Comments>male</Comments>
+  <Quality>0</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Thamnophilidae</Family>
+  <Genus>Thamnophilus</Genus>
+  <Species>multistriatus</Species>
+  <Sub-species />
+  <VernacularNames>Bar-crested Antshrike</VernacularNames>
+</Audio>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>26649</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN26649.wav</FileName>
+  <ClassId>wkjlrj</ClassId>
+  <Date>2014-08-20</Date>
+  <Time>10:30</Time>
+  <Locality>Balneário Camboriú, Balneário Camboriú, Santa Catarina</Locality>
+  <Latitude>-26.9862</Latitude>
+  <Longitude>-48.6476</Longitude>
+  <Elevation>70</Elevation>
+  <Author>Roberto Buss Stringari</Author>
+  <AuthorID>TLLUGZINYM</AuthorID>
+  <Content>song</Content>
+  <Comments>bird-seen:yesplayback-used:yes</Comments>
+  <Quality>0</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Pipridae</Family>
+  <Genus>Manacus</Genus>
+  <Species>manacus</Species>
+  <Sub-species>gutturosus</Sub-species>
+  <VernacularNames>White-bearded Manakin</VernacularNames>
+</Audio>

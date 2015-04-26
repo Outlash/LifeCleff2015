@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>23034</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN23034.wav</FileName>
+  <ClassId>cqbxux</ClassId>
+  <Date>2009-12-04</Date>
+  <Time>?:?</Time>
+  <Locality>?</Locality>
+  <Latitude>NULL</Latitude>
+  <Longitude>NULL</Longitude>
+  <Elevation>?</Elevation>
+  <Author>Joseph Tobias and Nathalie Seddon</Author>
+  <AuthorID>IKMWQIXRNV</AuthorID>
+  <Content>song</Content>
+  <Comments />
+  <Quality>2</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Thamnophilidae</Family>
+  <Genus>Frederickena</Genus>
+  <Species>viridis</Species>
+  <Sub-species />
+  <VernacularNames>Black-throated Antshrike</VernacularNames>
+</Audio>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>13621</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN13621.wav</FileName>
+  <ClassId>arhvxn</ClassId>
+  <Date>2009-09-29</Date>
+  <Time>06:03 AM</Time>
+  <Locality>Careiro, Br 319 km 158, Tupana Lodge</Locality>
+  <Latitude>-4.0834</Latitude>
+  <Longitude>-60.6603</Longitude>
+  <Elevation>50</Elevation>
+  <Author>Alexandre Aleixo</Author>
+  <AuthorID>VMUXUTAKNO</AuthorID>
+  <Content>Song</Content>
+  <Comments>Bird collected and accessed in the Museu Paraense Emílio Goeldi bird collection under number 68870 (study skin)</Comments>
+  <Quality>2</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Furnariidae</Family>
+  <Genus>Campylorhamphus</Genus>
+  <Species>procurvoides</Species>
+  <Sub-species>gyldenstolpei</Sub-species>
+  <VernacularNames>Curve-billed Scythebill</VernacularNames>
+</Audio>

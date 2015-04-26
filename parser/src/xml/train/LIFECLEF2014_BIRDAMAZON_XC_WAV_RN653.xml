@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>653</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN653.wav</FileName>
+  <ClassId>xunfjj</ClassId>
+  <Date>2012-10-20</Date>
+  <Time>17:00</Time>
+  <Locality>Campo Grande, MS</Locality>
+  <Latitude>-20.4428</Latitude>
+  <Longitude>-54.6464</Longitude>
+  <Elevation>592</Elevation>
+  <Author>Raul Monteiro Neto</Author>
+  <AuthorID>GLLLQFZBUL</AuthorID>
+  <Content>song</Content>
+  <Comments>Areá urbana  na região norte de Campo Grande MS bird-seen:yes</Comments>
+  <Quality>3</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Turdidae</Family>
+  <Genus>Turdus</Genus>
+  <Species>rufiventris</Species>
+  <Sub-species />
+  <VernacularNames>Rufous-bellied Thrush</VernacularNames>
+</Audio>

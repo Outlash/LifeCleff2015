@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>30550</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN30550.wav</FileName>
+  <ClassId>rjtaom</ClassId>
+  <Date>2009-11-09</Date>
+  <Time>?</Time>
+  <Locality>Jaqueira Private Reserve, State of Pernambuco</Locality>
+  <Latitude>-8.7267</Latitude>
+  <Longitude>-35.7931</Longitude>
+  <Elevation>550</Elevation>
+  <Author>Ciro Albano</Author>
+  <AuthorID>MXVQPUKGWW</AuthorID>
+  <Content>Contact calls</Content>
+  <Comments />
+  <Quality>1</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Thamnophilidae</Family>
+  <Genus>Cercomacra</Genus>
+  <Species>laeta</Species>
+  <Sub-species>sabinoi</Sub-species>
+  <VernacularNames>Willis's Antbird</VernacularNames>
+</Audio>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>23465</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN23465.wav</FileName>
+  <ClassId>xplaij</ClassId>
+  <Date>2002-06-06</Date>
+  <Time>6:48</Time>
+  <Locality>Santa Isabel Road, near Jaguar Ecological Reserve, MT</Locality>
+  <Latitude>NULL</Latitude>
+  <Longitude>NULL</Longitude>
+  <Elevation>?</Elevation>
+  <Author>Paul Donahue</Author>
+  <AuthorID>LLRXADGTBA</AuthorID>
+  <Content>song</Content>
+  <Comments />
+  <Quality>1</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies>Crax fasciolata,Ortalis canicollis,Aramus guarauna,Leptotila verreauxi</BackgroundSpecies>
+  <Order>Passeriformes</Order>
+  <Family>Tyrannidae</Family>
+  <Genus>Attila</Genus>
+  <Species>bolivianus</Species>
+  <Sub-species />
+  <VernacularNames>White-eyed Attila</VernacularNames>
+</Audio>

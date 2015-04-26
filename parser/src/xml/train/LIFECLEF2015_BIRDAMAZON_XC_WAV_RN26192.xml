@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>26192</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN26192.wav</FileName>
+  <ClassId>cuwfkj</ClassId>
+  <Date>2012-12-17</Date>
+  <Time>07:30</Time>
+  <Locality>Trairi, Trairi, Ceara</Locality>
+  <Latitude>-3.3303</Latitude>
+  <Longitude>-39.2616</Longitude>
+  <Elevation>70</Elevation>
+  <Author>Caio Brito</Author>
+  <AuthorID>YWWWUBVAJF</AuthorID>
+  <Content>song</Content>
+  <Comments>Lowcut at 500Hz and Normalized. Bad recording. Just for the account.bird-seen:yesplayback-used:no</Comments>
+  <Quality>3</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Thamnophilidae</Family>
+  <Genus>Herpsilochmus</Genus>
+  <Species>sellowi</Species>
+  <Sub-species />
+  <VernacularNames>Caatinga Antwren</VernacularNames>
+</Audio>

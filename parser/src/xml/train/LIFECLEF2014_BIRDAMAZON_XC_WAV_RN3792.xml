@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>3792</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN3792.wav</FileName>
+  <ClassId>ehpgkp</ClassId>
+  <Date>2008-04-24</Date>
+  <Time>08:00</Time>
+  <Locality>Belo Monte, left bank of Rio Xingu, Pará</Locality>
+  <Latitude>-3.3848</Latitude>
+  <Longitude>-51.9245</Longitude>
+  <Elevation>100</Elevation>
+  <Author>Sidnei</Author>
+  <AuthorID>NNCKQMBGPH</AuthorID>
+  <Content>song</Content>
+  <Comments />
+  <Quality>0</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies>Pheugopedius coraya,Microcerculus marginatus</BackgroundSpecies>
+  <Order>Passeriformes</Order>
+  <Family>Formicariidae</Family>
+  <Genus>Formicarius</Genus>
+  <Species>analis</Species>
+  <Sub-species />
+  <VernacularNames>Black-faced Antthrush</VernacularNames>
+</Audio>

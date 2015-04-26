@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>5646</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN5646.wav</FileName>
+  <ClassId>nhduqd</ClassId>
+  <Date>2010-11-03</Date>
+  <Time>06:18</Time>
+  <Locality>Paragominas, PA, Brazil, Bacia 443</Locality>
+  <Latitude>-3.4614</Latitude>
+  <Longitude>-47.0648</Longitude>
+  <Elevation>?</Elevation>
+  <Author>Nargila Moura</Author>
+  <AuthorID>CWEIBYBYYD</AuthorID>
+  <Content>call</Content>
+  <Comments>secondary forest</Comments>
+  <Quality>3</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies>Tapera naevia,Thamnophilus aethiops,Ramphocelus carbo</BackgroundSpecies>
+  <Order>Passeriformes</Order>
+  <Family>Hirundinidae</Family>
+  <Genus>Progne</Genus>
+  <Species>chalybea</Species>
+  <Sub-species />
+  <VernacularNames>Grey-breasted Martin</VernacularNames>
+</Audio>

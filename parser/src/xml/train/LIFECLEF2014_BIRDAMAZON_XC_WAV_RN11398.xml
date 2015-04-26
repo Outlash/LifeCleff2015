@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>11398</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN11398.wav</FileName>
+  <ClassId>ioaqnm</ClassId>
+  <Date>2013-01-28</Date>
+  <Time>08:30</Time>
+  <Locality>Pão de Açúcar, Alagoas</Locality>
+  <Latitude>-9.7326</Latitude>
+  <Longitude>-37.4351</Longitude>
+  <Elevation>90</Elevation>
+  <Author>pedrotêia</Author>
+  <AuthorID>BZVNDWLRSQ</AuthorID>
+  <Content>song</Content>
+  <Comments>bird-seen:yesplayback-used:no</Comments>
+  <Quality>2</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies />
+  <Order>Cuculiformes</Order>
+  <Family>Cuculidae</Family>
+  <Genus>Piaya</Genus>
+  <Species>cayana</Species>
+  <Sub-species />
+  <VernacularNames>Squirrel Cuckoo</VernacularNames>
+</Audio>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>19955</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN19955.wav</FileName>
+  <ClassId>qeptbc</ClassId>
+  <Date>2008-02-05</Date>
+  <Time>16:20</Time>
+  <Locality>El canon del Rio Claro, Antioquia</Locality>
+  <Latitude>5.8334</Latitude>
+  <Longitude>-74.8667</Longitude>
+  <Elevation>600</Elevation>
+  <Author>Herman van Oosten</Author>
+  <AuthorID>SNUDCZVUQK</AuthorID>
+  <Content>song</Content>
+  <Comments>A song! Could obtain but one unfortunately...</Comments>
+  <Quality>2</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Tyrannidae</Family>
+  <Genus>Pogonotriccus</Genus>
+  <Species>lanyoni</Species>
+  <Sub-species />
+  <VernacularNames>Antioquia Bristle Tyrant</VernacularNames>
+</Audio>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>12811</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN12811.wav</FileName>
+  <ClassId>fxwyhh</ClassId>
+  <Date>2003-11-27</Date>
+  <Time>08:46</Time>
+  <Locality>Cristalino Jungle Lodge, MT</Locality>
+  <Latitude>-9.5981</Latitude>
+  <Longitude>-55.932</Longitude>
+  <Elevation>260</Elevation>
+  <Author>Jeremy Minns</Author>
+  <AuthorID>DGVLLRYDXS</AuthorID>
+  <Content>call</Content>
+  <Comments>ssp. presumed from location. Terra firme forest. Two birds vocalising.bird-seen:yesplayback-used:no</Comments>
+  <Quality>1</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Tyrannidae</Family>
+  <Genus>Platyrinchus</Genus>
+  <Species>platyrhynchos</Species>
+  <Sub-species>amazonicus</Sub-species>
+  <VernacularNames>White-crested Spadebill</VernacularNames>
+</Audio>

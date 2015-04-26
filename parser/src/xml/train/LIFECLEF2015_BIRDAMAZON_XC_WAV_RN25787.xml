@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>25787</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN25787.wav</FileName>
+  <ClassId>nsmtcj</ClassId>
+  <Date>2014-03-19</Date>
+  <Time>09:00</Time>
+  <Locality>Chupinguaia, Rondônia</Locality>
+  <Latitude>-12.2417</Latitude>
+  <Longitude>-60.7141</Longitude>
+  <Elevation>340</Elevation>
+  <Author>GABRIEL LEITE</Author>
+  <AuthorID>TGBFXDVERJ</AuthorID>
+  <Content>song</Content>
+  <Comments>bird-seen:noplayback-used:no</Comments>
+  <Quality>3</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Piciformes</Order>
+  <Family>Picidae</Family>
+  <Genus>Veniliornis</Genus>
+  <Species>affinis</Species>
+  <Sub-species />
+  <VernacularNames>Red-stained Woodpecker</VernacularNames>
+</Audio>

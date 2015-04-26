@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>25791</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN25791.wav</FileName>
+  <ClassId>wvihlf</ClassId>
+  <Date>2013-04-10</Date>
+  <Time>07:00</Time>
+  <Locality>Yarumal, Antioquia</Locality>
+  <Latitude>7.0744</Latitude>
+  <Longitude>-75.3188</Longitude>
+  <Elevation>1600</Elevation>
+  <Author>Oswaldo Cortes</Author>
+  <AuthorID>VVDRVZCVWW</AuthorID>
+  <Content>song</Content>
+  <Comments>bird-seen:noplayback-used:no</Comments>
+  <Quality>4</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Rhinocryptidae</Family>
+  <Genus>Scytalopus</Genus>
+  <Species>stilesi</Species>
+  <Sub-species />
+  <VernacularNames>Stiles's Tapaculo</VernacularNames>
+</Audio>

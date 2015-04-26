@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>13058</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN13058.wav</FileName>
+  <ClassId>bmiqmk</ClassId>
+  <Date>2006-12-18</Date>
+  <Time>14:57</Time>
+  <Locality>Reserva Volta Velha, Itapoá, SC</Locality>
+  <Latitude>-26.0834</Latitude>
+  <Longitude>-48.6334</Longitude>
+  <Elevation>20</Elevation>
+  <Author>Charles Hesse</Author>
+  <AuthorID>FMQSRXIRTH</AuthorID>
+  <Content>Song</Content>
+  <Comments />
+  <Quality>5</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Pipridae</Family>
+  <Genus>Chiroxiphia</Genus>
+  <Species>caudata</Species>
+  <Sub-species />
+  <VernacularNames>Blue Manakin</VernacularNames>
+</Audio>

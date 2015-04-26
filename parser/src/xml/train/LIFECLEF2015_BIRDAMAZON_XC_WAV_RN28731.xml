@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>28731</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN28731.wav</FileName>
+  <ClassId>xgjomb</ClassId>
+  <Date>2011-12-19</Date>
+  <Time>?</Time>
+  <Locality>Parque Estadual do Ibitipoca</Locality>
+  <Latitude>-21.709</Latitude>
+  <Longitude>-43.895</Longitude>
+  <Elevation>1400</Elevation>
+  <Author>Marco Manhães</Author>
+  <AuthorID>ZLBYQGJAJN</AuthorID>
+  <Content>song</Content>
+  <Comments>morningbird-seen:noplayback-used:no</Comments>
+  <Quality>2</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Pipridae</Family>
+  <Genus>Neopelma</Genus>
+  <Species>chrysolophum</Species>
+  <Sub-species />
+  <VernacularNames>Serra do Mar Tyrant-Manakin</VernacularNames>
+</Audio>

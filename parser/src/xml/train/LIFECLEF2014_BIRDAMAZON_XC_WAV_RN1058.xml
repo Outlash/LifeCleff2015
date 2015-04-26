@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>1058</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN1058.wav</FileName>
+  <ClassId>gkpnfs</ClassId>
+  <Date>2011-06-25</Date>
+  <Time>10:30</Time>
+  <Locality>Santo Antônio do Pinhal, São Paulo</Locality>
+  <Latitude>-22.7876</Latitude>
+  <Longitude>-45.6842</Longitude>
+  <Elevation>1000</Elevation>
+  <Author>GABRIEL LEITE</Author>
+  <AuthorID>TGBFXDVERJ</AuthorID>
+  <Content>call</Content>
+  <Comments>bird-seen:yesplayback-used:no</Comments>
+  <Quality>4</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies />
+  <Order>Columbiformes</Order>
+  <Family>Columbidae</Family>
+  <Genus>Patagioenas</Genus>
+  <Species>picazuro</Species>
+  <Sub-species />
+  <VernacularNames>Picazuro Pigeon</VernacularNames>
+</Audio>

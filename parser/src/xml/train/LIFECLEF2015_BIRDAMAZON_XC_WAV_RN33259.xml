@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>33259</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN33259.wav</FileName>
+  <ClassId>aiwvzm</ClassId>
+  <Date>2007-09-23</Date>
+  <Time>?</Time>
+  <Locality>Hotel Sao Gotardo, Itamonte, Itamonte, Minas Gerais</Locality>
+  <Latitude>-22.2864</Latitude>
+  <Longitude>-44.8684</Longitude>
+  <Elevation>?</Elevation>
+  <Author>Diego Caiafa</Author>
+  <AuthorID>AFYLJUDWMT</AuthorID>
+  <Content>song</Content>
+  <Comments>bird-seen:yesplayback-used:no</Comments>
+  <Quality>3</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies>Myiothlypis leucoblephara</BackgroundSpecies>
+  <Order>Passeriformes</Order>
+  <Family>Furnariidae</Family>
+  <Genus>Cranioleuca</Genus>
+  <Species>pallida</Species>
+  <Sub-species />
+  <VernacularNames>Pallid Spinetail</VernacularNames>
+</Audio>

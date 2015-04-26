@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>20340</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN20340.wav</FileName>
+  <ClassId>yyjrms</ClassId>
+  <Date>2012-12-21</Date>
+  <Time>15:30</Time>
+  <Locality>Santana do Cariri, Santana do Cariri, Ceara</Locality>
+  <Latitude>-7.2132</Latitude>
+  <Longitude>-39.7348</Longitude>
+  <Elevation>650</Elevation>
+  <Author>Caio Brito</Author>
+  <AuthorID>YWWWUBVAJF</AuthorID>
+  <Content>song</Content>
+  <Comments>bird-seen:yesplayback-used:no</Comments>
+  <Quality>2</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Emberizidae</Family>
+  <Genus>Zonotrichia</Genus>
+  <Species>capensis</Species>
+  <Sub-species />
+  <VernacularNames>Rufous-collared Sparrow</VernacularNames>
+</Audio>

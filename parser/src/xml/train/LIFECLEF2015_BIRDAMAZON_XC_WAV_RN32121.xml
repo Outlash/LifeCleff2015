@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>32121</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN32121.wav</FileName>
+  <ClassId>wserxv</ClassId>
+  <Date>2014-04-14</Date>
+  <Time>16:33</Time>
+  <Locality>San Francisco, Antioquia</Locality>
+  <Latitude>5.8946</Latitude>
+  <Longitude>-74.8572</Longitude>
+  <Elevation>320</Elevation>
+  <Author>JUAN ANTONIO ALONSO DE JUAN</Author>
+  <AuthorID>VLMCJBSWEF</AuthorID>
+  <Content>song</Content>
+  <Comments>bird-seen:yesplayback-used:no</Comments>
+  <Quality>2</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Troglodytidae</Family>
+  <Genus>Cantorchilus</Genus>
+  <Species>nigricapillus</Species>
+  <Sub-species />
+  <VernacularNames>Bay Wren</VernacularNames>
+</Audio>

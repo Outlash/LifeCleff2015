@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>16557</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN16557.wav</FileName>
+  <ClassId>fwrnff</ClassId>
+  <Date>2011-02-01</Date>
+  <Time>09:10</Time>
+  <Locality>FUNDEGAR ('Rio Blanco'), Manizales, Caldas</Locality>
+  <Latitude>5.074</Latitude>
+  <Longitude>-75.435</Longitude>
+  <Elevation>2550</Elevation>
+  <Author>Eric DeFonso</Author>
+  <AuthorID>KTLCZCRCQX</AuthorID>
+  <Content>song</Content>
+  <Comments>perched atop a 20-m tree and singing for minutes on end. some human conversation in background</Comments>
+  <Quality>0</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies>Synallaxis azarae</BackgroundSpecies>
+  <Order>Apodiformes</Order>
+  <Family>Trochilidae</Family>
+  <Genus>Colibri</Genus>
+  <Species>thalassinus</Species>
+  <Sub-species />
+  <VernacularNames>Green Violetear</VernacularNames>
+</Audio>

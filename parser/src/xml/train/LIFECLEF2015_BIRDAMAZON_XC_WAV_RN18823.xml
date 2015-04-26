@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>18823</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN18823.wav</FileName>
+  <ClassId>uiqpgc</ClassId>
+  <Date>2011-03-13</Date>
+  <Time>7-30</Time>
+  <Locality>Timotes</Locality>
+  <Latitude>8.9848</Latitude>
+  <Longitude>-70.7548</Longitude>
+  <Elevation>2250</Elevation>
+  <Author>Albert Lastukhin</Author>
+  <AuthorID>LELYWQKUZX</AuthorID>
+  <Content>Song</Content>
+  <Comments />
+  <Quality>3</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Turdidae</Family>
+  <Genus>Turdus</Genus>
+  <Species>albicollis</Species>
+  <Sub-species />
+  <VernacularNames>White-necked Thrush</VernacularNames>
+</Audio>

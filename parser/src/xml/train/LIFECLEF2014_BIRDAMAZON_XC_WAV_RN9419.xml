@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>9419</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN9419.wav</FileName>
+  <ClassId>yudfzp</ClassId>
+  <Date>2009-06-17</Date>
+  <Time>17:45</Time>
+  <Locality>Campus UFG-Agronomia - Goiânia, Goias</Locality>
+  <Latitude>NULL</Latitude>
+  <Longitude>NULL</Longitude>
+  <Elevation>710</Elevation>
+  <Author>Nunes D´Acosta</Author>
+  <AuthorID>OHHTDSDNBT</AuthorID>
+  <Content>song</Content>
+  <Comments>Canto Noturno - Dentro de mata  seca</Comments>
+  <Quality>4</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Troglodytidae</Family>
+  <Genus>Pheugopedius</Genus>
+  <Species>genibarbis</Species>
+  <Sub-species />
+  <VernacularNames>Moustached Wren</VernacularNames>
+</Audio>

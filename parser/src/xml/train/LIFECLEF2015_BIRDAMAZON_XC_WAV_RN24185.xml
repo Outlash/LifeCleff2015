@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>24185</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN24185.wav</FileName>
+  <ClassId>xychdo</ClassId>
+  <Date>2013-06-19</Date>
+  <Time>06:00</Time>
+  <Locality>Reserva Natural la playita Apia, Risaralda</Locality>
+  <Latitude>5.1311</Latitude>
+  <Longitude>-75.9492</Longitude>
+  <Elevation>1500</Elevation>
+  <Author>Julian Andres Zuleta Marín</Author>
+  <AuthorID>AMCJKUNQOR</AuthorID>
+  <Content>song</Content>
+  <Comments>bird-seen:yesplayback-used:no</Comments>
+  <Quality>2</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Troglodytidae</Family>
+  <Genus>Troglodytes</Genus>
+  <Species>aedon</Species>
+  <Sub-species />
+  <VernacularNames>House Wren</VernacularNames>
+</Audio>

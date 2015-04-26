@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>3832</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN3832.wav</FileName>
+  <ClassId>gmeajz</ClassId>
+  <Date>2006-01-29</Date>
+  <Time>07:00</Time>
+  <Locality>Engenho Cachoeira Linda, Barreiros, Pernambuco</Locality>
+  <Latitude>-8.8173</Latitude>
+  <Longitude>-35.4773</Longitude>
+  <Elevation>80</Elevation>
+  <Author>Sidnei de Melo Dantas</Author>
+  <AuthorID>NNCKQMBGPH</AuthorID>
+  <Content>lek calls</Content>
+  <Comments>undergrowth, in the edge of a secondary forest. Not seen</Comments>
+  <Quality>4</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies>Thraupis palmarum,Tangara cayana,Cyclarhis gujanensis</BackgroundSpecies>
+  <Order>Passeriformes</Order>
+  <Family>Pipridae</Family>
+  <Genus>Chiroxiphia</Genus>
+  <Species>pareola</Species>
+  <Sub-species />
+  <VernacularNames>Blue-backed Manakin</VernacularNames>
+</Audio>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>1988</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN1988.wav</FileName>
+  <ClassId>qrhwnu</ClassId>
+  <Date>2012-04-21</Date>
+  <Time>07:52</Time>
+  <Locality>Timbaúba, Pernambuco</Locality>
+  <Latitude>-7.6096</Latitude>
+  <Longitude>-35.3952</Longitude>
+  <Elevation>440</Elevation>
+  <Author>Marcus Braun</Author>
+  <AuthorID>EICLYDGEKS</AuthorID>
+  <Content>song</Content>
+  <Comments>playback-used:no</Comments>
+  <Quality>4</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies />
+  <Order>Piciformes</Order>
+  <Family>Ramphastidae</Family>
+  <Genus>Ramphastos</Genus>
+  <Species>vitellinus</Species>
+  <Sub-species>ariel</Sub-species>
+  <VernacularNames>Channel-billed Toucan</VernacularNames>
+</Audio>

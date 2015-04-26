@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>24768</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN24768.wav</FileName>
+  <ClassId>nlducw</ClassId>
+  <Date>2010-01-22</Date>
+  <Time>10:00</Time>
+  <Locality>Minca, Magdalena</Locality>
+  <Latitude>11.15</Latitude>
+  <Longitude>-74.11667</Longitude>
+  <Elevation>700</Elevation>
+  <Author>David Geale</Author>
+  <AuthorID>SBFBVYGIJC</AuthorID>
+  <Content>Song</Content>
+  <Comments>Pale lores obvious.</Comments>
+  <Quality>2</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Tyrannidae</Family>
+  <Genus>Contopus</Genus>
+  <Species>cinereus</Species>
+  <Sub-species />
+  <VernacularNames>Tropical Pewee</VernacularNames>
+</Audio>

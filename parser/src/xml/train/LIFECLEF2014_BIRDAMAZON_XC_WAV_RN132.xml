@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>132</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN132.wav</FileName>
+  <ClassId>knhjlm</ClassId>
+  <Date>1998-02-23</Date>
+  <Time>10:30</Time>
+  <Locality>Sao Francisco Xavier</Locality>
+  <Latitude>-22.9667</Latitude>
+  <Longitude>-45.9834</Longitude>
+  <Elevation>1200</Elevation>
+  <Author>Jeremy Minns</Author>
+  <AuthorID>DGVLLRYDXS</AuthorID>
+  <Content>call, song</Content>
+  <Comments>Garden of Pousada Sal da Serra. Male singing on wire.</Comments>
+  <Quality>1</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Thraupidae</Family>
+  <Genus>Sporophila</Genus>
+  <Species>caerulescens</Species>
+  <Sub-species>caerulescens</Sub-species>
+  <VernacularNames>Double-collared Seedeater</VernacularNames>
+</Audio>

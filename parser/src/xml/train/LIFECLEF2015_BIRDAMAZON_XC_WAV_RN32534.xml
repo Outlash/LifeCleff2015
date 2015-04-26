@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>32534</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN32534.wav</FileName>
+  <ClassId>bnwtxt</ClassId>
+  <Date>2007-01-06</Date>
+  <Time>12:20</Time>
+  <Locality>Rio Caura south of Maripa, Bolivar</Locality>
+  <Latitude>7.1167</Latitude>
+  <Longitude>-64.9667</Longitude>
+  <Elevation>?</Elevation>
+  <Author>Andrew Spencer</Author>
+  <AuthorID>CDTGHVBGZP</AuthorID>
+  <Content>call</Content>
+  <Comments />
+  <Quality>2</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Piciformes</Order>
+  <Family>Galbulidae</Family>
+  <Genus>Brachygalba</Genus>
+  <Species>lugubris</Species>
+  <Sub-species>fulviventris</Sub-species>
+  <VernacularNames>Brown Jacamar</VernacularNames>
+</Audio>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>13605</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN13605.wav</FileName>
+  <ClassId>gaggjv</ClassId>
+  <Date>2005-10-21</Date>
+  <Time>11:00</Time>
+  <Locality>Tijuca National Park - RJ</Locality>
+  <Latitude>-22.9567</Latitude>
+  <Longitude>-43.2806</Longitude>
+  <Elevation>850</Elevation>
+  <Author>Ricardo Gagliardi</Author>
+  <AuthorID>YRDADNREOP</AuthorID>
+  <Content>song</Content>
+  <Comments />
+  <Quality>1</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies>Hylophilus thoracicus</BackgroundSpecies>
+  <Order>Passeriformes</Order>
+  <Family>Cardinalidae</Family>
+  <Genus>Saltator</Genus>
+  <Species>similis</Species>
+  <Sub-species />
+  <VernacularNames>Green-winged Saltator</VernacularNames>
+</Audio>

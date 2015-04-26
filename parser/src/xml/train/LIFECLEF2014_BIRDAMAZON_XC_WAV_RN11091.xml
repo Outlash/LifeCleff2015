@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>11091</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN11091.wav</FileName>
+  <ClassId>fpnmqt</ClassId>
+  <Date>2012-07-24</Date>
+  <Time>09:40</Time>
+  <Locality>Santo Antônio do Pinhal</Locality>
+  <Latitude>-22.5258</Latitude>
+  <Longitude>-45.4044</Longitude>
+  <Elevation>1.300</Elevation>
+  <Author>Rodrigo Dela Rosa</Author>
+  <AuthorID>VGXDJMKETZ</AuthorID>
+  <Content>Song</Content>
+  <Comments />
+  <Quality>1</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Rhinocryptidae</Family>
+  <Genus>Scytalopus</Genus>
+  <Species>speluncae</Species>
+  <Sub-species />
+  <VernacularNames>Mouse-colored Tapaculo</VernacularNames>
+</Audio>

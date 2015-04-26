@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>21243</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN21243.wav</FileName>
+  <ClassId>dkgzcm</ClassId>
+  <Date>2009-11-05</Date>
+  <Time>?:?</Time>
+  <Locality>Reserve Naturelle des Nouragues, saut Parare</Locality>
+  <Latitude>NULL</Latitude>
+  <Longitude>NULL</Longitude>
+  <Elevation>60</Elevation>
+  <Author>Alexandre Renaudier</Author>
+  <AuthorID>GKADEITXTH</AuthorID>
+  <Content>song</Content>
+  <Comments>natural recording</Comments>
+  <Quality>1</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies>Attila spadiceus,Brotogeris chrysoptera,Vireo olivaceus</BackgroundSpecies>
+  <Order>Passeriformes</Order>
+  <Family>Tyrannidae</Family>
+  <Genus>Ornithion</Genus>
+  <Species>inerme</Species>
+  <Sub-species />
+  <VernacularNames>White-lored Tyrannulet</VernacularNames>
+</Audio>

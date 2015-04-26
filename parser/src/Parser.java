@@ -17,7 +17,7 @@ public class Parser
     File directory;
 
     public Parser(){
-        this.directory=new File("src\\file\\train");//setam directorul
+        this.directory=new File("src\\xml\\train");//setam directorul
         this.files=this.directory.listFiles();//listam toate fisierele
         this.nrOfFiles=this.files.length;// initializam nr de fisiere
         this.values=new String[this.nrOfFiles][];

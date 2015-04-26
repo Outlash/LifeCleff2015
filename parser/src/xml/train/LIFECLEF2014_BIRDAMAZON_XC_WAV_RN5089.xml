@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>5089</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN5089.wav</FileName>
+  <ClassId>ryckte</ClassId>
+  <Date>2004-02-15</Date>
+  <Time>11:59</Time>
+  <Locality>Praia do Felix, Ubatuba, Sao Paulo</Locality>
+  <Latitude>NULL</Latitude>
+  <Longitude>NULL</Longitude>
+  <Elevation>2</Elevation>
+  <Author>Bernabe Lopez-Lanus</Author>
+  <AuthorID>BYLLSJRVDZ</AuthorID>
+  <Content>Song</Content>
+  <Comments>Male. Second individual after playback</Comments>
+  <Quality>0</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Thamnophilidae</Family>
+  <Genus>Drymophila</Genus>
+  <Species>squamata</Species>
+  <Sub-species />
+  <VernacularNames>Scaled Antbird</VernacularNames>
+</Audio>

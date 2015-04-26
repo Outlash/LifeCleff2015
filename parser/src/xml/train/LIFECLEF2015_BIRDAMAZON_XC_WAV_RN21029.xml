@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>21029</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN21029.wav</FileName>
+  <ClassId>vrmygt</ClassId>
+  <Date>2005-07-04</Date>
+  <Time>16:18</Time>
+  <Locality>PNN Chingaza, sector Palacio</Locality>
+  <Latitude>4.5167</Latitude>
+  <Longitude>-73.7501</Longitude>
+  <Elevation>?</Elevation>
+  <Author>Oscar Laverde</Author>
+  <AuthorID>WKVKSVMNDZ</AuthorID>
+  <Content>song</Content>
+  <Comments />
+  <Quality>1</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Emberizidae</Family>
+  <Genus>Arremon</Genus>
+  <Species>assimilis</Species>
+  <Sub-species />
+  <VernacularNames>Grey-browed Brush Finch</VernacularNames>
+</Audio>

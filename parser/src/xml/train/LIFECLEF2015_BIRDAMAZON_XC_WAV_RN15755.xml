@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>15755</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN15755.wav</FileName>
+  <ClassId>fknsgw</ClassId>
+  <Date>2011-10-13</Date>
+  <Time>07:55</Time>
+  <Locality>Cristalino Jungle Lodge, MT</Locality>
+  <Latitude>-9.5981</Latitude>
+  <Longitude>-55.932</Longitude>
+  <Elevation>260</Elevation>
+  <Author>Eric DeFonso</Author>
+  <AuthorID>KTLCZCRCQX</AuthorID>
+  <Content>song</Content>
+  <Comments>Noise filtered below 100Hz. Along the Caja trail in the secret garden near the lodge grounds. Bird more than 30m away. bird-seen:yesplayback-used:no""</Comments>
+  <Quality>2</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Furnariidae</Family>
+  <Genus>Nasica</Genus>
+  <Species>longirostris</Species>
+  <Sub-species />
+  <VernacularNames>Long-billed Woodcreeper</VernacularNames>
+</Audio>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>14821</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN14821.wav</FileName>
+  <ClassId>ppdwrk</ClassId>
+  <Date>2014-06-11</Date>
+  <Time>16:35</Time>
+  <Locality>Rio Branco, Rio Branco, Acre</Locality>
+  <Latitude>-9.9491</Latitude>
+  <Longitude>-67.8809</Longitude>
+  <Elevation>160</Elevation>
+  <Author>Edson Guilherme</Author>
+  <AuthorID>FZTTBRELVC</AuthorID>
+  <Content>song</Content>
+  <Comments>Campus da Universidade Federal do Acrebird-seen:yes</Comments>
+  <Quality>2</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies>Cantorchilus leucotis,Atticora fasciata,Ornithion inerme</BackgroundSpecies>
+  <Order>Coraciiformes</Order>
+  <Family>Alcedinidae</Family>
+  <Genus>Chloroceryle</Genus>
+  <Species>amazona</Species>
+  <Sub-species />
+  <VernacularNames>Amazon Kingfisher</VernacularNames>
+</Audio>

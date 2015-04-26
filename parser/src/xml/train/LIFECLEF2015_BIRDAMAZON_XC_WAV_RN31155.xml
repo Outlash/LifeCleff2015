@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>31155</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN31155.wav</FileName>
+  <ClassId>vifxpb</ClassId>
+  <Date>2011-11-29</Date>
+  <Time>17.30</Time>
+  <Locality>Palmichal, Carabobo</Locality>
+  <Latitude>5.616</Latitude>
+  <Longitude>-65.742</Longitude>
+  <Elevation>1000</Elevation>
+  <Author>Thore Noernberg</Author>
+  <AuthorID>TTSQGWDDGW</AuthorID>
+  <Content>?</Content>
+  <Comments />
+  <Quality>2</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Falconiformes</Order>
+  <Family>Falconidae</Family>
+  <Genus>Micrastur</Genus>
+  <Species>ruficollis</Species>
+  <Sub-species>zonothorax</Sub-species>
+  <VernacularNames>Barred Forest Falcon</VernacularNames>
+</Audio>

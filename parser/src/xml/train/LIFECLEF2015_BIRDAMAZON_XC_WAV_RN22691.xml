@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>22691</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN22691.wav</FileName>
+  <ClassId>yplahx</ClassId>
+  <Date>2010-01-27</Date>
+  <Time>11:35</Time>
+  <Locality>RNA Arrierito Antioqueño, Anorí, Antioquia</Locality>
+  <Latitude>6.9862</Latitude>
+  <Longitude>-75.1251</Longitude>
+  <Elevation>1700</Elevation>
+  <Author>David Geale</Author>
+  <AuthorID>SBFBVYGIJC</AuthorID>
+  <Content>Song</Content>
+  <Comments>After playback. In somewhat stunted ridge-top forest. Same bird as previous recording. Second bird giving different song in BG.</Comments>
+  <Quality>2</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies>Ramphocaenus melanurus</BackgroundSpecies>
+  <Order>Passeriformes</Order>
+  <Family>Polioptilidae</Family>
+  <Genus>Ramphocaenus</Genus>
+  <Species>melanurus</Species>
+  <Sub-species>griseodorsalis</Sub-species>
+  <VernacularNames>Long-billed Gnatwren</VernacularNames>
+</Audio>

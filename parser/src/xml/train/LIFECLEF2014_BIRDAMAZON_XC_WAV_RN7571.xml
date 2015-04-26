@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>7571</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN7571.wav</FileName>
+  <ClassId>wxviiz</ClassId>
+  <Date>2010-01-26</Date>
+  <Time>?</Time>
+  <Locality>Rio Tigre, Guatambu, Santa Catarina</Locality>
+  <Latitude>-27.140118</Latitude>
+  <Longitude>-52.783728</Longitude>
+  <Elevation>400</Elevation>
+  <Author>Adrian Eisen Rupp</Author>
+  <AuthorID>AOPMSCIDIA</AuthorID>
+  <Content>song</Content>
+  <Comments />
+  <Quality>1</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies />
+  <Order>Strigiformes</Order>
+  <Family>Strigidae</Family>
+  <Genus>Athene</Genus>
+  <Species>cunicularia</Species>
+  <Sub-species />
+  <VernacularNames>Burrowing Owl</VernacularNames>
+</Audio>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>17688</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN17688.wav</FileName>
+  <ClassId>mdgxvm</ClassId>
+  <Date>2013-09-19</Date>
+  <Time>07:00</Time>
+  <Locality>Cristalino Jungle Lodge, MT</Locality>
+  <Latitude>-9.5981</Latitude>
+  <Longitude>-55.932</Longitude>
+  <Elevation>260</Elevation>
+  <Author>Micah Riegner</Author>
+  <AuthorID>TXYAPFWGKB</AuthorID>
+  <Content>song</Content>
+  <Comments>Calling at the edge of the Rio Cristalino.bird-seen:yesplayback-used:yes</Comments>
+  <Quality>1</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Cuculiformes</Order>
+  <Family>Cuculidae</Family>
+  <Genus>Dromococcyx</Genus>
+  <Species>pavoninus</Species>
+  <Sub-species />
+  <VernacularNames>Pavonine Cuckoo</VernacularNames>
+</Audio>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>2042</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN2042.wav</FileName>
+  <ClassId>ypmevr</ClassId>
+  <Date>2005-09-00</Date>
+  <Time>07:10</Time>
+  <Locality>Condomínio Morada da Praia, Praia de Boracéia, Bertioga, São Paulo</Locality>
+  <Latitude>-23.7134</Latitude>
+  <Longitude>-45.8764</Longitude>
+  <Elevation>8</Elevation>
+  <Author>Guilherme R R Brito</Author>
+  <AuthorID>OAYOBWYOOM</AuthorID>
+  <Content>call</Content>
+  <Comments>female individual</Comments>
+  <Quality>1</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies>Trogon viridis,Schiffornis virescens</BackgroundSpecies>
+  <Order>Passeriformes</Order>
+  <Family>Conopophagidae</Family>
+  <Genus>Conopophaga</Genus>
+  <Species>melanops</Species>
+  <Sub-species />
+  <VernacularNames>Black-cheeked Gnateater</VernacularNames>
+</Audio>

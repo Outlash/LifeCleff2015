@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>13075</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN13075.wav</FileName>
+  <ClassId>jeufbl</ClassId>
+  <Date>2011-12-16</Date>
+  <Time>09:12</Time>
+  <Locality>Eldorado, Mato Grosso do Sul state</Locality>
+  <Latitude>-23.8501</Latitude>
+  <Longitude>-54.2537</Longitude>
+  <Elevation>340</Elevation>
+  <Author>Joao Menezes</Author>
+  <AuthorID>BEYMZHZHIB</AuthorID>
+  <Content>call, song</Content>
+  <Comments />
+  <Quality>2</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies>Myiodynastes maculatus</BackgroundSpecies>
+  <Order>Passeriformes</Order>
+  <Family>Tyrannidae</Family>
+  <Genus>Elaenia</Genus>
+  <Species>spectabilis</Species>
+  <Sub-species />
+  <VernacularNames>Large Elaenia</VernacularNames>
+</Audio>

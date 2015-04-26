@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>1257</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN1257.wav</FileName>
+  <ClassId>oxjndd</ClassId>
+  <Date>2004-02-08</Date>
+  <Time>?:?</Time>
+  <Locality>Bahia, a few km W of Fazenda (Aruana), near Una</Locality>
+  <Latitude>-15.2</Latitude>
+  <Longitude>-39.3</Longitude>
+  <Elevation>?</Elevation>
+  <Author>Frank Lambert</Author>
+  <AuthorID>YTUXOCTUEM</AuthorID>
+  <Content>song</Content>
+  <Comments>Previously published on AVoCet as &lt;a href=http://avocet.zoology.msu.edu/recordings/8199&gt;AV8199&lt;/a&gt;.  Certainty: 100%.  ID determined by: seen only in flight, matches XC cuts. GPS: estimate from Google Earth.</Comments>
+  <Quality>2</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies />
+  <Order>Strigiformes</Order>
+  <Family>Strigidae</Family>
+  <Genus>Glaucidium</Genus>
+  <Species>minutissimum</Species>
+  <Sub-species />
+  <VernacularNames>East Brazilian Pygmy Owl</VernacularNames>
+</Audio>

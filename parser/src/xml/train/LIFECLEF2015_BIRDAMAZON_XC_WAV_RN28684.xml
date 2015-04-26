@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>28684</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN28684.wav</FileName>
+  <ClassId>unimmw</ClassId>
+  <Date>1992-08-15</Date>
+  <Time>09:00</Time>
+  <Locality>Abobral river, Mato Grosso do Sul State</Locality>
+  <Latitude>-19.4788</Latitude>
+  <Longitude>-56.9868</Longitude>
+  <Elevation>90</Elevation>
+  <Author>Antonio Silveira</Author>
+  <AuthorID>NBJQSQJRYH</AuthorID>
+  <Content>male, song</Content>
+  <Comments>male singing.bird-seen:yesplayback-used:no</Comments>
+  <Quality>0</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Trogoniformes</Order>
+  <Family>Trogonidae</Family>
+  <Genus>Trogon</Genus>
+  <Species>curucui</Species>
+  <Sub-species />
+  <VernacularNames>Blue-crowned Trogon</VernacularNames>
+</Audio>

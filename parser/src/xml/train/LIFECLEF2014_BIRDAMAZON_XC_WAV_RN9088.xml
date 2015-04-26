@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>9088</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN9088.wav</FileName>
+  <ClassId>zwedij</ClassId>
+  <Date>2011-05-26</Date>
+  <Time>07:34</Time>
+  <Locality>Paragominas, PA, Brazil, near Bacia 147</Locality>
+  <Latitude>-2.803</Latitude>
+  <Longitude>-47.035</Longitude>
+  <Elevation>?</Elevation>
+  <Author>Alexander Lees</Author>
+  <AuthorID>INDDBZAFJL</AuthorID>
+  <Content>song</Content>
+  <Comments>secondary forest by river</Comments>
+  <Quality>4</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies>Ramphocelus carbo</BackgroundSpecies>
+  <Order>Passeriformes</Order>
+  <Family>Thamnophilidae</Family>
+  <Genus>Sclateria</Genus>
+  <Species>naevia</Species>
+  <Sub-species>naevia</Sub-species>
+  <VernacularNames>Silvered Antbird</VernacularNames>
+</Audio>

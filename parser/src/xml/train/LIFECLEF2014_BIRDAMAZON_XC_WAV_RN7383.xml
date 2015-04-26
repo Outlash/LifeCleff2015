@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>7383</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN7383.wav</FileName>
+  <ClassId>djwmdw</ClassId>
+  <Date>2013-08-29</Date>
+  <Time>06:30</Time>
+  <Locality>Parque Nacional Serra da Canastra, São Roque de Minas, MG</Locality>
+  <Latitude>-20.2453</Latitude>
+  <Longitude>-46.3658</Longitude>
+  <Elevation>1390</Elevation>
+  <Author>Robson Silva e Silva</Author>
+  <AuthorID>WZSVLIHYQF</AuthorID>
+  <Content>call</Content>
+  <Comments>bird-seen:yesplayback-used:yes</Comments>
+  <Quality>1</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Rhinocryptidae</Family>
+  <Genus>Scytalopus</Genus>
+  <Species>novacapitalis</Species>
+  <Sub-species />
+  <VernacularNames>Brasilia Tapaculo</VernacularNames>
+</Audio>

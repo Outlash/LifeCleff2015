@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>22379</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN22379.wav</FileName>
+  <ClassId>yyjrms</ClassId>
+  <Date>2002-12-20</Date>
+  <Time>14:00</Time>
+  <Locality>Intervales State Park, Guapiara,São Paulo State,Brazil</Locality>
+  <Latitude>-24.291</Latitude>
+  <Longitude>-48.351</Longitude>
+  <Elevation>850</Elevation>
+  <Author>Antonio Silveira</Author>
+  <AuthorID>NBJQSQJRYH</AuthorID>
+  <Content>male, song</Content>
+  <Comments>bird perched on small rock on the grass and singing.bird-seen:yesplayback-used:no</Comments>
+  <Quality>0</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Emberizidae</Family>
+  <Genus>Zonotrichia</Genus>
+  <Species>capensis</Species>
+  <Sub-species />
+  <VernacularNames>Rufous-collared Sparrow</VernacularNames>
+</Audio>

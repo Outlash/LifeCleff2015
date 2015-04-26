@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>3629</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN3629.wav</FileName>
+  <ClassId>nxdwzm</ClassId>
+  <Date>1997-08-22</Date>
+  <Time>8:30am</Time>
+  <Locality>Serra da Cantareira State Park. São Paulo</Locality>
+  <Latitude>-23.44</Latitude>
+  <Longitude>-46.632</Longitude>
+  <Elevation>900</Elevation>
+  <Author>Antonio Silveira</Author>
+  <AuthorID>NBJQSQJRYH</AuthorID>
+  <Content>call</Content>
+  <Comments>bird-seen:yesplayback-used:no</Comments>
+  <Quality>5</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Furnariidae</Family>
+  <Genus>Automolus</Genus>
+  <Species>leucophthalmus</Species>
+  <Sub-species />
+  <VernacularNames>White-eyed Foliage-gleaner</VernacularNames>
+</Audio>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>15630</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN15630.wav</FileName>
+  <ClassId>xpclwf</ClassId>
+  <Date>2010-03-14</Date>
+  <Time>10:00</Time>
+  <Locality>Iwokrama Road, 15km SW Iwokrama International Center</Locality>
+  <Latitude>NULL</Latitude>
+  <Longitude>NULL</Longitude>
+  <Elevation>100</Elevation>
+  <Author>Charlie Vogt</Author>
+  <AuthorID>NYTXYAQSTH</AuthorID>
+  <Content>song</Content>
+  <Comments>natural vocalization</Comments>
+  <Quality>3</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Icteridae</Family>
+  <Genus>Icterus</Genus>
+  <Species>cayanensis</Species>
+  <Sub-species>chrysocephalus</Sub-species>
+  <VernacularNames>Epaulet Oriole</VernacularNames>
+</Audio>

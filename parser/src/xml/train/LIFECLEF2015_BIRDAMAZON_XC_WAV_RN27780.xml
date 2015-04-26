@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>27780</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN27780.wav</FileName>
+  <ClassId>fvftkw</ClassId>
+  <Date>2007-11-15</Date>
+  <Time>11:00</Time>
+  <Locality>La Paraisa, Jardin, Antioquia</Locality>
+  <Latitude>5.613252</Latitude>
+  <Longitude>-75.789871</Longitude>
+  <Elevation>2000</Elevation>
+  <Author>Diego Calderon-F.</Author>
+  <AuthorID>OGATBVKNAG</AuthorID>
+  <Content>call</Content>
+  <Comments>Responses to playback near a river</Comments>
+  <Quality>1</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Tyrannidae</Family>
+  <Genus>Elaenia</Genus>
+  <Species>frantzii</Species>
+  <Sub-species />
+  <VernacularNames>Mountain Elaenia</VernacularNames>
+</Audio>

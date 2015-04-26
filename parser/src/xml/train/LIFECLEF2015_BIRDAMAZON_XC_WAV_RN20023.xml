@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>20023</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN20023.wav</FileName>
+  <ClassId>bqtilk</ClassId>
+  <Date>2000-10-15</Date>
+  <Time>16:37</Time>
+  <Locality>Reserva Cachalu (Quebrada Cascada), Vereda Rio Negro, Encino, Santander</Locality>
+  <Latitude>NULL</Latitude>
+  <Longitude>NULL</Longitude>
+  <Elevation>2050</Elevation>
+  <Author>Bernabe Lopez-Lanus</Author>
+  <AuthorID>BYLLSJRVDZ</AuthorID>
+  <Content>Song</Content>
+  <Comments />
+  <Quality>3</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Apodiformes</Order>
+  <Family>Trochilidae</Family>
+  <Genus>Amazilia</Genus>
+  <Species>franciae</Species>
+  <Sub-species />
+  <VernacularNames>Andean Emerald</VernacularNames>
+</Audio>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>6411</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN6411.wav</FileName>
+  <ClassId>thrclx</ClassId>
+  <Date>2007-10-09</Date>
+  <Time>07:58</Time>
+  <Locality>Pousada Rio Azul, PA</Locality>
+  <Latitude>-9.2456</Latitude>
+  <Longitude>-55.987</Longitude>
+  <Elevation>230</Elevation>
+  <Author>Bradley Davis</Author>
+  <AuthorID>YNXJLOESBB</AuthorID>
+  <Content>song</Content>
+  <Comments>&lt;a href='http://www.surfbirds.com/trip_report.php?id=1273'&gt;trip report&lt;/a&gt;</Comments>
+  <Quality>3</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies>Ramphastos vitellinus,Crypturellus cinereus,Tinamus guttatus,Crypturellus strigulosus,Thamnophilus stictocephalus</BackgroundSpecies>
+  <Order>Passeriformes</Order>
+  <Family>Thamnophilidae</Family>
+  <Genus>Formicivora</Genus>
+  <Species>grisea</Species>
+  <Sub-species>grisea</Sub-species>
+  <VernacularNames>Southern White-fringed Antwren</VernacularNames>
+</Audio>

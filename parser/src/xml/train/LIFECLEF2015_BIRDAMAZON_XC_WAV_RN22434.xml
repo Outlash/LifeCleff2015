@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>22434</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN22434.wav</FileName>
+  <ClassId>zmpixx</ClassId>
+  <Date>2005-08-21</Date>
+  <Time>5:45</Time>
+  <Locality>Tena, Laguna de pedro palo, Cundinamarca</Locality>
+  <Latitude>4.6501</Latitude>
+  <Longitude>-74.3834</Longitude>
+  <Elevation>2000</Elevation>
+  <Author>Oscar Laverde</Author>
+  <AuthorID>WKVKSVMNDZ</AuthorID>
+  <Content>song</Content>
+  <Comments>Bandada de al  menos 4</Comments>
+  <Quality>1</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Furnariidae</Family>
+  <Genus>Cranioleuca</Genus>
+  <Species>curtata</Species>
+  <Sub-species />
+  <VernacularNames>Ash-browed Spinetail</VernacularNames>
+</Audio>

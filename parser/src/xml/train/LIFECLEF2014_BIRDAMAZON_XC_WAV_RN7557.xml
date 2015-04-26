@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>7557</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN7557.wav</FileName>
+  <ClassId>hkqgia</ClassId>
+  <Date>2010-08-29</Date>
+  <Time>15:08</Time>
+  <Locality>Hotel do Ype, Itatiaia National Park</Locality>
+  <Latitude>-22.3798</Latitude>
+  <Longitude>-44.6301</Longitude>
+  <Elevation>1000</Elevation>
+  <Author>Herman van Oosten</Author>
+  <AuthorID>SNUDCZVUQK</AuthorID>
+  <Content>song?</Content>
+  <Comments>Bird seen.</Comments>
+  <Quality>1</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Tyrannidae</Family>
+  <Genus>Todirostrum</Genus>
+  <Species>poliocephalum</Species>
+  <Sub-species />
+  <VernacularNames>Yellow-lored Tody-Flycatcher</VernacularNames>
+</Audio>

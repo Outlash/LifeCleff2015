@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>16774</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN16774.wav</FileName>
+  <ClassId>wwbydf</ClassId>
+  <Date>2012-03-00</Date>
+  <Time>?</Time>
+  <Locality>La Mesenia</Locality>
+  <Latitude>5.4834</Latitude>
+  <Longitude>-75.9001</Longitude>
+  <Elevation>2200</Elevation>
+  <Author>David Edwards</Author>
+  <AuthorID>AFEHYCAHZR</AuthorID>
+  <Content>song</Content>
+  <Comments>playback-used:no</Comments>
+  <Quality>2</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Troglodytidae</Family>
+  <Genus>Troglodytes</Genus>
+  <Species>solstitialis</Species>
+  <Sub-species />
+  <VernacularNames>Mountain Wren</VernacularNames>
+</Audio>

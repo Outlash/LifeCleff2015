@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>6222</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN6222.wav</FileName>
+  <ClassId>psfsos</ClassId>
+  <Date>2012-10-10</Date>
+  <Time>08:30</Time>
+  <Locality>Cristalino Jungle Lodge, MT</Locality>
+  <Latitude>-9.5981</Latitude>
+  <Longitude>-55.932</Longitude>
+  <Elevation>260</Elevation>
+  <Author>Andrew Spencer</Author>
+  <AuthorID>CDTGHVBGZP</AuthorID>
+  <Content>song</Content>
+  <Comments>natural vocalization, songs from a male bird perched just off the ground in dense primary forest.bird-seen:yesplayback-used:no</Comments>
+  <Quality>1</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Thamnophilidae</Family>
+  <Genus>Willisornis</Genus>
+  <Species>vidua</Species>
+  <Sub-species />
+  <VernacularNames>Xingu Scale-backed Antbird</VernacularNames>
+</Audio>

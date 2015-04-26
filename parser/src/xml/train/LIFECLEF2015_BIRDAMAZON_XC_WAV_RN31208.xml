@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>31208</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN31208.wav</FileName>
+  <ClassId>iydjte</ClassId>
+  <Date>2002-07-31</Date>
+  <Time>?</Time>
+  <Locality>SFF Iguaque, Chiquiza, Boyacá</Locality>
+  <Latitude>5.633333</Latitude>
+  <Longitude>-73.48333</Longitude>
+  <Elevation />
+  <Author>Sergio Córdoba Córdoba (Colección de Sonidos Ambientales - Instituto Humboldt)</Author>
+  <AuthorID>XMFDPACYJN</AuthorID>
+  <Content>song</Content>
+  <Comments>BSA 13196To obtain a wav file of the original recording, please contact csa@humboldt.org.coplayback-used:no</Comments>
+  <Quality>3</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Furnariidae</Family>
+  <Genus>Asthenes</Genus>
+  <Species>fuliginosa</Species>
+  <Sub-species />
+  <VernacularNames>White-chinned Thistletail</VernacularNames>
+</Audio>

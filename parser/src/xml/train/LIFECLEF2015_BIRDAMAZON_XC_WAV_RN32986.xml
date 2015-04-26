@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>32986</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN32986.wav</FileName>
+  <ClassId>mjpnmn</ClassId>
+  <Date>2011-01-19</Date>
+  <Time>11:15</Time>
+  <Locality>Camarones. Santuario Flamencos. Guajira</Locality>
+  <Latitude>NULL</Latitude>
+  <Longitude>NULL</Longitude>
+  <Elevation>10</Elevation>
+  <Author>Pablo Florez</Author>
+  <AuthorID>ISWBQKPBGS</AuthorID>
+  <Content>?</Content>
+  <Comments />
+  <Quality>2</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Strigiformes</Order>
+  <Family>Strigidae</Family>
+  <Genus>Glaucidium</Genus>
+  <Species>brasilianum</Species>
+  <Sub-species />
+  <VernacularNames>Ferruginous Pygmy Owl</VernacularNames>
+</Audio>

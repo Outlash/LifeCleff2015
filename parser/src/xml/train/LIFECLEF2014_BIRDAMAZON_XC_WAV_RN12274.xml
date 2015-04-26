@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>12274</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN12274.wav</FileName>
+  <ClassId>bumkxs</ClassId>
+  <Date>2011-01-10</Date>
+  <Time>?</Time>
+  <Locality>Bacia 69, Santarem, PA</Locality>
+  <Latitude>-2.5601</Latitude>
+  <Longitude>-54.6528</Longitude>
+  <Elevation>?</Elevation>
+  <Author>Nargila Moura</Author>
+  <AuthorID>CWEIBYBYYD</AuthorID>
+  <Content>song</Content>
+  <Comments />
+  <Quality>3</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies>Elaenia flavogaster,Ramphocelus carbo,Thraupis palmarum,Brotogeris versicolurus,Psittacara leucophthalmus,Psittacara leucophthalmus</BackgroundSpecies>
+  <Order>Passeriformes</Order>
+  <Family>Cardinalidae</Family>
+  <Genus>Saltator</Genus>
+  <Species>maximus</Species>
+  <Sub-species>maximus</Sub-species>
+  <VernacularNames>Buff-throated Saltator</VernacularNames>
+</Audio>

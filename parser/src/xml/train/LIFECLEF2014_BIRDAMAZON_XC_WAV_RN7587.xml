@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>7587</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN7587.wav</FileName>
+  <ClassId>yyvzjd</ClassId>
+  <Date>2008-08-28</Date>
+  <Time>07:00</Time>
+  <Locality>Novo Progresso, state of Pará</Locality>
+  <Latitude>-7.1501</Latitude>
+  <Longitude>-55.4834</Longitude>
+  <Elevation>100</Elevation>
+  <Author>Sidnei dantas</Author>
+  <AuthorID>NNCKQMBGPH</AuthorID>
+  <Content>song</Content>
+  <Comments>land forest, near a stream.</Comments>
+  <Quality>0</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies>Electron platyrhynchum,Myrmotherula brachyura,Hypocnemis striata,Rhytipterna simplex,Pionus menstruus</BackgroundSpecies>
+  <Order>Passeriformes</Order>
+  <Family>Furnariidae</Family>
+  <Genus>Automolus</Genus>
+  <Species>ochrolaemus</Species>
+  <Sub-species />
+  <VernacularNames>Buff-throated Foliage-gleaner</VernacularNames>
+</Audio>

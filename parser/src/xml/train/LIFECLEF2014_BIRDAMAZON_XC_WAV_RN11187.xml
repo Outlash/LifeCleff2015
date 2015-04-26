@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>11187</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN11187.wav</FileName>
+  <ClassId>tpwgoq</ClassId>
+  <Date>2001-11-24</Date>
+  <Time>04:42</Time>
+  <Locality>Lencois, Bahia</Locality>
+  <Latitude>-12.6001</Latitude>
+  <Longitude>-41.4001</Longitude>
+  <Elevation>400</Elevation>
+  <Author>Jeremy Minns</Author>
+  <AuthorID>DGVLLRYDXS</AuthorID>
+  <Content>Song</Content>
+  <Comments>Single bird in coconut palm in garden on edge of town.</Comments>
+  <Quality>2</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies>Glaucidium brasilianum,Turdus rufiventris</BackgroundSpecies>
+  <Order>Passeriformes</Order>
+  <Family>Icteridae</Family>
+  <Genus>Gnorimopsar</Genus>
+  <Species>chopi</Species>
+  <Sub-species>chopi</Sub-species>
+  <VernacularNames>Chopi Blackbird</VernacularNames>
+</Audio>

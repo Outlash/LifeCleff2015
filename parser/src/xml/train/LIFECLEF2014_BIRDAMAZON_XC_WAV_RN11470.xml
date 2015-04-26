@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>11470</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN11470.wav</FileName>
+  <ClassId>inrkmj</ClassId>
+  <Date>2002-06-12</Date>
+  <Time>07:10</Time>
+  <Locality>Serra do Mar State Park. Caraguatatuba.</Locality>
+  <Latitude>-23.6001</Latitude>
+  <Longitude>-45.4334</Longitude>
+  <Elevation>780</Elevation>
+  <Author>Jeremy Minns</Author>
+  <AuthorID>DGVLLRYDXS</AuthorID>
+  <Content>Call</Content>
+  <Comments>Montane secondary forest. In bushes in the garden of a house. This is Call A in our DVD-ROM 'Birds of Brazil'.</Comments>
+  <Quality>2</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies>Cyclarhis gujanensis</BackgroundSpecies>
+  <Order>Passeriformes</Order>
+  <Family>Furnariidae</Family>
+  <Genus>Synallaxis</Genus>
+  <Species>spixi</Species>
+  <Sub-species />
+  <VernacularNames>Spix's Spinetail</VernacularNames>
+</Audio>

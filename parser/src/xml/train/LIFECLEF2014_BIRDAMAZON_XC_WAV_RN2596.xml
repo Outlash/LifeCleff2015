@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>2596</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN2596.wav</FileName>
+  <ClassId>pbqnkl</ClassId>
+  <Date>2012-08-22</Date>
+  <Time>14:04</Time>
+  <Locality>Assentamentos no pé da Serra Grande-Pão de Açúcar-alagoas-Brasil</Locality>
+  <Latitude>-9.6609</Latitude>
+  <Longitude>-37.412</Longitude>
+  <Elevation>80</Elevation>
+  <Author>pedroteia</Author>
+  <AuthorID>BZVNDWLRSQ</AuthorID>
+  <Content>song</Content>
+  <Comments />
+  <Quality>3</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies />
+  <Order>Cuculiformes</Order>
+  <Family>Cuculidae</Family>
+  <Genus>Guira</Genus>
+  <Species>guira</Species>
+  <Sub-species />
+  <VernacularNames>Guira Cuckoo</VernacularNames>
+</Audio>

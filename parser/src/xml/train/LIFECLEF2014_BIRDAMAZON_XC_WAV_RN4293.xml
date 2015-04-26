@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>4293</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN4293.wav</FileName>
+  <ClassId>zdicwn</ClassId>
+  <Date>2001-07-11</Date>
+  <Time>08:40</Time>
+  <Locality>Boa Vista. Ilha São José</Locality>
+  <Latitude>2.9501</Latitude>
+  <Longitude>-60.5167</Longitude>
+  <Elevation>70</Elevation>
+  <Author>Jeremy Minns</Author>
+  <AuthorID>DGVLLRYDXS</AuthorID>
+  <Content>Call</Content>
+  <Comments>In scrubby vegetation on island in Rio Branco. Natural.</Comments>
+  <Quality>1</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies>Cacicus cela,Pitangus sulphuratus</BackgroundSpecies>
+  <Order>Passeriformes</Order>
+  <Family>Tyrannidae</Family>
+  <Genus>Myiopagis</Genus>
+  <Species>viridicata</Species>
+  <Sub-species>viridicata</Sub-species>
+  <VernacularNames>Greenish Elaenia</VernacularNames>
+</Audio>

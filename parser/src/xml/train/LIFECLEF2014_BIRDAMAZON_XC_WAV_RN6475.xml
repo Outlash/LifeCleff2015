@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>6475</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN6475.wav</FileName>
+  <ClassId>jfkqxa</ClassId>
+  <Date>2002-06-11</Date>
+  <Time>14:43</Time>
+  <Locality>Caraguatatuba, São Paulo state. 'Hípica as Gaivotas'</Locality>
+  <Latitude>-23.5667</Latitude>
+  <Longitude>-45.3167</Longitude>
+  <Elevation>10</Elevation>
+  <Author>Jeremy Minns</Author>
+  <AuthorID>DGVLLRYDXS</AuthorID>
+  <Content>Drumming</Content>
+  <Comments>Coastal white sand forest. Not seen. 90% certain of ID.</Comments>
+  <Quality>2</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies>Dysithamnus stictothorax,Drymophila ferruginea,Pachyramphus marginatus</BackgroundSpecies>
+  <Order>Piciformes</Order>
+  <Family>Picidae</Family>
+  <Genus>Dryocopus</Genus>
+  <Species>lineatus</Species>
+  <Sub-species>erythrops</Sub-species>
+  <VernacularNames>Lineated Woodpecker</VernacularNames>
+</Audio>

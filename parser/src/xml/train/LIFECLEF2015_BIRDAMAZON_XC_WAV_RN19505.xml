@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>19505</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN19505.wav</FileName>
+  <ClassId>qqgfak</ClassId>
+  <Date>2008-06-28</Date>
+  <Time>?:?</Time>
+  <Locality>Awala-Yalimapo, digue</Locality>
+  <Latitude>5.73778</Latitude>
+  <Longitude>-53.945961</Longitude>
+  <Elevation>2</Elevation>
+  <Author>Alexandre Renaudier</Author>
+  <AuthorID>GKADEITXTH</AuthorID>
+  <Content>song</Content>
+  <Comments>natural recording</Comments>
+  <Quality>1</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies>Leptotila verreauxi,Porzana albicollis,Ixobrychus exilis</BackgroundSpecies>
+  <Order>Passeriformes</Order>
+  <Family>Parulidae</Family>
+  <Genus>Geothlypis</Genus>
+  <Species>aequinoctialis</Species>
+  <Sub-species />
+  <VernacularNames>Masked Yellowthroat</VernacularNames>
+</Audio>

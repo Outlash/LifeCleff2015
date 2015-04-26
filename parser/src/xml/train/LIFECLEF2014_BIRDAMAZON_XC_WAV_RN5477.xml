@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>5477</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN5477.wav</FileName>
+  <ClassId>pprfie</ClassId>
+  <Date>2012-04-15</Date>
+  <Time>11:40</Time>
+  <Locality>Riacho do Olho Dagua Mago-Pão de Açúcar-Alagoas-Brasil</Locality>
+  <Latitude>-9.732</Latitude>
+  <Longitude>-37.435</Longitude>
+  <Elevation>500</Elevation>
+  <Author>pedroteia</Author>
+  <AuthorID>BZVNDWLRSQ</AuthorID>
+  <Content>song</Content>
+  <Comments>cantava a uns 4 metros de mim</Comments>
+  <Quality>3</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Vireonidae</Family>
+  <Genus>Cyclarhis</Genus>
+  <Species>gujanensis</Species>
+  <Sub-species />
+  <VernacularNames>Rufous-browed Peppershrike</VernacularNames>
+</Audio>

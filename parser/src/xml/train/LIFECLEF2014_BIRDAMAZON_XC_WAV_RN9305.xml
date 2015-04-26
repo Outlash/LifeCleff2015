@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>9305</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN9305.wav</FileName>
+  <ClassId>lssubf</ClassId>
+  <Date>2012-07-03</Date>
+  <Time>morning</Time>
+  <Locality>Ribeirão Vermelho - Minas Gaerais</Locality>
+  <Latitude>NULL</Latitude>
+  <Longitude>NULL</Longitude>
+  <Elevation>792</Elevation>
+  <Author>Kassius K. Santos</Author>
+  <AuthorID>LDUBEBHXQK</AuthorID>
+  <Content>song</Content>
+  <Comments>Solitary male.</Comments>
+  <Quality>1</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Thamnophilidae</Family>
+  <Genus>Drymophila</Genus>
+  <Species>ferruginea</Species>
+  <Sub-species />
+  <VernacularNames>Ferruginous Antbird</VernacularNames>
+</Audio>

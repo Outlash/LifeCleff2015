@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>15174</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN15174.wav</FileName>
+  <ClassId>eshtgz</ClassId>
+  <Date>2013-01-06</Date>
+  <Time>16:00</Time>
+  <Locality>Cerro Roraima, Bolivar</Locality>
+  <Latitude>5.1959</Latitude>
+  <Longitude>-60.7459</Longitude>
+  <Elevation>2300</Elevation>
+  <Author>Eduardo D. Schultz</Author>
+  <AuthorID>QYOZQITVAC</AuthorID>
+  <Content>song</Content>
+  <Comments>Cueva de los Guácharosbird-seen:yesplayback-used:no</Comments>
+  <Quality>4</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Caprimulgiformes</Order>
+  <Family>Steatornithidae</Family>
+  <Genus>Steatornis</Genus>
+  <Species>caripensis</Species>
+  <Sub-species />
+  <VernacularNames>Oilbird</VernacularNames>
+</Audio>

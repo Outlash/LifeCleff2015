@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>22250</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN22250.wav</FileName>
+  <ClassId>oiorva</ClassId>
+  <Date>2011-06-18</Date>
+  <Time>09:00</Time>
+  <Locality>RNA Arrierito Antioqueño, Anorí, Antioquia</Locality>
+  <Latitude>6.9862</Latitude>
+  <Longitude>-75.1251</Longitude>
+  <Elevation>1500</Elevation>
+  <Author>Andrew Spencer</Author>
+  <AuthorID>CDTGHVBGZP</AuthorID>
+  <Content>song</Content>
+  <Comments>natural vocalization</Comments>
+  <Quality>1</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Parulidae</Family>
+  <Genus>Myioborus</Genus>
+  <Species>miniatus</Species>
+  <Sub-species>ballux</Sub-species>
+  <VernacularNames>Slate-throated Whitestart</VernacularNames>
+</Audio>

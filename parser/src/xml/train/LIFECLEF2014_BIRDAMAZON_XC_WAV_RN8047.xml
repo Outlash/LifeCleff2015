@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>8047</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN8047.wav</FileName>
+  <ClassId>azkncx</ClassId>
+  <Date>2012-11-07</Date>
+  <Time>18:00</Time>
+  <Locality>Estrada Perdida, Parque Nacional do Viruá, Caracaraí, Roraima</Locality>
+  <Latitude>1.4022</Latitude>
+  <Longitude>-60.9869</Longitude>
+  <Elevation>50</Elevation>
+  <Author>Thiago Orsi Laranjeiras</Author>
+  <AuthorID>PMYLTPLTLT</AuthorID>
+  <Content>flight call</Content>
+  <Comments>bird-seen:yesplayback-used:no</Comments>
+  <Quality>3</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies>Turdus fumigatus</BackgroundSpecies>
+  <Order>Psittaciformes</Order>
+  <Family>Psittacidae</Family>
+  <Genus>Amazona</Genus>
+  <Species>ochrocephala</Species>
+  <Sub-species>ochrocephala</Sub-species>
+  <VernacularNames>Yellow-crowned Amazon</VernacularNames>
+</Audio>

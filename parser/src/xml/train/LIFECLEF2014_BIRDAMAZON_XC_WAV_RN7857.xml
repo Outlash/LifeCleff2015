@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>7857</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN7857.wav</FileName>
+  <ClassId>twhfvm</ClassId>
+  <Date>2002-07-20</Date>
+  <Time>06:27</Time>
+  <Locality>Guiné, Bahia</Locality>
+  <Latitude>-12.7667</Latitude>
+  <Longitude>-41.5334</Longitude>
+  <Elevation>1000</Elevation>
+  <Author>Jeremy Minns</Author>
+  <AuthorID>DGVLLRYDXS</AuthorID>
+  <Content>Call</Content>
+  <Comments>Grassland with scattered bushes. This is Call A in our DVD-ROM 'Birds of Brazil'.</Comments>
+  <Quality>2</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies>Colibri serrirostris</BackgroundSpecies>
+  <Order>Passeriformes</Order>
+  <Family>Thraupidae</Family>
+  <Genus>Emberizoides</Genus>
+  <Species>herbicola</Species>
+  <Sub-species>herbicola</Sub-species>
+  <VernacularNames>Wedge-tailed Grass Finch</VernacularNames>
+</Audio>

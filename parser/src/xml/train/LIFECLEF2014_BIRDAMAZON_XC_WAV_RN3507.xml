@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>3507</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN3507.wav</FileName>
+  <ClassId>hkgozq</ClassId>
+  <Date>2007-09-21</Date>
+  <Time>05:58</Time>
+  <Locality>Boa Nova, BA - dry forest</Locality>
+  <Latitude>-14.3834</Latitude>
+  <Longitude>-40.2001</Longitude>
+  <Elevation>700</Elevation>
+  <Author>Nick Athanas</Author>
+  <AuthorID>XRABICUARW</AuthorID>
+  <Content>lekking</Content>
+  <Comments>In remarkably dry forest for this species. Click for photo: img:http://www.antpitta.com/images/photos/hummers/Scale-throated-Hermit-BoaNova.jpg</Comments>
+  <Quality>1</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies>Trogon rufus</BackgroundSpecies>
+  <Order>Apodiformes</Order>
+  <Family>Trochilidae</Family>
+  <Genus>Phaethornis</Genus>
+  <Species>eurynome</Species>
+  <Sub-species>eurynome</Sub-species>
+  <VernacularNames>Scale-throated Hermit</VernacularNames>
+</Audio>

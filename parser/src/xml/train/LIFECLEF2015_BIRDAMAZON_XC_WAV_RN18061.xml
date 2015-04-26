@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>18061</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN18061.wav</FileName>
+  <ClassId>qliyib</ClassId>
+  <Date>2009-10-31</Date>
+  <Time>?:?</Time>
+  <Locality>Reserve Naturelle des Nouragues, saut Parare</Locality>
+  <Latitude>NULL</Latitude>
+  <Longitude>NULL</Longitude>
+  <Elevation>60</Elevation>
+  <Author>Alexandre Renaudier</Author>
+  <AuthorID>GKADEITXTH</AuthorID>
+  <Content>Song</Content>
+  <Comments />
+  <Quality>1</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies>Patagioenas subvinacea</BackgroundSpecies>
+  <Order>Passeriformes</Order>
+  <Family>Grallariidae</Family>
+  <Genus>Hylopezus</Genus>
+  <Species>macularius</Species>
+  <Sub-species>macularius</Sub-species>
+  <VernacularNames>Spotted Antpitta</VernacularNames>
+</Audio>

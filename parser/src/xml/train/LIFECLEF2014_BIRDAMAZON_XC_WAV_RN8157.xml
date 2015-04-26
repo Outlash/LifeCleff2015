@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>8157</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN8157.wav</FileName>
+  <ClassId>pndtuh</ClassId>
+  <Date>2009-09-30</Date>
+  <Time>8:30</Time>
+  <Locality>RPPN Serra do Contente, Gravatá, Pernambuco</Locality>
+  <Latitude>NULL</Latitude>
+  <Longitude>NULL</Longitude>
+  <Elevation>720</Elevation>
+  <Author>Mauricio Cabral Periquito</Author>
+  <AuthorID>HERKCTHDZI</AuthorID>
+  <Content>call</Content>
+  <Comments>Pearched</Comments>
+  <Quality>1</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies />
+  <Order>Apodiformes</Order>
+  <Family>Trochilidae</Family>
+  <Genus>Phaethornis</Genus>
+  <Species>ruber</Species>
+  <Sub-species />
+  <VernacularNames>Reddish Hermit</VernacularNames>
+</Audio>

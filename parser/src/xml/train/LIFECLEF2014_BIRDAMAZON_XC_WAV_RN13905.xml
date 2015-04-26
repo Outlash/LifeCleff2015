@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>13905</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN13905.wav</FileName>
+  <ClassId>gzfudv</ClassId>
+  <Date>2003-03-23</Date>
+  <Time>05:58</Time>
+  <Locality>Vila Bela da Santíssima Trindade</Locality>
+  <Latitude>-14.9834</Latitude>
+  <Longitude>-59.9834</Longitude>
+  <Elevation>225</Elevation>
+  <Author>Jeremy Minns</Author>
+  <AuthorID>DGVLLRYDXS</AuthorID>
+  <Content>flight call</Content>
+  <Comments>Fazenda Boa Esperana. Forest fragments and pasture. Two birds.</Comments>
+  <Quality>2</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies />
+  <Order>Psittaciformes</Order>
+  <Family>Psittacidae</Family>
+  <Genus>Orthopsittaca</Genus>
+  <Species>manilatus</Species>
+  <Sub-species />
+  <VernacularNames>Red-bellied Macaw</VernacularNames>
+</Audio>

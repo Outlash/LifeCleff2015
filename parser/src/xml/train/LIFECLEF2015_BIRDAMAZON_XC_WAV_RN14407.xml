@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>14407</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN14407.wav</FileName>
+  <ClassId>xkktdr</ClassId>
+  <Date>2008-01-18</Date>
+  <Time>06:40</Time>
+  <Locality>Parque Regional Barbas-Bremen, Filandia, Quindio. Sector Barbas</Locality>
+  <Latitude>4.6717</Latitude>
+  <Longitude>-75.6283</Longitude>
+  <Elevation>1800</Elevation>
+  <Author>Oscar Humberto Marin-Gomez</Author>
+  <AuthorID>CSUHASNRSU</AuthorID>
+  <Content>call, song</Content>
+  <Comments>OHM022B 1217. Five birds in the Cecropia canopy.bird-seen:yesplayback-used:no</Comments>
+  <Quality>2</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Thraupidae</Family>
+  <Genus>Tangara</Genus>
+  <Species>arthus</Species>
+  <Sub-species />
+  <VernacularNames>Golden Tanager</VernacularNames>
+</Audio>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>18065</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN18065.wav</FileName>
+  <ClassId>nogbsj</ClassId>
+  <Date>2005-11-24</Date>
+  <Time>13:15</Time>
+  <Locality>Parque do Zizo, Sao Paulo State</Locality>
+  <Latitude>-24.017146</Latitude>
+  <Longitude>-47.81044</Longitude>
+  <Elevation>630</Elevation>
+  <Author>Bob Planqué</Author>
+  <AuthorID>OH38YHKJBS</AuthorID>
+  <Content>call</Content>
+  <Comments>three individuals foraging in a tree</Comments>
+  <Quality>3</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies>Saltator fuliginosus</BackgroundSpecies>
+  <Order>Passeriformes</Order>
+  <Family>Thraupidae</Family>
+  <Genus>Tangara</Genus>
+  <Species>seledon</Species>
+  <Sub-species />
+  <VernacularNames>Green-headed Tanager</VernacularNames>
+</Audio>

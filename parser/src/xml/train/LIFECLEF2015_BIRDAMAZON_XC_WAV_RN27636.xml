@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>27636</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN27636.wav</FileName>
+  <ClassId>rxaqum</ClassId>
+  <Date>2013-01-17</Date>
+  <Time>07:57</Time>
+  <Locality>Jaci-Paraná, Porto Velho, Rondônia</Locality>
+  <Latitude>-9.4493</Latitude>
+  <Longitude>-64.3728</Longitude>
+  <Elevation>120</Elevation>
+  <Author>Luiz Gabriel Mazzoni</Author>
+  <AuthorID>MPOKMOFDDX</AuthorID>
+  <Content>song</Content>
+  <Comments>Terra firme forest with dense bamboo stands.bird-seen:noplayback-used:no</Comments>
+  <Quality>1</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Grallariidae</Family>
+  <Genus>Myrmothera</Genus>
+  <Species>campanisona</Species>
+  <Sub-species />
+  <VernacularNames>Thrush-like Antpitta</VernacularNames>
+</Audio>

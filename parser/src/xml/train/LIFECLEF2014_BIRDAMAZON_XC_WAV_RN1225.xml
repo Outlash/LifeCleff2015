@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>1225</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN1225.wav</FileName>
+  <ClassId>gekxwa</ClassId>
+  <Date>2006-03-08</Date>
+  <Time>08:30</Time>
+  <Locality>Hotel Donati, Itatiaia NP, Rio de Janeiro state</Locality>
+  <Latitude>-22.4334</Latitude>
+  <Longitude>-44.6334</Longitude>
+  <Elevation>1050</Elevation>
+  <Author>Daniel Lane</Author>
+  <AuthorID>WOEAFQRMUD</AuthorID>
+  <Content>call</Content>
+  <Comments>Natural daytime calls from a single bird at edge of clearing in hotel compound.</Comments>
+  <Quality>2</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies>Phyllomyias griseocapilla,Rupornis magnirostris,Dysithamnus mentalis</BackgroundSpecies>
+  <Order>Passeriformes</Order>
+  <Family>Tyrannidae</Family>
+  <Genus>Myiarchus</Genus>
+  <Species>ferox</Species>
+  <Sub-species />
+  <VernacularNames>Short-crested Flycatcher</VernacularNames>
+</Audio>

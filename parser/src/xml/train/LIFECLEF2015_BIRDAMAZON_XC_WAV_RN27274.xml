@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>27274</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN27274.wav</FileName>
+  <ClassId>yyvzjd</ClassId>
+  <Date>2010-01-29</Date>
+  <Time>11:00</Time>
+  <Locality>Saül</Locality>
+  <Latitude>3.6167</Latitude>
+  <Longitude>-53.2001</Longitude>
+  <Elevation>?</Elevation>
+  <Author>Fabrice Schmitt</Author>
+  <AuthorID>FPAGKPAQYO</AuthorID>
+  <Content>?</Content>
+  <Comments />
+  <Quality>3</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Furnariidae</Family>
+  <Genus>Automolus</Genus>
+  <Species>ochrolaemus</Species>
+  <Sub-species>turdinus</Sub-species>
+  <VernacularNames>Buff-throated Foliage-gleaner</VernacularNames>
+</Audio>

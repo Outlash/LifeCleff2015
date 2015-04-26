@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>22491</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN22491.wav</FileName>
+  <ClassId>tadaeg</ClassId>
+  <Date>2004-08-24</Date>
+  <Time>06:10</Time>
+  <Locality>Mesenia, Risaralda</Locality>
+  <Latitude>5.459478</Latitude>
+  <Longitude>-75.900421</Longitude>
+  <Elevation>2400</Elevation>
+  <Author>Niels Krabbe</Author>
+  <AuthorID>XTVEPHMPPJ</AuthorID>
+  <Content>song and scold</Content>
+  <Comments>Last bit after pb. Tape ref. A 423-425, 428-434, 440-452</Comments>
+  <Quality>2</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Rhinocryptidae</Family>
+  <Genus>Scytalopus</Genus>
+  <Species>spillmanni</Species>
+  <Sub-species />
+  <VernacularNames>Spillmann's Tapaculo</VernacularNames>
+</Audio>

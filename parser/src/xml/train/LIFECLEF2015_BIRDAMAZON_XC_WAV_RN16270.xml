@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>16270</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN16270.wav</FileName>
+  <ClassId>tqvdsy</ClassId>
+  <Date>2006-05-02</Date>
+  <Time>21:03</Time>
+  <Locality>Alta Floresta, MT</Locality>
+  <Latitude>-9.8781</Latitude>
+  <Longitude>-56.0981</Longitude>
+  <Elevation>290</Elevation>
+  <Author>Bradley Davis</Author>
+  <AuthorID>YNXJLOESBB</AuthorID>
+  <Content>song?</Content>
+  <Comments />
+  <Quality>2</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Strigiformes</Order>
+  <Family>Strigidae</Family>
+  <Genus>Lophostrix</Genus>
+  <Species>cristata</Species>
+  <Sub-species />
+  <VernacularNames>Crested Owl</VernacularNames>
+</Audio>

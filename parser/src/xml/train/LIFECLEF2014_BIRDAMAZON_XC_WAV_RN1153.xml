@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>1153</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN1153.wav</FileName>
+  <ClassId>nipfbr</ClassId>
+  <Date>2009-05-30</Date>
+  <Time>9:30</Time>
+  <Locality>Sorocaba, SP</Locality>
+  <Latitude>-23.4328</Latitude>
+  <Longitude>-47.4114</Longitude>
+  <Elevation>622</Elevation>
+  <Author>João P. Burini</Author>
+  <AuthorID>BYDIVQSYNW</AuthorID>
+  <Content>Song</Content>
+  <Comments />
+  <Quality>2</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Furnariidae</Family>
+  <Genus>Synallaxis</Genus>
+  <Species>frontalis</Species>
+  <Sub-species />
+  <VernacularNames>Sooty-fronted Spinetail</VernacularNames>
+</Audio>

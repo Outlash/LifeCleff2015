@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>2451</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN2451.wav</FileName>
+  <ClassId>czvsyl</ClassId>
+  <Date>2008-10-16</Date>
+  <Time>10am</Time>
+  <Locality>Estação Ecológica Juréia-Itatins, Peruíbe,São Paulo -SP</Locality>
+  <Latitude>-24.554</Latitude>
+  <Longitude>-47.225</Longitude>
+  <Elevation>10</Elevation>
+  <Author>Antonio Silveira</Author>
+  <AuthorID>NBJQSQJRYH</AuthorID>
+  <Content>song</Content>
+  <Comments />
+  <Quality>0</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Thamnophilidae</Family>
+  <Genus>Myrmotherula</Genus>
+  <Species>unicolor</Species>
+  <Sub-species />
+  <VernacularNames>Unicolored Antwren</VernacularNames>
+</Audio>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>1050</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN1050.wav</FileName>
+  <ClassId>nahjxx</ClassId>
+  <Date>2007-12-01</Date>
+  <Time>16:00</Time>
+  <Locality>Serra do Mar State Park. Picinguaba</Locality>
+  <Latitude>-23.3334</Latitude>
+  <Longitude>-44.8834</Longitude>
+  <Elevation>5</Elevation>
+  <Author>Antonio Silveira</Author>
+  <AuthorID>NBJQSQJRYH</AuthorID>
+  <Content>male, song</Content>
+  <Comments>Perhaps the first record for the region. We were accompanied for biologist Fabio Olmos. See note in http://www.aultimaarcadenoe.com.br/wp-content/uploads/2011/07/Thamnophilus_palliatus1.pdfbird-seen:yesplayback-used:no</Comments>
+  <Quality>0</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Thamnophilidae</Family>
+  <Genus>Thamnophilus</Genus>
+  <Species>palliatus</Species>
+  <Sub-species />
+  <VernacularNames>Chestnut-backed Antshrike</VernacularNames>
+</Audio>

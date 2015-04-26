@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>21163</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN21163.wav</FileName>
+  <ClassId>igtfqw</ClassId>
+  <Date>2011-12-05</Date>
+  <Time>14:00</Time>
+  <Locality>Jaú, Jaú, São Paulo</Locality>
+  <Latitude>-22.294</Latitude>
+  <Longitude>-48.5542</Longitude>
+  <Elevation>500</Elevation>
+  <Author>Paulo Guerra</Author>
+  <AuthorID>NLROPBPDRI</AuthorID>
+  <Content>flight call</Content>
+  <Comments>bird-seen:yesplayback-used:no</Comments>
+  <Quality>4</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Apodiformes</Order>
+  <Family>Apodidae</Family>
+  <Genus>Chaetura</Genus>
+  <Species>meridionalis</Species>
+  <Sub-species />
+  <VernacularNames>Sick's Swift</VernacularNames>
+</Audio>

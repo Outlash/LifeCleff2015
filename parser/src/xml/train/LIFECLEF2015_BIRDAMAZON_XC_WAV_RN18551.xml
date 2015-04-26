@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>18551</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN18551.wav</FileName>
+  <ClassId>xychdo</ClassId>
+  <Date>1992-12-30</Date>
+  <Time>?</Time>
+  <Locality>Cundinamarca, Tabio, Finca Agua Caliente, 1Km al oeste de Tabio</Locality>
+  <Latitude>4.918611</Latitude>
+  <Longitude>-74.11667</Longitude>
+  <Elevation>2600</Elevation>
+  <Author>Gary Stiles (Colección de Sonidos Ambientales - Instituto Humboldt)</Author>
+  <AuthorID>XMFDPACYJN</AuthorID>
+  <Content>call</Content>
+  <Comments>BSA 10979To obtain a wav file of the original recording, please contact csa@humboldt.org.cobird-seen:noplayback-used:no</Comments>
+  <Quality>2</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Troglodytidae</Family>
+  <Genus>Troglodytes</Genus>
+  <Species>aedon</Species>
+  <Sub-species />
+  <VernacularNames>House Wren</VernacularNames>
+</Audio>

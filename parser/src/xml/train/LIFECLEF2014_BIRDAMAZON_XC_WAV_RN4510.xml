@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>4510</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN4510.wav</FileName>
+  <ClassId>knhjlm</ClassId>
+  <Date>2013-10-13</Date>
+  <Time>09:00</Time>
+  <Locality>Campo Mourao, Paraná.</Locality>
+  <Latitude>-24.0458</Latitude>
+  <Longitude>-52.3828</Longitude>
+  <Elevation>600</Elevation>
+  <Author>Luiz C.  Silva</Author>
+  <AuthorID>ORPKXJRFDZ</AuthorID>
+  <Content>call, female, juvenile, male</Content>
+  <Comments>Flock of Sporophila caerulescens.bird-seen:yes</Comments>
+  <Quality>2</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Thraupidae</Family>
+  <Genus>Sporophila</Genus>
+  <Species>caerulescens</Species>
+  <Sub-species />
+  <VernacularNames>Double-collared Seedeater</VernacularNames>
+</Audio>

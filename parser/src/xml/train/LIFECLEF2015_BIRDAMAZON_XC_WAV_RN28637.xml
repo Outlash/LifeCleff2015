@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>28637</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN28637.wav</FileName>
+  <ClassId>uhwmky</ClassId>
+  <Date>2014-05-18</Date>
+  <Time>16:30</Time>
+  <Locality>Libano, Tolima</Locality>
+  <Latitude>4.9293</Latitude>
+  <Longitude>-75.085</Longitude>
+  <Elevation>1700</Elevation>
+  <Author>Jeisson Poveda</Author>
+  <AuthorID>CVJNYXJFAW</AuthorID>
+  <Content>song</Content>
+  <Comments>bird-seen:yesplayback-used:no</Comments>
+  <Quality>1</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies>Hemithraupis guira</BackgroundSpecies>
+  <Order>Passeriformes</Order>
+  <Family>Tyrannidae</Family>
+  <Genus>Lophotriccus</Genus>
+  <Species>pileatus</Species>
+  <Sub-species>squamaecrista</Sub-species>
+  <VernacularNames>Scale-crested Pygmy Tyrant</VernacularNames>
+</Audio>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>29091</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN29091.wav</FileName>
+  <ClassId>nehqqq</ClassId>
+  <Date>2008-08-03</Date>
+  <Time>06:55</Time>
+  <Locality>San Bernardo (Cundinamarca)</Locality>
+  <Latitude>4.2001</Latitude>
+  <Longitude>-74.4128</Longitude>
+  <Elevation>2500</Elevation>
+  <Author>Oswaldo Cortes</Author>
+  <AuthorID>VVDRVZCVWW</AuthorID>
+  <Content>song</Content>
+  <Comments />
+  <Quality>3</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies>Zimmerius chrysops</BackgroundSpecies>
+  <Order>Passeriformes</Order>
+  <Family>Vireonidae</Family>
+  <Genus>Cyclarhis</Genus>
+  <Species>nigrirostris</Species>
+  <Sub-species />
+  <VernacularNames>Black-billed Peppershrike</VernacularNames>
+</Audio>

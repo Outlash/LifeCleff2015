@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>6067</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN6067.wav</FileName>
+  <ClassId>jgbztp</ClassId>
+  <Date>2012-12-09</Date>
+  <Time>08:30</Time>
+  <Locality>São José dos Campos, São Paulo</Locality>
+  <Latitude>-23.0726</Latitude>
+  <Longitude>-45.9388</Longitude>
+  <Elevation>700</Elevation>
+  <Author>Rodrigo Dela Rosa de Souza</Author>
+  <AuthorID>VGXDJMKETZ</AuthorID>
+  <Content>song</Content>
+  <Comments>Young malebird-seen:yesplayback-used:yes</Comments>
+  <Quality>1</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies>Sporophila falcirostris,Chiroxiphia caudata,Saltator similis</BackgroundSpecies>
+  <Order>Passeriformes</Order>
+  <Family>Thraupidae</Family>
+  <Genus>Tiaris</Genus>
+  <Species>fuliginosus</Species>
+  <Sub-species />
+  <VernacularNames>Sooty Grassquit</VernacularNames>
+</Audio>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>3926</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN3926.wav</FileName>
+  <ClassId>feohaf</ClassId>
+  <Date>2005-10-26</Date>
+  <Time>05:00</Time>
+  <Locality>Araripe National Forest, Crato, Ceará State</Locality>
+  <Latitude>-7.2501</Latitude>
+  <Longitude>-39.5834</Longitude>
+  <Elevation>500</Elevation>
+  <Author>Weber Girão</Author>
+  <AuthorID>MXVQPUKGWW</AuthorID>
+  <Content>song</Content>
+  <Comments />
+  <Quality>4</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies>Passer domesticus</BackgroundSpecies>
+  <Order>Passeriformes</Order>
+  <Family>Tyrannidae</Family>
+  <Genus>Elaenia</Genus>
+  <Species>flavogaster</Species>
+  <Sub-species />
+  <VernacularNames>Yellow-bellied Elaenia</VernacularNames>
+</Audio>

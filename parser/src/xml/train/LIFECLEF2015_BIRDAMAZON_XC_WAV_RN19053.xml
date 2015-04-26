@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>19053</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN19053.wav</FileName>
+  <ClassId>pbswuq</ClassId>
+  <Date>2011-03-29</Date>
+  <Time>07:00</Time>
+  <Locality>Bozano, Rio Grande do Sul</Locality>
+  <Latitude>-28.3758</Latitude>
+  <Longitude>-53.8115</Longitude>
+  <Elevation>380</Elevation>
+  <Author>Fernando Igor de Godoy</Author>
+  <AuthorID>CHDHFSVVIN</AuthorID>
+  <Content>call</Content>
+  <Comments>FNJV 30286bird-seen:yesplayback-used:no</Comments>
+  <Quality>0</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Thraupidae</Family>
+  <Genus>Embernagra</Genus>
+  <Species>platensis</Species>
+  <Sub-species />
+  <VernacularNames>Pampa Finch</VernacularNames>
+</Audio>

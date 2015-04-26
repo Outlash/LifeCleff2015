@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>10594</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN10594.wav</FileName>
+  <ClassId>dkecip</ClassId>
+  <Date>2005-05-11</Date>
+  <Time>8:30</Time>
+  <Locality>Ubaíra, Bahia.</Locality>
+  <Latitude>NULL</Latitude>
+  <Longitude>NULL</Longitude>
+  <Elevation>?</Elevation>
+  <Author>Sidnei S. dos Santos</Author>
+  <AuthorID>BHODJXTHGQ</AuthorID>
+  <Content>Song</Content>
+  <Comments />
+  <Quality>2</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Tyrannidae</Family>
+  <Genus>Myiophobus</Genus>
+  <Species>fasciatus</Species>
+  <Sub-species />
+  <VernacularNames>Bran-colored Flycatcher</VernacularNames>
+</Audio>

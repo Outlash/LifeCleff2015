@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>14759</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN14759.wav</FileName>
+  <ClassId>vifxpb</ClassId>
+  <Date>2010-01-29</Date>
+  <Time>9:00</Time>
+  <Locality>Saül</Locality>
+  <Latitude>3.6167</Latitude>
+  <Longitude>-53.2001</Longitude>
+  <Elevation>?</Elevation>
+  <Author>Fabrice Schmitt</Author>
+  <AuthorID>FPAGKPAQYO</AuthorID>
+  <Content>call</Content>
+  <Comments />
+  <Quality>2</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Falconiformes</Order>
+  <Family>Falconidae</Family>
+  <Genus>Micrastur</Genus>
+  <Species>ruficollis</Species>
+  <Sub-species>concentricus</Sub-species>
+  <VernacularNames>Barred Forest Falcon</VernacularNames>
+</Audio>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>23906</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN23906.wav</FileName>
+  <ClassId>qtegfa</ClassId>
+  <Date>2008-07-10</Date>
+  <Time>07:30</Time>
+  <Locality>5km west of San Isidro, Bolivar</Locality>
+  <Latitude>6.1501</Latitude>
+  <Longitude>-61.4706</Longitude>
+  <Elevation>170</Elevation>
+  <Author>Andrew Spencer</Author>
+  <AuthorID>CDTGHVBGZP</AuthorID>
+  <Content>flight call</Content>
+  <Comments />
+  <Quality>2</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Apodiformes</Order>
+  <Family>Trochilidae</Family>
+  <Genus>Phaethornis</Genus>
+  <Species>superciliosus</Species>
+  <Sub-species>superciliosus</Sub-species>
+  <VernacularNames>Long-tailed Hermit</VernacularNames>
+</Audio>

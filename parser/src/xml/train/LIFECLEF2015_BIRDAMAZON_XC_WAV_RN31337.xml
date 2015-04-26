@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>31337</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN31337.wav</FileName>
+  <ClassId>lgdqns</ClassId>
+  <Date>2005-08-07</Date>
+  <Time>?:?</Time>
+  <Locality>Belwaarde</Locality>
+  <Latitude>5.8501</Latitude>
+  <Longitude>-54.8201</Longitude>
+  <Elevation>?</Elevation>
+  <Author>Otte Ottema</Author>
+  <AuthorID>ASEUAUOXZA</AuthorID>
+  <Content>call</Content>
+  <Comments>score for single call</Comments>
+  <Quality>1</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Psittaciformes</Order>
+  <Family>Psittacidae</Family>
+  <Genus>Amazona</Genus>
+  <Species>amazonica</Species>
+  <Sub-species />
+  <VernacularNames>Orange-winged Amazon</VernacularNames>
+</Audio>

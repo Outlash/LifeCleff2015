@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>16424</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN16424.wav</FileName>
+  <ClassId>biwpqg</ClassId>
+  <Date>2004-08-27</Date>
+  <Time>17:41</Time>
+  <Locality>Barra do Quaraí</Locality>
+  <Latitude>-30.1834</Latitude>
+  <Longitude>-57.4501</Longitude>
+  <Elevation>50</Elevation>
+  <Author>Jeremy Minns</Author>
+  <AuthorID>DGVLLRYDXS</AuthorID>
+  <Content>flight call</Content>
+  <Comments>Espinilho parkland. Three birds taking off from a pond beside the road.</Comments>
+  <Quality>2</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Anseriformes</Order>
+  <Family>Anatidae</Family>
+  <Genus>Amazonetta</Genus>
+  <Species>brasiliensis</Species>
+  <Sub-species>ipecutiri</Sub-species>
+  <VernacularNames>Brazilian Teal</VernacularNames>
+</Audio>

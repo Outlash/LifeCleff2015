@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>24994</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN24994.wav</FileName>
+  <ClassId>flxqxu</ClassId>
+  <Date>2008-08-03</Date>
+  <Time>06:28</Time>
+  <Locality>San Bernardo (Cundinamarca)</Locality>
+  <Latitude>4.2001</Latitude>
+  <Longitude>-74.4128</Longitude>
+  <Elevation>2500</Elevation>
+  <Author>Oswaldo Cortes</Author>
+  <AuthorID>VVDRVZCVWW</AuthorID>
+  <Content>song</Content>
+  <Comments />
+  <Quality>2</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Thraupidae</Family>
+  <Genus>Buthraupis</Genus>
+  <Species>montana</Species>
+  <Sub-species />
+  <VernacularNames>Hooded Mountain Tanager</VernacularNames>
+</Audio>

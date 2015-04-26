@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>32314</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN32314.wav</FileName>
+  <ClassId>uqcfuk</ClassId>
+  <Date>2006-09-27</Date>
+  <Time>05:30</Time>
+  <Locality>Usina Zillo Lorenzetti - Quatá, Sao Paulo State</Locality>
+  <Latitude>-22.2589</Latitude>
+  <Longitude>-50.7089</Longitude>
+  <Elevation>550</Elevation>
+  <Author>Guilherme R R Brito</Author>
+  <AuthorID>OAYOBWYOOM</AuthorID>
+  <Content>song</Content>
+  <Comments />
+  <Quality>2</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Caprimulgiformes</Order>
+  <Family>Caprimulgidae</Family>
+  <Genus>Antrostomus</Genus>
+  <Species>rufus</Species>
+  <Sub-species />
+  <VernacularNames>Rufous Nightjar</VernacularNames>
+</Audio>

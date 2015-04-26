@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>15453</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN15453.wav</FileName>
+  <ClassId>vdoulx</ClassId>
+  <Date>2013-07-09</Date>
+  <Time>08:30</Time>
+  <Locality>Route de Guatemala (Kourou)</Locality>
+  <Latitude>5.0901</Latitude>
+  <Longitude>-52.5698</Longitude>
+  <Elevation>10</Elevation>
+  <Author>Michel Giraud-Audine</Author>
+  <AuthorID>WLMNCMVQIR</AuthorID>
+  <Content>call</Content>
+  <Comments>Solitary tree in a pasture. Calm series of calls not far from the nest in the same tree.bird-seen:yes</Comments>
+  <Quality>0</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Icteridae</Family>
+  <Genus>Icterus</Genus>
+  <Species>nigrogularis</Species>
+  <Sub-species>nigrogularis</Sub-species>
+  <VernacularNames>Yellow Oriole</VernacularNames>
+</Audio>

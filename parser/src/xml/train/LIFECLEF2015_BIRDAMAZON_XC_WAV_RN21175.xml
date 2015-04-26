@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>21175</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN21175.wav</FileName>
+  <ClassId>piciap</ClassId>
+  <Date>2012-10-15</Date>
+  <Time>05:50</Time>
+  <Locality>Porto Jofre, Mato Grosso</Locality>
+  <Latitude>-17.3624</Latitude>
+  <Longitude>-56.776</Longitude>
+  <Elevation>110</Elevation>
+  <Author>Andrew Spencer</Author>
+  <AuthorID>CDTGHVBGZP</AuthorID>
+  <Content>call</Content>
+  <Comments>calls from an adult bird flushing from the edge of a marsh.bird-seen:yesplayback-used:no</Comments>
+  <Quality>1</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Pelecaniformes</Order>
+  <Family>Ardeidae</Family>
+  <Genus>Ardea</Genus>
+  <Species>cocoi</Species>
+  <Sub-species />
+  <VernacularNames>Cocoi Heron</VernacularNames>
+</Audio>

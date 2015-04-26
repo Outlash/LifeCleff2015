@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>19715</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN19715.wav</FileName>
+  <ClassId>smoutd</ClassId>
+  <Date>1999-08-10</Date>
+  <Time>10:10</Time>
+  <Locality>Finca La Zulia, cerca de Vereda La Cascada, Anzoategui, Tolima</Locality>
+  <Latitude>NULL</Latitude>
+  <Longitude>NULL</Longitude>
+  <Elevation>3400</Elevation>
+  <Author>Bernabe Lopez-Lanus</Author>
+  <AuthorID>BYLLSJRVDZ</AuthorID>
+  <Content>Alarm call</Content>
+  <Comments />
+  <Quality>2</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Grallariidae</Family>
+  <Genus>Grallaria</Genus>
+  <Species>quitensis</Species>
+  <Sub-species>quitensis</Sub-species>
+  <VernacularNames>Tawny Antpitta</VernacularNames>
+</Audio>

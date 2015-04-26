@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>18106</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN18106.wav</FileName>
+  <ClassId>ipzbhi</ClassId>
+  <Date>2008-01-25</Date>
+  <Time>10:00</Time>
+  <Locality>Belo Monte, left bank of Rio Xingu, Pará</Locality>
+  <Latitude>-3.3848</Latitude>
+  <Longitude>-51.9245</Longitude>
+  <Elevation>70</Elevation>
+  <Author>Sidnei Dantas</Author>
+  <AuthorID>NNCKQMBGPH</AuthorID>
+  <Content>song</Content>
+  <Comments>not seen</Comments>
+  <Quality>5</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies>Campylorhynchus turdinus</BackgroundSpecies>
+  <Order>Passeriformes</Order>
+  <Family>Turdidae</Family>
+  <Genus>Turdus</Genus>
+  <Species>fumigatus</Species>
+  <Sub-species />
+  <VernacularNames>Cocoa Thrush</VernacularNames>
+</Audio>

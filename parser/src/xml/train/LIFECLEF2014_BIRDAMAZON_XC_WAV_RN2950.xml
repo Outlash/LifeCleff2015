@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>2950</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN2950.wav</FileName>
+  <ClassId>hijhrx</ClassId>
+  <Date>2011-07-05</Date>
+  <Time>09:00</Time>
+  <Locality>Fortaleza, State of Ceará</Locality>
+  <Latitude>-3.7834</Latitude>
+  <Longitude>-38.4834</Longitude>
+  <Elevation>50</Elevation>
+  <Author>Ciro Albano</Author>
+  <AuthorID>MXVQPUKGWW</AuthorID>
+  <Content>Song</Content>
+  <Comments />
+  <Quality>2</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies />
+  <Order>Strigiformes</Order>
+  <Family>Strigidae</Family>
+  <Genus>Megascops</Genus>
+  <Species>choliba</Species>
+  <Sub-species />
+  <VernacularNames>Tropical Screech Owl</VernacularNames>
+</Audio>

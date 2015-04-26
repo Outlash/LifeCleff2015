@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>5920</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN5920.wav</FileName>
+  <ClassId>rogygm</ClassId>
+  <Date>2007-09-23</Date>
+  <Time>09:56</Time>
+  <Locality>Balbina forest, Bandeira, MG</Locality>
+  <Latitude>-15.8062</Latitude>
+  <Longitude>-40.5181</Longitude>
+  <Elevation>800</Elevation>
+  <Author>Nick Athanas</Author>
+  <AuthorID>XRABICUARW</AuthorID>
+  <Content>song</Content>
+  <Comments />
+  <Quality>1</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies>Carpornis melanocephala,Ramphastos vitellinus</BackgroundSpecies>
+  <Order>Passeriformes</Order>
+  <Family>Cotingidae</Family>
+  <Genus>Lipaugus</Genus>
+  <Species>lanioides</Species>
+  <Sub-species />
+  <VernacularNames>Cinnamon-vented Piha</VernacularNames>
+</Audio>

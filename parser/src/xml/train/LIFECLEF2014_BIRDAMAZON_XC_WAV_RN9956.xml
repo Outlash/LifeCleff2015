@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>9956</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN9956.wav</FileName>
+  <ClassId>lddsyh</ClassId>
+  <Date>2003-09-21</Date>
+  <Time>10:55</Time>
+  <Locality>Reserva Natural Palmarí, Rio Javarí, AM</Locality>
+  <Latitude>-4.2889</Latitude>
+  <Longitude>-70.2948</Longitude>
+  <Elevation>80</Elevation>
+  <Author>Jeremy Minns</Author>
+  <AuthorID>DGVLLRYDXS</AuthorID>
+  <Content>Song</Content>
+  <Comments>Terra firme forest.</Comments>
+  <Quality>2</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies>Myrmeciza hemimelaena</BackgroundSpecies>
+  <Order>Passeriformes</Order>
+  <Family>Thamnophilidae</Family>
+  <Genus>Thamnophilus</Genus>
+  <Species>schistaceus</Species>
+  <Sub-species>capitalis</Sub-species>
+  <VernacularNames>Plain-winged Antshrike</VernacularNames>
+</Audio>

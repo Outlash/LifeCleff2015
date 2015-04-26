@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>5622</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN5622.wav</FileName>
+  <ClassId>cqbqgt</ClassId>
+  <Date>2007-09-19</Date>
+  <Time>6:47</Time>
+  <Locality>Mangue, Anchieta, ES</Locality>
+  <Latitude>NULL</Latitude>
+  <Longitude>NULL</Longitude>
+  <Elevation>3</Elevation>
+  <Author>Augusto Alves</Author>
+  <AuthorID>SFAWGULFER</AuthorID>
+  <Content>alarm calls and song</Content>
+  <Comments />
+  <Quality>3</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Furnariidae</Family>
+  <Genus>Dendroplex</Genus>
+  <Species>picus</Species>
+  <Sub-species />
+  <VernacularNames>Straight-billed Woodcreeper</VernacularNames>
+</Audio>

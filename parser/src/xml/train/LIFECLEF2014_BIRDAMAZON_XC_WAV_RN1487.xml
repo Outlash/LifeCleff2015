@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>1487</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN1487.wav</FileName>
+  <ClassId>gtmyeh</ClassId>
+  <Date>2009-01-26</Date>
+  <Time>10:00</Time>
+  <Locality>mata de bambus, margem esquerda rio Tocantins, Minaçu, Goiás</Locality>
+  <Latitude>-13.176</Latitude>
+  <Longitude>-48.161</Longitude>
+  <Elevation>310</Elevation>
+  <Author>Tulio Dornas</Author>
+  <AuthorID>MTUQGBMRNC</AuthorID>
+  <Content>Song</Content>
+  <Comments>Near bank river Tocantins. Forest with bamboos. It was visualized. More informations in Rev. Bras. Ornitol. No prelo.</Comments>
+  <Quality>3</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies />
+  <Order>Piciformes</Order>
+  <Family>Picidae</Family>
+  <Genus>Celeus</Genus>
+  <Species>obrieni</Species>
+  <Sub-species />
+  <VernacularNames>Kaempfer's Woodpecker</VernacularNames>
+</Audio>

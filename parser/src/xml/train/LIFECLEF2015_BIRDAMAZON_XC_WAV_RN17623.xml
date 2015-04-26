@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>17623</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN17623.wav</FileName>
+  <ClassId>nzulxx</ClassId>
+  <Date>2005-08-22</Date>
+  <Time>8:30</Time>
+  <Locality>Tena, Laguna de pedro palo, Cundinamarca</Locality>
+  <Latitude>4.6501</Latitude>
+  <Longitude>-74.3834</Longitude>
+  <Elevation>2000</Elevation>
+  <Author>Oscar Laverde</Author>
+  <AuthorID>WKVKSVMNDZ</AuthorID>
+  <Content>song</Content>
+  <Comments>Pareja</Comments>
+  <Quality>2</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Podicipediformes</Order>
+  <Family>Podicipedidae</Family>
+  <Genus>Podilymbus</Genus>
+  <Species>podiceps</Species>
+  <Sub-species />
+  <VernacularNames>Pied-billed Grebe</VernacularNames>
+</Audio>

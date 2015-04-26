@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>14151</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN14151.wav</FileName>
+  <ClassId>bcmlba</ClassId>
+  <Date>2011-03-17</Date>
+  <Time>6-50</Time>
+  <Locality>16 km w Barquisimeto</Locality>
+  <Latitude>10.034</Latitude>
+  <Longitude>-69.565</Longitude>
+  <Elevation>650</Elevation>
+  <Author>Albert Lastukhin</Author>
+  <AuthorID>LELYWQKUZX</AuthorID>
+  <Content>song</Content>
+  <Comments />
+  <Quality>3</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Charadriiformes</Order>
+  <Family>Scolopacidae</Family>
+  <Genus>Tringa</Genus>
+  <Species>flavipes</Species>
+  <Sub-species />
+  <VernacularNames>Lesser Yellowlegs</VernacularNames>
+</Audio>

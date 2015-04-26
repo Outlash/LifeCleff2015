@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>6633</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN6633.wav</FileName>
+  <ClassId>dfegpk</ClassId>
+  <Date>2001-06-17</Date>
+  <Time>7:16</Time>
+  <Locality>Hyacinth Valley camp, Piaui</Locality>
+  <Latitude>-9.45</Latitude>
+  <Longitude>-45.07</Longitude>
+  <Elevation>?</Elevation>
+  <Author>Paul Donahue</Author>
+  <AuthorID>LLRXADGTBA</AuthorID>
+  <Content>call</Content>
+  <Comments>perched and flight calls</Comments>
+  <Quality>1</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies />
+  <Order>Psittaciformes</Order>
+  <Family>Psittacidae</Family>
+  <Genus>Amazona</Genus>
+  <Species>aestiva</Species>
+  <Sub-species />
+  <VernacularNames>Turquoise-fronted Amazon</VernacularNames>
+</Audio>

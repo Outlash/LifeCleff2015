@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>26445</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN26445.wav</FileName>
+  <ClassId>aecmdb</ClassId>
+  <Date>2010-06-27</Date>
+  <Time>08:53</Time>
+  <Locality>Montagne de Kaw - Roura</Locality>
+  <Latitude>NULL</Latitude>
+  <Longitude>NULL</Longitude>
+  <Elevation>?</Elevation>
+  <Author>Patrick INGREMEAU</Author>
+  <AuthorID>IIVTYSKEYX</AuthorID>
+  <Content>call</Content>
+  <Comments />
+  <Quality>0</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Thamnophilidae</Family>
+  <Genus>Hypocnemis</Genus>
+  <Species>cantator</Species>
+  <Sub-species />
+  <VernacularNames>Guianan Warbling Antbird</VernacularNames>
+</Audio>

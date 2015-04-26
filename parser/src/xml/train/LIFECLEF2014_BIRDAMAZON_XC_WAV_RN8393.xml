@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>8393</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN8393.wav</FileName>
+  <ClassId>pcfxys</ClassId>
+  <Date>2008-08-28</Date>
+  <Time>07:00</Time>
+  <Locality>Novo Progresso, state of Pará</Locality>
+  <Latitude>-7.1501</Latitude>
+  <Longitude>-55.4834</Longitude>
+  <Elevation>100</Elevation>
+  <Author>Sidnei Dantas</Author>
+  <AuthorID>NNCKQMBGPH</AuthorID>
+  <Content>song</Content>
+  <Comments>land forest</Comments>
+  <Quality>0</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies>Saltator grossus</BackgroundSpecies>
+  <Order>Piciformes</Order>
+  <Family>Ramphastidae</Family>
+  <Genus>Ramphastos</Genus>
+  <Species>tucanus</Species>
+  <Sub-species />
+  <VernacularNames>White-throated Toucan</VernacularNames>
+</Audio>

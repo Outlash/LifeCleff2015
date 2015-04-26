@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>23191</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN23191.wav</FileName>
+  <ClassId>uphahj</ClassId>
+  <Date>0000-00-00</Date>
+  <Time>?</Time>
+  <Locality>Río Gazaunta cuenca alta, Miralindo, Medina, Cundinamarca</Locality>
+  <Latitude>4.584167</Latitude>
+  <Longitude>-73.43806</Longitude>
+  <Elevation>1200-2100</Elevation>
+  <Author>Mauricio Álvarez Rebolledo (Colección de Sonidos Ambientales - Instituto Humboldt)</Author>
+  <AuthorID>XMFDPACYJN</AuthorID>
+  <Content>song</Content>
+  <Comments>BSA 1To obtain a wav file of the original recording, please contact csa@humboldt.org.coplayback-used:no</Comments>
+  <Quality>3</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Accipitriformes</Order>
+  <Family>Accipitridae</Family>
+  <Genus>Rupornis</Genus>
+  <Species>magnirostris</Species>
+  <Sub-species />
+  <VernacularNames>Roadside Hawk</VernacularNames>
+</Audio>

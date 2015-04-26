@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>30389</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN30389.wav</FileName>
+  <ClassId>tkoszd</ClassId>
+  <Date>2011-08-01</Date>
+  <Time>19:30</Time>
+  <Locality>Almeirim/Pará</Locality>
+  <Latitude>-1.095</Latitude>
+  <Longitude>-52.653</Longitude>
+  <Elevation>80</Elevation>
+  <Author>Christian B. Andretti</Author>
+  <AuthorID>EZSMXGTXKS</AuthorID>
+  <Content>song</Content>
+  <Comments>Bituba - Selective Loggingbird-seen:yesplayback-used:yes</Comments>
+  <Quality>1</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies>Penelope marail</BackgroundSpecies>
+  <Order>Caprimulgiformes</Order>
+  <Family>Nyctibiidae</Family>
+  <Genus>Nyctibius</Genus>
+  <Species>leucopterus</Species>
+  <Sub-species />
+  <VernacularNames>White-winged Potoo</VernacularNames>
+</Audio>

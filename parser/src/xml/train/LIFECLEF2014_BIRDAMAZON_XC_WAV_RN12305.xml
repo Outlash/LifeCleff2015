@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>12305</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN12305.wav</FileName>
+  <ClassId>uiqpgc</ClassId>
+  <Date>2008-10-10</Date>
+  <Time>07:00</Time>
+  <Locality>Serra Amoado - Laurentino - Santa Catarina</Locality>
+  <Latitude>-27.2262</Latitude>
+  <Longitude>-49.7384</Longitude>
+  <Elevation>550</Elevation>
+  <Author>www.aapimentao.com.br</Author>
+  <AuthorID>VVQBELMRMH</AuthorID>
+  <Content>song</Content>
+  <Comments />
+  <Quality>5</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Turdidae</Family>
+  <Genus>Turdus</Genus>
+  <Species>albicollis</Species>
+  <Sub-species />
+  <VernacularNames>White-necked Thrush</VernacularNames>
+</Audio>

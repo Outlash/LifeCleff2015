@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>30523</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN30523.wav</FileName>
+  <ClassId>jbyowy</ClassId>
+  <Date>2010-09-22</Date>
+  <Time>?</Time>
+  <Locality>Régina, grande Montagne tortue Bélizon</Locality>
+  <Latitude>4.31667</Latitude>
+  <Longitude>-52.1333</Longitude>
+  <Elevation>300</Elevation>
+  <Author>Alexandre Renaudier</Author>
+  <AuthorID>GKADEITXTH</AuthorID>
+  <Content>Song</Content>
+  <Comments>these were originally given as background species: Tolmomyias assimilis, Lophotriccus galeatus, Herpsilochmus stictocephalus, Lanio fulvus, Lepidothrix serena</Comments>
+  <Quality>2</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Thraupidae</Family>
+  <Genus>Lamprospiza</Genus>
+  <Species>melanoleuca</Species>
+  <Sub-species />
+  <VernacularNames>Red-billed Pied Tanager</VernacularNames>
+</Audio>

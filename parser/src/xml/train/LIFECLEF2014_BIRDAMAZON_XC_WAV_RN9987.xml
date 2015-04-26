@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>9987</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN9987.wav</FileName>
+  <ClassId>noifdi</ClassId>
+  <Date>0000-00-00</Date>
+  <Time>07:00</Time>
+  <Locality>APA Capivari Monos, São Paulo, SP</Locality>
+  <Latitude>-23.9556</Latitude>
+  <Longitude>-46.6503</Longitude>
+  <Elevation>760</Elevation>
+  <Author>Marcos Melo</Author>
+  <AuthorID>MRGDYNJGUJ</AuthorID>
+  <Content>flight call</Content>
+  <Comments>a couple</Comments>
+  <Quality>2</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies>Coereba flaveola</BackgroundSpecies>
+  <Order>Psittaciformes</Order>
+  <Family>Psittacidae</Family>
+  <Genus>Triclaria</Genus>
+  <Species>malachitacea</Species>
+  <Sub-species />
+  <VernacularNames>Blue-bellied Parrot</VernacularNames>
+</Audio>

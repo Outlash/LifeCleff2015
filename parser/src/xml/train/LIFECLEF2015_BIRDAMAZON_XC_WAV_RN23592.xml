@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>23592</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN23592.wav</FileName>
+  <ClassId>kzyfin</ClassId>
+  <Date>2011-03-08</Date>
+  <Time>12:23</Time>
+  <Locality>Fazenda Trilhas do Sol, Rio Negro - MS</Locality>
+  <Latitude>NULL</Latitude>
+  <Longitude>NULL</Longitude>
+  <Elevation>400</Elevation>
+  <Author>Renan Campos de Oliveira</Author>
+  <AuthorID>SDARDTGGWP</AuthorID>
+  <Content>call</Content>
+  <Comments>Lifer, birding with Eduardo Patrial</Comments>
+  <Quality>2</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Columbiformes</Order>
+  <Family>Columbidae</Family>
+  <Genus>Claravis</Genus>
+  <Species>pretiosa</Species>
+  <Sub-species />
+  <VernacularNames>Blue Ground Dove</VernacularNames>
+</Audio>

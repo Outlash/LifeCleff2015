@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>26852</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN26852.wav</FileName>
+  <ClassId>pswzyj</ClassId>
+  <Date>2011-11-13</Date>
+  <Time>12:30</Time>
+  <Locality>São Luiz do Paraitinga, São Paulo</Locality>
+  <Latitude>-23.3178</Latitude>
+  <Longitude>-45.1648</Longitude>
+  <Elevation>1000</Elevation>
+  <Author>Paulo Guerra</Author>
+  <AuthorID>NLROPBPDRI</AuthorID>
+  <Content>song</Content>
+  <Comments>bird-seen:yesplayback-used:no</Comments>
+  <Quality>3</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Vireonidae</Family>
+  <Genus>Vireo</Genus>
+  <Species>olivaceus</Species>
+  <Sub-species />
+  <VernacularNames>Red-eyed Vireo</VernacularNames>
+</Audio>

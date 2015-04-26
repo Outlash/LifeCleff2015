@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>30132</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN30132.wav</FileName>
+  <ClassId>dawwtj</ClassId>
+  <Date>2013-02-24</Date>
+  <Time>09:00</Time>
+  <Locality>Cotiporã, Rio Grande do Sul</Locality>
+  <Latitude>-28.9896</Latitude>
+  <Longitude>-51.6976</Longitude>
+  <Elevation>600</Elevation>
+  <Author>João Antônio de B. Vitto</Author>
+  <AuthorID>RIVNLYTULO</AuthorID>
+  <Content>call</Content>
+  <Comments>bird-seen:noplayback-used:no</Comments>
+  <Quality>1</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Trogoniformes</Order>
+  <Family>Trogonidae</Family>
+  <Genus>Trogon</Genus>
+  <Species>surrucura</Species>
+  <Sub-species />
+  <VernacularNames>Surucua Trogon</VernacularNames>
+</Audio>

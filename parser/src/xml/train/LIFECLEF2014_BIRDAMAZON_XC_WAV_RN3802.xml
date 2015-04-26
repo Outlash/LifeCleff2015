@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>3802</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN3802.wav</FileName>
+  <ClassId>inrkmj</ClassId>
+  <Date>2006-12-17</Date>
+  <Time>11:56</Time>
+  <Locality>Near Salto do Pirai, Santa Catarina</Locality>
+  <Latitude>NULL</Latitude>
+  <Longitude>NULL</Longitude>
+  <Elevation>30</Elevation>
+  <Author>Charles Hesse</Author>
+  <AuthorID>FMQSRXIRTH</AuthorID>
+  <Content>Call</Content>
+  <Comments />
+  <Quality>3</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Furnariidae</Family>
+  <Genus>Synallaxis</Genus>
+  <Species>spixi</Species>
+  <Sub-species />
+  <VernacularNames>Spix's Spinetail</VernacularNames>
+</Audio>

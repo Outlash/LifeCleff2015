@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>11273</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN11273.wav</FileName>
+  <ClassId>oxjndd</ClassId>
+  <Date>2009-10-22</Date>
+  <Time>?</Time>
+  <Locality>Fazenda Santa Rita, Parque Nacional da Serra do Itajaí, Indaial, Santa Catarina</Locality>
+  <Latitude>-27.1073</Latitude>
+  <Longitude>-49.1573</Longitude>
+  <Elevation>740</Elevation>
+  <Author>Adrian Eisen Rupp</Author>
+  <AuthorID>AOPMSCIDIA</AuthorID>
+  <Content>song</Content>
+  <Comments />
+  <Quality>1</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies>Clytolaema rubricauda,Carpornis cucullata</BackgroundSpecies>
+  <Order>Strigiformes</Order>
+  <Family>Strigidae</Family>
+  <Genus>Glaucidium</Genus>
+  <Species>minutissimum</Species>
+  <Sub-species />
+  <VernacularNames>East Brazilian Pygmy Owl</VernacularNames>
+</Audio>

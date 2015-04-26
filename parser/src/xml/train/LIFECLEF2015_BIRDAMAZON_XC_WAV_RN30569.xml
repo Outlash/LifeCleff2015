@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>30569</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN30569.wav</FileName>
+  <ClassId>jeidcr</ClassId>
+  <Date>2014-09-15</Date>
+  <Time>07:12</Time>
+  <Locality>Iporá, Iporá, Goiás</Locality>
+  <Latitude>-16.4402</Latitude>
+  <Longitude>-51.1185</Longitude>
+  <Elevation>600</Elevation>
+  <Author>Daniel Blamires</Author>
+  <AuthorID>ZLNOGADASD</AuthorID>
+  <Content>call</Content>
+  <Comments>The specimen was recorded at Nascente Grota Seca municipal park.bird-seen:noplayback-used:no</Comments>
+  <Quality>4</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Thraupidae</Family>
+  <Genus>Thraupis</Genus>
+  <Species>palmarum</Species>
+  <Sub-species />
+  <VernacularNames>Palm Tanager</VernacularNames>
+</Audio>

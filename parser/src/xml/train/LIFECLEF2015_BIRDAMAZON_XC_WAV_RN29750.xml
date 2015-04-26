@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>29750</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN29750.wav</FileName>
+  <ClassId>qiltib</ClassId>
+  <Date>2013-02-07</Date>
+  <Time>17:30</Time>
+  <Locality>Estrada Perdida, Parque Nacional do Viruá, Caracaraí, Roraima</Locality>
+  <Latitude>1.4022</Latitude>
+  <Longitude>-60.9869</Longitude>
+  <Elevation>50</Elevation>
+  <Author>Thiago Orsi Laranjeiras</Author>
+  <AuthorID>PMYLTPLTLT</AuthorID>
+  <Content>song</Content>
+  <Comments>bird-seen:yesplayback-used:yes</Comments>
+  <Quality>2</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies>Galbula galbula</BackgroundSpecies>
+  <Order>Passeriformes</Order>
+  <Family>Thamnophilidae</Family>
+  <Genus>Myrmotherula</Genus>
+  <Species>cherriei</Species>
+  <Sub-species />
+  <VernacularNames>Cherrie's Antwren</VernacularNames>
+</Audio>

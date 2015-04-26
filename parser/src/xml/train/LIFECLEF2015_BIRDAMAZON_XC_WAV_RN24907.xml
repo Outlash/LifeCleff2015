@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>24907</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN24907.wav</FileName>
+  <ClassId>drcmin</ClassId>
+  <Date>2013-06-19</Date>
+  <Time>08:30</Time>
+  <Locality>Route de Guatemala (Kourou)</Locality>
+  <Latitude>5.0901</Latitude>
+  <Longitude>-52.5698</Longitude>
+  <Elevation>0</Elevation>
+  <Author>Michel Giraud-Audine</Author>
+  <AuthorID>WLMNCMVQIR</AuthorID>
+  <Content>call, female</Content>
+  <Comments>bird-seen:no</Comments>
+  <Quality>1</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies>Psarocolius decumanus</BackgroundSpecies>
+  <Order>Passeriformes</Order>
+  <Family>Thamnophilidae</Family>
+  <Genus>Sakesphorus</Genus>
+  <Species>canadensis</Species>
+  <Sub-species>canadensis</Sub-species>
+  <VernacularNames>Black-crested Antshrike</VernacularNames>
+</Audio>

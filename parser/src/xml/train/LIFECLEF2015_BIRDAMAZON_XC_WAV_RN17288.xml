@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>17288</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN17288.wav</FileName>
+  <ClassId>amsvta</ClassId>
+  <Date>2005-01-00</Date>
+  <Time>xx:xx</Time>
+  <Locality>Lepipuerto, Serrania de los Yariguies</Locality>
+  <Latitude>6.4581</Latitude>
+  <Longitude>-73.4576</Longitude>
+  <Elevation>2900</Elevation>
+  <Author>Thomas Donegan</Author>
+  <AuthorID>OXSIOLJJUP</AuthorID>
+  <Content>Flight call of pair</Content>
+  <Comments>Recording gets louder as birds get closer</Comments>
+  <Quality>3</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Psittaciformes</Order>
+  <Family>Psittacidae</Family>
+  <Genus>Amazona</Genus>
+  <Species>mercenarius</Species>
+  <Sub-species />
+  <VernacularNames>Scaly-naped Amazon</VernacularNames>
+</Audio>

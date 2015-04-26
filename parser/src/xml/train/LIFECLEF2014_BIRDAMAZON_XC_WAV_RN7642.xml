@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>7642</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN7642.wav</FileName>
+  <ClassId>wplnms</ClassId>
+  <Date>2010-12-14</Date>
+  <Time>?</Time>
+  <Locality>Floresta Nacional do Tapajós, Bacia 165, Santarem, Para</Locality>
+  <Latitude>-2.7539</Latitude>
+  <Longitude>-54.997</Longitude>
+  <Elevation>?</Elevation>
+  <Author>Nargila Moura</Author>
+  <AuthorID>CWEIBYBYYD</AuthorID>
+  <Content>song</Content>
+  <Comments>Primary forest</Comments>
+  <Quality>3</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies>Lipaugus vociferans,Ramphastos vitellinus,Ramphocelus carbo,Willisornis poecilinotus,Myiarchus tuberculifer</BackgroundSpecies>
+  <Order>Trogoniformes</Order>
+  <Family>Trogonidae</Family>
+  <Genus>Trogon</Genus>
+  <Species>melanurus</Species>
+  <Sub-species>melanurus</Sub-species>
+  <VernacularNames>Black-tailed Trogon</VernacularNames>
+</Audio>

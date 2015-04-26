@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>14104</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN14104.wav</FileName>
+  <ClassId>xpjomg</ClassId>
+  <Date>2011-02-12</Date>
+  <Time>07:00</Time>
+  <Locality>Rio Blanco Reserve. Manizales. Caldas</Locality>
+  <Latitude>5.1278</Latitude>
+  <Longitude>-75.4628</Longitude>
+  <Elevation>1100</Elevation>
+  <Author>Oswaldo Cortes</Author>
+  <AuthorID>VVDRVZCVWW</AuthorID>
+  <Content>song</Content>
+  <Comments />
+  <Quality>2</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Grallariidae</Family>
+  <Genus>Grallaria</Genus>
+  <Species>rufocinerea</Species>
+  <Sub-species />
+  <VernacularNames>Bicolored Antpitta</VernacularNames>
+</Audio>

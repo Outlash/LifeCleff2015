@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>27975</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN27975.wav</FileName>
+  <ClassId>vkdyyr</ClassId>
+  <Date>2014-07-02</Date>
+  <Time>11:07</Time>
+  <Locality>Suaita, Santander</Locality>
+  <Latitude>6.1064</Latitude>
+  <Longitude>-73.4556</Longitude>
+  <Elevation>1600</Elevation>
+  <Author>Oscar Humberto Marin-Gomez</Author>
+  <AuthorID>CSUHASNRSU</AuthorID>
+  <Content>song</Content>
+  <Comments>Tres individuos en Lek. Catalog number Suaita 1799bird-seen:yesplayback-used:no</Comments>
+  <Quality>1</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Apodiformes</Order>
+  <Family>Trochilidae</Family>
+  <Genus>Phaethornis</Genus>
+  <Species>guy</Species>
+  <Sub-species />
+  <VernacularNames>Green Hermit</VernacularNames>
+</Audio>

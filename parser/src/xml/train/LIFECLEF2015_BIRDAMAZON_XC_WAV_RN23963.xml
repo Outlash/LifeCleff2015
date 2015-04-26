@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>23963</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN23963.wav</FileName>
+  <ClassId>wstttv</ClassId>
+  <Date>2000-06-03</Date>
+  <Time>am</Time>
+  <Locality>Reserva La Forzosa (Vereda Roble arriba), Anori, Antioquia</Locality>
+  <Latitude>NULL</Latitude>
+  <Longitude>NULL</Longitude>
+  <Elevation>?</Elevation>
+  <Author>Bernabe Lopez-Lanus</Author>
+  <AuthorID>BYLLSJRVDZ</AuthorID>
+  <Content>Group calls</Content>
+  <Comments />
+  <Quality>2</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Icteridae</Family>
+  <Genus>Hypopyrrhus</Genus>
+  <Species>pyrohypogaster</Species>
+  <Sub-species />
+  <VernacularNames>Red-bellied Grackle</VernacularNames>
+</Audio>

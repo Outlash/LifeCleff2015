@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>12696</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN12696.wav</FileName>
+  <ClassId>noifdi</ClassId>
+  <Date>2012-03-21</Date>
+  <Time>10:15</Time>
+  <Locality>Rio dos Bugres, Vidal Ramos, Santa Catarina</Locality>
+  <Latitude>NULL</Latitude>
+  <Longitude>NULL</Longitude>
+  <Elevation>573</Elevation>
+  <Author>Douglas Meyer</Author>
+  <AuthorID>WTLCUXQQUD</AuthorID>
+  <Content>song</Content>
+  <Comments />
+  <Quality>3</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies />
+  <Order>Psittaciformes</Order>
+  <Family>Psittacidae</Family>
+  <Genus>Triclaria</Genus>
+  <Species>malachitacea</Species>
+  <Sub-species />
+  <VernacularNames>Blue-bellied Parrot</VernacularNames>
+</Audio>

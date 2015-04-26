@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>23519</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN23519.wav</FileName>
+  <ClassId>krpshi</ClassId>
+  <Date>2008-04-00</Date>
+  <Time>?:?</Time>
+  <Locality>Caura - Las Trincheras</Locality>
+  <Latitude>6.963</Latitude>
+  <Longitude>-64.899</Longitude>
+  <Elevation>50</Elevation>
+  <Author>Joe Klaiber</Author>
+  <AuthorID>TNPOVFLZMY</AuthorID>
+  <Content>song</Content>
+  <Comments>link:http://www.birds-venezuela.de</Comments>
+  <Quality>2</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Thamnophilidae</Family>
+  <Genus>Cymbilaimus</Genus>
+  <Species>lineatus</Species>
+  <Sub-species />
+  <VernacularNames>Fasciated Antshrike</VernacularNames>
+</Audio>

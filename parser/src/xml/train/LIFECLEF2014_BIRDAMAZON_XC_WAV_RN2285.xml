@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>2285</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN2285.wav</FileName>
+  <ClassId>ssdpyu</ClassId>
+  <Date>2012-09-08</Date>
+  <Time>10:00</Time>
+  <Locality>Ilhabela, São Paulo</Locality>
+  <Latitude>-23.8312</Latitude>
+  <Longitude>-45.3495</Longitude>
+  <Elevation>190</Elevation>
+  <Author>Eduardo D. Schultz</Author>
+  <AuthorID>QYOZQITVAC</AuthorID>
+  <Content>song</Content>
+  <Comments>Dense primary forestbird-seen:yesplayback-used:yes</Comments>
+  <Quality>2</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Troglodytidae</Family>
+  <Genus>Cantorchilus</Genus>
+  <Species>longirostris</Species>
+  <Sub-species />
+  <VernacularNames>Long-billed Wren</VernacularNames>
+</Audio>

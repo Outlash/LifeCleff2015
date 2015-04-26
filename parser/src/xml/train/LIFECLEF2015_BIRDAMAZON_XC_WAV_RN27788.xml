@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>27788</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN27788.wav</FileName>
+  <ClassId>fknipa</ClassId>
+  <Date>2011-06-12</Date>
+  <Time>16:30</Time>
+  <Locality>Mitu, Vaupes</Locality>
+  <Latitude>1.2598</Latitude>
+  <Longitude>-70.2367</Longitude>
+  <Elevation>190</Elevation>
+  <Author>Andrew Spencer</Author>
+  <AuthorID>CDTGHVBGZP</AuthorID>
+  <Content>call, song</Content>
+  <Comments>song and multiple call types from a pair of birds in response to playback.  The shorter songs are from the female bird.</Comments>
+  <Quality>1</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Thamnophilidae</Family>
+  <Genus>Thamnophilus</Genus>
+  <Species>nigrocinereus</Species>
+  <Sub-species>cinereoniger</Sub-species>
+  <VernacularNames>Blackish-grey Antshrike</VernacularNames>
+</Audio>

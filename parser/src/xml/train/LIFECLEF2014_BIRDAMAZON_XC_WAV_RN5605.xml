@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>5605</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN5605.wav</FileName>
+  <ClassId>jpjrlh</ClassId>
+  <Date>2010-08-28</Date>
+  <Time>07:03</Time>
+  <Locality>Pedra de Baú, Campos do Jordao, SP</Locality>
+  <Latitude>-22.6834</Latitude>
+  <Longitude>-45.6501</Longitude>
+  <Elevation>1500</Elevation>
+  <Author>Herman van Oosten</Author>
+  <AuthorID>SNUDCZVUQK</AuthorID>
+  <Content>song?</Content>
+  <Comments>WHAT A BIRD! Song of male, at close range (10m?), those spots, absolute a very handsome bird!</Comments>
+  <Quality>1</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Thamnophilidae</Family>
+  <Genus>Mackenziaena</Genus>
+  <Species>leachii</Species>
+  <Sub-species />
+  <VernacularNames>Large-tailed Antshrike</VernacularNames>
+</Audio>

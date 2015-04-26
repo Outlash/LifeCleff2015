@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>14228</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN14228.wav</FileName>
+  <ClassId>pbswuq</ClassId>
+  <Date>2012-07-09</Date>
+  <Time>07:41</Time>
+  <Locality>Cotiporã, Rio Grande do Sul</Locality>
+  <Latitude>-29.0071</Latitude>
+  <Longitude>-51.6787</Longitude>
+  <Elevation>360</Elevation>
+  <Author>Douglas Meyer</Author>
+  <AuthorID>MNENFHYTAE</AuthorID>
+  <Content>song</Content>
+  <Comments>bird-seen:yesplayback-used:no</Comments>
+  <Quality>0</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Thraupidae</Family>
+  <Genus>Embernagra</Genus>
+  <Species>platensis</Species>
+  <Sub-species />
+  <VernacularNames>Pampa Finch</VernacularNames>
+</Audio>

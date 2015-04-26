@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>14272</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN14272.wav</FileName>
+  <ClassId>knpxmw</ClassId>
+  <Date>2005-06-00</Date>
+  <Time>6:23</Time>
+  <Locality>Mancha Verde, São Joao dos Patos - Maranhao State</Locality>
+  <Latitude>-6.5942</Latitude>
+  <Longitude>-43.617</Longitude>
+  <Elevation>?</Elevation>
+  <Author>Guilherme R R Brito</Author>
+  <AuthorID>OAYOBWYOOM</AuthorID>
+  <Content>call</Content>
+  <Comments>morning calls, three individuals</Comments>
+  <Quality>3</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Piciformes</Order>
+  <Family>Bucconidae</Family>
+  <Genus>Monasa</Genus>
+  <Species>nigrifrons</Species>
+  <Sub-species />
+  <VernacularNames>Black-fronted Nunbird</VernacularNames>
+</Audio>

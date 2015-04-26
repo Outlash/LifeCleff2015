@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>29678</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN29678.wav</FileName>
+  <ClassId>maufjv</ClassId>
+  <Date>2000-09-30</Date>
+  <Time>09:26</Time>
+  <Locality>Entre La Romelia y El Planchon (PNN Munchique), Charguayaco, Vereda La Romelia, Mpio El Tambo, Cauca</Locality>
+  <Latitude>NULL</Latitude>
+  <Longitude>NULL</Longitude>
+  <Elevation>2300</Elevation>
+  <Author>Bernabe Lopez-Lanus</Author>
+  <AuthorID>BYLLSJRVDZ</AuthorID>
+  <Content>Song</Content>
+  <Comments />
+  <Quality>1</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Emberizidae</Family>
+  <Genus>Atlapetes</Genus>
+  <Species>latinuchus</Species>
+  <Sub-species>caucae</Sub-species>
+  <VernacularNames>Rufous-naped Brush Finch</VernacularNames>
+</Audio>

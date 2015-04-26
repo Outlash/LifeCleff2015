@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>6865</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN6865.wav</FileName>
+  <ClassId>mjvnht</ClassId>
+  <Date>2013-02-17</Date>
+  <Time>11:00</Time>
+  <Locality>Sao Jose dos Campos, state of Sao Paulo</Locality>
+  <Latitude>-23.0401</Latitude>
+  <Longitude>-46.0328</Longitude>
+  <Elevation>700</Elevation>
+  <Author>GABRIEL LEITE</Author>
+  <AuthorID>TGBFXDVERJ</AuthorID>
+  <Content>song</Content>
+  <Comments>bird-seen:noplayback-used:yes</Comments>
+  <Quality>1</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Rhinocryptidae</Family>
+  <Genus>Psilorhamphus</Genus>
+  <Species>guttatus</Species>
+  <Sub-species />
+  <VernacularNames>Spotted Bamboowren</VernacularNames>
+</Audio>

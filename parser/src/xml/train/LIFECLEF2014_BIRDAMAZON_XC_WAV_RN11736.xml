@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>11736</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN11736.wav</FileName>
+  <ClassId>coqwwn</ClassId>
+  <Date>2013-01-26</Date>
+  <Time>14:00</Time>
+  <Locality>Boa Nova, Wet Forest, state of Bahia</Locality>
+  <Latitude>-14.3834</Latitude>
+  <Longitude>-40.1001</Longitude>
+  <Elevation>700</Elevation>
+  <Author>Dan Lane</Author>
+  <AuthorID>WOEAFQRMUD</AuthorID>
+  <Content>song</Content>
+  <Comments>Natural songs from a male perched about 5m up in small trees along edge of open grassy marsh at valley bottom.bird-seen:yesplayback-used:no</Comments>
+  <Quality>2</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies>Cyclarhis gujanensis,Todirostrum poliocephalum</BackgroundSpecies>
+  <Order>Passeriformes</Order>
+  <Family>Thraupidae</Family>
+  <Genus>Sporophila</Genus>
+  <Species>leucoptera</Species>
+  <Sub-species />
+  <VernacularNames>White-bellied Seedeater</VernacularNames>
+</Audio>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>28593</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN28593.wav</FileName>
+  <ClassId>knpxmw</ClassId>
+  <Date>2011-09-18</Date>
+  <Time>16:32</Time>
+  <Locality>Cristalino Jungle Lodge, MT</Locality>
+  <Latitude>-9.5981</Latitude>
+  <Longitude>-55.932</Longitude>
+  <Elevation>260</Elevation>
+  <Author>Eric DeFonso</Author>
+  <AuthorID>KTLCZCRCQX</AuthorID>
+  <Content>call</Content>
+  <Comments>Whimpers. Along the Caja trail near the Rio Cristalino, in Igapo.bird-seen:noplayback-used:no</Comments>
+  <Quality>2</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Piciformes</Order>
+  <Family>Bucconidae</Family>
+  <Genus>Monasa</Genus>
+  <Species>nigrifrons</Species>
+  <Sub-species />
+  <VernacularNames>Black-fronted Nunbird</VernacularNames>
+</Audio>

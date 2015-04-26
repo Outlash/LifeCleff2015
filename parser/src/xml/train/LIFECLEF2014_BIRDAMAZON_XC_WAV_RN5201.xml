@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>5201</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN5201.wav</FileName>
+  <ClassId>yplahx</ClassId>
+  <Date>2011-02-15</Date>
+  <Time>11:05</Time>
+  <Locality>Parque Estadual Intervales, SP</Locality>
+  <Latitude>-24.2759</Latitude>
+  <Longitude>-48.4181</Longitude>
+  <Elevation>850</Elevation>
+  <Author>Daniel Lane</Author>
+  <AuthorID>WOEAFQRMUD</AuthorID>
+  <Content>song</Content>
+  <Comments>Song well after playback, two birds in vine tangle about 6m up in secondary forest with bamboo understory.</Comments>
+  <Quality>3</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies>Attila phoenicurus,Anabazenops fuscus,Euphonia pectoralis</BackgroundSpecies>
+  <Order>Passeriformes</Order>
+  <Family>Polioptilidae</Family>
+  <Genus>Ramphocaenus</Genus>
+  <Species>melanurus</Species>
+  <Sub-species>melanurus</Sub-species>
+  <VernacularNames>Long-billed Gnatwren</VernacularNames>
+</Audio>

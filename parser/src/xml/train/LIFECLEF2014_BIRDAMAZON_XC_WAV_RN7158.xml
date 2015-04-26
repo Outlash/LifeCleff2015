@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>7158</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN7158.wav</FileName>
+  <ClassId>iutawf</ClassId>
+  <Date>2000-08-30</Date>
+  <Time>07:24</Time>
+  <Locality>Agua Fria Road, Chapada dos Guimaraes, MT</Locality>
+  <Latitude>-15.1</Latitude>
+  <Longitude>-55.61667</Longitude>
+  <Elevation>400</Elevation>
+  <Author>Jeremy Minns</Author>
+  <AuthorID>DGVLLRYDXS</AuthorID>
+  <Content>Song</Content>
+  <Comments>Cerrado.</Comments>
+  <Quality>2</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Thamnophilidae</Family>
+  <Genus>Formicivora</Genus>
+  <Species>rufa</Species>
+  <Sub-species>rufa</Sub-species>
+  <VernacularNames>Rusty-backed Antwren</VernacularNames>
+</Audio>

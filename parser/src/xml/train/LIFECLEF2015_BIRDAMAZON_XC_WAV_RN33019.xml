@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>33019</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN33019.wav</FileName>
+  <ClassId>bfwanm</ClassId>
+  <Date>2008-05-03</Date>
+  <Time>10:00</Time>
+  <Locality>Quebrada la Vieja</Locality>
+  <Latitude>NULL</Latitude>
+  <Longitude>NULL</Longitude>
+  <Elevation>2500</Elevation>
+  <Author>Oswaldo Cortes</Author>
+  <AuthorID>VVDRVZCVWW</AuthorID>
+  <Content>call</Content>
+  <Comments />
+  <Quality>3</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Galliformes</Order>
+  <Family>Cracidae</Family>
+  <Genus>Penelope</Genus>
+  <Species>montagnii</Species>
+  <Sub-species />
+  <VernacularNames>Andean Guan</VernacularNames>
+</Audio>

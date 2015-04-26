@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>11475</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN11475.wav</FileName>
+  <ClassId>ebxlim</ClassId>
+  <Date>2008-05-17</Date>
+  <Time>morning</Time>
+  <Locality>Region of Mutum River, Barão de Melgaço, MT</Locality>
+  <Latitude>-16.353</Latitude>
+  <Longitude>-55.852</Longitude>
+  <Elevation>140</Elevation>
+  <Author>Antonio Silveira</Author>
+  <AuthorID>NBJQSQJRYH</AuthorID>
+  <Content>?, song</Content>
+  <Comments>bird-seen:yesplayback-used:no</Comments>
+  <Quality>1</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Thamnophilidae</Family>
+  <Genus>Taraba</Genus>
+  <Species>major</Species>
+  <Sub-species />
+  <VernacularNames>Great Antshrike</VernacularNames>
+</Audio>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>15569</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN15569.wav</FileName>
+  <ClassId>msoptg</ClassId>
+  <Date>2008-01-27</Date>
+  <Time>08:45</Time>
+  <Locality>Hato Pinero, Cojedes</Locality>
+  <Latitude>8.9498</Latitude>
+  <Longitude>-68.0831</Longitude>
+  <Elevation>70</Elevation>
+  <Author>Daniel Lane</Author>
+  <AuthorID>WOEAFQRMUD</AuthorID>
+  <Content>call</Content>
+  <Comments>Calls from a single bird after flying across a creek and walking along bank.</Comments>
+  <Quality>1</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies>Parkesia noveboracensis,Fluvicola pica</BackgroundSpecies>
+  <Order>Eurypygiformes</Order>
+  <Family>Eurypygidae</Family>
+  <Genus>Eurypyga</Genus>
+  <Species>helias</Species>
+  <Sub-species>helias</Sub-species>
+  <VernacularNames>Sunbittern</VernacularNames>
+</Audio>

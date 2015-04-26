@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>24621</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN24621.wav</FileName>
+  <ClassId>rxywkl</ClassId>
+  <Date>2010-03-19</Date>
+  <Time>18:15</Time>
+  <Locality>Honey Pond, Karanambu Ranch, Guyana</Locality>
+  <Latitude>NULL</Latitude>
+  <Longitude>NULL</Longitude>
+  <Elevation>100</Elevation>
+  <Author>Charlie Vogt</Author>
+  <AuthorID>NYTXYAQSTH</AuthorID>
+  <Content>song</Content>
+  <Comments>natural vocalization, seen well</Comments>
+  <Quality>2</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Tyrannidae</Family>
+  <Genus>Phaeomyias</Genus>
+  <Species>murina</Species>
+  <Sub-species>wagae</Sub-species>
+  <VernacularNames>Mouse-colored Tyrannulet</VernacularNames>
+</Audio>

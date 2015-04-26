@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>26359</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN26359.wav</FileName>
+  <ClassId>kzvpsl</ClassId>
+  <Date>2012-06-28</Date>
+  <Time>07:36</Time>
+  <Locality>San Jose de Guaviare - Departamento del Guaviare</Locality>
+  <Latitude>2.667</Latitude>
+  <Longitude>-72.615</Longitude>
+  <Elevation>50</Elevation>
+  <Author>Oswaldo Cortes</Author>
+  <AuthorID>VVDRVZCVWW</AuthorID>
+  <Content>song</Content>
+  <Comments />
+  <Quality>5</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Troglodytidae</Family>
+  <Genus>Campylorhynchus</Genus>
+  <Species>turdinus</Species>
+  <Sub-species />
+  <VernacularNames>Thrush-like Wren</VernacularNames>
+</Audio>

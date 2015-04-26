@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>25588</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN25588.wav</FileName>
+  <ClassId>nuejcm</ClassId>
+  <Date>2013-04-24</Date>
+  <Time>00:30</Time>
+  <Locality>Dourado, São Paulo</Locality>
+  <Latitude>-22.0945</Latitude>
+  <Longitude>-48.2588</Longitude>
+  <Elevation>478</Elevation>
+  <Author>Robson Silva e Silva</Author>
+  <AuthorID>WZSVLIHYQF</AuthorID>
+  <Content>song</Content>
+  <Comments>bird-seen:noplayback-used:yes</Comments>
+  <Quality>2</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Strigiformes</Order>
+  <Family>Strigidae</Family>
+  <Genus>Aegolius</Genus>
+  <Species>harrisii</Species>
+  <Sub-species>iheringi</Sub-species>
+  <VernacularNames>Buff-fronted Owl</VernacularNames>
+</Audio>

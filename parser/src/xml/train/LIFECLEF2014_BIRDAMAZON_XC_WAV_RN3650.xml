@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>3650</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN3650.wav</FileName>
+  <ClassId>zhxbyo</ClassId>
+  <Date>2005-09-16</Date>
+  <Time>09:39</Time>
+  <Locality>São Pedro, Garanhuns, Pernambuco</Locality>
+  <Latitude>-8.836223</Latitude>
+  <Longitude>-36.470833</Longitude>
+  <Elevation>750</Elevation>
+  <Author>Glauco Alves Pereira</Author>
+  <AuthorID>ZWEROGGYVP</AuthorID>
+  <Content>call, song</Content>
+  <Comments />
+  <Quality>4</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Tyrannidae</Family>
+  <Genus>Serpophaga</Genus>
+  <Species>subcristata</Species>
+  <Sub-species />
+  <VernacularNames>White-crested Tyrannulet</VernacularNames>
+</Audio>

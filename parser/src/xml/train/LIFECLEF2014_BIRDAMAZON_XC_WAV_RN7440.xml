@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>7440</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN7440.wav</FileName>
+  <ClassId>kcjurp</ClassId>
+  <Date>1997-07-04</Date>
+  <Time>15:36</Time>
+  <Locality>Itatiaia National Park. Rio Maromba valley</Locality>
+  <Latitude>-22.4001</Latitude>
+  <Longitude>-44.6667</Longitude>
+  <Elevation>1250</Elevation>
+  <Author>Jeremy Minns</Author>
+  <AuthorID>DGVLLRYDXS</AuthorID>
+  <Content>Song</Content>
+  <Comments>Maromba ('Jeep') trail. Montane forest.</Comments>
+  <Quality>2</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Thraupidae</Family>
+  <Genus>Cissopis</Genus>
+  <Species>leverianus</Species>
+  <Sub-species>major</Sub-species>
+  <VernacularNames>Magpie Tanager</VernacularNames>
+</Audio>

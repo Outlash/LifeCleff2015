@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>8974</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN8974.wav</FileName>
+  <ClassId>mryser</ClassId>
+  <Date>2008-01-13</Date>
+  <Time>15:40</Time>
+  <Locality>açude de pesque-pague, à margem da BR482, a proximadamente 5km da cidade de Espera Feliz/MG.</Locality>
+  <Latitude>NULL</Latitude>
+  <Longitude>NULL</Longitude>
+  <Elevation>740</Elevation>
+  <Author>Fabiano de Souza</Author>
+  <AuthorID>JMXJUGMNJY</AuthorID>
+  <Content>call</Content>
+  <Comments>dois machos adultos</Comments>
+  <Quality>3</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies>Volatinia jacarina,Furnarius rufus,Zonotrichia capensis,Gnorimopsar chopi</BackgroundSpecies>
+  <Order>Gruiformes</Order>
+  <Family>Rallidae</Family>
+  <Genus>Gallinula</Genus>
+  <Species>galeata</Species>
+  <Sub-species />
+  <VernacularNames>Common Gallinule</VernacularNames>
+</Audio>

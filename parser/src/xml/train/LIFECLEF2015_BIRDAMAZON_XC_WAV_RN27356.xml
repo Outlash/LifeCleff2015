@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>27356</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN27356.wav</FileName>
+  <ClassId>bogxos</ClassId>
+  <Date>1993-01-19</Date>
+  <Time>?</Time>
+  <Locality>Meta, Guamal, Hacienda Mozambique</Locality>
+  <Latitude>3.950556</Latitude>
+  <Longitude>-73.96667</Longitude>
+  <Elevation />
+  <Author>Gary Stiles (Colección de Sonidos Ambientales - Instituto Humboldt)</Author>
+  <AuthorID>XMFDPACYJN</AuthorID>
+  <Content>song</Content>
+  <Comments>BSA 11001To obtain a wav file of the original recording, please contact csa@humboldt.org.cobird-seen:noplayback-used:no</Comments>
+  <Quality>1</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Tyrannidae</Family>
+  <Genus>Megarynchus</Genus>
+  <Species>pitangua</Species>
+  <Sub-species />
+  <VernacularNames>Boat-billed Flycatcher</VernacularNames>
+</Audio>

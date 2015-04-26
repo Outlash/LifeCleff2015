@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>23310</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN23310.wav</FileName>
+  <ClassId>omrceb</ClassId>
+  <Date>2011-10-01</Date>
+  <Time>06:54</Time>
+  <Locality>Rio Acima, Minas Gerais</Locality>
+  <Latitude>-20.173</Latitude>
+  <Longitude>-43.8233</Longitude>
+  <Elevation>950</Elevation>
+  <Author>Luiz Gabriel Mazzoni</Author>
+  <AuthorID>MPOKMOFDDX</AuthorID>
+  <Content>call, song</Content>
+  <Comments>bird-seen:yesplayback-used:yes</Comments>
+  <Quality>1</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies>Philydor rufum,Myiothlypis leucoblephara,Hylophilus amaurocephalus,Malacoptila striata</BackgroundSpecies>
+  <Order>Passeriformes</Order>
+  <Family>Furnariidae</Family>
+  <Genus>Anabazenops</Genus>
+  <Species>fuscus</Species>
+  <Sub-species />
+  <VernacularNames>White-collared Foliage-gleaner</VernacularNames>
+</Audio>

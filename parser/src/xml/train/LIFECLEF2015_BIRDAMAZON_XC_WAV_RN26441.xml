@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>26441</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN26441.wav</FileName>
+  <ClassId>mfqpdt</ClassId>
+  <Date>2011-06-14</Date>
+  <Time>08:50</Time>
+  <Locality>Mitu, Vaupes</Locality>
+  <Latitude>1.2598</Latitude>
+  <Longitude>-70.2367</Longitude>
+  <Elevation>190</Elevation>
+  <Author>Andrew Spencer</Author>
+  <AuthorID>CDTGHVBGZP</AuthorID>
+  <Content>call</Content>
+  <Comments>call in response to playback</Comments>
+  <Quality>1</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Piciformes</Order>
+  <Family>Galbulidae</Family>
+  <Genus>Galbula</Genus>
+  <Species>leucogastra</Species>
+  <Sub-species />
+  <VernacularNames>Bronzy Jacamar</VernacularNames>
+</Audio>

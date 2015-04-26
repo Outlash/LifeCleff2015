@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>22903</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN22903.wav</FileName>
+  <ClassId>iazbts</ClassId>
+  <Date>2013-10-27</Date>
+  <Time>09:00</Time>
+  <Locality>Lago de Tota ( Boyaca)</Locality>
+  <Latitude>5.5292</Latitude>
+  <Longitude>-72.9369</Longitude>
+  <Elevation>3020</Elevation>
+  <Author>Johana Zuluaga-Bonilla</Author>
+  <AuthorID>USBAJUDGYL</AuthorID>
+  <Content>male, song</Content>
+  <Comments>bird-seen:yesplayback-used:no</Comments>
+  <Quality>2</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Icteridae</Family>
+  <Genus>Quiscalus</Genus>
+  <Species>lugubris</Species>
+  <Sub-species />
+  <VernacularNames>Carib Grackle</VernacularNames>
+</Audio>

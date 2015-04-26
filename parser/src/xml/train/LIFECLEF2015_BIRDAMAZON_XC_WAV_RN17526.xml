@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>17526</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN17526.wav</FileName>
+  <ClassId>mddteh</ClassId>
+  <Date>2012-11-22</Date>
+  <Time>06:30</Time>
+  <Locality>Bahía Solano, Choco</Locality>
+  <Latitude>6.1114</Latitude>
+  <Longitude>-77.372</Longitude>
+  <Elevation>20</Elevation>
+  <Author>Oswaldo Cortes</Author>
+  <AuthorID>VVDRVZCVWW</AuthorID>
+  <Content>call, song</Content>
+  <Comments />
+  <Quality>4</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies>Laterallus albigularis</BackgroundSpecies>
+  <Order>Passeriformes</Order>
+  <Family>Tyrannidae</Family>
+  <Genus>Myiopagis</Genus>
+  <Species>gaimardii</Species>
+  <Sub-species />
+  <VernacularNames>Forest Elaenia</VernacularNames>
+</Audio>

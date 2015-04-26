@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>24843</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN24843.wav</FileName>
+  <ClassId>glsklv</ClassId>
+  <Date>2000-09-06</Date>
+  <Time>07:14</Time>
+  <Locality>Parque Nacional da Amazônia</Locality>
+  <Latitude>-4.5167</Latitude>
+  <Longitude>-56.3001</Longitude>
+  <Elevation>90</Elevation>
+  <Author>Jeremy Minns</Author>
+  <AuthorID>DGVLLRYDXS</AuthorID>
+  <Content>call</Content>
+  <Comments>ssp. presumed from location. Terra firme forest.bird-seen:yesplayback-used:no</Comments>
+  <Quality>2</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Tyrannidae</Family>
+  <Genus>Platyrinchus</Genus>
+  <Species>saturatus</Species>
+  <Sub-species>pallidiventris</Sub-species>
+  <VernacularNames>Cinnamon-crested Spadebill</VernacularNames>
+</Audio>

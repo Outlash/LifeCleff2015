@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>5323</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN5323.wav</FileName>
+  <ClassId>fanvnq</ClassId>
+  <Date>2001-06-20</Date>
+  <Time>16:35</Time>
+  <Locality>Hyacinth Valley camp, Piaui</Locality>
+  <Latitude>-9.45</Latitude>
+  <Longitude>-45.07</Longitude>
+  <Elevation>?</Elevation>
+  <Author>Paul Donahue</Author>
+  <AuthorID>LLRXADGTBA</AuthorID>
+  <Content>call</Content>
+  <Comments>insistent 'peer-peer'</Comments>
+  <Quality>2</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies>Glaucidium brasilianum</BackgroundSpecies>
+  <Order>Passeriformes</Order>
+  <Family>Tyrannidae</Family>
+  <Genus>Elaenia</Genus>
+  <Species>cristata</Species>
+  <Sub-species />
+  <VernacularNames>Plain-crested Elaenia</VernacularNames>
+</Audio>

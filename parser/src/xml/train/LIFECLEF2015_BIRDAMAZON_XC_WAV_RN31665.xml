@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>31665</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN31665.wav</FileName>
+  <ClassId>bthqkm</ClassId>
+  <Date>2014-04-06</Date>
+  <Time>09:00</Time>
+  <Locality>Imataca Forest Reserve  Bolívar State</Locality>
+  <Latitude>7.9897</Latitude>
+  <Longitude>-61.7624</Longitude>
+  <Elevation>320</Elevation>
+  <Author>Thore Noernberg</Author>
+  <AuthorID>TTSQGWDDGW</AuthorID>
+  <Content>call</Content>
+  <Comments>one year old chick calling from a giant kapok tree at the BBC Tower - Imataca Forest Reserve bird-seen:yesplayback-used:no</Comments>
+  <Quality>1</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Accipitriformes</Order>
+  <Family>Accipitridae</Family>
+  <Genus>Harpia</Genus>
+  <Species>harpyja</Species>
+  <Sub-species />
+  <VernacularNames>Harpy Eagle</VernacularNames>
+</Audio>

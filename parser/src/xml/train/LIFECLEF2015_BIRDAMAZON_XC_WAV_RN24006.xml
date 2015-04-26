@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>24006</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN24006.wav</FileName>
+  <ClassId>lgdqns</ClassId>
+  <Date>2007-04-02</Date>
+  <Time>07:00</Time>
+  <Locality>Gran Sabana-Qda. Pacheco</Locality>
+  <Latitude>5.1039</Latitude>
+  <Longitude>-61.1598</Longitude>
+  <Elevation>1000</Elevation>
+  <Author>Doug Knapp</Author>
+  <AuthorID>BHRXQZEQFL</AuthorID>
+  <Content>Flock calls</Content>
+  <Comments>Flock in Moriche Palms. Mixed with Chestnut-fronted Macaws.</Comments>
+  <Quality>1</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Psittaciformes</Order>
+  <Family>Psittacidae</Family>
+  <Genus>Amazona</Genus>
+  <Species>amazonica</Species>
+  <Sub-species />
+  <VernacularNames>Orange-winged Amazon</VernacularNames>
+</Audio>

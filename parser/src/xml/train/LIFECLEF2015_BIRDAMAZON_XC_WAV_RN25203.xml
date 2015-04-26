@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>25203</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN25203.wav</FileName>
+  <ClassId>qtegfa</ClassId>
+  <Date>2011-01-26</Date>
+  <Time>AM</Time>
+  <Locality>Tapajos National Forest, Bacia 363, Santarem</Locality>
+  <Latitude>-3.2939</Latitude>
+  <Longitude>-54.9978</Longitude>
+  <Elevation>?</Elevation>
+  <Author>Bradley Davis</Author>
+  <AuthorID>YNXJLOESBB</AuthorID>
+  <Content>call</Content>
+  <Comments>Visual ID</Comments>
+  <Quality>1</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies>Lipaugus vociferans,Querula purpurata</BackgroundSpecies>
+  <Order>Apodiformes</Order>
+  <Family>Trochilidae</Family>
+  <Genus>Phaethornis</Genus>
+  <Species>superciliosus</Species>
+  <Sub-species />
+  <VernacularNames>Long-tailed Hermit</VernacularNames>
+</Audio>

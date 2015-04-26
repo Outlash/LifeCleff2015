@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>29413</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN29413.wav</FileName>
+  <ClassId>qqgfak</ClassId>
+  <Date>2006-03-05</Date>
+  <Time>?</Time>
+  <Locality>Paramaribo north</Locality>
+  <Latitude>5.8801</Latitude>
+  <Longitude>-55.1301</Longitude>
+  <Elevation>?</Elevation>
+  <Author>Jan-Hein Ribot</Author>
+  <AuthorID>EOVSIPQAGB</AuthorID>
+  <Content>song</Content>
+  <Comments>link:http://webserv.nhl.nl/~ribot/english/</Comments>
+  <Quality>2</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Parulidae</Family>
+  <Genus>Geothlypis</Genus>
+  <Species>aequinoctialis</Species>
+  <Sub-species />
+  <VernacularNames>Masked Yellowthroat</VernacularNames>
+</Audio>

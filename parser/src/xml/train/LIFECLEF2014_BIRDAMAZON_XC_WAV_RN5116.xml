@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>5116</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN5116.wav</FileName>
+  <ClassId>vrciyl</ClassId>
+  <Date>2001-12-26</Date>
+  <Time>?</Time>
+  <Locality>Pernambuco, Bonito, Mata do Engenho Barra Azul</Locality>
+  <Latitude>NULL</Latitude>
+  <Longitude>NULL</Longitude>
+  <Elevation>?</Elevation>
+  <Author>Gilmar Farias</Author>
+  <AuthorID>TUOWEEELME</AuthorID>
+  <Content>song</Content>
+  <Comments />
+  <Quality>2</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Donacobiidae</Family>
+  <Genus>Donacobius</Genus>
+  <Species>atricapilla</Species>
+  <Sub-species />
+  <VernacularNames>Black-capped Donacobius</VernacularNames>
+</Audio>

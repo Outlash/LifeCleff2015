@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>1712</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN1712.wav</FileName>
+  <ClassId>vjukoo</ClassId>
+  <Date>2009-07-23</Date>
+  <Time>07:45</Time>
+  <Locality>Sitio Veravinha, Juquitiba, São Paulo</Locality>
+  <Latitude>-23.9492</Latitude>
+  <Longitude>-47.1778</Longitude>
+  <Elevation>575</Elevation>
+  <Author>Marcos Melo</Author>
+  <AuthorID>MRGDYNJGUJ</AuthorID>
+  <Content>distress calls</Content>
+  <Comments />
+  <Quality>3</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Tyrannidae</Family>
+  <Genus>Attila</Genus>
+  <Species>rufus</Species>
+  <Sub-species />
+  <VernacularNames>Grey-hooded Attila</VernacularNames>
+</Audio>

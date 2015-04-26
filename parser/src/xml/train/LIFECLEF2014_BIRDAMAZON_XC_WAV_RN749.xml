@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>749</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN749.wav</FileName>
+  <ClassId>zdicwn</ClassId>
+  <Date>2006-06-29</Date>
+  <Time>09:00</Time>
+  <Locality>Monte Alegre, state of Pará</Locality>
+  <Latitude>-2.0375</Latitude>
+  <Longitude>-54.1131</Longitude>
+  <Elevation>0</Elevation>
+  <Author>Sidnei Dantas</Author>
+  <AuthorID>NNCKQMBGPH</AuthorID>
+  <Content>call</Content>
+  <Comments>Natural Amazonian savanna (cerrado).bird-seen:noplayback-used:no</Comments>
+  <Quality>3</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies>Cacicus cela,Pitangus sulphuratus</BackgroundSpecies>
+  <Order>Passeriformes</Order>
+  <Family>Tyrannidae</Family>
+  <Genus>Myiopagis</Genus>
+  <Species>viridicata</Species>
+  <Sub-species>viridicata?</Sub-species>
+  <VernacularNames>Greenish Elaenia</VernacularNames>
+</Audio>

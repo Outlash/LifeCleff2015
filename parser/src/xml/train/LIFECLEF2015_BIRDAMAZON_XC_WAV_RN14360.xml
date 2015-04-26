@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>14360</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN14360.wav</FileName>
+  <ClassId>dyxufx</ClassId>
+  <Date>2011-11-05</Date>
+  <Time>07.00</Time>
+  <Locality>El Paujil Bird Reserve, Dept of Boyaca &amp; Santander</Locality>
+  <Latitude>NULL</Latitude>
+  <Longitude>NULL</Longitude>
+  <Elevation>300</Elevation>
+  <Author>Niels Poul Dreyer</Author>
+  <AuthorID>YIQSVPAMDQ</AuthorID>
+  <Content>song</Content>
+  <Comments>filter, usefull for playback</Comments>
+  <Quality>1</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Thamnophilidae</Family>
+  <Genus>Thamnophilus</Genus>
+  <Species>atrinucha</Species>
+  <Sub-species>atrinucha</Sub-species>
+  <VernacularNames>Black-crowned Antshrike</VernacularNames>
+</Audio>

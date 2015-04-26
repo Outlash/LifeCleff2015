@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>15424</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN15424.wav</FileName>
+  <ClassId>ppdwrk</ClassId>
+  <Date>2008-01-27</Date>
+  <Time>08:50</Time>
+  <Locality>Hato Pinero, Cojedes</Locality>
+  <Latitude>8.9498</Latitude>
+  <Longitude>-68.0831</Longitude>
+  <Elevation>70</Elevation>
+  <Author>Daniel Lane</Author>
+  <AuthorID>WOEAFQRMUD</AuthorID>
+  <Content>call</Content>
+  <Comments>First a fishing attempt, then calls on the wing from a male. Eventually, it perched about 2m above creek.</Comments>
+  <Quality>2</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies>Opisthocomus hoazin,Xenops rutilans</BackgroundSpecies>
+  <Order>Coraciiformes</Order>
+  <Family>Alcedinidae</Family>
+  <Genus>Chloroceryle</Genus>
+  <Species>amazona</Species>
+  <Sub-species />
+  <VernacularNames>Amazon Kingfisher</VernacularNames>
+</Audio>

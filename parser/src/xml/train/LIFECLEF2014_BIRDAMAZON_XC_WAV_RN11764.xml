@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>11764</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN11764.wav</FileName>
+  <ClassId>omrceb</ClassId>
+  <Date>2007-07-24</Date>
+  <Time>08:54</Time>
+  <Locality>Taquaril - Petrópolis</Locality>
+  <Latitude>-22.3023</Latitude>
+  <Longitude>-43.077</Longitude>
+  <Elevation>?</Elevation>
+  <Author>Eduardo Gelli</Author>
+  <AuthorID>FANYWVEFDK</AuthorID>
+  <Content>call, song</Content>
+  <Comments>Three individuals. After playback.</Comments>
+  <Quality>4</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Furnariidae</Family>
+  <Genus>Anabazenops</Genus>
+  <Species>fuscus</Species>
+  <Sub-species />
+  <VernacularNames>White-collared Foliage-gleaner</VernacularNames>
+</Audio>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>10043</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN10043.wav</FileName>
+  <ClassId>qypzpc</ClassId>
+  <Date>2009-08-15</Date>
+  <Time>17:00</Time>
+  <Locality>Cristalino Jungle Lodge, MT</Locality>
+  <Latitude>-9.5981</Latitude>
+  <Longitude>-55.932</Longitude>
+  <Elevation>250</Elevation>
+  <Author>Andrew Spencer</Author>
+  <AuthorID>CDTGHVBGZP</AuthorID>
+  <Content>song</Content>
+  <Comments />
+  <Quality>2</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Thamnophilidae</Family>
+  <Genus>Myrmotherula</Genus>
+  <Species>longipennis</Species>
+  <Sub-species>paraensis</Sub-species>
+  <VernacularNames>Long-winged Antwren</VernacularNames>
+</Audio>

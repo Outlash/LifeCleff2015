@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>20741</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN20741.wav</FileName>
+  <ClassId>yjdnmm</ClassId>
+  <Date>2011-01-29</Date>
+  <Time>08:10</Time>
+  <Locality>RNA Arrierito Antioqueño, Anorí, Antioquia</Locality>
+  <Latitude>6.9862</Latitude>
+  <Longitude>-75.1251</Longitude>
+  <Elevation>1650</Elevation>
+  <Author>Eric DeFonso</Author>
+  <AuthorID>KTLCZCRCQX</AuthorID>
+  <Content>song</Content>
+  <Comments>somewhat distant birds in chorus, recorded from just outside main lodge grounds</Comments>
+  <Quality>2</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Galliformes</Order>
+  <Family>Cracidae</Family>
+  <Genus>Ortalis</Genus>
+  <Species>columbiana</Species>
+  <Sub-species />
+  <VernacularNames>Colombian Chachalaca</VernacularNames>
+</Audio>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>24616</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN24616.wav</FileName>
+  <ClassId>ofurok</ClassId>
+  <Date>2009-10-30</Date>
+  <Time>?:?</Time>
+  <Locality>Reserve Naturelle des Nouragues, saut Parare</Locality>
+  <Latitude>NULL</Latitude>
+  <Longitude>NULL</Longitude>
+  <Elevation>60</Elevation>
+  <Author>Alexandre Renaudier</Author>
+  <AuthorID>GKADEITXTH</AuthorID>
+  <Content>call</Content>
+  <Comments>after playback</Comments>
+  <Quality>2</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Furnariidae</Family>
+  <Genus>Sclerurus</Genus>
+  <Species>caudacutus</Species>
+  <Sub-species>caudacutus</Sub-species>
+  <VernacularNames>Black-tailed Leaftosser</VernacularNames>
+</Audio>

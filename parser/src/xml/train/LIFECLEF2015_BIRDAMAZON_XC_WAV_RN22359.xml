@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>22359</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN22359.wav</FileName>
+  <ClassId>nkvtmg</ClassId>
+  <Date>2014-10-24</Date>
+  <Time>09:00</Time>
+  <Locality>Lagoa de Sombrio, Balneário Gaivota, State of Santa Catarina</Locality>
+  <Latitude>-29.1757</Latitude>
+  <Longitude>-49.6727</Longitude>
+  <Elevation>0</Elevation>
+  <Author>João Gava Just</Author>
+  <AuthorID>CEKMJEZKSJ</AuthorID>
+  <Content>song</Content>
+  <Comments>bird-seen:noplayback-used:no</Comments>
+  <Quality>3</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies>Polioptila dumicola,Serpophaga subcristata</BackgroundSpecies>
+  <Order>Columbiformes</Order>
+  <Family>Columbidae</Family>
+  <Genus>Leptotila</Genus>
+  <Species>verreauxi</Species>
+  <Sub-species />
+  <VernacularNames>White-tipped Dove</VernacularNames>
+</Audio>

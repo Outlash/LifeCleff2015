@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>17594</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN17594.wav</FileName>
+  <ClassId>hctcgx</ClassId>
+  <Date>1999-12-20</Date>
+  <Time>08:00</Time>
+  <Locality>Intervales State Park, Guapiara,São Paulo State,Brazil</Locality>
+  <Latitude>-24.291</Latitude>
+  <Longitude>-48.351</Longitude>
+  <Elevation>800</Elevation>
+  <Author>Antonio Silveira</Author>
+  <AuthorID>NBJQSQJRYH</AuthorID>
+  <Content>male, song</Content>
+  <Comments>bird singing near a pound.bird-seen:yesplayback-used:no</Comments>
+  <Quality>0</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Parulidae</Family>
+  <Genus>Geothlypis</Genus>
+  <Species>velata</Species>
+  <Sub-species />
+  <VernacularNames>Southern Yellowthroat</VernacularNames>
+</Audio>

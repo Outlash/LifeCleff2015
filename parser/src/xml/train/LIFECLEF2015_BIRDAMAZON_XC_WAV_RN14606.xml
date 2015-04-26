@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>14606</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN14606.wav</FileName>
+  <ClassId>tzphql</ClassId>
+  <Date>2013-03-19</Date>
+  <Time>08:30</Time>
+  <Locality>Cajamarca, Tolima</Locality>
+  <Latitude>4.4837</Latitude>
+  <Longitude>-75.4797</Longitude>
+  <Elevation>3000</Elevation>
+  <Author>Oscar H. Marín-Gómez</Author>
+  <AuthorID>CSUHASNRSU</AuthorID>
+  <Content>song</Content>
+  <Comments>Ref: OHM283bird-seen:yesplayback-used:no</Comments>
+  <Quality>1</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Thraupidae</Family>
+  <Genus>Diglossa</Genus>
+  <Species>cyanea</Species>
+  <Sub-species />
+  <VernacularNames>Masked Flowerpiercer</VernacularNames>
+</Audio>

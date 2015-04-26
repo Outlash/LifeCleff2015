@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>23803</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN23803.wav</FileName>
+  <ClassId>dvcjbu</ClassId>
+  <Date>2011-11-13</Date>
+  <Time>01:00</Time>
+  <Locality>São Luiz do Paraitinga, São Paulo</Locality>
+  <Latitude>-23.3178</Latitude>
+  <Longitude>-45.1648</Longitude>
+  <Elevation>1000</Elevation>
+  <Author>Paulo Guerra</Author>
+  <AuthorID>NLROPBPDRI</AuthorID>
+  <Content>song</Content>
+  <Comments>bird-seen:yesplayback-used:yes</Comments>
+  <Quality>2</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies>Nyctibius griseus</BackgroundSpecies>
+  <Order>Strigiformes</Order>
+  <Family>Strigidae</Family>
+  <Genus>Pulsatrix</Genus>
+  <Species>koeniswaldiana</Species>
+  <Sub-species />
+  <VernacularNames>Tawny-browed Owl</VernacularNames>
+</Audio>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>9015</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN9015.wav</FileName>
+  <ClassId>zsqhks</ClassId>
+  <Date>2011-08-03</Date>
+  <Time>12:28</Time>
+  <Locality>Fazenda Trilhas do Sol, Rio Negro - MS</Locality>
+  <Latitude>NULL</Latitude>
+  <Longitude>NULL</Longitude>
+  <Elevation>400</Elevation>
+  <Author>Renan Campos de Oliveira</Author>
+  <AuthorID>SDARDTGGWP</AuthorID>
+  <Content>Song</Content>
+  <Comments />
+  <Quality>2</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies />
+  <Order>Columbiformes</Order>
+  <Family>Columbidae</Family>
+  <Genus>Columbina</Genus>
+  <Species>squammata</Species>
+  <Sub-species />
+  <VernacularNames>Scaled Dove</VernacularNames>
+</Audio>

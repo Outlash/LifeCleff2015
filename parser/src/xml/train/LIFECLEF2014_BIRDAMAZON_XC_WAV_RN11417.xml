@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>11417</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN11417.wav</FileName>
+  <ClassId>relbkx</ClassId>
+  <Date>2013-01-27</Date>
+  <Time>13:30</Time>
+  <Locality>Boa Nova, Wet Forest, state of Bahia</Locality>
+  <Latitude>-14.3834</Latitude>
+  <Longitude>-40.1001</Longitude>
+  <Elevation>900</Elevation>
+  <Author>Dan Lane</Author>
+  <AuthorID>WOEAFQRMUD</AuthorID>
+  <Content>call</Content>
+  <Comments>Mobbing vocalizations of several species surrounding a Glaucidium minutissimum in 12m canopy semihumid forest. The high 'tsee?' of the Tolmomyias is easy to pick out from the various vocalizations of other spp.bird-seen:yesplayback-used:no</Comments>
+  <Quality>3</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies>Thalurania glaucopis,Aphantochroa cirrochloris,Phaethornis eurynome,Coereba flaveola,Chiroxiphia caudata</BackgroundSpecies>
+  <Order>Passeriformes</Order>
+  <Family>Tyrannidae</Family>
+  <Genus>Tolmomyias</Genus>
+  <Species>sulphurescens</Species>
+  <Sub-species />
+  <VernacularNames>Yellow-olive Flatbill</VernacularNames>
+</Audio>

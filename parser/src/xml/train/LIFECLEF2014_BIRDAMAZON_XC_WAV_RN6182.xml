@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>6182</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN6182.wav</FileName>
+  <ClassId>bogxos</ClassId>
+  <Date>2001-01-26</Date>
+  <Time>07:46</Time>
+  <Locality>Reserva Natural da Vale - Linhares, Espirito Santo</Locality>
+  <Latitude>-19.1456</Latitude>
+  <Longitude>-40.0645</Longitude>
+  <Elevation>40</Elevation>
+  <Author>Jeremy Minns</Author>
+  <AuthorID>DGVLLRYDXS</AuthorID>
+  <Content>Songs A and B and calls</Content>
+  <Comments>Large marsh in humid forest. Two birds in a small tree, directly above the microphone. Song B in duet.</Comments>
+  <Quality>2</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies>Patagioenas speciosa,Brotogeris tirica,Amazona rhodocorytha,Tolmomyias poliocephalus</BackgroundSpecies>
+  <Order>Passeriformes</Order>
+  <Family>Tyrannidae</Family>
+  <Genus>Megarynchus</Genus>
+  <Species>pitangua</Species>
+  <Sub-species>pitangua</Sub-species>
+  <VernacularNames>Boat-billed Flycatcher</VernacularNames>
+</Audio>

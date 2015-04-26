@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>31456</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN31456.wav</FileName>
+  <ClassId>rfjtvq</ClassId>
+  <Date>2010-06-26</Date>
+  <Time>08:50</Time>
+  <Locality>San Agustin, Huila</Locality>
+  <Latitude>1.8798</Latitude>
+  <Longitude>-76.2678</Longitude>
+  <Elevation>1700</Elevation>
+  <Author>Andrew Spencer</Author>
+  <AuthorID>CDTGHVBGZP</AuthorID>
+  <Content>call, song</Content>
+  <Comments />
+  <Quality>1</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Furnariidae</Family>
+  <Genus>Synallaxis</Genus>
+  <Species>brachyura</Species>
+  <Sub-species>brachyura</Sub-species>
+  <VernacularNames>Slaty Spinetail</VernacularNames>
+</Audio>

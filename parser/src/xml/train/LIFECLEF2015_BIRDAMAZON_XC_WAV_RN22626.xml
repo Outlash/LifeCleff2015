@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>22626</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN22626.wav</FileName>
+  <ClassId>xxmngp</ClassId>
+  <Date>2010-03-09</Date>
+  <Time>08:18</Time>
+  <Locality>Itabirito, Minas Gerais State</Locality>
+  <Latitude>NULL</Latitude>
+  <Longitude>NULL</Longitude>
+  <Elevation>910</Elevation>
+  <Author>Helberth Cardoso</Author>
+  <AuthorID>XIRUVWSNEN</AuthorID>
+  <Content>Distinct song</Content>
+  <Comments>Answering another specimen</Comments>
+  <Quality>2</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Melanopareiidae</Family>
+  <Genus>Melanopareia</Genus>
+  <Species>torquata</Species>
+  <Sub-species />
+  <VernacularNames>Collared Crescentchest</VernacularNames>
+</Audio>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>1953</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN1953.wav</FileName>
+  <ClassId>kzuumm</ClassId>
+  <Date>2011-05-23</Date>
+  <Time>05:47</Time>
+  <Locality>Paragominas, PA, Brazil, Bacia 549</Locality>
+  <Latitude>-3.8101</Latitude>
+  <Longitude>-48.377</Longitude>
+  <Elevation>?</Elevation>
+  <Author>Nargila Moura</Author>
+  <AuthorID>CWEIBYBYYD</AuthorID>
+  <Content>song</Content>
+  <Comments>undisturbed primary forest</Comments>
+  <Quality>3</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies>Momotus momota,Grallaria varia</BackgroundSpecies>
+  <Order>Caprimulgiformes</Order>
+  <Family>Caprimulgidae</Family>
+  <Genus>Nyctiphrynus</Genus>
+  <Species>ocellatus</Species>
+  <Sub-species>ocellatus</Sub-species>
+  <VernacularNames>Ocellated Poorwill</VernacularNames>
+</Audio>

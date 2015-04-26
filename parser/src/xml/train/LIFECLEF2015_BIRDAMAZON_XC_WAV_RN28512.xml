@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>28512</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN28512.wav</FileName>
+  <ClassId>piciap</ClassId>
+  <Date>2012-10-14</Date>
+  <Time>05:30</Time>
+  <Locality>Fazenda Santa Tereza, Rio Pixaim, Mato Grosso</Locality>
+  <Latitude>-16.7501</Latitude>
+  <Longitude>-56.8501</Longitude>
+  <Elevation>110</Elevation>
+  <Author>Andrew Spencer</Author>
+  <AuthorID>CDTGHVBGZP</AuthorID>
+  <Content>call</Content>
+  <Comments>calls from an adult bird flushing off the riverbank.bird-seen:yesplayback-used:no</Comments>
+  <Quality>1</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Pelecaniformes</Order>
+  <Family>Ardeidae</Family>
+  <Genus>Ardea</Genus>
+  <Species>cocoi</Species>
+  <Sub-species />
+  <VernacularNames>Cocoi Heron</VernacularNames>
+</Audio>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>3783</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN3783.wav</FileName>
+  <ClassId>vcflij</ClassId>
+  <Date>2010-02-10</Date>
+  <Time>11:30</Time>
+  <Locality>Boa Nova, Wet Forest, state of Bahia</Locality>
+  <Latitude>-14.3834</Latitude>
+  <Longitude>-40.1001</Longitude>
+  <Elevation>?</Elevation>
+  <Author>Eduardo Patrial</Author>
+  <AuthorID>QEFRRVCRRP</AuthorID>
+  <Content>song</Content>
+  <Comments />
+  <Quality>2</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies />
+  <Order>Gruiformes</Order>
+  <Family>Rallidae</Family>
+  <Genus>Laterallus</Genus>
+  <Species>viridis</Species>
+  <Sub-species />
+  <VernacularNames>Russet-crowned Crake</VernacularNames>
+</Audio>

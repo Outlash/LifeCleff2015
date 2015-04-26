@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>9030</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN9030.wav</FileName>
+  <ClassId>vcflij</ClassId>
+  <Date>2013-07-13</Date>
+  <Time>08:00</Time>
+  <Locality>Senador Guiomard, Acre</Locality>
+  <Latitude>-10.1453</Latitude>
+  <Longitude>-67.7537</Longitude>
+  <Elevation>180</Elevation>
+  <Author>Rodrigo Dela Rosa</Author>
+  <AuthorID>VGXDJMKETZ</AuthorID>
+  <Content>female, male, song</Content>
+  <Comments>bird-seen:yesplayback-used:yes</Comments>
+  <Quality>1</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies />
+  <Order>Gruiformes</Order>
+  <Family>Rallidae</Family>
+  <Genus>Laterallus</Genus>
+  <Species>viridis</Species>
+  <Sub-species />
+  <VernacularNames>Russet-crowned Crake</VernacularNames>
+</Audio>

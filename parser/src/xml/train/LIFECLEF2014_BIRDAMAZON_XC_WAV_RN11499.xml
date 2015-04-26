@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>11499</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN11499.wav</FileName>
+  <ClassId>cllknv</ClassId>
+  <Date>2010-11-18</Date>
+  <Time>08:46</Time>
+  <Locality>Paragominas, PA, Brazil, Bacia 342</Locality>
+  <Latitude>-3.311</Latitude>
+  <Longitude>-48.183</Longitude>
+  <Elevation>?</Elevation>
+  <Author>Nargila Moura</Author>
+  <AuthorID>CWEIBYBYYD</AuthorID>
+  <Content>song</Content>
+  <Comments />
+  <Quality>3</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies>Piaya cayana,Tolmomyias sulphurescens,Zimmerius acer</BackgroundSpecies>
+  <Order>Passeriformes</Order>
+  <Family>Furnariidae</Family>
+  <Genus>Xiphorhynchus</Genus>
+  <Species>spixii</Species>
+  <Sub-species />
+  <VernacularNames>Spix's Woodcreeper</VernacularNames>
+</Audio>

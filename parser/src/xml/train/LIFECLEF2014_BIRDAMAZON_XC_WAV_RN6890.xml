@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>6890</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN6890.wav</FileName>
+  <ClassId>ciptfb</ClassId>
+  <Date>2006-08-05</Date>
+  <Time>05:45</Time>
+  <Locality>Palmeira dos Indios, Alagoas</Locality>
+  <Latitude>NULL</Latitude>
+  <Longitude>NULL</Longitude>
+  <Elevation>20</Elevation>
+  <Author>Antônio Justus</Author>
+  <AuthorID>ERRVVVYGWY</AuthorID>
+  <Content>song</Content>
+  <Comments />
+  <Quality>0</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Thraupidae</Family>
+  <Genus>Paroaria</Genus>
+  <Species>dominicana</Species>
+  <Sub-species />
+  <VernacularNames>Red-cowled Cardinal</VernacularNames>
+</Audio>

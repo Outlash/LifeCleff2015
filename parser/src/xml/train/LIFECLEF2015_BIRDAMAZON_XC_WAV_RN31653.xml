@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>31653</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN31653.wav</FileName>
+  <ClassId>ipzbhi</ClassId>
+  <Date>2011-09-12</Date>
+  <Time>15:45</Time>
+  <Locality>Cristalino Jungle Lodge, MT</Locality>
+  <Latitude>-9.5981</Latitude>
+  <Longitude>-55.932</Longitude>
+  <Elevation>260</Elevation>
+  <Author>Eric DeFonso</Author>
+  <AuthorID>KTLCZCRCQX</AuthorID>
+  <Content>song</Content>
+  <Comments>Terra firme forest. Some background construction noises from lodge grounds.bird-seen:noplayback-used:no</Comments>
+  <Quality>3</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Turdidae</Family>
+  <Genus>Turdus</Genus>
+  <Species>fumigatus</Species>
+  <Sub-species />
+  <VernacularNames>Cocoa Thrush</VernacularNames>
+</Audio>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>31357</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN31357.wav</FileName>
+  <ClassId>vqpvft</ClassId>
+  <Date>2005-10-03</Date>
+  <Time>5:43</Time>
+  <Locality>Soatá, Alto Onzaga, Santander</Locality>
+  <Latitude>6.5667</Latitude>
+  <Longitude>-72.7334</Longitude>
+  <Elevation>2500</Elevation>
+  <Author>Oscar Laverde</Author>
+  <AuthorID>WKVKSVMNDZ</AuthorID>
+  <Content>song</Content>
+  <Comments />
+  <Quality>3</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies>Myioborus ornatus,Synallaxis subpudica</BackgroundSpecies>
+  <Order>Passeriformes</Order>
+  <Family>Icteridae</Family>
+  <Genus>Sturnella</Genus>
+  <Species>magna</Species>
+  <Sub-species />
+  <VernacularNames>Eastern Meadowlark</VernacularNames>
+</Audio>

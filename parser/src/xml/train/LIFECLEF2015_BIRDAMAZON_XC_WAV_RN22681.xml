@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>22681</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN22681.wav</FileName>
+  <ClassId>mnvtfb</ClassId>
+  <Date>2012-07-00</Date>
+  <Time>07:00</Time>
+  <Locality>La Mesenia</Locality>
+  <Latitude>5.4834</Latitude>
+  <Longitude>-75.9001</Longitude>
+  <Elevation>2600</Elevation>
+  <Author>David Edwards</Author>
+  <AuthorID>AFEHYCAHZR</AuthorID>
+  <Content>song</Content>
+  <Comments>playback-used:no</Comments>
+  <Quality>1</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Tinamiformes</Order>
+  <Family>Tinamidae</Family>
+  <Genus>Nothocercus</Genus>
+  <Species>julius</Species>
+  <Sub-species />
+  <VernacularNames>Tawny-breasted Tinamou</VernacularNames>
+</Audio>

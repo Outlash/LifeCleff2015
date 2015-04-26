@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>9989</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN9989.wav</FileName>
+  <ClassId>jlumfv</ClassId>
+  <Date>1999-12-16</Date>
+  <Time>06:30</Time>
+  <Locality>Parque Nacional da Serra do Cipó, Minas Gerais State</Locality>
+  <Latitude>-19.3481</Latitude>
+  <Longitude>-43.6189</Longitude>
+  <Elevation>1200</Elevation>
+  <Author>Jeremy Minns</Author>
+  <AuthorID>DGVLLRYDXS</AuthorID>
+  <Content>Song</Content>
+  <Comments>Rocky cerrado. In low bush with dense foliage.</Comments>
+  <Quality>2</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies>Thraupis sayaca</BackgroundSpecies>
+  <Order>Passeriformes</Order>
+  <Family>Tyrannidae</Family>
+  <Genus>Elaenia</Genus>
+  <Species>obscura</Species>
+  <Sub-species>sordida</Sub-species>
+  <VernacularNames>Highland Elaenia</VernacularNames>
+</Audio>

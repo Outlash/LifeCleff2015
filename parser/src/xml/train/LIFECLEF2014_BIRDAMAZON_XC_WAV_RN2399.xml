@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>2399</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN2399.wav</FileName>
+  <ClassId>dhzucj</ClassId>
+  <Date>2006-05-06</Date>
+  <Time>07:25</Time>
+  <Locality>Parque do Zizo, Sao Paulo state</Locality>
+  <Latitude>-24.017146</Latitude>
+  <Longitude>-47.81044</Longitude>
+  <Elevation>650</Elevation>
+  <Author>Jeremy Minns</Author>
+  <AuthorID>DGVLLRYDXS</AuthorID>
+  <Content>Variant of normal song</Content>
+  <Comments>Low scrub beside humid forest.</Comments>
+  <Quality>1</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies>Drymophila ferruginea</BackgroundSpecies>
+  <Order>Passeriformes</Order>
+  <Family>Thamnophilidae</Family>
+  <Genus>Drymophila</Genus>
+  <Species>ochropyga</Species>
+  <Sub-species />
+  <VernacularNames>Ochre-rumped Antbird</VernacularNames>
+</Audio>

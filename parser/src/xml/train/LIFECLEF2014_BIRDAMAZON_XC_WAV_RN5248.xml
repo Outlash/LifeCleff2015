@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>5248</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN5248.wav</FileName>
+  <ClassId>zhxbyo</ClassId>
+  <Date>2010-03-07</Date>
+  <Time>09:20</Time>
+  <Locality>Canelinha, Santa Catarina</Locality>
+  <Latitude>-27.27</Latitude>
+  <Longitude>-48.786</Longitude>
+  <Elevation>8</Elevation>
+  <Author>Evair Legal</Author>
+  <AuthorID>SMJXFKLATM</AuthorID>
+  <Content>song</Content>
+  <Comments />
+  <Quality>2</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Tyrannidae</Family>
+  <Genus>Serpophaga</Genus>
+  <Species>subcristata</Species>
+  <Sub-species />
+  <VernacularNames>White-crested Tyrannulet</VernacularNames>
+</Audio>

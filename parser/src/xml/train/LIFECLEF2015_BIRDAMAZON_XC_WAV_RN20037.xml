@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>20037</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN20037.wav</FileName>
+  <ClassId>fwrnff</ClassId>
+  <Date>2007-07-31</Date>
+  <Time>?</Time>
+  <Locality>La Mucuy (Merida)</Locality>
+  <Latitude>8.620356</Latitude>
+  <Longitude>-71.082487</Longitude>
+  <Elevation>?</Elevation>
+  <Author>Alexandre Renaudier</Author>
+  <AuthorID>GKADEITXTH</AuthorID>
+  <Content>song</Content>
+  <Comments />
+  <Quality>1</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Apodiformes</Order>
+  <Family>Trochilidae</Family>
+  <Genus>Colibri</Genus>
+  <Species>thalassinus</Species>
+  <Sub-species>thalassinus</Sub-species>
+  <VernacularNames>Green Violetear</VernacularNames>
+</Audio>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>17195</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN17195.wav</FileName>
+  <ClassId>uqmxmf</ClassId>
+  <Date>1994-01-22</Date>
+  <Time>?</Time>
+  <Locality>Cundinamarca, Bogotá D.C., Parque La Florida</Locality>
+  <Latitude>4.716667</Latitude>
+  <Longitude>NULL</Longitude>
+  <Elevation>2600</Elevation>
+  <Author>Gary Stiles (Colección de Sonidos Ambientales - Instituto Humboldt)</Author>
+  <AuthorID>XMFDPACYJN</AuthorID>
+  <Content>song,call</Content>
+  <Comments>BSA 11129To obtain a wav file of the original recording, please contact csa@humboldt.org.cobird-seen:noplayback-used:no</Comments>
+  <Quality>1</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies>Zonotrichia capensis</BackgroundSpecies>
+  <Order>Passeriformes</Order>
+  <Family>Icteridae</Family>
+  <Genus>Chrysomus</Genus>
+  <Species>icterocephalus</Species>
+  <Sub-species />
+  <VernacularNames>Yellow-hooded Blackbird</VernacularNames>
+</Audio>

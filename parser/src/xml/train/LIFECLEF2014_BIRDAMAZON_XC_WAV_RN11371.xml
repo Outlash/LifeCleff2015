@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>11371</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN11371.wav</FileName>
+  <ClassId>pbqnkl</ClassId>
+  <Date>2012-07-29</Date>
+  <Time>07 : 04</Time>
+  <Locality>Caatinga da Serra Alta - Mata grande - Alagoas - Brasil</Locality>
+  <Latitude>-9.135</Latitude>
+  <Longitude>-37.772</Longitude>
+  <Elevation>400</Elevation>
+  <Author>pedroteia</Author>
+  <AuthorID>BZVNDWLRSQ</AuthorID>
+  <Content>song</Content>
+  <Comments>...</Comments>
+  <Quality>0</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies />
+  <Order>Cuculiformes</Order>
+  <Family>Cuculidae</Family>
+  <Genus>Guira</Genus>
+  <Species>guira</Species>
+  <Sub-species />
+  <VernacularNames>Guira Cuckoo</VernacularNames>
+</Audio>

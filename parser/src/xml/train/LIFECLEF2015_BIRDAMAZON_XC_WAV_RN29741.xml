@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>29741</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN29741.wav</FileName>
+  <ClassId>runaut</ClassId>
+  <Date>2012-07-22</Date>
+  <Time>07:30</Time>
+  <Locality>AICA La Patasola, Vereda Boquía, Salento, Quindio</Locality>
+  <Latitude>4.6861</Latitude>
+  <Longitude>-75.5472</Longitude>
+  <Elevation>2300</Elevation>
+  <Author>Oscar H. Marín-Gómez</Author>
+  <AuthorID>CSUHASNRSU</AuthorID>
+  <Content>song</Content>
+  <Comments>Ref OHM100g. Rewritten to XC128590. Two birds Singing in shrubs along the edge forest. 10m to mic. Montane Forest.bird-seen:yesplayback-used:no</Comments>
+  <Quality>3</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies>Grallaria ruficapilla,Poecilotriccus ruficeps</BackgroundSpecies>
+  <Order>Passeriformes</Order>
+  <Family>Furnariidae</Family>
+  <Genus>Synallaxis</Genus>
+  <Species>azarae</Species>
+  <Sub-species />
+  <VernacularNames>Azara's Spinetail</VernacularNames>
+</Audio>

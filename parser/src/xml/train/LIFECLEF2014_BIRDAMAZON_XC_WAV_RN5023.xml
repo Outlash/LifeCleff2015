@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>5023</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN5023.wav</FileName>
+  <ClassId>uvfjyo</ClassId>
+  <Date>2011-02-15</Date>
+  <Time>17:57</Time>
+  <Locality>Parque Estadual Intervales, SP</Locality>
+  <Latitude>-24.2759</Latitude>
+  <Longitude>-48.4181</Longitude>
+  <Elevation>850</Elevation>
+  <Author>Daniel Lane</Author>
+  <AuthorID>WOEAFQRMUD</AuthorID>
+  <Content>call</Content>
+  <Comments>Calls in response to playback from a male in canopy abotu 15m up in broken-canopy tropical woodland along trail.</Comments>
+  <Quality>1</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies>Carpornis cucullata,Conopias trivirgatus,Lochmias nematura</BackgroundSpecies>
+  <Order>Passeriformes</Order>
+  <Family>Thraupidae</Family>
+  <Genus>Hemithraupis</Genus>
+  <Species>ruficapilla</Species>
+  <Sub-species />
+  <VernacularNames>Rufous-headed Tanager</VernacularNames>
+</Audio>

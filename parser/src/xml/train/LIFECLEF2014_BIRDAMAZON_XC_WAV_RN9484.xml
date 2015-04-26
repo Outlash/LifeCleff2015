@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>9484</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN9484.wav</FileName>
+  <ClassId>bvpcer</ClassId>
+  <Date>2009-09-06</Date>
+  <Time>?</Time>
+  <Locality>Vale do Selke Pequeno, Pomerode, Santa Catarina</Locality>
+  <Latitude>-26.7673</Latitude>
+  <Longitude>-49.1464</Longitude>
+  <Elevation>150</Elevation>
+  <Author>Adrian Eisen Rupp</Author>
+  <AuthorID>AOPMSCIDIA</AuthorID>
+  <Content>song</Content>
+  <Comments />
+  <Quality>1</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Pipridae</Family>
+  <Genus>Ilicura</Genus>
+  <Species>militaris</Species>
+  <Sub-species />
+  <VernacularNames>Pin-tailed Manakin</VernacularNames>
+</Audio>

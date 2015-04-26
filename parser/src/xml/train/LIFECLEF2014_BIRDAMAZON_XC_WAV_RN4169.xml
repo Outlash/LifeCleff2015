@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>4169</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN4169.wav</FileName>
+  <ClassId>rdftli</ClassId>
+  <Date>2013-05-18</Date>
+  <Time>06:00</Time>
+  <Locality>Frecheirinha</Locality>
+  <Latitude>-3.8531</Latitude>
+  <Longitude>-40.9271</Longitude>
+  <Elevation>850</Elevation>
+  <Author>Caio Brito</Author>
+  <AuthorID>YWWWUBVAJF</AuthorID>
+  <Content>song</Content>
+  <Comments>Lowcut at 200Hz to reduce noise.bird-seen:noplayback-used:no</Comments>
+  <Quality>2</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies />
+  <Order>Apodiformes</Order>
+  <Family>Trochilidae</Family>
+  <Genus>Hylocharis</Genus>
+  <Species>cyanus</Species>
+  <Sub-species />
+  <VernacularNames>White-chinned Sapphire</VernacularNames>
+</Audio>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>21488</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN21488.wav</FileName>
+  <ClassId>hijhrx</ClassId>
+  <Date>2007-04-12</Date>
+  <Time>05:00</Time>
+  <Locality>Hacienda Vuelta Larga</Locality>
+  <Latitude>10.64444</Latitude>
+  <Longitude>-62.98389</Longitude>
+  <Elevation>100</Elevation>
+  <Author>Doug Knapp</Author>
+  <AuthorID>BHRXQZEQFL</AuthorID>
+  <Content>Song</Content>
+  <Comments>Bird appeared quite small.</Comments>
+  <Quality>3</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies>Nyctidromus albicollis</BackgroundSpecies>
+  <Order>Strigiformes</Order>
+  <Family>Strigidae</Family>
+  <Genus>Megascops</Genus>
+  <Species>choliba</Species>
+  <Sub-species />
+  <VernacularNames>Tropical Screech Owl</VernacularNames>
+</Audio>

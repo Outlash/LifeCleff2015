@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>7614</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN7614.wav</FileName>
+  <ClassId>gtmyeh</ClassId>
+  <Date>2009-01-23</Date>
+  <Time>8:00</Time>
+  <Locality>Fragmento de Mata 2km de Novo Planalto-GO, Goiás</Locality>
+  <Latitude>-13.243</Latitude>
+  <Longitude>-49.474</Longitude>
+  <Elevation>300</Elevation>
+  <Author>Tulio Dornas</Author>
+  <AuthorID>MTUQGBMRNC</AuthorID>
+  <Content>Call</Content>
+  <Comments>It was visualized a couple. Forest Cerrado with Bamboos. More Informations in Rev. Bras. Ornito No prelo</Comments>
+  <Quality>2</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies />
+  <Order>Piciformes</Order>
+  <Family>Picidae</Family>
+  <Genus>Celeus</Genus>
+  <Species>obrieni</Species>
+  <Sub-species />
+  <VernacularNames>Kaempfer's Woodpecker</VernacularNames>
+</Audio>

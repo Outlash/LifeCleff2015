@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>13294</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN13294.wav</FileName>
+  <ClassId>bmiqmk</ClassId>
+  <Date>2013-03-07</Date>
+  <Time>14:30</Time>
+  <Locality>Guarulhos, São Paulo</Locality>
+  <Latitude>-23.3983</Latitude>
+  <Longitude>-46.5314</Longitude>
+  <Elevation>800</Elevation>
+  <Author>Marcelo Marcelino</Author>
+  <AuthorID>SVVXZLHVXD</AuthorID>
+  <Content>song</Content>
+  <Comments>bird-seen:noplayback-used:no</Comments>
+  <Quality>3</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Pipridae</Family>
+  <Genus>Chiroxiphia</Genus>
+  <Species>caudata</Species>
+  <Sub-species />
+  <VernacularNames>Blue Manakin</VernacularNames>
+</Audio>

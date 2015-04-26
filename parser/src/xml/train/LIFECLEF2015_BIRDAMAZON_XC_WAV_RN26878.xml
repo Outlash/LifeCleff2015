@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>26878</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN26878.wav</FileName>
+  <ClassId>iqhznr</ClassId>
+  <Date>1993-04-14</Date>
+  <Time>?</Time>
+  <Locality>Risaralda, Alto de Pisones</Locality>
+  <Latitude>NULL</Latitude>
+  <Longitude>NULL</Longitude>
+  <Elevation />
+  <Author>Gary Stiles (Colección de Sonidos Ambientales - Instituto Humboldt)</Author>
+  <AuthorID>XMFDPACYJN</AuthorID>
+  <Content>song</Content>
+  <Comments>BSA 11202To obtain a wav file of the original recording, please contact csa@humboldt.org.cobird-seen:noplayback-used:no</Comments>
+  <Quality>1</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies>Myadestes ralloides,Basileuterus tristriatus</BackgroundSpecies>
+  <Order>Passeriformes</Order>
+  <Family>Cotingidae</Family>
+  <Genus>Pipreola</Genus>
+  <Species>aureopectus</Species>
+  <Sub-species />
+  <VernacularNames>Golden-breasted Fruiteater</VernacularNames>
+</Audio>

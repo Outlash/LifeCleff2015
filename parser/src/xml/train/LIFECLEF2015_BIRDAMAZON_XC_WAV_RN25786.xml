@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>25786</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN25786.wav</FileName>
+  <ClassId>fyzdky</ClassId>
+  <Date>1998-07-13</Date>
+  <Time>13:21</Time>
+  <Locality>Finca La Selva (Quebrada San Jose), sobre Toche, Cajamarca, Tolima</Locality>
+  <Latitude>NULL</Latitude>
+  <Longitude>NULL</Longitude>
+  <Elevation>2600</Elevation>
+  <Author>Bernabe Lopez-Lanus</Author>
+  <AuthorID>BYLLSJRVDZ</AuthorID>
+  <Content>song</Content>
+  <Comments />
+  <Quality>3</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Apodiformes</Order>
+  <Family>Trochilidae</Family>
+  <Genus>Boissonneaua</Genus>
+  <Species>flavescens</Species>
+  <Sub-species>flavescens</Sub-species>
+  <VernacularNames>Buff-tailed Coronet</VernacularNames>
+</Audio>

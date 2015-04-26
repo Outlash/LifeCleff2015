@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>15218</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN15218.wav</FileName>
+  <ClassId>amvexh</ClassId>
+  <Date>2006-11-23</Date>
+  <Time>?</Time>
+  <Locality>Near Iwokrama</Locality>
+  <Latitude>NULL</Latitude>
+  <Longitude>NULL</Longitude>
+  <Elevation>20?</Elevation>
+  <Author>Frank Lambert</Author>
+  <AuthorID>YTUXOCTUEM</AuthorID>
+  <Content>call</Content>
+  <Comments>both sexes calling</Comments>
+  <Quality>0</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Thamnophilidae</Family>
+  <Genus>Myrmotherula</Genus>
+  <Species>surinamensis</Species>
+  <Sub-species />
+  <VernacularNames>Guianan Streaked Antwren</VernacularNames>
+</Audio>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>8551</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN8551.wav</FileName>
+  <ClassId>ktxxvp</ClassId>
+  <Date>2007-09-23</Date>
+  <Time>07:26</Time>
+  <Locality>Balbina forest, Bandeira, MG</Locality>
+  <Latitude>-15.8062</Latitude>
+  <Longitude>-40.5181</Longitude>
+  <Elevation>710</Elevation>
+  <Author>Nick Athanas</Author>
+  <AuthorID>XRABICUARW</AuthorID>
+  <Content>call</Content>
+  <Comments>Two different vocalizations. Aprart from the typical call, it gives a rapid churr at 13.0s and 22.9s.</Comments>
+  <Quality>1</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies>Trogon surrucura,Drymophila ferruginea,Turdus flavipes</BackgroundSpecies>
+  <Order>Passeriformes</Order>
+  <Family>Tyrannidae</Family>
+  <Genus>Hemitriccus</Genus>
+  <Species>furcatus</Species>
+  <Sub-species />
+  <VernacularNames>Fork-tailed Tody-Tyrant</VernacularNames>
+</Audio>

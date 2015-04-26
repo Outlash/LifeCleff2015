@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>1731</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN1731.wav</FileName>
+  <ClassId>lgrpvc</ClassId>
+  <Date>2011-11-04</Date>
+  <Time>07:00</Time>
+  <Locality>São Luiz do Paraitinga, São Paulo</Locality>
+  <Latitude>-23.3309</Latitude>
+  <Longitude>-45.1566</Longitude>
+  <Elevation>1000</Elevation>
+  <Author>GABRIEL LEITE</Author>
+  <AuthorID>TGBFXDVERJ</AuthorID>
+  <Content>song</Content>
+  <Comments>bird-seen:yesplayback-used:yes</Comments>
+  <Quality>2</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Furnariidae</Family>
+  <Genus>Synallaxis</Genus>
+  <Species>ruficapilla</Species>
+  <Sub-species />
+  <VernacularNames>Rufous-capped Spinetail</VernacularNames>
+</Audio>

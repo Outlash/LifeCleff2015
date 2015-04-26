@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>13416</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN13416.wav</FileName>
+  <ClassId>vjavkh</ClassId>
+  <Date>2004-10-02</Date>
+  <Time>morning</Time>
+  <Locality>Serra do Mar State Park. Cunha</Locality>
+  <Latitude>-23.267</Latitude>
+  <Longitude>-45.028</Longitude>
+  <Elevation>1.100</Elevation>
+  <Author>Antonio Silveira</Author>
+  <AuthorID>NBJQSQJRYH</AuthorID>
+  <Content>song</Content>
+  <Comments>bird-seen:yesplayback-used:no</Comments>
+  <Quality>0</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Thamnophilidae</Family>
+  <Genus>Rhopias</Genus>
+  <Species>gularis</Species>
+  <Sub-species />
+  <VernacularNames>Star-throated Antwren</VernacularNames>
+</Audio>

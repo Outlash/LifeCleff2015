@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>7348</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN7348.wav</FileName>
+  <ClassId>epiugh</ClassId>
+  <Date>2011-09-29</Date>
+  <Time>05:45</Time>
+  <Locality>Floresta Amazonica Hotel, Alta Floresta, MT</Locality>
+  <Latitude>-9.8781</Latitude>
+  <Longitude>-56.0981</Longitude>
+  <Elevation>280</Elevation>
+  <Author>Eric DeFonso</Author>
+  <AuthorID>KTLCZCRCQX</AuthorID>
+  <Content>song</Content>
+  <Comments>Extended cut. Recorded from the primate trail on the trail toward the Harpy nest. Natural song from bird about 20m away (?).bird-seen:noplayback-used:no</Comments>
+  <Quality>2</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies>Xiphorhynchus guttatus,Thamnophilus aethiops,Thamnophilus schistaceus</BackgroundSpecies>
+  <Order>Tinamiformes</Order>
+  <Family>Tinamidae</Family>
+  <Genus>Crypturellus</Genus>
+  <Species>strigulosus</Species>
+  <Sub-species />
+  <VernacularNames>Brazilian Tinamou</VernacularNames>
+</Audio>

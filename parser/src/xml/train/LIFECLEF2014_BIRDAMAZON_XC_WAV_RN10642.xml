@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>10642</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN10642.wav</FileName>
+  <ClassId>cuwfkj</ClassId>
+  <Date>2013-01-04</Date>
+  <Time>08:00</Time>
+  <Locality>Pão de Açúcar, Alagoas</Locality>
+  <Latitude>-9.7326</Latitude>
+  <Longitude>-37.4351</Longitude>
+  <Elevation>90</Elevation>
+  <Author>pedrotêia</Author>
+  <AuthorID>BZVNDWLRSQ</AuthorID>
+  <Content>song</Content>
+  <Comments />
+  <Quality>0</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Thamnophilidae</Family>
+  <Genus>Herpsilochmus</Genus>
+  <Species>sellowi</Species>
+  <Sub-species />
+  <VernacularNames>Caatinga Antwren</VernacularNames>
+</Audio>

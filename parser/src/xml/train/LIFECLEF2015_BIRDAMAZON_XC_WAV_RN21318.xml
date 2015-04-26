@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>21318</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN21318.wav</FileName>
+  <ClassId>sjjpbk</ClassId>
+  <Date>2014-09-19</Date>
+  <Time>08:00</Time>
+  <Locality>Vereda San Fidel, Villagarzon, Putumayo</Locality>
+  <Latitude>0.8137</Latitude>
+  <Longitude>-76.6091</Longitude>
+  <Elevation>320</Elevation>
+  <Author>katherine C Cubillos</Author>
+  <AuthorID>SKLCUGTMAU</AuthorID>
+  <Content>call</Content>
+  <Comments>bird-seen:yesplayback-used:no</Comments>
+  <Quality>1</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Thraupidae</Family>
+  <Genus>Thlypopsis</Genus>
+  <Species>sordida</Species>
+  <Sub-species />
+  <VernacularNames>Orange-headed Tanager</VernacularNames>
+</Audio>

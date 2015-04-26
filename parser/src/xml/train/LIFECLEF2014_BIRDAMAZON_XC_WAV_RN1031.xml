@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>1031</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN1031.wav</FileName>
+  <ClassId>mwocnj</ClassId>
+  <Date>1998-12-14</Date>
+  <Time>09:16</Time>
+  <Locality>Mt. Anhangava, SE of Quatro Barras, Parana</Locality>
+  <Latitude>-25.3867</Latitude>
+  <Longitude>-49.0139</Longitude>
+  <Elevation>1015</Elevation>
+  <Author>Rolf A. de By</Author>
+  <AuthorID>PTYTXQRLSZ</AuthorID>
+  <Content>song</Content>
+  <Comments />
+  <Quality>0</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies>Procnias nudicollis</BackgroundSpecies>
+  <Order>Passeriformes</Order>
+  <Family>Thamnophilidae</Family>
+  <Genus>Drymophila</Genus>
+  <Species>malura</Species>
+  <Sub-species />
+  <VernacularNames>Dusky-tailed Antbird</VernacularNames>
+</Audio>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>12250</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN12250.wav</FileName>
+  <ClassId>ebxlim</ClassId>
+  <Date>2013-06-22</Date>
+  <Time>10:30</Time>
+  <Locality>Xapuri, Acre</Locality>
+  <Latitude>-10.7427</Latitude>
+  <Longitude>-68.2818</Longitude>
+  <Elevation>220</Elevation>
+  <Author>Marcos A. Melo</Author>
+  <AuthorID>MRGDYNJGUJ</AuthorID>
+  <Content>song</Content>
+  <Comments>Habitat: forest fragment with bamboo patch. bird-seen:yesplayback-used:no</Comments>
+  <Quality>1</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies>Crypturellus cinereus,Trogon melanurus,Myrmoborus leucophrys,Megarynchus pitangua,Myrmeciza hemimelaena,Hypocnemis subflava</BackgroundSpecies>
+  <Order>Passeriformes</Order>
+  <Family>Thamnophilidae</Family>
+  <Genus>Taraba</Genus>
+  <Species>major</Species>
+  <Sub-species />
+  <VernacularNames>Great Antshrike</VernacularNames>
+</Audio>

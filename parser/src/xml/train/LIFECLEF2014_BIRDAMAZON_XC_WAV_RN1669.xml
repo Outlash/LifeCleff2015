@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>1669</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN1669.wav</FileName>
+  <ClassId>qfjwpy</ClassId>
+  <Date>2005-04-09</Date>
+  <Time>09:15</Time>
+  <Locality>Reserva Ecológica de Guapiaçu, RJ</Locality>
+  <Latitude>-22.5001</Latitude>
+  <Longitude>-42.7167</Longitude>
+  <Elevation>30</Elevation>
+  <Author>Nick Athanas</Author>
+  <AuthorID>XRABICUARW</AuthorID>
+  <Content>call</Content>
+  <Comments>Two birds calling at the same time.</Comments>
+  <Quality>1</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies>Troglodytes aedon,Anthus lutescens,Camptostoma obsoletum</BackgroundSpecies>
+  <Order>Charadriiformes</Order>
+  <Family>Charadriidae</Family>
+  <Genus>Vanellus</Genus>
+  <Species>chilensis</Species>
+  <Sub-species>lampronotus</Sub-species>
+  <VernacularNames>Southern Lapwing</VernacularNames>
+</Audio>

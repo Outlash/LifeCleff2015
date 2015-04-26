@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>14079</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN14079.wav</FileName>
+  <ClassId>tadaeg</ClassId>
+  <Date>2005-08-15</Date>
+  <Time>9:35</Time>
+  <Locality>Huila, San Agustín, Reserva Los Yalcones, El Palmar. Interfluvio Quebrada El Palmar - Rio Balseros</Locality>
+  <Latitude>1.795556</Latitude>
+  <Longitude>-76.35139</Longitude>
+  <Elevation>2500</Elevation>
+  <Author>Diego Calderón (Colección de Sonidos Ambientales - Instituto Humboldt)</Author>
+  <AuthorID>XMFDPACYJN</AuthorID>
+  <Content>song</Content>
+  <Comments>BSA 16610To obtain a wav file of the original recording, please contact csa@humboldt.org.coWP 23/9/2013: originally the also field had: Pseudotriccus ruficeps (bsa1103)bird-seen:yesplayback-used:no</Comments>
+  <Quality>2</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies>Grallaria ruficapilla,Pseudotriccus ruficeps</BackgroundSpecies>
+  <Order>Passeriformes</Order>
+  <Family>Rhinocryptidae</Family>
+  <Genus>Scytalopus</Genus>
+  <Species>spillmanni</Species>
+  <Sub-species />
+  <VernacularNames>Spillmann's Tapaculo</VernacularNames>
+</Audio>

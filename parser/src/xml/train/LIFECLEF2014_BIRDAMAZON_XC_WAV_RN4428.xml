@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>4428</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN4428.wav</FileName>
+  <ClassId>ylomyt</ClassId>
+  <Date>2010-01-20</Date>
+  <Time>11:00</Time>
+  <Locality>RPPN Prima Luna, Nova Trento, Santa Catarina</Locality>
+  <Latitude>-27.258</Latitude>
+  <Longitude>-49.02</Longitude>
+  <Elevation>900</Elevation>
+  <Author>Evair Legal</Author>
+  <AuthorID>SMJXFKLATM</AuthorID>
+  <Content>call</Content>
+  <Comments />
+  <Quality>1</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies />
+  <Order>Apodiformes</Order>
+  <Family>Trochilidae</Family>
+  <Genus>Clytolaema</Genus>
+  <Species>rubricauda</Species>
+  <Sub-species />
+  <VernacularNames>Brazilian Ruby</VernacularNames>
+</Audio>

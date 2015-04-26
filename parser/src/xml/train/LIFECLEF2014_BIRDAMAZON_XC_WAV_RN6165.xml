@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>6165</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN6165.wav</FileName>
+  <ClassId>ztxztb</ClassId>
+  <Date>2008-12-25</Date>
+  <Time>18:35</Time>
+  <Locality>Balneário Pontal, Itapoá, SC</Locality>
+  <Latitude>-26.16667</Latitude>
+  <Longitude>-48.6</Longitude>
+  <Elevation>6</Elevation>
+  <Author>Eduardo Patrial</Author>
+  <AuthorID>QEFRRVCRRP</AuthorID>
+  <Content>call</Content>
+  <Comments />
+  <Quality>3</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Thraupidae</Family>
+  <Genus>Ramphocelus</Genus>
+  <Species>bresilius</Species>
+  <Sub-species />
+  <VernacularNames>Brazilian Tanager</VernacularNames>
+</Audio>

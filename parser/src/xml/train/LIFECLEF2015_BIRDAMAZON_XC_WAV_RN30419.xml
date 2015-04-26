@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>30419</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN30419.wav</FileName>
+  <ClassId>ffvgyk</ClassId>
+  <Date>2003-01-00</Date>
+  <Time>xx:xx</Time>
+  <Locality>El Talisman, San Vicente, Yariguies, Santander</Locality>
+  <Latitude>6.8492</Latitude>
+  <Longitude>-73.3642</Longitude>
+  <Elevation>2000</Elevation>
+  <Author>Thomas Donegan</Author>
+  <AuthorID>OXSIOLJJUP</AuthorID>
+  <Content>call, song</Content>
+  <Comments>2 individuals. Starts with quiet rattling call of female, then liquid song of male</Comments>
+  <Quality>5</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Troglodytidae</Family>
+  <Genus>Henicorhina</Genus>
+  <Species>leucophrys</Species>
+  <Sub-species>leucophrys</Sub-species>
+  <VernacularNames>Grey-breasted Wood Wren</VernacularNames>
+</Audio>

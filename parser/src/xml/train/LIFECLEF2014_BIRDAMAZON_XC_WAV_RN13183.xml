@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>13183</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN13183.wav</FileName>
+  <ClassId>bmiqmk</ClassId>
+  <Date>2010-03-12</Date>
+  <Time>?</Time>
+  <Locality>Parque Municipal da Lagoa do Peri, Florianópolis, Santa Catarina</Locality>
+  <Latitude>-27.717</Latitude>
+  <Longitude>-48.517</Longitude>
+  <Elevation>30</Elevation>
+  <Author>Evair Legal</Author>
+  <AuthorID>SMJXFKLATM</AuthorID>
+  <Content>call</Content>
+  <Comments>lekking</Comments>
+  <Quality>2</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Pipridae</Family>
+  <Genus>Chiroxiphia</Genus>
+  <Species>caudata</Species>
+  <Sub-species />
+  <VernacularNames>Blue Manakin</VernacularNames>
+</Audio>

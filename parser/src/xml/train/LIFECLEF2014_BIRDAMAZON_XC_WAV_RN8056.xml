@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>8056</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN8056.wav</FileName>
+  <ClassId>ddkxtm</ClassId>
+  <Date>2005-04-23</Date>
+  <Time>09:30</Time>
+  <Locality>Nova Friburgo-São Lourenço road, RJ</Locality>
+  <Latitude>NULL</Latitude>
+  <Longitude>NULL</Longitude>
+  <Elevation>1300</Elevation>
+  <Author>Nick Athanas</Author>
+  <AuthorID>XRABICUARW</AuthorID>
+  <Content>song</Content>
+  <Comments>Responding to playback.</Comments>
+  <Quality>1</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Furnariidae</Family>
+  <Genus>Synallaxis</Genus>
+  <Species>cinerascens</Species>
+  <Sub-species />
+  <VernacularNames>Grey-bellied Spinetail</VernacularNames>
+</Audio>

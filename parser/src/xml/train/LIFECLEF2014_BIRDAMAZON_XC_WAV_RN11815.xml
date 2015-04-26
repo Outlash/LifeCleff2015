@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>11815</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN11815.wav</FileName>
+  <ClassId>umxbnz</ClassId>
+  <Date>2009-09-13</Date>
+  <Time>07:40</Time>
+  <Locality>Cristalina, Goiás</Locality>
+  <Latitude>-16.770686</Latitude>
+  <Longitude>-47.612</Longitude>
+  <Elevation>980</Elevation>
+  <Author>Nunes D´Acosta</Author>
+  <AuthorID>OHHTDSDNBT</AuthorID>
+  <Content>song</Content>
+  <Comments>Canto de um indivíduo isolando dentro  de  fragmento  de cerrado antropizado - Córrego Cristal.</Comments>
+  <Quality>2</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies />
+  <Order>Tinamiformes</Order>
+  <Family>Tinamidae</Family>
+  <Genus>Taoniscus</Genus>
+  <Species>nanus</Species>
+  <Sub-species />
+  <VernacularNames>Dwarf Tinamou</VernacularNames>
+</Audio>

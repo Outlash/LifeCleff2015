@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>9574</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN9574.wav</FileName>
+  <ClassId>cthdvt</ClassId>
+  <Date>2005-08-12</Date>
+  <Time>14:00</Time>
+  <Locality>Itatiaia NP, RJ</Locality>
+  <Latitude>-22.38</Latitude>
+  <Longitude>-44.63</Longitude>
+  <Elevation>800</Elevation>
+  <Author>Ricardo Gagliardi</Author>
+  <AuthorID>YRDADNREOP</AuthorID>
+  <Content>song</Content>
+  <Comments />
+  <Quality>2</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Tyrannidae</Family>
+  <Genus>Capsiempis</Genus>
+  <Species>flaveola</Species>
+  <Sub-species />
+  <VernacularNames>Yellow Tyrannulet</VernacularNames>
+</Audio>

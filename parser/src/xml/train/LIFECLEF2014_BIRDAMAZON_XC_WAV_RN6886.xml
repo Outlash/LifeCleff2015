@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>6886</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN6886.wav</FileName>
+  <ClassId>azrobg</ClassId>
+  <Date>2012-09-07</Date>
+  <Time>07:00</Time>
+  <Locality>Ilhabela, São Paulo</Locality>
+  <Latitude>-23.8519</Latitude>
+  <Longitude>-45.2829</Longitude>
+  <Elevation>0</Elevation>
+  <Author>Eduardo D. Schultz</Author>
+  <AuthorID>QYOZQITVAC</AuthorID>
+  <Content>song</Content>
+  <Comments>At some shrubs on Castelhanos beach. There was a couple singing.bird-seen:yesplayback-used:no</Comments>
+  <Quality>3</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Thamnophilidae</Family>
+  <Genus>Herpsilochmus</Genus>
+  <Species>rufimarginatus</Species>
+  <Sub-species />
+  <VernacularNames>Rufous-winged Antwren</VernacularNames>
+</Audio>

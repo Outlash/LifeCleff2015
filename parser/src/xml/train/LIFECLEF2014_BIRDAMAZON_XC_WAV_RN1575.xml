@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>1575</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN1575.wav</FileName>
+  <ClassId>fevggo</ClassId>
+  <Date>2009-04-17</Date>
+  <Time>?:?</Time>
+  <Locality>Manaus. ZF-2 road</Locality>
+  <Latitude>-2.5501</Latitude>
+  <Longitude>-60.0834</Longitude>
+  <Elevation>?</Elevation>
+  <Author>Joseph Tobias and Nathalie Seddon</Author>
+  <AuthorID>IKMWQIXRNV</AuthorID>
+  <Content>song</Content>
+  <Comments>From the tower, after playback. track T2150.</Comments>
+  <Quality>2</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Furnariidae</Family>
+  <Genus>Lepidocolaptes</Genus>
+  <Species>albolineatus</Species>
+  <Sub-species>albolineatus</Sub-species>
+  <VernacularNames>Lineated Woodcreeper</VernacularNames>
+</Audio>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>11110</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN11110.wav</FileName>
+  <ClassId>lsoxmb</ClassId>
+  <Date>2012-02-07</Date>
+  <Time>08:00</Time>
+  <Locality>Banhado do Maçarico region, Rio Grande, Rio Grande do Sul</Locality>
+  <Latitude>-32.122</Latitude>
+  <Longitude>-52.27</Longitude>
+  <Elevation>3</Elevation>
+  <Author>Rafael Antunes Dias</Author>
+  <AuthorID>XJSWEWQCEC</AuthorID>
+  <Content>call</Content>
+  <Comments>In grassland in grassland-wetland mosaic</Comments>
+  <Quality>2</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Mimidae</Family>
+  <Genus>Mimus</Genus>
+  <Species>saturninus</Species>
+  <Sub-species />
+  <VernacularNames>Chalk-browed Mockingbird</VernacularNames>
+</Audio>

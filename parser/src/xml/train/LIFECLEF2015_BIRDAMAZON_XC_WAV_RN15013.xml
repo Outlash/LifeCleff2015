@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>15013</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN15013.wav</FileName>
+  <ClassId>uizzbr</ClassId>
+  <Date>2010-11-26</Date>
+  <Time>15:57</Time>
+  <Locality>Piste de Belizon entre Saul et Eaux claires</Locality>
+  <Latitude>NULL</Latitude>
+  <Longitude>NULL</Longitude>
+  <Elevation>250</Elevation>
+  <Author>Patrick INGREMEAU</Author>
+  <AuthorID>IIVTYSKEYX</AuthorID>
+  <Content>Song</Content>
+  <Comments>A rather different and more melodious song</Comments>
+  <Quality>1</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Cotingidae</Family>
+  <Genus>Lipaugus</Genus>
+  <Species>vociferans</Species>
+  <Sub-species />
+  <VernacularNames>Screaming Piha</VernacularNames>
+</Audio>

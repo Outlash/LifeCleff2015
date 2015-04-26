@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>3801</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN3801.wav</FileName>
+  <ClassId>scjydk</ClassId>
+  <Date>2009-11-17</Date>
+  <Time>18:30</Time>
+  <Locality>Poconé, Mato Grosso</Locality>
+  <Latitude>-16.5617</Latitude>
+  <Longitude>-56.6984</Longitude>
+  <Elevation>120</Elevation>
+  <Author>William Zaca</Author>
+  <AuthorID>QPVHQBUWGE</AuthorID>
+  <Content>song</Content>
+  <Comments>bird-seen:yesplayback-used:no</Comments>
+  <Quality>2</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies />
+  <Order>Psittaciformes</Order>
+  <Family>Psittacidae</Family>
+  <Genus>Anodorhynchus</Genus>
+  <Species>hyacinthinus</Species>
+  <Sub-species />
+  <VernacularNames>Hyacinth Macaw</VernacularNames>
+</Audio>

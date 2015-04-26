@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>4003</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN4003.wav</FileName>
+  <ClassId>kzuumm</ClassId>
+  <Date>2008-02-18</Date>
+  <Time>19:30</Time>
+  <Locality>Serra dos Carajás, PA</Locality>
+  <Latitude>-6.1603</Latitude>
+  <Longitude>-50.3459</Longitude>
+  <Elevation>400</Elevation>
+  <Author>Sidnei Dantas</Author>
+  <AuthorID>NNCKQMBGPH</AuthorID>
+  <Content>call</Content>
+  <Comments>land forest</Comments>
+  <Quality>4</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies />
+  <Order>Caprimulgiformes</Order>
+  <Family>Caprimulgidae</Family>
+  <Genus>Nyctiphrynus</Genus>
+  <Species>ocellatus</Species>
+  <Sub-species />
+  <VernacularNames>Ocellated Poorwill</VernacularNames>
+</Audio>

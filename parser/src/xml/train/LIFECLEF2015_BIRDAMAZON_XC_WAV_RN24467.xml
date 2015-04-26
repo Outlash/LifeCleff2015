@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>24467</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN24467.wav</FileName>
+  <ClassId>ahuzrk</ClassId>
+  <Date>2013-01-18</Date>
+  <Time>07:30</Time>
+  <Locality>San Agustin, Huila</Locality>
+  <Latitude>1.8939</Latitude>
+  <Longitude>-76.2727</Longitude>
+  <Elevation>1700</Elevation>
+  <Author>Yair G Molina Martínez</Author>
+  <AuthorID>UQUOPFIYYQ</AuthorID>
+  <Content>song</Content>
+  <Comments>bird-seen:yesplayback-used:no</Comments>
+  <Quality>1</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Thamnophilidae</Family>
+  <Genus>Thamnophilus</Genus>
+  <Species>multistriatus</Species>
+  <Sub-species />
+  <VernacularNames>Bar-crested Antshrike</VernacularNames>
+</Audio>

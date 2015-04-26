@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>13969</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN13969.wav</FileName>
+  <ClassId>vcflij</ClassId>
+  <Date>2006-06-11</Date>
+  <Time>09:45</Time>
+  <Locality>Cubatão, São Paulo</Locality>
+  <Latitude>-23.895</Latitude>
+  <Longitude>-46.42528</Longitude>
+  <Elevation>0</Elevation>
+  <Author>Fabio Olmos</Author>
+  <AuthorID>KSFTXTWUGU</AuthorID>
+  <Content>song</Content>
+  <Comments>reaction to play-back. Dense grass by mangrove swamp</Comments>
+  <Quality>1</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies />
+  <Order>Gruiformes</Order>
+  <Family>Rallidae</Family>
+  <Genus>Laterallus</Genus>
+  <Species>viridis</Species>
+  <Sub-species />
+  <VernacularNames>Russet-crowned Crake</VernacularNames>
+</Audio>

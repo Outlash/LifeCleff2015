@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>15548</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN15548.wav</FileName>
+  <ClassId>wsyiro</ClassId>
+  <Date>2009-02-13</Date>
+  <Time>10:00</Time>
+  <Locality>Henri Pittier National Park, Mario Briceno Iragorry, Aragua</Locality>
+  <Latitude>10.3557</Latitude>
+  <Longitude>-67.7196</Longitude>
+  <Elevation>800</Elevation>
+  <Author>Fernand DEROUSSEN</Author>
+  <AuthorID>UXGZWVYDFE</AuthorID>
+  <Content>song</Content>
+  <Comments>bird-seen:yesplayback-used:no</Comments>
+  <Quality>1</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Turdidae</Family>
+  <Genus>Turdus</Genus>
+  <Species>flavipes</Species>
+  <Sub-species />
+  <VernacularNames>Yellow-legged Thrush</VernacularNames>
+</Audio>

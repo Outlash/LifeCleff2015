@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>10602</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN10602.wav</FileName>
+  <ClassId>ioaqnm</ClassId>
+  <Date>2005-06-18</Date>
+  <Time>08:20</Time>
+  <Locality>Tijuca National Park - RJ</Locality>
+  <Latitude>-22.9567</Latitude>
+  <Longitude>-43.2806</Longitude>
+  <Elevation>600</Elevation>
+  <Author>Ricardo Gagliardi</Author>
+  <AuthorID>YRDADNREOP</AuthorID>
+  <Content>call</Content>
+  <Comments />
+  <Quality>2</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies />
+  <Order>Cuculiformes</Order>
+  <Family>Cuculidae</Family>
+  <Genus>Piaya</Genus>
+  <Species>cayana</Species>
+  <Sub-species />
+  <VernacularNames>Squirrel Cuckoo</VernacularNames>
+</Audio>

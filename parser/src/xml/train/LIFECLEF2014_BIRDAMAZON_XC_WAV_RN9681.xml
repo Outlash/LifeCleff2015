@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>9681</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN9681.wav</FileName>
+  <ClassId>xzyogt</ClassId>
+  <Date>2011-01-30</Date>
+  <Time>9am</Time>
+  <Locality>Comandatuba Island, Una,Bahia, Brazil</Locality>
+  <Latitude>-15.355</Latitude>
+  <Longitude>-38.982</Longitude>
+  <Elevation>5</Elevation>
+  <Author>Antonio Silveira</Author>
+  <AuthorID>NBJQSQJRYH</AuthorID>
+  <Content>song</Content>
+  <Comments>bird-seen:yesplayback-used:yes</Comments>
+  <Quality>1</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Furnariidae</Family>
+  <Genus>Furnarius</Genus>
+  <Species>figulus</Species>
+  <Sub-species />
+  <VernacularNames>Band-tailed Hornero</VernacularNames>
+</Audio>

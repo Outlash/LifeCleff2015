@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>32006</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN32006.wav</FileName>
+  <ClassId>biwpqg</ClassId>
+  <Date>2011-02-17</Date>
+  <Time>18:22</Time>
+  <Locality>Sitio Tomio, Salete, Santa Catarina State</Locality>
+  <Latitude>-26.995</Latitude>
+  <Longitude>-50.014</Longitude>
+  <Elevation>460</Elevation>
+  <Author>Douglas Meyer</Author>
+  <AuthorID>MNENFHYTAE</AuthorID>
+  <Content>flight call, song</Content>
+  <Comments>bird-seen:yesplayback-used:no</Comments>
+  <Quality>3</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Anseriformes</Order>
+  <Family>Anatidae</Family>
+  <Genus>Amazonetta</Genus>
+  <Species>brasiliensis</Species>
+  <Sub-species />
+  <VernacularNames>Brazilian Teal</VernacularNames>
+</Audio>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>1174</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN1174.wav</FileName>
+  <ClassId>ffwvot</ClassId>
+  <Date>2011-06-04</Date>
+  <Time>15:30</Time>
+  <Locality>Estrada do Balneário, PARNA Lagoa do Peixe, Mostardas, Rio Grande do Sul</Locality>
+  <Latitude>-31.1136</Latitude>
+  <Longitude>-50.8582</Longitude>
+  <Elevation>0</Elevation>
+  <Author>Rafael Antunes Dias</Author>
+  <AuthorID>XJSWEWQCEC</AuthorID>
+  <Content>song</Content>
+  <Comments>In bulrush in marsh crossed by the road.bird-seen:yesplayback-used:yes</Comments>
+  <Quality>2</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies>Chauna torquata</BackgroundSpecies>
+  <Order>Passeriformes</Order>
+  <Family>Furnariidae</Family>
+  <Genus>Certhiaxis</Genus>
+  <Species>cinnamomeus</Species>
+  <Sub-species />
+  <VernacularNames>Yellow-chinned Spinetail</VernacularNames>
+</Audio>

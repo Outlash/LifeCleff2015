@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>24313</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN24313.wav</FileName>
+  <ClassId>qjmcsl</ClassId>
+  <Date>2012-04-14</Date>
+  <Time>07:35</Time>
+  <Locality>RNA El Dorado, Sierra de Santa Marta, Magdalena</Locality>
+  <Latitude>11.1009</Latitude>
+  <Longitude>-74.072</Longitude>
+  <Elevation>1960</Elevation>
+  <Author>Jeremy Minns</Author>
+  <AuthorID>DGVLLRYDXS</AuthorID>
+  <Content>Song</Content>
+  <Comments>Montane forest edge. After playback.</Comments>
+  <Quality>0</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Tyrannidae</Family>
+  <Genus>Hemitriccus</Genus>
+  <Species>granadensis</Species>
+  <Sub-species>lehmanni</Sub-species>
+  <VernacularNames>Black-throated Tody-Tyrant</VernacularNames>
+</Audio>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>6444</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN6444.wav</FileName>
+  <ClassId>izpyuo</ClassId>
+  <Date>2006-10-02</Date>
+  <Time>11:43</Time>
+  <Locality>Reserva Ecológica de Guapiassu, RJ</Locality>
+  <Latitude>NULL</Latitude>
+  <Longitude>NULL</Longitude>
+  <Elevation>350</Elevation>
+  <Author>Leonardo Pimentel</Author>
+  <AuthorID>JHBOHGJALL</AuthorID>
+  <Content>song</Content>
+  <Comments />
+  <Quality>1</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies>Turdus leucomelas,Xiphorhynchus fuscus</BackgroundSpecies>
+  <Order>Passeriformes</Order>
+  <Family>Thraupidae</Family>
+  <Genus>Thraupis</Genus>
+  <Species>ornata</Species>
+  <Sub-species />
+  <VernacularNames>Golden-chevroned Tanager</VernacularNames>
+</Audio>

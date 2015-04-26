@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>2970</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN2970.wav</FileName>
+  <ClassId>uzzjrh</ClassId>
+  <Date>2008-10-27</Date>
+  <Time>18:25</Time>
+  <Locality>Bairro do Jaceguava, São Paulo, SP</Locality>
+  <Latitude>-23.752501</Latitude>
+  <Longitude>-46.735334</Longitude>
+  <Elevation>760</Elevation>
+  <Author>Marcos Melo</Author>
+  <AuthorID>MRGDYNJGUJ</AuthorID>
+  <Content>distress calls</Content>
+  <Comments>In response playback</Comments>
+  <Quality>2</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Tyrannidae</Family>
+  <Genus>Myiarchus</Genus>
+  <Species>swainsoni</Species>
+  <Sub-species />
+  <VernacularNames>Swainson's Flycatcher</VernacularNames>
+</Audio>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>16235</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN16235.wav</FileName>
+  <ClassId>byvvse</ClassId>
+  <Date>1997-08-21</Date>
+  <Time>14:04</Time>
+  <Locality>Intervales State Park. Carmo road</Locality>
+  <Latitude>-24.2834</Latitude>
+  <Longitude>-48.4334</Longitude>
+  <Elevation>600</Elevation>
+  <Author>Jeremy Minns</Author>
+  <AuthorID>DGVLLRYDXS</AuthorID>
+  <Content>Song</Content>
+  <Comments>Humid forest. Two takes (about 60 secs cut out).</Comments>
+  <Quality>2</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies>Procnias nudicollis,Schiffornis virescens</BackgroundSpecies>
+  <Order>Passeriformes</Order>
+  <Family>Tityridae</Family>
+  <Genus>Oxyruncus</Genus>
+  <Species>cristatus</Species>
+  <Sub-species>cristatus</Sub-species>
+  <VernacularNames>Sharpbill</VernacularNames>
+</Audio>

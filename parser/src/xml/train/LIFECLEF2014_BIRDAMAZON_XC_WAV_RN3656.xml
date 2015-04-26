@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>3656</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN3656.wav</FileName>
+  <ClassId>omlmlo</ClassId>
+  <Date>2012-06-29</Date>
+  <Time>09:30</Time>
+  <Locality>Erechim, Rio Grande do Sul</Locality>
+  <Latitude>-27.6061</Latitude>
+  <Longitude>-52.2735</Longitude>
+  <Elevation>700</Elevation>
+  <Author>Alexandre Bianco</Author>
+  <AuthorID>ODNEDFESFY</AuthorID>
+  <Content>song</Content>
+  <Comments>bird-seen:yesplayback-used:no</Comments>
+  <Quality>5</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Cardinalidae</Family>
+  <Genus>Cyanocompsa</Genus>
+  <Species>brissonii</Species>
+  <Sub-species />
+  <VernacularNames>Ultramarine Grosbeak</VernacularNames>
+</Audio>

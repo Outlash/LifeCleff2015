@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>7846</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN7846.wav</FileName>
+  <ClassId>wckepf</ClassId>
+  <Date>2010-09-00</Date>
+  <Time>?</Time>
+  <Locality>Campo Mourão, Paraná</Locality>
+  <Latitude>NULL</Latitude>
+  <Longitude>NULL</Longitude>
+  <Elevation>350</Elevation>
+  <Author>luiz shrike</Author>
+  <AuthorID>ORPKXJRFDZ</AuthorID>
+  <Content>song</Content>
+  <Comments />
+  <Quality>1</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies>Elaenia spectabilis,Vanellus chilensis</BackgroundSpecies>
+  <Order>Passeriformes</Order>
+  <Family>Tyrannidae</Family>
+  <Genus>Euscarthmus</Genus>
+  <Species>meloryphus</Species>
+  <Sub-species />
+  <VernacularNames>Tawny-crowned Pygmy Tyrant</VernacularNames>
+</Audio>

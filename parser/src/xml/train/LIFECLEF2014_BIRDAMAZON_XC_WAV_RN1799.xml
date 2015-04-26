@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>1799</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN1799.wav</FileName>
+  <ClassId>ajqxje</ClassId>
+  <Date>2006-11-05</Date>
+  <Time>08:15</Time>
+  <Locality>Estrada da Graciosa, Paraná state</Locality>
+  <Latitude>-25.3334</Latitude>
+  <Longitude>-48.9001</Longitude>
+  <Elevation>900</Elevation>
+  <Author>Daniel Lane</Author>
+  <AuthorID>WOEAFQRMUD</AuthorID>
+  <Content>song</Content>
+  <Comments>Natural song from midstory of humid montane forest.</Comments>
+  <Quality>2</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies>Turdus flavipes,Turdus albicollis,Coereba flaveola,Procnias nudicollis</BackgroundSpecies>
+  <Order>Passeriformes</Order>
+  <Family>Cotingidae</Family>
+  <Genus>Carpornis</Genus>
+  <Species>cucullata</Species>
+  <Sub-species />
+  <VernacularNames>Hooded Berryeater</VernacularNames>
+</Audio>

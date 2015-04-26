@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>23777</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN23777.wav</FileName>
+  <ClassId>ilymqq</ClassId>
+  <Date>2009-09-03</Date>
+  <Time>07:50</Time>
+  <Locality>vereda La Unión, Quipile, Cundinamarca</Locality>
+  <Latitude>4.7455</Latitude>
+  <Longitude>-74.5339</Longitude>
+  <Elevation>1500</Elevation>
+  <Author>Sergio Chaparro-Herrera</Author>
+  <AuthorID>RJLERWCWGE</AuthorID>
+  <Content>song</Content>
+  <Comments>bird-seen:yesplayback-used:no</Comments>
+  <Quality>2</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Vireonidae</Family>
+  <Genus>Hylophilus</Genus>
+  <Species>semibrunneus</Species>
+  <Sub-species />
+  <VernacularNames>Rufous-naped Greenlet</VernacularNames>
+</Audio>

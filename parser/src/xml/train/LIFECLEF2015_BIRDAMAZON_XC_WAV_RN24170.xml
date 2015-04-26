@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>24170</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN24170.wav</FileName>
+  <ClassId>azrobg</ClassId>
+  <Date>2013-12-01</Date>
+  <Time>15:00</Time>
+  <Locality>Araponga, Minas Gerais</Locality>
+  <Latitude>-20.6665</Latitude>
+  <Longitude>-42.5222</Longitude>
+  <Elevation>950</Elevation>
+  <Author>Vitor Herdy</Author>
+  <AuthorID>GJMKCBCJJE</AuthorID>
+  <Content>call</Content>
+  <Comments>Id por Wagner Nogueira.  A quem agradeço.bird-seen:noplayback-used:no</Comments>
+  <Quality>3</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Thamnophilidae</Family>
+  <Genus>Herpsilochmus</Genus>
+  <Species>rufimarginatus</Species>
+  <Sub-species />
+  <VernacularNames>Rufous-winged Antwren</VernacularNames>
+</Audio>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>830</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN830.wav</FileName>
+  <ClassId>sgfjyn</ClassId>
+  <Date>2001-04-14</Date>
+  <Time>17:17</Time>
+  <Locality>Emas National Park, Goias state</Locality>
+  <Latitude>-18.098866</Latitude>
+  <Longitude>-52.874451</Longitude>
+  <Elevation>780</Elevation>
+  <Author>Jeremy Minns</Author>
+  <AuthorID>DGVLLRYDXS</AuthorID>
+  <Content>duet, song</Content>
+  <Comments>Gallery forest. Duet by pair, about 30 mins after playback. Interval between vocalizations now close to that of natural song.</Comments>
+  <Quality>1</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies>Turdus leucomelas</BackgroundSpecies>
+  <Order>Passeriformes</Order>
+  <Family>Thamnophilidae</Family>
+  <Genus>Herpsilochmus</Genus>
+  <Species>longirostris</Species>
+  <Sub-species />
+  <VernacularNames>Large-billed Antwren</VernacularNames>
+</Audio>

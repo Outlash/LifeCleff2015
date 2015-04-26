@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>26309</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN26309.wav</FileName>
+  <ClassId>wserxv</ClassId>
+  <Date>2010-07-26</Date>
+  <Time>09:00</Time>
+  <Locality>Alto Anchicaya, corregimiento El Danubio, Valle</Locality>
+  <Latitude>3.389</Latitude>
+  <Longitude>-76.8</Longitude>
+  <Elevation>599</Elevation>
+  <Author>Eliana Fierro-Calderón</Author>
+  <AuthorID>XZZUTMHBLM</AuthorID>
+  <Content>song</Content>
+  <Comments />
+  <Quality>3</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Troglodytidae</Family>
+  <Genus>Cantorchilus</Genus>
+  <Species>nigricapillus</Species>
+  <Sub-species />
+  <VernacularNames>Bay Wren</VernacularNames>
+</Audio>

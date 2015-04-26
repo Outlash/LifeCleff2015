@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>22736</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN22736.wav</FileName>
+  <ClassId>iydjte</ClassId>
+  <Date>2008-06-21</Date>
+  <Time>09:00</Time>
+  <Locality>Filo Pamplona, Serrania de los Yariguies, Galan, Santander, 06º38’N</Locality>
+  <Latitude>6.6384</Latitude>
+  <Longitude>-73.4089</Longitude>
+  <Elevation>3200</Elevation>
+  <Author>Jorge Enrique Avendaño</Author>
+  <AuthorID>KYUFWYBYJY</AuthorID>
+  <Content>call</Content>
+  <Comments>Paramo.bird-seen:yesplayback-used:no</Comments>
+  <Quality>3</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Furnariidae</Family>
+  <Genus>Asthenes</Genus>
+  <Species>fuliginosa</Species>
+  <Sub-species />
+  <VernacularNames>White-chinned Thistletail</VernacularNames>
+</Audio>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>20253</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN20253.wav</FileName>
+  <ClassId>ijpmji</ClassId>
+  <Date>2011-10-01</Date>
+  <Time>?</Time>
+  <Locality>Maripasoula, Grand Inini</Locality>
+  <Latitude>NULL</Latitude>
+  <Longitude>NULL</Longitude>
+  <Elevation>90</Elevation>
+  <Author>Alexandre Renaudier</Author>
+  <AuthorID>GKADEITXTH</AuthorID>
+  <Content>call</Content>
+  <Comments>2 birds in flight above a creek</Comments>
+  <Quality>2</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies>Patagioenas plumbea,Automolus rufipileatus,Coereba flaveola,Cercomacra cinerascens</BackgroundSpecies>
+  <Order>Psittaciformes</Order>
+  <Family>Psittacidae</Family>
+  <Genus>Amazona</Genus>
+  <Species>farinosa</Species>
+  <Sub-species />
+  <VernacularNames>Mealy Amazon</VernacularNames>
+</Audio>

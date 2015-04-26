@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>20891</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN20891.wav</FileName>
+  <ClassId>zfacpp</ClassId>
+  <Date>2012-02-02</Date>
+  <Time>09:30</Time>
+  <Locality>Río Claro Reserve. Argelia. Antioquia</Locality>
+  <Latitude>5.93</Latitude>
+  <Longitude>-74.834</Longitude>
+  <Elevation>380</Elevation>
+  <Author>Ottavio Janni</Author>
+  <AuthorID>PWMAZXONXH</AuthorID>
+  <Content>call, song</Content>
+  <Comments>Song after playback with a few calls at the end of the recordingbird-seen:yesplayback-used:yes</Comments>
+  <Quality>3</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Thamnophilidae</Family>
+  <Genus>Myrmeciza</Genus>
+  <Species>palliata</Species>
+  <Sub-species />
+  <VernacularNames>Magdalena Antbird</VernacularNames>
+</Audio>

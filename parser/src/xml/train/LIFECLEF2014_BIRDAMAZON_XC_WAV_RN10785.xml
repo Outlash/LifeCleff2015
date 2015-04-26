@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>10785</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN10785.wav</FileName>
+  <ClassId>ephxxx</ClassId>
+  <Date>2006-07-23</Date>
+  <Time>07:15</Time>
+  <Locality>Belém, state of Pará</Locality>
+  <Latitude>-1.4506</Latitude>
+  <Longitude>-48.4439</Longitude>
+  <Elevation>50</Elevation>
+  <Author>Sidnei de Melo Dantas</Author>
+  <AuthorID>NNCKQMBGPH</AuthorID>
+  <Content>song</Content>
+  <Comments />
+  <Quality>4</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies>Tyrannus melancholicus,Tyrannus melancholicus,Camptostoma obsoletum,Brotogeris versicolurus</BackgroundSpecies>
+  <Order>Passeriformes</Order>
+  <Family>Tyrannidae</Family>
+  <Genus>Legatus</Genus>
+  <Species>leucophaius</Species>
+  <Sub-species />
+  <VernacularNames>Piratic Flycatcher</VernacularNames>
+</Audio>

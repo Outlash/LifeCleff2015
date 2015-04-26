@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>640</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN640.wav</FileName>
+  <ClassId>nknnjw</ClassId>
+  <Date>2009-09-17</Date>
+  <Time>?</Time>
+  <Locality>Linha Emília, Dois Lajeados, Rio Grande do Sul</Locality>
+  <Latitude>-28.9403</Latitude>
+  <Longitude>-51.7806</Longitude>
+  <Elevation>200</Elevation>
+  <Author>Adrian Eisen Rupp</Author>
+  <AuthorID>AOPMSCIDIA</AuthorID>
+  <Content>song</Content>
+  <Comments />
+  <Quality>1</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies>Cyanocompsa brissonii</BackgroundSpecies>
+  <Order>Passeriformes</Order>
+  <Family>Parulidae</Family>
+  <Genus>Myiothlypis</Genus>
+  <Species>leucoblephara</Species>
+  <Sub-species />
+  <VernacularNames>White-rimmed Warbler</VernacularNames>
+</Audio>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>4001</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN4001.wav</FileName>
+  <ClassId>hkgozq</ClassId>
+  <Date>0000-00-00</Date>
+  <Time>?</Time>
+  <Locality>Caieiras, SP</Locality>
+  <Latitude>-23.36417</Latitude>
+  <Longitude>-46.74056</Longitude>
+  <Elevation>760</Elevation>
+  <Author>Luiz Fernando Figueiredo</Author>
+  <AuthorID>EYYKGDWADQ</AuthorID>
+  <Content>song</Content>
+  <Comments />
+  <Quality>2</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies />
+  <Order>Apodiformes</Order>
+  <Family>Trochilidae</Family>
+  <Genus>Phaethornis</Genus>
+  <Species>eurynome</Species>
+  <Sub-species />
+  <VernacularNames>Scale-throated Hermit</VernacularNames>
+</Audio>

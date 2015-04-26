@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>30319</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN30319.wav</FileName>
+  <ClassId>hvojcw</ClassId>
+  <Date>2012-12-27</Date>
+  <Time>16:00</Time>
+  <Locality>Hato El Cedral, Edo. Apure</Locality>
+  <Latitude>7.711</Latitude>
+  <Longitude>-67.148</Longitude>
+  <Elevation>50</Elevation>
+  <Author>Thore Noernberg</Author>
+  <AuthorID>TTSQGWDDGW</AuthorID>
+  <Content>call</Content>
+  <Comments>about hundred birds calling from a small pond on the farm of Hato El Cedral - very strong wind on this day bird-seen:yesplayback-used:no</Comments>
+  <Quality>1</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Anseriformes</Order>
+  <Family>Anatidae</Family>
+  <Genus>Dendrocygna</Genus>
+  <Species>viduata</Species>
+  <Sub-species />
+  <VernacularNames>White-faced Whistling Duck</VernacularNames>
+</Audio>

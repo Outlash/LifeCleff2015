@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>17441</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN17441.wav</FileName>
+  <ClassId>qvcasw</ClassId>
+  <Date>2009-10-13</Date>
+  <Time>14:00</Time>
+  <Locality>Laguna de Pedro Palo, Cundinamarca</Locality>
+  <Latitude>4.6834</Latitude>
+  <Longitude>-74.3834</Longitude>
+  <Elevation>1800</Elevation>
+  <Author>Thomas Donegan</Author>
+  <AuthorID>OXSIOLJJUP</AuthorID>
+  <Content>call</Content>
+  <Comments>Bird not seen, ID assumed.</Comments>
+  <Quality>3</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Furnariidae</Family>
+  <Genus>Synallaxis</Genus>
+  <Species>albescens</Species>
+  <Sub-species />
+  <VernacularNames>Pale-breasted Spinetail</VernacularNames>
+</Audio>

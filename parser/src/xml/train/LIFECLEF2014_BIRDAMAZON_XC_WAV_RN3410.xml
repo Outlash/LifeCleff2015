@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>3410</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN3410.wav</FileName>
+  <ClassId>ebxlim</ClassId>
+  <Date>2003-03-23</Date>
+  <Time>06:06</Time>
+  <Locality>Vila Bela da Santíssima Trindade</Locality>
+  <Latitude>-14.9834</Latitude>
+  <Longitude>-59.9834</Longitude>
+  <Elevation>225</Elevation>
+  <Author>Jeremy Minns</Author>
+  <AuthorID>DGVLLRYDXS</AuthorID>
+  <Content>Song</Content>
+  <Comments>In thick undergrowth at edge of forest fragment in pastureland.</Comments>
+  <Quality>1</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies>Lipaugus vociferans</BackgroundSpecies>
+  <Order>Passeriformes</Order>
+  <Family>Thamnophilidae</Family>
+  <Genus>Taraba</Genus>
+  <Species>major</Species>
+  <Sub-species>major</Sub-species>
+  <VernacularNames>Great Antshrike</VernacularNames>
+</Audio>

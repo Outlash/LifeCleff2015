@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>25508</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN25508.wav</FileName>
+  <ClassId>sfhlsq</ClassId>
+  <Date>2009-02-18</Date>
+  <Time>?</Time>
+  <Locality>Puente Torres, Lara</Locality>
+  <Latitude>10.1795</Latitude>
+  <Longitude>-69.8808</Longitude>
+  <Elevation>460</Elevation>
+  <Author>Hans Matheve</Author>
+  <AuthorID>VROUALCTKG</AuthorID>
+  <Content>song</Content>
+  <Comments>bird-seen:yes</Comments>
+  <Quality>0</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Thraupidae</Family>
+  <Genus>Tiaris</Genus>
+  <Species>bicolor</Species>
+  <Sub-species>omissus</Sub-species>
+  <VernacularNames>Black-faced Grassquit</VernacularNames>
+</Audio>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>21955</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN21955.wav</FileName>
+  <ClassId>zhsqhs</ClassId>
+  <Date>2007-06-16</Date>
+  <Time>06:28</Time>
+  <Locality>RNA Reinita Cielo Azul, San Vicente de Chucuri, Santander</Locality>
+  <Latitude>6.8464</Latitude>
+  <Longitude>-73.3751</Longitude>
+  <Elevation>1660</Elevation>
+  <Author>Bradley Davis</Author>
+  <AuthorID>YNXJLOESBB</AuthorID>
+  <Content>call</Content>
+  <Comments />
+  <Quality>2</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies>Troglodytes solstitialis</BackgroundSpecies>
+  <Order>Trogoniformes</Order>
+  <Family>Trogonidae</Family>
+  <Genus>Pharomachrus</Genus>
+  <Species>auriceps</Species>
+  <Sub-species />
+  <VernacularNames>Golden-headed Quetzal</VernacularNames>
+</Audio>

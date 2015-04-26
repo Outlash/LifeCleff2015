@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>8501</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN8501.wav</FileName>
+  <ClassId>vjukoo</ClassId>
+  <Date>2001-12-02</Date>
+  <Time>07:30</Time>
+  <Locality>Cananeia, SP</Locality>
+  <Latitude>-25.0334</Latitude>
+  <Longitude>-47.9167</Longitude>
+  <Elevation>10</Elevation>
+  <Author>Jeremy Minns</Author>
+  <AuthorID>DGVLLRYDXS</AuthorID>
+  <Content>call, song</Content>
+  <Comments>Ilha Comprida. Coastal forest on white sand. These are calls A and B in our DVD-ROM 'Birds of Brazil'.</Comments>
+  <Quality>2</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies>Crypturellus obsoletus,Thamnophilus caerulescens</BackgroundSpecies>
+  <Order>Passeriformes</Order>
+  <Family>Tyrannidae</Family>
+  <Genus>Attila</Genus>
+  <Species>rufus</Species>
+  <Sub-species>rufus</Sub-species>
+  <VernacularNames>Grey-hooded Attila</VernacularNames>
+</Audio>

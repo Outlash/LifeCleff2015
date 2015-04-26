@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>18589</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN18589.wav</FileName>
+  <ClassId>efxnjc</ClassId>
+  <Date>2013-07-15</Date>
+  <Time>18:00</Time>
+  <Locality>Senador Guiomard, Acre</Locality>
+  <Latitude>-10.1453</Latitude>
+  <Longitude>-67.7537</Longitude>
+  <Elevation>180</Elevation>
+  <Author>Rodrigo Dela Rosa</Author>
+  <AuthorID>VGXDJMKETZ</AuthorID>
+  <Content>song</Content>
+  <Comments>bird-seen:yesplayback-used:yes</Comments>
+  <Quality>2</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Strigiformes</Order>
+  <Family>Strigidae</Family>
+  <Genus>Glaucidium</Genus>
+  <Species>hardyi</Species>
+  <Sub-species />
+  <VernacularNames>Amazonian Pygmy Owl</VernacularNames>
+</Audio>

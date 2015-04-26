@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>7434</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN7434.wav</FileName>
+  <ClassId>cllknv</ClassId>
+  <Date>2007-07-30</Date>
+  <Time>06:05</Time>
+  <Locality>Pousada Rio Azul, PA</Locality>
+  <Latitude>-9.2456</Latitude>
+  <Longitude>-55.987</Longitude>
+  <Elevation>220</Elevation>
+  <Author>Bradley Davis</Author>
+  <AuthorID>YNXJLOESBB</AuthorID>
+  <Content>song</Content>
+  <Comments />
+  <Quality>2</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies>Epinecrophylla leucophthalma,Hylophilus hypoxanthus,Myrmotherula longipennis</BackgroundSpecies>
+  <Order>Passeriformes</Order>
+  <Family>Furnariidae</Family>
+  <Genus>Xiphorhynchus</Genus>
+  <Species>spixii</Species>
+  <Sub-species />
+  <VernacularNames>Spix's Woodcreeper</VernacularNames>
+</Audio>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>28100</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN28100.wav</FileName>
+  <ClassId>dmowwi</ClassId>
+  <Date>2013-05-03</Date>
+  <Time>11:00</Time>
+  <Locality>Iguatama, Minas Gerais</Locality>
+  <Latitude>-20.1774</Latitude>
+  <Longitude>-45.7082</Longitude>
+  <Elevation>700</Elevation>
+  <Author>João Antônio de B. Vitto</Author>
+  <AuthorID>RIVNLYTULO</AuthorID>
+  <Content>song</Content>
+  <Comments>bird-seen:yesplayback-used:yes</Comments>
+  <Quality>2</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Tyrannidae</Family>
+  <Genus>Todirostrum</Genus>
+  <Species>cinereum</Species>
+  <Sub-species />
+  <VernacularNames>Common Tody-Flycatcher</VernacularNames>
+</Audio>

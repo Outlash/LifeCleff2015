@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>16806</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN16806.wav</FileName>
+  <ClassId>fvftkw</ClassId>
+  <Date>2000-03-04</Date>
+  <Time>am</Time>
+  <Locality>Humedal de La Conejera (Bogota), Cundinamarca</Locality>
+  <Latitude>NULL</Latitude>
+  <Longitude>NULL</Longitude>
+  <Elevation>2600</Elevation>
+  <Author>Bernabe Lopez-Lanus</Author>
+  <AuthorID>BYLLSJRVDZ</AuthorID>
+  <Content>Song</Content>
+  <Comments />
+  <Quality>1</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Tyrannidae</Family>
+  <Genus>Elaenia</Genus>
+  <Species>frantzii</Species>
+  <Sub-species>pudica</Sub-species>
+  <VernacularNames>Mountain Elaenia</VernacularNames>
+</Audio>

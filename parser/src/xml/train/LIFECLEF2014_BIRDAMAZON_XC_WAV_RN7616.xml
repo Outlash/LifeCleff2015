@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>7616</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN7616.wav</FileName>
+  <ClassId>ciptfb</ClassId>
+  <Date>2010-12-20</Date>
+  <Time>4:50</Time>
+  <Locality>Sento Sé, Bahia.</Locality>
+  <Latitude>NULL</Latitude>
+  <Longitude>NULL</Longitude>
+  <Elevation>?</Elevation>
+  <Author>Sidnei S. dos Santos</Author>
+  <AuthorID>BHODJXTHGQ</AuthorID>
+  <Content>Song</Content>
+  <Comments />
+  <Quality>0</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Thraupidae</Family>
+  <Genus>Paroaria</Genus>
+  <Species>dominicana</Species>
+  <Sub-species />
+  <VernacularNames>Red-cowled Cardinal</VernacularNames>
+</Audio>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>31893</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN31893.wav</FileName>
+  <ClassId>xcuxll</ClassId>
+  <Date>2004-08-16</Date>
+  <Time>06:45</Time>
+  <Locality>Páramo de Frontino</Locality>
+  <Latitude>6.4334</Latitude>
+  <Longitude>-76.0834</Longitude>
+  <Elevation>2600</Elevation>
+  <Author>Niels Krabbe</Author>
+  <AuthorID>XTVEPHMPPJ</AuthorID>
+  <Content>call</Content>
+  <Comments>Tape ref. A 100-102</Comments>
+  <Quality>0</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Tyrannidae</Family>
+  <Genus>Myiarchus</Genus>
+  <Species>cephalotes</Species>
+  <Sub-species>cephalotes</Sub-species>
+  <VernacularNames>Pale-edged Flycatcher</VernacularNames>
+</Audio>

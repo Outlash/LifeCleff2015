@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>25829</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN25829.wav</FileName>
+  <ClassId>dmowwi</ClassId>
+  <Date>2002-06-09</Date>
+  <Time>09:30</Time>
+  <Locality>Finca El Emporio (represa), Villa de Leyva, Boyaca</Locality>
+  <Latitude>NULL</Latitude>
+  <Longitude>NULL</Longitude>
+  <Elevation>2000</Elevation>
+  <Author>Bernabe Lopez-Lanus</Author>
+  <AuthorID>BYLLSJRVDZ</AuthorID>
+  <Content>call, song</Content>
+  <Comments />
+  <Quality>2</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Tyrannidae</Family>
+  <Genus>Todirostrum</Genus>
+  <Species>cinereum</Species>
+  <Sub-species />
+  <VernacularNames>Common Tody-Flycatcher</VernacularNames>
+</Audio>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>8594</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN8594.wav</FileName>
+  <ClassId>uzzjrh</ClassId>
+  <Date>2006-09-30</Date>
+  <Time>?</Time>
+  <Locality>Parque Natural do Caraça, MG</Locality>
+  <Latitude>-20.4101</Latitude>
+  <Longitude>-43.3501</Longitude>
+  <Elevation>?</Elevation>
+  <Author>Frank Lambert</Author>
+  <AuthorID>YTUXOCTUEM</AuthorID>
+  <Content>call</Content>
+  <Comments />
+  <Quality>2</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Tyrannidae</Family>
+  <Genus>Myiarchus</Genus>
+  <Species>swainsoni</Species>
+  <Sub-species />
+  <VernacularNames>Swainson's Flycatcher</VernacularNames>
+</Audio>

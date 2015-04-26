@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>3079</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN3079.wav</FileName>
+  <ClassId>ekarsb</ClassId>
+  <Date>2008-08-26</Date>
+  <Time>07:00</Time>
+  <Locality>Novo Progresso, state of Pará</Locality>
+  <Latitude>-7.1501</Latitude>
+  <Longitude>-55.4834</Longitude>
+  <Elevation>100</Elevation>
+  <Author>Sidnei Dantas</Author>
+  <AuthorID>NNCKQMBGPH</AuthorID>
+  <Content>song</Content>
+  <Comments>land forest.</Comments>
+  <Quality>0</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies>Vireolanius leucotis,Xenops minutus,Hypocnemis striata,Piprites chloris,Pyriglena leuconota,Pheugopedius coraya,Cercomacra cinerascens,Myrmornis torquata,Jacamerops aureus</BackgroundSpecies>
+  <Order>Passeriformes</Order>
+  <Family>Thamnophilidae</Family>
+  <Genus>Myrmoborus</Genus>
+  <Species>myotherinus</Species>
+  <Sub-species />
+  <VernacularNames>Black-faced Antbird</VernacularNames>
+</Audio>

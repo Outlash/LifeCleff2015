@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>28743</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN28743.wav</FileName>
+  <ClassId>ksifri</ClassId>
+  <Date>2004-04-21</Date>
+  <Time>07:00</Time>
+  <Locality>Colégio São Cristóval, Aracaju, state of Sergipe</Locality>
+  <Latitude>-10.9001</Latitude>
+  <Longitude>-37.0834</Longitude>
+  <Elevation>0</Elevation>
+  <Author>Sidnei de Melo Dantas</Author>
+  <AuthorID>NNCKQMBGPH</AuthorID>
+  <Content>perched calls</Content>
+  <Comments>Dry forest</Comments>
+  <Quality>3</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies>Chiroxiphia pareola,Tolmomyias flaviventris</BackgroundSpecies>
+  <Order>Accipitriformes</Order>
+  <Family>Accipitridae</Family>
+  <Genus>Accipiter</Genus>
+  <Species>bicolor</Species>
+  <Sub-species />
+  <VernacularNames>Bicolored Hawk</VernacularNames>
+</Audio>

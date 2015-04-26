@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>6705</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN6705.wav</FileName>
+  <ClassId>gaggjv</ClassId>
+  <Date>2011-10-27</Date>
+  <Time>9am</Time>
+  <Locality>Botanic Garden of São Paulo, São Paulo State,Brazil</Locality>
+  <Latitude>-23.639</Latitude>
+  <Longitude>-46.619</Longitude>
+  <Elevation>700</Elevation>
+  <Author>Antonio Silveira</Author>
+  <AuthorID>NBJQSQJRYH</AuthorID>
+  <Content>song</Content>
+  <Comments />
+  <Quality>2</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Cardinalidae</Family>
+  <Genus>Saltator</Genus>
+  <Species>similis</Species>
+  <Sub-species />
+  <VernacularNames>Green-winged Saltator</VernacularNames>
+</Audio>

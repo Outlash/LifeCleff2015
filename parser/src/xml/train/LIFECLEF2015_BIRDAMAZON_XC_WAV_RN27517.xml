@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>27517</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN27517.wav</FileName>
+  <ClassId>ifsjcq</ClassId>
+  <Date>2007-04-04</Date>
+  <Time>08:00</Time>
+  <Locality>Gran Sabana-Qda. Pacheco</Locality>
+  <Latitude>5.1039</Latitude>
+  <Longitude>-61.1598</Longitude>
+  <Elevation>1000</Elevation>
+  <Author>Doug Knapp</Author>
+  <AuthorID>BHRXQZEQFL</AuthorID>
+  <Content>Song</Content>
+  <Comments>Heavily filtered 1500 Hz-down.</Comments>
+  <Quality>3</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Emberizidae</Family>
+  <Genus>Ammodramus</Genus>
+  <Species>humeralis</Species>
+  <Sub-species />
+  <VernacularNames>Grassland Sparrow</VernacularNames>
+</Audio>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>15074</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN15074.wav</FileName>
+  <ClassId>rdpjcl</ClassId>
+  <Date>2008-01-24</Date>
+  <Time>?</Time>
+  <Locality>Inhotim, Brumadinho, Minas Gerais State</Locality>
+  <Latitude>-20.123894</Latitude>
+  <Longitude>-44.219091</Longitude>
+  <Elevation>830</Elevation>
+  <Author>Helberth Cardoso</Author>
+  <AuthorID>XIRUVWSNEN</AuthorID>
+  <Content>Song</Content>
+  <Comments />
+  <Quality>1</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Apodiformes</Order>
+  <Family>Trochilidae</Family>
+  <Genus>Amazilia</Genus>
+  <Species>lactea</Species>
+  <Sub-species />
+  <VernacularNames>Sapphire-spangled Emerald</VernacularNames>
+</Audio>

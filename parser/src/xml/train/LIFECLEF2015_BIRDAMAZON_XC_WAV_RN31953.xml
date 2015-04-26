@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>31953</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN31953.wav</FileName>
+  <ClassId>addsdr</ClassId>
+  <Date>2013-09-10</Date>
+  <Time>07:30</Time>
+  <Locality>Peró, Cabo Frio, Rio de Janeiro</Locality>
+  <Latitude>-22.854</Latitude>
+  <Longitude>-41.9875</Longitude>
+  <Elevation>10</Elevation>
+  <Author>Eduardo D. Schultz</Author>
+  <AuthorID>QYOZQITVAC</AuthorID>
+  <Content>call</Content>
+  <Comments>bird-seen:noplayback-used:no</Comments>
+  <Quality>2</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Tyrannidae</Family>
+  <Genus>Hemitriccus</Genus>
+  <Species>nidipendulus</Species>
+  <Sub-species />
+  <VernacularNames>Hangnest Tody-Tyrant</VernacularNames>
+</Audio>

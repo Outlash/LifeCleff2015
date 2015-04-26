@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>19276</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN19276.wav</FileName>
+  <ClassId>zmpixx</ClassId>
+  <Date>2006-12-12</Date>
+  <Time>08:00</Time>
+  <Locality>Fusagasuga, Vereda San Miguel,  cerca al nacimiento del rio Chocho</Locality>
+  <Latitude>4.01</Latitude>
+  <Longitude>-74.01</Longitude>
+  <Elevation>2510</Elevation>
+  <Author>Oswaldo Cortes</Author>
+  <AuthorID>VVDRVZCVWW</AuthorID>
+  <Content>song</Content>
+  <Comments />
+  <Quality>2</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Furnariidae</Family>
+  <Genus>Cranioleuca</Genus>
+  <Species>curtata</Species>
+  <Sub-species />
+  <VernacularNames>Ash-browed Spinetail</VernacularNames>
+</Audio>

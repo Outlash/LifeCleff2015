@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>26570</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN26570.wav</FileName>
+  <ClassId>vpxnrq</ClassId>
+  <Date>2013-03-04</Date>
+  <Time>02:30</Time>
+  <Locality>Puerto Lopez, Meta</Locality>
+  <Latitude>4.1809</Latitude>
+  <Longitude>-72.9136</Longitude>
+  <Elevation>170</Elevation>
+  <Author>Oswaldo Cortes</Author>
+  <AuthorID>VVDRVZCVWW</AuthorID>
+  <Content>song</Content>
+  <Comments>bird-seen:yesplayback-used:no</Comments>
+  <Quality>2</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies>Nyctidromus albicollis</BackgroundSpecies>
+  <Order>Caprimulgiformes</Order>
+  <Family>Caprimulgidae</Family>
+  <Genus>Nyctiprogne</Genus>
+  <Species>leucopyga</Species>
+  <Sub-species />
+  <VernacularNames>Band-tailed Nighthawk</VernacularNames>
+</Audio>

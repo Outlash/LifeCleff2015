@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>14089</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN14089.wav</FileName>
+  <ClassId>firlfq</ClassId>
+  <Date>2005-11-26</Date>
+  <Time>?</Time>
+  <Locality>Awala-Yalimapo</Locality>
+  <Latitude>5.7334</Latitude>
+  <Longitude>-53.9001</Longitude>
+  <Elevation>3</Elevation>
+  <Author>Alexandre Renaudier</Author>
+  <AuthorID>GKADEITXTH</AuthorID>
+  <Content>call</Content>
+  <Comments />
+  <Quality>2</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Cuculiformes</Order>
+  <Family>Cuculidae</Family>
+  <Genus>Coccycua</Genus>
+  <Species>minuta</Species>
+  <Sub-species>minuta</Sub-species>
+  <VernacularNames>Little Cuckoo</VernacularNames>
+</Audio>

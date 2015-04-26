@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>2077</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN2077.wav</FileName>
+  <ClassId>rogygm</ClassId>
+  <Date>2005-12-03</Date>
+  <Time>13:20</Time>
+  <Locality>Parque do Zizo, Sao Paulo State</Locality>
+  <Latitude>-24.017146</Latitude>
+  <Longitude>-47.81044</Longitude>
+  <Elevation>630</Elevation>
+  <Author>Bob Planqué</Author>
+  <AuthorID>OH38YHKJBS</AuthorID>
+  <Content>song</Content>
+  <Comments>typical song</Comments>
+  <Quality>2</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Cotingidae</Family>
+  <Genus>Lipaugus</Genus>
+  <Species>lanioides</Species>
+  <Sub-species />
+  <VernacularNames>Cinnamon-vented Piha</VernacularNames>
+</Audio>

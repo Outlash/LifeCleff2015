@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>30673</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN30673.wav</FileName>
+  <ClassId>lzezgo</ClassId>
+  <Date>2011-02-21</Date>
+  <Time>10:13</Time>
+  <Locality>Finca Meremburg, Belen, dpto. Huila</Locality>
+  <Latitude>NULL</Latitude>
+  <Longitude>NULL</Longitude>
+  <Elevation>2350</Elevation>
+  <Author>Jon King</Author>
+  <AuthorID>LNEEOOWCQR</AuthorID>
+  <Content>song</Content>
+  <Comments>After playback of own song (recording at time 1010). Distance to mic. 5m, seen.</Comments>
+  <Quality>1</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Rhinocryptidae</Family>
+  <Genus>Scytalopus</Genus>
+  <Species>latrans</Species>
+  <Sub-species />
+  <VernacularNames>Blackish Tapaculo</VernacularNames>
+</Audio>

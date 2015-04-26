@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>4377</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN4377.wav</FileName>
+  <ClassId>rndrjp</ClassId>
+  <Date>2011-09-26</Date>
+  <Time>06:09</Time>
+  <Locality>Cristalino Jungle Lodge, MT</Locality>
+  <Latitude>-9.5981</Latitude>
+  <Longitude>-55.932</Longitude>
+  <Elevation>260</Elevation>
+  <Author>Eric DeFonso</Author>
+  <AuthorID>KTLCZCRCQX</AuthorID>
+  <Content>song</Content>
+  <Comments>Bird ~75m from mic, along trail to new 50m tower in terra firme forest.bird-seen:noplayback-used:no</Comments>
+  <Quality>2</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies>Ramphastos vitellinus</BackgroundSpecies>
+  <Order>Piciformes</Order>
+  <Family>Galbulidae</Family>
+  <Genus>Jacamerops</Genus>
+  <Species>aureus</Species>
+  <Sub-species />
+  <VernacularNames>Great Jacamar</VernacularNames>
+</Audio>

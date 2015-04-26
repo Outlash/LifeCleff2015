@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>22907</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN22907.wav</FileName>
+  <ClassId>xcuxll</ClassId>
+  <Date>2008-01-18</Date>
+  <Time>07:40</Time>
+  <Locality>Parque Regional Barbas-Bremen, Filandia, Quindio. Sector Barbas</Locality>
+  <Latitude>4.6717</Latitude>
+  <Longitude>-75.6283</Longitude>
+  <Elevation>1800</Elevation>
+  <Author>Oscar Humberto Marin-Gomez</Author>
+  <AuthorID>CSUHASNRSU</AuthorID>
+  <Content>song</Content>
+  <Comments>OHM022B 1507bird-seen:yesplayback-used:no</Comments>
+  <Quality>2</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Tyrannidae</Family>
+  <Genus>Myiarchus</Genus>
+  <Species>cephalotes</Species>
+  <Sub-species />
+  <VernacularNames>Pale-edged Flycatcher</VernacularNames>
+</Audio>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>4334</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN4334.wav</FileName>
+  <ClassId>eldoju</ClassId>
+  <Date>2010-01-02</Date>
+  <Time>8:00</Time>
+  <Locality>Morro da Turquia, Pomerode, Santa Catarina</Locality>
+  <Latitude>-26.7395</Latitude>
+  <Longitude>-49.1881</Longitude>
+  <Elevation>400</Elevation>
+  <Author>Adrian Eisen Rupp</Author>
+  <AuthorID>AOPMSCIDIA</AuthorID>
+  <Content>call</Content>
+  <Comments />
+  <Quality>2</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies>Drymophila ferruginea</BackgroundSpecies>
+  <Order>Passeriformes</Order>
+  <Family>Tyrannidae</Family>
+  <Genus>Ramphotrigon</Genus>
+  <Species>megacephalum</Species>
+  <Sub-species />
+  <VernacularNames>Large-headed Flatbill</VernacularNames>
+</Audio>

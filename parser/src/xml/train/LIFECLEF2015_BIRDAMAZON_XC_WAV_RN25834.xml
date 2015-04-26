@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>25834</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN25834.wav</FileName>
+  <ClassId>fpypli</ClassId>
+  <Date>2006-12-12</Date>
+  <Time>08:00</Time>
+  <Locality>Fusagasuga, Vereda San Miguel,  cerca al nacimiento del rio Chocho</Locality>
+  <Latitude>4.01</Latitude>
+  <Longitude>-74.01</Longitude>
+  <Elevation>2510</Elevation>
+  <Author>Oswaldo Cortes</Author>
+  <AuthorID>VVDRVZCVWW</AuthorID>
+  <Content>song</Content>
+  <Comments />
+  <Quality>2</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Thraupidae</Family>
+  <Genus>Anisognathus</Genus>
+  <Species>igniventris</Species>
+  <Sub-species />
+  <VernacularNames>Scarlet-bellied Mountain Tanager</VernacularNames>
+</Audio>

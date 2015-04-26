@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>31519</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN31519.wav</FileName>
+  <ClassId>dmowwi</ClassId>
+  <Date>1994-10-28</Date>
+  <Time>?</Time>
+  <Locality>Meta, Cabuyaro</Locality>
+  <Latitude>4.264167</Latitude>
+  <Longitude>-73.05</Longitude>
+  <Elevation>488</Elevation>
+  <Author>Gary Stiles (Colección de Sonidos Ambientales - Instituto Humboldt)</Author>
+  <AuthorID>XMFDPACYJN</AuthorID>
+  <Content>call</Content>
+  <Comments>BSA 11184To obtain a wav file of the original recording, please contact csa@humboldt.org.cobird-seen:yesplayback-used:no</Comments>
+  <Quality>1</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Tyrannidae</Family>
+  <Genus>Todirostrum</Genus>
+  <Species>cinereum</Species>
+  <Sub-species />
+  <VernacularNames>Common Tody-Flycatcher</VernacularNames>
+</Audio>

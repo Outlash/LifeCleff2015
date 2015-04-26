@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>11901</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN11901.wav</FileName>
+  <ClassId>bjejam</ClassId>
+  <Date>2001-07-03</Date>
+  <Time>06:52</Time>
+  <Locality>Anavilhanas Archipelago</Locality>
+  <Latitude>-2.6834</Latitude>
+  <Longitude>-60.7501</Longitude>
+  <Elevation>16</Elevation>
+  <Author>Jeremy Minns</Author>
+  <AuthorID>DGVLLRYDXS</AuthorID>
+  <Content>Song</Content>
+  <Comments>Floode igapó forest.</Comments>
+  <Quality>1</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies />
+  <Order>Piciformes</Order>
+  <Family>Picidae</Family>
+  <Genus>Celeus</Genus>
+  <Species>flavus</Species>
+  <Sub-species>flavus</Sub-species>
+  <VernacularNames>Cream-colored Woodpecker</VernacularNames>
+</Audio>

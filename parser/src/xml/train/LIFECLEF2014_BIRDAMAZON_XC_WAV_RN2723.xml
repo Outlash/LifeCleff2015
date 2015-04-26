@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>2723</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN2723.wav</FileName>
+  <ClassId>qpxgvo</ClassId>
+  <Date>2007-10-11</Date>
+  <Time>14:25</Time>
+  <Locality>Eldorado, Mato Grosso do Sul state</Locality>
+  <Latitude>-23.8501</Latitude>
+  <Longitude>-54.2537</Longitude>
+  <Elevation>340</Elevation>
+  <Author>Joao Menezes</Author>
+  <AuthorID>BEYMZHZHIB</AuthorID>
+  <Content>Song</Content>
+  <Comments />
+  <Quality>3</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Tyrannidae</Family>
+  <Genus>Hemitriccus</Genus>
+  <Species>margaritaceiventer</Species>
+  <Sub-species />
+  <VernacularNames>Pearly-vented Tody-Tyrant</VernacularNames>
+</Audio>

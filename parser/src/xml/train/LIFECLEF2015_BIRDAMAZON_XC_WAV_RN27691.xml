@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>27691</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN27691.wav</FileName>
+  <ClassId>ftvesx</ClassId>
+  <Date>2001-11-18</Date>
+  <Time>07:42</Time>
+  <Locality>Jeremoabo</Locality>
+  <Latitude>-10.063769</Latitude>
+  <Longitude>-38.339453</Longitude>
+  <Elevation>300</Elevation>
+  <Author>Jeremy Minns</Author>
+  <AuthorID>DGVLLRYDXS</AuthorID>
+  <Content>flight call</Content>
+  <Comments>Fazenda Toureiro, between Canudos and Jeremoabo. Pasture with scattered trees. A small flock.</Comments>
+  <Quality>2</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies>Thraupis sayaca</BackgroundSpecies>
+  <Order>Psittaciformes</Order>
+  <Family>Psittacidae</Family>
+  <Genus>Thectocercus</Genus>
+  <Species>acuticaudatus</Species>
+  <Sub-species>haemorrhous</Sub-species>
+  <VernacularNames>Blue-crowned Parakeet</VernacularNames>
+</Audio>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>29591</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN29591.wav</FileName>
+  <ClassId>xdszwe</ClassId>
+  <Date>2013-06-22</Date>
+  <Time>07:00</Time>
+  <Locality>Xapuri, Acre</Locality>
+  <Latitude>-10.7427</Latitude>
+  <Longitude>-68.2818</Longitude>
+  <Elevation>220</Elevation>
+  <Author>Marcos A. Melo</Author>
+  <AuthorID>MRGDYNJGUJ</AuthorID>
+  <Content>call</Content>
+  <Comments>bird-seen:yesplayback-used:no</Comments>
+  <Quality>2</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies>Aratinga weddellii</BackgroundSpecies>
+  <Order>Psittaciformes</Order>
+  <Family>Psittacidae</Family>
+  <Genus>Ara</Genus>
+  <Species>severus</Species>
+  <Sub-species />
+  <VernacularNames>Chestnut-fronted Macaw</VernacularNames>
+</Audio>

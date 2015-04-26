@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>16027</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN16027.wav</FileName>
+  <ClassId>yyjrms</ClassId>
+  <Date>2007-05-09</Date>
+  <Time>9:10</Time>
+  <Locality>Colombia, Tolima, Anzoategui, Palomar</Locality>
+  <Latitude>4.6512</Latitude>
+  <Longitude>-75.2178</Longitude>
+  <Elevation>2800</Elevation>
+  <Author>Yair G Molina - Martínez</Author>
+  <AuthorID>UQUOPFIYYQ</AuthorID>
+  <Content>?</Content>
+  <Comments />
+  <Quality>5</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies>Colibri coruscans</BackgroundSpecies>
+  <Order>Passeriformes</Order>
+  <Family>Emberizidae</Family>
+  <Genus>Zonotrichia</Genus>
+  <Species>capensis</Species>
+  <Sub-species />
+  <VernacularNames>Rufous-collared Sparrow</VernacularNames>
+</Audio>

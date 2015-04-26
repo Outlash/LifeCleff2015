@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>10027</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN10027.wav</FileName>
+  <ClassId>ddkxtm</ClassId>
+  <Date>2013-08-22</Date>
+  <Time>09:00</Time>
+  <Locality>São Francisco Xavier, São José dos Campos,São Paulo state, Brazil</Locality>
+  <Latitude>-22.898</Latitude>
+  <Longitude>-45.994</Longitude>
+  <Elevation>1300</Elevation>
+  <Author>Antonio Silveira</Author>
+  <AuthorID>NBJQSQJRYH</AuthorID>
+  <Content>male, song</Content>
+  <Comments>bird-seen:noplayback-used:no</Comments>
+  <Quality>0</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Furnariidae</Family>
+  <Genus>Synallaxis</Genus>
+  <Species>cinerascens</Species>
+  <Sub-species />
+  <VernacularNames>Grey-bellied Spinetail</VernacularNames>
+</Audio>

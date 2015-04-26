@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>32971</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN32971.wav</FileName>
+  <ClassId>cpmbyl</ClassId>
+  <Date>2011-02-14</Date>
+  <Time>09:22</Time>
+  <Locality>Otun Quimbaya, Pereira, Risaralda</Locality>
+  <Latitude>4.7237</Latitude>
+  <Longitude>-75.5681</Longitude>
+  <Elevation>1946</Elevation>
+  <Author>Jon King</Author>
+  <AuthorID>LNEEOOWCQR</AuthorID>
+  <Content>song</Content>
+  <Comments>Natural song. Distance to mic. 7m, singing from ground, seen later after playback.</Comments>
+  <Quality>1</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Grallariidae</Family>
+  <Genus>Grallaria</Genus>
+  <Species>ruficapilla</Species>
+  <Sub-species />
+  <VernacularNames>Chestnut-crowned Antpitta</VernacularNames>
+</Audio>

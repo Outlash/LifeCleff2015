@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>26919</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN26919.wav</FileName>
+  <ClassId>kzyfin</ClassId>
+  <Date>2012-04-19</Date>
+  <Time>06:50</Time>
+  <Locality>Rio de Pedras, Itabirito, Minas Gerais</Locality>
+  <Latitude>-20.1878</Latitude>
+  <Longitude>-43.7733</Longitude>
+  <Elevation>800</Elevation>
+  <Author>Luiz Gabriel Mazzoni</Author>
+  <AuthorID>MPOKMOFDDX</AuthorID>
+  <Content>song</Content>
+  <Comments>Semideciduous forest. Seeding bamboo nearby.bird-seen:yesplayback-used:no</Comments>
+  <Quality>1</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Columbiformes</Order>
+  <Family>Columbidae</Family>
+  <Genus>Claravis</Genus>
+  <Species>pretiosa</Species>
+  <Sub-species />
+  <VernacularNames>Blue Ground Dove</VernacularNames>
+</Audio>

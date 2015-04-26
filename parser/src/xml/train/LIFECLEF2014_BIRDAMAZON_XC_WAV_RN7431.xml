@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>7431</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN7431.wav</FileName>
+  <ClassId>nvlywx</ClassId>
+  <Date>2000-01-14</Date>
+  <Time>08:08</Time>
+  <Locality>Passo do Lontra, Pantanal de Miranda, MS</Locality>
+  <Latitude>-19.26667</Latitude>
+  <Longitude>-57.01667</Longitude>
+  <Elevation>90</Elevation>
+  <Author>Jeremy Minns</Author>
+  <AuthorID>DGVLLRYDXS</AuthorID>
+  <Content>duet, song</Content>
+  <Comments>5 km north of Passo do Lontra. Duet by pair in bushes beside road.</Comments>
+  <Quality>1</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies>Leptotila verreauxi</BackgroundSpecies>
+  <Order>Passeriformes</Order>
+  <Family>Thamnophilidae</Family>
+  <Genus>Cercomacra</Genus>
+  <Species>melanaria</Species>
+  <Sub-species />
+  <VernacularNames>Mato Grosso Antbird</VernacularNames>
+</Audio>

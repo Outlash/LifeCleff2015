@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>16085</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN16085.wav</FileName>
+  <ClassId>exsmje</ClassId>
+  <Date>2008-09-20</Date>
+  <Time>08:12</Time>
+  <Locality>Farallon de Cali (Pichinde)</Locality>
+  <Latitude>NULL</Latitude>
+  <Longitude>NULL</Longitude>
+  <Elevation>2100</Elevation>
+  <Author>Oswaldo Cortes</Author>
+  <AuthorID>VVDRVZCVWW</AuthorID>
+  <Content>song</Content>
+  <Comments />
+  <Quality>2</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Trogoniformes</Order>
+  <Family>Trogonidae</Family>
+  <Genus>Trogon</Genus>
+  <Species>collaris</Species>
+  <Sub-species />
+  <VernacularNames>Collared Trogon</VernacularNames>
+</Audio>

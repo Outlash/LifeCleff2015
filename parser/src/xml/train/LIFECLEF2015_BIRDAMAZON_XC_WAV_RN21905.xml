@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>21905</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN21905.wav</FileName>
+  <ClassId>nsbalk</ClassId>
+  <Date>2005-07-28</Date>
+  <Time>7:05</Time>
+  <Locality>Ocaña, Agua de la Virgen, Cerro de la virgen, Norte de Santander</Locality>
+  <Latitude>8.2167</Latitude>
+  <Longitude>-73.4001</Longitude>
+  <Elevation>1600</Elevation>
+  <Author>Oscar Laverde</Author>
+  <AuthorID>WKVKSVMNDZ</AuthorID>
+  <Content>song</Content>
+  <Comments>Una pareja cantando dentro del chusque</Comments>
+  <Quality>1</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Emberizidae</Family>
+  <Genus>Atlapetes</Genus>
+  <Species>albofrenatus</Species>
+  <Sub-species />
+  <VernacularNames>Moustached Brush Finch</VernacularNames>
+</Audio>

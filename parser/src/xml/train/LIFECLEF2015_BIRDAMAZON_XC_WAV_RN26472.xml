@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>26472</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN26472.wav</FileName>
+  <ClassId>iofesp</ClassId>
+  <Date>2005-08-07</Date>
+  <Time>16:00</Time>
+  <Locality>Tucuruí dam, left margin of the lake, state of Pará</Locality>
+  <Latitude>-4.3662</Latitude>
+  <Longitude>-49.6034</Longitude>
+  <Elevation>50</Elevation>
+  <Author>Sidnei de Melo Dantas</Author>
+  <AuthorID>NNCKQMBGPH</AuthorID>
+  <Content>call</Content>
+  <Comments>Two or more birds seen on the undergrowth, in a treefall gap. Similar to dawn song of this species.</Comments>
+  <Quality>2</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies>Ramphastos vitellinus</BackgroundSpecies>
+  <Order>Passeriformes</Order>
+  <Family>Tyrannidae</Family>
+  <Genus>Rhynchocyclus</Genus>
+  <Species>olivaceus</Species>
+  <Sub-species />
+  <VernacularNames>Olivaceous Flatbill</VernacularNames>
+</Audio>

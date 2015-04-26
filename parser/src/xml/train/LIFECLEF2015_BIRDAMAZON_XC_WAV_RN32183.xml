@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>32183</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN32183.wav</FileName>
+  <ClassId>gncrmz</ClassId>
+  <Date>2011-08-20</Date>
+  <Time>08:00</Time>
+  <Locality>Araranguá, Araranguá, Santa Catarina</Locality>
+  <Latitude>-28.9361</Latitude>
+  <Longitude>-49.4923</Longitude>
+  <Elevation>10</Elevation>
+  <Author>João Antônio de B. Vitto</Author>
+  <AuthorID>RIVNLYTULO</AuthorID>
+  <Content>call</Content>
+  <Comments>bird-seen:yesplayback-used:yes</Comments>
+  <Quality>0</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Thamnophilidae</Family>
+  <Genus>Pyriglena</Genus>
+  <Species>leucoptera</Species>
+  <Sub-species />
+  <VernacularNames>White-shouldered Fire-eye</VernacularNames>
+</Audio>

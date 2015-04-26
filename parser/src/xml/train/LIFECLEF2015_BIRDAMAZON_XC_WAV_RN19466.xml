@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>19466</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN19466.wav</FileName>
+  <ClassId>dzaamy</ClassId>
+  <Date>2010-02-13</Date>
+  <Time>16:30</Time>
+  <Locality>Saül</Locality>
+  <Latitude>3.6167</Latitude>
+  <Longitude>-53.2001</Longitude>
+  <Elevation>?</Elevation>
+  <Author>Fabrice Schmitt</Author>
+  <AuthorID>FPAGKPAQYO</AuthorID>
+  <Content>call</Content>
+  <Comments />
+  <Quality>2</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies>Myrmotherula longipennis</BackgroundSpecies>
+  <Order>Passeriformes</Order>
+  <Family>Furnariidae</Family>
+  <Genus>Sclerurus</Genus>
+  <Species>mexicanus</Species>
+  <Sub-species>macconnelli</Sub-species>
+  <VernacularNames>Tawny-throated Leaftosser</VernacularNames>
+</Audio>

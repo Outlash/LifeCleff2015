@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>7901</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN7901.wav</FileName>
+  <ClassId>qqkpms</ClassId>
+  <Date>2009-10-16</Date>
+  <Time>16:00</Time>
+  <Locality>Sooretama - ES</Locality>
+  <Latitude>NULL</Latitude>
+  <Longitude>NULL</Longitude>
+  <Elevation>0</Elevation>
+  <Author>Wilfred Rogers</Author>
+  <AuthorID>SKCHSJKQGW</AuthorID>
+  <Content>Call</Content>
+  <Comments>The first call is a male and the second a female</Comments>
+  <Quality>2</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies />
+  <Order>Piciformes</Order>
+  <Family>Picidae</Family>
+  <Genus>Celeus</Genus>
+  <Species>torquatus</Species>
+  <Sub-species />
+  <VernacularNames>Ringed Woodpecker</VernacularNames>
+</Audio>

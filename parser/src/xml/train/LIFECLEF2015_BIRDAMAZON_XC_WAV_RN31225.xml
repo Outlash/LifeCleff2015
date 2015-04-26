@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>31225</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN31225.wav</FileName>
+  <ClassId>ffwvot</ClassId>
+  <Date>2010-03-19</Date>
+  <Time>18:00</Time>
+  <Locality>Honey Pond, Karanambu Ranch, Guyana</Locality>
+  <Latitude>NULL</Latitude>
+  <Longitude>NULL</Longitude>
+  <Elevation>100</Elevation>
+  <Author>Charlie Vogt</Author>
+  <AuthorID>NYTXYAQSTH</AuthorID>
+  <Content>song</Content>
+  <Comments>natural vocalization</Comments>
+  <Quality>3</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies>Crypturellus undulatus,Cacicus cela,Ramphocelus carbo,Amazona amazonica,Patagioenas cayennensis</BackgroundSpecies>
+  <Order>Passeriformes</Order>
+  <Family>Furnariidae</Family>
+  <Genus>Certhiaxis</Genus>
+  <Species>cinnamomeus</Species>
+  <Sub-species />
+  <VernacularNames>Yellow-chinned Spinetail</VernacularNames>
+</Audio>

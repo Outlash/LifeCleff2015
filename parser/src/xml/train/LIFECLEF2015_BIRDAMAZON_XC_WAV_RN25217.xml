@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>25217</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN25217.wav</FileName>
+  <ClassId>jatqgd</ClassId>
+  <Date>2007-05-09</Date>
+  <Time>9:35</Time>
+  <Locality>Colombia, Tolima, Anzoategui, Palomar, Parche de Roble</Locality>
+  <Latitude>4.6512</Latitude>
+  <Longitude>-75.2178</Longitude>
+  <Elevation>2800</Elevation>
+  <Author>Yair G Molina - Martínez</Author>
+  <AuthorID>UQUOPFIYYQ</AuthorID>
+  <Content>call, song</Content>
+  <Comments />
+  <Quality>2</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Rhinocryptidae</Family>
+  <Genus>Myornis</Genus>
+  <Species>senilis</Species>
+  <Sub-species />
+  <VernacularNames>Ash-colored Tapaculo</VernacularNames>
+</Audio>

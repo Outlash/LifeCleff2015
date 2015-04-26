@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>11095</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN11095.wav</FileName>
+  <ClassId>mjvnht</ClassId>
+  <Date>2012-10-19</Date>
+  <Time>11:00</Time>
+  <Locality>Estação Ecológica Juréia-Itatins, Peruíbe,São Paulo -SP</Locality>
+  <Latitude>-24.406</Latitude>
+  <Longitude>-47.067</Longitude>
+  <Elevation>130</Elevation>
+  <Author>Antonio Silveira</Author>
+  <AuthorID>NBJQSQJRYH</AuthorID>
+  <Content>male, song</Content>
+  <Comments>Recorded in the  high area of the ecological station.bird-seen:noplayback-used:no</Comments>
+  <Quality>3</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Rhinocryptidae</Family>
+  <Genus>Psilorhamphus</Genus>
+  <Species>guttatus</Species>
+  <Sub-species />
+  <VernacularNames>Spotted Bamboowren</VernacularNames>
+</Audio>

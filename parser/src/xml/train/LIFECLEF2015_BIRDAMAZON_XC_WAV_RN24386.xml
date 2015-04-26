@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>24386</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN24386.wav</FileName>
+  <ClassId>ngukgn</ClassId>
+  <Date>2000-06-19</Date>
+  <Time>11:20</Time>
+  <Locality>Estacion La Pradera (parte alta), Municipio Don Matias, Antioquia</Locality>
+  <Latitude>NULL</Latitude>
+  <Longitude>NULL</Longitude>
+  <Elevation>1550</Elevation>
+  <Author>Bernabe Lopez-Lanus</Author>
+  <AuthorID>BYLLSJRVDZ</AuthorID>
+  <Content>Song</Content>
+  <Comments>First notes missing</Comments>
+  <Quality>2</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Troglodytidae</Family>
+  <Genus>Microcerculus</Genus>
+  <Species>marginatus</Species>
+  <Sub-species>squamulatus ?</Sub-species>
+  <VernacularNames>Southern Nightingale-Wren</VernacularNames>
+</Audio>

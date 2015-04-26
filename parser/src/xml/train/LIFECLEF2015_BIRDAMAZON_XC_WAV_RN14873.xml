@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>14873</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN14873.wav</FileName>
+  <ClassId>oiorva</ClassId>
+  <Date>2007-01-11</Date>
+  <Time>09:20</Time>
+  <Locality>near La Azulita, Merida</Locality>
+  <Latitude>NULL</Latitude>
+  <Longitude>NULL</Longitude>
+  <Elevation>?</Elevation>
+  <Author>Andrew Spencer</Author>
+  <AuthorID>CDTGHVBGZP</AuthorID>
+  <Content>song</Content>
+  <Comments />
+  <Quality>1</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies>Icterus chrysater</BackgroundSpecies>
+  <Order>Passeriformes</Order>
+  <Family>Parulidae</Family>
+  <Genus>Myioborus</Genus>
+  <Species>miniatus</Species>
+  <Sub-species>ballux</Sub-species>
+  <VernacularNames>Slate-throated Whitestart</VernacularNames>
+</Audio>

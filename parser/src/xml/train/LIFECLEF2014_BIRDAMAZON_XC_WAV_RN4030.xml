@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>4030</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN4030.wav</FileName>
+  <ClassId>dykocx</ClassId>
+  <Date>2004-10-09</Date>
+  <Time>15:30</Time>
+  <Locality>Mata de Aldeia, Camaragibe, Pernambuco</Locality>
+  <Latitude>-8.0167</Latitude>
+  <Longitude>-34.9667</Longitude>
+  <Elevation>30</Elevation>
+  <Author>Glauco Alves Pereira</Author>
+  <AuthorID>ZWEROGGYVP</AuthorID>
+  <Content>song</Content>
+  <Comments>humid area near edge of forest</Comments>
+  <Quality>3</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies />
+  <Order>Gruiformes</Order>
+  <Family>Rallidae</Family>
+  <Genus>Laterallus</Genus>
+  <Species>melanophaius</Species>
+  <Sub-species />
+  <VernacularNames>Rufous-sided Crake</VernacularNames>
+</Audio>

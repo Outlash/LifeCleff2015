@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>23786</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN23786.wav</FileName>
+  <ClassId>xqglsv</ClassId>
+  <Date>2007-04-02</Date>
+  <Time>17:00</Time>
+  <Locality>El Pauji</Locality>
+  <Latitude>4.6084</Latitude>
+  <Longitude>-61.4026</Longitude>
+  <Elevation>900</Elevation>
+  <Author>Doug Knapp</Author>
+  <AuthorID>BHRXQZEQFL</AuthorID>
+  <Content>Dbl-hoot</Content>
+  <Comments>Buzzing call unknown.</Comments>
+  <Quality>2</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies>Lipaugus vociferans</BackgroundSpecies>
+  <Order>Coraciiformes</Order>
+  <Family>Momotidae</Family>
+  <Genus>Momotus</Genus>
+  <Species>momota</Species>
+  <Sub-species />
+  <VernacularNames>Amazonian Motmot</VernacularNames>
+</Audio>

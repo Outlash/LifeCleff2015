@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>24794</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN24794.wav</FileName>
+  <ClassId>fotnep</ClassId>
+  <Date>2014-01-09</Date>
+  <Time>07:47</Time>
+  <Locality>Diorama, Goiás</Locality>
+  <Latitude>-16.2352</Latitude>
+  <Longitude>-51.2556</Longitude>
+  <Elevation>500</Elevation>
+  <Author>Daniel Blamires</Author>
+  <AuthorID>ZLNOGADASD</AuthorID>
+  <Content>alarm call</Content>
+  <Comments>The specimen was recorded in the edge of gallery forest next to a Vereda at the  AGROTEC environmental protection area. I thank the fellowship of Dhego Ramon dos Santos and Alex Sousa Santos during fieldwork.bird-seen:yesplayback-used:no</Comments>
+  <Quality>0</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Thraupidae</Family>
+  <Genus>Dacnis</Genus>
+  <Species>cayana</Species>
+  <Sub-species />
+  <VernacularNames>Blue Dacnis</VernacularNames>
+</Audio>
