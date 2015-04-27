@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>32980</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN32980.wav</FileName>
+  <ClassId>pcfxys</ClassId>
+  <Date>1999-01-06</Date>
+  <Time>?</Time>
+  <Locality>PNN Chiribiquete, Solano, Caquetá</Locality>
+  <Latitude>-0.2483333333</Latitude>
+  <Longitude>-72.45139</Longitude>
+  <Elevation>350</Elevation>
+  <Author>Mauricio Álvarez Rebolledo (Colección de Sonidos Ambientales - Instituto Humboldt)</Author>
+  <AuthorID>XMFDPACYJN</AuthorID>
+  <Content>song</Content>
+  <Comments>BSA 2633To obtain a wav file of the original recording, please contact csa@humboldt.org.coplayback-used:no</Comments>
+  <Quality>1</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies>Lipaugus vociferans</BackgroundSpecies>
+  <Order>Piciformes</Order>
+  <Family>Ramphastidae</Family>
+  <Genus>Ramphastos</Genus>
+  <Species>tucanus</Species>
+  <Sub-species>cuvieri</Sub-species>
+  <VernacularNames>White-throated Toucan</VernacularNames>
+</Audio>

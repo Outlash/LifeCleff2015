@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>2280</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN2280.wav</FileName>
+  <ClassId>twhfvm</ClassId>
+  <Date>2007-12-01</Date>
+  <Time>? mor</Time>
+  <Locality>Taboao - Itabirito MG</Locality>
+  <Latitude>-21.98667</Latitude>
+  <Longitude>-44.03389</Longitude>
+  <Elevation>901</Elevation>
+  <Author>Paulo C. Almeida</Author>
+  <AuthorID>WUCKALYSZW</AuthorID>
+  <Content>Song</Content>
+  <Comments />
+  <Quality>2</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Thraupidae</Family>
+  <Genus>Emberizoides</Genus>
+  <Species>herbicola</Species>
+  <Sub-species />
+  <VernacularNames>Wedge-tailed Grass Finch</VernacularNames>
+</Audio>

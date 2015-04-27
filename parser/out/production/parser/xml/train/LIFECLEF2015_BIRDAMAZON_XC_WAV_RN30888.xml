@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>30888</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN30888.wav</FileName>
+  <ClassId>fiennj</ClassId>
+  <Date>0000-00-00</Date>
+  <Time>?:?</Time>
+  <Locality>Bakhuys mountains</Locality>
+  <Latitude>4.7301</Latitude>
+  <Longitude>-56.7701</Longitude>
+  <Elevation>?</Elevation>
+  <Author>Otte Ottema</Author>
+  <AuthorID>ASEUAUOXZA</AuthorID>
+  <Content>song?</Content>
+  <Comments>the sparrow is the very high pitched sound</Comments>
+  <Quality>3</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies>Automolus ochrolaemus</BackgroundSpecies>
+  <Order>Passeriformes</Order>
+  <Family>Emberizidae</Family>
+  <Genus>Arremon</Genus>
+  <Species>taciturnus</Species>
+  <Sub-species />
+  <VernacularNames>Pectoral Sparrow</VernacularNames>
+</Audio>

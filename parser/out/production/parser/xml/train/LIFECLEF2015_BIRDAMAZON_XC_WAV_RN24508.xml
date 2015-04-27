@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>24508</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN24508.wav</FileName>
+  <ClassId>zhsqhs</ClassId>
+  <Date>2014-08-31</Date>
+  <Time>12:30</Time>
+  <Locality>RNA El Mirador, Génova, Quindío</Locality>
+  <Latitude>4.1395</Latitude>
+  <Longitude>-75.7356</Longitude>
+  <Elevation>3300</Elevation>
+  <Author>Oswaldo Cortes</Author>
+  <AuthorID>VVDRVZCVWW</AuthorID>
+  <Content>song</Content>
+  <Comments>bird-seen:yesplayback-used:no</Comments>
+  <Quality>4</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Trogoniformes</Order>
+  <Family>Trogonidae</Family>
+  <Genus>Pharomachrus</Genus>
+  <Species>auriceps</Species>
+  <Sub-species />
+  <VernacularNames>Golden-headed Quetzal</VernacularNames>
+</Audio>

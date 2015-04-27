@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>20698</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN20698.wav</FileName>
+  <ClassId>bcieap</ClassId>
+  <Date>2012-04-16</Date>
+  <Time>09:08</Time>
+  <Locality>Below RNA El Dorado, Sierra de Santa Marta, Magdalena</Locality>
+  <Latitude>11.0998</Latitude>
+  <Longitude>-74.0751</Longitude>
+  <Elevation>1850</Elevation>
+  <Author>Jeremy Minns</Author>
+  <AuthorID>DGVLLRYDXS</AuthorID>
+  <Content>Song</Content>
+  <Comments>Montane forest. After playback.</Comments>
+  <Quality>0</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Parulidae</Family>
+  <Genus>Myiothlypis</Genus>
+  <Species>conspicillata</Species>
+  <Sub-species />
+  <VernacularNames>White-lored Warbler</VernacularNames>
+</Audio>

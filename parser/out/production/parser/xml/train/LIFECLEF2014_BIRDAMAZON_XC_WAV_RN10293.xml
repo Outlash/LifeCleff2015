@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>10293</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN10293.wav</FileName>
+  <ClassId>friwfr</ClassId>
+  <Date>2011-02-15</Date>
+  <Time>14:15</Time>
+  <Locality>Parque Estadual Intervales, SP</Locality>
+  <Latitude>-24.2759</Latitude>
+  <Longitude>-48.4181</Longitude>
+  <Elevation>850</Elevation>
+  <Author>Daniel Lane</Author>
+  <AuthorID>WOEAFQRMUD</AuthorID>
+  <Content>song</Content>
+  <Comments>Natural song of one from hillside with grass and scrub under scattered trees.</Comments>
+  <Quality>2</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies>Sporophila caerulescens</BackgroundSpecies>
+  <Order>Piciformes</Order>
+  <Family>Picidae</Family>
+  <Genus>Picumnus</Genus>
+  <Species>temminckii</Species>
+  <Sub-species />
+  <VernacularNames>Ochre-collared Piculet</VernacularNames>
+</Audio>

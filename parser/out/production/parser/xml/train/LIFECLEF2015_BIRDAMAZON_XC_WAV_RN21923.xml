@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>21923</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN21923.wav</FileName>
+  <ClassId>mwmwbb</ClassId>
+  <Date>2012-02-01</Date>
+  <Time>17:18</Time>
+  <Locality>Caraça Sanctuary Private Reserve, Catas Altas, Minas Gerais</Locality>
+  <Latitude>-20.11</Latitude>
+  <Longitude>-43.491</Longitude>
+  <Elevation>1300</Elevation>
+  <Author>Luiz Gabriel Mazzoni</Author>
+  <AuthorID>MPOKMOFDDX</AuthorID>
+  <Content>song</Content>
+  <Comments>bird-seen:noplayback-used:yes</Comments>
+  <Quality>1</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies>Milvago chimachima,Leucochloris albicollis,Chiroxiphia caudata</BackgroundSpecies>
+  <Order>Passeriformes</Order>
+  <Family>Rhinocryptidae</Family>
+  <Genus>Scytalopus</Genus>
+  <Species>iraiensis</Species>
+  <Sub-species />
+  <VernacularNames>Marsh Tapaculo</VernacularNames>
+</Audio>

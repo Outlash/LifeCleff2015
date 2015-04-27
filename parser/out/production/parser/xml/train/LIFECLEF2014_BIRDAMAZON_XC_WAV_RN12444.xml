@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>12444</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN12444.wav</FileName>
+  <ClassId>cvnsao</ClassId>
+  <Date>2009-06-12</Date>
+  <Time>?</Time>
+  <Locality>Ribeirão Quati, Parque Nacional da Serra do Itajaí, Indaial, Santa Catarina</Locality>
+  <Latitude>-27.0423</Latitude>
+  <Longitude>-49.2181</Longitude>
+  <Elevation>600</Elevation>
+  <Author>Adrian Eisen Rupp</Author>
+  <AuthorID>AOPMSCIDIA</AuthorID>
+  <Content>song</Content>
+  <Comments />
+  <Quality>2</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies>Poecilotriccus plumbeiceps,Dysithamnus stictothorax</BackgroundSpecies>
+  <Order>Passeriformes</Order>
+  <Family>Thamnophilidae</Family>
+  <Genus>Drymophila</Genus>
+  <Species>rubricollis</Species>
+  <Sub-species />
+  <VernacularNames>Bertoni's Antbird</VernacularNames>
+</Audio>

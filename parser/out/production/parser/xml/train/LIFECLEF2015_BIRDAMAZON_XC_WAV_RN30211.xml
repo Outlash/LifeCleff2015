@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>30211</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN30211.wav</FileName>
+  <ClassId>elfnvh</ClassId>
+  <Date>2002-06-05</Date>
+  <Time>10:30</Time>
+  <Locality>Fazenda Santa Teresa, Rio Pixiam, MT</Locality>
+  <Latitude>-16.7501</Latitude>
+  <Longitude>-56.8667</Longitude>
+  <Elevation>?</Elevation>
+  <Author>Paul Donahue</Author>
+  <AuthorID>LLRXADGTBA</AuthorID>
+  <Content>call</Content>
+  <Comments>begging for food?</Comments>
+  <Quality>1</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Piciformes</Order>
+  <Family>Picidae</Family>
+  <Genus>Veniliornis</Genus>
+  <Species>passerinus</Species>
+  <Sub-species />
+  <VernacularNames>Little Woodpecker</VernacularNames>
+</Audio>

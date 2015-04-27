@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>24204</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN24204.wav</FileName>
+  <ClassId>gsmjhm</ClassId>
+  <Date>2010-09-11</Date>
+  <Time>10:05</Time>
+  <Locality>Petrolândia, Santa Catarina</Locality>
+  <Latitude>-27.6102</Latitude>
+  <Longitude>-49.708</Longitude>
+  <Elevation>900</Elevation>
+  <Author>Douglas Meyer</Author>
+  <AuthorID>MNENFHYTAE</AuthorID>
+  <Content>flight call, song</Content>
+  <Comments>bird-seen:yesplayback-used:no</Comments>
+  <Quality>0</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Psittaciformes</Order>
+  <Family>Psittacidae</Family>
+  <Genus>Pyrrhura</Genus>
+  <Species>frontalis</Species>
+  <Sub-species />
+  <VernacularNames>Maroon-bellied Parakeet</VernacularNames>
+</Audio>

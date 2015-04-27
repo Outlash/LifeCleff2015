@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>4114</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN4114.wav</FileName>
+  <ClassId>tsxwwl</ClassId>
+  <Date>2009-05-21</Date>
+  <Time>10:00</Time>
+  <Locality>State Park of Serra do Mar,Santo André-SP</Locality>
+  <Latitude>-23.813</Latitude>
+  <Longitude>-46.388</Longitude>
+  <Elevation>800</Elevation>
+  <Author>Bruno Lima</Author>
+  <AuthorID>DVJCMXOTVL</AuthorID>
+  <Content>call</Content>
+  <Comments />
+  <Quality>2</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Thamnophilidae</Family>
+  <Genus>Myrmeciza</Genus>
+  <Species>squamosa</Species>
+  <Sub-species />
+  <VernacularNames>Squamate Antbird</VernacularNames>
+</Audio>

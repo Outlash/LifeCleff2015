@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>30536</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN30536.wav</FileName>
+  <ClassId>skjryu</ClassId>
+  <Date>2008-08-03</Date>
+  <Time>09:00</Time>
+  <Locality>San Bernardo (Cundinamarca)</Locality>
+  <Latitude>4.2001</Latitude>
+  <Longitude>-74.4128</Longitude>
+  <Elevation>2500</Elevation>
+  <Author>Oswaldo Cortes, Giovanni Chaves and Fabian Tavera</Author>
+  <AuthorID>VVDRVZCVWW</AuthorID>
+  <Content>song</Content>
+  <Comments />
+  <Quality>2</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Tyrannidae</Family>
+  <Genus>Zimmerius</Genus>
+  <Species>chrysops</Species>
+  <Sub-species />
+  <VernacularNames>Golden-faced Tyrannulet</VernacularNames>
+</Audio>

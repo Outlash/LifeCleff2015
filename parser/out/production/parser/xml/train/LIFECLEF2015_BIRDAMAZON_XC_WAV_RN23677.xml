@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>23677</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN23677.wav</FileName>
+  <ClassId>bcbkld</ClassId>
+  <Date>2012-01-20</Date>
+  <Time>10:00</Time>
+  <Locality>Silvania, Vereda El Granado</Locality>
+  <Latitude>4.466</Latitude>
+  <Longitude>-74.332</Longitude>
+  <Elevation>2200</Elevation>
+  <Author>Oswaldo Cortes</Author>
+  <AuthorID>VVDRVZCVWW</AuthorID>
+  <Content>song</Content>
+  <Comments />
+  <Quality>3</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Furnariidae</Family>
+  <Genus>Xenops</Genus>
+  <Species>rutilans</Species>
+  <Sub-species />
+  <VernacularNames>Streaked Xenops</VernacularNames>
+</Audio>

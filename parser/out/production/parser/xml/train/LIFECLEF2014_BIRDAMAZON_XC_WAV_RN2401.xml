@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>2401</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN2401.wav</FileName>
+  <ClassId>dhzucj</ClassId>
+  <Date>2006-09-26</Date>
+  <Time>10:00</Time>
+  <Locality>nr Nova Friburgo, Tres Picos Park</Locality>
+  <Latitude>NULL</Latitude>
+  <Longitude>NULL</Longitude>
+  <Elevation>1300</Elevation>
+  <Author>Frank Lambert</Author>
+  <AuthorID>YTUXOCTUEM</AuthorID>
+  <Content>song?</Content>
+  <Comments>on David Miller's property</Comments>
+  <Quality>1</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Thamnophilidae</Family>
+  <Genus>Drymophila</Genus>
+  <Species>ochropyga</Species>
+  <Sub-species />
+  <VernacularNames>Ochre-rumped Antbird</VernacularNames>
+</Audio>

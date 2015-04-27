@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>8278</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN8278.wav</FileName>
+  <ClassId>ylomyt</ClassId>
+  <Date>2010-07-23</Date>
+  <Time>12:07</Time>
+  <Locality>Estrada da Graciosa, Paraná state</Locality>
+  <Latitude>-25.3334</Latitude>
+  <Longitude>-48.9001</Longitude>
+  <Elevation>920</Elevation>
+  <Author>Teus Luijendijk</Author>
+  <AuthorID>VLNULZJNSX</AuthorID>
+  <Content>call</Content>
+  <Comments>Perched female</Comments>
+  <Quality>3</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies />
+  <Order>Apodiformes</Order>
+  <Family>Trochilidae</Family>
+  <Genus>Clytolaema</Genus>
+  <Species>rubricauda</Species>
+  <Sub-species />
+  <VernacularNames>Brazilian Ruby</VernacularNames>
+</Audio>

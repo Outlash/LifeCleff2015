@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>8067</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN8067.wav</FileName>
+  <ClassId>klojgx</ClassId>
+  <Date>2011-11-03</Date>
+  <Time>11:00</Time>
+  <Locality />
+  <Latitude>NULL</Latitude>
+  <Longitude>NULL</Longitude>
+  <Elevation>600</Elevation>
+  <Author>Renan Campos de Oliveira</Author>
+  <AuthorID>SDARDTGGWP</AuthorID>
+  <Content>song</Content>
+  <Comments>First xeno-canto record of this species to Londrina - PR (Brazil)</Comments>
+  <Quality>2</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Emberizidae</Family>
+  <Genus>Arremon</Genus>
+  <Species>flavirostris</Species>
+  <Sub-species />
+  <VernacularNames>Saffron-billed Sparrow</VernacularNames>
+</Audio>

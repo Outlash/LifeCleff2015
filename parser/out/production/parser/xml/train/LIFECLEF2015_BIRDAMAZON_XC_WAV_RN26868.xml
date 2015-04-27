@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>26868</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN26868.wav</FileName>
+  <ClassId>qoqtfu</ClassId>
+  <Date>2010-01-05</Date>
+  <Time>11:30</Time>
+  <Locality>San Pedro Frio, Serrania de San Lucas</Locality>
+  <Latitude>8.1562</Latitude>
+  <Longitude>-74.2825</Longitude>
+  <Elevation>1650</Elevation>
+  <Author>Thomas Donegan</Author>
+  <AuthorID>OXSIOLJJUP</AuthorID>
+  <Content>call</Content>
+  <Comments>Birds hawking and perching on wires at relatively close quarters over scrub</Comments>
+  <Quality>5</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Hirundinidae</Family>
+  <Genus>Stelgidopteryx</Genus>
+  <Species>ruficollis</Species>
+  <Sub-species />
+  <VernacularNames>Southern Rough-winged Swallow</VernacularNames>
+</Audio>

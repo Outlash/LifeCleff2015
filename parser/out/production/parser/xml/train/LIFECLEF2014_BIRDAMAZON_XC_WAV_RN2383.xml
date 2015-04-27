@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>2383</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN2383.wav</FileName>
+  <ClassId>ksvanv</ClassId>
+  <Date>2010-12-03</Date>
+  <Time>?</Time>
+  <Locality>Belterra, Bacia 357, PA</Locality>
+  <Latitude>-3.372</Latitude>
+  <Longitude>-54.8478</Longitude>
+  <Elevation>?</Elevation>
+  <Author>Nargila Moura</Author>
+  <AuthorID>CWEIBYBYYD</AuthorID>
+  <Content>call</Content>
+  <Comments>primary forest</Comments>
+  <Quality>0</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies>Monasa morphoeus,Zimmerius gracilipes</BackgroundSpecies>
+  <Order>Passeriformes</Order>
+  <Family>Thamnophilidae</Family>
+  <Genus>Pygiptila</Genus>
+  <Species>stellaris</Species>
+  <Sub-species>stellaris</Sub-species>
+  <VernacularNames>Spot-winged Antshrike</VernacularNames>
+</Audio>

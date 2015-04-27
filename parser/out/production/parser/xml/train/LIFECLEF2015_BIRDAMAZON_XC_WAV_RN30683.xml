@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>30683</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN30683.wav</FileName>
+  <ClassId>zfacpp</ClassId>
+  <Date>2007-01-26</Date>
+  <Time>?</Time>
+  <Locality>Hacienda Portugal. Cerritos, Risaralda</Locality>
+  <Latitude>4.797</Latitude>
+  <Longitude>-75.866</Longitude>
+  <Elevation>1100</Elevation>
+  <Author>Margarita Nieto Restrepo</Author>
+  <AuthorID>MOEVPPXJMB</AuthorID>
+  <Content>song</Content>
+  <Comments />
+  <Quality>3</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Thamnophilidae</Family>
+  <Genus>Myrmeciza</Genus>
+  <Species>palliata</Species>
+  <Sub-species>palliata</Sub-species>
+  <VernacularNames>Magdalena Antbird</VernacularNames>
+</Audio>

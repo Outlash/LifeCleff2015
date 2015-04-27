@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>26689</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN26689.wav</FileName>
+  <ClassId>flxxiy</ClassId>
+  <Date>2007-02-19</Date>
+  <Time>17:19</Time>
+  <Locality>RNA El Mirador, Génova, Quindío</Locality>
+  <Latitude>4.1395</Latitude>
+  <Longitude>-75.7356</Longitude>
+  <Elevation>3350</Elevation>
+  <Author>Nick Athanas</Author>
+  <AuthorID>XRABICUARW</AuthorID>
+  <Content>call</Content>
+  <Comments>Perched, then taking flight at 8.5s. Recorded near two active artificial nest boxes. img:http://www.antpitta.com//images/photos/parrots/Golden-plumedParakeet-mirador.jpg</Comments>
+  <Quality>1</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Psittaciformes</Order>
+  <Family>Psittacidae</Family>
+  <Genus>Leptosittaca</Genus>
+  <Species>branickii</Species>
+  <Sub-species />
+  <VernacularNames>Golden-plumed Parakeet</VernacularNames>
+</Audio>

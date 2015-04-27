@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>27790</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN27790.wav</FileName>
+  <ClassId>jjapvq</ClassId>
+  <Date>2010-02-07</Date>
+  <Time>11:00</Time>
+  <Locality>near La Minca below RNA El Dorado, Sierra de Santa Marta, Magdalena</Locality>
+  <Latitude>11.1334</Latitude>
+  <Longitude>-74.1001</Longitude>
+  <Elevation>1600</Elevation>
+  <Author>Frank Lambert</Author>
+  <AuthorID>YTUXOCTUEM</AuthorID>
+  <Content>song</Content>
+  <Comments>song is quite similar to subspecies rara but very different to southern leymebambae which is surely a different species</Comments>
+  <Quality>0</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Grallariidae</Family>
+  <Genus>Grallaricula</Genus>
+  <Species>ferrugineipectus</Species>
+  <Sub-species>ferrugineipectus</Sub-species>
+  <VernacularNames>Rusty-breasted Antpitta</VernacularNames>
+</Audio>

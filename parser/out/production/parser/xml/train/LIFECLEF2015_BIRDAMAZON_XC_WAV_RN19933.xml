@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>19933</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN19933.wav</FileName>
+  <ClassId>ilxrbn</ClassId>
+  <Date>2008-05-20</Date>
+  <Time>10:32</Time>
+  <Locality>Pousada Rio Azul, PA</Locality>
+  <Latitude>-9.2456</Latitude>
+  <Longitude>-55.987</Longitude>
+  <Elevation>220</Elevation>
+  <Author>Bradley Davis</Author>
+  <AuthorID>YNXJLOESBB</AuthorID>
+  <Content>flight call</Content>
+  <Comments>filtered below 1100 Hz to diminish noise from nearby rapids</Comments>
+  <Quality>3</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Accipitriformes</Order>
+  <Family>Accipitridae</Family>
+  <Genus>Spizaetus</Genus>
+  <Species>ornatus</Species>
+  <Sub-species />
+  <VernacularNames>Ornate Hawk-Eagle</VernacularNames>
+</Audio>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>6209</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN6209.wav</FileName>
+  <ClassId>nnoipz</ClassId>
+  <Date>2011-12-07</Date>
+  <Time>09:00</Time>
+  <Locality>Banhado do Maçarico region, Rio Grande, Rio Grande do Sul</Locality>
+  <Latitude>-32.526</Latitude>
+  <Longitude>-52.48</Longitude>
+  <Elevation>8</Elevation>
+  <Author>Rafael Antunes Dias</Author>
+  <AuthorID>XJSWEWQCEC</AuthorID>
+  <Content>song</Content>
+  <Comments>In grassland in grassland-wetland mosaic, group flying near Furnarius rufus nest</Comments>
+  <Quality>2</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies>Furnarius rufus</BackgroundSpecies>
+  <Order>Passeriformes</Order>
+  <Family>Hirundinidae</Family>
+  <Genus>Progne</Genus>
+  <Species>tapera</Species>
+  <Sub-species />
+  <VernacularNames>Brown-chested Martin</VernacularNames>
+</Audio>

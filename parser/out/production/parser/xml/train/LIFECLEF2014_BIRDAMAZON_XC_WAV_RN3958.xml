@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>3958</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN3958.wav</FileName>
+  <ClassId>reoana</ClassId>
+  <Date>2005-05-24</Date>
+  <Time>16:00</Time>
+  <Locality>Itatiaia NP, RJ</Locality>
+  <Latitude>-22.38</Latitude>
+  <Longitude>-44.63</Longitude>
+  <Elevation>700</Elevation>
+  <Author>Nick Athanas</Author>
+  <AuthorID>XRABICUARW</AuthorID>
+  <Content>song</Content>
+  <Comments />
+  <Quality>1</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Emberizidae</Family>
+  <Genus>Arremon</Genus>
+  <Species>semitorquatus</Species>
+  <Sub-species />
+  <VernacularNames>Half-collared Sparrow</VernacularNames>
+</Audio>

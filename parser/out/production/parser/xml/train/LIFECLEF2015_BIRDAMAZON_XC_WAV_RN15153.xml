@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>15153</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN15153.wav</FileName>
+  <ClassId>ywomvb</ClassId>
+  <Date>2013-01-10</Date>
+  <Time>06:00</Time>
+  <Locality>Tamandaré, Pernambuco</Locality>
+  <Latitude>-8.7718</Latitude>
+  <Longitude>-35.2469</Longitude>
+  <Elevation>40</Elevation>
+  <Author>Dan Lane</Author>
+  <AuthorID>WOEAFQRMUD</AuthorID>
+  <Content>song</Content>
+  <Comments>Natural song from unseen bird along a drainage amid sugarcane fields.bird-seen:noplayback-used:no</Comments>
+  <Quality>2</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies>Troglodytes aedon,Todirostrum cinereum,Tyrannus melancholicus</BackgroundSpecies>
+  <Order>Gruiformes</Order>
+  <Family>Rallidae</Family>
+  <Genus>Porzana</Genus>
+  <Species>albicollis</Species>
+  <Sub-species />
+  <VernacularNames>Ash-throated Crake</VernacularNames>
+</Audio>

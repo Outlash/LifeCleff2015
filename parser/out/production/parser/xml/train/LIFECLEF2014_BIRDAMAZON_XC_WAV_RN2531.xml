@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>2531</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN2531.wav</FileName>
+  <ClassId>zfdlov</ClassId>
+  <Date>2008-09-02</Date>
+  <Time>10:00</Time>
+  <Locality>Near Nova Friburgo, RJ</Locality>
+  <Latitude>NULL</Latitude>
+  <Longitude>NULL</Longitude>
+  <Elevation>1040</Elevation>
+  <Author>Scott Olmstead</Author>
+  <AuthorID>DABODLPUPA</AuthorID>
+  <Content>call</Content>
+  <Comments />
+  <Quality>2</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies>Phaethornis eurynome,Haplospiza unicolor</BackgroundSpecies>
+  <Order>Passeriformes</Order>
+  <Family>Tyrannidae</Family>
+  <Genus>Phylloscartes</Genus>
+  <Species>oustaleti</Species>
+  <Sub-species />
+  <VernacularNames>Oustalet's Tyrannulet</VernacularNames>
+</Audio>

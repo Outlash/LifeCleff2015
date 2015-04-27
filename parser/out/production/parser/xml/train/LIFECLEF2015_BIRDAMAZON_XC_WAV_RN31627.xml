@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>31627</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN31627.wav</FileName>
+  <ClassId>uipfam</ClassId>
+  <Date>2005-04-21</Date>
+  <Time>?</Time>
+  <Locality>Icapuí, Ceará State</Locality>
+  <Latitude>-4.7334</Latitude>
+  <Longitude>-37.4501</Longitude>
+  <Elevation>30</Elevation>
+  <Author>Ciro Albano</Author>
+  <AuthorID>MXVQPUKGWW</AuthorID>
+  <Content>song of a pair</Content>
+  <Comments />
+  <Quality>2</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies>Cantorchilus longirostris,Cyclarhis gujanensis</BackgroundSpecies>
+  <Order>Passeriformes</Order>
+  <Family>Thamnophilidae</Family>
+  <Genus>Formicivora</Genus>
+  <Species>melanogaster</Species>
+  <Sub-species />
+  <VernacularNames>Black-bellied Antwren</VernacularNames>
+</Audio>

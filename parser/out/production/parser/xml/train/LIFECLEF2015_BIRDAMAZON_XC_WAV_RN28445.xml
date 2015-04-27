@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>28445</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN28445.wav</FileName>
+  <ClassId>vrurmm</ClassId>
+  <Date>2008-07-09</Date>
+  <Time>22:00</Time>
+  <Locality>Guatemala fields near Kourou - French Guiana</Locality>
+  <Latitude>NULL</Latitude>
+  <Longitude>NULL</Longitude>
+  <Elevation>1</Elevation>
+  <Author>Patrick INGREMEAU</Author>
+  <AuthorID>IIVTYSKEYX</AuthorID>
+  <Content>call</Content>
+  <Comments />
+  <Quality>2</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Strigiformes</Order>
+  <Family>Strigidae</Family>
+  <Genus>Bubo</Genus>
+  <Species>virginianus</Species>
+  <Sub-species />
+  <VernacularNames>Great Horned Owl</VernacularNames>
+</Audio>

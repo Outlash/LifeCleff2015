@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>20797</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN20797.wav</FileName>
+  <ClassId>xkktdr</ClassId>
+  <Date>2010-01-10</Date>
+  <Time>14:00</Time>
+  <Locality>Santa Cecilia, Serrania de San Lucas</Locality>
+  <Latitude>7.9759</Latitude>
+  <Longitude>-74.2153</Longitude>
+  <Elevation>1600</Elevation>
+  <Author>Thomas Donegan</Author>
+  <AuthorID>OXSIOLJJUP</AuthorID>
+  <Content>Call</Content>
+  <Comments>An earth-shatteringly exciting recording!  Or not ... In a mixed species flock, bird seen and identified, gave this short call (the first of the two on the track) as it flew off.  The lower note immediately after is of another species.</Comments>
+  <Quality>3</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Thraupidae</Family>
+  <Genus>Tangara</Genus>
+  <Species>arthus</Species>
+  <Sub-species />
+  <VernacularNames>Golden Tanager</VernacularNames>
+</Audio>

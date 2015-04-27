@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>17461</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN17461.wav</FileName>
+  <ClassId>fvftkw</ClassId>
+  <Date>2005-10-02</Date>
+  <Time>6:25</Time>
+  <Locality>Soatá, Alto Onzaga, Santander</Locality>
+  <Latitude>6.5667</Latitude>
+  <Longitude>-72.7334</Longitude>
+  <Elevation>2500</Elevation>
+  <Author>Oscar Laverde</Author>
+  <AuthorID>WKVKSVMNDZ</AuthorID>
+  <Content>song</Content>
+  <Comments />
+  <Quality>3</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Tyrannidae</Family>
+  <Genus>Elaenia</Genus>
+  <Species>frantzii</Species>
+  <Sub-species />
+  <VernacularNames>Mountain Elaenia</VernacularNames>
+</Audio>

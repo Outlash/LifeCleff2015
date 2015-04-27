@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>29909</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN29909.wav</FileName>
+  <ClassId>fpfbua</ClassId>
+  <Date>2011-12-17</Date>
+  <Time>05:31</Time>
+  <Locality>Coromandel, Minas Gerais</Locality>
+  <Latitude>-18.3954</Latitude>
+  <Longitude>-47.1846</Longitude>
+  <Elevation>800</Elevation>
+  <Author>Luiz Gabriel Mazzoni</Author>
+  <AuthorID>MPOKMOFDDX</AuthorID>
+  <Content>song</Content>
+  <Comments>bird-seen:yesplayback-used:yes</Comments>
+  <Quality>2</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies>Cnemotriccus fuscatus,Neopelma pallescens,Myiothlypis flaveola</BackgroundSpecies>
+  <Order>Passeriformes</Order>
+  <Family>Furnariidae</Family>
+  <Genus>Synallaxis</Genus>
+  <Species>scutata</Species>
+  <Sub-species />
+  <VernacularNames>Ochre-cheeked Spinetail</VernacularNames>
+</Audio>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>15738</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN15738.wav</FileName>
+  <ClassId>ekarsb</ClassId>
+  <Date>2008-08-18</Date>
+  <Time>?</Time>
+  <Locality>Bolivar, El Pauji road, Uaiparu</Locality>
+  <Latitude>NULL</Latitude>
+  <Longitude>NULL</Longitude>
+  <Elevation>?</Elevation>
+  <Author>Alexandre Renaudier</Author>
+  <AuthorID>GKADEITXTH</AuthorID>
+  <Content>song</Content>
+  <Comments>from a male</Comments>
+  <Quality>4</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Thamnophilidae</Family>
+  <Genus>Myrmoborus</Genus>
+  <Species>myotherinus</Species>
+  <Sub-species />
+  <VernacularNames>Black-faced Antbird</VernacularNames>
+</Audio>

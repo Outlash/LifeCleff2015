@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>19435</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN19435.wav</FileName>
+  <ClassId>woerbo</ClassId>
+  <Date>2014-04-08</Date>
+  <Time>07:30</Time>
+  <Locality>La Escalera Road - Sierra de Imataca</Locality>
+  <Latitude>6.0192</Latitude>
+  <Longitude>-61.4259</Longitude>
+  <Elevation>850</Elevation>
+  <Author>Thore Noernberg</Author>
+  <AuthorID>TTSQGWDDGW</AuthorID>
+  <Content>song</Content>
+  <Comments>bird observed through dense forest in canopy close to the Cock of the Rock Lek bird-seen:yesplayback-used:no</Comments>
+  <Quality>2</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Cotingidae</Family>
+  <Genus>Procnias</Genus>
+  <Species>albus</Species>
+  <Sub-species>albus</Sub-species>
+  <VernacularNames>White Bellbird</VernacularNames>
+</Audio>

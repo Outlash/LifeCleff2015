@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>4296</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN4296.wav</FileName>
+  <ClassId>nknnjw</ClassId>
+  <Date>1999-11-01</Date>
+  <Time>10:00</Time>
+  <Locality>Serra da Cantareira State Park. São Paulo</Locality>
+  <Latitude>-23.4667</Latitude>
+  <Longitude>-46.6167</Longitude>
+  <Elevation>900</Elevation>
+  <Author>Antonio Silveira</Author>
+  <AuthorID>NBJQSQJRYH</AuthorID>
+  <Content>male, song</Content>
+  <Comments>bird-seen:yesplayback-used:no</Comments>
+  <Quality>0</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Parulidae</Family>
+  <Genus>Myiothlypis</Genus>
+  <Species>leucoblephara</Species>
+  <Sub-species />
+  <VernacularNames>White-rimmed Warbler</VernacularNames>
+</Audio>

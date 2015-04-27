@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>16114</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN16114.wav</FileName>
+  <ClassId>hrpdhr</ClassId>
+  <Date>2010-05-30</Date>
+  <Time>08:15</Time>
+  <Locality>Bagne des Ananmites - Montsinery-Tonnegrande</Locality>
+  <Latitude>NULL</Latitude>
+  <Longitude>NULL</Longitude>
+  <Elevation>?</Elevation>
+  <Author>Patrick INGREMEAU</Author>
+  <AuthorID>IIVTYSKEYX</AuthorID>
+  <Content>song</Content>
+  <Comments />
+  <Quality>2</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies>Percnostola rufifrons</BackgroundSpecies>
+  <Order>Passeriformes</Order>
+  <Family>Tyrannidae</Family>
+  <Genus>Corythopis</Genus>
+  <Species>torquatus</Species>
+  <Sub-species />
+  <VernacularNames>Ringed Antpipit</VernacularNames>
+</Audio>

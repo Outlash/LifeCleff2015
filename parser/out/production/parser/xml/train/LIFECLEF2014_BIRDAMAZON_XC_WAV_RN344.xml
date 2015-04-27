@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>344</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN344.wav</FileName>
+  <ClassId>ziirhl</ClassId>
+  <Date>2007-09-16</Date>
+  <Time>08:11</Time>
+  <Locality>Três Picos State Park, RJ</Locality>
+  <Latitude>-22.342455</Latitude>
+  <Longitude>-42.760506</Longitude>
+  <Elevation>?</Elevation>
+  <Author>Eduardo Gelli</Author>
+  <AuthorID>FANYWVEFDK</AuthorID>
+  <Content>call</Content>
+  <Comments />
+  <Quality>1</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies>Chiroxiphia caudata</BackgroundSpecies>
+  <Order>Passeriformes</Order>
+  <Family>Icteridae</Family>
+  <Genus>Cacicus</Genus>
+  <Species>haemorrhous</Species>
+  <Sub-species />
+  <VernacularNames>Red-rumped Cacique</VernacularNames>
+</Audio>

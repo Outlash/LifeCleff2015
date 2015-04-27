@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>23462</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN23462.wav</FileName>
+  <ClassId>tkoszd</ClassId>
+  <Date>2010-11-14</Date>
+  <Time>19:01</Time>
+  <Locality>Paragominas, PA, Brazil, Bacia 324</Locality>
+  <Latitude>-3.263</Latitude>
+  <Longitude>-48.192</Longitude>
+  <Elevation>?</Elevation>
+  <Author>Alexander Lees</Author>
+  <AuthorID>INDDBZAFJL</AuthorID>
+  <Content>song</Content>
+  <Comments>by logging clearing in selectively-logged primary forest</Comments>
+  <Quality>3</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Caprimulgiformes</Order>
+  <Family>Nyctibiidae</Family>
+  <Genus>Nyctibius</Genus>
+  <Species>leucopterus</Species>
+  <Sub-species />
+  <VernacularNames>White-winged Potoo</VernacularNames>
+</Audio>

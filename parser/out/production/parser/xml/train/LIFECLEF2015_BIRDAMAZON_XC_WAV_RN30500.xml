@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>30500</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN30500.wav</FileName>
+  <ClassId>tqvdsy</ClassId>
+  <Date>2014-04-04</Date>
+  <Time>21:30</Time>
+  <Locality>Reserva Florestal Adolpho Ducke, Manaus, Amazonas</Locality>
+  <Latitude>-2.9948</Latitude>
+  <Longitude>-59.9378</Longitude>
+  <Elevation>80</Elevation>
+  <Author>Eduardo D. Schultz</Author>
+  <AuthorID>QYOZQITVAC</AuthorID>
+  <Content>call</Content>
+  <Comments>bird-seen:noplayback-used:no</Comments>
+  <Quality>2</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Strigiformes</Order>
+  <Family>Strigidae</Family>
+  <Genus>Lophostrix</Genus>
+  <Species>cristata</Species>
+  <Sub-species />
+  <VernacularNames>Crested Owl</VernacularNames>
+</Audio>

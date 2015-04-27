@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>545</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN545.wav</FileName>
+  <ClassId>izpyuo</ClassId>
+  <Date>2006-10-26</Date>
+  <Time>17:40</Time>
+  <Locality>Caetes, Espirito Santo</Locality>
+  <Latitude>-20.501637</Latitude>
+  <Longitude>-41.027412</Longitude>
+  <Elevation>1150</Elevation>
+  <Author>Daniel Lane</Author>
+  <AuthorID>WOEAFQRMUD</AuthorID>
+  <Content>song</Content>
+  <Comments>Natural songs from three birds in crown of Eucalyptus between cultivated fields.</Comments>
+  <Quality>1</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies>Icterus jamacaii</BackgroundSpecies>
+  <Order>Passeriformes</Order>
+  <Family>Thraupidae</Family>
+  <Genus>Thraupis</Genus>
+  <Species>ornata</Species>
+  <Sub-species />
+  <VernacularNames>Golden-chevroned Tanager</VernacularNames>
+</Audio>

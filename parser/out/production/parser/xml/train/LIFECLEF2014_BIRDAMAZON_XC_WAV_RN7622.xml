@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>7622</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN7622.wav</FileName>
+  <ClassId>gtpoqz</ClassId>
+  <Date>2013-02-02</Date>
+  <Time>16:00</Time>
+  <Locality>Santa Teresa, Espirito Santo</Locality>
+  <Latitude>-19.934</Latitude>
+  <Longitude>-40.5962</Longitude>
+  <Elevation>650</Elevation>
+  <Author>Noé Eiterer</Author>
+  <AuthorID>TWSKITNQOV</AuthorID>
+  <Content>flight call</Content>
+  <Comments>bird-seen:yesplayback-used:no</Comments>
+  <Quality>2</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies />
+  <Order>Apodiformes</Order>
+  <Family>Trochilidae</Family>
+  <Genus>Florisuga</Genus>
+  <Species>fusca</Species>
+  <Sub-species />
+  <VernacularNames>Black Jacobin</VernacularNames>
+</Audio>

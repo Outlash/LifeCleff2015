@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>30570</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN30570.wav</FileName>
+  <ClassId>bjvdzx</ClassId>
+  <Date>2009-00-00</Date>
+  <Time>?:?</Time>
+  <Locality>Mana, Javouhey</Locality>
+  <Latitude>5.590018</Latitude>
+  <Longitude>-53.811035</Longitude>
+  <Elevation>2</Elevation>
+  <Author>A. Renaudier</Author>
+  <AuthorID>GKADEITXTH</AuthorID>
+  <Content>song, duet.</Content>
+  <Comments />
+  <Quality>1</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies>Hypocnemoides melanopogon,Cymbilaimus lineatus</BackgroundSpecies>
+  <Order>Passeriformes</Order>
+  <Family>Troglodytidae</Family>
+  <Genus>Pheugopedius</Genus>
+  <Species>coraya</Species>
+  <Sub-species>coraya</Sub-species>
+  <VernacularNames>Coraya Wren</VernacularNames>
+</Audio>

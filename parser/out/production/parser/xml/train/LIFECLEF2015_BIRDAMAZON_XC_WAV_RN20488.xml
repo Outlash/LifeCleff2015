@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>20488</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN20488.wav</FileName>
+  <ClassId>efojdf</ClassId>
+  <Date>2012-04-01</Date>
+  <Time>10:00</Time>
+  <Locality>Monterredondo, Cundinamarca</Locality>
+  <Latitude>4.2834</Latitude>
+  <Longitude>-73.7834</Longitude>
+  <Elevation>2000</Elevation>
+  <Author>Diego Calderon-F.</Author>
+  <AuthorID>OGATBVKNAG</AuthorID>
+  <Content>Song</Content>
+  <Comments>Recorded with mobile phone - Playback response</Comments>
+  <Quality>2</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Grallariidae</Family>
+  <Genus>Grallaria</Genus>
+  <Species>kaestneri</Species>
+  <Sub-species />
+  <VernacularNames>Cundinamarca Antpitta</VernacularNames>
+</Audio>

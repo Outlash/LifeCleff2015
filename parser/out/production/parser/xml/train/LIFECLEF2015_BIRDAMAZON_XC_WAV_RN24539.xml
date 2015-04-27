@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>24539</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN24539.wav</FileName>
+  <ClassId>pfeffq</ClassId>
+  <Date>2013-07-25</Date>
+  <Time>09:10</Time>
+  <Locality>Campo Bonito 2, Parana</Locality>
+  <Latitude>-24.998</Latitude>
+  <Longitude>-53.0364</Longitude>
+  <Elevation>750</Elevation>
+  <Author>Teus Luijendijk</Author>
+  <AuthorID>VLNULZJNSX</AuthorID>
+  <Content>song</Content>
+  <Comments>Slightly filtered &lt;600 Hz.Two birds chattering.bird-seen:yesplayback-used:no</Comments>
+  <Quality>2</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies>Leptotila verreauxi</BackgroundSpecies>
+  <Order>Passeriformes</Order>
+  <Family>Fringillidae</Family>
+  <Genus>Euphonia</Genus>
+  <Species>cyanocephala</Species>
+  <Sub-species />
+  <VernacularNames>Golden-rumped Euphonia</VernacularNames>
+</Audio>

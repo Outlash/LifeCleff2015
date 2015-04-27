@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>23199</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN23199.wav</FileName>
+  <ClassId>fvftkw</ClassId>
+  <Date>2012-01-00</Date>
+  <Time>07:00</Time>
+  <Locality>Villa de Leyva</Locality>
+  <Latitude>5.6961</Latitude>
+  <Longitude>-73.4781</Longitude>
+  <Elevation>2200</Elevation>
+  <Author>David Edwards</Author>
+  <AuthorID>AFEHYCAHZR</AuthorID>
+  <Content>song</Content>
+  <Comments>playback-used:no</Comments>
+  <Quality>1</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Tyrannidae</Family>
+  <Genus>Elaenia</Genus>
+  <Species>frantzii</Species>
+  <Sub-species />
+  <VernacularNames>Mountain Elaenia</VernacularNames>
+</Audio>

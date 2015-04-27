@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>6534</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN6534.wav</FileName>
+  <ClassId>ltjfqv</ClassId>
+  <Date>2002-07-25</Date>
+  <Time>08:53</Time>
+  <Locality>Boa Nova, BA - dry forest</Locality>
+  <Latitude>-14.3834</Latitude>
+  <Longitude>-40.2001</Longitude>
+  <Elevation>740</Elevation>
+  <Author>Jeremy Minns</Author>
+  <AuthorID>DGVLLRYDXS</AuthorID>
+  <Content>Call</Content>
+  <Comments>Dry forest. This is Call A in our DVD-ROM 'Birds of Brazil'.</Comments>
+  <Quality>2</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies>Sakesphorus cristatus,Tiaris fuliginosus,Myiothlypis flaveola</BackgroundSpecies>
+  <Order>Passeriformes</Order>
+  <Family>Tyrannidae</Family>
+  <Genus>Myiarchus</Genus>
+  <Species>tyrannulus</Species>
+  <Sub-species>bahiae</Sub-species>
+  <VernacularNames>Brown-crested Flycatcher</VernacularNames>
+</Audio>

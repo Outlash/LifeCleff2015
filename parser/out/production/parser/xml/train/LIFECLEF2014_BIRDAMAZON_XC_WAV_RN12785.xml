@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>12785</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN12785.wav</FileName>
+  <ClassId>vyxqzu</ClassId>
+  <Date>1998-10-31</Date>
+  <Time>06:52</Time>
+  <Locality>Massambaba Ecological Reserve</Locality>
+  <Latitude>-22.9334</Latitude>
+  <Longitude>-42.2334</Longitude>
+  <Elevation>10</Elevation>
+  <Author>Jeremy Minns</Author>
+  <AuthorID>DGVLLRYDXS</AuthorID>
+  <Content>Song</Content>
+  <Comments>Bushy coastal vegetation with some trees on sand dunes. Song by male.</Comments>
+  <Quality>1</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies>Leptotila verreauxi,Vireo olivaceus</BackgroundSpecies>
+  <Order>Passeriformes</Order>
+  <Family>Thamnophilidae</Family>
+  <Genus>Formicivora</Genus>
+  <Species>serrana</Species>
+  <Sub-species>littoralis</Sub-species>
+  <VernacularNames>Serra Antwren</VernacularNames>
+</Audio>

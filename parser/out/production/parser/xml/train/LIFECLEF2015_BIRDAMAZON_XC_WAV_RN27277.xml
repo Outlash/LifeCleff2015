@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>27277</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN27277.wav</FileName>
+  <ClassId>mfqpdt</ClassId>
+  <Date>2011-05-28</Date>
+  <Time>?</Time>
+  <Locality>saint-Georges, piste de Saut Maripa</Locality>
+  <Latitude>3.950143</Latitude>
+  <Longitude>-51.794735</Longitude>
+  <Elevation>100</Elevation>
+  <Author>Alexandre Renaudier</Author>
+  <AuthorID>GKADEITXTH</AuthorID>
+  <Content>song</Content>
+  <Comments>in response to playback</Comments>
+  <Quality>2</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies>Patagioenas plumbea</BackgroundSpecies>
+  <Order>Piciformes</Order>
+  <Family>Galbulidae</Family>
+  <Genus>Galbula</Genus>
+  <Species>leucogastra</Species>
+  <Sub-species />
+  <VernacularNames>Bronzy Jacamar</VernacularNames>
+</Audio>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>31436</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN31436.wav</FileName>
+  <ClassId>xychdo</ClassId>
+  <Date>2013-01-17</Date>
+  <Time>06:30</Time>
+  <Locality>Pitalito, Huila</Locality>
+  <Latitude>1.8396</Latitude>
+  <Longitude>-76.0176</Longitude>
+  <Elevation>1300</Elevation>
+  <Author>Yair G Molina Martínez</Author>
+  <AuthorID>UQUOPFIYYQ</AuthorID>
+  <Content>song</Content>
+  <Comments>bird-seen:yesplayback-used:no</Comments>
+  <Quality>2</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Troglodytidae</Family>
+  <Genus>Troglodytes</Genus>
+  <Species>aedon</Species>
+  <Sub-species />
+  <VernacularNames>House Wren</VernacularNames>
+</Audio>

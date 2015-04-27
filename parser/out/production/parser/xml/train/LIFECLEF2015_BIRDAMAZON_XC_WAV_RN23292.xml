@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>23292</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN23292.wav</FileName>
+  <ClassId>cpzzjy</ClassId>
+  <Date>2003-04-08</Date>
+  <Time>14:37</Time>
+  <Locality>Suaita, Santander</Locality>
+  <Latitude>6.106418</Latitude>
+  <Longitude>-73.45562</Longitude>
+  <Elevation>1400</Elevation>
+  <Author>Oscar Laverde</Author>
+  <AuthorID>WKVKSVMNDZ</AuthorID>
+  <Content>song</Content>
+  <Comments>Al parecer el mismo individuo que el corte XC12276</Comments>
+  <Quality>2</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Mimidae</Family>
+  <Genus>Mimus</Genus>
+  <Species>gilvus</Species>
+  <Sub-species />
+  <VernacularNames>Tropical Mockingbird</VernacularNames>
+</Audio>

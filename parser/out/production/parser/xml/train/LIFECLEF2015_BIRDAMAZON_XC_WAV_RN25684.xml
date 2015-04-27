@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>25684</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN25684.wav</FileName>
+  <ClassId>gupfgh</ClassId>
+  <Date>2011-09-10</Date>
+  <Time>?</Time>
+  <Locality>Papaïchton, Abattis Kottica</Locality>
+  <Latitude>3.80703</Latitude>
+  <Longitude>-54.14949</Longitude>
+  <Elevation>50</Elevation>
+  <Author>Alexandre Renaudier</Author>
+  <AuthorID>GKADEITXTH</AuthorID>
+  <Content>Call ?</Content>
+  <Comments>in a mixed flock, and with a tamandua destroying a termite nest</Comments>
+  <Quality>2</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Thamnophilidae</Family>
+  <Genus>Thamnomanes</Genus>
+  <Species>caesius</Species>
+  <Sub-species />
+  <VernacularNames>Cinereous Antshrike</VernacularNames>
+</Audio>

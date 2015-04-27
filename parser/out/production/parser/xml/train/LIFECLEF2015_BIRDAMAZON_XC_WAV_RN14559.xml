@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>14559</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN14559.wav</FileName>
+  <ClassId>xfkpxa</ClassId>
+  <Date>2010-01-08</Date>
+  <Time>09:30</Time>
+  <Locality>Santa Cecilia, Serrania de San Lucas</Locality>
+  <Latitude>7.9759</Latitude>
+  <Longitude>-74.2153</Longitude>
+  <Elevation>1550</Elevation>
+  <Author>Thomas Donegan</Author>
+  <AuthorID>OXSIOLJJUP</AuthorID>
+  <Content>Contact calls</Content>
+  <Comments>Contact or alarm call of an individual, soon after release from mist-netting</Comments>
+  <Quality>5</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Cardinalidae</Family>
+  <Genus>Habia</Genus>
+  <Species>gutturalis</Species>
+  <Sub-species />
+  <VernacularNames>Sooty Ant Tanager</VernacularNames>
+</Audio>

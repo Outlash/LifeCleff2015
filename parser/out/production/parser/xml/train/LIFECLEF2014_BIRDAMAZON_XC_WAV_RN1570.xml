@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>1570</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN1570.wav</FileName>
+  <ClassId>obfbve</ClassId>
+  <Date>2012-12-11</Date>
+  <Time>06:00</Time>
+  <Locality>Itaituba, Para</Locality>
+  <Latitude>-4.5778</Latitude>
+  <Longitude>-56.3338</Longitude>
+  <Elevation>70</Elevation>
+  <Author>GABRIEL LEITE</Author>
+  <AuthorID>TGBFXDVERJ</AuthorID>
+  <Content>call, female, male</Content>
+  <Comments>bird-seen:yesplayback-used:no</Comments>
+  <Quality>3</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies />
+  <Order>Pelecaniformes</Order>
+  <Family>Ardeidae</Family>
+  <Genus>Zebrilus</Genus>
+  <Species>undulatus</Species>
+  <Sub-species />
+  <VernacularNames>Zigzag Heron</VernacularNames>
+</Audio>

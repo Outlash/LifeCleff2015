@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>5629</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN5629.wav</FileName>
+  <ClassId>ioaqnm</ClassId>
+  <Date>2010-10-02</Date>
+  <Time>08:36</Time>
+  <Locality>nova lima, brasil</Locality>
+  <Latitude>NULL</Latitude>
+  <Longitude>NULL</Longitude>
+  <Elevation>790</Elevation>
+  <Author>Frederico Pereira</Author>
+  <AuthorID>CUABISBTCK</AuthorID>
+  <Content>alarm call</Content>
+  <Comments />
+  <Quality>2</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies>Myiothlypis flaveola</BackgroundSpecies>
+  <Order>Cuculiformes</Order>
+  <Family>Cuculidae</Family>
+  <Genus>Piaya</Genus>
+  <Species>cayana</Species>
+  <Sub-species />
+  <VernacularNames>Squirrel Cuckoo</VernacularNames>
+</Audio>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>17547</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN17547.wav</FileName>
+  <ClassId>ovfpsf</ClassId>
+  <Date>2006-08-13</Date>
+  <Time>7:58</Time>
+  <Locality>Jardin, Antioquia</Locality>
+  <Latitude>5.736243</Latitude>
+  <Longitude>-75.86608</Longitude>
+  <Elevation>1850</Elevation>
+  <Author>Charles Hesse</Author>
+  <AuthorID>FMQSRXIRTH</AuthorID>
+  <Content>?</Content>
+  <Comments>link:http://www.geocities.com/fringe_backed_fire_eye/index.html   Whilst feeding</Comments>
+  <Quality>1</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Psittaciformes</Order>
+  <Family>Psittacidae</Family>
+  <Genus>Ognorhynchus</Genus>
+  <Species>icterotis</Species>
+  <Sub-species />
+  <VernacularNames>Yellow-eared Parrot</VernacularNames>
+</Audio>

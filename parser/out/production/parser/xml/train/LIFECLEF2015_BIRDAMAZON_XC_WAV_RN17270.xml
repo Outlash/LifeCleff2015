@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>17270</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN17270.wav</FileName>
+  <ClassId>ovfpsf</ClassId>
+  <Date>1999-05-07</Date>
+  <Time>16:27</Time>
+  <Locality>Finca La Siberia, Roncesvalles, Tolima</Locality>
+  <Latitude>NULL</Latitude>
+  <Longitude>NULL</Longitude>
+  <Elevation>2650</Elevation>
+  <Author>Bernabe Lopez-Lanus</Author>
+  <AuthorID>BYLLSJRVDZ</AuthorID>
+  <Content>call</Content>
+  <Comments>Young/s of few weeks and parents calling into the nest (camara). Dentro del nido (episte hueco de palma muerta con entrada superior): pichón (vocalizaciones bajas) luego intercaladas con las vocalizaciones características de dos adultos. La distorsión de las voces se debe al efecto por estar dentro de un “tubo” de hasta 7-9 m de altura</Comments>
+  <Quality>1</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Psittaciformes</Order>
+  <Family>Psittacidae</Family>
+  <Genus>Ognorhynchus</Genus>
+  <Species>icterotis</Species>
+  <Sub-species />
+  <VernacularNames>Yellow-eared Parrot</VernacularNames>
+</Audio>

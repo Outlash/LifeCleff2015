@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>2859</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN2859.wav</FileName>
+  <ClassId>gcyzcu</ClassId>
+  <Date>2001-11-12</Date>
+  <Time>05:50</Time>
+  <Locality>Murici, Alagoas</Locality>
+  <Latitude>-9.3001</Latitude>
+  <Longitude>-35.9334</Longitude>
+  <Elevation>550</Elevation>
+  <Author>Jeremy Minns</Author>
+  <AuthorID>DGVLLRYDXS</AuthorID>
+  <Content>Calls, perched</Content>
+  <Comments>Forest fragment near IBAMA reserve. Pair.</Comments>
+  <Quality>2</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies>Troglodytes aedon</BackgroundSpecies>
+  <Order>Psittaciformes</Order>
+  <Family>Psittacidae</Family>
+  <Genus>Diopsittaca</Genus>
+  <Species>nobilis</Species>
+  <Sub-species>cumanensis</Sub-species>
+  <VernacularNames>Red-shouldered Macaw</VernacularNames>
+</Audio>

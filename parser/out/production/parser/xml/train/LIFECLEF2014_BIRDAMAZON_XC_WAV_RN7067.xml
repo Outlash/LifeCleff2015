@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>7067</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN7067.wav</FileName>
+  <ClassId>ibvnlg</ClassId>
+  <Date>1997-12-26</Date>
+  <Time>?:?</Time>
+  <Locality>Rio de Janeiro, Itatiaia National Park</Locality>
+  <Latitude>-22.3</Latitude>
+  <Longitude>-44.6</Longitude>
+  <Elevation>?</Elevation>
+  <Author>Frank Lambert</Author>
+  <AuthorID>YTUXOCTUEM</AuthorID>
+  <Content>song</Content>
+  <Comments>Previously published on AVoCet as &lt;a href=http://avocet.zoology.msu.edu/recordings/8529&gt;AV8529&lt;/a&gt;.  Certainty: 100%.  ID determined by: not specifically indicated, recordist normally sees birds recorded and indicates if any question. GPS: GeoHack. could be calls</Comments>
+  <Quality>2</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Tyrannidae</Family>
+  <Genus>Myiornis</Genus>
+  <Species>auricularis</Species>
+  <Sub-species />
+  <VernacularNames>Eared Pygmy Tyrant</VernacularNames>
+</Audio>

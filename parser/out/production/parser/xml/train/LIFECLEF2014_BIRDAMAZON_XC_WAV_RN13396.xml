@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>13396</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN13396.wav</FileName>
+  <ClassId>myvkag</ClassId>
+  <Date>2010-12-07</Date>
+  <Time>06:10</Time>
+  <Locality>Bacia 260, Santarem PA</Locality>
+  <Latitude>-3.0128</Latitude>
+  <Longitude>-54.8828</Longitude>
+  <Elevation>?</Elevation>
+  <Author>Alexander Lees</Author>
+  <AuthorID>INDDBZAFJL</AuthorID>
+  <Content>call</Content>
+  <Comments>primary forest (logged and burnt)</Comments>
+  <Quality>0</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies />
+  <Order>Falconiformes</Order>
+  <Family>Falconidae</Family>
+  <Genus>Ibycter</Genus>
+  <Species>americanus</Species>
+  <Sub-species />
+  <VernacularNames>Red-throated Caracara</VernacularNames>
+</Audio>

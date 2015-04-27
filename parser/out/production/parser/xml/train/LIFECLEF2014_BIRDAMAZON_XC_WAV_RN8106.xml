@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>8106</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN8106.wav</FileName>
+  <ClassId>cllknv</ClassId>
+  <Date>2011-02-02</Date>
+  <Time>10:50</Time>
+  <Locality>Bacia 157, Santarém, PA</Locality>
+  <Latitude>-2.8328</Latitude>
+  <Longitude>-54.4928</Longitude>
+  <Elevation>?</Elevation>
+  <Author>Alexander Lees</Author>
+  <AuthorID>INDDBZAFJL</AuthorID>
+  <Content>song</Content>
+  <Comments>primary forest (logged and burnt)</Comments>
+  <Quality>3</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies>Spizaetus ornatus</BackgroundSpecies>
+  <Order>Passeriformes</Order>
+  <Family>Furnariidae</Family>
+  <Genus>Xiphorhynchus</Genus>
+  <Species>spixii</Species>
+  <Sub-species />
+  <VernacularNames>Spix's Woodcreeper</VernacularNames>
+</Audio>

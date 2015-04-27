@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>1833</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN1833.wav</FileName>
+  <ClassId>qtzsvy</ClassId>
+  <Date>2007-12-04</Date>
+  <Time>06:40</Time>
+  <Locality>right bank medio Rio Jurua, near Bauana</Locality>
+  <Latitude>-5.423</Latitude>
+  <Longitude>-67.28</Longitude>
+  <Elevation>?</Elevation>
+  <Author>Alexander Lees</Author>
+  <AuthorID>INDDBZAFJL</AuthorID>
+  <Content>song</Content>
+  <Comments />
+  <Quality>0</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies>Celeus flavus,Thamnomanes caesius,Myrmotherula axillaris,Synallaxis rutilans</BackgroundSpecies>
+  <Order>Passeriformes</Order>
+  <Family>Furnariidae</Family>
+  <Genus>Automolus</Genus>
+  <Species>infuscatus</Species>
+  <Sub-species>purusianus</Sub-species>
+  <VernacularNames>Olive-backed Foliage-gleaner</VernacularNames>
+</Audio>

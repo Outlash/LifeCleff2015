@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>10426</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN10426.wav</FileName>
+  <ClassId>uphahj</ClassId>
+  <Date>2013-10-07</Date>
+  <Time>09:00</Time>
+  <Locality>Fazenda Country, Canavieiras, Bahia state</Locality>
+  <Latitude>-15.4263</Latitude>
+  <Longitude>-39.0117</Longitude>
+  <Elevation>50</Elevation>
+  <Author>Antonio Silveira</Author>
+  <AuthorID>NBJQSQJRYH</AuthorID>
+  <Content>call, male</Content>
+  <Comments>A male call perched on a top of the tree in the forest. and the end another male singing in the background.bird-seen:yesplayback-used:no</Comments>
+  <Quality>3</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies />
+  <Order>Accipitriformes</Order>
+  <Family>Accipitridae</Family>
+  <Genus>Rupornis</Genus>
+  <Species>magnirostris</Species>
+  <Sub-species />
+  <VernacularNames>Roadside Hawk</VernacularNames>
+</Audio>

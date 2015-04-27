@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>33032</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN33032.wav</FileName>
+  <ClassId>mkqlxe</ClassId>
+  <Date>2013-01-23</Date>
+  <Time>05:30</Time>
+  <Locality>Trairi, Trairi, Ceara</Locality>
+  <Latitude>-3.3303</Latitude>
+  <Longitude>-39.2616</Longitude>
+  <Elevation>70</Elevation>
+  <Author>Caio Brito</Author>
+  <AuthorID>YWWWUBVAJF</AuthorID>
+  <Content>call</Content>
+  <Comments>bird-seen:yesplayback-used:no</Comments>
+  <Quality>1</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies>Nyctidromus albicollis</BackgroundSpecies>
+  <Order>Passeriformes</Order>
+  <Family>Tyrannidae</Family>
+  <Genus>Myiozetetes</Genus>
+  <Species>similis</Species>
+  <Sub-species />
+  <VernacularNames>Social Flycatcher</VernacularNames>
+</Audio>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>27832</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN27832.wav</FileName>
+  <ClassId>edqvwi</ClassId>
+  <Date>2000-09-30</Date>
+  <Time>06:30</Time>
+  <Locality>Entre La Romelia y El Planchon (PNN Munchique), Charguayaco, Vereda La Romelia, Mpio El Tambo, Cauca</Locality>
+  <Latitude>NULL</Latitude>
+  <Longitude>NULL</Longitude>
+  <Elevation>2300</Elevation>
+  <Author>Bernabe Lopez-Lanus</Author>
+  <AuthorID>BYLLSJRVDZ</AuthorID>
+  <Content>Song</Content>
+  <Comments />
+  <Quality>3</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Thraupidae</Family>
+  <Genus>Hemispingus</Genus>
+  <Species>superciliaris</Species>
+  <Sub-species />
+  <VernacularNames>Superciliaried Hemispingus</VernacularNames>
+</Audio>

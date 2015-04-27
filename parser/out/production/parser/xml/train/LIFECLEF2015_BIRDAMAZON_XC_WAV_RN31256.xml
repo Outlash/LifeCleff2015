@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>31256</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN31256.wav</FileName>
+  <ClassId>bbhech</ClassId>
+  <Date>2005-10-04</Date>
+  <Time>9:02</Time>
+  <Locality>Soatá, Alto Onzaga, Santander</Locality>
+  <Latitude>6.5667</Latitude>
+  <Longitude>-72.7334</Longitude>
+  <Elevation>2500</Elevation>
+  <Author>Oscar Laverde</Author>
+  <AuthorID>WKVKSVMNDZ</AuthorID>
+  <Content>call</Content>
+  <Comments>Un individuo en lo alto de un roble, haciendo reclamos, luego emitio un canto y se cambió de árbol</Comments>
+  <Quality>2</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Icteridae</Family>
+  <Genus>Macroagelaius</Genus>
+  <Species>subalaris</Species>
+  <Sub-species />
+  <VernacularNames>Colombian Mountain Grackle</VernacularNames>
+</Audio>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>6445</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN6445.wav</FileName>
+  <ClassId>blpeuv</ClassId>
+  <Date>2003-02-12</Date>
+  <Time>07:42</Time>
+  <Locality>Intervales State Park. Carmo road</Locality>
+  <Latitude>-24.2834</Latitude>
+  <Longitude>-48.4334</Longitude>
+  <Elevation>800</Elevation>
+  <Author>Jeremy Minns</Author>
+  <AuthorID>DGVLLRYDXS</AuthorID>
+  <Content>call</Content>
+  <Comments>Montane forest. After playback. These are calls A and B in our DVD-ROM 'Birds of Brazil'.</Comments>
+  <Quality>2</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Tyrannidae</Family>
+  <Genus>Attila</Genus>
+  <Species>phoenicurus</Species>
+  <Sub-species />
+  <VernacularNames>Rufous-tailed Attila</VernacularNames>
+</Audio>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>29776</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN29776.wav</FileName>
+  <ClassId>erszyt</ClassId>
+  <Date>2014-03-10</Date>
+  <Time>14:00</Time>
+  <Locality>Manaus, Amazonas</Locality>
+  <Latitude>-2.6007</Latitude>
+  <Longitude>-59.9242</Longitude>
+  <Elevation>130</Elevation>
+  <Author>Bruno Lima</Author>
+  <AuthorID>DVJCMXOTVL</AuthorID>
+  <Content>song</Content>
+  <Comments>bird-seen:yesplayback-used:no</Comments>
+  <Quality>1</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Vireonidae</Family>
+  <Genus>Hylophilus</Genus>
+  <Species>semicinereus</Species>
+  <Sub-species />
+  <VernacularNames>Grey-chested Greenlet</VernacularNames>
+</Audio>

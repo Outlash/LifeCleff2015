@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>24419</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN24419.wav</FileName>
+  <ClassId>xychdo</ClassId>
+  <Date>1997-01-00</Date>
+  <Time>?:?</Time>
+  <Locality>Henri Pittier Nat. Park</Locality>
+  <Latitude>10.417</Latitude>
+  <Longitude>-67.633</Longitude>
+  <Elevation>?</Elevation>
+  <Author>John van der Woude</Author>
+  <AuthorID>LDKAWQWMRJ</AuthorID>
+  <Content>song</Content>
+  <Comments>Southern House Wren. trip:http://home.tiscali.nl/~jvanderw/ven97/sounds_ven97.html</Comments>
+  <Quality>3</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Troglodytidae</Family>
+  <Genus>Troglodytes</Genus>
+  <Species>aedon</Species>
+  <Sub-species />
+  <VernacularNames>House Wren</VernacularNames>
+</Audio>

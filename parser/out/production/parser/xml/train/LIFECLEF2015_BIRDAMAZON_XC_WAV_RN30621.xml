@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>30621</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN30621.wav</FileName>
+  <ClassId>budxsv</ClassId>
+  <Date>2010-01-05</Date>
+  <Time>07:10</Time>
+  <Locality>Sonsón, Antioquia, Vereda San Francisco, Cerro de las Palomas, Páramo de Sonsón</Locality>
+  <Latitude>5.716</Latitude>
+  <Longitude>-75.2583</Longitude>
+  <Elevation>3000</Elevation>
+  <Author>Oscar H. Marín-Gómez</Author>
+  <AuthorID>CSUHASNRSU</AuthorID>
+  <Content>song</Content>
+  <Comments>Ref Tape OHM66A 16:10. Un individuo escuchado en interior de bosque. No observado. A 20 m del micrófono. Vocalización natural.bird-seen:noplayback-used:no</Comments>
+  <Quality>3</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies>Myiothlypis coronata,Pipreola riefferii,Diglossa cyanea,Myioborus ornatus</BackgroundSpecies>
+  <Order>Passeriformes</Order>
+  <Family>Parulidae</Family>
+  <Genus>Myiothlypis</Genus>
+  <Species>nigrocristata</Species>
+  <Sub-species />
+  <VernacularNames>Black-crested Warbler</VernacularNames>
+</Audio>

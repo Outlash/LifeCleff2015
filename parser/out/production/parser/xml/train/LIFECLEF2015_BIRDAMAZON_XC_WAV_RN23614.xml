@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>23614</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN23614.wav</FileName>
+  <ClassId>bskejq</ClassId>
+  <Date>2010-08-30</Date>
+  <Time>?</Time>
+  <Locality>Mana, piste ONF Dégrad Florian</Locality>
+  <Latitude>NULL</Latitude>
+  <Longitude>NULL</Longitude>
+  <Elevation>20</Elevation>
+  <Author>Alexandre Renaudier</Author>
+  <AuthorID>GKADEITXTH</AuthorID>
+  <Content>Song</Content>
+  <Comments />
+  <Quality>3</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Strigiformes</Order>
+  <Family>Strigidae</Family>
+  <Genus>Megascops</Genus>
+  <Species>watsonii</Species>
+  <Sub-species />
+  <VernacularNames>Tawny-bellied Screech Owl</VernacularNames>
+</Audio>

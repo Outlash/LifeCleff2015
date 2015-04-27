@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>17869</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN17869.wav</FileName>
+  <ClassId>ilxrbn</ClassId>
+  <Date>2008-02-28</Date>
+  <Time>7:40</Time>
+  <Locality>Perd, Marliéria, MG</Locality>
+  <Latitude>NULL</Latitude>
+  <Longitude>NULL</Longitude>
+  <Elevation>250</Elevation>
+  <Author>Augusto Alves</Author>
+  <AuthorID>SFAWGULFER</AuthorID>
+  <Content>flight call</Content>
+  <Comments />
+  <Quality>2</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Accipitriformes</Order>
+  <Family>Accipitridae</Family>
+  <Genus>Spizaetus</Genus>
+  <Species>ornatus</Species>
+  <Sub-species />
+  <VernacularNames>Ornate Hawk-Eagle</VernacularNames>
+</Audio>

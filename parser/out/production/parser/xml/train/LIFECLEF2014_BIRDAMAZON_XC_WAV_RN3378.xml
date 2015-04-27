@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>3378</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN3378.wav</FileName>
+  <ClassId>hijhrx</ClassId>
+  <Date>2008-11-09</Date>
+  <Time>18:20</Time>
+  <Locality>Inhotim, Brumadinho, Minas Gerais State</Locality>
+  <Latitude>-20.123894</Latitude>
+  <Longitude>-44.219091</Longitude>
+  <Elevation>900</Elevation>
+  <Author>Wagner Nogueira Alves</Author>
+  <AuthorID>MFERBHYYSW</AuthorID>
+  <Content>song</Content>
+  <Comments />
+  <Quality>2</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies />
+  <Order>Strigiformes</Order>
+  <Family>Strigidae</Family>
+  <Genus>Megascops</Genus>
+  <Species>choliba</Species>
+  <Sub-species />
+  <VernacularNames>Tropical Screech Owl</VernacularNames>
+</Audio>

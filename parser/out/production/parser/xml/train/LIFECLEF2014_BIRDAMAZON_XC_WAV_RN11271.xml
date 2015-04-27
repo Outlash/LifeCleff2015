@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>11271</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN11271.wav</FileName>
+  <ClassId>fotnep</ClassId>
+  <Date>2011-01-26</Date>
+  <Time>07:00</Time>
+  <Locality>Estrada do Neri, Parque Nacional do Viruá, Caracaraí, Roraima</Locality>
+  <Latitude>1.4546</Latitude>
+  <Longitude>-60.9823</Longitude>
+  <Elevation>70</Elevation>
+  <Author>Thiago Orsi Laranjeiras</Author>
+  <AuthorID>PMYLTPLTLT</AuthorID>
+  <Content>call</Content>
+  <Comments>bird-seen:yesplayback-used:no</Comments>
+  <Quality>3</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Thraupidae</Family>
+  <Genus>Dacnis</Genus>
+  <Species>cayana</Species>
+  <Sub-species />
+  <VernacularNames>Blue Dacnis</VernacularNames>
+</Audio>

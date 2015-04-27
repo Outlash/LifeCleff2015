@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>23183</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN23183.wav</FileName>
+  <ClassId>ukfemk</ClassId>
+  <Date>2008-07-06</Date>
+  <Time>07:50</Time>
+  <Locality>Rio Kukenan camp on the way to Cerro Roraima, Bolivar</Locality>
+  <Latitude>5.1323</Latitude>
+  <Longitude>-60.8001</Longitude>
+  <Elevation>1600</Elevation>
+  <Author>Andrew Spencer</Author>
+  <AuthorID>CDTGHVBGZP</AuthorID>
+  <Content>song</Content>
+  <Comments />
+  <Quality>1</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Tyrannidae</Family>
+  <Genus>Tyrannus</Genus>
+  <Species>melancholicus</Species>
+  <Sub-species />
+  <VernacularNames>Tropical Kingbird</VernacularNames>
+</Audio>

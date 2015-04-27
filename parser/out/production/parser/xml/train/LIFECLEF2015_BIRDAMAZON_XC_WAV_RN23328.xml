@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>23328</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN23328.wav</FileName>
+  <ClassId>bxuwzu</ClassId>
+  <Date>2010-11-02</Date>
+  <Time>6:40</Time>
+  <Locality>Belterra, PA - Bacia 399</Locality>
+  <Latitude>-2.844</Latitude>
+  <Longitude>-54.833</Longitude>
+  <Elevation>?</Elevation>
+  <Author>Christian Borges Andretti</Author>
+  <AuthorID>EZSMXGTXKS</AuthorID>
+  <Content>song</Content>
+  <Comments />
+  <Quality>3</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies>Odontorchilus cinereus,Vireolanius leucotis</BackgroundSpecies>
+  <Order>Passeriformes</Order>
+  <Family>Thamnophilidae</Family>
+  <Genus>Myrmotherula</Genus>
+  <Species>sclateri</Species>
+  <Sub-species />
+  <VernacularNames>Sclater's Antwren</VernacularNames>
+</Audio>

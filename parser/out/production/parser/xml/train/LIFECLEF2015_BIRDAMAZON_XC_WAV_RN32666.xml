@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>32666</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN32666.wav</FileName>
+  <ClassId>waknsi</ClassId>
+  <Date>2011-07-30</Date>
+  <Time>19.10</Time>
+  <Locality>Caura - Las Trincheras</Locality>
+  <Latitude>6.9628</Latitude>
+  <Longitude>-64.8989</Longitude>
+  <Elevation>100</Elevation>
+  <Author>Thore Noernberg</Author>
+  <AuthorID>TTSQGWDDGW</AuthorID>
+  <Content>Call</Content>
+  <Comments>electric power plant disturbes recording</Comments>
+  <Quality>3</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Caprimulgiformes</Order>
+  <Family>Caprimulgidae</Family>
+  <Genus>Nyctidromus</Genus>
+  <Species>albicollis</Species>
+  <Sub-species />
+  <VernacularNames>Pauraque</VernacularNames>
+</Audio>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>4919</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN4919.wav</FileName>
+  <ClassId>ibvnlg</ClassId>
+  <Date>2010-08-13</Date>
+  <Time>08:00</Time>
+  <Locality>Fazenda Santa Maria, Sao Paulo</Locality>
+  <Latitude>-23.434</Latitude>
+  <Longitude>-46.609</Longitude>
+  <Elevation>740</Elevation>
+  <Author>Marcos Melo</Author>
+  <AuthorID>MRGDYNJGUJ</AuthorID>
+  <Content>call</Content>
+  <Comments>like a frog</Comments>
+  <Quality>3</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Tyrannidae</Family>
+  <Genus>Myiornis</Genus>
+  <Species>auricularis</Species>
+  <Sub-species />
+  <VernacularNames>Eared Pygmy Tyrant</VernacularNames>
+</Audio>

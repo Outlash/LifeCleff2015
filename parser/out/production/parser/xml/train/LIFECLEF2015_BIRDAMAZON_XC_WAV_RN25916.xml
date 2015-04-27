@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>25916</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN25916.wav</FileName>
+  <ClassId>vqsusq</ClassId>
+  <Date>2012-10-31</Date>
+  <Time>07:30</Time>
+  <Locality>São Mateus do Sul, Parana</Locality>
+  <Latitude>-25.8681</Latitude>
+  <Longitude>-50.3845</Longitude>
+  <Elevation>800</Elevation>
+  <Author>João Antônio de B. Vitto</Author>
+  <AuthorID>RIVNLYTULO</AuthorID>
+  <Content>song</Content>
+  <Comments>bird-seen:noplayback-used:no</Comments>
+  <Quality>2</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Furnariidae</Family>
+  <Genus>Campylorhamphus</Genus>
+  <Species>falcularius</Species>
+  <Sub-species />
+  <VernacularNames>Black-billed Scythebill</VernacularNames>
+</Audio>

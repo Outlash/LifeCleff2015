@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>27090</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN27090.wav</FileName>
+  <ClassId>jeidcr</ClassId>
+  <Date>2014-03-15</Date>
+  <Time>10:00</Time>
+  <Locality>Belo Oriente, Minas Gerais</Locality>
+  <Latitude>-19.2204</Latitude>
+  <Longitude>-42.4832</Longitude>
+  <Elevation>260</Elevation>
+  <Author>Roney Assis Souza</Author>
+  <AuthorID>AJYSYOLBOF</AuthorID>
+  <Content>song</Content>
+  <Comments>In the canopy of a Atlantic forest's fragment. I did not see the birds. In this fragment I heard Myiopagis caniceps, Tolmomyias flaviventris and I saw Tolmomyias sulphurescens, Myiornis auricularis and Tangara palmarum. It was near a lake.bird-seen:noplayback-used:no</Comments>
+  <Quality>0</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Thraupidae</Family>
+  <Genus>Thraupis</Genus>
+  <Species>palmarum</Species>
+  <Sub-species />
+  <VernacularNames>Palm Tanager</VernacularNames>
+</Audio>

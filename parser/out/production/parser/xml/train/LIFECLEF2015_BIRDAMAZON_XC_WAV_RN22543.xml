@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>22543</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN22543.wav</FileName>
+  <ClassId>sxpisu</ClassId>
+  <Date>2010-10-31</Date>
+  <Time>10:00</Time>
+  <Locality>Garça, São Paulo</Locality>
+  <Latitude>-22.1978</Latitude>
+  <Longitude>-49.6457</Longitude>
+  <Elevation>650</Elevation>
+  <Author>Fernando Igor de Godoy</Author>
+  <AuthorID>CHDHFSVVIN</AuthorID>
+  <Content>song</Content>
+  <Comments>FNJV 30166bird-seen:yes</Comments>
+  <Quality>0</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Psittaciformes</Order>
+  <Family>Psittacidae</Family>
+  <Genus>Brotogeris</Genus>
+  <Species>chiriri</Species>
+  <Sub-species />
+  <VernacularNames>Yellow-chevroned Parakeet</VernacularNames>
+</Audio>

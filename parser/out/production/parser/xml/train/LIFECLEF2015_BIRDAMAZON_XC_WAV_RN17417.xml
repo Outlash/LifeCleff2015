@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>17417</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN17417.wav</FileName>
+  <ClassId>ezprzx</ClassId>
+  <Date>2007-06-12</Date>
+  <Time>08:16</Time>
+  <Locality>RNA El Paujil, Serrania de las Quinchas,Santander, Colombia</Locality>
+  <Latitude>5.9334</Latitude>
+  <Longitude>-74.1834</Longitude>
+  <Elevation>300</Elevation>
+  <Author>Bradley Davis</Author>
+  <AuthorID>YNXJLOESBB</AuthorID>
+  <Content>song</Content>
+  <Comments />
+  <Quality>2</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Tinamiformes</Order>
+  <Family>Tinamidae</Family>
+  <Genus>Crypturellus</Genus>
+  <Species>soui</Species>
+  <Sub-species />
+  <VernacularNames>Little Tinamou</VernacularNames>
+</Audio>

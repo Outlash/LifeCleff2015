@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>13286</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN13286.wav</FileName>
+  <ClassId>yyjrms</ClassId>
+  <Date>2006-01-15</Date>
+  <Time>8:05</Time>
+  <Locality>Parque Municipal de Mucugê, Mucugê, Bahia.</Locality>
+  <Latitude>-12.993</Latitude>
+  <Longitude>-41.343</Longitude>
+  <Elevation>?</Elevation>
+  <Author>Sidnei S. dos Santos</Author>
+  <AuthorID>BHODJXTHGQ</AuthorID>
+  <Content>Song</Content>
+  <Comments />
+  <Quality>2</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Emberizidae</Family>
+  <Genus>Zonotrichia</Genus>
+  <Species>capensis</Species>
+  <Sub-species />
+  <VernacularNames>Rufous-collared Sparrow</VernacularNames>
+</Audio>

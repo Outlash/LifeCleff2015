@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>7014</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN7014.wav</FileName>
+  <ClassId>enwiay</ClassId>
+  <Date>2007-06-04</Date>
+  <Time>13:20</Time>
+  <Locality>Reserva Ecológica de Guapiaçu, RJ</Locality>
+  <Latitude>-22.5001</Latitude>
+  <Longitude>-42.7167</Longitude>
+  <Elevation>?</Elevation>
+  <Author>Leonardo Pimentel</Author>
+  <AuthorID>JHBOHGJALL</AuthorID>
+  <Content>Song</Content>
+  <Comments />
+  <Quality>1</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies>Cacicus haemorrhous,Glaucidium brasilianum</BackgroundSpecies>
+  <Order>Tinamiformes</Order>
+  <Family>Tinamidae</Family>
+  <Genus>Crypturellus</Genus>
+  <Species>tataupa</Species>
+  <Sub-species />
+  <VernacularNames>Tataupa Tinamou</VernacularNames>
+</Audio>

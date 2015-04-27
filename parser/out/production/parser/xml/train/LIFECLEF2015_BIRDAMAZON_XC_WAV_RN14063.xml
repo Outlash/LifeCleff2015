@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>14063</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN14063.wav</FileName>
+  <ClassId>nasscm</ClassId>
+  <Date>2013-01-27</Date>
+  <Time>15:00</Time>
+  <Locality>Boa Nova, Wet Forest, state of Bahia</Locality>
+  <Latitude>-14.3834</Latitude>
+  <Longitude>-40.1001</Longitude>
+  <Elevation>800</Elevation>
+  <Author>Dan Lane</Author>
+  <AuthorID>WOEAFQRMUD</AuthorID>
+  <Content>song</Content>
+  <Comments>Response to playback from a pair in vine tangles and bamboo inside humid mata atlantica forest. On-mic bird about 5m up in vines in tree crotch. I should note that the bird's namesake was standing nearby. img:http://www.flickr.com/photos/8013969@N03/8454050202/bird-seen:yesplayback-used:yes</Comments>
+  <Quality>2</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies>Chiroxiphia caudata,Drymophila ferruginea,Tiaris fuliginosus,Basileuterus culicivorus</BackgroundSpecies>
+  <Order>Passeriformes</Order>
+  <Family>Furnariidae</Family>
+  <Genus>Synallaxis</Genus>
+  <Species>whitneyi</Species>
+  <Sub-species />
+  <VernacularNames>Bahia Spinetail</VernacularNames>
+</Audio>

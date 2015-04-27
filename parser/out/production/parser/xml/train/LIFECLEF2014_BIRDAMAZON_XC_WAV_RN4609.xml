@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>4609</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN4609.wav</FileName>
+  <ClassId>pbswuq</ClassId>
+  <Date>2010-05-30</Date>
+  <Time>08:55</Time>
+  <Locality>Pq. Nat. Mun. Açude da Concórdia, Valença, RJ</Locality>
+  <Latitude>-22.331</Latitude>
+  <Longitude>-43.738</Longitude>
+  <Elevation>700</Elevation>
+  <Author>Ricardo Gagliardi</Author>
+  <AuthorID>YRDADNREOP</AuthorID>
+  <Content>song</Content>
+  <Comments />
+  <Quality>2</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Thraupidae</Family>
+  <Genus>Embernagra</Genus>
+  <Species>platensis</Species>
+  <Sub-species />
+  <VernacularNames>Pampa Finch</VernacularNames>
+</Audio>

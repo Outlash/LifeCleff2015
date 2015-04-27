@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>11585</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN11585.wav</FileName>
+  <ClassId>maqvgn</ClassId>
+  <Date>2011-05-29</Date>
+  <Time>08:50</Time>
+  <Locality>Paragominas, PA, Brazil, Bacia 274</Locality>
+  <Latitude>-3.239</Latitude>
+  <Longitude>-47.372</Longitude>
+  <Elevation>?</Elevation>
+  <Author>Alexander Lees</Author>
+  <AuthorID>INDDBZAFJL</AuthorID>
+  <Content>call</Content>
+  <Comments>secondary forest</Comments>
+  <Quality>3</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies>Tolmomyias poliocephalus,Rhytipterna simplex</BackgroundSpecies>
+  <Order>Passeriformes</Order>
+  <Family>Cardinalidae</Family>
+  <Genus>Caryothraustes</Genus>
+  <Species>canadensis</Species>
+  <Sub-species />
+  <VernacularNames>Yellow-green Grosbeak</VernacularNames>
+</Audio>

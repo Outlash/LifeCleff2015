@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>18981</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN18981.wav</FileName>
+  <ClassId>smnliu</ClassId>
+  <Date>2010-07-25</Date>
+  <Time>08:30</Time>
+  <Locality>Presidente Figueiredo, Amazonas</Locality>
+  <Latitude>-2.028</Latitude>
+  <Longitude>-59.997</Longitude>
+  <Elevation>50</Elevation>
+  <Author>Marcos Melo</Author>
+  <AuthorID>MRGDYNJGUJ</AuthorID>
+  <Content>song</Content>
+  <Comments>a couple, in breeding area - cavity up 25m</Comments>
+  <Quality>3</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies>Ramphocelus carbo,Ara ararauna,Myiozetetes cayanensis</BackgroundSpecies>
+  <Order>Passeriformes</Order>
+  <Family>Tityridae</Family>
+  <Genus>Tityra</Genus>
+  <Species>cayana</Species>
+  <Sub-species />
+  <VernacularNames>Black-tailed Tityra</VernacularNames>
+</Audio>

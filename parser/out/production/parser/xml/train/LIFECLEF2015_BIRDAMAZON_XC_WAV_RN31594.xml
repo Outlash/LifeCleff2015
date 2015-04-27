@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>31594</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN31594.wav</FileName>
+  <ClassId>wgchmm</ClassId>
+  <Date>2003-05-17</Date>
+  <Time>?</Time>
+  <Locality>PNN Sierra Nevada de Santa Marta, Santa Marta, Magdalena</Locality>
+  <Latitude>11.16667</Latitude>
+  <Longitude>-74.11667</Longitude>
+  <Elevation>2600</Elevation>
+  <Author>Mauricio Álvarez Rebolledo (Colección de Sonidos Ambientales - Instituto Humboldt)</Author>
+  <AuthorID>XMFDPACYJN</AuthorID>
+  <Content>song</Content>
+  <Comments>BSA 12748To obtain a wav file of the original recording, please contact csa@humboldt.org.coplayback-used:no</Comments>
+  <Quality>2</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Galliformes</Order>
+  <Family>Cracidae</Family>
+  <Genus>Penelope</Genus>
+  <Species>argyrotis</Species>
+  <Sub-species />
+  <VernacularNames>Band-tailed Guan</VernacularNames>
+</Audio>

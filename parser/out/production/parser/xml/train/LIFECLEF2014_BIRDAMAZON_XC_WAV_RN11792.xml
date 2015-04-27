@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>11792</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN11792.wav</FileName>
+  <ClassId>cvnsao</ClassId>
+  <Date>2006-07-26</Date>
+  <Time>10:00</Time>
+  <Locality>Itatiaia NP, Tres Picos trail, RJ</Locality>
+  <Latitude>-22.4167</Latitude>
+  <Longitude>-44.6001</Longitude>
+  <Elevation>1200</Elevation>
+  <Author>Gustavo S Cabanne &amp; Frank Rheindt</Author>
+  <AuthorID>XXVEEPYYBD</AuthorID>
+  <Content>song</Content>
+  <Comments />
+  <Quality>2</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Thamnophilidae</Family>
+  <Genus>Drymophila</Genus>
+  <Species>rubricollis</Species>
+  <Sub-species />
+  <VernacularNames>Bertoni's Antbird</VernacularNames>
+</Audio>

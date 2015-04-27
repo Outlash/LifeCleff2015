@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>4894</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN4894.wav</FileName>
+  <ClassId>esguzq</ClassId>
+  <Date>1999-05-12</Date>
+  <Time>07:59</Time>
+  <Locality>Boa Nova, Wet Forest, state of Bahia</Locality>
+  <Latitude>-14.3834</Latitude>
+  <Longitude>-40.1001</Longitude>
+  <Elevation>825</Elevation>
+  <Author>Jeremy Minns</Author>
+  <AuthorID>DGVLLRYDXS</AuthorID>
+  <Content>Song</Content>
+  <Comments>Humid forest.</Comments>
+  <Quality>1</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies>Drymophila ferruginea,Pyriglena leucoptera,Chamaeza meruloides,Pachyramphus polychopterus</BackgroundSpecies>
+  <Order>Passeriformes</Order>
+  <Family>Formicariidae</Family>
+  <Genus>Chamaeza</Genus>
+  <Species>campanisona</Species>
+  <Sub-species>campanisona</Sub-species>
+  <VernacularNames>Short-tailed Antthrush</VernacularNames>
+</Audio>

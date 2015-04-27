@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>21361</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN21361.wav</FileName>
+  <ClassId>xlxoay</ClassId>
+  <Date>2011-05-05</Date>
+  <Time>08:00</Time>
+  <Locality>desierto de la Tatacoa (Huila)</Locality>
+  <Latitude>3.053</Latitude>
+  <Longitude>-75.237</Longitude>
+  <Elevation>700</Elevation>
+  <Author>Oswaldo Cortes</Author>
+  <AuthorID>VVDRVZCVWW</AuthorID>
+  <Content>song</Content>
+  <Comments />
+  <Quality>3</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Thamnophilidae</Family>
+  <Genus>Formicivora</Genus>
+  <Species>intermedia</Species>
+  <Sub-species />
+  <VernacularNames>Northern White-fringed Antwren</VernacularNames>
+</Audio>

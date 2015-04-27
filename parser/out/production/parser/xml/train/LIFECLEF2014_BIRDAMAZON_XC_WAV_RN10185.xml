@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>10185</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN10185.wav</FileName>
+  <ClassId>fcojdk</ClassId>
+  <Date>2012-09-27</Date>
+  <Time>08:00</Time>
+  <Locality>Urussanga, Santa Catarina</Locality>
+  <Latitude>-28.524</Latitude>
+  <Longitude>-49.3418</Longitude>
+  <Elevation>160</Elevation>
+  <Author>Alexandre Bianco</Author>
+  <AuthorID>ODNEDFESFY</AuthorID>
+  <Content>song</Content>
+  <Comments>bird-seen:yesplayback-used:no</Comments>
+  <Quality>2</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Cotingidae</Family>
+  <Genus>Procnias</Genus>
+  <Species>nudicollis</Species>
+  <Sub-species />
+  <VernacularNames>Bare-throated Bellbird</VernacularNames>
+</Audio>

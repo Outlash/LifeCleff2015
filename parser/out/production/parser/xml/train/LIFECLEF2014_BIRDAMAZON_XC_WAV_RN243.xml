@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>243</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN243.wav</FileName>
+  <ClassId>sgfjyn</ClassId>
+  <Date>2006-02-12</Date>
+  <Time>10:25</Time>
+  <Locality>Chapada dos Guimarães, north of Cuiabá, MT</Locality>
+  <Latitude>-15.4239</Latitude>
+  <Longitude>-55.7778</Longitude>
+  <Elevation>700</Elevation>
+  <Author>Nick Athanas</Author>
+  <AuthorID>XRABICUARW</AuthorID>
+  <Content>song</Content>
+  <Comments>In gallery forest.</Comments>
+  <Quality>3</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies>Cyclarhis gujanensis</BackgroundSpecies>
+  <Order>Passeriformes</Order>
+  <Family>Thamnophilidae</Family>
+  <Genus>Herpsilochmus</Genus>
+  <Species>longirostris</Species>
+  <Sub-species />
+  <VernacularNames>Large-billed Antwren</VernacularNames>
+</Audio>

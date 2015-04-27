@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>17801</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN17801.wav</FileName>
+  <ClassId>nipfbr</ClassId>
+  <Date>2014-07-10</Date>
+  <Time>12:00</Time>
+  <Locality>Belo Oriente, Minas Gerais</Locality>
+  <Latitude>-19.2204</Latitude>
+  <Longitude>-42.4832</Longitude>
+  <Elevation>260</Elevation>
+  <Author>Roney Assis Souza</Author>
+  <AuthorID>AJYSYOLBOF</AuthorID>
+  <Content>song</Content>
+  <Comments>bird-seen:yesplayback-used:no</Comments>
+  <Quality>0</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Furnariidae</Family>
+  <Genus>Synallaxis</Genus>
+  <Species>frontalis</Species>
+  <Sub-species />
+  <VernacularNames>Sooty-fronted Spinetail</VernacularNames>
+</Audio>

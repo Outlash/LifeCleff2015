@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>17302</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN17302.wav</FileName>
+  <ClassId>lpnbmp</ClassId>
+  <Date>2013-04-25</Date>
+  <Time>16:00</Time>
+  <Locality>Itabirito, Minas Gerais</Locality>
+  <Latitude>-20.2506</Latitude>
+  <Longitude>-43.8043</Longitude>
+  <Elevation>850</Elevation>
+  <Author>João Antônio de B. Vitto</Author>
+  <AuthorID>RIVNLYTULO</AuthorID>
+  <Content>call, song</Content>
+  <Comments>bird-seen:yesplayback-used:yes</Comments>
+  <Quality>0</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Tyrannidae</Family>
+  <Genus>Gubernetes</Genus>
+  <Species>yetapa</Species>
+  <Sub-species />
+  <VernacularNames>Streamer-tailed Tyrant</VernacularNames>
+</Audio>

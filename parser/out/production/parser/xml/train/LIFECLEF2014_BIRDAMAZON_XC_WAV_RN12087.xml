@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>12087</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN12087.wav</FileName>
+  <ClassId>xzyogt</ClassId>
+  <Date>2011-07-08</Date>
+  <Time>11:30</Time>
+  <Locality>Alto Alegre do Pindaré, Maranhao</Locality>
+  <Latitude>-3.6668</Latitude>
+  <Longitude>-45.8465</Longitude>
+  <Elevation>20</Elevation>
+  <Author>GABRIEL LEITE</Author>
+  <AuthorID>TGBFXDVERJ</AuthorID>
+  <Content>call, song</Content>
+  <Comments>bird-seen:yesplayback-used:yes</Comments>
+  <Quality>2</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Furnariidae</Family>
+  <Genus>Furnarius</Genus>
+  <Species>figulus</Species>
+  <Sub-species />
+  <VernacularNames>Band-tailed Hornero</VernacularNames>
+</Audio>

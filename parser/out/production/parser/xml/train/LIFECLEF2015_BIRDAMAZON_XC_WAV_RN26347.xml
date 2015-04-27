@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>26347</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN26347.wav</FileName>
+  <ClassId>rjtaom</ClassId>
+  <Date>2013-04-13</Date>
+  <Time>06:30</Time>
+  <Locality>Santa Rita, Santa Rita, Paraiba</Locality>
+  <Latitude>-7.0183</Latitude>
+  <Longitude>-34.9563</Longitude>
+  <Elevation>70</Elevation>
+  <Author>Caio Brito</Author>
+  <AuthorID>YWWWUBVAJF</AuthorID>
+  <Content>song</Content>
+  <Comments>bird-seen:yesplayback-used:yes</Comments>
+  <Quality>2</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Thamnophilidae</Family>
+  <Genus>Cercomacra</Genus>
+  <Species>laeta</Species>
+  <Sub-species>sabinoi</Sub-species>
+  <VernacularNames>Willis's Antbird</VernacularNames>
+</Audio>

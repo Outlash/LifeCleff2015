@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>6355</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN6355.wav</FileName>
+  <ClassId>ktgebu</ClassId>
+  <Date>2007-03-08</Date>
+  <Time>08:30</Time>
+  <Locality>Itatiaia National Park - highlands</Locality>
+  <Latitude>-22.3112</Latitude>
+  <Longitude>-44.6634</Longitude>
+  <Elevation>2000</Elevation>
+  <Author>Ricardo Gagliardi</Author>
+  <AuthorID>YRDADNREOP</AuthorID>
+  <Content>song</Content>
+  <Comments />
+  <Quality>1</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Formicariidae</Family>
+  <Genus>Chamaeza</Genus>
+  <Species>ruficauda</Species>
+  <Sub-species />
+  <VernacularNames>Rufous-tailed Antthrush</VernacularNames>
+</Audio>

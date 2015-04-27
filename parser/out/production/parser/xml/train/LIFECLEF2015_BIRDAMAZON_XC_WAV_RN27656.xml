@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>27656</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN27656.wav</FileName>
+  <ClassId>glepph</ClassId>
+  <Date>2014-05-11</Date>
+  <Time>08:00</Time>
+  <Locality>Travesseiro, Rio Grande do Sul</Locality>
+  <Latitude>-29.2891</Latitude>
+  <Longitude>-52.0775</Longitude>
+  <Elevation>380</Elevation>
+  <Author>Cleberton D. Bianchini</Author>
+  <AuthorID>FYHMASBKBC</AuthorID>
+  <Content>song</Content>
+  <Comments>bird-seen:yesplayback-used:no</Comments>
+  <Quality>2</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Psittaciformes</Order>
+  <Family>Psittacidae</Family>
+  <Genus>Pionopsitta</Genus>
+  <Species>pileata</Species>
+  <Sub-species />
+  <VernacularNames>Pileated Parrot</VernacularNames>
+</Audio>

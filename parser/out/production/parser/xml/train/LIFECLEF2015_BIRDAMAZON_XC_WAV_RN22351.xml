@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>22351</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN22351.wav</FileName>
+  <ClassId>vnkcgy</ClassId>
+  <Date>2005-07-05</Date>
+  <Time>8:39</Time>
+  <Locality>PNN Chingaza, sector Palacio</Locality>
+  <Latitude>4.5167</Latitude>
+  <Longitude>-73.7501</Longitude>
+  <Elevation>?</Elevation>
+  <Author>Oscar Laverde</Author>
+  <AuthorID>WKVKSVMNDZ</AuthorID>
+  <Content>call</Content>
+  <Comments>un grupo de al menos 6 a 7, cantando todos desde el mismo arbol, cuando realizaban el silbido fuerte movian la cabeza de arriba hacia abajo, como desafiando o calculando la distancia??</Comments>
+  <Quality>4</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Corvidae</Family>
+  <Genus>Cyanolyca</Genus>
+  <Species>armillata</Species>
+  <Sub-species />
+  <VernacularNames>Black-collared Jay</VernacularNames>
+</Audio>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>24072</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN24072.wav</FileName>
+  <ClassId>vrciyl</ClassId>
+  <Date>2013-05-09</Date>
+  <Time>10:30</Time>
+  <Locality>Rio Cubatão, Cubatão, São Paulo</Locality>
+  <Latitude>-23.8833</Latitude>
+  <Longitude>-46.4009</Longitude>
+  <Elevation>10</Elevation>
+  <Author>Robson Silva e Silva</Author>
+  <AuthorID>WZSVLIHYQF</AuthorID>
+  <Content>alarm call</Content>
+  <Comments>bird-seen:yesplayback-used:yes</Comments>
+  <Quality>1</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Donacobiidae</Family>
+  <Genus>Donacobius</Genus>
+  <Species>atricapilla</Species>
+  <Sub-species />
+  <VernacularNames>Black-capped Donacobius</VernacularNames>
+</Audio>

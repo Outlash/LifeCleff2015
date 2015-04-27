@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>30424</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN30424.wav</FileName>
+  <ClassId>cqbxux</ClassId>
+  <Date>2013-10-23</Date>
+  <Time>06:00</Time>
+  <Locality>Manaus. INPA tower on ZF-2</Locality>
+  <Latitude>-2.5834</Latitude>
+  <Longitude>-60.1167</Longitude>
+  <Elevation>110</Elevation>
+  <Author>GABRIEL LEITE</Author>
+  <AuthorID>TGBFXDVERJ</AuthorID>
+  <Content>female, male, song</Content>
+  <Comments>bird-seen:yesplayback-used:yes</Comments>
+  <Quality>1</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Thamnophilidae</Family>
+  <Genus>Frederickena</Genus>
+  <Species>viridis</Species>
+  <Sub-species />
+  <VernacularNames>Black-throated Antshrike</VernacularNames>
+</Audio>

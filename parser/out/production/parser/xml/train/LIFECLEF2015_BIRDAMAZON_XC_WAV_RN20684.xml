@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>20684</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN20684.wav</FileName>
+  <ClassId>llahcy</ClassId>
+  <Date>2011-02-14</Date>
+  <Time>05:30</Time>
+  <Locality>Porto Velho, Rondônia</Locality>
+  <Latitude>-9.2295</Latitude>
+  <Longitude>-64.7095</Longitude>
+  <Elevation>120</Elevation>
+  <Author>GABRIEL LEITE</Author>
+  <AuthorID>TGBFXDVERJ</AuthorID>
+  <Content>call, song</Content>
+  <Comments>bird-seen:yesplayback-used:no</Comments>
+  <Quality>3</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Falconiformes</Order>
+  <Family>Falconidae</Family>
+  <Genus>Micrastur</Genus>
+  <Species>mirandollei</Species>
+  <Sub-species />
+  <VernacularNames>Slaty-backed Forest Falcon</VernacularNames>
+</Audio>

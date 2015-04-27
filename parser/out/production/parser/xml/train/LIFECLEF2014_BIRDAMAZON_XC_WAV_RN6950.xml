@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>6950</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN6950.wav</FileName>
+  <ClassId>boyvjk</ClassId>
+  <Date>2001-01-05</Date>
+  <Time>06:28</Time>
+  <Locality>Ubatuba, SP. Folha Seca.</Locality>
+  <Latitude>-23.5001</Latitude>
+  <Longitude>-45.2167</Longitude>
+  <Elevation>30</Elevation>
+  <Author>Jeremy Minns</Author>
+  <AuthorID>DGVLLRYDXS</AuthorID>
+  <Content>Song</Content>
+  <Comments>Humid forest on the foothills of the coastal escarpment. The bird was perched 1.5 m above ground in thick undergrowth.</Comments>
+  <Quality>2</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies>Cantorchilus longirostris,Habia rubica</BackgroundSpecies>
+  <Order>Apodiformes</Order>
+  <Family>Trochilidae</Family>
+  <Genus>Ramphodon</Genus>
+  <Species>naevius</Species>
+  <Sub-species />
+  <VernacularNames>Saw-billed Hermit</VernacularNames>
+</Audio>

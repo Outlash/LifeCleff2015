@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>26671</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN26671.wav</FileName>
+  <ClassId>fswlca</ClassId>
+  <Date>2002-07-24</Date>
+  <Time>11:38</Time>
+  <Locality>Finca Rogitama, Vereda Penas Blancas, Arcabuco, Boyaca</Locality>
+  <Latitude>NULL</Latitude>
+  <Longitude>NULL</Longitude>
+  <Elevation>2540</Elevation>
+  <Author>Bernabe Lopez-Lanus</Author>
+  <AuthorID>BYLLSJRVDZ</AuthorID>
+  <Content>Call</Content>
+  <Comments>Female</Comments>
+  <Quality>2</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Thamnophilidae</Family>
+  <Genus>Thamnophilus</Genus>
+  <Species>unicolor</Species>
+  <Sub-species>grandior</Sub-species>
+  <VernacularNames>Uniform Antshrike</VernacularNames>
+</Audio>

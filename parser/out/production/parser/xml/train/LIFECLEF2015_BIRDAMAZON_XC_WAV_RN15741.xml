@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>15741</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN15741.wav</FileName>
+  <ClassId>budxsv</ClassId>
+  <Date>2012-04-13</Date>
+  <Time>07:27</Time>
+  <Locality>Bogotá. Cerro Guadalupe</Locality>
+  <Latitude>4.5867</Latitude>
+  <Longitude>-74.0484</Longitude>
+  <Elevation>3040</Elevation>
+  <Author>Jeremy Minns</Author>
+  <AuthorID>DGVLLRYDXS</AuthorID>
+  <Content>Song</Content>
+  <Comments>Montane forest. Pair. Natural.</Comments>
+  <Quality>0</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Parulidae</Family>
+  <Genus>Myiothlypis</Genus>
+  <Species>nigrocristata</Species>
+  <Sub-species />
+  <VernacularNames>Black-crested Warbler</VernacularNames>
+</Audio>

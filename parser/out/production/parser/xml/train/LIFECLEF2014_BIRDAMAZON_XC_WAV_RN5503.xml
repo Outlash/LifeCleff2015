@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>5503</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN5503.wav</FileName>
+  <ClassId>ngukgn</ClassId>
+  <Date>2011-01-18</Date>
+  <Time>?</Time>
+  <Locality>Bacia 112, Santarem</Locality>
+  <Latitude>-2.6759</Latitude>
+  <Longitude>-54.5028</Longitude>
+  <Elevation>?</Elevation>
+  <Author>Nargila Moura</Author>
+  <AuthorID>CWEIBYBYYD</AuthorID>
+  <Content>song</Content>
+  <Comments>primary forest</Comments>
+  <Quality>2</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies>Tyranneutes stolzmanni</BackgroundSpecies>
+  <Order>Passeriformes</Order>
+  <Family>Troglodytidae</Family>
+  <Genus>Microcerculus</Genus>
+  <Species>marginatus</Species>
+  <Sub-species>marginatus</Sub-species>
+  <VernacularNames>Southern Nightingale-Wren</VernacularNames>
+</Audio>

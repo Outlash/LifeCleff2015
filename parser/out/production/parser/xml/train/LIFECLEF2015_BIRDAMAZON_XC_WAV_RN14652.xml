@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>14652</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN14652.wav</FileName>
+  <ClassId>ohblxz</ClassId>
+  <Date>2005-01-00</Date>
+  <Time>xx:xx</Time>
+  <Locality>Lepipuerto, Serrania de los Yariguies</Locality>
+  <Latitude>6.4581</Latitude>
+  <Longitude>-73.4576</Longitude>
+  <Elevation>2900</Elevation>
+  <Author>Thomas Donegan</Author>
+  <AuthorID>OXSIOLJJUP</AuthorID>
+  <Content>Contact call</Content>
+  <Comments />
+  <Quality>4</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Thraupidae</Family>
+  <Genus>Anisognathus</Genus>
+  <Species>lacrymosus</Species>
+  <Sub-species>yariguierum</Sub-species>
+  <VernacularNames>Lacrimose Mountain Tanager</VernacularNames>
+</Audio>

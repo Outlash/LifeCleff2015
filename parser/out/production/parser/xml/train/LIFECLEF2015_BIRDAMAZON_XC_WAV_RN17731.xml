@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>17731</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN17731.wav</FileName>
+  <ClassId>qflnvv</ClassId>
+  <Date>2004-11-02</Date>
+  <Time>08:45</Time>
+  <Locality>Saint-Eugène, Petit Saut lake</Locality>
+  <Latitude>4.8503</Latitude>
+  <Longitude>-53.0609</Longitude>
+  <Elevation>50</Elevation>
+  <Author>Olivier Claessens</Author>
+  <AuthorID>KRQYNRSSDF</AuthorID>
+  <Content>call</Content>
+  <Comments>two birds taking flight</Comments>
+  <Quality>4</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies>Pionus fuscus</BackgroundSpecies>
+  <Order>Psittaciformes</Order>
+  <Family>Psittacidae</Family>
+  <Genus>Ara</Genus>
+  <Species>chloropterus</Species>
+  <Sub-species />
+  <VernacularNames>Red-and-green Macaw</VernacularNames>
+</Audio>

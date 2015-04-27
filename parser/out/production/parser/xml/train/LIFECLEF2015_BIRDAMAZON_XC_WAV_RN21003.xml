@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>21003</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN21003.wav</FileName>
+  <ClassId>tnidef</ClassId>
+  <Date>2008-08-06</Date>
+  <Time>?</Time>
+  <Locality>Braço Paula Ramos, between Luiz Alves and Massaranduba, Santa Catarina</Locality>
+  <Latitude>-26.7556</Latitude>
+  <Longitude>-49.0237</Longitude>
+  <Elevation>330</Elevation>
+  <Author>Adrian Eisen Rupp</Author>
+  <AuthorID>AOPMSCIDIA</AuthorID>
+  <Content>call, song</Content>
+  <Comments />
+  <Quality>0</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Tyrannidae</Family>
+  <Genus>Platyrinchus</Genus>
+  <Species>leucoryphus</Species>
+  <Sub-species />
+  <VernacularNames>Russet-winged Spadebill</VernacularNames>
+</Audio>

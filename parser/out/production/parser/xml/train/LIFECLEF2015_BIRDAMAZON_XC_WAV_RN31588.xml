@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>31588</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN31588.wav</FileName>
+  <ClassId>gifcqu</ClassId>
+  <Date>2010-03-13</Date>
+  <Time>19:00</Time>
+  <Locality>Colombia, Valle del Cauca, Municipio de Andalucía, Corregimiento Campo Alegre, Finca Charco de Oro, Humedal La Bolsa</Locality>
+  <Latitude>4.185</Latitude>
+  <Longitude>-76.239</Longitude>
+  <Elevation>900</Elevation>
+  <Author>Juan Pablo López Ordóñez</Author>
+  <AuthorID>UAYUTDXXII</AuthorID>
+  <Content>song</Content>
+  <Comments />
+  <Quality>2</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Caprimulgiformes</Order>
+  <Family>Caprimulgidae</Family>
+  <Genus>Hydropsalis</Genus>
+  <Species>maculicaudus</Species>
+  <Sub-species />
+  <VernacularNames>Spot-tailed Nightjar</VernacularNames>
+</Audio>

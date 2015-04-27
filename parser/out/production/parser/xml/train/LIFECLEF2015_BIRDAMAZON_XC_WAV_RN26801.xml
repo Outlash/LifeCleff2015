@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>26801</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN26801.wav</FileName>
+  <ClassId>qliyib</ClassId>
+  <Date>2012-11-30</Date>
+  <Time>08:41</Time>
+  <Locality>Brownsberg Natuurpark, Brokopondo</Locality>
+  <Latitude>4.9459</Latitude>
+  <Longitude>-55.183</Longitude>
+  <Elevation>480</Elevation>
+  <Author>Jon King</Author>
+  <AuthorID>LNEEOOWCQR</AuthorID>
+  <Content>male, song</Content>
+  <Comments>Distance to mic. 8m. Natural song from sticks and logs 0.1-0.4m above ground. Same bird as XC114040, singing 170m from earlier location. Female present within 10m.bird-seen:yesplayback-used:no</Comments>
+  <Quality>1</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Grallariidae</Family>
+  <Genus>Hylopezus</Genus>
+  <Species>macularius</Species>
+  <Sub-species />
+  <VernacularNames>Spotted Antpitta</VernacularNames>
+</Audio>

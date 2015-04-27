@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>3015</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN3015.wav</FileName>
+  <ClassId>rdftli</ClassId>
+  <Date>2005-10-10</Date>
+  <Time>?</Time>
+  <Locality>Pernambuco, Igarassu, Usina São José</Locality>
+  <Latitude>-7.852159</Latitude>
+  <Longitude>-34.917126</Longitude>
+  <Elevation>4</Elevation>
+  <Author>Gilmar Farias</Author>
+  <AuthorID>TUOWEEELME</AuthorID>
+  <Content>song</Content>
+  <Comments />
+  <Quality>3</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies />
+  <Order>Apodiformes</Order>
+  <Family>Trochilidae</Family>
+  <Genus>Hylocharis</Genus>
+  <Species>cyanus</Species>
+  <Sub-species />
+  <VernacularNames>White-chinned Sapphire</VernacularNames>
+</Audio>

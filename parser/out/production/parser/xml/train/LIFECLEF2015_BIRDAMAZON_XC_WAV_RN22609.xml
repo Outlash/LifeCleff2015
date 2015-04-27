@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>22609</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN22609.wav</FileName>
+  <ClassId>xnhoxm</ClassId>
+  <Date>2013-05-02</Date>
+  <Time>09:26</Time>
+  <Locality>Iguatama, Minas Gerais</Locality>
+  <Latitude>-20.1774</Latitude>
+  <Longitude>-45.7082</Longitude>
+  <Elevation>700</Elevation>
+  <Author>Douglas Meyer</Author>
+  <AuthorID>MNENFHYTAE</AuthorID>
+  <Content>song</Content>
+  <Comments>bird-seen:yesplayback-used:no</Comments>
+  <Quality>0</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Piciformes</Order>
+  <Family>Picidae</Family>
+  <Genus>Picumnus</Genus>
+  <Species>cirratus</Species>
+  <Sub-species />
+  <VernacularNames>White-barred Piculet</VernacularNames>
+</Audio>

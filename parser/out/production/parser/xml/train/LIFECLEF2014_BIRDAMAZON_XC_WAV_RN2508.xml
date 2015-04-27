@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>2508</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN2508.wav</FileName>
+  <ClassId>rseeil</ClassId>
+  <Date>2000-01-11</Date>
+  <Time>10:26</Time>
+  <Locality>Aquidauana</Locality>
+  <Latitude>-20.4834</Latitude>
+  <Longitude>-55.8167</Longitude>
+  <Elevation>174</Elevation>
+  <Author>Jeremy Minns</Author>
+  <AuthorID>DGVLLRYDXS</AuthorID>
+  <Content>call</Content>
+  <Comments>Road to Barra Mansa. Single bird in tree beside dried up marsh.</Comments>
+  <Quality>2</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Icteridae</Family>
+  <Genus>Cacicus</Genus>
+  <Species>chrysopterus</Species>
+  <Sub-species />
+  <VernacularNames>Golden-winged Cacique</VernacularNames>
+</Audio>

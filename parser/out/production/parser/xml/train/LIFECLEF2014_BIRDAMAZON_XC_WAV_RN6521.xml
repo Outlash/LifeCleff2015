@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>6521</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN6521.wav</FileName>
+  <ClassId>rstljd</ClassId>
+  <Date>2001-07-02</Date>
+  <Time>09:04</Time>
+  <Locality>Anavilhanas Archipelago</Locality>
+  <Latitude>-2.6834</Latitude>
+  <Longitude>-60.7501</Longitude>
+  <Elevation>20</Elevation>
+  <Author>Jeremy Minns</Author>
+  <AuthorID>DGVLLRYDXS</AuthorID>
+  <Content>Song</Content>
+  <Comments>Flooded igapó forest.</Comments>
+  <Quality>2</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies>Patagioenas subvinacea</BackgroundSpecies>
+  <Order>Passeriformes</Order>
+  <Family>Tyrannidae</Family>
+  <Genus>Hemitriccus</Genus>
+  <Species>minor</Species>
+  <Sub-species>pallens</Sub-species>
+  <VernacularNames>Snethlage's Tody-Tyrant</VernacularNames>
+</Audio>

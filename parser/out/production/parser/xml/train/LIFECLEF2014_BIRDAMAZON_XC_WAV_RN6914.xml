@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>6914</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN6914.wav</FileName>
+  <ClassId>cwxlrq</ClassId>
+  <Date>2011-06-22</Date>
+  <Time>09:30</Time>
+  <Locality>Sao Jose dos Campos, state of Sao Paulo</Locality>
+  <Latitude>-23.0401</Latitude>
+  <Longitude>-46.0328</Longitude>
+  <Elevation>700</Elevation>
+  <Author>GABRIEL LEITE</Author>
+  <AuthorID>TGBFXDVERJ</AuthorID>
+  <Content>call</Content>
+  <Comments>bird-seen:yesplayback-used:no</Comments>
+  <Quality>3</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Thraupidae</Family>
+  <Genus>Haplospiza</Genus>
+  <Species>unicolor</Species>
+  <Sub-species />
+  <VernacularNames>Uniform Finch</VernacularNames>
+</Audio>

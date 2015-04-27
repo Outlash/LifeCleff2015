@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>1386</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN1386.wav</FileName>
+  <ClassId>nntytu</ClassId>
+  <Date>2000-01-16</Date>
+  <Time>07:31</Time>
+  <Locality>Corumbá, MS</Locality>
+  <Latitude>-19.01</Latitude>
+  <Longitude>-57.6528</Longitude>
+  <Elevation>150</Elevation>
+  <Author>Jeremy Minns</Author>
+  <AuthorID>DGVLLRYDXS</AuthorID>
+  <Content>Song</Content>
+  <Comments>Forest at foot of the Morro do Urucum. Two natural songs by a bird in thick undergrowth. Male seen after playback.</Comments>
+  <Quality>1</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies>Crypturellus undulatus</BackgroundSpecies>
+  <Order>Passeriformes</Order>
+  <Family>Thamnophilidae</Family>
+  <Genus>Pyriglena</Genus>
+  <Species>leuconota</Species>
+  <Sub-species>maura</Sub-species>
+  <VernacularNames>White-backed Fire-eye</VernacularNames>
+</Audio>

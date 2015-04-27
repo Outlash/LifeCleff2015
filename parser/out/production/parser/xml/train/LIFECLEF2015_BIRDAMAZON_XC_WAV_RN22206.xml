@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>22206</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN22206.wav</FileName>
+  <ClassId>vqpvft</ClassId>
+  <Date>2008-01-22</Date>
+  <Time>17:40</Time>
+  <Locality>Hotel Moruco, Santo Domingo, Merida</Locality>
+  <Latitude>8.844</Latitude>
+  <Longitude>-70.728</Longitude>
+  <Elevation>2200</Elevation>
+  <Author>Daniel Lane</Author>
+  <AuthorID>WOEAFQRMUD</AuthorID>
+  <Content>song</Content>
+  <Comments>Natural song from ground in cultivated fields.</Comments>
+  <Quality>2</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Icteridae</Family>
+  <Genus>Sturnella</Genus>
+  <Species>magna</Species>
+  <Sub-species>meridionalis</Sub-species>
+  <VernacularNames>Eastern Meadowlark</VernacularNames>
+</Audio>

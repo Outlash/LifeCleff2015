@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>20893</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN20893.wav</FileName>
+  <ClassId>wbchba</ClassId>
+  <Date>2013-02-02</Date>
+  <Time>13:00</Time>
+  <Locality>Reinita Cielo Azul ProAves Reserve, Santander</Locality>
+  <Latitude>6.8614</Latitude>
+  <Longitude>-73.3842</Longitude>
+  <Elevation>1400</Elevation>
+  <Author>Ottavio Janni</Author>
+  <AuthorID>PWMAZXONXH</AuthorID>
+  <Content>song</Content>
+  <Comments>bird-seen:yesplayback-used:no</Comments>
+  <Quality>2</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Emberizidae</Family>
+  <Genus>Arremonops</Genus>
+  <Species>conirostris</Species>
+  <Sub-species />
+  <VernacularNames>Black-striped Sparrow</VernacularNames>
+</Audio>

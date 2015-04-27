@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>19850</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN19850.wav</FileName>
+  <ClassId>njvtdj</ClassId>
+  <Date>2011-02-05</Date>
+  <Time>09:23</Time>
+  <Locality>SFF Otun-Quimbaya, Risaralda</Locality>
+  <Latitude>4.727</Latitude>
+  <Longitude>-75.577</Longitude>
+  <Elevation>1875</Elevation>
+  <Author>Eric DeFonso</Author>
+  <AuthorID>KTLCZCRCQX</AuthorID>
+  <Content>song</Content>
+  <Comments />
+  <Quality>3</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Coraciiformes</Order>
+  <Family>Momotidae</Family>
+  <Genus>Momotus</Genus>
+  <Species>aequatorialis</Species>
+  <Sub-species />
+  <VernacularNames>Andean Motmot</VernacularNames>
+</Audio>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>2080</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN2080.wav</FileName>
+  <ClassId>vnmlmt</ClassId>
+  <Date>2006-01-08</Date>
+  <Time>10:20</Time>
+  <Locality>30 km SE of Mombassa, Ceará</Locality>
+  <Latitude>NULL</Latitude>
+  <Longitude>NULL</Longitude>
+  <Elevation>570</Elevation>
+  <Author>Nick Athanas</Author>
+  <AuthorID>XRABICUARW</AuthorID>
+  <Content>call</Content>
+  <Comments>Calls from a pair in response to playback.</Comments>
+  <Quality>2</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies>Glaucidium brasilianum,Parabuteo unicinctus,Leptotila verreauxi,Polioptila plumbea,Cyclarhis gujanensis</BackgroundSpecies>
+  <Order>Passeriformes</Order>
+  <Family>Thamnophilidae</Family>
+  <Genus>Thamnophilus</Genus>
+  <Species>doliatus</Species>
+  <Sub-species>difficilis</Sub-species>
+  <VernacularNames>Barred Antshrike</VernacularNames>
+</Audio>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>8647</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN8647.wav</FileName>
+  <ClassId>ssjqni</ClassId>
+  <Date>2010-09-13</Date>
+  <Time>06:50</Time>
+  <Locality>Paragominas, PA, Brazil, Bacia 315</Locality>
+  <Latitude>-3.3214</Latitude>
+  <Longitude>-47.5139</Longitude>
+  <Elevation>?</Elevation>
+  <Author>Nargila Moura</Author>
+  <AuthorID>CWEIBYBYYD</AuthorID>
+  <Content>song</Content>
+  <Comments>secondary forest, near cattle pasture (also Blue-gray Tanager), quite a point count...</Comments>
+  <Quality>2</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies>Guaruba guarouba,Thamnomanes caesius,Pyriglena leuconota,Taeniotriccus andrei,Hylophilus semicinereus,Coereba flaveola,Ramphocelus carbo,Hemithraupis guira,Amazona farinosa,Amazona amazonica,Amazona ochrocephala</BackgroundSpecies>
+  <Order>Passeriformes</Order>
+  <Family>Thamnophilidae</Family>
+  <Genus>Myrmotherula</Genus>
+  <Species>axillaris</Species>
+  <Sub-species>axillaris</Sub-species>
+  <VernacularNames>White-flanked Antwren</VernacularNames>
+</Audio>

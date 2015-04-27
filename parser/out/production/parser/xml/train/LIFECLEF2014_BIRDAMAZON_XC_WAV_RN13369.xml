@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>13369</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN13369.wav</FileName>
+  <ClassId>armfvy</ClassId>
+  <Date>1997-08-20</Date>
+  <Time>07:05</Time>
+  <Locality>Intervales State Park. Residential area</Locality>
+  <Latitude>-24.2667</Latitude>
+  <Longitude>-48.4167</Longitude>
+  <Elevation>830</Elevation>
+  <Author>Jeremy Minns</Author>
+  <AuthorID>DGVLLRYDXS</AuthorID>
+  <Content>call, song</Content>
+  <Comments>Secondary forest. Sounds of three birds chasing each other about the canopy. These are calls A, B and C in our DVD-ROM 'Birds of Brazil'.</Comments>
+  <Quality>2</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies>Trogon surrucura</BackgroundSpecies>
+  <Order>Passeriformes</Order>
+  <Family>Tyrannidae</Family>
+  <Genus>Camptostoma</Genus>
+  <Species>obsoletum</Species>
+  <Sub-species>obsoletum</Sub-species>
+  <VernacularNames>Southern Beardless Tyrannulet</VernacularNames>
+</Audio>

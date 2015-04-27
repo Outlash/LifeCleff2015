@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>3435</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN3435.wav</FileName>
+  <ClassId>uzzjrh</ClassId>
+  <Date>2013-09-17</Date>
+  <Time>10:00</Time>
+  <Locality>65 km E of Campo Novo do Parecís, Mato Grosso</Locality>
+  <Latitude>-13.8253</Latitude>
+  <Longitude>-57.3122</Longitude>
+  <Elevation>500</Elevation>
+  <Author>Richard Hoyer</Author>
+  <AuthorID>SRRRBQPENI</AuthorID>
+  <Content>call, duet</Content>
+  <Comments>bird-seen:yesplayback-used:yes</Comments>
+  <Quality>1</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Tyrannidae</Family>
+  <Genus>Myiarchus</Genus>
+  <Species>swainsoni</Species>
+  <Sub-species>pelzelni</Sub-species>
+  <VernacularNames>Swainson's Flycatcher</VernacularNames>
+</Audio>

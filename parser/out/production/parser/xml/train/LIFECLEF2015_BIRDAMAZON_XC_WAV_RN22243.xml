@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>22243</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN22243.wav</FileName>
+  <ClassId>jceldx</ClassId>
+  <Date>2014-01-28</Date>
+  <Time>10:00</Time>
+  <Locality>Machadinho d'Oeste, Rondônia</Locality>
+  <Latitude>-8.9495</Latitude>
+  <Longitude>-61.967</Longitude>
+  <Elevation>120</Elevation>
+  <Author>GABRIEL LEITE</Author>
+  <AuthorID>TGBFXDVERJ</AuthorID>
+  <Content>song</Content>
+  <Comments>bird-seen:noplayback-used:no</Comments>
+  <Quality>3</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Furnariidae</Family>
+  <Genus>Synallaxis</Genus>
+  <Species>rutilans</Species>
+  <Sub-species />
+  <VernacularNames>Ruddy Spinetail</VernacularNames>
+</Audio>

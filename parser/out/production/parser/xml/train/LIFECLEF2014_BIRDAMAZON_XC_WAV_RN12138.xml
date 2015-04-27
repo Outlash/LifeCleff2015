@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>12138</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN12138.wav</FileName>
+  <ClassId>ryckte</ClassId>
+  <Date>2003-08-25</Date>
+  <Time>08:12</Time>
+  <Locality>Ubatuba, SP. Folha Seca.</Locality>
+  <Latitude>-23.5001</Latitude>
+  <Longitude>-45.2167</Longitude>
+  <Elevation>30</Elevation>
+  <Author>Jeremy Minns</Author>
+  <AuthorID>DGVLLRYDXS</AuthorID>
+  <Content>call, song</Content>
+  <Comments>Coastal humid forest. Calls by female and song by male in background. This is Call B in our DVD-ROM 'Birds of Brazil'.</Comments>
+  <Quality>1</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies>Dysithamnus mentalis,Procnias nudicollis</BackgroundSpecies>
+  <Order>Passeriformes</Order>
+  <Family>Thamnophilidae</Family>
+  <Genus>Drymophila</Genus>
+  <Species>squamata</Species>
+  <Sub-species>stictocorypha</Sub-species>
+  <VernacularNames>Scaled Antbird</VernacularNames>
+</Audio>

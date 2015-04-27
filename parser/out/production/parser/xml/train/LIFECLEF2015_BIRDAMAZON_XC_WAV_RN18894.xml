@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>18894</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN18894.wav</FileName>
+  <ClassId>cqqnge</ClassId>
+  <Date>2013-03-02</Date>
+  <Time>04:00</Time>
+  <Locality>Puerto Lopez, Meta</Locality>
+  <Latitude>4.1809</Latitude>
+  <Longitude>-72.9136</Longitude>
+  <Elevation>170</Elevation>
+  <Author>Oswaldo Cortes</Author>
+  <AuthorID>VVDRVZCVWW</AuthorID>
+  <Content>song</Content>
+  <Comments>bird-seen:noplayback-used:no</Comments>
+  <Quality>2</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies>Columbina talpacoti</BackgroundSpecies>
+  <Order>Passeriformes</Order>
+  <Family>Furnariidae</Family>
+  <Genus>Dendrocincla</Genus>
+  <Species>fuliginosa</Species>
+  <Sub-species />
+  <VernacularNames>Plain-brown Woodcreeper</VernacularNames>
+</Audio>

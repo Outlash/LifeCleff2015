@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>1308</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN1308.wav</FileName>
+  <ClassId>ptfyqz</ClassId>
+  <Date>1999-09-14</Date>
+  <Time>17:45</Time>
+  <Locality>Reserva Extrativista Alto Juruá. Foz do Breu</Locality>
+  <Latitude>-9.4123</Latitude>
+  <Longitude>-72.7153</Longitude>
+  <Elevation>230</Elevation>
+  <Author>Jeremy Minns</Author>
+  <AuthorID>DGVLLRYDXS</AuthorID>
+  <Content>Song</Content>
+  <Comments />
+  <Quality>1</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies />
+  <Order>Tinamiformes</Order>
+  <Family>Tinamidae</Family>
+  <Genus>Crypturellus</Genus>
+  <Species>undulatus</Species>
+  <Sub-species />
+  <VernacularNames>Undulated Tinamou</VernacularNames>
+</Audio>

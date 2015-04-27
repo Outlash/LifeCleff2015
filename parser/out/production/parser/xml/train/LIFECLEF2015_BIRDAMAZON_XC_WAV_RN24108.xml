@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>24108</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN24108.wav</FileName>
+  <ClassId>skjryu</ClassId>
+  <Date>2000-06-03</Date>
+  <Time>12:29</Time>
+  <Locality>Reserva La Forzosa (Vereda Roble arriba), Anori, Antioquia</Locality>
+  <Latitude>NULL</Latitude>
+  <Longitude>NULL</Longitude>
+  <Elevation>1800</Elevation>
+  <Author>Bernabe Lopez-Lanus</Author>
+  <AuthorID>BYLLSJRVDZ</AuthorID>
+  <Content>Call</Content>
+  <Comments />
+  <Quality>3</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Tyrannidae</Family>
+  <Genus>Zimmerius</Genus>
+  <Species>chrysops</Species>
+  <Sub-species>chrysops</Sub-species>
+  <VernacularNames>Golden-faced Tyrannulet</VernacularNames>
+</Audio>

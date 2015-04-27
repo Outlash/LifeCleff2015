@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>18309</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN18309.wav</FileName>
+  <ClassId>dvpcru</ClassId>
+  <Date>2010-01-27</Date>
+  <Time>15:25</Time>
+  <Locality>RNA Arrierito Antioqueño, Anorí, Antioquia</Locality>
+  <Latitude>6.9862</Latitude>
+  <Longitude>-75.1251</Longitude>
+  <Elevation>1500</Elevation>
+  <Author>David Geale</Author>
+  <AuthorID>SBFBVYGIJC</AuthorID>
+  <Content>Call?</Content>
+  <Comments>After playback</Comments>
+  <Quality>4</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Piciformes</Order>
+  <Family>Bucconidae</Family>
+  <Genus>Malacoptila</Genus>
+  <Species>mystacalis</Species>
+  <Sub-species />
+  <VernacularNames>Moustached Puffbird</VernacularNames>
+</Audio>

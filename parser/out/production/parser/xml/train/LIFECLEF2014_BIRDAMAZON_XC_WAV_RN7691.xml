@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>7691</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN7691.wav</FileName>
+  <ClassId>alwkew</ClassId>
+  <Date>2011-12-19</Date>
+  <Time>?</Time>
+  <Locality>Salseiro, Vidal Ramos, Santa Catarina</Locality>
+  <Latitude>-27.39726</Latitude>
+  <Longitude>-49.379082</Longitude>
+  <Elevation>450</Elevation>
+  <Author>Evair Legal</Author>
+  <AuthorID>SMJXFKLATM</AuthorID>
+  <Content>song</Content>
+  <Comments />
+  <Quality>2</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Thraupidae</Family>
+  <Genus>Orchesticus</Genus>
+  <Species>abeillei</Species>
+  <Sub-species />
+  <VernacularNames>Brown Tanager</VernacularNames>
+</Audio>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>568</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN568.wav</FileName>
+  <ClassId>gvyxhh</ClassId>
+  <Date>2007-11-25</Date>
+  <Time>13:49</Time>
+  <Locality>Dunas, área de proteção ambiental, Las Acácias - Pelotas, Rio Grande do Sul</Locality>
+  <Latitude>-31.75</Latitude>
+  <Longitude>-52.28333</Longitude>
+  <Elevation>15</Elevation>
+  <Author>Fernando Jacobs</Author>
+  <AuthorID>MHHPJBCUXC</AuthorID>
+  <Content>song</Content>
+  <Comments />
+  <Quality>2</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies>Turdus rufiventris</BackgroundSpecies>
+  <Order>Passeriformes</Order>
+  <Family>Thraupidae</Family>
+  <Genus>Stephanophorus</Genus>
+  <Species>diadematus</Species>
+  <Sub-species />
+  <VernacularNames>Diademed Tanager</VernacularNames>
+</Audio>

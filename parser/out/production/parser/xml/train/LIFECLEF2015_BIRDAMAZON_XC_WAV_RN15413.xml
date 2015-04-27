@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>15413</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN15413.wav</FileName>
+  <ClassId>qbatlk</ClassId>
+  <Date>2006-01-20</Date>
+  <Time>06:55</Time>
+  <Locality>Soata (Reserva de Aves para Amazilia castaneiventris y Macroagelaius)</Locality>
+  <Latitude>6.3001</Latitude>
+  <Longitude>-72.7167</Longitude>
+  <Elevation>1800</Elevation>
+  <Author>Oswaldo Cortes</Author>
+  <AuthorID>VVDRVZCVWW</AuthorID>
+  <Content>call</Content>
+  <Comments>al fondo vocalizaciones de juveniles de macroagelaius</Comments>
+  <Quality>4</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies>Macroagelaius subalaris</BackgroundSpecies>
+  <Order>Psittaciformes</Order>
+  <Family>Psittacidae</Family>
+  <Genus>Bolborhynchus</Genus>
+  <Species>lineola</Species>
+  <Sub-species />
+  <VernacularNames>Barred Parakeet</VernacularNames>
+</Audio>

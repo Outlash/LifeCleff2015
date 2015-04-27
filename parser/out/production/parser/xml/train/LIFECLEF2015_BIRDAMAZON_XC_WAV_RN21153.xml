@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>21153</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN21153.wav</FileName>
+  <ClassId>fuspfo</ClassId>
+  <Date>2003-05-25</Date>
+  <Time>am</Time>
+  <Locality>Humedal Laguna del Neuta, Soacha, Cundinamarca</Locality>
+  <Latitude>NULL</Latitude>
+  <Longitude>NULL</Longitude>
+  <Elevation>2600</Elevation>
+  <Author>Bernabe Lopez-Lanus</Author>
+  <AuthorID>BYLLSJRVDZ</AuthorID>
+  <Content>call, female</Content>
+  <Comments>I don´t see the female calling</Comments>
+  <Quality>3</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Icteridae</Family>
+  <Genus>Molothrus</Genus>
+  <Species>bonariensis</Species>
+  <Sub-species>cabanisii</Sub-species>
+  <VernacularNames>Shiny Cowbird</VernacularNames>
+</Audio>

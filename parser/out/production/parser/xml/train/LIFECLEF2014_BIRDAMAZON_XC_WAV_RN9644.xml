@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>9644</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN9644.wav</FileName>
+  <ClassId>onkywx</ClassId>
+  <Date>2011-04-01</Date>
+  <Time>08:30h</Time>
+  <Locality>Córrego Porteira, Tupirama - Tocantins</Locality>
+  <Latitude>-8.869</Latitude>
+  <Longitude>-48.161</Longitude>
+  <Elevation>185</Elevation>
+  <Author>Tulio Dornas</Author>
+  <AuthorID>MTUQGBMRNC</AuthorID>
+  <Content>Song</Content>
+  <Comments>the place have very bamboo (Guadua sp) / more details in article submitted</Comments>
+  <Quality>2</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Thamnophilidae</Family>
+  <Genus>Cercomacra</Genus>
+  <Species>manu</Species>
+  <Sub-species />
+  <VernacularNames>Manu Antbird</VernacularNames>
+</Audio>

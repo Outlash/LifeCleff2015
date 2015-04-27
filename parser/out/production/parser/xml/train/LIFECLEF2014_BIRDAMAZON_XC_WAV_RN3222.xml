@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>3222</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN3222.wav</FileName>
+  <ClassId>rfdfsw</ClassId>
+  <Date>2005-10-05</Date>
+  <Time>7:00</Time>
+  <Locality>Boa Nova, Wet Forest, state of Bahia</Locality>
+  <Latitude>-14.3834</Latitude>
+  <Longitude>-40.1001</Longitude>
+  <Elevation>760</Elevation>
+  <Author>Richard C. Hoyer</Author>
+  <AuthorID>SRRRBQPENI</AuthorID>
+  <Content>song</Content>
+  <Comments />
+  <Quality>1</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies>Cercomacra brasiliana,Thripophaga macroura</BackgroundSpecies>
+  <Order>Passeriformes</Order>
+  <Family>Vireonidae</Family>
+  <Genus>Hylophilus</Genus>
+  <Species>thoracicus</Species>
+  <Sub-species>thoracicus</Sub-species>
+  <VernacularNames>Lemon-chested Greenlet</VernacularNames>
+</Audio>

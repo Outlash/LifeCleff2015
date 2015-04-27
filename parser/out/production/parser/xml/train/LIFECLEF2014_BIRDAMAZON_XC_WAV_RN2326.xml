@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>2326</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN2326.wav</FileName>
+  <ClassId>cvyifz</ClassId>
+  <Date>2010-07-22</Date>
+  <Time>13:34</Time>
+  <Locality>Caminho do Itupava</Locality>
+  <Latitude>-25.425</Latitude>
+  <Longitude>-48.917</Longitude>
+  <Elevation>450</Elevation>
+  <Author>Teus Luijendijk</Author>
+  <AuthorID>VLNULZJNSX</AuthorID>
+  <Content>call, song</Content>
+  <Comments />
+  <Quality>0</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Cardinalidae</Family>
+  <Genus>Habia</Genus>
+  <Species>rubica</Species>
+  <Sub-species />
+  <VernacularNames>Red-crowned Ant Tanager</VernacularNames>
+</Audio>

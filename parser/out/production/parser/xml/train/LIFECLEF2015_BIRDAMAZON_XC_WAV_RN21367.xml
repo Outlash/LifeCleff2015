@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>21367</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN21367.wav</FileName>
+  <ClassId>byvvse</ClassId>
+  <Date>2006-08-26</Date>
+  <Time>11:10</Time>
+  <Locality>Tijuca National Park - RJ</Locality>
+  <Latitude>-22.9567</Latitude>
+  <Longitude>-43.2806</Longitude>
+  <Elevation>550</Elevation>
+  <Author>Ricardo Gagliardi</Author>
+  <AuthorID>YRDADNREOP</AuthorID>
+  <Content>song</Content>
+  <Comments />
+  <Quality>3</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Tityridae</Family>
+  <Genus>Oxyruncus</Genus>
+  <Species>cristatus</Species>
+  <Sub-species />
+  <VernacularNames>Sharpbill</VernacularNames>
+</Audio>

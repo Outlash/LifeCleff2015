@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>16373</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN16373.wav</FileName>
+  <ClassId>obvdbc</ClassId>
+  <Date>2012-11-26</Date>
+  <Time>11:06</Time>
+  <Locality>Brownsberg Natuurpark, Brokopondo</Locality>
+  <Latitude>4.9459</Latitude>
+  <Longitude>-55.183</Longitude>
+  <Elevation>480</Elevation>
+  <Author>Jon King</Author>
+  <AuthorID>LNEEOOWCQR</AuthorID>
+  <Content>call</Content>
+  <Comments>Distance to mic. 20m. Bird seen but sex not confirmed. Vocalisation stopped when a second individual flew in and landed on same tree as calling bird.bird-seen:yesplayback-used:no</Comments>
+  <Quality>3</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Piciformes</Order>
+  <Family>Picidae</Family>
+  <Genus>Campephilus</Genus>
+  <Species>rubricollis</Species>
+  <Sub-species />
+  <VernacularNames>Red-necked Woodpecker</VernacularNames>
+</Audio>

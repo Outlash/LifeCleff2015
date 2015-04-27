@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>16953</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN16953.wav</FileName>
+  <ClassId>loriov</ClassId>
+  <Date>2013-05-18</Date>
+  <Time>03:30</Time>
+  <Locality>Ubajara, Ceara</Locality>
+  <Latitude>-3.8531</Latitude>
+  <Longitude>-40.9271</Longitude>
+  <Elevation>850</Elevation>
+  <Author>Caio Brito</Author>
+  <AuthorID>YWWWUBVAJF</AuthorID>
+  <Content>song</Content>
+  <Comments>Filter lowcut at 80-100Hz to take out excessive noise. Did not affect vocalization.The intervals between vocalizations were not shortened.Forest vegetationbird-seen:noplayback-used:yes</Comments>
+  <Quality>1</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Strigiformes</Order>
+  <Family>Strigidae</Family>
+  <Genus>Pulsatrix</Genus>
+  <Species>perspicillata</Species>
+  <Sub-species />
+  <VernacularNames>Spectacled Owl</VernacularNames>
+</Audio>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>16849</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN16849.wav</FileName>
+  <ClassId>qliyib</ClassId>
+  <Date>2011-03-14</Date>
+  <Time>09:35</Time>
+  <Locality>SSE Palumeu</Locality>
+  <Latitude>3.325</Latitude>
+  <Longitude>-55.439</Longitude>
+  <Elevation>170</Elevation>
+  <Author>Daniel Lane</Author>
+  <AuthorID>WOEAFQRMUD</AuthorID>
+  <Content>song</Content>
+  <Comments>Response to playback from a bird on log about 1m up off ground amid remarkably open understory.</Comments>
+  <Quality>1</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies>Lipaugus vociferans,Trogon viridis</BackgroundSpecies>
+  <Order>Passeriformes</Order>
+  <Family>Grallariidae</Family>
+  <Genus>Hylopezus</Genus>
+  <Species>macularius</Species>
+  <Sub-species />
+  <VernacularNames>Spotted Antpitta</VernacularNames>
+</Audio>

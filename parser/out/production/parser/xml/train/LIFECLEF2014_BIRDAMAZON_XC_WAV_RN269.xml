@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>269</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN269.wav</FileName>
+  <ClassId>tsxwwl</ClassId>
+  <Date>2006-03-26</Date>
+  <Time>8:10</Time>
+  <Locality>Itapoá, Santa Catarina</Locality>
+  <Latitude>-26.11694</Latitude>
+  <Longitude>-48.61611</Longitude>
+  <Elevation>5</Elevation>
+  <Author>Raphael Eduardo F. Santos</Author>
+  <AuthorID>TXWLKRXOWP</AuthorID>
+  <Content>call, song</Content>
+  <Comments />
+  <Quality>2</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Thamnophilidae</Family>
+  <Genus>Myrmeciza</Genus>
+  <Species>squamosa</Species>
+  <Sub-species />
+  <VernacularNames>Squamate Antbird</VernacularNames>
+</Audio>

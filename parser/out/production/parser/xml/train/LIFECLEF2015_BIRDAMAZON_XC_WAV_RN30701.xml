@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>30701</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN30701.wav</FileName>
+  <ClassId>fgfalp</ClassId>
+  <Date>2013-08-05</Date>
+  <Time>17:30</Time>
+  <Locality>Reserva Natural la playita Apia, Risaralda</Locality>
+  <Latitude>5.1311</Latitude>
+  <Longitude>-75.9492</Longitude>
+  <Elevation>1500</Elevation>
+  <Author>JULIAN ANDRES ZULETA MARIN</Author>
+  <AuthorID>AMCJKUNQOR</AuthorID>
+  <Content>male, song</Content>
+  <Comments>Macho vocalmente muy activo,en el dosel de un nogal cafetero.bird-seen:yesplayback-used:no</Comments>
+  <Quality>0</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies>Icterus chrysater</BackgroundSpecies>
+  <Order>Passeriformes</Order>
+  <Family>Thraupidae</Family>
+  <Genus>Dacnis</Genus>
+  <Species>hartlaubi</Species>
+  <Sub-species />
+  <VernacularNames>Turquoise Dacnis</VernacularNames>
+</Audio>

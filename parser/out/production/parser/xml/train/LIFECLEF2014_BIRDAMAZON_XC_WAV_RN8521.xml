@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>8521</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN8521.wav</FileName>
+  <ClassId>nurzze</ClassId>
+  <Date>2002-07-23</Date>
+  <Time>07:07</Time>
+  <Locality>Boa Nova, Wet Forest, state of Bahia</Locality>
+  <Latitude>-14.3834</Latitude>
+  <Longitude>-40.1001</Longitude>
+  <Elevation>825</Elevation>
+  <Author>Jeremy Minns</Author>
+  <AuthorID>DGVLLRYDXS</AuthorID>
+  <Content>Song</Content>
+  <Comments>Humid forest.</Comments>
+  <Quality>2</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies>Picumnus exilis,Dysithamnus stictothorax,Drymophila squamata,Synallaxis whitneyi</BackgroundSpecies>
+  <Order>Columbiformes</Order>
+  <Family>Columbidae</Family>
+  <Genus>Patagioenas</Genus>
+  <Species>plumbea</Species>
+  <Sub-species>plumbea</Sub-species>
+  <VernacularNames>Plumbeous Pigeon</VernacularNames>
+</Audio>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>12940</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN12940.wav</FileName>
+  <ClassId>relbkx</ClassId>
+  <Date>2007-12-03</Date>
+  <Time>07:30</Time>
+  <Locality>right bank medio Rio Jurua, near Bauana</Locality>
+  <Latitude>-5.436</Latitude>
+  <Longitude>-67.283</Longitude>
+  <Elevation>?</Elevation>
+  <Author>Alexander Lees</Author>
+  <AuthorID>INDDBZAFJL</AuthorID>
+  <Content>song</Content>
+  <Comments>varzea alongside Rio Capim</Comments>
+  <Quality>3</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies>Crypturellus undulatus,Myiopagis gaimardii</BackgroundSpecies>
+  <Order>Passeriformes</Order>
+  <Family>Tyrannidae</Family>
+  <Genus>Tolmomyias</Genus>
+  <Species>sulphurescens</Species>
+  <Sub-species>insignis</Sub-species>
+  <VernacularNames>Yellow-olive Flatbill</VernacularNames>
+</Audio>

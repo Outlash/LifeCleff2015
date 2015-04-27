@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>25725</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN25725.wav</FileName>
+  <ClassId>iwohai</ClassId>
+  <Date>2011-01-22</Date>
+  <Time>16:00</Time>
+  <Locality>Interlagos, São Paulo</Locality>
+  <Latitude>-23.6866</Latitude>
+  <Longitude>-46.7013</Longitude>
+  <Elevation>800</Elevation>
+  <Author>Fernando Igor de Godoy</Author>
+  <AuthorID>CHDHFSVVIN</AuthorID>
+  <Content>flight call, song</Content>
+  <Comments>FNJV 30288bird-seen:yesplayback-used:no</Comments>
+  <Quality>0</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Apodiformes</Order>
+  <Family>Trochilidae</Family>
+  <Genus>Eupetomena</Genus>
+  <Species>macroura</Species>
+  <Sub-species />
+  <VernacularNames>Swallow-tailed Hummingbird</VernacularNames>
+</Audio>

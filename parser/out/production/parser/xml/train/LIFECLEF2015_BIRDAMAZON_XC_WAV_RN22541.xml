@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>22541</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN22541.wav</FileName>
+  <ClassId>xuvusy</ClassId>
+  <Date>2009-07-23</Date>
+  <Time>?:?</Time>
+  <Locality>Novo Airao, Amazonas</Locality>
+  <Latitude>-2.624985</Latitude>
+  <Longitude>-60.937386</Longitude>
+  <Elevation>?</Elevation>
+  <Author>Alexandre Renaudier</Author>
+  <AuthorID>GKADEITXTH</AuthorID>
+  <Content>song</Content>
+  <Comments>at lek</Comments>
+  <Quality>2</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies>Lipaugus vociferans</BackgroundSpecies>
+  <Order>Passeriformes</Order>
+  <Family>Pipridae</Family>
+  <Genus>Dixiphia</Genus>
+  <Species>pipra</Species>
+  <Sub-species />
+  <VernacularNames>White-crowned Manakin</VernacularNames>
+</Audio>

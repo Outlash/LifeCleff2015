@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>9201</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN9201.wav</FileName>
+  <ClassId>qldqit</ClassId>
+  <Date>1997-12-12</Date>
+  <Time>?:?</Time>
+  <Locality>Santa Catarina, Salto do Pirai, near Joinville</Locality>
+  <Latitude>-26.3</Latitude>
+  <Longitude>-48.83</Longitude>
+  <Elevation>160</Elevation>
+  <Author>Frank Lambert</Author>
+  <AuthorID>YTUXOCTUEM</AuthorID>
+  <Content>call</Content>
+  <Comments>Previously published on AVoCet as &lt;a href=http://avocet.zoology.msu.edu/recordings/8171&gt;AV8171&lt;/a&gt;.  Certainty: 100%.  ID determined by: not specifically indicated, recordist normally sees birds recorded and indicates if any question, matches XC cuts. GPS: estimate from Google Earth. could be song</Comments>
+  <Quality>2</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Furnariidae</Family>
+  <Genus>Philydor</Genus>
+  <Species>atricapillus</Species>
+  <Sub-species />
+  <VernacularNames>Black-capped Foliage-gleaner</VernacularNames>
+</Audio>

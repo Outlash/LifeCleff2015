@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>14080</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN14080.wav</FileName>
+  <ClassId>uissyt</ClassId>
+  <Date>2009-02-00</Date>
+  <Time>?:?</Time>
+  <Locality>San Isidro - Andes</Locality>
+  <Latitude>8.792797</Latitude>
+  <Longitude>-70.831604</Longitude>
+  <Elevation>1500</Elevation>
+  <Author>Joe Klaiber</Author>
+  <AuthorID>TNPOVFLZMY</AuthorID>
+  <Content>song</Content>
+  <Comments>link:http://www.birds-venezuela.de</Comments>
+  <Quality>2</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies>Myiarchus tuberculifer</BackgroundSpecies>
+  <Order>Passeriformes</Order>
+  <Family>Tyrannidae</Family>
+  <Genus>Pyrrhomyias</Genus>
+  <Species>cinnamomeus</Species>
+  <Sub-species />
+  <VernacularNames>Cinnamon Flycatcher</VernacularNames>
+</Audio>

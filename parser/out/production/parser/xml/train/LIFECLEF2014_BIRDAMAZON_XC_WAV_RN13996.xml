@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>13996</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN13996.wav</FileName>
+  <ClassId>dfegpk</ClassId>
+  <Date>2012-10-11</Date>
+  <Time>17:45</Time>
+  <Locality>Fazenda Santa Tereza, Rio Pixaim, Mato Grosso</Locality>
+  <Latitude>-16.7501</Latitude>
+  <Longitude>-56.8501</Longitude>
+  <Elevation>110</Elevation>
+  <Author>Andrew Spencer</Author>
+  <AuthorID>CDTGHVBGZP</AuthorID>
+  <Content>call</Content>
+  <Comments>natural vocalization, calls from a pair of birds perched in a large tree in the middle of fairly open savanna.bird-seen:yesplayback-used:no</Comments>
+  <Quality>1</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies />
+  <Order>Psittaciformes</Order>
+  <Family>Psittacidae</Family>
+  <Genus>Amazona</Genus>
+  <Species>aestiva</Species>
+  <Sub-species>xanthopteryx</Sub-species>
+  <VernacularNames>Turquoise-fronted Amazon</VernacularNames>
+</Audio>

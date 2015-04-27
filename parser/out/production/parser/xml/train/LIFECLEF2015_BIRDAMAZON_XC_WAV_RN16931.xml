@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>16931</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN16931.wav</FileName>
+  <ClassId>umxbnz</ClassId>
+  <Date>2012-10-31</Date>
+  <Time>10:30</Time>
+  <Locality>Parque Nacional Serra da Canastra, São Roque de Minas, MG</Locality>
+  <Latitude>-20.2453</Latitude>
+  <Longitude>-46.3658</Longitude>
+  <Elevation>1.350</Elevation>
+  <Author>Maycon Ailton de Rezende</Author>
+  <AuthorID>RNSPSDEYNA</AuthorID>
+  <Content>call</Content>
+  <Comments>Próximo da bifurcação para cachoeira do Rolinho. Idem a descrição anterior. O indivíduo foi localizado em área de campo limpo seco, ao lado de outras espécies ameaçadas: Cistothorus platensis, Geositta poeciloptera, Anthus nattereri, Alectrurus tricolor, Culicivora caudacuta e Coryphaspiza melanotis. Também encontrei mais 2 espécies de aves cinegéticas, Rhynchotus rufescens e Nothura maculosa vocalizavam no local. Encontrei T. nanus em outros 3 locais distintos no alto do PNSC. É incrível como é difícil visualizá-los no capim denso, entretanto, em outro encontro consegui ver um deles que deu um pulo por entre a vegetação a poucos metros de mim.bird-seen:yesplayback-used:yes</Comments>
+  <Quality>1</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Tinamiformes</Order>
+  <Family>Tinamidae</Family>
+  <Genus>Taoniscus</Genus>
+  <Species>nanus</Species>
+  <Sub-species />
+  <VernacularNames>Dwarf Tinamou</VernacularNames>
+</Audio>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>3995</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN3995.wav</FileName>
+  <ClassId>obvdbc</ClassId>
+  <Date>2002-02-03</Date>
+  <Time>13:26</Time>
+  <Locality>Serra dos Carajás. Road to Salobo</Locality>
+  <Latitude>-6.0501</Latitude>
+  <Longitude>-50.2667</Longitude>
+  <Elevation>500</Elevation>
+  <Author>Jeremy Minns</Author>
+  <AuthorID>DGVLLRYDXS</AuthorID>
+  <Content>Call and double knock</Content>
+  <Comments>Terra firme forest.</Comments>
+  <Quality>2</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies />
+  <Order>Piciformes</Order>
+  <Family>Picidae</Family>
+  <Genus>Campephilus</Genus>
+  <Species>rubricollis</Species>
+  <Sub-species>olallae</Sub-species>
+  <VernacularNames>Red-necked Woodpecker</VernacularNames>
+</Audio>

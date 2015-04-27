@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>6723</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN6723.wav</FileName>
+  <ClassId>ojdrck</ClassId>
+  <Date>2013-01-16</Date>
+  <Time>10:30</Time>
+  <Locality>Pão de Açúcar, Alagoas</Locality>
+  <Latitude>-9.7326</Latitude>
+  <Longitude>-37.4351</Longitude>
+  <Elevation>90</Elevation>
+  <Author>pedrotêia</Author>
+  <AuthorID>BZVNDWLRSQ</AuthorID>
+  <Content>song</Content>
+  <Comments />
+  <Quality>1</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Furnariidae</Family>
+  <Genus>Phacellodomus</Genus>
+  <Species>rufifrons</Species>
+  <Sub-species />
+  <VernacularNames>Rufous-fronted Thornbird</VernacularNames>
+</Audio>

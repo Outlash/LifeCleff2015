@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>23230</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN23230.wav</FileName>
+  <ClassId>hyzvcq</ClassId>
+  <Date>2004-07-12</Date>
+  <Time>?</Time>
+  <Locality>San Andres Island</Locality>
+  <Latitude>12.5210499763092</Latitude>
+  <Longitude>-81.7204284667969</Longitude>
+  <Elevation>0</Elevation>
+  <Author>Camila Gomez</Author>
+  <AuthorID>XUPKCOCTLC</AuthorID>
+  <Content>Song</Content>
+  <Comments />
+  <Quality>2</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Vireonidae</Family>
+  <Genus>Vireo</Genus>
+  <Species>caribaeus</Species>
+  <Sub-species />
+  <VernacularNames>San Andres Vireo</VernacularNames>
+</Audio>

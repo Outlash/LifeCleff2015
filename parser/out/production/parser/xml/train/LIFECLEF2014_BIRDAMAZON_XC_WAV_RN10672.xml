@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>10672</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN10672.wav</FileName>
+  <ClassId>syipvo</ClassId>
+  <Date>2011-12-10</Date>
+  <Time>09:35</Time>
+  <Locality>Campo Belo do Sul - Santa Catarina State</Locality>
+  <Latitude>-27.916</Latitude>
+  <Longitude>-50.757</Longitude>
+  <Elevation>1017</Elevation>
+  <Author>Cid Espínola</Author>
+  <AuthorID>IRBNRXBEVU</AuthorID>
+  <Content>Song</Content>
+  <Comments />
+  <Quality>0</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies>Vireo olivaceus</BackgroundSpecies>
+  <Order>Passeriformes</Order>
+  <Family>Turdidae</Family>
+  <Genus>Turdus</Genus>
+  <Species>subalaris</Species>
+  <Sub-species />
+  <VernacularNames>Eastern Slaty Thrush</VernacularNames>
+</Audio>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>17000</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN17000.wav</FileName>
+  <ClassId>zxedcd</ClassId>
+  <Date>2009-05-02</Date>
+  <Time>08:00</Time>
+  <Locality>Azulita area Merida</Locality>
+  <Latitude>8.7171</Latitude>
+  <Longitude>-71.3304</Longitude>
+  <Elevation>2500</Elevation>
+  <Author>Joe Klaiber</Author>
+  <AuthorID>TNPOVFLZMY</AuthorID>
+  <Content>song</Content>
+  <Comments>bird-seen:yesplayback-used:yes</Comments>
+  <Quality>2</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Troglodytidae</Family>
+  <Genus>Pheugopedius</Genus>
+  <Species>rutilus</Species>
+  <Sub-species />
+  <VernacularNames>Rufous-breasted Wren</VernacularNames>
+</Audio>

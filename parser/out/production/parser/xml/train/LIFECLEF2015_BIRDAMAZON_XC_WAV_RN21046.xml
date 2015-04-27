@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>21046</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN21046.wav</FileName>
+  <ClassId>ddkxtm</ClassId>
+  <Date>2013-12-01</Date>
+  <Time>07:30</Time>
+  <Locality>Araponga, Minas Gerais</Locality>
+  <Latitude>-20.6665</Latitude>
+  <Longitude>-42.5222</Longitude>
+  <Elevation>950</Elevation>
+  <Author>Vitor Herdy</Author>
+  <AuthorID>GJMKCBCJJE</AuthorID>
+  <Content>male, song</Content>
+  <Comments>Sem edição. Vegetação fechada de ramaria típica do habitat do exemplar. Fazendo display comum. Macho adulto. bird-seen:yesplayback-used:no</Comments>
+  <Quality>1</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies>Chiroxiphia caudata,Turdus flavipes</BackgroundSpecies>
+  <Order>Passeriformes</Order>
+  <Family>Furnariidae</Family>
+  <Genus>Synallaxis</Genus>
+  <Species>cinerascens</Species>
+  <Sub-species />
+  <VernacularNames>Grey-bellied Spinetail</VernacularNames>
+</Audio>

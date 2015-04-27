@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>7118</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN7118.wav</FileName>
+  <ClassId>pdkcpg</ClassId>
+  <Date>2007-01-20</Date>
+  <Time>06:00</Time>
+  <Locality>Araripe National Forest, Crato, Ceará State</Locality>
+  <Latitude>-7.2501</Latitude>
+  <Longitude>-39.5834</Longitude>
+  <Elevation>900</Elevation>
+  <Author>Richard C. Hoyer</Author>
+  <AuthorID>SRRRBQPENI</AuthorID>
+  <Content>song</Content>
+  <Comments />
+  <Quality>1</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Thamnophilidae</Family>
+  <Genus>Myrmorchilus</Genus>
+  <Species>strigilatus</Species>
+  <Sub-species />
+  <VernacularNames>Stripe-backed Antbird</VernacularNames>
+</Audio>

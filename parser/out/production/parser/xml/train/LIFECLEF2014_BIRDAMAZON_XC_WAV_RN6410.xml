@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>6410</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN6410.wav</FileName>
+  <ClassId>xipjkx</ClassId>
+  <Date>2003-12-04</Date>
+  <Time>08:12</Time>
+  <Locality>Transpantaneira south of Pixaim, MT</Locality>
+  <Latitude>-16.8248</Latitude>
+  <Longitude>-56.8448</Longitude>
+  <Elevation>110</Elevation>
+  <Author>Jeremy Minns</Author>
+  <AuthorID>DGVLLRYDXS</AuthorID>
+  <Content>Song</Content>
+  <Comments>Further natural song by same bird.</Comments>
+  <Quality>2</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies>Myiarchus ferox,Campylorhynchus turdinus,Saltator coerulescens</BackgroundSpecies>
+  <Order>Passeriformes</Order>
+  <Family>Icteridae</Family>
+  <Genus>Icterus</Genus>
+  <Species>pyrrhopterus</Species>
+  <Sub-species />
+  <VernacularNames>Variable Oriole</VernacularNames>
+</Audio>

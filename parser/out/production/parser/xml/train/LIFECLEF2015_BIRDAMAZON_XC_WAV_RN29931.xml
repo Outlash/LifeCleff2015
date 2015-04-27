@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>29931</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN29931.wav</FileName>
+  <ClassId>vdoulx</ClassId>
+  <Date>2009-12-03</Date>
+  <Time>?:?</Time>
+  <Locality>Mana, village</Locality>
+  <Latitude>5.656985</Latitude>
+  <Longitude>-53.774986</Longitude>
+  <Elevation>2</Elevation>
+  <Author>Alexandre Renaudier</Author>
+  <AuthorID>GKADEITXTH</AuthorID>
+  <Content>dawn song</Content>
+  <Comments>natural recording</Comments>
+  <Quality>1</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies>Troglodytes aedon</BackgroundSpecies>
+  <Order>Passeriformes</Order>
+  <Family>Icteridae</Family>
+  <Genus>Icterus</Genus>
+  <Species>nigrogularis</Species>
+  <Sub-species>nigrogularis</Sub-species>
+  <VernacularNames>Yellow Oriole</VernacularNames>
+</Audio>

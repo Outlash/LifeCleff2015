@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>19712</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN19712.wav</FileName>
+  <ClassId>bjvdzx</ClassId>
+  <Date>2010-06-10</Date>
+  <Time>08:05</Time>
+  <Locality>Piste forestière de Trou Poisson - Iracoubo</Locality>
+  <Latitude>NULL</Latitude>
+  <Longitude>NULL</Longitude>
+  <Elevation>?</Elevation>
+  <Author>Patrick INGREMEAU</Author>
+  <AuthorID>IIVTYSKEYX</AuthorID>
+  <Content>call</Content>
+  <Comments />
+  <Quality>1</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies>Lipaugus vociferans</BackgroundSpecies>
+  <Order>Passeriformes</Order>
+  <Family>Troglodytidae</Family>
+  <Genus>Pheugopedius</Genus>
+  <Species>coraya</Species>
+  <Sub-species />
+  <VernacularNames>Coraya Wren</VernacularNames>
+</Audio>

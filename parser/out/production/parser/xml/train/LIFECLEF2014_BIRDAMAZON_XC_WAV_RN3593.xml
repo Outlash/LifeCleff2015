@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>3593</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN3593.wav</FileName>
+  <ClassId>qlpnws</ClassId>
+  <Date>2001-07-16</Date>
+  <Time>09:22</Time>
+  <Locality>Caracaraí, Roraima</Locality>
+  <Latitude>1.8167</Latitude>
+  <Longitude>-61.1167</Longitude>
+  <Elevation>450</Elevation>
+  <Author>Jeremy Minns</Author>
+  <AuthorID>DGVLLRYDXS</AuthorID>
+  <Content>Song</Content>
+  <Comments>Campinarana.</Comments>
+  <Quality>2</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies>Cercomacra tyrannina</BackgroundSpecies>
+  <Order>Passeriformes</Order>
+  <Family>Thamnophilidae</Family>
+  <Genus>Thamnophilus</Genus>
+  <Species>punctatus</Species>
+  <Sub-species>punctatus</Sub-species>
+  <VernacularNames>Northern Slaty Antshrike</VernacularNames>
+</Audio>

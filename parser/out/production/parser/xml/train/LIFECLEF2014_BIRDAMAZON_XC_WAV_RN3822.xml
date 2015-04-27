@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>3822</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN3822.wav</FileName>
+  <ClassId>obvdbc</ClassId>
+  <Date>2013-01-18</Date>
+  <Time>10:00</Time>
+  <Locality>Corredeiras do Bem Querer, Roraima</Locality>
+  <Latitude>1.9309</Latitude>
+  <Longitude>-61.0128</Longitude>
+  <Elevation>80</Elevation>
+  <Author>Eduardo D. Schultz</Author>
+  <AuthorID>QYOZQITVAC</AuthorID>
+  <Content>Drumming</Content>
+  <Comments>playback-used:no</Comments>
+  <Quality>0</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies />
+  <Order>Piciformes</Order>
+  <Family>Picidae</Family>
+  <Genus>Campephilus</Genus>
+  <Species>rubricollis</Species>
+  <Sub-species />
+  <VernacularNames>Red-necked Woodpecker</VernacularNames>
+</Audio>

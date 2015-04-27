@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>2460</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN2460.wav</FileName>
+  <ClassId>nvlywx</ClassId>
+  <Date>2012-06-00</Date>
+  <Time>16:00</Time>
+  <Locality>Xaraes</Locality>
+  <Latitude>-19.4938</Latitude>
+  <Longitude>-56.9576</Longitude>
+  <Elevation>100</Elevation>
+  <Author>David Edwards</Author>
+  <AuthorID>AFEHYCAHZR</AuthorID>
+  <Content>song</Content>
+  <Comments>playback-used:no</Comments>
+  <Quality>2</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Thamnophilidae</Family>
+  <Genus>Cercomacra</Genus>
+  <Species>melanaria</Species>
+  <Sub-species />
+  <VernacularNames>Mato Grosso Antbird</VernacularNames>
+</Audio>

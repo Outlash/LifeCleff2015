@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>11138</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN11138.wav</FileName>
+  <ClassId>rogygm</ClassId>
+  <Date>2008-10-00</Date>
+  <Time>9am</Time>
+  <Locality>Alto Ribeira State Park (PETAR),São Paulo State,Brazil</Locality>
+  <Latitude>-24.541</Latitude>
+  <Longitude>-48.713</Longitude>
+  <Elevation>500</Elevation>
+  <Author>Antonio Silveira</Author>
+  <AuthorID>NBJQSQJRYH</AuthorID>
+  <Content>song</Content>
+  <Comments />
+  <Quality>0</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Cotingidae</Family>
+  <Genus>Lipaugus</Genus>
+  <Species>lanioides</Species>
+  <Sub-species />
+  <VernacularNames>Cinnamon-vented Piha</VernacularNames>
+</Audio>

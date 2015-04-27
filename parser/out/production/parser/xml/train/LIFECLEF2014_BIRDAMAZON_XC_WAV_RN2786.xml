@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>2786</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN2786.wav</FileName>
+  <ClassId>muhjso</ClassId>
+  <Date>2001-07-07</Date>
+  <Time>12:37</Time>
+  <Locality>Reserva Ecologica Cabeccira, S of Baianopolis, Bahia</Locality>
+  <Latitude>-12.3334</Latitude>
+  <Longitude>-44.5334</Longitude>
+  <Elevation>?</Elevation>
+  <Author>Paul Donahue</Author>
+  <AuthorID>LLRXADGTBA</AuthorID>
+  <Content>song</Content>
+  <Comments />
+  <Quality>3</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Tyrannidae</Family>
+  <Genus>Lathrotriccus</Genus>
+  <Species>euleri</Species>
+  <Sub-species />
+  <VernacularNames>Euler's Flycatcher</VernacularNames>
+</Audio>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>3172</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN3172.wav</FileName>
+  <ClassId>gekxwa</ClassId>
+  <Date>2007-10-10</Date>
+  <Time>17:20</Time>
+  <Locality>Lagoa da Confusão, Tocantins State</Locality>
+  <Latitude>-8.1195</Latitude>
+  <Longitude>-49.0648</Longitude>
+  <Elevation>200</Elevation>
+  <Author>Advaldo D. Prado</Author>
+  <AuthorID>LUMSAVGFDA</AuthorID>
+  <Content>Call</Content>
+  <Comments />
+  <Quality>1</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Tyrannidae</Family>
+  <Genus>Myiarchus</Genus>
+  <Species>ferox</Species>
+  <Sub-species />
+  <VernacularNames>Short-crested Flycatcher</VernacularNames>
+</Audio>

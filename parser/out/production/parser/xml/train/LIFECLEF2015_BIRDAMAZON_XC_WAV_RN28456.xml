@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>28456</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN28456.wav</FileName>
+  <ClassId>armfvy</ClassId>
+  <Date>2008-01-27</Date>
+  <Time>09:30</Time>
+  <Locality>Hato Pinero, Cojedes</Locality>
+  <Latitude>8.9498</Latitude>
+  <Longitude>-68.0831</Longitude>
+  <Elevation>70</Elevation>
+  <Author>Daniel Lane</Author>
+  <AuthorID>WOEAFQRMUD</AuthorID>
+  <Content>call</Content>
+  <Comments>Natural calls from one bird. Bird was foraging in midstory along creekside.</Comments>
+  <Quality>1</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies>Opisthocomus hoazin,Todirostrum cinereum</BackgroundSpecies>
+  <Order>Passeriformes</Order>
+  <Family>Tyrannidae</Family>
+  <Genus>Camptostoma</Genus>
+  <Species>obsoletum</Species>
+  <Sub-species>venezuelae</Sub-species>
+  <VernacularNames>Southern Beardless Tyrannulet</VernacularNames>
+</Audio>

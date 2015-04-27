@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>3318</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN3318.wav</FileName>
+  <ClassId>uuvfxv</ClassId>
+  <Date>2009-08-01</Date>
+  <Time>8:00</Time>
+  <Locality>Campus UNEB, Alagoinhas, Bahia</Locality>
+  <Latitude>-12.1795</Latitude>
+  <Longitude>-38.4087</Longitude>
+  <Elevation>100</Elevation>
+  <Author>Sidnei S. dos Santos</Author>
+  <AuthorID>BHODJXTHGQ</AuthorID>
+  <Content>Song</Content>
+  <Comments />
+  <Quality>1</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Parulidae</Family>
+  <Genus>Myiothlypis</Genus>
+  <Species>flaveola</Species>
+  <Sub-species />
+  <VernacularNames>Flavescent Warbler</VernacularNames>
+</Audio>

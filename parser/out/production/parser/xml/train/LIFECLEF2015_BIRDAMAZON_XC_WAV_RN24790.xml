@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>24790</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN24790.wav</FileName>
+  <ClassId>loriov</ClassId>
+  <Date>2008-02-22</Date>
+  <Time>03:45</Time>
+  <Locality>crique Limonade amont, Saül</Locality>
+  <Latitude>3.5834</Latitude>
+  <Longitude>-53.2167</Longitude>
+  <Elevation>210</Elevation>
+  <Author>Olivier Claessens</Author>
+  <AuthorID>KRQYNRSSDF</AuthorID>
+  <Content>song</Content>
+  <Comments />
+  <Quality>2</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Strigiformes</Order>
+  <Family>Strigidae</Family>
+  <Genus>Pulsatrix</Genus>
+  <Species>perspicillata</Species>
+  <Sub-species />
+  <VernacularNames>Spectacled Owl</VernacularNames>
+</Audio>

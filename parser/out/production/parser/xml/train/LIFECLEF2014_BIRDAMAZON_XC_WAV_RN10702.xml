@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>10702</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN10702.wav</FileName>
+  <ClassId>gaigws</ClassId>
+  <Date>2007-04-28</Date>
+  <Time>16:00</Time>
+  <Locality>Tucuruí dam, right margin of the lake, state of Pará</Locality>
+  <Latitude>-4.2327</Latitude>
+  <Longitude>-49.41194</Longitude>
+  <Elevation>70</Elevation>
+  <Author>Sidnei de Melo Dantas</Author>
+  <AuthorID>NNCKQMBGPH</AuthorID>
+  <Content>call (female), song</Content>
+  <Comments>undergrowth, in forest.</Comments>
+  <Quality>3</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies>Phaethornis ruber,Cercomacra cinerascens</BackgroundSpecies>
+  <Order>Passeriformes</Order>
+  <Family>Cardinalidae</Family>
+  <Genus>Granatellus</Genus>
+  <Species>pelzelni</Species>
+  <Sub-species />
+  <VernacularNames>Rose-breasted Chat</VernacularNames>
+</Audio>

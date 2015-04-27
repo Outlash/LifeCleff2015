@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>1122</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN1122.wav</FileName>
+  <ClassId>qnjjng</ClassId>
+  <Date>2003-04-10</Date>
+  <Time>17:34</Time>
+  <Locality>Pousada Thaimaçu. Rio São Benedito</Locality>
+  <Latitude>-9.0501</Latitude>
+  <Longitude>-56.5834</Longitude>
+  <Elevation>250</Elevation>
+  <Author>Jeremy Minns</Author>
+  <AuthorID>DGVLLRYDXS</AuthorID>
+  <Content>Male and female songs</Content>
+  <Comments>In vegetation beside lagoon in terra firme forest.</Comments>
+  <Quality>1</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Thamnophilidae</Family>
+  <Genus>Cercomacra</Genus>
+  <Species>nigrescens</Species>
+  <Sub-species>ochrogyna</Sub-species>
+  <VernacularNames>Blackish Antbird</VernacularNames>
+</Audio>

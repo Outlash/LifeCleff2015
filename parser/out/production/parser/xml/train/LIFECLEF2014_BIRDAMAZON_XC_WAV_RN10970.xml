@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>10970</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN10970.wav</FileName>
+  <ClassId>npugir</ClassId>
+  <Date>2005-12-09</Date>
+  <Time>7:30</Time>
+  <Locality>Carlos Botelho State Park, Sao Paulo state</Locality>
+  <Latitude>-24.1937</Latitude>
+  <Longitude>-47.9185</Longitude>
+  <Elevation>70</Elevation>
+  <Author>Bob Planqué</Author>
+  <AuthorID>OH38YHKJBS</AuthorID>
+  <Content>call</Content>
+  <Comments>just missed the song</Comments>
+  <Quality>2</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies>Anabazenops fuscus,Myiothlypis rivularis</BackgroundSpecies>
+  <Order>Passeriformes</Order>
+  <Family>Rhinocryptidae</Family>
+  <Genus>Merulaxis</Genus>
+  <Species>ater</Species>
+  <Sub-species />
+  <VernacularNames>Slaty Bristlefront</VernacularNames>
+</Audio>

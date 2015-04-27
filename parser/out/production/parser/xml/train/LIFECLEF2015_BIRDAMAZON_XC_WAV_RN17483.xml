@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>17483</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN17483.wav</FileName>
+  <ClassId>vtxzdv</ClassId>
+  <Date>2009-01-00</Date>
+  <Time>?:?</Time>
+  <Locality>Azulita road - la Bravera</Locality>
+  <Latitude>NULL</Latitude>
+  <Longitude>NULL</Longitude>
+  <Elevation>2300</Elevation>
+  <Author>Joe Klaiber</Author>
+  <AuthorID>TNPOVFLZMY</AuthorID>
+  <Content>song</Content>
+  <Comments>link:http://www.birds-venezuela.de</Comments>
+  <Quality>3</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Strigiformes</Order>
+  <Family>Strigidae</Family>
+  <Genus>Strix</Genus>
+  <Species>albitarsis</Species>
+  <Sub-species />
+  <VernacularNames>Rufous-banded Owl</VernacularNames>
+</Audio>

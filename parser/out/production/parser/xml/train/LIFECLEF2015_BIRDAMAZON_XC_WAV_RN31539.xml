@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>31539</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN31539.wav</FileName>
+  <ClassId>wstttv</ClassId>
+  <Date>2007-06-14</Date>
+  <Time>?:?</Time>
+  <Locality>RNA Arrierito Antioqueno, Anori, Antioquia</Locality>
+  <Latitude>6.9862</Latitude>
+  <Longitude>-75.1251</Longitude>
+  <Elevation>1750</Elevation>
+  <Author>Frank Lambert</Author>
+  <AuthorID>YTUXOCTUEM</AuthorID>
+  <Content>display</Content>
+  <Comments>two sets of phrases on this tape, that seem to be identical!  first after 2s, next after 57s</Comments>
+  <Quality>3</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Icteridae</Family>
+  <Genus>Hypopyrrhus</Genus>
+  <Species>pyrohypogaster</Species>
+  <Sub-species />
+  <VernacularNames>Red-bellied Grackle</VernacularNames>
+</Audio>

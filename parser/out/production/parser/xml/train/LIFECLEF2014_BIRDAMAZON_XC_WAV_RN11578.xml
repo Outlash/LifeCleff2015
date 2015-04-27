@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>11578</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN11578.wav</FileName>
+  <ClassId>npugir</ClassId>
+  <Date>2011-09-24</Date>
+  <Time>08:30</Time>
+  <Locality>Estação Ecológica Juréia-Itatins, Peruíbe,São Paulo -SP</Locality>
+  <Latitude>NULL</Latitude>
+  <Longitude>NULL</Longitude>
+  <Elevation>10m</Elevation>
+  <Author>Antonio Silveira</Author>
+  <AuthorID>NBJQSQJRYH</AuthorID>
+  <Content>call, song</Content>
+  <Comments />
+  <Quality>2</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Rhinocryptidae</Family>
+  <Genus>Merulaxis</Genus>
+  <Species>ater</Species>
+  <Sub-species />
+  <VernacularNames>Slaty Bristlefront</VernacularNames>
+</Audio>

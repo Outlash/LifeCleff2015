@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>32046</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN32046.wav</FileName>
+  <ClassId>rthdxq</ClassId>
+  <Date>2012-06-15</Date>
+  <Time>10:32</Time>
+  <Locality>Doutor Pedrinho, Santa Catarina</Locality>
+  <Latitude>-26.7144</Latitude>
+  <Longitude>-49.4833</Longitude>
+  <Elevation>550</Elevation>
+  <Author>Douglas Meyer</Author>
+  <AuthorID>MNENFHYTAE</AuthorID>
+  <Content>song</Content>
+  <Comments>bird-seen:yesplayback-used:no</Comments>
+  <Quality>0</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Motacillidae</Family>
+  <Genus>Anthus</Genus>
+  <Species>lutescens</Species>
+  <Sub-species />
+  <VernacularNames>Yellowish Pipit</VernacularNames>
+</Audio>

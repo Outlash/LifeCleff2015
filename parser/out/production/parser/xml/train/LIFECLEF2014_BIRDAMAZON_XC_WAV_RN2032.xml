@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>2032</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN2032.wav</FileName>
+  <ClassId>cxyhrl</ClassId>
+  <Date>2001-03-14</Date>
+  <Time>06:23</Time>
+  <Locality>Conceicao de Ibitipoca</Locality>
+  <Latitude>-21.7001</Latitude>
+  <Longitude>-43.8834</Longitude>
+  <Elevation>1200</Elevation>
+  <Author>Jeremy Minns</Author>
+  <AuthorID>DGVLLRYDXS</AuthorID>
+  <Content>flight call</Content>
+  <Comments>Patch of forest surrounded by farmland. Calls of a flock of at least 100 birds moving up a valley, presumably from their roosting site. The flock would stop in some trees for a while and then move on, in a fairly tight group.</Comments>
+  <Quality>2</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Icteridae</Family>
+  <Genus>Psarocolius</Genus>
+  <Species>decumanus</Species>
+  <Sub-species>maculosus</Sub-species>
+  <VernacularNames>Crested Oropendola</VernacularNames>
+</Audio>

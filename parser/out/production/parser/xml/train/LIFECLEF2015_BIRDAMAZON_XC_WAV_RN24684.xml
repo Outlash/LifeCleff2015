@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>24684</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN24684.wav</FileName>
+  <ClassId>smnliu</ClassId>
+  <Date>2013-03-01</Date>
+  <Time>09:00</Time>
+  <Locality>Salvador do Sul, Rio Grande do Sul</Locality>
+  <Latitude>-29.4391</Latitude>
+  <Longitude>-51.5082</Longitude>
+  <Elevation>500</Elevation>
+  <Author>João Antônio de B. Vitto</Author>
+  <AuthorID>RIVNLYTULO</AuthorID>
+  <Content>call</Content>
+  <Comments>bird-seen:yesplayback-used:no</Comments>
+  <Quality>0</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Tityridae</Family>
+  <Genus>Tityra</Genus>
+  <Species>cayana</Species>
+  <Sub-species />
+  <VernacularNames>Black-tailed Tityra</VernacularNames>
+</Audio>

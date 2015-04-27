@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>28384</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN28384.wav</FileName>
+  <ClassId>runaut</ClassId>
+  <Date>2007-01-00</Date>
+  <Time>xx:xx</Time>
+  <Locality>La Lana, San Pedro de los Milagros, Antioquia</Locality>
+  <Latitude>6.4495</Latitude>
+  <Longitude>-75.5942</Longitude>
+  <Elevation>2750</Elevation>
+  <Author>Thomas Donegan</Author>
+  <AuthorID>OXSIOLJJUP</AuthorID>
+  <Content>call, trill</Content>
+  <Comments />
+  <Quality>2</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Furnariidae</Family>
+  <Genus>Synallaxis</Genus>
+  <Species>azarae</Species>
+  <Sub-species />
+  <VernacularNames>Azara's Spinetail</VernacularNames>
+</Audio>

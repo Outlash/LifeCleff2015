@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>23510</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN23510.wav</FileName>
+  <ClassId>njvtdj</ClassId>
+  <Date>2007-05-23</Date>
+  <Time>??:??</Time>
+  <Locality>Ibague, Tolima</Locality>
+  <Latitude>4.43889</Latitude>
+  <Longitude>-75.23222</Longitude>
+  <Elevation>1900</Elevation>
+  <Author>Frank Lambert</Author>
+  <AuthorID>YTUXOCTUEM</AuthorID>
+  <Content>song</Content>
+  <Comments>just north of town</Comments>
+  <Quality>2</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Coraciiformes</Order>
+  <Family>Momotidae</Family>
+  <Genus>Momotus</Genus>
+  <Species>aequatorialis</Species>
+  <Sub-species>aequatorialis</Sub-species>
+  <VernacularNames>Andean Motmot</VernacularNames>
+</Audio>

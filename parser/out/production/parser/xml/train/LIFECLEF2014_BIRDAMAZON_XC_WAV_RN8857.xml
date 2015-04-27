@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>8857</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN8857.wav</FileName>
+  <ClassId>oxhigs</ClassId>
+  <Date>2008-11-02</Date>
+  <Time>11:10</Time>
+  <Locality>Km 04 - Laurentino - Santa Catarina</Locality>
+  <Latitude>-27.2176</Latitude>
+  <Longitude>-49.7173</Longitude>
+  <Elevation>350</Elevation>
+  <Author>www.aapimentao.com.br</Author>
+  <AuthorID>VVQBELMRMH</AuthorID>
+  <Content>?</Content>
+  <Comments />
+  <Quality>0</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies />
+  <Order>Cuculiformes</Order>
+  <Family>Cuculidae</Family>
+  <Genus>Crotophaga</Genus>
+  <Species>ani</Species>
+  <Sub-species />
+  <VernacularNames>Smooth-billed Ani</VernacularNames>
+</Audio>

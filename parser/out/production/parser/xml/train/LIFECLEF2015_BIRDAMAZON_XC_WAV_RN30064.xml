@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>30064</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN30064.wav</FileName>
+  <ClassId>ovfpsf</ClassId>
+  <Date>2008-02-09</Date>
+  <Time>17:05</Time>
+  <Locality>Jardin, Antioquia</Locality>
+  <Latitude>5.736243</Latitude>
+  <Longitude>-75.86608</Longitude>
+  <Elevation>2800</Elevation>
+  <Author>Herman van Oosten</Author>
+  <AuthorID>SNUDCZVUQK</AuthorID>
+  <Content>flight call</Content>
+  <Comments>This is a part of the big flock (200birds!).</Comments>
+  <Quality>2</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Psittaciformes</Order>
+  <Family>Psittacidae</Family>
+  <Genus>Ognorhynchus</Genus>
+  <Species>icterotis</Species>
+  <Sub-species />
+  <VernacularNames>Yellow-eared Parrot</VernacularNames>
+</Audio>

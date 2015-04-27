@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>25403</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN25403.wav</FileName>
+  <ClassId>edquox</ClassId>
+  <Date>1998-06-09</Date>
+  <Time>12:15</Time>
+  <Locality>Finca La Carbonera (canon del rio Toche), Tolima</Locality>
+  <Latitude>NULL</Latitude>
+  <Longitude>NULL</Longitude>
+  <Elevation>2800</Elevation>
+  <Author>Bernabe Lopez-Lanus</Author>
+  <AuthorID>BYLLSJRVDZ</AuthorID>
+  <Content>Call</Content>
+  <Comments />
+  <Quality>3</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Tyrannidae</Family>
+  <Genus>Ochthoeca</Genus>
+  <Species>cinnamomeiventris</Species>
+  <Sub-species />
+  <VernacularNames>Slaty-backed Chat-Tyrant</VernacularNames>
+</Audio>

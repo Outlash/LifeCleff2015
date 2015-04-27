@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>18190</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN18190.wav</FileName>
+  <ClassId>gupevx</ClassId>
+  <Date>2013-10-15</Date>
+  <Time>10:46</Time>
+  <Locality>Antioquia: Medellín botanical garden, 6.271, -75.564</Locality>
+  <Latitude>6.271</Latitude>
+  <Longitude>-75.564</Longitude>
+  <Elevation>1500</Elevation>
+  <Author>Danny Zapata-Henao</Author>
+  <AuthorID>AHYWLCEJLP</AuthorID>
+  <Content>call</Content>
+  <Comments>bird-seen:yesplayback-used:no</Comments>
+  <Quality>0</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Psittaciformes</Order>
+  <Family>Psittacidae</Family>
+  <Genus>Brotogeris</Genus>
+  <Species>jugularis</Species>
+  <Sub-species />
+  <VernacularNames>Orange-chinned Parakeet</VernacularNames>
+</Audio>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>8461</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN8461.wav</FileName>
+  <ClassId>pndtuh</ClassId>
+  <Date>2011-07-24</Date>
+  <Time>08:30</Time>
+  <Locality>Microregion of Caraguatatuba, São Paulo</Locality>
+  <Latitude>-23.5897</Latitude>
+  <Longitude>-45.4251</Longitude>
+  <Elevation>130</Elevation>
+  <Author>Rodrigo Dela Rosa de Souza</Author>
+  <AuthorID>VGXDJMKETZ</AuthorID>
+  <Content>male, song</Content>
+  <Comments>bird-seen:yesplayback-used:no</Comments>
+  <Quality>3</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies />
+  <Order>Apodiformes</Order>
+  <Family>Trochilidae</Family>
+  <Genus>Phaethornis</Genus>
+  <Species>ruber</Species>
+  <Sub-species />
+  <VernacularNames>Reddish Hermit</VernacularNames>
+</Audio>

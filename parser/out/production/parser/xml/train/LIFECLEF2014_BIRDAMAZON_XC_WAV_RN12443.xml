@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>12443</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN12443.wav</FileName>
+  <ClassId>pnosvx</ClassId>
+  <Date>2008-11-22</Date>
+  <Time>07:40</Time>
+  <Locality>Bairro do Jaceguava, São Paulo, SP</Locality>
+  <Latitude>-23.752501</Latitude>
+  <Longitude>-46.735334</Longitude>
+  <Elevation>755</Elevation>
+  <Author>Marcos Melo</Author>
+  <AuthorID>MRGDYNJGUJ</AuthorID>
+  <Content>song</Content>
+  <Comments />
+  <Quality>2</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies>Basileuterus culicivorus</BackgroundSpecies>
+  <Order>Columbiformes</Order>
+  <Family>Columbidae</Family>
+  <Genus>Geotrygon</Genus>
+  <Species>montana</Species>
+  <Sub-species />
+  <VernacularNames>Ruddy Quail-Dove</VernacularNames>
+</Audio>

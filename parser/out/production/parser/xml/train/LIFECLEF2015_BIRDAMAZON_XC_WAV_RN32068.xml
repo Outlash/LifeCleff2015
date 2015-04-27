@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>32068</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN32068.wav</FileName>
+  <ClassId>dtjwwt</ClassId>
+  <Date>2008-02-09</Date>
+  <Time>07:20</Time>
+  <Locality>Jardin, Antioquia</Locality>
+  <Latitude>5.736243</Latitude>
+  <Longitude>-75.86608</Longitude>
+  <Elevation>2500</Elevation>
+  <Author>Herman van Oosten</Author>
+  <AuthorID>SNUDCZVUQK</AuthorID>
+  <Content>Song</Content>
+  <Comments>Probably no playback yet, same bird, just a bit closer. Marvellous, of course!</Comments>
+  <Quality>1</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Rhinocryptidae</Family>
+  <Genus>Acropternis</Genus>
+  <Species>orthonyx</Species>
+  <Sub-species />
+  <VernacularNames>Ocellated Tapaculo</VernacularNames>
+</Audio>

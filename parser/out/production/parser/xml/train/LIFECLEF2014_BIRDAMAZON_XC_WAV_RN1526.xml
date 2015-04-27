@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>1526</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN1526.wav</FileName>
+  <ClassId>ppearp</ClassId>
+  <Date>2010-10-08</Date>
+  <Time>06:09</Time>
+  <Locality>Paragominas, PA, Brazil, Bacia 245</Locality>
+  <Latitude>-3.1253</Latitude>
+  <Longitude>-46.8456</Longitude>
+  <Elevation>?</Elevation>
+  <Author>Nargila Moura</Author>
+  <AuthorID>CWEIBYBYYD</AuthorID>
+  <Content>song</Content>
+  <Comments>overgrown cattle pasture</Comments>
+  <Quality>3</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies>Amazona amazonica,Tapera naevia,Troglodytes aedon</BackgroundSpecies>
+  <Order>Passeriformes</Order>
+  <Family>Tyrannidae</Family>
+  <Genus>Tolmomyias</Genus>
+  <Species>flaviventris</Species>
+  <Sub-species>flaviventris</Sub-species>
+  <VernacularNames>Ochre-lored Flatbill</VernacularNames>
+</Audio>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>27703</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN27703.wav</FileName>
+  <ClassId>swkumm</ClassId>
+  <Date>2012-01-15</Date>
+  <Time>08:00</Time>
+  <Locality>San Francisco, Vereda El Peñon (Cundinarma)</Locality>
+  <Latitude>5.013</Latitude>
+  <Longitude>-74.244</Longitude>
+  <Elevation>1500</Elevation>
+  <Author>Oswaldo Cortes</Author>
+  <AuthorID>VVDRVZCVWW</AuthorID>
+  <Content>song</Content>
+  <Comments />
+  <Quality>3</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Thraupidae</Family>
+  <Genus>Rhodinocichla</Genus>
+  <Species>rosea</Species>
+  <Sub-species />
+  <VernacularNames>Rosy Thrush-Tanager</VernacularNames>
+</Audio>

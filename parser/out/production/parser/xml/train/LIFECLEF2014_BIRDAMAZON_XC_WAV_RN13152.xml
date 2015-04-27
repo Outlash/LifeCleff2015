@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>13152</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN13152.wav</FileName>
+  <ClassId>myvkag</ClassId>
+  <Date>2009-10-09</Date>
+  <Time>09:00</Time>
+  <Locality>Tocantins</Locality>
+  <Latitude>-12.6162</Latitude>
+  <Longitude>-47.8836</Longitude>
+  <Elevation>280</Elevation>
+  <Author>GABRIEL LEITE</Author>
+  <AuthorID>TGBFXDVERJ</AuthorID>
+  <Content>song</Content>
+  <Comments>bird-seen:yesplayback-used:no</Comments>
+  <Quality>2</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies />
+  <Order>Falconiformes</Order>
+  <Family>Falconidae</Family>
+  <Genus>Ibycter</Genus>
+  <Species>americanus</Species>
+  <Sub-species />
+  <VernacularNames>Red-throated Caracara</VernacularNames>
+</Audio>

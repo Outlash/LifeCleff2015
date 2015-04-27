@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>31055</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN31055.wav</FileName>
+  <ClassId>jbyowy</ClassId>
+  <Date>2009-09-22</Date>
+  <Time>05:30</Time>
+  <Locality>Cristalino Jungle Lodge, MT</Locality>
+  <Latitude>-9.5981</Latitude>
+  <Longitude>-55.932</Longitude>
+  <Elevation>250</Elevation>
+  <Author>Andrew Spencer</Author>
+  <AuthorID>CDTGHVBGZP</AuthorID>
+  <Content>call</Content>
+  <Comments />
+  <Quality>1</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Thraupidae</Family>
+  <Genus>Lamprospiza</Genus>
+  <Species>melanoleuca</Species>
+  <Sub-species />
+  <VernacularNames>Red-billed Pied Tanager</VernacularNames>
+</Audio>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>7310</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN7310.wav</FileName>
+  <ClassId>tsxwwl</ClassId>
+  <Date>2000-04-06</Date>
+  <Time>08:07</Time>
+  <Locality>Boraceia Biological Station, SP state</Locality>
+  <Latitude>-23.6334</Latitude>
+  <Longitude>-45.8667</Longitude>
+  <Elevation>825</Elevation>
+  <Author>Jeremy Minns</Author>
+  <AuthorID>DGVLLRYDXS</AuthorID>
+  <Content>Call</Content>
+  <Comments>Montane forest. The loud calls are by the male. This is Call B in our DVD-ROM 'Birds of Brazil'. The female gave a few quiet calls in the background.</Comments>
+  <Quality>1</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies>Rhopias gularis,Philydor atricapillus</BackgroundSpecies>
+  <Order>Passeriformes</Order>
+  <Family>Thamnophilidae</Family>
+  <Genus>Myrmeciza</Genus>
+  <Species>squamosa</Species>
+  <Sub-species />
+  <VernacularNames>Squamate Antbird</VernacularNames>
+</Audio>

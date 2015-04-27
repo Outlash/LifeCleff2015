@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>31421</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN31421.wav</FileName>
+  <ClassId>uzzjrh</ClassId>
+  <Date>2012-01-19</Date>
+  <Time>16:00</Time>
+  <Locality>Imbuia, Santa Catarina</Locality>
+  <Latitude>-27.5056</Latitude>
+  <Longitude>-49.4116</Longitude>
+  <Elevation>750</Elevation>
+  <Author>Douglas Meyer</Author>
+  <AuthorID>MNENFHYTAE</AuthorID>
+  <Content>song</Content>
+  <Comments>bird-seen:yesplayback-used:no</Comments>
+  <Quality>0</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Tyrannidae</Family>
+  <Genus>Myiarchus</Genus>
+  <Species>swainsoni</Species>
+  <Sub-species />
+  <VernacularNames>Swainson's Flycatcher</VernacularNames>
+</Audio>

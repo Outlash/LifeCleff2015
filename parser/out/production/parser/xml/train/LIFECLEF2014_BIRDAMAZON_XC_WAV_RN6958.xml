@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>6958</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN6958.wav</FileName>
+  <ClassId>lwzquk</ClassId>
+  <Date>2011-11-25</Date>
+  <Time>11:00</Time>
+  <Locality>Reserva Ecológica de Guapi Açu (REGUA), RJ</Locality>
+  <Latitude>-22.4508</Latitude>
+  <Longitude>-42.7735</Longitude>
+  <Elevation>300</Elevation>
+  <Author>Eric DeFonso</Author>
+  <AuthorID>KTLCZCRCQX</AuthorID>
+  <Content>song</Content>
+  <Comments>Extended cut. Recorded from the Green Trail that heads into the higher hills of the reserve.bird-seen:noplayback-used:no</Comments>
+  <Quality>2</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Tyrannidae</Family>
+  <Genus>Mionectes</Genus>
+  <Species>rufiventris</Species>
+  <Sub-species />
+  <VernacularNames>Grey-hooded Flycatcher</VernacularNames>
+</Audio>

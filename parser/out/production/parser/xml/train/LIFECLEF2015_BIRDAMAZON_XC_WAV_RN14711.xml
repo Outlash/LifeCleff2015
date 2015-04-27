@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>14711</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN14711.wav</FileName>
+  <ClassId>ekarsb</ClassId>
+  <Date>2014-03-18</Date>
+  <Time>09:30</Time>
+  <Locality>Chupinguaia, Rondônia</Locality>
+  <Latitude>-12.2417</Latitude>
+  <Longitude>-60.7141</Longitude>
+  <Elevation>340</Elevation>
+  <Author>GABRIEL LEITE</Author>
+  <AuthorID>TGBFXDVERJ</AuthorID>
+  <Content>male, song</Content>
+  <Comments>bird-seen:yesplayback-used:no</Comments>
+  <Quality>1</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Thamnophilidae</Family>
+  <Genus>Myrmoborus</Genus>
+  <Species>myotherinus</Species>
+  <Sub-species />
+  <VernacularNames>Black-faced Antbird</VernacularNames>
+</Audio>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>24283</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN24283.wav</FileName>
+  <ClassId>wvxyjw</ClassId>
+  <Date>2007-12-02</Date>
+  <Time>11:15</Time>
+  <Locality>Parque Regional Barbas-Bremen, Filandia, Quindio. Sector Barbas</Locality>
+  <Latitude>4.6717</Latitude>
+  <Longitude>-75.6283</Longitude>
+  <Elevation>1900</Elevation>
+  <Author>Oscar Humberto Marin-Gomez</Author>
+  <AuthorID>CSUHASNRSU</AuthorID>
+  <Content>call, female, male</Content>
+  <Comments>OHM12B 0628. En bandada mixta en doselbird-seen:yesplayback-used:no</Comments>
+  <Quality>3</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Fringillidae</Family>
+  <Genus>Euphonia</Genus>
+  <Species>xanthogaster</Species>
+  <Sub-species />
+  <VernacularNames>Orange-bellied Euphonia</VernacularNames>
+</Audio>

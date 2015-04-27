@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>9450</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN9450.wav</FileName>
+  <ClassId>cuwfkj</ClassId>
+  <Date>2012-09-25</Date>
+  <Time>07:10</Time>
+  <Locality>Left bank Tocantins river, Porto Nacional - TO</Locality>
+  <Latitude>-10.102</Latitude>
+  <Longitude>-48.444</Longitude>
+  <Elevation>266</Elevation>
+  <Author>Marcelo Barbosa</Author>
+  <AuthorID>PRUNXYYZTR</AuthorID>
+  <Content>song</Content>
+  <Comments>Submitted to AO 2012. Recorded in white land forest (campinarana).bird-seen:yesplayback-used:yes</Comments>
+  <Quality>1</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Thamnophilidae</Family>
+  <Genus>Herpsilochmus</Genus>
+  <Species>sellowi</Species>
+  <Sub-species />
+  <VernacularNames>Caatinga Antwren</VernacularNames>
+</Audio>

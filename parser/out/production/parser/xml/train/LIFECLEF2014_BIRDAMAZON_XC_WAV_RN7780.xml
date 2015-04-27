@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>7780</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN7780.wav</FileName>
+  <ClassId>jeufbl</ClassId>
+  <Date>2000-01-11</Date>
+  <Time>07:49</Time>
+  <Locality>Aquidauana</Locality>
+  <Latitude>-20.4834</Latitude>
+  <Longitude>-55.8167</Longitude>
+  <Elevation>174</Elevation>
+  <Author>Jeremy Minns</Author>
+  <AuthorID>DGVLLRYDXS</AuthorID>
+  <Content>call</Content>
+  <Comments>Scattered clumps of bushes with short grass between. These are calls A and C in our DVD-ROM 'Birds of Brazil'.</Comments>
+  <Quality>2</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies>Crypturellus undulatus,Cnemotriccus fuscatus,Turdus amaurochalinus</BackgroundSpecies>
+  <Order>Passeriformes</Order>
+  <Family>Tyrannidae</Family>
+  <Genus>Elaenia</Genus>
+  <Species>spectabilis</Species>
+  <Sub-species />
+  <VernacularNames>Large Elaenia</VernacularNames>
+</Audio>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>31858</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN31858.wav</FileName>
+  <ClassId>qzskxq</ClassId>
+  <Date>2011-06-12</Date>
+  <Time>08:00</Time>
+  <Locality>Trinidad, Casanare</Locality>
+  <Latitude>5.408</Latitude>
+  <Longitude>-71.672</Longitude>
+  <Elevation>300</Elevation>
+  <Author>Oswaldo Cortes</Author>
+  <AuthorID>VVDRVZCVWW</AuthorID>
+  <Content>song</Content>
+  <Comments />
+  <Quality>4</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Galliformes</Order>
+  <Family>Cracidae</Family>
+  <Genus>Ortalis</Genus>
+  <Species>guttata</Species>
+  <Sub-species />
+  <VernacularNames>Speckled Chachalaca</VernacularNames>
+</Audio>

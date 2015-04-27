@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>21753</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN21753.wav</FileName>
+  <ClassId>dykocx</ClassId>
+  <Date>2010-10-02</Date>
+  <Time>11:00</Time>
+  <Locality>Banhado-São José dos Campos</Locality>
+  <Latitude>-23.1334</Latitude>
+  <Longitude>-45.7834</Longitude>
+  <Elevation>550</Elevation>
+  <Author>Rodrigo Dela Rosa</Author>
+  <AuthorID>VGXDJMKETZ</AuthorID>
+  <Content>female, male, song</Content>
+  <Comments>bird-seen:noplayback-used:yes</Comments>
+  <Quality>2</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Gruiformes</Order>
+  <Family>Rallidae</Family>
+  <Genus>Laterallus</Genus>
+  <Species>melanophaius</Species>
+  <Sub-species />
+  <VernacularNames>Rufous-sided Crake</VernacularNames>
+</Audio>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>19892</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN19892.wav</FileName>
+  <ClassId>alouyq</ClassId>
+  <Date>2006-08-23</Date>
+  <Time>8:00a</Time>
+  <Locality>Reserva Ibanasca, Ibagué -Tolima</Locality>
+  <Latitude>NULL</Latitude>
+  <Longitude>NULL</Longitude>
+  <Elevation>2400</Elevation>
+  <Author>Miguel Moreno-P.</Author>
+  <AuthorID>FMOJAAHGLC</AuthorID>
+  <Content>Song</Content>
+  <Comments />
+  <Quality>2</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Thamnophilidae</Family>
+  <Genus>Drymophila</Genus>
+  <Species>striaticeps</Species>
+  <Sub-species />
+  <VernacularNames>Streak-headed Antbird</VernacularNames>
+</Audio>

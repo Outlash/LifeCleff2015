@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>19934</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN19934.wav</FileName>
+  <ClassId>qupvvy</ClassId>
+  <Date>2003-05-24</Date>
+  <Time>xx:xx</Time>
+  <Locality>Humedal Laguna del Neuta, Soacha, Cundinamarca</Locality>
+  <Latitude>NULL</Latitude>
+  <Longitude>NULL</Longitude>
+  <Elevation>2600</Elevation>
+  <Author>Bernabe Lopez-Lanus</Author>
+  <AuthorID>BYLLSJRVDZ</AuthorID>
+  <Content>Call</Content>
+  <Comments />
+  <Quality>2</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Gruiformes</Order>
+  <Family>Rallidae</Family>
+  <Genus>Fulica</Genus>
+  <Species>americana</Species>
+  <Sub-species />
+  <VernacularNames>American Coot</VernacularNames>
+</Audio>

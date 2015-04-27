@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>23840</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN23840.wav</FileName>
+  <ClassId>wbchba</ClassId>
+  <Date>2012-11-26</Date>
+  <Time>09:30</Time>
+  <Locality>Municipio de Orocué, departamento de Casanare</Locality>
+  <Latitude>4.782</Latitude>
+  <Longitude>-71.774</Longitude>
+  <Elevation>150</Elevation>
+  <Author>Oswaldo Cortes</Author>
+  <AuthorID>VVDRVZCVWW</AuthorID>
+  <Content>song</Content>
+  <Comments />
+  <Quality>3</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Emberizidae</Family>
+  <Genus>Arremonops</Genus>
+  <Species>conirostris</Species>
+  <Sub-species />
+  <VernacularNames>Black-striped Sparrow</VernacularNames>
+</Audio>

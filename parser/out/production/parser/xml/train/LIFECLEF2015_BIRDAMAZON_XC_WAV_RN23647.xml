@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>23647</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN23647.wav</FileName>
+  <ClassId>dgocsv</ClassId>
+  <Date>2008-02-05</Date>
+  <Time>14:20</Time>
+  <Locality>El canon del Rio Claro, Antioquia</Locality>
+  <Latitude>5.8334</Latitude>
+  <Longitude>-74.8667</Longitude>
+  <Elevation>600</Elevation>
+  <Author>Herman van Oosten</Author>
+  <AuthorID>SNUDCZVUQK</AuthorID>
+  <Content>Calls of two perched birds.</Content>
+  <Comments>Two birds, a pair, doing their thing (quite close, 10m) on a telephone wire</Comments>
+  <Quality>2</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies>Legatus leucophaius</BackgroundSpecies>
+  <Order>Psittaciformes</Order>
+  <Family>Psittacidae</Family>
+  <Genus>Forpus</Genus>
+  <Species>conspicillatus</Species>
+  <Sub-species />
+  <VernacularNames>Spectacled Parrotlet</VernacularNames>
+</Audio>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>19340</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN19340.wav</FileName>
+  <ClassId>sfzdae</ClassId>
+  <Date>2008-07-21</Date>
+  <Time>06:45</Time>
+  <Locality>Sampaio, Tocantins State</Locality>
+  <Latitude>-5.3484</Latitude>
+  <Longitude>-47.8731</Longitude>
+  <Elevation>110</Elevation>
+  <Author>Advaldo D. Prado</Author>
+  <AuthorID>LUMSAVGFDA</AuthorID>
+  <Content>Call</Content>
+  <Comments />
+  <Quality>3</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Anseriformes</Order>
+  <Family>Anhimidae</Family>
+  <Genus>Anhima</Genus>
+  <Species>cornuta</Species>
+  <Sub-species />
+  <VernacularNames>Horned Screamer</VernacularNames>
+</Audio>

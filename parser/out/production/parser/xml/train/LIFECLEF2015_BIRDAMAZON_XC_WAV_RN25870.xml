@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>25870</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN25870.wav</FileName>
+  <ClassId>xpmcwb</ClassId>
+  <Date>2003-12-02</Date>
+  <Time>05:18</Time>
+  <Locality>Cristalino Jungle Lodge, MT</Locality>
+  <Latitude>-9.5981</Latitude>
+  <Longitude>-55.932</Longitude>
+  <Elevation>250</Elevation>
+  <Author>Jeremy Minns</Author>
+  <AuthorID>DGVLLRYDXS</AuthorID>
+  <Content>Call</Content>
+  <Comments>Beside track through secondary growth at edge of open area in terra firme forest. After playback of song.</Comments>
+  <Quality>3</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Furnariidae</Family>
+  <Genus>Synallaxis</Genus>
+  <Species>gujanensis</Species>
+  <Sub-species>gujanensis</Sub-species>
+  <VernacularNames>Plain-crowned Spinetail</VernacularNames>
+</Audio>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>6044</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN6044.wav</FileName>
+  <ClassId>zwxknm</ClassId>
+  <Date>2009-10-03</Date>
+  <Time>?</Time>
+  <Locality>Barra do Monte Alegre, Chapecó, Santa Catarina</Locality>
+  <Latitude>-27.2353</Latitude>
+  <Longitude>-52.5856</Longitude>
+  <Elevation>385</Elevation>
+  <Author>Adrian Eisen Rupp</Author>
+  <AuthorID>AOPMSCIDIA</AuthorID>
+  <Content>call</Content>
+  <Comments />
+  <Quality>2</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Tyrannidae</Family>
+  <Genus>Phyllomyias</Genus>
+  <Species>burmeisteri</Species>
+  <Sub-species />
+  <VernacularNames>Rough-legged Tyrannulet</VernacularNames>
+</Audio>

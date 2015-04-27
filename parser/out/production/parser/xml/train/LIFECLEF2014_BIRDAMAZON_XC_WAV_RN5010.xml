@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>5010</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN5010.wav</FileName>
+  <ClassId>obfbve</ClassId>
+  <Date>2006-05-04</Date>
+  <Time>call</Time>
+  <Locality>Region of Mutum River, Barão de Melgaço,MT</Locality>
+  <Latitude>-16.262</Latitude>
+  <Longitude>-55.834</Longitude>
+  <Elevation>135</Elevation>
+  <Author>Antonio Silveira</Author>
+  <AuthorID>NBJQSQJRYH</AuthorID>
+  <Content>song</Content>
+  <Comments>bird-seen:noplayback-used:no</Comments>
+  <Quality>2</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies />
+  <Order>Pelecaniformes</Order>
+  <Family>Ardeidae</Family>
+  <Genus>Zebrilus</Genus>
+  <Species>undulatus</Species>
+  <Sub-species />
+  <VernacularNames>Zigzag Heron</VernacularNames>
+</Audio>

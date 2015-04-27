@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>27454</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN27454.wav</FileName>
+  <ClassId>nogbsj</ClassId>
+  <Date>2012-01-06</Date>
+  <Time>09:30</Time>
+  <Locality>Folha Seca, Ubatuba, São Paulo, Brazil</Locality>
+  <Latitude>-23.462</Latitude>
+  <Longitude>-45.167</Longitude>
+  <Elevation>120</Elevation>
+  <Author>GABRIEL LEITE</Author>
+  <AuthorID>TGBFXDVERJ</AuthorID>
+  <Content>flight call</Content>
+  <Comments>bird-seen:yesplayback-used:no</Comments>
+  <Quality>2</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Thraupidae</Family>
+  <Genus>Tangara</Genus>
+  <Species>seledon</Species>
+  <Sub-species />
+  <VernacularNames>Green-headed Tanager</VernacularNames>
+</Audio>

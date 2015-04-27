@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>15704</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN15704.wav</FileName>
+  <ClassId>zdvfva</ClassId>
+  <Date>2013-01-29</Date>
+  <Time>09:30</Time>
+  <Locality>RPPN Estação Veracel, Porto Seguro, Bahia</Locality>
+  <Latitude>-16.3458</Latitude>
+  <Longitude>-39.1395</Longitude>
+  <Elevation>90</Elevation>
+  <Author>Dan Lane</Author>
+  <AuthorID>WOEAFQRMUD</AuthorID>
+  <Content>song</Content>
+  <Comments>Probably response to playback from a male (different from XC123259) from particularly low-canopied forest (about 8m) with tall ferns and palms with broken canopy of white sand forest. img:http://www.flickr.com/photos/8013969@N03/8456895926/bird-seen:yesplayback-used:yes</Comments>
+  <Quality>2</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Thamnophilidae</Family>
+  <Genus>Herpsilochmus</Genus>
+  <Species>pileatus</Species>
+  <Sub-species />
+  <VernacularNames>Bahia Antwren</VernacularNames>
+</Audio>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>28104</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN28104.wav</FileName>
+  <ClassId>hwqenp</ClassId>
+  <Date>2011-02-15</Date>
+  <Time>07:00</Time>
+  <Locality>FLONA da Ipanema, Ipero</Locality>
+  <Latitude>-23.43</Latitude>
+  <Longitude>-47.599</Longitude>
+  <Elevation>550</Elevation>
+  <Author>Fernando Igor de Godoy</Author>
+  <AuthorID>CHDHFSVVIN</AuthorID>
+  <Content>calls B</Content>
+  <Comments>FNJV 30279</Comments>
+  <Quality>3</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Thamnophilidae</Family>
+  <Genus>Dysithamnus</Genus>
+  <Species>mentalis</Species>
+  <Sub-species />
+  <VernacularNames>Plain Antvireo</VernacularNames>
+</Audio>

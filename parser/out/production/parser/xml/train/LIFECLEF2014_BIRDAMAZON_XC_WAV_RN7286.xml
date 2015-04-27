@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>7286</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN7286.wav</FileName>
+  <ClassId>inrkmj</ClassId>
+  <Date>2001-10-03</Date>
+  <Time>07:24</Time>
+  <Locality>Itanhaem. Chacaras Bopiranga</Locality>
+  <Latitude>-24.1834</Latitude>
+  <Longitude>-46.9001</Longitude>
+  <Elevation>10</Elevation>
+  <Author>Jeremy Minns</Author>
+  <AuthorID>DGVLLRYDXS</AuthorID>
+  <Content>Song</Content>
+  <Comments>Coastal white sand forest. Open area with low bushes.</Comments>
+  <Quality>1</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies>Procnias nudicollis</BackgroundSpecies>
+  <Order>Passeriformes</Order>
+  <Family>Furnariidae</Family>
+  <Genus>Synallaxis</Genus>
+  <Species>spixi</Species>
+  <Sub-species />
+  <VernacularNames>Spix's Spinetail</VernacularNames>
+</Audio>

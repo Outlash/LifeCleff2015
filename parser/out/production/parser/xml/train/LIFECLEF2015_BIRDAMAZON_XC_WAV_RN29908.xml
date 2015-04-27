@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>29908</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN29908.wav</FileName>
+  <ClassId>cnlalq</ClassId>
+  <Date>2012-07-21</Date>
+  <Time>08:09</Time>
+  <Locality>Quinchia, Departamento de Risaralda</Locality>
+  <Latitude>5.3448</Latitude>
+  <Longitude>-75.67</Longitude>
+  <Elevation>1650</Elevation>
+  <Author>Oswaldo Cortes</Author>
+  <AuthorID>VVDRVZCVWW</AuthorID>
+  <Content>call</Content>
+  <Comments />
+  <Quality>0</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Thamnophilidae</Family>
+  <Genus>Cercomacra</Genus>
+  <Species>parkeri</Species>
+  <Sub-species />
+  <VernacularNames>Parker's Antbird</VernacularNames>
+</Audio>

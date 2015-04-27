@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>983</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN983.wav</FileName>
+  <ClassId>ghwdea</ClassId>
+  <Date>2010-10-22</Date>
+  <Time>07:50</Time>
+  <Locality>Proximidades do Rio Abaeté - Município de São Gonçalo do Abaeté (MG)</Locality>
+  <Latitude>-18.09</Latitude>
+  <Longitude>-45.375</Longitude>
+  <Elevation>635</Elevation>
+  <Author>Eduardo José Gazzinelli</Author>
+  <AuthorID>ZJJHKECBJU</AuthorID>
+  <Content>Song</Content>
+  <Comments />
+  <Quality>2</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Cardinalidae</Family>
+  <Genus>Amaurospiza</Genus>
+  <Species>moesta</Species>
+  <Sub-species />
+  <VernacularNames>Blackish-blue Seedeater</VernacularNames>
+</Audio>

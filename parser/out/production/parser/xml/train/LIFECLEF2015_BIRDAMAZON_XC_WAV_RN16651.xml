@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>16651</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN16651.wav</FileName>
+  <ClassId>wyhvpw</ClassId>
+  <Date>2002-02-09</Date>
+  <Time>08:32</Time>
+  <Locality>Cavernas do Peruaçu National Park</Locality>
+  <Latitude>-15.0334</Latitude>
+  <Longitude>-44.2501</Longitude>
+  <Elevation>750</Elevation>
+  <Author>Jeremy Minns</Author>
+  <AuthorID>DGVLLRYDXS</AuthorID>
+  <Content>Calls, perched</Content>
+  <Comments>Semi-deciduous forest. Two birds in a tree on a cliff face.</Comments>
+  <Quality>2</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies>Thamnophilus pelzelni</BackgroundSpecies>
+  <Order>Psittaciformes</Order>
+  <Family>Psittacidae</Family>
+  <Genus>Aratinga</Genus>
+  <Species>auricapillus</Species>
+  <Sub-species>auricapillus</Sub-species>
+  <VernacularNames>Golden-capped Parakeet</VernacularNames>
+</Audio>

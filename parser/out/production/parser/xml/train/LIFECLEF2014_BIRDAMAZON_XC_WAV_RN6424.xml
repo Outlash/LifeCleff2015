@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>6424</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN6424.wav</FileName>
+  <ClassId>bsewbt</ClassId>
+  <Date>2000-09-05</Date>
+  <Time>16:12</Time>
+  <Locality>Parque Nacional da Amazônia</Locality>
+  <Latitude>-4.5167</Latitude>
+  <Longitude>-56.3001</Longitude>
+  <Elevation>90</Elevation>
+  <Author>Jeremy Minns</Author>
+  <AuthorID>DGVLLRYDXS</AuthorID>
+  <Content>call</Content>
+  <Comments>In dense vegetation at edge of terra firme forest. This bird was seen but I have no notes on its plumage and in any case I am not competent to distinguish between Z. gracilipes and acer visually. The tentative ID as Z. acer is based on location (Olivério Pinto has Zimmerius gracilipes acer on the left and right banks of the rio Tapajoz) and voice (in the SACC proposal to split Z. acer it appears - not explicitly, however - that the call of gracilipes in southern Amazonia is two-note, the single note call in this recording is very like the calls on XC of recordings from the eastern part of the range of the Zimmerius gracilipes / acer complex).bird-seen:yesplayback-used:no</Comments>
+  <Quality>1</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Tyrannidae</Family>
+  <Genus>Zimmerius</Genus>
+  <Species>acer</Species>
+  <Sub-species />
+  <VernacularNames>Guianan Tyrannulet</VernacularNames>
+</Audio>

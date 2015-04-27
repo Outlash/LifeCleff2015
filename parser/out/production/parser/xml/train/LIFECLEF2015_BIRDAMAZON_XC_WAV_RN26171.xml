@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>26171</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN26171.wav</FileName>
+  <ClassId>cchgxy</ClassId>
+  <Date>1998-08-15</Date>
+  <Time>13:56</Time>
+  <Locality>Alrededores de Toche, Cajamarca, Tolima</Locality>
+  <Latitude>4.5331</Latitude>
+  <Longitude>-75.4167</Longitude>
+  <Elevation>2000</Elevation>
+  <Author>Bernabe Lopez-Lanus</Author>
+  <AuthorID>BYLLSJRVDZ</AuthorID>
+  <Content>Song</Content>
+  <Comments />
+  <Quality>3</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Hirundinidae</Family>
+  <Genus>Notiochelidon</Genus>
+  <Species>cyanoleuca</Species>
+  <Sub-species>cyanoleuca</Sub-species>
+  <VernacularNames>Blue-and-white Swallow</VernacularNames>
+</Audio>

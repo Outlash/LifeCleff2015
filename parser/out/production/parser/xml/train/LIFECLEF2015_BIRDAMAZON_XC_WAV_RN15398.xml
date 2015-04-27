@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>15398</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN15398.wav</FileName>
+  <ClassId>alouyq</ClassId>
+  <Date>2007-06-27</Date>
+  <Time>?</Time>
+  <Locality>RNA El Colibrí del Sol, Páramo de Frontino, Antioquia</Locality>
+  <Latitude>6.4381</Latitude>
+  <Longitude>-76.0884</Longitude>
+  <Elevation>2800</Elevation>
+  <Author>Frank Lambert</Author>
+  <AuthorID>YTUXOCTUEM</AuthorID>
+  <Content>song</Content>
+  <Comments>response to playback of its own call</Comments>
+  <Quality>2</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Thamnophilidae</Family>
+  <Genus>Drymophila</Genus>
+  <Species>striaticeps</Species>
+  <Sub-species />
+  <VernacularNames>Streak-headed Antbird</VernacularNames>
+</Audio>

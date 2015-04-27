@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>19162</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN19162.wav</FileName>
+  <ClassId>qpxgvo</ClassId>
+  <Date>2013-03-09</Date>
+  <Time>06:30</Time>
+  <Locality>Ribeiro Gonçalves, state of Piauí</Locality>
+  <Latitude>-7.5834</Latitude>
+  <Longitude>-45.1167</Longitude>
+  <Elevation>400</Elevation>
+  <Author>Eduardo D. Schultz</Author>
+  <AuthorID>QYOZQITVAC</AuthorID>
+  <Content>song</Content>
+  <Comments>bird-seen:yesplayback-used:no</Comments>
+  <Quality>0</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Tyrannidae</Family>
+  <Genus>Hemitriccus</Genus>
+  <Species>margaritaceiventer</Species>
+  <Sub-species />
+  <VernacularNames>Pearly-vented Tody-Tyrant</VernacularNames>
+</Audio>

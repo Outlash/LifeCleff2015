@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>13221</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN13221.wav</FileName>
+  <ClassId>ewisum</ClassId>
+  <Date>1992-07-00</Date>
+  <Time>11am</Time>
+  <Locality>Araçoiaba da Serra,São Paulo State</Locality>
+  <Latitude>-23.512</Latitude>
+  <Longitude>-47.637</Longitude>
+  <Elevation>650</Elevation>
+  <Author>Antonio Silveira</Author>
+  <AuthorID>NBJQSQJRYH</AuthorID>
+  <Content>song</Content>
+  <Comments />
+  <Quality>2</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Parulidae</Family>
+  <Genus>Basileuterus</Genus>
+  <Species>culicivorus</Species>
+  <Sub-species>hypoleucus</Sub-species>
+  <VernacularNames>Golden-crowned Warbler</VernacularNames>
+</Audio>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>9091</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN9091.wav</FileName>
+  <ClassId>psfsos</ClassId>
+  <Date>2010-10-01</Date>
+  <Time>11:02</Time>
+  <Locality>PN da Amazônia, PA</Locality>
+  <Latitude>-4.555</Latitude>
+  <Longitude>-56.308</Longitude>
+  <Elevation>90</Elevation>
+  <Author>Bradley Davis</Author>
+  <AuthorID>YNXJLOESBB</AuthorID>
+  <Content>call</Content>
+  <Comments>Snarls from a male attending an antswarm.</Comments>
+  <Quality>2</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Thamnophilidae</Family>
+  <Genus>Willisornis</Genus>
+  <Species>vidua</Species>
+  <Sub-species>nigrigula</Sub-species>
+  <VernacularNames>Xingu Scale-backed Antbird</VernacularNames>
+</Audio>

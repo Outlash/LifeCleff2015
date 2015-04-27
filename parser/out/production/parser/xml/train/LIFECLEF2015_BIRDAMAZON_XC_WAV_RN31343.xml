@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>31343</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN31343.wav</FileName>
+  <ClassId>objnpr</ClassId>
+  <Date>2010-09-22</Date>
+  <Time>?</Time>
+  <Locality>Régina, grande Montagne tortue Bélizon</Locality>
+  <Latitude>4.31667</Latitude>
+  <Longitude>-52.1333</Longitude>
+  <Elevation>250</Elevation>
+  <Author>Alexandre Renaudier</Author>
+  <AuthorID>GKADEITXTH</AuthorID>
+  <Content>song</Content>
+  <Comments>The first recording for French Guiana</Comments>
+  <Quality>1</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies>Vireo olivaceus,Herpsilochmus stictocephalus,Vireolanius leucotis,Coereba flaveola</BackgroundSpecies>
+  <Order>Passeriformes</Order>
+  <Family>Parulidae</Family>
+  <Genus>Setophaga</Genus>
+  <Species>pitiayumi</Species>
+  <Sub-species />
+  <VernacularNames>Tropical Parula</VernacularNames>
+</Audio>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>14951</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN14951.wav</FileName>
+  <ClassId>fqumzc</ClassId>
+  <Date>0000-00-00</Date>
+  <Time>?</Time>
+  <Locality>?</Locality>
+  <Latitude>NULL</Latitude>
+  <Longitude>NULL</Longitude>
+  <Elevation>?</Elevation>
+  <Author>Otte Ottema</Author>
+  <AuthorID>ASEUAUOXZA</AuthorID>
+  <Content>song</Content>
+  <Comments>link:http://www.planktonik.com/birdingsuriname/</Comments>
+  <Quality>0</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Piciformes</Order>
+  <Family>Picidae</Family>
+  <Genus>Campephilus</Genus>
+  <Species>melanoleucos</Species>
+  <Sub-species />
+  <VernacularNames>Crimson-crested Woodpecker</VernacularNames>
+</Audio>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>223</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN223.wav</FileName>
+  <ClassId>ibvnlg</ClassId>
+  <Date>2006-12-27</Date>
+  <Time>09:30</Time>
+  <Locality>Tijuca National Park - RJ</Locality>
+  <Latitude>-22.9567</Latitude>
+  <Longitude>-43.2806</Longitude>
+  <Elevation>850</Elevation>
+  <Author>Ricardo Gagliardi</Author>
+  <AuthorID>YRDADNREOP</AuthorID>
+  <Content>call</Content>
+  <Comments />
+  <Quality>2</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Tyrannidae</Family>
+  <Genus>Myiornis</Genus>
+  <Species>auricularis</Species>
+  <Sub-species />
+  <VernacularNames>Eared Pygmy Tyrant</VernacularNames>
+</Audio>

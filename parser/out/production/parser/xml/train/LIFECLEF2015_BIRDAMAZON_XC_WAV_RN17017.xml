@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>17017</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN17017.wav</FileName>
+  <ClassId>nasscm</ClassId>
+  <Date>2002-07-23</Date>
+  <Time>09:14</Time>
+  <Locality>Boa Nova, Wet Forest, state of Bahia</Locality>
+  <Latitude>-14.3834</Latitude>
+  <Longitude>-40.1001</Longitude>
+  <Elevation>825</Elevation>
+  <Author>Jeremy Minns</Author>
+  <AuthorID>DGVLLRYDXS</AuthorID>
+  <Content>call</Content>
+  <Comments>Humid forest. After playback of XC80913. Two different calls. These are Calls B and C in our DVD-ROM 'Birds of Brazil'.</Comments>
+  <Quality>1</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Furnariidae</Family>
+  <Genus>Synallaxis</Genus>
+  <Species>whitneyi</Species>
+  <Sub-species />
+  <VernacularNames>Bahia Spinetail</VernacularNames>
+</Audio>

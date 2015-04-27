@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>31590</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN31590.wav</FileName>
+  <ClassId>qqrfhs</ClassId>
+  <Date>2004-08-10</Date>
+  <Time>6:00</Time>
+  <Locality>Páramo de Frontino camp 1</Locality>
+  <Latitude>6.438</Latitude>
+  <Longitude>-76.105</Longitude>
+  <Elevation>3500</Elevation>
+  <Author>Niels Krabbe</Author>
+  <AuthorID>XTVEPHMPPJ</AuthorID>
+  <Content>end of female advertising song (presumably)</Content>
+  <Comments>Tape ref. A 33</Comments>
+  <Quality>2</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Rhinocryptidae</Family>
+  <Genus>Scytalopus</Genus>
+  <Species>canus</Species>
+  <Sub-species />
+  <VernacularNames>Paramillo Tapaculo</VernacularNames>
+</Audio>

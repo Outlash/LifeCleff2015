@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>9508</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN9508.wav</FileName>
+  <ClassId>sdpuyf</ClassId>
+  <Date>2010-09-30</Date>
+  <Time>08:30</Time>
+  <Locality>Presidente Figueiredo, Amazonas</Locality>
+  <Latitude>-1.8097</Latitude>
+  <Longitude>-59.6667</Longitude>
+  <Elevation>40</Elevation>
+  <Author>GABRIEL LEITE</Author>
+  <AuthorID>TGBFXDVERJ</AuthorID>
+  <Content>song</Content>
+  <Comments>bird-seen:yesplayback-used:no</Comments>
+  <Quality>4</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Tyrannidae</Family>
+  <Genus>Rhytipterna</Genus>
+  <Species>simplex</Species>
+  <Sub-species />
+  <VernacularNames>Greyish Mourner</VernacularNames>
+</Audio>

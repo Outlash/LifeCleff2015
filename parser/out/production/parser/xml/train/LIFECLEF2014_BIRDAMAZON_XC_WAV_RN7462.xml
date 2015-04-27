@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>7462</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN7462.wav</FileName>
+  <ClassId>jeufbl</ClassId>
+  <Date>2006-10-30</Date>
+  <Time>--</Time>
+  <Locality>Serra de Baturité, Ceará</Locality>
+  <Latitude>-4.2334</Latitude>
+  <Longitude>-38.9167</Longitude>
+  <Elevation>780</Elevation>
+  <Author>Ciro Albano</Author>
+  <AuthorID>MXVQPUKGWW</AuthorID>
+  <Content>call</Content>
+  <Comments />
+  <Quality>0</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies>Troglodytes aedon,Phyllomyias fasciatus,Myiozetetes similis,Pyrrhura griseipectus</BackgroundSpecies>
+  <Order>Passeriformes</Order>
+  <Family>Tyrannidae</Family>
+  <Genus>Elaenia</Genus>
+  <Species>spectabilis</Species>
+  <Sub-species />
+  <VernacularNames>Large Elaenia</VernacularNames>
+</Audio>

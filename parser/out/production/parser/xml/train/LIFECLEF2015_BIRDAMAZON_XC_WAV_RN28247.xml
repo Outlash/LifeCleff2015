@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>28247</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN28247.wav</FileName>
+  <ClassId>elfnvh</ClassId>
+  <Date>2005-09-20</Date>
+  <Time>08:40</Time>
+  <Locality>Ubajara, Ceará state</Locality>
+  <Latitude>-3.8001</Latitude>
+  <Longitude>-40.8667</Longitude>
+  <Elevation>840</Elevation>
+  <Author>Ciro Albano</Author>
+  <AuthorID>MXVQPUKGWW</AuthorID>
+  <Content>song</Content>
+  <Comments />
+  <Quality>4</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Piciformes</Order>
+  <Family>Picidae</Family>
+  <Genus>Veniliornis</Genus>
+  <Species>passerinus</Species>
+  <Sub-species />
+  <VernacularNames>Little Woodpecker</VernacularNames>
+</Audio>

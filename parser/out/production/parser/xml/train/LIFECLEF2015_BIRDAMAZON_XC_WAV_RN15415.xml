@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>15415</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN15415.wav</FileName>
+  <ClassId>zrckxj</ClassId>
+  <Date>2012-06-07</Date>
+  <Time>07:00</Time>
+  <Locality>Arauca, Laguna Rodriguera</Locality>
+  <Latitude>7.092</Latitude>
+  <Longitude>-70.697</Longitude>
+  <Elevation>100</Elevation>
+  <Author>Oswaldo Cortes</Author>
+  <AuthorID>VVDRVZCVWW</AuthorID>
+  <Content>?</Content>
+  <Comments />
+  <Quality>4</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Furnariidae</Family>
+  <Genus>Cranioleuca</Genus>
+  <Species>vulpina</Species>
+  <Sub-species />
+  <VernacularNames>Rusty-backed Spinetail</VernacularNames>
+</Audio>

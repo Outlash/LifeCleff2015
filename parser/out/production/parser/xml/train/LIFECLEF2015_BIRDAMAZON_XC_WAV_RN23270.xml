@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>23270</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN23270.wav</FileName>
+  <ClassId>dlrpwn</ClassId>
+  <Date>1991-07-12</Date>
+  <Time>14:00</Time>
+  <Locality>Abobral river, Mato Grosso do Sul State</Locality>
+  <Latitude>-19.4788</Latitude>
+  <Longitude>-56.9868</Longitude>
+  <Elevation>90</Elevation>
+  <Author>Antonio Silveira</Author>
+  <AuthorID>NBJQSQJRYH</AuthorID>
+  <Content>alarm call, female, male</Content>
+  <Comments>birds of small flock attack a couple of Bubo virginianus (Great horn owl) that stay perched on a high three.bird-seen:yesplayback-used:no</Comments>
+  <Quality>0</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Corvidae</Family>
+  <Genus>Cyanocorax</Genus>
+  <Species>cyanomelas</Species>
+  <Sub-species />
+  <VernacularNames>Purplish Jay</VernacularNames>
+</Audio>

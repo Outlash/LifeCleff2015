@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>30464</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN30464.wav</FileName>
+  <ClassId>yugnvo</ClassId>
+  <Date>2008-01-02</Date>
+  <Time>02:30</Time>
+  <Locality>Modulos de Apure</Locality>
+  <Latitude>7.3682</Latitude>
+  <Longitude>-69.4407</Longitude>
+  <Elevation>90</Elevation>
+  <Author>Joe Klaiber</Author>
+  <AuthorID>TNPOVFLZMY</AuthorID>
+  <Content>call</Content>
+  <Comments>bird-seen:yesplayback-used:no</Comments>
+  <Quality>2</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Coraciiformes</Order>
+  <Family>Alcedinidae</Family>
+  <Genus>Chloroceryle</Genus>
+  <Species>americana</Species>
+  <Sub-species />
+  <VernacularNames>Green Kingfisher</VernacularNames>
+</Audio>

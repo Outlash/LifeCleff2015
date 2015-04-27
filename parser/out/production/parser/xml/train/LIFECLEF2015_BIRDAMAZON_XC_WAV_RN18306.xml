@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>18306</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN18306.wav</FileName>
+  <ClassId>muhjso</ClassId>
+  <Date>2014-09-15</Date>
+  <Time>09:30</Time>
+  <Locality>Atibaia, São Paulo</Locality>
+  <Latitude>-23.1161</Latitude>
+  <Longitude>-46.5563</Longitude>
+  <Elevation>800</Elevation>
+  <Author>William Zaca</Author>
+  <AuthorID>QPVHQBUWGE</AuthorID>
+  <Content>song</Content>
+  <Comments>bird-seen:yesplayback-used:no</Comments>
+  <Quality>2</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies>Aramides saracura</BackgroundSpecies>
+  <Order>Passeriformes</Order>
+  <Family>Tyrannidae</Family>
+  <Genus>Lathrotriccus</Genus>
+  <Species>euleri</Species>
+  <Sub-species />
+  <VernacularNames>Euler's Flycatcher</VernacularNames>
+</Audio>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>28889</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN28889.wav</FileName>
+  <ClassId>ozjitk</ClassId>
+  <Date>2011-12-23</Date>
+  <Time>08:00</Time>
+  <Locality>Villeta, Cundinamarca</Locality>
+  <Latitude>5.016</Latitude>
+  <Longitude>-74.474</Longitude>
+  <Elevation>520</Elevation>
+  <Author>Oswaldo Cortes</Author>
+  <AuthorID>VVDRVZCVWW</AuthorID>
+  <Content>call</Content>
+  <Comments />
+  <Quality>3</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Icteridae</Family>
+  <Genus>Molothrus</Genus>
+  <Species>oryzivorus</Species>
+  <Sub-species />
+  <VernacularNames>Giant Cowbird</VernacularNames>
+</Audio>

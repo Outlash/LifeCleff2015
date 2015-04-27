@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>6004</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN6004.wav</FileName>
+  <ClassId>ebxlim</ClassId>
+  <Date>2001-07-13</Date>
+  <Time>07:33</Time>
+  <Locality>Roraima. Rio Uraricoera. Ferry on RR-319</Locality>
+  <Latitude>3.2001</Latitude>
+  <Longitude>-60.5667</Longitude>
+  <Elevation>95</Elevation>
+  <Author>Jeremy Minns</Author>
+  <AuthorID>DGVLLRYDXS</AuthorID>
+  <Content>Song</Content>
+  <Comments>Riverine vegetation.</Comments>
+  <Quality>1</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies>Troglodytes aedon,Leptotila verreauxi</BackgroundSpecies>
+  <Order>Passeriformes</Order>
+  <Family>Thamnophilidae</Family>
+  <Genus>Taraba</Genus>
+  <Species>major</Species>
+  <Sub-species>semifasciatus</Sub-species>
+  <VernacularNames>Great Antshrike</VernacularNames>
+</Audio>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>11537</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN11537.wav</FileName>
+  <ClassId>bjvdzx</ClassId>
+  <Date>2011-01-23</Date>
+  <Time>11:00</Time>
+  <Locality>Manaus, Amazonas</Locality>
+  <Latitude>-2.5992</Latitude>
+  <Longitude>-59.9292</Longitude>
+  <Elevation>120</Elevation>
+  <Author>GABRIEL LEITE</Author>
+  <AuthorID>TGBFXDVERJ</AuthorID>
+  <Content>call, male</Content>
+  <Comments>bird-seen:yesplayback-used:no</Comments>
+  <Quality>4</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Troglodytidae</Family>
+  <Genus>Pheugopedius</Genus>
+  <Species>coraya</Species>
+  <Sub-species />
+  <VernacularNames>Coraya Wren</VernacularNames>
+</Audio>

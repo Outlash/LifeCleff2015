@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>9774</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN9774.wav</FileName>
+  <ClassId>ekarsb</ClassId>
+  <Date>1999-09-13</Date>
+  <Time>07:20</Time>
+  <Locality>Reserva Extrativista Alto Juruá. Pedra Pintada</Locality>
+  <Latitude>-9.3828</Latitude>
+  <Longitude>-72.7106</Longitude>
+  <Elevation>230</Elevation>
+  <Author>Jeremy Minns</Author>
+  <AuthorID>DGVLLRYDXS</AuthorID>
+  <Content>call, song</Content>
+  <Comments>Várzea forest. One natural call and song, then song after playback.</Comments>
+  <Quality>2</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Thamnophilidae</Family>
+  <Genus>Myrmoborus</Genus>
+  <Species>myotherinus</Species>
+  <Sub-species>myotherinus</Sub-species>
+  <VernacularNames>Black-faced Antbird</VernacularNames>
+</Audio>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>2321</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN2321.wav</FileName>
+  <ClassId>upfjhp</ClassId>
+  <Date>2003-11-20</Date>
+  <Time>10:00</Time>
+  <Locality>Near Cassino seaside resort, Rio Grande, Rio Grande do Sul</Locality>
+  <Latitude>-32.234</Latitude>
+  <Longitude>-52.216</Longitude>
+  <Elevation>3</Elevation>
+  <Author>Rafael Antunes Dias</Author>
+  <AuthorID>XJSWEWQCEC</AuthorID>
+  <Content>song</Content>
+  <Comments>In Juncus and Androtrichum swale behind frontal dunes</Comments>
+  <Quality>5</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Troglodytidae</Family>
+  <Genus>Cistothorus</Genus>
+  <Species>platensis</Species>
+  <Sub-species />
+  <VernacularNames>Sedge Wren</VernacularNames>
+</Audio>

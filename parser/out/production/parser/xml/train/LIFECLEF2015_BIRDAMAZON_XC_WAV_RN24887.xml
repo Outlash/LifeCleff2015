@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>24887</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN24887.wav</FileName>
+  <ClassId>qtzsvy</ClassId>
+  <Date>2009-10-00</Date>
+  <Time>?:?</Time>
+  <Locality>Sierra de Imataca</Locality>
+  <Latitude>NULL</Latitude>
+  <Longitude>NULL</Longitude>
+  <Elevation>100</Elevation>
+  <Author>Joe Klaiber</Author>
+  <AuthorID>TNPOVFLZMY</AuthorID>
+  <Content>song</Content>
+  <Comments>after playback. link:http://www.birds-venezuela.de</Comments>
+  <Quality>1</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Furnariidae</Family>
+  <Genus>Automolus</Genus>
+  <Species>infuscatus</Species>
+  <Sub-species />
+  <VernacularNames>Olive-backed Foliage-gleaner</VernacularNames>
+</Audio>

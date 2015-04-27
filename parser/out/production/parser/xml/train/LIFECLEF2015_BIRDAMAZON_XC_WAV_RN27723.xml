@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>27723</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN27723.wav</FileName>
+  <ClassId>ilymqq</ClassId>
+  <Date>2007-11-07</Date>
+  <Time>06:00</Time>
+  <Locality>Parque Regional Barbas-Bremen, Filandia, Quindio. Sector Bremen-La Popa</Locality>
+  <Latitude>4.6717</Latitude>
+  <Longitude>-75.6283</Longitude>
+  <Elevation>1800</Elevation>
+  <Author>Oscar Humberto Marin-Gomez</Author>
+  <AuthorID>CSUHASNRSU</AuthorID>
+  <Content>song</Content>
+  <Comments>REF: OHM004A  0950. Continuación de XC129757. Coro del amanecer. Interior de bosque maduro- 20 m del Mic. Vocalización natural. Trocha Bremen-Buenos Aires. Clima despejado.bird-seen:noplayback-used:no</Comments>
+  <Quality>1</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies>Colibri thalassinus,Psittacara wagleri,Lepidocolaptes lacrymiger,Pogonotriccus poecilotis,Myioborus miniatus,Trogon collaris</BackgroundSpecies>
+  <Order>Passeriformes</Order>
+  <Family>Vireonidae</Family>
+  <Genus>Hylophilus</Genus>
+  <Species>semibrunneus</Species>
+  <Sub-species />
+  <VernacularNames>Rufous-naped Greenlet</VernacularNames>
+</Audio>

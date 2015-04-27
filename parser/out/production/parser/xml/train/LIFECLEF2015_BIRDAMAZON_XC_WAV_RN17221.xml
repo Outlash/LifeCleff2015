@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>17221</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN17221.wav</FileName>
+  <ClassId>wwwgvj</ClassId>
+  <Date>2007-11-07</Date>
+  <Time>17:40</Time>
+  <Locality>Parque Regional Barbas-Bremen, Filandia, Quindio. Sector Bremen-La Popa</Locality>
+  <Latitude>4.6717</Latitude>
+  <Longitude>-75.6283</Longitude>
+  <Elevation>1800</Elevation>
+  <Author>Oscar Humberto Marin-Gomez</Author>
+  <AuthorID>CSUHASNRSU</AuthorID>
+  <Content>Contact calls, call</Content>
+  <Comments>OHM 004B 1513. 5 individuos desplazandose en maraña en rastrojo alto. Bosque montano bajo. 15m del Mic. Vocalización Natural. Cerca al campamento Bremenbird-seen:yesplayback-used:no</Comments>
+  <Quality>1</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Emberizidae</Family>
+  <Genus>Atlapetes</Genus>
+  <Species>albinucha</Species>
+  <Sub-species />
+  <VernacularNames>White-naped Brush Finch</VernacularNames>
+</Audio>

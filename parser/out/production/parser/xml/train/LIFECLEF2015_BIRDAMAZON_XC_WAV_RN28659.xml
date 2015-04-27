@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>28659</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN28659.wav</FileName>
+  <ClassId>sywekf</ClassId>
+  <Date>2014-08-24</Date>
+  <Time>08:22</Time>
+  <Locality>Rio Branco, Rio Branco, Acre</Locality>
+  <Latitude>-9.9491</Latitude>
+  <Longitude>-67.8809</Longitude>
+  <Elevation>160</Elevation>
+  <Author>Edson Guilherme</Author>
+  <AuthorID>FZTTBRELVC</AuthorID>
+  <Content>call</Content>
+  <Comments>Ramal Adauto Frotabird-seen:yesplayback-used:no</Comments>
+  <Quality>0</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies>Thraupis episcopus</BackgroundSpecies>
+  <Order>Passeriformes</Order>
+  <Family>Tyrannidae</Family>
+  <Genus>Todirostrum</Genus>
+  <Species>chrysocrotaphum</Species>
+  <Sub-species />
+  <VernacularNames>Yellow-browed Tody-Flycatcher</VernacularNames>
+</Audio>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>19024</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN19024.wav</FileName>
+  <ClassId>etnvbo</ClassId>
+  <Date>2008-07-31</Date>
+  <Time>13:20</Time>
+  <Locality>Road to San Jose del Palmar, Serrania de las Paraguas, Choco</Locality>
+  <Latitude>4.8412</Latitude>
+  <Longitude>-76.2153</Longitude>
+  <Elevation>1840</Elevation>
+  <Author>Andrew Spencer</Author>
+  <AuthorID>CDTGHVBGZP</AuthorID>
+  <Content>call</Content>
+  <Comments>calls from a female after leaving her nest</Comments>
+  <Quality>1</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Thraupidae</Family>
+  <Genus>Tangara</Genus>
+  <Species>heinei</Species>
+  <Sub-species />
+  <VernacularNames>Black-capped Tanager</VernacularNames>
+</Audio>

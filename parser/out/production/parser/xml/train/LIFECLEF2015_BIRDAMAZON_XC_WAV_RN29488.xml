@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>29488</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN29488.wav</FileName>
+  <ClassId>xpmcwb</ClassId>
+  <Date>2007-01-06</Date>
+  <Time>08:30</Time>
+  <Locality>Rio Caura south of Maripa, Bolivar</Locality>
+  <Latitude>7.1167</Latitude>
+  <Longitude>-64.9667</Longitude>
+  <Elevation>?</Elevation>
+  <Author>Andrew Spencer</Author>
+  <AuthorID>CDTGHVBGZP</AuthorID>
+  <Content>song</Content>
+  <Comments />
+  <Quality>1</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies>Leptotila rufaxilla,Psarocolius decumanus,Cantorchilus leucotis</BackgroundSpecies>
+  <Order>Passeriformes</Order>
+  <Family>Furnariidae</Family>
+  <Genus>Synallaxis</Genus>
+  <Species>gujanensis</Species>
+  <Sub-species />
+  <VernacularNames>Plain-crowned Spinetail</VernacularNames>
+</Audio>

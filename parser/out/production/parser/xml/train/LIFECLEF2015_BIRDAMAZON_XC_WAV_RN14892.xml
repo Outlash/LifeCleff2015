@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>14892</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN14892.wav</FileName>
+  <ClassId>bfwjif</ClassId>
+  <Date>0000-00-00</Date>
+  <Time>?</Time>
+  <Locality>PNN Alto Guanentá-Reserva Cachalú, Encino, Santander</Locality>
+  <Latitude>6.165</Latitude>
+  <Longitude>-73.1375</Longitude>
+  <Elevation>2000</Elevation>
+  <Author>Mauricio Álvarez Rebolledo (Colección de Sonidos Ambientales - Instituto Humboldt)</Author>
+  <AuthorID>XMFDPACYJN</AuthorID>
+  <Content>song</Content>
+  <Comments>BSA 824To obtain a wav file of the original recording, please contact csa@humboldt.org.coplayback-used:no</Comments>
+  <Quality>5</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Galliformes</Order>
+  <Family>Odontophoridae</Family>
+  <Genus>Odontophorus</Genus>
+  <Species>strophium</Species>
+  <Sub-species />
+  <VernacularNames>Gorgeted Wood Quail</VernacularNames>
+</Audio>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>5114</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN5114.wav</FileName>
+  <ClassId>sxpisu</ClassId>
+  <Date>2002-02-11</Date>
+  <Time>16:11</Time>
+  <Locality>Pirapora, MG</Locality>
+  <Latitude>-17.3584</Latitude>
+  <Longitude>-44.8501</Longitude>
+  <Elevation>540</Elevation>
+  <Author>Jeremy Minns</Author>
+  <AuthorID>DGVLLRYDXS</AuthorID>
+  <Content>call</Content>
+  <Comments>Disturbed riparian thickets.</Comments>
+  <Quality>2</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies>Furnarius leucopus</BackgroundSpecies>
+  <Order>Psittaciformes</Order>
+  <Family>Psittacidae</Family>
+  <Genus>Brotogeris</Genus>
+  <Species>chiriri</Species>
+  <Sub-species>chiriri</Sub-species>
+  <VernacularNames>Yellow-chevroned Parakeet</VernacularNames>
+</Audio>

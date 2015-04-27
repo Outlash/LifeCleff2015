@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>145</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN145.wav</FileName>
+  <ClassId>fpnmqt</ClassId>
+  <Date>2009-03-08</Date>
+  <Time>06:30</Time>
+  <Locality>Vargem Bonita - SC</Locality>
+  <Latitude>NULL</Latitude>
+  <Longitude>NULL</Longitude>
+  <Elevation>900</Elevation>
+  <Author>Leonardo R. Deconto</Author>
+  <AuthorID>VPUQSZGRCI</AuthorID>
+  <Content>song</Content>
+  <Comments />
+  <Quality>2</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Rhinocryptidae</Family>
+  <Genus>Scytalopus</Genus>
+  <Species>speluncae</Species>
+  <Sub-species />
+  <VernacularNames>Mouse-colored Tapaculo</VernacularNames>
+</Audio>

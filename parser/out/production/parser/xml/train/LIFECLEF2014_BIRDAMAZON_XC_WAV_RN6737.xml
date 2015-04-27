@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>6737</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN6737.wav</FileName>
+  <ClassId>boyvjk</ClassId>
+  <Date>2006-10-03</Date>
+  <Time>05:25</Time>
+  <Locality>Ubatuba, SP. Fazenda Angelim</Locality>
+  <Latitude>-23.4334</Latitude>
+  <Longitude>-45.1167</Longitude>
+  <Elevation>30</Elevation>
+  <Author>Jeremy Minns</Author>
+  <AuthorID>DGVLLRYDXS</AuthorID>
+  <Content>Song</Content>
+  <Comments>Humid lowland forest. Perched 1.5 m above ground in the undergrowth. At the end, in flight.</Comments>
+  <Quality>2</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies />
+  <Order>Apodiformes</Order>
+  <Family>Trochilidae</Family>
+  <Genus>Ramphodon</Genus>
+  <Species>naevius</Species>
+  <Sub-species />
+  <VernacularNames>Saw-billed Hermit</VernacularNames>
+</Audio>

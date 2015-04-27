@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>15557</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN15557.wav</FileName>
+  <ClassId>gaggjv</ClassId>
+  <Date>2012-10-16</Date>
+  <Time>10:00</Time>
+  <Locality>Riacho dos Machados, Minas Gerais</Locality>
+  <Latitude>-16.0442</Latitude>
+  <Longitude>-43.1007</Longitude>
+  <Elevation>850</Elevation>
+  <Author>Christian Regis da Silva</Author>
+  <AuthorID>DGNIYKREPG</AuthorID>
+  <Content>song</Content>
+  <Comments>This is a different dialect.bird-seen:yesplayback-used:no</Comments>
+  <Quality>2</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Cardinalidae</Family>
+  <Genus>Saltator</Genus>
+  <Species>similis</Species>
+  <Sub-species />
+  <VernacularNames>Green-winged Saltator</VernacularNames>
+</Audio>

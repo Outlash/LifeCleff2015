@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>21699</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN21699.wav</FileName>
+  <ClassId>fiennj</ClassId>
+  <Date>2014-03-09</Date>
+  <Time>08:00</Time>
+  <Locality>Sistemas de Trilhas do PPBio, Parque Nacional do Viruá, Caracaraí, Roraima</Locality>
+  <Latitude>1.483</Latitude>
+  <Longitude>-61.0109</Longitude>
+  <Elevation>80</Elevation>
+  <Author>GABRIEL LEITE</Author>
+  <AuthorID>TGBFXDVERJ</AuthorID>
+  <Content>song</Content>
+  <Comments>bird-seen:yesplayback-used:no</Comments>
+  <Quality>2</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Emberizidae</Family>
+  <Genus>Arremon</Genus>
+  <Species>taciturnus</Species>
+  <Sub-species />
+  <VernacularNames>Pectoral Sparrow</VernacularNames>
+</Audio>

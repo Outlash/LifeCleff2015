@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>9938</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN9938.wav</FileName>
+  <ClassId>xywqxu</ClassId>
+  <Date>1997-08-01</Date>
+  <Time>?</Time>
+  <Locality>Curaçá, Bahia</Locality>
+  <Latitude>-9.01</Latitude>
+  <Longitude>-39.9001</Longitude>
+  <Elevation>?</Elevation>
+  <Author>Juan Mazar Barnett</Author>
+  <AuthorID>KVDIDMAVLE</AuthorID>
+  <Content>Duet 'song'</Content>
+  <Comments>A pair near the nest.  cd:http://www.birdsongs.com/Bolivia/main.htm</Comments>
+  <Quality>1</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies>Columbina squammata</BackgroundSpecies>
+  <Order>Falconiformes</Order>
+  <Family>Falconidae</Family>
+  <Genus>Herpetotheres</Genus>
+  <Species>cachinnans</Species>
+  <Sub-species />
+  <VernacularNames>Laughing Falcon</VernacularNames>
+</Audio>

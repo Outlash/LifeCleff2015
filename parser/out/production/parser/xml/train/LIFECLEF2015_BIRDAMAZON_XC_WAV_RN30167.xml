@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>30167</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN30167.wav</FileName>
+  <ClassId>ekarsb</ClassId>
+  <Date>2014-07-18</Date>
+  <Time>07:00</Time>
+  <Locality>Manacapuru, Amazonas</Locality>
+  <Latitude>-3.238</Latitude>
+  <Longitude>-60.4701</Longitude>
+  <Elevation>30</Elevation>
+  <Author>Rodrigo Dela Rosa</Author>
+  <AuthorID>VGXDJMKETZ</AuthorID>
+  <Content>female, male, song</Content>
+  <Comments>bird-seen:noplayback-used:no</Comments>
+  <Quality>3</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Thamnophilidae</Family>
+  <Genus>Myrmoborus</Genus>
+  <Species>myotherinus</Species>
+  <Sub-species />
+  <VernacularNames>Black-faced Antbird</VernacularNames>
+</Audio>

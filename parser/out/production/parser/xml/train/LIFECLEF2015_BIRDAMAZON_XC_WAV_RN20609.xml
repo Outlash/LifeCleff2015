@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>20609</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN20609.wav</FileName>
+  <ClassId>yruddd</ClassId>
+  <Date>2008-04-00</Date>
+  <Time>?:?</Time>
+  <Locality>Caura - Puerto Caballo</Locality>
+  <Latitude>NULL</Latitude>
+  <Longitude>NULL</Longitude>
+  <Elevation>150</Elevation>
+  <Author>Joe Klaiber</Author>
+  <AuthorID>TNPOVFLZMY</AuthorID>
+  <Content>drumming</Content>
+  <Comments>link:http://www.birds-venezuela.de</Comments>
+  <Quality>4</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Piciformes</Order>
+  <Family>Picidae</Family>
+  <Genus>Piculus</Genus>
+  <Species>flavigula</Species>
+  <Sub-species />
+  <VernacularNames>Yellow-throated Woodpecker</VernacularNames>
+</Audio>

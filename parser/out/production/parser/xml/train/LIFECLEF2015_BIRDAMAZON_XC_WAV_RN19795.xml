@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>19795</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN19795.wav</FileName>
+  <ClassId>iyshfg</ClassId>
+  <Date>2013-09-28</Date>
+  <Time>09:58</Time>
+  <Locality>Taquaruçu, Palmas, Tocantins</Locality>
+  <Latitude>-10.3046</Latitude>
+  <Longitude>-48.1371</Longitude>
+  <Elevation>480</Elevation>
+  <Author>Marcelo de O. Barbosa</Author>
+  <AuthorID>PRUNXYYZTR</AuthorID>
+  <Content>song</Content>
+  <Comments>Recorded in a slope forest near Taquaruçuzinho stream.bird-seen:yesplayback-used:yes</Comments>
+  <Quality>2</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies>Leptotila rufaxilla,Machaeropterus pyrocephalus,Myiothlypis flaveola,Turdus leucomelas</BackgroundSpecies>
+  <Order>Passeriformes</Order>
+  <Family>Pipridae</Family>
+  <Genus>Tyranneutes</Genus>
+  <Species>stolzmanni</Species>
+  <Sub-species />
+  <VernacularNames>Dwarf Tyrant-Manakin</VernacularNames>
+</Audio>

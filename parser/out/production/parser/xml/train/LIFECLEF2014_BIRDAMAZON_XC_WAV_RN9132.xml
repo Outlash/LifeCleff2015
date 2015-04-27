@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>9132</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN9132.wav</FileName>
+  <ClassId>relbkx</ClassId>
+  <Date>2012-05-12</Date>
+  <Time>16:56</Time>
+  <Locality>São Desiderio, west Bahia</Locality>
+  <Latitude>-12.3633</Latitude>
+  <Longitude>-44.9733</Longitude>
+  <Elevation>500</Elevation>
+  <Author>Marcus Braun</Author>
+  <AuthorID>EICLYDGEKS</AuthorID>
+  <Content>song</Content>
+  <Comments>Undescribed subspecies? Dry forest. Truck noise.bird-seen:yesplayback-used:no</Comments>
+  <Quality>3</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies>Brotogeris chiriri</BackgroundSpecies>
+  <Order>Passeriformes</Order>
+  <Family>Tyrannidae</Family>
+  <Genus>Tolmomyias</Genus>
+  <Species>sulphurescens</Species>
+  <Sub-species />
+  <VernacularNames>Yellow-olive Flatbill</VernacularNames>
+</Audio>

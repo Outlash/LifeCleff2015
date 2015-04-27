@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>5781</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN5781.wav</FileName>
+  <ClassId>gcyzcu</ClassId>
+  <Date>2006-02-11</Date>
+  <Time>16:20</Time>
+  <Locality>Chapada dos Guimarães, north of Cuiabá, MT</Locality>
+  <Latitude>-15.4239</Latitude>
+  <Longitude>-55.7778</Longitude>
+  <Elevation>700</Elevation>
+  <Author>Nick Athanas</Author>
+  <AuthorID>XRABICUARW</AuthorID>
+  <Content>call</Content>
+  <Comments>Calls from several birds perched in a distant tree.</Comments>
+  <Quality>4</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies />
+  <Order>Psittaciformes</Order>
+  <Family>Psittacidae</Family>
+  <Genus>Diopsittaca</Genus>
+  <Species>nobilis</Species>
+  <Sub-species>longipennis</Sub-species>
+  <VernacularNames>Red-shouldered Macaw</VernacularNames>
+</Audio>

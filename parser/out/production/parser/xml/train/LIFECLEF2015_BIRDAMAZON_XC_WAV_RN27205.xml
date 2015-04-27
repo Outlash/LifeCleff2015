@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>27205</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN27205.wav</FileName>
+  <ClassId>wvxyjw</ClassId>
+  <Date>2001-11-08</Date>
+  <Time>08:25</Time>
+  <Locality>Boa Nova, Wet Forest, state of Bahia</Locality>
+  <Latitude>-14.3834</Latitude>
+  <Longitude>-40.1001</Longitude>
+  <Elevation>825</Elevation>
+  <Author>Jeremy Minns</Author>
+  <AuthorID>DGVLLRYDXS</AuthorID>
+  <Content>Call</Content>
+  <Comments>Humid forest. Female, collecting nesting material. This is Call A in our DVD-ROM 'Birds of Brazil'.</Comments>
+  <Quality>1</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies>Oxyruncus cristatus</BackgroundSpecies>
+  <Order>Passeriformes</Order>
+  <Family>Fringillidae</Family>
+  <Genus>Euphonia</Genus>
+  <Species>xanthogaster</Species>
+  <Sub-species>xanthogaster</Sub-species>
+  <VernacularNames>Orange-bellied Euphonia</VernacularNames>
+</Audio>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>26356</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN26356.wav</FileName>
+  <ClassId>bafzon</ClassId>
+  <Date>2013-09-07</Date>
+  <Time>08:30</Time>
+  <Locality>Nova Veneza, Santa Catarina, Santa Catarina</Locality>
+  <Latitude>-28.6387</Latitude>
+  <Longitude>-49.4903</Longitude>
+  <Elevation>150</Elevation>
+  <Author>João Gava</Author>
+  <AuthorID>CEKMJEZKSJ</AuthorID>
+  <Content>song</Content>
+  <Comments>bird-seen:yesplayback-used:yes</Comments>
+  <Quality>2</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies>Hylophilus poicilotis</BackgroundSpecies>
+  <Order>Passeriformes</Order>
+  <Family>Formicariidae</Family>
+  <Genus>Formicarius</Genus>
+  <Species>colma</Species>
+  <Sub-species>ruficeps</Sub-species>
+  <VernacularNames>Rufous-capped Antthrush</VernacularNames>
+</Audio>

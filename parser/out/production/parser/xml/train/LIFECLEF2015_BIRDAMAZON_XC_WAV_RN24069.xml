@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>24069</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN24069.wav</FileName>
+  <ClassId>crqoog</ClassId>
+  <Date>2007-12-02</Date>
+  <Time>05:50</Time>
+  <Locality>Parque Regional Barbas-Bremen, Filandia, Quindio. Sector Bremen-La Popa</Locality>
+  <Latitude>4.6717</Latitude>
+  <Longitude>-75.6283</Longitude>
+  <Elevation>1850</Elevation>
+  <Author>Oscar Humberto Marin-Gomez</Author>
+  <AuthorID>CSUHASNRSU</AuthorID>
+  <Content>call</Content>
+  <Comments>Ref: OHM11B 0337bird-seen:noplayback-used:no</Comments>
+  <Quality>2</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies>Dysithamnus mentalis</BackgroundSpecies>
+  <Order>Passeriformes</Order>
+  <Family>Tyrannidae</Family>
+  <Genus>Myiodynastes</Genus>
+  <Species>chrysocephalus</Species>
+  <Sub-species />
+  <VernacularNames>Golden-crowned Flycatcher</VernacularNames>
+</Audio>

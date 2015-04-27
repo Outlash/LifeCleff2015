@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>25566</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN25566.wav</FileName>
+  <ClassId>iydjte</ClassId>
+  <Date>2008-09-27</Date>
+  <Time>07:00</Time>
+  <Locality>Paramo de Villapinzon (Cundinamarca)</Locality>
+  <Latitude>NULL</Latitude>
+  <Longitude>NULL</Longitude>
+  <Elevation>2800</Elevation>
+  <Author>Oswaldo Cortes</Author>
+  <AuthorID>VVDRVZCVWW</AuthorID>
+  <Content>song</Content>
+  <Comments />
+  <Quality>5</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies>Turdus fuscater</BackgroundSpecies>
+  <Order>Passeriformes</Order>
+  <Family>Furnariidae</Family>
+  <Genus>Asthenes</Genus>
+  <Species>fuliginosa</Species>
+  <Sub-species>fuliginosa</Sub-species>
+  <VernacularNames>White-chinned Thistletail</VernacularNames>
+</Audio>

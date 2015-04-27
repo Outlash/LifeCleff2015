@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>9576</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN9576.wav</FileName>
+  <ClassId>ryckte</ClassId>
+  <Date>2005-04-11</Date>
+  <Time>07:30</Time>
+  <Locality>Reserva Ecológica de Guapiaçu, RJ</Locality>
+  <Latitude>-22.5001</Latitude>
+  <Longitude>-42.7167</Longitude>
+  <Elevation>100</Elevation>
+  <Author>Nick Athanas</Author>
+  <AuthorID>XRABICUARW</AuthorID>
+  <Content>call</Content>
+  <Comments />
+  <Quality>2</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies>Pitangus sulphuratus,Piculus flavigula,Thamnophilus ambiguus,Glaucidium brasilianum</BackgroundSpecies>
+  <Order>Passeriformes</Order>
+  <Family>Thamnophilidae</Family>
+  <Genus>Drymophila</Genus>
+  <Species>squamata</Species>
+  <Sub-species />
+  <VernacularNames>Scaled Antbird</VernacularNames>
+</Audio>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>31813</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN31813.wav</FileName>
+  <ClassId>wdgsdk</ClassId>
+  <Date>2006-02-03</Date>
+  <Time>09:00</Time>
+  <Locality>Reserva Biologica da Campina, north of Manaus</Locality>
+  <Latitude>-2.5909</Latitude>
+  <Longitude>-60.0306</Longitude>
+  <Elevation>70</Elevation>
+  <Author>Nick Athanas</Author>
+  <AuthorID>XRABICUARW</AuthorID>
+  <Content>call</Content>
+  <Comments>Response to playback of XC8706. Calls from at least two individuals moving with a mixed flock. Score for first phrase.</Comments>
+  <Quality>2</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies>Tolmomyias poliocephalus</BackgroundSpecies>
+  <Order>Passeriformes</Order>
+  <Family>Furnariidae</Family>
+  <Genus>Xiphorhynchus</Genus>
+  <Species>pardalotus</Species>
+  <Sub-species>pardalotus</Sub-species>
+  <VernacularNames>Chestnut-rumped Woodcreeper</VernacularNames>
+</Audio>

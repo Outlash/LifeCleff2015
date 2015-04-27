@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>19907</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN19907.wav</FileName>
+  <ClassId>jtzvga</ClassId>
+  <Date>2002-12-12</Date>
+  <Time>08:00</Time>
+  <Locality>Bogota, Quebrada la Vieja</Locality>
+  <Latitude>4.6231</Latitude>
+  <Longitude>-74.0562</Longitude>
+  <Elevation>2700</Elevation>
+  <Author>Doug Knapp</Author>
+  <AuthorID>BHRXQZEQFL</AuthorID>
+  <Content>call</Content>
+  <Comments>These birds were arriving at and leaving perch.</Comments>
+  <Quality>1</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Hirundinidae</Family>
+  <Genus>Notiochelidon</Genus>
+  <Species>murina</Species>
+  <Sub-species />
+  <VernacularNames>Brown-bellied Swallow</VernacularNames>
+</Audio>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>3588</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN3588.wav</FileName>
+  <ClassId>kuggpr</ClassId>
+  <Date>2005-04-22</Date>
+  <Time>11:00</Time>
+  <Locality>Mury, RJ</Locality>
+  <Latitude>-22.3731</Latitude>
+  <Longitude>-42.5609</Longitude>
+  <Elevation>1100</Elevation>
+  <Author>Nick Athanas</Author>
+  <AuthorID>XRABICUARW</AuthorID>
+  <Content>call</Content>
+  <Comments>Very loud call from a male.</Comments>
+  <Quality>1</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies>Rhopias gularis,Thamnophilus caerulescens,Chiroxiphia caudata</BackgroundSpecies>
+  <Order>Passeriformes</Order>
+  <Family>Thamnophilidae</Family>
+  <Genus>Batara</Genus>
+  <Species>cinerea</Species>
+  <Sub-species>cinerea</Sub-species>
+  <VernacularNames>Giant Antshrike</VernacularNames>
+</Audio>

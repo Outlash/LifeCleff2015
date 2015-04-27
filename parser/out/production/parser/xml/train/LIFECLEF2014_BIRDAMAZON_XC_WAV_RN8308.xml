@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>8308</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN8308.wav</FileName>
+  <ClassId>dmowwi</ClassId>
+  <Date>2001-11-16</Date>
+  <Time>12:01</Time>
+  <Locality>Lagoa</Locality>
+  <Latitude>-8.5001</Latitude>
+  <Longitude>-40.4334</Longitude>
+  <Elevation>400</Elevation>
+  <Author>Jeremy Minns</Author>
+  <AuthorID>DGVLLRYDXS</AuthorID>
+  <Content>call, song</Content>
+  <Comments>Caatinga. Bushes along road beside a dam.</Comments>
+  <Quality>1</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies>Tapera naevia,Cyclarhis gujanensis</BackgroundSpecies>
+  <Order>Passeriformes</Order>
+  <Family>Tyrannidae</Family>
+  <Genus>Todirostrum</Genus>
+  <Species>cinereum</Species>
+  <Sub-species>cearae</Sub-species>
+  <VernacularNames>Common Tody-Flycatcher</VernacularNames>
+</Audio>

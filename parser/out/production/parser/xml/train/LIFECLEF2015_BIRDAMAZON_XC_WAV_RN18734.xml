@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>18734</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN18734.wav</FileName>
+  <ClassId>twhfvm</ClassId>
+  <Date>2012-07-06</Date>
+  <Time>06:33</Time>
+  <Locality>Trou Poissons Savannah - Iracoubo - N5.40525 W53.09748</Locality>
+  <Latitude>NULL</Latitude>
+  <Longitude>NULL</Longitude>
+  <Elevation>5</Elevation>
+  <Author>Patrick INGREMEAU</Author>
+  <AuthorID>IIVTYSKEYX</AuthorID>
+  <Content>Song</Content>
+  <Comments />
+  <Quality>2</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies>Ortalis motmot,Columbina talpacoti</BackgroundSpecies>
+  <Order>Passeriformes</Order>
+  <Family>Thraupidae</Family>
+  <Genus>Emberizoides</Genus>
+  <Species>herbicola</Species>
+  <Sub-species />
+  <VernacularNames>Wedge-tailed Grass Finch</VernacularNames>
+</Audio>

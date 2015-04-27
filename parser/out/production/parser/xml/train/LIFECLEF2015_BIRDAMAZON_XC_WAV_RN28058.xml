@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>28058</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN28058.wav</FileName>
+  <ClassId>ygcrlc</ClassId>
+  <Date>2011-03-13</Date>
+  <Time>11:20</Time>
+  <Locality>Reserva Natural Cerro El Ingles, Valle del Cauca</Locality>
+  <Latitude>4.7417</Latitude>
+  <Longitude>-76.2962</Longitude>
+  <Elevation>2100</Elevation>
+  <Author>Oscar Humberto Marin-Gomez</Author>
+  <AuthorID>CSUHASNRSU</AuthorID>
+  <Content>call, song</Content>
+  <Comments>Ref: OHM71B 1538. Grupo en interior de bosque, a 50m del mic. Bosque montano. Camino hacia La Florida. Vocalización Natural. Grabaciones junto con Diego Gomez Hoyos.bird-seen:noplayback-used:no</Comments>
+  <Quality>2</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Troglodytidae</Family>
+  <Genus>Cyphorhinus</Genus>
+  <Species>thoracicus</Species>
+  <Sub-species />
+  <VernacularNames>Chestnut-breasted Wren</VernacularNames>
+</Audio>

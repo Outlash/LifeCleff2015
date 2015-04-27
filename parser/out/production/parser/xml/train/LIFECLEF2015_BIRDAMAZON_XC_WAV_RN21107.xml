@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>21107</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN21107.wav</FileName>
+  <ClassId>flxqxu</ClassId>
+  <Date>2013-03-20</Date>
+  <Time>16:30</Time>
+  <Locality>Cajamarca, Tolima</Locality>
+  <Latitude>4.4837</Latitude>
+  <Longitude>-75.4797</Longitude>
+  <Elevation>2900</Elevation>
+  <Author>Oscar H. Marín-Gómez</Author>
+  <AuthorID>CSUHASNRSU</AuthorID>
+  <Content>flight call</Content>
+  <Comments>bird-seen:yesplayback-used:no</Comments>
+  <Quality>2</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Thraupidae</Family>
+  <Genus>Buthraupis</Genus>
+  <Species>montana</Species>
+  <Sub-species />
+  <VernacularNames>Hooded Mountain Tanager</VernacularNames>
+</Audio>

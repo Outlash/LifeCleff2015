@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>18631</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN18631.wav</FileName>
+  <ClassId>xxjaog</ClassId>
+  <Date>2014-01-23</Date>
+  <Time>10:30</Time>
+  <Locality>Concórdia, Concórdia, Santa Catarina</Locality>
+  <Latitude>-27.2339</Latitude>
+  <Longitude>-52.0265</Longitude>
+  <Elevation>600</Elevation>
+  <Author>Roberto Buss Stringari</Author>
+  <AuthorID>TLLUGZINYM</AuthorID>
+  <Content>song</Content>
+  <Comments>bird-seen:yesplayback-used:yes</Comments>
+  <Quality>1</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Thraupidae</Family>
+  <Genus>Hemithraupis</Genus>
+  <Species>guira</Species>
+  <Sub-species />
+  <VernacularNames>Guira Tanager</VernacularNames>
+</Audio>

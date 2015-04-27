@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>6640</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN6640.wav</FileName>
+  <ClassId>jforiu</ClassId>
+  <Date>2009-02-18</Date>
+  <Time>09:45</Time>
+  <Locality>Fazenda Castanheiras (APA -Bororé - Colonia) São Paulo, SP</Locality>
+  <Latitude>-23.8081</Latitude>
+  <Longitude>-46.6498</Longitude>
+  <Elevation>?</Elevation>
+  <Author>Marcos Melo</Author>
+  <AuthorID>MRGDYNJGUJ</AuthorID>
+  <Content>song</Content>
+  <Comments>at 8 seconds: wing sound</Comments>
+  <Quality>0</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies>Turdus rufiventris,Pachyramphus castaneus</BackgroundSpecies>
+  <Order>Passeriformes</Order>
+  <Family>Tyrannidae</Family>
+  <Genus>Hemitriccus</Genus>
+  <Species>orbitatus</Species>
+  <Sub-species />
+  <VernacularNames>Eye-ringed Tody-Tyrant</VernacularNames>
+</Audio>

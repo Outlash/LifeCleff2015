@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>8390</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN8390.wav</FileName>
+  <ClassId>dccvuj</ClassId>
+  <Date>2001-11-08</Date>
+  <Time>16:56</Time>
+  <Locality>Boa Nova, Bahia</Locality>
+  <Latitude>-14.3667</Latitude>
+  <Longitude>-40.1834</Longitude>
+  <Elevation>800</Elevation>
+  <Author>Jeremy Minns</Author>
+  <AuthorID>DGVLLRYDXS</AuthorID>
+  <Content>Call</Content>
+  <Comments>Small marsh in pastureland. Aggressive call, near nest. This call (Call A in our DVD-ROM 'Birds of Brazil') is strikingly similar to the call of Roadside Hawk.</Comments>
+  <Quality>2</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies>Certhiaxis cinnamomeus,Fluvicola nengeta,Turdus rufiventris</BackgroundSpecies>
+  <Order>Gruiformes</Order>
+  <Family>Rallidae</Family>
+  <Genus>Pardirallus</Genus>
+  <Species>nigricans</Species>
+  <Sub-species>nigricans</Sub-species>
+  <VernacularNames>Blackish Rail</VernacularNames>
+</Audio>

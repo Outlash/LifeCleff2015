@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>30885</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN30885.wav</FileName>
+  <ClassId>wwdydp</ClassId>
+  <Date>2006-10-31</Date>
+  <Time>06:33</Time>
+  <Locality>Figueiras - Pelotas, Rio Grande do Sul</Locality>
+  <Latitude>-31.7184</Latitude>
+  <Longitude>-52.3276</Longitude>
+  <Elevation>0</Elevation>
+  <Author>Fernando Jacobs</Author>
+  <AuthorID>MHHPJBCUXC</AuthorID>
+  <Content>song</Content>
+  <Comments />
+  <Quality>2</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies>Troglodytes aedon</BackgroundSpecies>
+  <Order>Columbiformes</Order>
+  <Family>Columbidae</Family>
+  <Genus>Columbina</Genus>
+  <Species>talpacoti</Species>
+  <Sub-species />
+  <VernacularNames>Ruddy Ground Dove</VernacularNames>
+</Audio>

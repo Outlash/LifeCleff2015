@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>32044</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN32044.wav</FileName>
+  <ClassId>etnvbo</ClassId>
+  <Date>2008-02-08</Date>
+  <Time>06:30</Time>
+  <Locality>Parque Regional Barbas-Bremen, Filandia, Quindio. Sector Bremen-La Popa</Locality>
+  <Latitude>4.6717</Latitude>
+  <Longitude>-75.6283</Longitude>
+  <Elevation>1900</Elevation>
+  <Author>Oscar Humberto Marin-Gomez</Author>
+  <AuthorID>CSUHASNRSU</AuthorID>
+  <Content>song</Content>
+  <Comments>OHM23A 2454bird-seen:yesplayback-used:no</Comments>
+  <Quality>2</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies>Zimmerius chrysops</BackgroundSpecies>
+  <Order>Passeriformes</Order>
+  <Family>Thraupidae</Family>
+  <Genus>Tangara</Genus>
+  <Species>heinei</Species>
+  <Sub-species />
+  <VernacularNames>Black-capped Tanager</VernacularNames>
+</Audio>

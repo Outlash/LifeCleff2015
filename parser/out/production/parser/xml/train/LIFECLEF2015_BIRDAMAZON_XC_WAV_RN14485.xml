@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>14485</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN14485.wav</FileName>
+  <ClassId>qypzpc</ClassId>
+  <Date>2010-05-14</Date>
+  <Time>06:32</Time>
+  <Locality>Montagne des singes - Kourou</Locality>
+  <Latitude>NULL</Latitude>
+  <Longitude>NULL</Longitude>
+  <Elevation>?</Elevation>
+  <Author>Patrick INGREMEAU</Author>
+  <AuthorID>IIVTYSKEYX</AuthorID>
+  <Content>song?</Content>
+  <Comments />
+  <Quality>2</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Thamnophilidae</Family>
+  <Genus>Myrmotherula</Genus>
+  <Species>longipennis</Species>
+  <Sub-species />
+  <VernacularNames>Long-winged Antwren</VernacularNames>
+</Audio>

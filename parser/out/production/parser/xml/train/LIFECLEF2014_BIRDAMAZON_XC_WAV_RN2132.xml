@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>2132</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN2132.wav</FileName>
+  <ClassId>yilzpe</ClassId>
+  <Date>2006-11-07</Date>
+  <Time>06:10</Time>
+  <Locality>Parque do Zizo, Sao Paulo state</Locality>
+  <Latitude>-24.017146</Latitude>
+  <Longitude>-47.81044</Longitude>
+  <Elevation>650</Elevation>
+  <Author>Jeremy Minns</Author>
+  <AuthorID>DGVLLRYDXS</AuthorID>
+  <Content>Song</Content>
+  <Comments>Humid forest. In bamboo.</Comments>
+  <Quality>1</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies>Pyriglena leucoptera,Attila phoenicurus</BackgroundSpecies>
+  <Order>Passeriformes</Order>
+  <Family>Tyrannidae</Family>
+  <Genus>Leptopogon</Genus>
+  <Species>amaurocephalus</Species>
+  <Sub-species>amaurocephalus</Sub-species>
+  <VernacularNames>Sepia-capped Flycatcher</VernacularNames>
+</Audio>

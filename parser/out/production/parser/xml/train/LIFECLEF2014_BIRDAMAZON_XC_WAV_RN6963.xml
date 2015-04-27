@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>6963</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN6963.wav</FileName>
+  <ClassId>lsoxmb</ClassId>
+  <Date>2008-07-13</Date>
+  <Time>08:05</Time>
+  <Locality>Dunas, área de proteção ambiental, Las Acácias - Pelotas, Rio Grande do Sul</Locality>
+  <Latitude>-31.75</Latitude>
+  <Longitude>-52.28333</Longitude>
+  <Elevation>0</Elevation>
+  <Author>Fernando Jacobs</Author>
+  <AuthorID>MHHPJBCUXC</AuthorID>
+  <Content>song</Content>
+  <Comments />
+  <Quality>1</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Mimidae</Family>
+  <Genus>Mimus</Genus>
+  <Species>saturninus</Species>
+  <Sub-species />
+  <VernacularNames>Chalk-browed Mockingbird</VernacularNames>
+</Audio>

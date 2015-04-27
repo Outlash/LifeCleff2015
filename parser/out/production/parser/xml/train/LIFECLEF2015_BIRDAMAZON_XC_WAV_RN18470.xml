@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>18470</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN18470.wav</FileName>
+  <ClassId>zpvuom</ClassId>
+  <Date>2014-08-30</Date>
+  <Time>17:30</Time>
+  <Locality>Itajaí, Santa Catarina state, Brazil</Locality>
+  <Latitude>-26.8992</Latitude>
+  <Longitude>-48.6849</Longitude>
+  <Elevation>0</Elevation>
+  <Author>João Gava Just</Author>
+  <AuthorID>CEKMJEZKSJ</AuthorID>
+  <Content>call, song</Content>
+  <Comments>bird-seen:noplayback-used:no</Comments>
+  <Quality>3</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies>Pardirallus nigricans,Amazonetta brasiliensis</BackgroundSpecies>
+  <Order>Gruiformes</Order>
+  <Family>Rallidae</Family>
+  <Genus>Aramides</Genus>
+  <Species>cajaneus</Species>
+  <Sub-species />
+  <VernacularNames>Grey-necked Wood Rail</VernacularNames>
+</Audio>

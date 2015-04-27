@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>5677</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN5677.wav</FileName>
+  <ClassId>oozajf</ClassId>
+  <Date>2009-05-22</Date>
+  <Time>?</Time>
+  <Locality>Poço Verde, Parque Nacional das Araucárias, Ponte Serrada, Santa Catarina</Locality>
+  <Latitude>-26.8131</Latitude>
+  <Longitude>-51.9031</Longitude>
+  <Elevation>880</Elevation>
+  <Author>Adrian Eisen Rupp</Author>
+  <AuthorID>AOPMSCIDIA</AuthorID>
+  <Content>song</Content>
+  <Comments />
+  <Quality>1</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies />
+  <Order>Tinamiformes</Order>
+  <Family>Tinamidae</Family>
+  <Genus>Crypturellus</Genus>
+  <Species>obsoletus</Species>
+  <Sub-species />
+  <VernacularNames>Brown Tinamou</VernacularNames>
+</Audio>

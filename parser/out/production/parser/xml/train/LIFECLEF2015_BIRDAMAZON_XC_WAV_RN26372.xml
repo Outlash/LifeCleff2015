@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>26372</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN26372.wav</FileName>
+  <ClassId>htbfro</ClassId>
+  <Date>2012-03-03</Date>
+  <Time>10:49</Time>
+  <Locality>Municipio El Calvario (Meta)</Locality>
+  <Latitude>4.368</Latitude>
+  <Longitude>-73.727</Longitude>
+  <Elevation>2100</Elevation>
+  <Author>Oswaldo Cortes</Author>
+  <AuthorID>VVDRVZCVWW</AuthorID>
+  <Content>song</Content>
+  <Comments />
+  <Quality>3</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Thraupidae</Family>
+  <Genus>Thraupis</Genus>
+  <Species>cyanocephala</Species>
+  <Sub-species />
+  <VernacularNames>Blue-capped Tanager</VernacularNames>
+</Audio>

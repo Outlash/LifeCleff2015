@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>3514</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN3514.wav</FileName>
+  <ClassId>bljpac</ClassId>
+  <Date>2012-05-01</Date>
+  <Time>8:40</Time>
+  <Locality>Lagoa do finado Armando Machado, localizada entre o Alto Humaitá e Alto Fonseca no centro de Pão de Açúcar -Alagoas-Brasil.</Locality>
+  <Latitude>-9.7339627698137</Latitude>
+  <Longitude>-37.435604094935</Longitude>
+  <Elevation>200</Elevation>
+  <Author>pedroteia</Author>
+  <AuthorID>BZVNDWLRSQ</AuthorID>
+  <Content>song</Content>
+  <Comments>fez barulho ao me vêr</Comments>
+  <Quality>3</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies />
+  <Order>Pelecaniformes</Order>
+  <Family>Ardeidae</Family>
+  <Genus>Butorides</Genus>
+  <Species>striata</Species>
+  <Sub-species />
+  <VernacularNames>Striated Heron</VernacularNames>
+</Audio>

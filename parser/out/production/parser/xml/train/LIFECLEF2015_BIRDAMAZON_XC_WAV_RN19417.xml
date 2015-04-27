@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>19417</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN19417.wav</FileName>
+  <ClassId>wlxghh</ClassId>
+  <Date>2010-11-28</Date>
+  <Time>08:55</Time>
+  <Locality>Saül - French Guiana - Track Roche Bateau</Locality>
+  <Latitude>NULL</Latitude>
+  <Longitude>NULL</Longitude>
+  <Elevation>?</Elevation>
+  <Author>Patrick INGREMEAU</Author>
+  <AuthorID>IIVTYSKEYX</AuthorID>
+  <Content>song</Content>
+  <Comments />
+  <Quality>2</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies>Ramphastos vitellinus</BackgroundSpecies>
+  <Order>Passeriformes</Order>
+  <Family>Cotingidae</Family>
+  <Genus>Perissocephalus</Genus>
+  <Species>tricolor</Species>
+  <Sub-species />
+  <VernacularNames>Capuchinbird</VernacularNames>
+</Audio>

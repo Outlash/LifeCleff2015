@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>29934</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN29934.wav</FileName>
+  <ClassId>vtmsem</ClassId>
+  <Date>2005-06-10</Date>
+  <Time>?:?</Time>
+  <Locality>Arapahu, Muskita krikri</Locality>
+  <Latitude>3.4601</Latitude>
+  <Longitude>-57.6201</Longitude>
+  <Elevation>?</Elevation>
+  <Author>Otte Ottema</Author>
+  <AuthorID>ASEUAUOXZA</AuthorID>
+  <Content>call?</Content>
+  <Comments />
+  <Quality>3</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Piciformes</Order>
+  <Family>Bucconidae</Family>
+  <Genus>Monasa</Genus>
+  <Species>atra</Species>
+  <Sub-species />
+  <VernacularNames>Black Nunbird</VernacularNames>
+</Audio>

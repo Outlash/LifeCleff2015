@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>11926</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN11926.wav</FileName>
+  <ClassId>pcfxys</ClassId>
+  <Date>2001-07-07</Date>
+  <Time>08:00</Time>
+  <Locality>Manaus. INPA tower on ZF-2</Locality>
+  <Latitude>-2.5834</Latitude>
+  <Longitude>-60.1167</Longitude>
+  <Elevation>100</Elevation>
+  <Author>Jeremy Minns</Author>
+  <AuthorID>DGVLLRYDXS</AuthorID>
+  <Content>Song</Content>
+  <Comments>Terra firme forest. Natural song of bird 100m away.</Comments>
+  <Quality>1</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies />
+  <Order>Piciformes</Order>
+  <Family>Ramphastidae</Family>
+  <Genus>Ramphastos</Genus>
+  <Species>tucanus</Species>
+  <Sub-species>tucanus</Sub-species>
+  <VernacularNames>White-throated Toucan</VernacularNames>
+</Audio>

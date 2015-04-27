@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>2107</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN2107.wav</FileName>
+  <ClassId>ietadq</ClassId>
+  <Date>2008-10-11</Date>
+  <Time>10:05</Time>
+  <Locality>Santa Bárbara - MG. Caraça</Locality>
+  <Latitude>NULL</Latitude>
+  <Longitude>NULL</Longitude>
+  <Elevation>1100</Elevation>
+  <Author>Wagner Nogueira Alves</Author>
+  <AuthorID>MFERBHYYSW</AuthorID>
+  <Content>song</Content>
+  <Comments />
+  <Quality>3</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies>Formicivora serrana</BackgroundSpecies>
+  <Order>Passeriformes</Order>
+  <Family>Vireonidae</Family>
+  <Genus>Hylophilus</Genus>
+  <Species>amaurocephalus</Species>
+  <Sub-species />
+  <VernacularNames>Grey-eyed Greenlet</VernacularNames>
+</Audio>

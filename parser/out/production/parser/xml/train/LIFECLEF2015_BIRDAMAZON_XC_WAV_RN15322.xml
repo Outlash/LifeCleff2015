@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>15322</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN15322.wav</FileName>
+  <ClassId>ebxlim</ClassId>
+  <Date>1993-04-30</Date>
+  <Time>?</Time>
+  <Locality>Centro de Investigaciones Ecológicas La Macarena. Río Duda, Macarena, Meta</Locality>
+  <Latitude>2.742222</Latitude>
+  <Longitude>-74.03778</Longitude>
+  <Elevation>500</Elevation>
+  <Author>Mauricio Álvarez Rebolledo (Colección de Sonidos Ambientales - Instituto Humboldt)</Author>
+  <AuthorID>XMFDPACYJN</AuthorID>
+  <Content>song</Content>
+  <Comments>BSA 9865To obtain a wav file of the original recording, please contact csa@humboldt.org.coplayback-used:no</Comments>
+  <Quality>2</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies>Tinamus major</BackgroundSpecies>
+  <Order>Passeriformes</Order>
+  <Family>Thamnophilidae</Family>
+  <Genus>Taraba</Genus>
+  <Species>major</Species>
+  <Sub-species />
+  <VernacularNames>Great Antshrike</VernacularNames>
+</Audio>

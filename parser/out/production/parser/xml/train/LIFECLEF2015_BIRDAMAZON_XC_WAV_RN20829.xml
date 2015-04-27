@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>20829</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN20829.wav</FileName>
+  <ClassId>mbwjzf</ClassId>
+  <Date>2013-12-01</Date>
+  <Time>10:00</Time>
+  <Locality>Araponga, Minas Gerais</Locality>
+  <Latitude>NULL</Latitude>
+  <Longitude>NULL</Longitude>
+  <Elevation>1349</Elevation>
+  <Author>Vitor Pinheiro Herdy</Author>
+  <AuthorID>GJMKCBCJJE</AuthorID>
+  <Content>call, song</Content>
+  <Comments>bird-seen:noplayback-used:no</Comments>
+  <Quality>3</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Fringillidae</Family>
+  <Genus>Chlorophonia</Genus>
+  <Species>cyanea</Species>
+  <Sub-species />
+  <VernacularNames>Blue-naped Chlorophonia</VernacularNames>
+</Audio>

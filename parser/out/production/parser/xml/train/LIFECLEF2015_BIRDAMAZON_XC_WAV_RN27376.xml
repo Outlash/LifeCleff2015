@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>27376</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN27376.wav</FileName>
+  <ClassId>uvjypi</ClassId>
+  <Date>2003-08-01</Date>
+  <Time>6:10</Time>
+  <Locality>Bitaco, Valle</Locality>
+  <Latitude>3.557283</Latitude>
+  <Longitude>-76.574707</Longitude>
+  <Elevation>1900-2100</Elevation>
+  <Author>Oscar Laverde</Author>
+  <AuthorID>WKVKSVMNDZ</AuthorID>
+  <Content>song</Content>
+  <Comments />
+  <Quality>2</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Turdidae</Family>
+  <Genus>Myadestes</Genus>
+  <Species>ralloides</Species>
+  <Sub-species />
+  <VernacularNames>Andean Solitaire</VernacularNames>
+</Audio>

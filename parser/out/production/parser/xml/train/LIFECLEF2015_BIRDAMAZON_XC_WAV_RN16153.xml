@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>16153</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN16153.wav</FileName>
+  <ClassId>omjzdy</ClassId>
+  <Date>1997-11-01</Date>
+  <Time>?</Time>
+  <Locality>Río Gazaunta cuenca alta, Miralindo, Medina, Cundinamarca</Locality>
+  <Latitude>4.584167</Latitude>
+  <Longitude>-73.43806</Longitude>
+  <Elevation>1200-2100</Elevation>
+  <Author>Mauricio Álvarez Rebolledo (Colección de Sonidos Ambientales - Instituto Humboldt)</Author>
+  <AuthorID>XMFDPACYJN</AuthorID>
+  <Content>song</Content>
+  <Comments>BSA 286To obtain a wav file of the original recording, please contact csa@humboldt.org.coplayback-used:no</Comments>
+  <Quality>2</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies>Henicorhina leucophrys</BackgroundSpecies>
+  <Order>Passeriformes</Order>
+  <Family>Formicariidae</Family>
+  <Genus>Chamaeza</Genus>
+  <Species>turdina</Species>
+  <Sub-species />
+  <VernacularNames>Schwartz's Antthrush</VernacularNames>
+</Audio>

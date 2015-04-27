@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>12423</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN12423.wav</FileName>
+  <ClassId>xiuiqd</ClassId>
+  <Date>2009-01-25</Date>
+  <Time>06:55</Time>
+  <Locality>Reserva Natural da Vale - Linhares, Espirito Santo</Locality>
+  <Latitude>-19.1456</Latitude>
+  <Longitude>-40.0645</Longitude>
+  <Elevation>50</Elevation>
+  <Author>Marcos Melo</Author>
+  <AuthorID>MRGDYNJGUJ</AuthorID>
+  <Content>song</Content>
+  <Comments>perched</Comments>
+  <Quality>2</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies>Amazona rhodocorytha,Tolmomyias flaviventris,Pitangus sulphuratus</BackgroundSpecies>
+  <Order>Passeriformes</Order>
+  <Family>Thraupidae</Family>
+  <Genus>Coryphospingus</Genus>
+  <Species>pileatus</Species>
+  <Sub-species />
+  <VernacularNames>Grey Pileated Finch</VernacularNames>
+</Audio>

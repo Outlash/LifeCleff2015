@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>2316</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN2316.wav</FileName>
+  <ClassId>jvqabt</ClassId>
+  <Date>2006-09-27</Date>
+  <Time>19h</Time>
+  <Locality>Registro, SP</Locality>
+  <Latitude>NULL</Latitude>
+  <Longitude>NULL</Longitude>
+  <Elevation>30</Elevation>
+  <Author>Julio César Costa</Author>
+  <AuthorID>EPJCJFJJPL</AuthorID>
+  <Content>song</Content>
+  <Comments />
+  <Quality>1</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Parulidae</Family>
+  <Genus>Myiothlypis</Genus>
+  <Species>rivularis</Species>
+  <Sub-species />
+  <VernacularNames>Riverbank Warbler</VernacularNames>
+</Audio>

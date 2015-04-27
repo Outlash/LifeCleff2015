@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>17853</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN17853.wav</FileName>
+  <ClassId>ovipyl</ClassId>
+  <Date>2013-02-01</Date>
+  <Time>07:00</Time>
+  <Locality>Ventanas Peak Road, Jardin, Antioquia, W Andes</Locality>
+  <Latitude>5.547</Latitude>
+  <Longitude>-75.794</Longitude>
+  <Elevation>2900</Elevation>
+  <Author>Diego Calderon-F.</Author>
+  <AuthorID>OGATBVKNAG</AuthorID>
+  <Content>?</Content>
+  <Comments>2 individualsbird-seen:noplayback-used:yes</Comments>
+  <Quality>1</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies>Grallaria rufula</BackgroundSpecies>
+  <Order>Passeriformes</Order>
+  <Family>Grallariidae</Family>
+  <Genus>Grallaria</Genus>
+  <Species>rufula</Species>
+  <Sub-species>rufula</Sub-species>
+  <VernacularNames>Rufous Antpitta</VernacularNames>
+</Audio>

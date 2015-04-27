@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>6515</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN6515.wav</FileName>
+  <ClassId>fhqazb</ClassId>
+  <Date>2000-08-31</Date>
+  <Time>06:33</Time>
+  <Locality>Chapada dos Guimarães. Road to Água Fria.</Locality>
+  <Latitude>-15.2501</Latitude>
+  <Longitude>-55.6834</Longitude>
+  <Elevation>400</Elevation>
+  <Author>Jeremy Minns</Author>
+  <AuthorID>DGVLLRYDXS</AuthorID>
+  <Content>call, song in duet</Content>
+  <Comments>Cerrado. Pair.</Comments>
+  <Quality>2</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies>Cyanocorax cristatellus</BackgroundSpecies>
+  <Order>Passeriformes</Order>
+  <Family>Tyrannidae</Family>
+  <Genus>Suiriri</Genus>
+  <Species>suiriri</Species>
+  <Sub-species>affinis</Sub-species>
+  <VernacularNames>Suiriri Flycatcher</VernacularNames>
+</Audio>

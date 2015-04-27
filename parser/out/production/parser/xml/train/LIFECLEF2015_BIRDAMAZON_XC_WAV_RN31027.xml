@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>31027</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN31027.wav</FileName>
+  <ClassId>upfjhp</ClassId>
+  <Date>2012-04-20</Date>
+  <Time>09:34</Time>
+  <Locality>Los Nevados NP, above Manizales, Caldas, C Andes</Locality>
+  <Latitude>5.005</Latitude>
+  <Longitude>-75.327</Longitude>
+  <Elevation>4135</Elevation>
+  <Author>Jeremy Minns</Author>
+  <AuthorID>DGVLLRYDXS</AuthorID>
+  <Content>Song</Content>
+  <Comments>Paramo vegetation near entrance to park. Probably after playback.</Comments>
+  <Quality>2</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Troglodytidae</Family>
+  <Genus>Cistothorus</Genus>
+  <Species>platensis</Species>
+  <Sub-species>tolimae</Sub-species>
+  <VernacularNames>Sedge Wren</VernacularNames>
+</Audio>

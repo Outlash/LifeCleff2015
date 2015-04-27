@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>15730</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN15730.wav</FileName>
+  <ClassId>rbfolt</ClassId>
+  <Date>2002-06-26</Date>
+  <Time>07:30</Time>
+  <Locality>Reserva Iguaque (SFF), Villa de Leyva, Boyaca</Locality>
+  <Latitude>NULL</Latitude>
+  <Longitude>NULL</Longitude>
+  <Elevation>2850</Elevation>
+  <Author>Bernabe Lopez-Lanus</Author>
+  <AuthorID>BYLLSJRVDZ</AuthorID>
+  <Content>call</Content>
+  <Comments />
+  <Quality>3</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Apodiformes</Order>
+  <Family>Trochilidae</Family>
+  <Genus>Ocreatus</Genus>
+  <Species>underwoodii</Species>
+  <Sub-species>underwoodii</Sub-species>
+  <VernacularNames>Booted Racket-tail</VernacularNames>
+</Audio>

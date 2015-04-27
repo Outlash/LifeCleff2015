@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>24899</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN24899.wav</FileName>
+  <ClassId>perzmu</ClassId>
+  <Date>2009-10-00</Date>
+  <Time>17:00</Time>
+  <Locality>Scrub west of San Luis, San Andres island</Locality>
+  <Latitude>12.539</Latitude>
+  <Longitude>-81.712</Longitude>
+  <Elevation>30</Elevation>
+  <Author>Thomas Donegan</Author>
+  <AuthorID>OXSIOLJJUP</AuthorID>
+  <Content>call</Content>
+  <Comments />
+  <Quality>3</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Coerebidae</Family>
+  <Genus>Coereba</Genus>
+  <Species>flaveola</Species>
+  <Sub-species>tricolor</Sub-species>
+  <VernacularNames>Bananaquit</VernacularNames>
+</Audio>

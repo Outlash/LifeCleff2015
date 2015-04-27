@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>17862</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN17862.wav</FileName>
+  <ClassId>dxtjbh</ClassId>
+  <Date>1998-06-24</Date>
+  <Time>am</Time>
+  <Locality>Finca Yerbabuenal (sobre Toche), canon del rio Toche, Tolima</Locality>
+  <Latitude>NULL</Latitude>
+  <Longitude>NULL</Longitude>
+  <Elevation>2500</Elevation>
+  <Author>Bernabe Lopez-Lanus</Author>
+  <AuthorID>BYLLSJRVDZ</AuthorID>
+  <Content>Song</Content>
+  <Comments>Response to playback. Coordinates: 4º31’N 75º24’W</Comments>
+  <Quality>1</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Emberizidae</Family>
+  <Genus>Atlapetes</Genus>
+  <Species>flaviceps</Species>
+  <Sub-species />
+  <VernacularNames>Yellow-headed Brush Finch</VernacularNames>
+</Audio>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>16799</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN16799.wav</FileName>
+  <ClassId>pswzyj</ClassId>
+  <Date>2000-05-01</Date>
+  <Time>?</Time>
+  <Locality>Henri Pittier Nat. Park</Locality>
+  <Latitude>10.417</Latitude>
+  <Longitude>-67.633</Longitude>
+  <Elevation>1200</Elevation>
+  <Author>Allen T. Chartier</Author>
+  <AuthorID>AZXTZTQJRO</AuthorID>
+  <Content>Song</Content>
+  <Comments>Ocumare Road</Comments>
+  <Quality>5</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Vireonidae</Family>
+  <Genus>Vireo</Genus>
+  <Species>olivaceus</Species>
+  <Sub-species>vividior</Sub-species>
+  <VernacularNames>Red-eyed Vireo</VernacularNames>
+</Audio>

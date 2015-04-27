@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>18338</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN18338.wav</FileName>
+  <ClassId>nnxjdw</ClassId>
+  <Date>2005-10-27</Date>
+  <Time>15:03</Time>
+  <Locality>Serra dos Carajás. Rio Itacaiúnas</Locality>
+  <Latitude>-5.8667</Latitude>
+  <Longitude>-50.4834</Longitude>
+  <Elevation>170</Elevation>
+  <Author>Jeremy Minns</Author>
+  <AuthorID>DGVLLRYDXS</AuthorID>
+  <Content>call</Content>
+  <Comments>Edge of terra firme forest.</Comments>
+  <Quality>1</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Piciformes</Order>
+  <Family>Bucconidae</Family>
+  <Genus>Chelidoptera</Genus>
+  <Species>tenebrosa</Species>
+  <Sub-species>tenebrosa</Sub-species>
+  <VernacularNames>Swallow-winged Puffbird</VernacularNames>
+</Audio>

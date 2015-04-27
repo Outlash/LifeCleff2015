@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>27080</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN27080.wav</FileName>
+  <ClassId>qwshnx</ClassId>
+  <Date>2008-12-20</Date>
+  <Time>08:00</Time>
+  <Locality>Aurora Alta_Bogota</Locality>
+  <Latitude>NULL</Latitude>
+  <Longitude>NULL</Longitude>
+  <Elevation>2500</Elevation>
+  <Author>Oswaldo Cortes</Author>
+  <AuthorID>VVDRVZCVWW</AuthorID>
+  <Content>song</Content>
+  <Comments />
+  <Quality>1</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies>Scytalopus griseicollis,Diglossa caerulescens,Myiothlypis nigrocristata</BackgroundSpecies>
+  <Order>Passeriformes</Order>
+  <Family>Thraupidae</Family>
+  <Genus>Diglossa</Genus>
+  <Species>albilatera</Species>
+  <Sub-species />
+  <VernacularNames>White-sided Flowerpiercer</VernacularNames>
+</Audio>

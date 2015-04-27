@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>12509</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN12509.wav</FileName>
+  <ClassId>iyiuiw</ClassId>
+  <Date>2001-11-08</Date>
+  <Time>05:25</Time>
+  <Locality>Boa Nova, Wet Forest, state of Bahia</Locality>
+  <Latitude>-14.3834</Latitude>
+  <Longitude>-40.1001</Longitude>
+  <Elevation>825</Elevation>
+  <Author>Jeremy Minns</Author>
+  <AuthorID>DGVLLRYDXS</AuthorID>
+  <Content>Song A</Content>
+  <Comments>Humid forest.</Comments>
+  <Quality>2</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies>Drymophila ochropyga,Rhytipterna simplex,Sirystes sibilator,Turdus albicollis</BackgroundSpecies>
+  <Order>Passeriformes</Order>
+  <Family>Tityridae</Family>
+  <Genus>Pachyramphus</Genus>
+  <Species>castaneus</Species>
+  <Sub-species>castaneus</Sub-species>
+  <VernacularNames>Chestnut-crowned Becard</VernacularNames>
+</Audio>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>9698</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN9698.wav</FileName>
+  <ClassId>nrzcow</ClassId>
+  <Date>2011-09-18</Date>
+  <Time>14:30</Time>
+  <Locality>Juiz de Fora, Minas Gerais</Locality>
+  <Latitude>-21.765</Latitude>
+  <Longitude>-43.3488</Longitude>
+  <Elevation>700</Elevation>
+  <Author>Noé Eiterer</Author>
+  <AuthorID>TWSKITNQOV</AuthorID>
+  <Content>song</Content>
+  <Comments>bird-seen:yesplayback-used:no</Comments>
+  <Quality>1</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies />
+  <Order>Piciformes</Order>
+  <Family>Picidae</Family>
+  <Genus>Colaptes</Genus>
+  <Species>campestris</Species>
+  <Sub-species />
+  <VernacularNames>Campo Flicker</VernacularNames>
+</Audio>

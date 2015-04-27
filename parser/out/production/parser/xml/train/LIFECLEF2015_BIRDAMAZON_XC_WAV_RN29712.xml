@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>29712</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN29712.wav</FileName>
+  <ClassId>ehpgkp</ClassId>
+  <Date>2010-05-22</Date>
+  <Time>08:45</Time>
+  <Locality>Montagne plomb - Petit saut</Locality>
+  <Latitude>NULL</Latitude>
+  <Longitude>NULL</Longitude>
+  <Elevation>?</Elevation>
+  <Author>Patrick INGREMEAU</Author>
+  <AuthorID>IIVTYSKEYX</AuthorID>
+  <Content>song</Content>
+  <Comments />
+  <Quality>0</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies>Lipaugus vociferans,Willisornis poecilinotus</BackgroundSpecies>
+  <Order>Passeriformes</Order>
+  <Family>Formicariidae</Family>
+  <Genus>Formicarius</Genus>
+  <Species>analis</Species>
+  <Sub-species />
+  <VernacularNames>Black-faced Antthrush</VernacularNames>
+</Audio>

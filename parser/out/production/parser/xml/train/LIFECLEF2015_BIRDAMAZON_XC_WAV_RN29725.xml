@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>29725</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN29725.wav</FileName>
+  <ClassId>pawhhj</ClassId>
+  <Date>2002-12-12</Date>
+  <Time>08:00</Time>
+  <Locality>Bogota, Quebrada la Vieja</Locality>
+  <Latitude>4.6231</Latitude>
+  <Longitude>-74.0562</Longitude>
+  <Elevation>2900</Elevation>
+  <Author>Doug Knapp</Author>
+  <AuthorID>BHRXQZEQFL</AuthorID>
+  <Content>Song</Content>
+  <Comments>Group of 4-5 individuals singing.</Comments>
+  <Quality>1</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Thraupidae</Family>
+  <Genus>Diglossa</Genus>
+  <Species>caerulescens</Species>
+  <Sub-species />
+  <VernacularNames>Bluish Flowerpiercer</VernacularNames>
+</Audio>

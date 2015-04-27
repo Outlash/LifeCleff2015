@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>14263</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN14263.wav</FileName>
+  <ClassId>bkwfkb</ClassId>
+  <Date>2013-01-06</Date>
+  <Time>09:30</Time>
+  <Locality>Sopó, Cundinamarca- Colombia</Locality>
+  <Latitude>4.8531</Latitude>
+  <Longitude>-73.9313</Longitude>
+  <Elevation>2900</Elevation>
+  <Author>José Ignacio Giraldo Arango</Author>
+  <AuthorID>CQKUXQIQXV</AuthorID>
+  <Content>song</Content>
+  <Comments>bird-seen:noplayback-used:no</Comments>
+  <Quality>2</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Rhinocryptidae</Family>
+  <Genus>Scytalopus</Genus>
+  <Species>griseicollis</Species>
+  <Sub-species />
+  <VernacularNames>Pale-bellied Tapaculo</VernacularNames>
+</Audio>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>20449</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN20449.wav</FileName>
+  <ClassId>efojdf</ClassId>
+  <Date>2008-02-22</Date>
+  <Time>10:55</Time>
+  <Locality>Monterredondo, Cundinamarca</Locality>
+  <Latitude>4.2834</Latitude>
+  <Longitude>-73.7834</Longitude>
+  <Elevation>2100</Elevation>
+  <Author>Herman van Oosten</Author>
+  <AuthorID>SNUDCZVUQK</AuthorID>
+  <Content>Song</Content>
+  <Comments>Another kaestneri, singing very close by but less frequent than the other recording.</Comments>
+  <Quality>1</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Grallariidae</Family>
+  <Genus>Grallaria</Genus>
+  <Species>kaestneri</Species>
+  <Sub-species />
+  <VernacularNames>Cundinamarca Antpitta</VernacularNames>
+</Audio>

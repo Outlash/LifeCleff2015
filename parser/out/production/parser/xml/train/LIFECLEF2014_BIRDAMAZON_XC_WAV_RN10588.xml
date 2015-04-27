@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>10588</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN10588.wav</FileName>
+  <ClassId>zcwqjv</ClassId>
+  <Date>2013-09-17</Date>
+  <Time>7:51</Time>
+  <Locality>Alto Paraiso, Goias</Locality>
+  <Latitude>-14.161877</Latitude>
+  <Longitude>-47.526169</Longitude>
+  <Elevation />
+  <Author>Marcelo Araya-Salas</Author>
+  <AuthorID>EMCWQLLKEW</AuthorID>
+  <Content>Flight call</Content>
+  <Comments>Recording equipment: iphone/tascam adaptor+senheisser ME67. Comments: flying over at 40m , two birds, Cerrado forest, close to riparian vegetation patch, Road to Sao Jorge. To access original .WAV file contact marceloa27(at)gmail.combird-seen:yesplayback-used:no</Comments>
+  <Quality>1</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies />
+  <Order>Psittaciformes</Order>
+  <Family>Psittacidae</Family>
+  <Genus>Ara</Genus>
+  <Species>ararauna</Species>
+  <Sub-species />
+  <VernacularNames>Blue-and-yellow Macaw</VernacularNames>
+</Audio>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>30253</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN30253.wav</FileName>
+  <ClassId>rcvrfz</ClassId>
+  <Date>2014-03-25</Date>
+  <Time>09:30</Time>
+  <Locality>Jauru, Mato Grosso</Locality>
+  <Latitude>-15.2102</Latitude>
+  <Longitude>-58.8885</Longitude>
+  <Elevation>500</Elevation>
+  <Author>GABRIEL LEITE</Author>
+  <AuthorID>TGBFXDVERJ</AuthorID>
+  <Content>male, song</Content>
+  <Comments>bird-seen:yesplayback-used:no</Comments>
+  <Quality>1</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Fringillidae</Family>
+  <Genus>Euphonia</Genus>
+  <Species>chlorotica</Species>
+  <Sub-species />
+  <VernacularNames>Purple-throated Euphonia</VernacularNames>
+</Audio>

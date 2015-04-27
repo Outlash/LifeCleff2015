@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>27177</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN27177.wav</FileName>
+  <ClassId>pgnepr</ClassId>
+  <Date>2014-04-06</Date>
+  <Time>11:30</Time>
+  <Locality>Reserva Natural Herederos del Planeta El Encano</Locality>
+  <Latitude>1.0624</Latitude>
+  <Longitude>-77.1169</Longitude>
+  <Elevation>2800</Elevation>
+  <Author>Alejo Mendoza</Author>
+  <AuthorID>YCIOTBBKWR</AuthorID>
+  <Content>song</Content>
+  <Comments>Bosque secundario en regeneración en Humedal de La Cochabird-seen:noplayback-used:no</Comments>
+  <Quality>3</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Grallariidae</Family>
+  <Genus>Grallaria</Genus>
+  <Species>nuchalis</Species>
+  <Sub-species />
+  <VernacularNames>Chestnut-naped Antpitta</VernacularNames>
+</Audio>

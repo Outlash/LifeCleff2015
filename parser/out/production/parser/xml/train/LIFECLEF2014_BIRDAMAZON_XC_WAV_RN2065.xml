@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>2065</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN2065.wav</FileName>
+  <ClassId>jocatj</ClassId>
+  <Date>2006-06-25</Date>
+  <Time>10:30</Time>
+  <Locality>Cristalino Jungle Lodge, MT</Locality>
+  <Latitude>-9.5981</Latitude>
+  <Longitude>-55.932</Longitude>
+  <Elevation>250</Elevation>
+  <Author>Scott Olmstead</Author>
+  <AuthorID>DABODLPUPA</AuthorID>
+  <Content>chatter</Content>
+  <Comments>Female</Comments>
+  <Quality>2</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies>Ramphastos tucanus</BackgroundSpecies>
+  <Order>Passeriformes</Order>
+  <Family>Thamnophilidae</Family>
+  <Genus>Schistocichla</Genus>
+  <Species>rufifacies</Species>
+  <Sub-species />
+  <VernacularNames>Rufous-faced Antbird</VernacularNames>
+</Audio>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>4478</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN4478.wav</FileName>
+  <ClassId>ujjmnm</ClassId>
+  <Date>2002-02-07</Date>
+  <Time>17:13</Time>
+  <Locality>Correntina, BA</Locality>
+  <Latitude>-13.3501</Latitude>
+  <Longitude>-44.6334</Longitude>
+  <Elevation>450</Elevation>
+  <Author>Jeremy Minns</Author>
+  <AuthorID>DGVLLRYDXS</AuthorID>
+  <Content>Call</Content>
+  <Comments>Cerrado. Female. This is Call B in our DVD-ROM 'Birds of Brazil.'</Comments>
+  <Quality>2</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies>Ammodramus humeralis,Synallaxis albescens,Rhynchotus rufescens</BackgroundSpecies>
+  <Order>Passeriformes</Order>
+  <Family>Thamnophilidae</Family>
+  <Genus>Thamnophilus</Genus>
+  <Species>torquatus</Species>
+  <Sub-species />
+  <VernacularNames>Rufous-winged Antshrike</VernacularNames>
+</Audio>

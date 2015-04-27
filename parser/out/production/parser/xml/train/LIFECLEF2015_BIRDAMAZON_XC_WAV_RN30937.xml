@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>30937</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN30937.wav</FileName>
+  <ClassId>vllfph</ClassId>
+  <Date>2013-03-22</Date>
+  <Time>?</Time>
+  <Locality>RNA El Colibrí del Sol</Locality>
+  <Latitude>6.4381</Latitude>
+  <Longitude>-76.0884</Longitude>
+  <Elevation>3500</Elevation>
+  <Author>Hans Matheve</Author>
+  <AuthorID>VROUALCTKG</AuthorID>
+  <Content>song</Content>
+  <Comments>bird-seen:no</Comments>
+  <Quality>1</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Grallariidae</Family>
+  <Genus>Grallaria</Genus>
+  <Species>squamigera</Species>
+  <Sub-species>squamigera</Sub-species>
+  <VernacularNames>Undulated Antpitta</VernacularNames>
+</Audio>

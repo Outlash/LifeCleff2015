@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>3131</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN3131.wav</FileName>
+  <ClassId>zwdpnv</ClassId>
+  <Date>2002-02-01</Date>
+  <Time>12:19</Time>
+  <Locality>Serra dos Carajás. Águas Claras</Locality>
+  <Latitude>-6.1657</Latitude>
+  <Longitude>-50.3445</Longitude>
+  <Elevation>390</Elevation>
+  <Author>Jeremy Minns</Author>
+  <AuthorID>DGVLLRYDXS</AuthorID>
+  <Content>Song</Content>
+  <Comments>Terra firme forest. Male, after playback.</Comments>
+  <Quality>1</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies>Turdus albicollis</BackgroundSpecies>
+  <Order>Passeriformes</Order>
+  <Family>Thamnophilidae</Family>
+  <Genus>Myrmotherula</Genus>
+  <Species>menetriesii</Species>
+  <Sub-species>omissa</Sub-species>
+  <VernacularNames>Grey Antwren</VernacularNames>
+</Audio>

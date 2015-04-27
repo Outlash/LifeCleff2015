@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>22210</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN22210.wav</FileName>
+  <ClassId>lavuag</ClassId>
+  <Date>1998-02-25</Date>
+  <Time>?</Time>
+  <Locality>SFF Iguaque, Chiquiza, Boyacá</Locality>
+  <Latitude>5.633333</Latitude>
+  <Longitude>-73.48333</Longitude>
+  <Elevation>2700-3000</Elevation>
+  <Author>Mauricio Álvarez Rebolledo (Colección de Sonidos Ambientales - Instituto Humboldt)</Author>
+  <AuthorID>XMFDPACYJN</AuthorID>
+  <Content>song</Content>
+  <Comments>BSA 10249To obtain a wav file of the original recording, please contact csa@humboldt.org.coplayback-used:no</Comments>
+  <Quality>1</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Apodiformes</Order>
+  <Family>Trochilidae</Family>
+  <Genus>Metallura</Genus>
+  <Species>tyrianthina</Species>
+  <Sub-species />
+  <VernacularNames>Tyrian Metaltail</VernacularNames>
+</Audio>

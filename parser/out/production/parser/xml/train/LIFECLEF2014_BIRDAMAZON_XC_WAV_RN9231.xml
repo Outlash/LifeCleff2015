@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>9231</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN9231.wav</FileName>
+  <ClassId>athqge</ClassId>
+  <Date>2011-09-21</Date>
+  <Time>07:57</Time>
+  <Locality>Cristalino Jungle Lodge, MT</Locality>
+  <Latitude>-9.5981</Latitude>
+  <Longitude>-55.932</Longitude>
+  <Elevation>260</Elevation>
+  <Author>Eric DeFonso</Author>
+  <AuthorID>KTLCZCRCQX</AuthorID>
+  <Content>song</Content>
+  <Comments>Typical, natural song from bird perched 12m up a tree, 5-7m from my position. Signal improves later in cut. Recorded along the Serra trail in terra firme forest.bird-seen:yesplayback-used:no</Comments>
+  <Quality>3</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies>Patagioenas subvinacea</BackgroundSpecies>
+  <Order>Passeriformes</Order>
+  <Family>Thamnophilidae</Family>
+  <Genus>Thamnophilus</Genus>
+  <Species>amazonicus</Species>
+  <Sub-species />
+  <VernacularNames>Amazonian Antshrike</VernacularNames>
+</Audio>

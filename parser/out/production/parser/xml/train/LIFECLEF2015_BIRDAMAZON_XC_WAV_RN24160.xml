@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>24160</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN24160.wav</FileName>
+  <ClassId>htbfro</ClassId>
+  <Date>2012-03-08</Date>
+  <Time>8-10</Time>
+  <Locality>Santo Domingo, Mérida</Locality>
+  <Latitude>8.8589</Latitude>
+  <Longitude>-70.7042</Longitude>
+  <Elevation>1600</Elevation>
+  <Author>Albert Lastukhin</Author>
+  <AuthorID>LELYWQKUZX</AuthorID>
+  <Content>call</Content>
+  <Comments />
+  <Quality>5</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Thraupidae</Family>
+  <Genus>Thraupis</Genus>
+  <Species>cyanocephala</Species>
+  <Sub-species />
+  <VernacularNames>Blue-capped Tanager</VernacularNames>
+</Audio>

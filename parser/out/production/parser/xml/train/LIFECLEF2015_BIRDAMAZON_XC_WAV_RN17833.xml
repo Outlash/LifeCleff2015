@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>17833</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN17833.wav</FileName>
+  <ClassId>ugoxqz</ClassId>
+  <Date>2012-02-05</Date>
+  <Time>11:43</Time>
+  <Locality>Mata do Estado, São Vicente Férrer, Pernambuco</Locality>
+  <Latitude>-7.6167</Latitude>
+  <Longitude>-35.5001</Longitude>
+  <Elevation>500</Elevation>
+  <Author>Marcus Braun</Author>
+  <AuthorID>EICLYDGEKS</AuthorID>
+  <Content>flight call</Content>
+  <Comments>bird-seen:yesplayback-used:no</Comments>
+  <Quality>2</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Apodiformes</Order>
+  <Family>Trochilidae</Family>
+  <Genus>Phaethornis</Genus>
+  <Species>pretrei</Species>
+  <Sub-species />
+  <VernacularNames>Planalto Hermit</VernacularNames>
+</Audio>

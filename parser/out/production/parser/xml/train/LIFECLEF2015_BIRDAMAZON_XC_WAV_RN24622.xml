@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>24622</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN24622.wav</FileName>
+  <ClassId>yjdnmm</ClassId>
+  <Date>2011-01-29</Date>
+  <Time>08:20</Time>
+  <Locality>RNA Arrierito Antioqueño, Anorí, Antioquia</Locality>
+  <Latitude>6.9862</Latitude>
+  <Longitude>-75.1251</Longitude>
+  <Elevation>1650</Elevation>
+  <Author>Eric DeFonso</Author>
+  <AuthorID>KTLCZCRCQX</AuthorID>
+  <Content>song</Content>
+  <Comments />
+  <Quality>3</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies>Cyanocorax yncas</BackgroundSpecies>
+  <Order>Galliformes</Order>
+  <Family>Cracidae</Family>
+  <Genus>Ortalis</Genus>
+  <Species>columbiana</Species>
+  <Sub-species />
+  <VernacularNames>Colombian Chachalaca</VernacularNames>
+</Audio>

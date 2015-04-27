@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>474</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN474.wav</FileName>
+  <ClassId>igcivw</ClassId>
+  <Date>2009-12-29</Date>
+  <Time>06:50</Time>
+  <Locality>Santa Vitória, MG</Locality>
+  <Latitude>-18.854</Latitude>
+  <Longitude>-50.131</Longitude>
+  <Elevation>?</Elevation>
+  <Author>Ricardo Gagliardi</Author>
+  <AuthorID>YRDADNREOP</AuthorID>
+  <Content>flock flight call</Content>
+  <Comments />
+  <Quality>2</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies>Sporophila lineola</BackgroundSpecies>
+  <Order>Pelecaniformes</Order>
+  <Family>Threskiornithidae</Family>
+  <Genus>Theristicus</Genus>
+  <Species>caudatus</Species>
+  <Sub-species />
+  <VernacularNames>Buff-necked Ibis</VernacularNames>
+</Audio>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>21207</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN21207.wav</FileName>
+  <ClassId>addsdr</ClassId>
+  <Date>2010-09-22</Date>
+  <Time>09:00</Time>
+  <Locality>RPPN Solo Sagrado, São Paulo - SP</Locality>
+  <Latitude>-23.77</Latitude>
+  <Longitude>-46.754</Longitude>
+  <Elevation>800</Elevation>
+  <Author>Fernando Igor de Godoy</Author>
+  <AuthorID>CHDHFSVVIN</AuthorID>
+  <Content>song</Content>
+  <Comments>FNJV 30326bird-seen:yesplayback-used:yes</Comments>
+  <Quality>2</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Tyrannidae</Family>
+  <Genus>Hemitriccus</Genus>
+  <Species>nidipendulus</Species>
+  <Sub-species>paulistus</Sub-species>
+  <VernacularNames>Hangnest Tody-Tyrant</VernacularNames>
+</Audio>

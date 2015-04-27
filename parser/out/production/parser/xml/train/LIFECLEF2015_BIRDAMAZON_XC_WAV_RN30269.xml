@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>30269</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN30269.wav</FileName>
+  <ClassId>elfnvh</ClassId>
+  <Date>2013-07-14</Date>
+  <Time>08:00</Time>
+  <Locality>Barreiro, Araxá, MG</Locality>
+  <Latitude>-19.6465</Latitude>
+  <Longitude>-46.9472</Longitude>
+  <Elevation>950</Elevation>
+  <Author>Bruno Arantes de Andrade Bueno</Author>
+  <AuthorID>BIZLGNOPNS</AuthorID>
+  <Content>call, male</Content>
+  <Comments>Two males (one likely a juvenile, as its crown was not yet totally red) foraging on dead trunks on the floor in border of second-growth vegetation. Recording was split at 01:02 to remove speech.bird-seen:yesplayback-used:no</Comments>
+  <Quality>3</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Piciformes</Order>
+  <Family>Picidae</Family>
+  <Genus>Veniliornis</Genus>
+  <Species>passerinus</Species>
+  <Sub-species />
+  <VernacularNames>Little Woodpecker</VernacularNames>
+</Audio>

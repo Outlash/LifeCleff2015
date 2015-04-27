@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>21358</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN21358.wav</FileName>
+  <ClassId>yjdnmm</ClassId>
+  <Date>2000-01-07</Date>
+  <Time>?</Time>
+  <Locality>Alrededores de Roncesvalles_Tolima</Locality>
+  <Latitude>4.098</Latitude>
+  <Longitude>-75.6048</Longitude>
+  <Elevation>2500</Elevation>
+  <Author>Bernabe Lopez-Lanus</Author>
+  <AuthorID>BYLLSJRVDZ</AuthorID>
+  <Content>call</Content>
+  <Comments>Calls of 3-4 birds in persecutions</Comments>
+  <Quality>1</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Galliformes</Order>
+  <Family>Cracidae</Family>
+  <Genus>Ortalis</Genus>
+  <Species>columbiana</Species>
+  <Sub-species>columbiana</Sub-species>
+  <VernacularNames>Colombian Chachalaca</VernacularNames>
+</Audio>

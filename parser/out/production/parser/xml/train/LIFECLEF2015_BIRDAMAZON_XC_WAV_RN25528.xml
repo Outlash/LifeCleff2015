@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>25528</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN25528.wav</FileName>
+  <ClassId>ijgxro</ClassId>
+  <Date>2011-03-14</Date>
+  <Time>8-40</Time>
+  <Locality>Bachaquero</Locality>
+  <Latitude>9.904</Latitude>
+  <Longitude>-71.104</Longitude>
+  <Elevation>10</Elevation>
+  <Author>Albert Lastukhin</Author>
+  <AuthorID>LELYWQKUZX</AuthorID>
+  <Content>call</Content>
+  <Comments />
+  <Quality>3</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Fringillidae</Family>
+  <Genus>Euphonia</Genus>
+  <Species>trinitatis</Species>
+  <Sub-species />
+  <VernacularNames>Trinidad Euphonia</VernacularNames>
+</Audio>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>5693</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN5693.wav</FileName>
+  <ClassId>bbtkon</ClassId>
+  <Date>2001-07-06</Date>
+  <Time>07:20</Time>
+  <Locality>Presidente Figueiredo, AM. Iracema Falls Hotel</Locality>
+  <Latitude>-1.9834</Latitude>
+  <Longitude>-60.0501</Longitude>
+  <Elevation>122</Elevation>
+  <Author>Jeremy Minns</Author>
+  <AuthorID>DGVLLRYDXS</AuthorID>
+  <Content>Song</Content>
+  <Comments>Terra firme forest.</Comments>
+  <Quality>1</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies>Automolus ochrolaemus,Lipaugus vociferans</BackgroundSpecies>
+  <Order>Passeriformes</Order>
+  <Family>Thamnophilidae</Family>
+  <Genus>Percnostola</Genus>
+  <Species>rufifrons</Species>
+  <Sub-species>subcristata</Sub-species>
+  <VernacularNames>Black-headed Antbird</VernacularNames>
+</Audio>

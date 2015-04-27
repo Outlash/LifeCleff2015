@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>7304</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN7304.wav</FileName>
+  <ClassId>ujjmnm</ClassId>
+  <Date>2009-01-21</Date>
+  <Time>10:10</Time>
+  <Locality>RPPN Serra Bonita, Camacan, Bahia.</Locality>
+  <Latitude>-15.3851</Latitude>
+  <Longitude>-39.5709</Longitude>
+  <Elevation>400</Elevation>
+  <Author>Sidnei S. dos Santos</Author>
+  <AuthorID>BHODJXTHGQ</AuthorID>
+  <Content>Song</Content>
+  <Comments>Macho jovem.</Comments>
+  <Quality>2</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Thamnophilidae</Family>
+  <Genus>Thamnophilus</Genus>
+  <Species>torquatus</Species>
+  <Sub-species />
+  <VernacularNames>Rufous-winged Antshrike</VernacularNames>
+</Audio>

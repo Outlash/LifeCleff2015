@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>16070</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN16070.wav</FileName>
+  <ClassId>qwshnx</ClassId>
+  <Date>2010-02-04</Date>
+  <Time>11:00</Time>
+  <Locality>Parque Natural Munchique, sector Romelia</Locality>
+  <Latitude>NULL</Latitude>
+  <Longitude>NULL</Longitude>
+  <Elevation>2450</Elevation>
+  <Author>Frank Lambert</Author>
+  <AuthorID>YTUXOCTUEM</AuthorID>
+  <Content>trill</Content>
+  <Comments>not seen 90 percent sure of ID</Comments>
+  <Quality>0</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Thraupidae</Family>
+  <Genus>Diglossa</Genus>
+  <Species>albilatera</Species>
+  <Sub-species />
+  <VernacularNames>White-sided Flowerpiercer</VernacularNames>
+</Audio>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>25332</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN25332.wav</FileName>
+  <ClassId>wyqhet</ClassId>
+  <Date>2013-05-19</Date>
+  <Time>07:30</Time>
+  <Locality>Frecheirinha</Locality>
+  <Latitude>-3.8531</Latitude>
+  <Longitude>-40.9271</Longitude>
+  <Elevation>850</Elevation>
+  <Author>Caio Brito</Author>
+  <AuthorID>YWWWUBVAJF</AuthorID>
+  <Content>song</Content>
+  <Comments>playback-used:no</Comments>
+  <Quality>0</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Thamnophilidae</Family>
+  <Genus>Thamnophilus</Genus>
+  <Species>pelzelni</Species>
+  <Sub-species />
+  <VernacularNames>Planalto Slaty Antshrike</VernacularNames>
+</Audio>

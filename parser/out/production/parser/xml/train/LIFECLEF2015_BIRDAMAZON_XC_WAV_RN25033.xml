@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>25033</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN25033.wav</FileName>
+  <ClassId>vumzkv</ClassId>
+  <Date>1997-03-14</Date>
+  <Time>07:20</Time>
+  <Locality>Paraty, Paraty, Rio de Janeiro</Locality>
+  <Latitude>-23.2201</Latitude>
+  <Longitude>-44.7205</Longitude>
+  <Elevation>0</Elevation>
+  <Author>Dante Buzzetti</Author>
+  <AuthorID>YOXWKYFZAP</AuthorID>
+  <Content>call</Content>
+  <Comments>Praia de São Roquebird-seen:yesplayback-used:no</Comments>
+  <Quality>1</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Furnariidae</Family>
+  <Genus>Cichlocolaptes</Genus>
+  <Species>leucophrus</Species>
+  <Sub-species>holti</Sub-species>
+  <VernacularNames>Pale-browed Treehunter</VernacularNames>
+</Audio>

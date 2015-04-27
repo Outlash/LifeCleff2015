@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>10044</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN10044.wav</FileName>
+  <ClassId>dhzucj</ClassId>
+  <Date>0000-00-00</Date>
+  <Time>?:?</Time>
+  <Locality>Parque Nacional do Itatiaia, near the waterfall</Locality>
+  <Latitude>-22.3</Latitude>
+  <Longitude>-44.6</Longitude>
+  <Elevation>?</Elevation>
+  <Author>Frank Lambert</Author>
+  <AuthorID>YTUXOCTUEM</AuthorID>
+  <Content>song</Content>
+  <Comments>Previously published on AVoCet as &lt;a href=http://avocet.zoology.msu.edu/recordings/7569&gt;AV7569&lt;/a&gt;.  Certainty: 100%.  ID determined by: seen. GPS: estimate from GeoHack. Habitat: in dense scrub.  possibly also calls  digitized from cassette</Comments>
+  <Quality>2</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Thamnophilidae</Family>
+  <Genus>Drymophila</Genus>
+  <Species>ochropyga</Species>
+  <Sub-species />
+  <VernacularNames>Ochre-rumped Antbird</VernacularNames>
+</Audio>

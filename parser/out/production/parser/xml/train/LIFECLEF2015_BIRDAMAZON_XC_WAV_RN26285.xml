@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>26285</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN26285.wav</FileName>
+  <ClassId>vjukoo</ClassId>
+  <Date>2012-12-06</Date>
+  <Time>08:00</Time>
+  <Locality>Serra do Itapeti, Mogi das Cruzes, State of São Paulo</Locality>
+  <Latitude>-23.4933</Latitude>
+  <Longitude>-46.1964</Longitude>
+  <Elevation>900</Elevation>
+  <Author>Robson Silva e Silva</Author>
+  <AuthorID>WZSVLIHYQF</AuthorID>
+  <Content>song</Content>
+  <Comments>bird-seen:yesplayback-used:yes</Comments>
+  <Quality>1</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Tyrannidae</Family>
+  <Genus>Attila</Genus>
+  <Species>rufus</Species>
+  <Sub-species />
+  <VernacularNames>Grey-hooded Attila</VernacularNames>
+</Audio>

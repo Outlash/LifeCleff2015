@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>29160</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN29160.wav</FileName>
+  <ClassId>puycgr</ClassId>
+  <Date>2008-08-02</Date>
+  <Time>?</Time>
+  <Locality>Merida, Olinda</Locality>
+  <Latitude>8.74222</Latitude>
+  <Longitude>-71.46639</Longitude>
+  <Elevation>?</Elevation>
+  <Author>Alexandre Renaudier</Author>
+  <AuthorID>GKADEITXTH</AuthorID>
+  <Content>call</Content>
+  <Comments />
+  <Quality>1</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Piciformes</Order>
+  <Family>Ramphastidae</Family>
+  <Genus>Ramphastos</Genus>
+  <Species>ambiguus</Species>
+  <Sub-species />
+  <VernacularNames>Black-mandibled Toucan</VernacularNames>
+</Audio>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>16596</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN16596.wav</FileName>
+  <ClassId>pcxdjf</ClassId>
+  <Date>2009-03-03</Date>
+  <Time>?</Time>
+  <Locality>La Escalera, Bolívar</Locality>
+  <Latitude>5.9507</Latitude>
+  <Longitude>-61.4304</Longitude>
+  <Elevation>1400</Elevation>
+  <Author>Hans Matheve</Author>
+  <AuthorID>VROUALCTKG</AuthorID>
+  <Content>song?</Content>
+  <Comments>bird-seen:yes</Comments>
+  <Quality>1</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Cotingidae</Family>
+  <Genus>Procnias</Genus>
+  <Species>averano</Species>
+  <Sub-species>carnobarba</Sub-species>
+  <VernacularNames>Bearded Bellbird</VernacularNames>
+</Audio>

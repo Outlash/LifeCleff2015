@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>14435</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN14435.wav</FileName>
+  <ClassId>ovipyl</ClassId>
+  <Date>2004-08-16</Date>
+  <Time>08:10</Time>
+  <Locality>Páramo de Frontino</Locality>
+  <Latitude>6.4334</Latitude>
+  <Longitude>-76.0834</Longitude>
+  <Elevation>2600</Elevation>
+  <Author>Niels Krabbe</Author>
+  <AuthorID>XTVEPHMPPJ</AuthorID>
+  <Content>presumed female advertising song, at end male alternative song</Content>
+  <Comments>These presumably the birds collected. Tape ref. A 146-157</Comments>
+  <Quality>2</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Grallariidae</Family>
+  <Genus>Grallaria</Genus>
+  <Species>rufula</Species>
+  <Sub-species>rufula</Sub-species>
+  <VernacularNames>Rufous Antpitta</VernacularNames>
+</Audio>

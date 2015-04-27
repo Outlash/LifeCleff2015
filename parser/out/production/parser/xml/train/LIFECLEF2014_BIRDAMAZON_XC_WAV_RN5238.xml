@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>5238</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN5238.wav</FileName>
+  <ClassId>gwdmfy</ClassId>
+  <Date>2003-04-13</Date>
+  <Time>07:44</Time>
+  <Locality>Pousada Thaimaçu. Rio Cururu</Locality>
+  <Latitude>-8.9167</Latitude>
+  <Longitude>-56.6667</Longitude>
+  <Elevation>250</Elevation>
+  <Author>Jeremy Minns</Author>
+  <AuthorID>DGVLLRYDXS</AuthorID>
+  <Content>Calls by a pair</Content>
+  <Comments>Campinarana.</Comments>
+  <Quality>1</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Thamnophilidae</Family>
+  <Genus>Hypocnemis</Genus>
+  <Species>hypoxantha</Species>
+  <Sub-species>ochraceiventris</Sub-species>
+  <VernacularNames>Yellow-browed Antbird</VernacularNames>
+</Audio>

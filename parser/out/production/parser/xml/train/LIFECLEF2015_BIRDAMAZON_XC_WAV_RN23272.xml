@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>23272</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN23272.wav</FileName>
+  <ClassId>qqrfhs</ClassId>
+  <Date>2004-08-12</Date>
+  <Time>6:25</Time>
+  <Locality>Páramo de Frontino camp 1</Locality>
+  <Latitude>6.438</Latitude>
+  <Longitude>-76.105</Longitude>
+  <Elevation>3400</Elevation>
+  <Author>Niels Krabbe</Author>
+  <AuthorID>XTVEPHMPPJ</AuthorID>
+  <Content>call, probably female</Content>
+  <Comments>Female-plumaged. Tape ref. B 530-536</Comments>
+  <Quality>2</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Rhinocryptidae</Family>
+  <Genus>Scytalopus</Genus>
+  <Species>canus</Species>
+  <Sub-species />
+  <VernacularNames>Paramillo Tapaculo</VernacularNames>
+</Audio>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>22537</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN22537.wav</FileName>
+  <ClassId>qqgfak</ClassId>
+  <Date>2013-03-04</Date>
+  <Time>10:30</Time>
+  <Locality>Puerto Lopez, Meta</Locality>
+  <Latitude>4.1809</Latitude>
+  <Longitude>-72.9136</Longitude>
+  <Elevation>170</Elevation>
+  <Author>Oswaldo Cortes</Author>
+  <AuthorID>VVDRVZCVWW</AuthorID>
+  <Content>male, song</Content>
+  <Comments>bird-seen:yesplayback-used:no</Comments>
+  <Quality>1</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Parulidae</Family>
+  <Genus>Geothlypis</Genus>
+  <Species>aequinoctialis</Species>
+  <Sub-species />
+  <VernacularNames>Masked Yellowthroat</VernacularNames>
+</Audio>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>4671</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN4671.wav</FileName>
+  <ClassId>lsoxmb</ClassId>
+  <Date>2011-09-20</Date>
+  <Time>17:00</Time>
+  <Locality>Trilha da Figueira, Tavares, Rio Grande do Sul</Locality>
+  <Latitude>-31.3266</Latitude>
+  <Longitude>-51.0719</Longitude>
+  <Elevation>10</Elevation>
+  <Author>Rafael Antunes Dias</Author>
+  <AuthorID>XJSWEWQCEC</AuthorID>
+  <Content>song</Content>
+  <Comments>In border of forest adjacent to the Lagoa do Peixe.bird-seen:yesplayback-used:no</Comments>
+  <Quality>2</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies>Furnarius rufus,Sicalis flaveola,Machetornis rixosa</BackgroundSpecies>
+  <Order>Passeriformes</Order>
+  <Family>Mimidae</Family>
+  <Genus>Mimus</Genus>
+  <Species>saturninus</Species>
+  <Sub-species />
+  <VernacularNames>Chalk-browed Mockingbird</VernacularNames>
+</Audio>

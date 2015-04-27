@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>32545</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN32545.wav</FileName>
+  <ClassId>cpcenp</ClassId>
+  <Date>2009-12-12</Date>
+  <Time>11:56</Time>
+  <Locality>Rio Palmar,Zulia</Locality>
+  <Latitude>10.350046</Latitude>
+  <Longitude>-72.130737</Longitude>
+  <Elevation>80</Elevation>
+  <Author>Jose Gustavo Leon</Author>
+  <AuthorID>LLKOBLCMMG</AuthorID>
+  <Content>alrm call</Content>
+  <Comments />
+  <Quality>1</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Thamnophilidae</Family>
+  <Genus>Myrmeciza</Genus>
+  <Species>longipes</Species>
+  <Sub-species>panamensis?</Sub-species>
+  <VernacularNames>White-bellied Antbird</VernacularNames>
+</Audio>

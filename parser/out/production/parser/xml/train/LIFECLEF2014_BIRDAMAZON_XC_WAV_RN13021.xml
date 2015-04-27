@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>13021</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN13021.wav</FileName>
+  <ClassId>xywqxu</ClassId>
+  <Date>2010-07-18</Date>
+  <Time>08:00</Time>
+  <Locality>Inhotim, Brumadinho, Minas Gerais State</Locality>
+  <Latitude>-20.1239</Latitude>
+  <Longitude>-44.2191</Longitude>
+  <Elevation>980</Elevation>
+  <Author>Helberth J. C. Peixoto</Author>
+  <AuthorID>XIRUVWSNEN</AuthorID>
+  <Content>call</Content>
+  <Comments>bird-seen:yesplayback-used:no</Comments>
+  <Quality>2</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies />
+  <Order>Falconiformes</Order>
+  <Family>Falconidae</Family>
+  <Genus>Herpetotheres</Genus>
+  <Species>cachinnans</Species>
+  <Sub-species />
+  <VernacularNames>Laughing Falcon</VernacularNames>
+</Audio>

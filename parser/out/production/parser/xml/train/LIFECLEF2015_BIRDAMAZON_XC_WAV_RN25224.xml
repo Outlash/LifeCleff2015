@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>25224</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN25224.wav</FileName>
+  <ClassId>okgumd</ClassId>
+  <Date>2012-05-15</Date>
+  <Time>13:40</Time>
+  <Locality>Lençóis, Bahia</Locality>
+  <Latitude>-12.5517</Latitude>
+  <Longitude>-41.3984</Longitude>
+  <Elevation>600</Elevation>
+  <Author>Marcus Braun</Author>
+  <AuthorID>EICLYDGEKS</AuthorID>
+  <Content>song</Content>
+  <Comments>I heard this vocalization frequently during that day.bird-seen:yesplayback-used:no</Comments>
+  <Quality>2</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Apodiformes</Order>
+  <Family>Trochilidae</Family>
+  <Genus>Amazilia</Genus>
+  <Species>fimbriata</Species>
+  <Sub-species />
+  <VernacularNames>Glittering-throated Emerald</VernacularNames>
+</Audio>

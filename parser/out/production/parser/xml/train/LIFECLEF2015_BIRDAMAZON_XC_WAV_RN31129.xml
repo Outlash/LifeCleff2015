@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>31129</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN31129.wav</FileName>
+  <ClassId>jxakho</ClassId>
+  <Date>2000-04-15</Date>
+  <Time>07:36</Time>
+  <Locality>Laguna de Pedro Palo, Tena, Cundinamarca</Locality>
+  <Latitude>NULL</Latitude>
+  <Longitude>NULL</Longitude>
+  <Elevation>2100</Elevation>
+  <Author>Bernabe Lopez-Lanus</Author>
+  <AuthorID>BYLLSJRVDZ</AuthorID>
+  <Content>Call</Content>
+  <Comments />
+  <Quality>2</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Furnariidae</Family>
+  <Genus>Anabacerthia</Genus>
+  <Species>striaticollis</Species>
+  <Sub-species>striaticollis</Sub-species>
+  <VernacularNames>Montane Foliage-gleaner</VernacularNames>
+</Audio>

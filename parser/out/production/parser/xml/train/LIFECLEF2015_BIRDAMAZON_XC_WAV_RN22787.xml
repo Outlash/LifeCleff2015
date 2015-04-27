@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>22787</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN22787.wav</FileName>
+  <ClassId>vnhvbs</ClassId>
+  <Date>2011-10-17</Date>
+  <Time>06:21</Time>
+  <Locality>Cristalino Jungle Lodge, MT</Locality>
+  <Latitude>-9.5981</Latitude>
+  <Longitude>-55.932</Longitude>
+  <Elevation>260</Elevation>
+  <Author>Eric DeFonso</Author>
+  <AuthorID>KTLCZCRCQX</AuthorID>
+  <Content>song</Content>
+  <Comments>Natural, typical song. From the top of the old 50m tower, in terra firme. Bird was probably about 20m away.bird-seen:noplayback-used:no</Comments>
+  <Quality>2</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies>Piprites chloris,Lipaugus vociferans</BackgroundSpecies>
+  <Order>Passeriformes</Order>
+  <Family>Vireonidae</Family>
+  <Genus>Hylophilus</Genus>
+  <Species>hypoxanthus</Species>
+  <Sub-species />
+  <VernacularNames>Dusky-capped Greenlet</VernacularNames>
+</Audio>

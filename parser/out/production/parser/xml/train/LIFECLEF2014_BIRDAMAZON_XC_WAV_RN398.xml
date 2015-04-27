@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>398</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN398.wav</FileName>
+  <ClassId>iangvt</ClassId>
+  <Date>1999-12-17</Date>
+  <Time>08:45</Time>
+  <Locality>Pirapora, MG</Locality>
+  <Latitude>-17.3584</Latitude>
+  <Longitude>-44.8501</Longitude>
+  <Elevation>540</Elevation>
+  <Author>Jeremy Minns</Author>
+  <AuthorID>DGVLLRYDXS</AuthorID>
+  <Content>Song</Content>
+  <Comments>C—rrego dos Ovos, 5 km north of Rio das Velhas. Gallery forest in caatinga. Male.</Comments>
+  <Quality>1</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies>Eupsittula cactorum</BackgroundSpecies>
+  <Order>Passeriformes</Order>
+  <Family>Polioptilidae</Family>
+  <Genus>Polioptila</Genus>
+  <Species>plumbea</Species>
+  <Sub-species>atricapilla</Sub-species>
+  <VernacularNames>Tropical Gnatcatcher</VernacularNames>
+</Audio>

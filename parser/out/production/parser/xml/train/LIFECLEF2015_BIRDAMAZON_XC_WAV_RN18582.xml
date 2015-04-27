@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>18582</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN18582.wav</FileName>
+  <ClassId>fkjcci</ClassId>
+  <Date>2011-06-16</Date>
+  <Time>20:40</Time>
+  <Locality>Campo Belo do Sul, Santa Catarina</Locality>
+  <Latitude>-28.0068</Latitude>
+  <Longitude>-50.8742</Longitude>
+  <Elevation>900</Elevation>
+  <Author>Douglas Meyer</Author>
+  <AuthorID>MNENFHYTAE</AuthorID>
+  <Content>song</Content>
+  <Comments>bird-seen:yesplayback-used:yes</Comments>
+  <Quality>0</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Strigiformes</Order>
+  <Family>Strigidae</Family>
+  <Genus>Strix</Genus>
+  <Species>virgata</Species>
+  <Sub-species />
+  <VernacularNames>Mottled Owl</VernacularNames>
+</Audio>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>18904</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN18904.wav</FileName>
+  <ClassId>qeptbc</ClassId>
+  <Date>0000-00-00</Date>
+  <Time>00:00</Time>
+  <Locality>Rio Claro, Doradal, Antioquia</Locality>
+  <Latitude>5.900189</Latitude>
+  <Longitude>-74.84848</Longitude>
+  <Elevation>?</Elevation>
+  <Author>Todd Mark</Author>
+  <AuthorID>CLKPHLYUHA</AuthorID>
+  <Content>call</Content>
+  <Comments>massively filtered. This cut survived my kidnapping in 1998. Pete Shen, Tom Fiore, Louise Augustine and I observed this species attending a nest. Its architechture was globular and seemingly made of grass or other longitudinal material. Perhaps palm.</Comments>
+  <Quality>5</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Tyrannidae</Family>
+  <Genus>Pogonotriccus</Genus>
+  <Species>lanyoni</Species>
+  <Sub-species>lanyoni</Sub-species>
+  <VernacularNames>Antioquia Bristle Tyrant</VernacularNames>
+</Audio>

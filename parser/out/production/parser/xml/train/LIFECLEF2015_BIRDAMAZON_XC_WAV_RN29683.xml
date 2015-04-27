@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>29683</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN29683.wav</FileName>
+  <ClassId>xhgzss</ClassId>
+  <Date>2013-09-19</Date>
+  <Time>09:31</Time>
+  <Locality>Parque Nacional da Serra do Itajaí, Botuverá, Santa Catarina</Locality>
+  <Latitude>-27.2042</Latitude>
+  <Longitude>-49.1212</Longitude>
+  <Elevation>340</Elevation>
+  <Author>Douglas Meyer</Author>
+  <AuthorID>MNENFHYTAE</AuthorID>
+  <Content>song</Content>
+  <Comments>bird-seen:yesplayback-used:no</Comments>
+  <Quality>1</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Furnariidae</Family>
+  <Genus>Dendrocincla</Genus>
+  <Species>turdina</Species>
+  <Sub-species />
+  <VernacularNames>Plain-winged Woodcreeper</VernacularNames>
+</Audio>

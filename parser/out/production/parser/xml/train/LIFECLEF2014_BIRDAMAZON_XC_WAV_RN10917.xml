@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>10917</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN10917.wav</FileName>
+  <ClassId>vrciyl</ClassId>
+  <Date>2007-12-12</Date>
+  <Time>09:10</Time>
+  <Locality>Lagoa da Confusão, Tocantins State</Locality>
+  <Latitude>-8.1195</Latitude>
+  <Longitude>-49.0648</Longitude>
+  <Elevation>200</Elevation>
+  <Author>Advaldo D. Prado</Author>
+  <AuthorID>LUMSAVGFDA</AuthorID>
+  <Content>Song</Content>
+  <Comments />
+  <Quality>4</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Donacobiidae</Family>
+  <Genus>Donacobius</Genus>
+  <Species>atricapilla</Species>
+  <Sub-species />
+  <VernacularNames>Black-capped Donacobius</VernacularNames>
+</Audio>

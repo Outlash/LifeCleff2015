@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>26098</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN26098.wav</FileName>
+  <ClassId>eaahqv</ClassId>
+  <Date>2013-07-22</Date>
+  <Time>?</Time>
+  <Locality>RNN El Loro Orejiamarillo, Jardin, Antioquia</Locality>
+  <Latitude>5.5833</Latitude>
+  <Longitude>-75.8333</Longitude>
+  <Elevation>2850</Elevation>
+  <Author>Diego Caiafa</Author>
+  <AuthorID>AFYLJUDWMT</AuthorID>
+  <Content>song</Content>
+  <Comments>bird-seen:yesplayback-used:no</Comments>
+  <Quality>0</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Cotingidae</Family>
+  <Genus>Pipreola</Genus>
+  <Species>riefferii</Species>
+  <Sub-species>riefferii</Sub-species>
+  <VernacularNames>Green-and-black Fruiteater</VernacularNames>
+</Audio>

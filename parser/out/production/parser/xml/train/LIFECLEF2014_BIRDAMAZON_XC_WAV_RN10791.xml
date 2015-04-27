@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>10791</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN10791.wav</FileName>
+  <ClassId>vnosnp</ClassId>
+  <Date>2004-02-20</Date>
+  <Time>xx:xx</Time>
+  <Locality>Casa de Pedra (camino a Agulhas Negras), PN Itatiaia, Rio de Janeiro</Locality>
+  <Latitude>NULL</Latitude>
+  <Longitude>NULL</Longitude>
+  <Elevation>2000</Elevation>
+  <Author>Bernabe Lopez-Lanus</Author>
+  <AuthorID>BYLLSJRVDZ</AuthorID>
+  <Content>song</Content>
+  <Comments />
+  <Quality>3</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Tyrannidae</Family>
+  <Genus>Muscipipra</Genus>
+  <Species>vetula</Species>
+  <Sub-species />
+  <VernacularNames>Shear-tailed Grey Tyrant</VernacularNames>
+</Audio>

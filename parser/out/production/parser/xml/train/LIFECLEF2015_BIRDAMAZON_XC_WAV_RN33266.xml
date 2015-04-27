@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>33266</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN33266.wav</FileName>
+  <ClassId>snbgvb</ClassId>
+  <Date>2007-05-12</Date>
+  <Time>8:17</Time>
+  <Locality>Colombia/ Tolima /Santa Isabel/La Estrella</Locality>
+  <Latitude>4.7434</Latitude>
+  <Longitude>-75.2395</Longitude>
+  <Elevation>3600</Elevation>
+  <Author>Yair G Molina - Martínez</Author>
+  <AuthorID>UQUOPFIYYQ</AuthorID>
+  <Content>?</Content>
+  <Comments />
+  <Quality>4</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Apodiformes</Order>
+  <Family>Trochilidae</Family>
+  <Genus>Colibri</Genus>
+  <Species>coruscans</Species>
+  <Sub-species />
+  <VernacularNames>Sparkling Violetear</VernacularNames>
+</Audio>

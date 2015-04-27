@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>7361</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN7361.wav</FileName>
+  <ClassId>obvdbc</ClassId>
+  <Date>2010-12-18</Date>
+  <Time>?</Time>
+  <Locality>Bacia 160, Santarem PA</Locality>
+  <Latitude>-2.753</Latitude>
+  <Longitude>-54.853</Longitude>
+  <Elevation>?</Elevation>
+  <Author>Nárgila Moura</Author>
+  <AuthorID>CWEIBYBYYD</AuthorID>
+  <Content>call</Content>
+  <Comments>primary forest</Comments>
+  <Quality>0</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies />
+  <Order>Piciformes</Order>
+  <Family>Picidae</Family>
+  <Genus>Campephilus</Genus>
+  <Species>rubricollis</Species>
+  <Sub-species>olallae</Sub-species>
+  <VernacularNames>Red-necked Woodpecker</VernacularNames>
+</Audio>

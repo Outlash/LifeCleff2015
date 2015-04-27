@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>20508</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN20508.wav</FileName>
+  <ClassId>eghdvj</ClassId>
+  <Date>2011-05-20</Date>
+  <Time>510</Time>
+  <Locality>Paragominas, PA, Brazil,Bacia 549</Locality>
+  <Latitude>-3.81</Latitude>
+  <Longitude>-48.377</Longitude>
+  <Elevation>?</Elevation>
+  <Author>Alexander Lees</Author>
+  <AuthorID>INDDBZAFJL</AuthorID>
+  <Content>song</Content>
+  <Comments>undisturbed primary forest</Comments>
+  <Quality>0</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies>Megascops watsonii,Glaucidium hardyi</BackgroundSpecies>
+  <Order>Caprimulgiformes</Order>
+  <Family>Nyctibiidae</Family>
+  <Genus>Nyctibius</Genus>
+  <Species>aethereus</Species>
+  <Sub-species />
+  <VernacularNames>Long-tailed Potoo</VernacularNames>
+</Audio>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>23675</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN23675.wav</FileName>
+  <ClassId>xivqoy</ClassId>
+  <Date>2004-01-24</Date>
+  <Time>7:00a</Time>
+  <Locality>Praia do Gamela, Sirinhaém, Pernambuco</Locality>
+  <Latitude>-8.6114</Latitude>
+  <Longitude>-35.0392</Longitude>
+  <Elevation>0</Elevation>
+  <Author>Mauricio Cabral Periquito</Author>
+  <AuthorID>HERKCTHDZI</AuthorID>
+  <Content>call</Content>
+  <Comments />
+  <Quality>3</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Thraupidae</Family>
+  <Genus>Tangara</Genus>
+  <Species>cayana</Species>
+  <Sub-species />
+  <VernacularNames>Burnished-buff Tanager</VernacularNames>
+</Audio>

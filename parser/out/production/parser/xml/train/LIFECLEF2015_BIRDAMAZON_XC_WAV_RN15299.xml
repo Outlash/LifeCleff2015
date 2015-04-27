@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>15299</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN15299.wav</FileName>
+  <ClassId>vpxnrq</ClassId>
+  <Date>2012-01-26</Date>
+  <Time>18:10</Time>
+  <Locality>vereda El Delirio, Orocue, Casanare</Locality>
+  <Latitude>4.8</Latitude>
+  <Longitude>-71.35</Longitude>
+  <Elevation>130</Elevation>
+  <Author>Sergio Chaparro Herrera</Author>
+  <AuthorID>RJLERWCWGE</AuthorID>
+  <Content>song</Content>
+  <Comments>bird-seen:noplayback-used:no</Comments>
+  <Quality>2</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Caprimulgiformes</Order>
+  <Family>Caprimulgidae</Family>
+  <Genus>Nyctiprogne</Genus>
+  <Species>leucopyga</Species>
+  <Sub-species />
+  <VernacularNames>Band-tailed Nighthawk</VernacularNames>
+</Audio>

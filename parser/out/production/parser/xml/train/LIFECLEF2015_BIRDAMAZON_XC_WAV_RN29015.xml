@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>29015</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN29015.wav</FileName>
+  <ClassId>fgfalp</ClassId>
+  <Date>2012-06-13</Date>
+  <Time>9:00 am</Time>
+  <Locality>DMI Agualinda, Apia, Risaralda</Locality>
+  <Latitude>5.128</Latitude>
+  <Longitude>-75.932</Longitude>
+  <Elevation>1700</Elevation>
+  <Author>Julian Andres zuleta Marin</Author>
+  <AuthorID>AMCJKUNQOR</AuthorID>
+  <Content>song</Content>
+  <Comments />
+  <Quality>4</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Thraupidae</Family>
+  <Genus>Dacnis</Genus>
+  <Species>hartlaubi</Species>
+  <Sub-species />
+  <VernacularNames>Turquoise Dacnis</VernacularNames>
+</Audio>

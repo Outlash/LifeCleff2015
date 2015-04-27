@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>29538</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN29538.wav</FileName>
+  <ClassId>ntezht</ClassId>
+  <Date>2009-04-11</Date>
+  <Time>16:00</Time>
+  <Locality>Finca La Judea, Vereda Pedregales Alto, Génova, Quindio</Locality>
+  <Latitude>4.1543</Latitude>
+  <Longitude>-75.7191</Longitude>
+  <Elevation>3300</Elevation>
+  <Author>Oscar Humberto Marin-Gomez</Author>
+  <AuthorID>CSUHASNRSU</AuthorID>
+  <Content>flight call</Content>
+  <Comments>OHM060B. 1623. Grupo de 5 individuos en vuelo, en borde de bosque.bird-seen:yesplayback-used:no</Comments>
+  <Quality>3</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies>Amazona mercenarius</BackgroundSpecies>
+  <Order>Psittaciformes</Order>
+  <Family>Psittacidae</Family>
+  <Genus>Hapalopsittaca</Genus>
+  <Species>fuertesi</Species>
+  <Sub-species />
+  <VernacularNames>Fuertes's Parrot</VernacularNames>
+</Audio>

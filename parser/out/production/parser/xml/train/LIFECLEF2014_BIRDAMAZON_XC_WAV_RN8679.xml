@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>8679</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN8679.wav</FileName>
+  <ClassId>viluoh</ClassId>
+  <Date>2013-02-11</Date>
+  <Time>14:30</Time>
+  <Locality>Estacao Ecologica de Jatai - Luis Antonio, Sao Paulo State</Locality>
+  <Latitude>-21.55</Latitude>
+  <Longitude>-47.7167</Longitude>
+  <Elevation>650</Elevation>
+  <Author>Bruno Arantes de Andrade Bueno</Author>
+  <AuthorID>BIZLGNOPNS</AuthorID>
+  <Content>alarm calls?, song</Content>
+  <Comments>Recorded at the Ecological Station's main facilities site. Apparently, the two individuals were singing in response to the presence of a Plush-crested Jay that was moving on branches below them (no more than 2m away at the same tree, 3m off the ground). A pair of Rufous Hornero also approached the Great Kiskadees but did not sing. The Plush-crested Jay didn't vocalize either.bird-seen:yesplayback-used:no</Comments>
+  <Quality>2</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Tyrannidae</Family>
+  <Genus>Pitangus</Genus>
+  <Species>sulphuratus</Species>
+  <Sub-species />
+  <VernacularNames>Great Kiskadee</VernacularNames>
+</Audio>

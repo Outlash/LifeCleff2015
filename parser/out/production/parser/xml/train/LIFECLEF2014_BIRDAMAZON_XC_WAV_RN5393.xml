@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>5393</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN5393.wav</FileName>
+  <ClassId>sjnejm</ClassId>
+  <Date>2006-07-14</Date>
+  <Time>17:00</Time>
+  <Locality>Serra dos Caiabis, Alta Floresta - MT</Locality>
+  <Latitude>-10.7501</Latitude>
+  <Longitude>-56.7501</Longitude>
+  <Elevation>330</Elevation>
+  <Author>Bradley Davis</Author>
+  <AuthorID>YNXJLOESBB</AuthorID>
+  <Content>song</Content>
+  <Comments>in low campina</Comments>
+  <Quality>2</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies>Ramphastos vitellinus,Ara ararauna</BackgroundSpecies>
+  <Order>Passeriformes</Order>
+  <Family>Polioptilidae</Family>
+  <Genus>Polioptila</Genus>
+  <Species>dumicola</Species>
+  <Sub-species>berlepschi</Sub-species>
+  <VernacularNames>Masked Gnatcatcher</VernacularNames>
+</Audio>

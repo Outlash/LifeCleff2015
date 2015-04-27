@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>5619</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN5619.wav</FileName>
+  <ClassId>ziirhl</ClassId>
+  <Date>2012-11-06</Date>
+  <Time>17:00</Time>
+  <Locality>Estrada do Portão, Parque Nacional do Viruá, Caracaraí, Roraima</Locality>
+  <Latitude>1.4851</Latitude>
+  <Longitude>-60.9921</Longitude>
+  <Elevation>90</Elevation>
+  <Author>Thiago Orsi Laranjeiras</Author>
+  <AuthorID>PMYLTPLTLT</AuthorID>
+  <Content>call</Content>
+  <Comments>bird-seen:noplayback-used:no</Comments>
+  <Quality>2</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies>Pachyramphus minor</BackgroundSpecies>
+  <Order>Passeriformes</Order>
+  <Family>Icteridae</Family>
+  <Genus>Cacicus</Genus>
+  <Species>haemorrhous</Species>
+  <Sub-species>haemorrhous</Sub-species>
+  <VernacularNames>Red-rumped Cacique</VernacularNames>
+</Audio>

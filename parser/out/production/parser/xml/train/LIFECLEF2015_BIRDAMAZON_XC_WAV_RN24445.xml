@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>24445</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN24445.wav</FileName>
+  <ClassId>mrzhnn</ClassId>
+  <Date>2012-01-10</Date>
+  <Time>10:00</Time>
+  <Locality>Mitu, Vaupes</Locality>
+  <Latitude>1.2598</Latitude>
+  <Longitude>-70.2367</Longitude>
+  <Elevation>170</Elevation>
+  <Author>Ottavio Janni</Author>
+  <AuthorID>PWMAZXONXH</AuthorID>
+  <Content>call</Content>
+  <Comments>bird-seen:yesplayback-used:no</Comments>
+  <Quality>0</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies>Lipaugus vociferans</BackgroundSpecies>
+  <Order>Passeriformes</Order>
+  <Family>Pipridae</Family>
+  <Genus>Neopelma</Genus>
+  <Species>chrysocephalum</Species>
+  <Sub-species />
+  <VernacularNames>Saffron-crested Tyrant-Manakin</VernacularNames>
+</Audio>

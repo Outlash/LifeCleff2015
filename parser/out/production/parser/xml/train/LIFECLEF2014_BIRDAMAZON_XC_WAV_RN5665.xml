@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>5665</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN5665.wav</FileName>
+  <ClassId>prpzcg</ClassId>
+  <Date>2007-09-22</Date>
+  <Time>15:11</Time>
+  <Locality>Parque Nacional da Serra do Cipó, Minas Gerais State</Locality>
+  <Latitude>-19.3481</Latitude>
+  <Longitude>-43.6189</Longitude>
+  <Elevation>800</Elevation>
+  <Author>Rubem Dornas</Author>
+  <AuthorID>OQEZWYGIGN</AuthorID>
+  <Content>Call</Content>
+  <Comments />
+  <Quality>1</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Pipridae</Family>
+  <Genus>Antilophia</Genus>
+  <Species>galeata</Species>
+  <Sub-species />
+  <VernacularNames>Helmeted Manakin</VernacularNames>
+</Audio>

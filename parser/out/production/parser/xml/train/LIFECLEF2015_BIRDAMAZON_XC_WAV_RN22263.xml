@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>22263</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN22263.wav</FileName>
+  <ClassId>tvizgf</ClassId>
+  <Date>2001-11-12</Date>
+  <Time>06:01</Time>
+  <Locality>Murici, Alagoas</Locality>
+  <Latitude>-9.3001</Latitude>
+  <Longitude>-35.9334</Longitude>
+  <Elevation>550</Elevation>
+  <Author>Jeremy Minns</Author>
+  <AuthorID>DGVLLRYDXS</AuthorID>
+  <Content>Song</Content>
+  <Comments>Just outside IBAMA reserve. Strip of forest on one side of road, pasture on the other.</Comments>
+  <Quality>2</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies>Patagioenas speciosa,Thamnophilus torquatus,Pheugopedius genibarbis,Volatinia jacarina</BackgroundSpecies>
+  <Order>Passeriformes</Order>
+  <Family>Furnariidae</Family>
+  <Genus>Synallaxis</Genus>
+  <Species>infuscata</Species>
+  <Sub-species />
+  <VernacularNames>Pinto's Spinetail</VernacularNames>
+</Audio>

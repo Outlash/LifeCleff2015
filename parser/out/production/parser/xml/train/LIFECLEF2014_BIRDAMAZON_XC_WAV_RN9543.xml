@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>9543</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN9543.wav</FileName>
+  <ClassId>fpnmqt</ClassId>
+  <Date>2012-04-06</Date>
+  <Time>08:14</Time>
+  <Locality>Hotel Veraneio Hampel, São Francisco de Paula, RS</Locality>
+  <Latitude>-29.4431</Latitude>
+  <Longitude>-50.6117</Longitude>
+  <Elevation>800</Elevation>
+  <Author>Alexander Lees</Author>
+  <AuthorID>INDDBZAFJL</AuthorID>
+  <Content>song</Content>
+  <Comments />
+  <Quality>2</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies>Crypturellus obsoletus,Grallaria varia,Hylopezus nattereri,Chamaeza campanisona,Myiothlypis leucoblephara</BackgroundSpecies>
+  <Order>Passeriformes</Order>
+  <Family>Rhinocryptidae</Family>
+  <Genus>Scytalopus</Genus>
+  <Species>speluncae</Species>
+  <Sub-species />
+  <VernacularNames>Mouse-colored Tapaculo</VernacularNames>
+</Audio>

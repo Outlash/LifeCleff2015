@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>9189</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN9189.wav</FileName>
+  <ClassId>aiigbg</ClassId>
+  <Date>2009-04-20</Date>
+  <Time>13:20</Time>
+  <Locality>APA Capivari Monos, São Paulo, SP</Locality>
+  <Latitude>-23.955667</Latitude>
+  <Longitude>-46.650334</Longitude>
+  <Elevation>780</Elevation>
+  <Author>Marcos Melo</Author>
+  <AuthorID>MRGDYNJGUJ</AuthorID>
+  <Content>song</Content>
+  <Comments>spontaneus</Comments>
+  <Quality>2</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies>Chiroxiphia caudata</BackgroundSpecies>
+  <Order>Passeriformes</Order>
+  <Family>Furnariidae</Family>
+  <Genus>Sittasomus</Genus>
+  <Species>griseicapillus</Species>
+  <Sub-species>sylviellus</Sub-species>
+  <VernacularNames>Olivaceous Woodcreeper</VernacularNames>
+</Audio>

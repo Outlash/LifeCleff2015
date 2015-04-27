@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>16271</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN16271.wav</FileName>
+  <ClassId>arhvxn</ClassId>
+  <Date>2004-10-06</Date>
+  <Time>?</Time>
+  <Locality>camp Aïmara, Trinité Nature Reserve</Locality>
+  <Latitude>4.6728</Latitude>
+  <Longitude>-53.2767</Longitude>
+  <Elevation>80</Elevation>
+  <Author>Olivier Claessens</Author>
+  <AuthorID>KRQYNRSSDF</AuthorID>
+  <Content>song</Content>
+  <Comments>type 1' song at dusk</Comments>
+  <Quality>2</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Furnariidae</Family>
+  <Genus>Campylorhamphus</Genus>
+  <Species>procurvoides</Species>
+  <Sub-species />
+  <VernacularNames>Curve-billed Scythebill</VernacularNames>
+</Audio>

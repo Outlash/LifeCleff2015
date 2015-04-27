@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>21519</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN21519.wav</FileName>
+  <ClassId>ayzwsf</ClassId>
+  <Date>2011-07-05</Date>
+  <Time>09:30</Time>
+  <Locality>1Brasília National Park, Brasília/DF.</Locality>
+  <Latitude>-15.6626</Latitude>
+  <Longitude>-48.017</Longitude>
+  <Elevation>1084</Elevation>
+  <Author>Fernando Fávaro</Author>
+  <AuthorID>QTNGUZTTQM</AuthorID>
+  <Content>Song</Content>
+  <Comments>Milho Cozido stream. In flight.</Comments>
+  <Quality>0</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Pelecaniformes</Order>
+  <Family>Threskiornithidae</Family>
+  <Genus>Mesembrinibis</Genus>
+  <Species>cayennensis</Species>
+  <Sub-species />
+  <VernacularNames>Green Ibis</VernacularNames>
+</Audio>

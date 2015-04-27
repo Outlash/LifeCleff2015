@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>4141</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN4141.wav</FileName>
+  <ClassId>fuspfo</ClassId>
+  <Date>2006-05-22</Date>
+  <Time>08:42</Time>
+  <Locality>Estância Santa Maria - Jaguarão, Rio Grande do Sul</Locality>
+  <Latitude>-32.4501</Latitude>
+  <Longitude>-53.1117</Longitude>
+  <Elevation>25</Elevation>
+  <Author>Fernando Jacobs</Author>
+  <AuthorID>MHHPJBCUXC</AuthorID>
+  <Content>song</Content>
+  <Comments />
+  <Quality>2</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies>Chrysomus ruficapillus</BackgroundSpecies>
+  <Order>Passeriformes</Order>
+  <Family>Icteridae</Family>
+  <Genus>Molothrus</Genus>
+  <Species>bonariensis</Species>
+  <Sub-species />
+  <VernacularNames>Shiny Cowbird</VernacularNames>
+</Audio>

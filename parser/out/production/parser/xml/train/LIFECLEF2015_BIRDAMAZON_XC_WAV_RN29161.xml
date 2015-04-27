@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>29161</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN29161.wav</FileName>
+  <ClassId>iywuqr</ClassId>
+  <Date>2013-05-08</Date>
+  <Time>11:40</Time>
+  <Locality>Guaduas, Cundinamarca</Locality>
+  <Latitude>5.064</Latitude>
+  <Longitude>-74.5434</Longitude>
+  <Elevation>1900</Elevation>
+  <Author>Sergio Chaparro-Herrera</Author>
+  <AuthorID>RJLERWCWGE</AuthorID>
+  <Content>song</Content>
+  <Comments>bird-seen:yesplayback-used:no</Comments>
+  <Quality>0</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Vireonidae</Family>
+  <Genus>Vireolanius</Genus>
+  <Species>eximius</Species>
+  <Sub-species />
+  <VernacularNames>Yellow-browed Shrike-Vireo</VernacularNames>
+</Audio>

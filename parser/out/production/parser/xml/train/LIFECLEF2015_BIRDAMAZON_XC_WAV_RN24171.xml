@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>24171</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN24171.wav</FileName>
+  <ClassId>jslgyy</ClassId>
+  <Date>2014-02-12</Date>
+  <Time>15:00</Time>
+  <Locality>Betulia, Santander Department</Locality>
+  <Latitude>7.0974</Latitude>
+  <Longitude>-73.4457</Longitude>
+  <Elevation>190</Elevation>
+  <Author>Oswaldo Cortes</Author>
+  <AuthorID>VVDRVZCVWW</AuthorID>
+  <Content>call</Content>
+  <Comments>bird-seen:yesplayback-used:no</Comments>
+  <Quality>4</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Pipridae</Family>
+  <Genus>Machaeropterus</Genus>
+  <Species>striolatus</Species>
+  <Sub-species />
+  <VernacularNames>Western Striped Manakin</VernacularNames>
+</Audio>

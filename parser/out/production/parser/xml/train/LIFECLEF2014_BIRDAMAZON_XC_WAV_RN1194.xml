@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>1194</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN1194.wav</FileName>
+  <ClassId>hzjuvh</ClassId>
+  <Date>2004-08-02</Date>
+  <Time>08:08</Time>
+  <Locality>Manaus. ZF-2 road</Locality>
+  <Latitude>-2.5501</Latitude>
+  <Longitude>-60.0834</Longitude>
+  <Elevation>100</Elevation>
+  <Author>Jeremy Minns</Author>
+  <AuthorID>DGVLLRYDXS</AuthorID>
+  <Content>flight call</Content>
+  <Comments>Terra firme forest. 6 birds circling round INPA tower.</Comments>
+  <Quality>2</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies />
+  <Order>Psittaciformes</Order>
+  <Family>Psittacidae</Family>
+  <Genus>Brotogeris</Genus>
+  <Species>chrysoptera</Species>
+  <Sub-species />
+  <VernacularNames>Golden-winged Parakeet</VernacularNames>
+</Audio>

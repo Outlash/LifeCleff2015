@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>14956</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN14956.wav</FileName>
+  <ClassId>tnidef</ClassId>
+  <Date>2013-06-06</Date>
+  <Time>10:30</Time>
+  <Locality>Paraty, Rio de Janeiro</Locality>
+  <Latitude>-23.2179</Latitude>
+  <Longitude>-44.7444</Longitude>
+  <Elevation>90</Elevation>
+  <Author>Gabriel Toledo</Author>
+  <AuthorID>AOGPFFKIHY</AuthorID>
+  <Content>call</Content>
+  <Comments>bird-seen:noplayback-used:no</Comments>
+  <Quality>0</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Tyrannidae</Family>
+  <Genus>Platyrinchus</Genus>
+  <Species>leucoryphus</Species>
+  <Sub-species />
+  <VernacularNames>Russet-winged Spadebill</VernacularNames>
+</Audio>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>23759</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN23759.wav</FileName>
+  <ClassId>woerbo</ClassId>
+  <Date>2014-07-18</Date>
+  <Time>11:41</Time>
+  <Locality>Parauapebas, Pará</Locality>
+  <Latitude>-5.9954</Latitude>
+  <Longitude>-50.3157</Longitude>
+  <Elevation>420</Elevation>
+  <Author>Pablo Cerqueira</Author>
+  <AuthorID>GCSGXNHIMI</AuthorID>
+  <Content>male, song</Content>
+  <Comments>bird-seen:noplayback-used:no</Comments>
+  <Quality>1</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies>Machaeropterus pyrocephalus,Ramphocaenus melanurus</BackgroundSpecies>
+  <Order>Passeriformes</Order>
+  <Family>Cotingidae</Family>
+  <Genus>Procnias</Genus>
+  <Species>albus</Species>
+  <Sub-species>wallacei</Sub-species>
+  <VernacularNames>White Bellbird</VernacularNames>
+</Audio>

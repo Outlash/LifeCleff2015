@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>31618</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN31618.wav</FileName>
+  <ClassId>msoptg</ClassId>
+  <Date>2008-01-27</Date>
+  <Time>09:25</Time>
+  <Locality>Hato Pinero, Cojedes</Locality>
+  <Latitude>8.9498</Latitude>
+  <Longitude>-68.0831</Longitude>
+  <Elevation>70</Elevation>
+  <Author>Daniel Lane</Author>
+  <AuthorID>WOEAFQRMUD</AuthorID>
+  <Content>call</Content>
+  <Comments>Calls while walking along edge of creek. Both rattle and rasp are from the same bird.</Comments>
+  <Quality>1</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies>Ardea cocoi</BackgroundSpecies>
+  <Order>Eurypygiformes</Order>
+  <Family>Eurypygidae</Family>
+  <Genus>Eurypyga</Genus>
+  <Species>helias</Species>
+  <Sub-species>helias</Sub-species>
+  <VernacularNames>Sunbittern</VernacularNames>
+</Audio>

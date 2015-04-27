@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>3532</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN3532.wav</FileName>
+  <ClassId>gvqejj</ClassId>
+  <Date>2006-11-06</Date>
+  <Time>06:09</Time>
+  <Locality>Parque do Zizo, Sao Paulo state</Locality>
+  <Latitude>-24.017146</Latitude>
+  <Longitude>-47.81044</Longitude>
+  <Elevation>650</Elevation>
+  <Author>Jeremy Minns</Author>
+  <AuthorID>DGVLLRYDXS</AuthorID>
+  <Content>call</Content>
+  <Comments>Edge of humid forest.</Comments>
+  <Quality>2</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies>Chiroxiphia caudata</BackgroundSpecies>
+  <Order>Piciformes</Order>
+  <Family>Picidae</Family>
+  <Genus>Campephilus</Genus>
+  <Species>robustus</Species>
+  <Sub-species />
+  <VernacularNames>Robust Woodpecker</VernacularNames>
+</Audio>

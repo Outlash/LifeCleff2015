@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>17326</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN17326.wav</FileName>
+  <ClassId>xychdo</ClassId>
+  <Date>2011-08-18</Date>
+  <Time>09:00</Time>
+  <Locality>Araranguá, Araranguá, Santa Catarina</Locality>
+  <Latitude>-28.9361</Latitude>
+  <Longitude>-49.4923</Longitude>
+  <Elevation>10</Elevation>
+  <Author>João Antônio de B. Vitto</Author>
+  <AuthorID>RIVNLYTULO</AuthorID>
+  <Content>song</Content>
+  <Comments>bird-seen:yesplayback-used:yes</Comments>
+  <Quality>0</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Troglodytidae</Family>
+  <Genus>Troglodytes</Genus>
+  <Species>aedon</Species>
+  <Sub-species />
+  <VernacularNames>House Wren</VernacularNames>
+</Audio>

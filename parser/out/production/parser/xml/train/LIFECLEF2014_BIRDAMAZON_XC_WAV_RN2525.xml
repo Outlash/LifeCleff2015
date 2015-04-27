@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>2525</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN2525.wav</FileName>
+  <ClassId>inyngh</ClassId>
+  <Date>2012-08-11</Date>
+  <Time>08:00</Time>
+  <Locality>Botanic Garden of São Paulo, São Paulo State,Brazil</Locality>
+  <Latitude>-23.639</Latitude>
+  <Longitude>-46.619</Longitude>
+  <Elevation>700</Elevation>
+  <Author>Antonio Silveira</Author>
+  <AuthorID>NBJQSQJRYH</AuthorID>
+  <Content>call, male</Content>
+  <Comments>bird-seen:yesplayback-used:no</Comments>
+  <Quality>0</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Thraupidae</Family>
+  <Genus>Tachyphonus</Genus>
+  <Species>coronatus</Species>
+  <Sub-species />
+  <VernacularNames>Ruby-crowned Tanager</VernacularNames>
+</Audio>

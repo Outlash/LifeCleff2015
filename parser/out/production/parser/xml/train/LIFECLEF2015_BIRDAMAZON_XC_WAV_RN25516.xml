@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>25516</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN25516.wav</FileName>
+  <ClassId>yqoepf</ClassId>
+  <Date>2013-12-08</Date>
+  <Time>08:00</Time>
+  <Locality>São Martinho, Santa Catarina</Locality>
+  <Latitude>-28.1614</Latitude>
+  <Longitude>-48.9872</Longitude>
+  <Elevation>80</Elevation>
+  <Author>Alexandre Bianco</Author>
+  <AuthorID>ODNEDFESFY</AuthorID>
+  <Content>song</Content>
+  <Comments>bird-seen:noplayback-used:yes</Comments>
+  <Quality>1</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Tinamiformes</Order>
+  <Family>Tinamidae</Family>
+  <Genus>Crypturellus</Genus>
+  <Species>noctivagus</Species>
+  <Sub-species />
+  <VernacularNames>Yellow-legged Tinamou</VernacularNames>
+</Audio>

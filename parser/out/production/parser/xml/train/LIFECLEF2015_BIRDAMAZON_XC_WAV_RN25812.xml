@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>25812</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN25812.wav</FileName>
+  <ClassId>yegkua</ClassId>
+  <Date>2011-06-17</Date>
+  <Time>14:00</Time>
+  <Locality>RNA Arrierito Antioqueño, Anorí, Antioquia</Locality>
+  <Latitude>6.9862</Latitude>
+  <Longitude>-75.1251</Longitude>
+  <Elevation>1450</Elevation>
+  <Author>Andrew Spencer</Author>
+  <AuthorID>CDTGHVBGZP</AuthorID>
+  <Content>call</Content>
+  <Comments>in response to playback</Comments>
+  <Quality>1</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Troglodytidae</Family>
+  <Genus>Pheugopedius</Genus>
+  <Species>spadix</Species>
+  <Sub-species>spadix</Sub-species>
+  <VernacularNames>Sooty-headed Wren</VernacularNames>
+</Audio>

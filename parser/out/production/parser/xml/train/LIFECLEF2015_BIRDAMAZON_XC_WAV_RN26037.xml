@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>26037</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN26037.wav</FileName>
+  <ClassId>wfgnlp</ClassId>
+  <Date>2009-06-03</Date>
+  <Time>7:50</Time>
+  <Locality>Right bank of Rio Teles Pires, Jacareacanga, Para</Locality>
+  <Latitude>-9.3109</Latitude>
+  <Longitude>-56.7781</Longitude>
+  <Elevation>190</Elevation>
+  <Author>Guilherme R R Brito</Author>
+  <AuthorID>OAYOBWYOOM</AuthorID>
+  <Content>song</Content>
+  <Comments>Not seen, one of the commonest bird in the area during the 14 days of survey</Comments>
+  <Quality>3</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Vireonidae</Family>
+  <Genus>Vireolanius</Genus>
+  <Species>leucotis</Species>
+  <Sub-species />
+  <VernacularNames>Slaty-capped Shrike-Vireo</VernacularNames>
+</Audio>

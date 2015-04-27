@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>21539</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN21539.wav</FileName>
+  <ClassId>kpfbdp</ClassId>
+  <Date>2010-02-07</Date>
+  <Time>8:15</Time>
+  <Locality>P.N. Mana Dulce, Cundinamarca</Locality>
+  <Latitude>NULL</Latitude>
+  <Longitude>NULL</Longitude>
+  <Elevation>380</Elevation>
+  <Author>David Geale</Author>
+  <AuthorID>SBFBVYGIJC</AuthorID>
+  <Content>Song</Content>
+  <Comments>After playback, not seen. Hopefully I got all the BG species right - corrections welcome!</Comments>
+  <Quality>2</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies>Leptotila verreauxi,Claravis pretiosa,Myiozetetes cayanensis,Columbina talpacoti,Myrmeciza longipes,Mionectes oleagineus,Atalotriccus pilaris</BackgroundSpecies>
+  <Order>Cuculiformes</Order>
+  <Family>Cuculidae</Family>
+  <Genus>Dromococcyx</Genus>
+  <Species>phasianellus</Species>
+  <Sub-species />
+  <VernacularNames>Pheasant Cuckoo</VernacularNames>
+</Audio>

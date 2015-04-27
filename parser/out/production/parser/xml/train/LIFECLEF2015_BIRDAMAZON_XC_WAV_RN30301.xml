@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>30301</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN30301.wav</FileName>
+  <ClassId>xcynfk</ClassId>
+  <Date>2007-07-27</Date>
+  <Time>11:18</Time>
+  <Locality>Campos do Jordao State Park, Sao Paulo state</Locality>
+  <Latitude>-22.6681</Latitude>
+  <Longitude>-45.5031</Longitude>
+  <Elevation>1500</Elevation>
+  <Author>Joao Menezes</Author>
+  <AuthorID>BEYMZHZHIB</AuthorID>
+  <Content>call</Content>
+  <Comments />
+  <Quality>3</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Thraupidae</Family>
+  <Genus>Poospiza</Genus>
+  <Species>lateralis</Species>
+  <Sub-species />
+  <VernacularNames>Buff-throated Warbling Finch</VernacularNames>
+</Audio>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>29831</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN29831.wav</FileName>
+  <ClassId>budxsv</ClassId>
+  <Date>2006-11-00</Date>
+  <Time>?:?</Time>
+  <Locality>Pico Humbolt trail, Parque Nacional Sierra Nevada, Merida</Locality>
+  <Latitude>NULL</Latitude>
+  <Longitude>NULL</Longitude>
+  <Elevation>2700</Elevation>
+  <Author>David Edwards</Author>
+  <AuthorID>AFEHYCAHZR</AuthorID>
+  <Content>song</Content>
+  <Comments />
+  <Quality>1</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Parulidae</Family>
+  <Genus>Myiothlypis</Genus>
+  <Species>nigrocristata</Species>
+  <Sub-species />
+  <VernacularNames>Black-crested Warbler</VernacularNames>
+</Audio>

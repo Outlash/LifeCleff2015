@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>1903</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN1903.wav</FileName>
+  <ClassId>nlducw</ClassId>
+  <Date>1999-05-06</Date>
+  <Time>08:40</Time>
+  <Locality>Chapada Diamantina. Bonito</Locality>
+  <Latitude>-11.9501</Latitude>
+  <Longitude>-41.2834</Longitude>
+  <Elevation>1000</Elevation>
+  <Author>Jeremy Minns</Author>
+  <AuthorID>DGVLLRYDXS</AuthorID>
+  <Content>Song</Content>
+  <Comments>Fazenda da Mata Doida. Humid forest.</Comments>
+  <Quality>2</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies>Pyriglena leucoptera,Phyllomyias fasciatus</BackgroundSpecies>
+  <Order>Passeriformes</Order>
+  <Family>Tyrannidae</Family>
+  <Genus>Contopus</Genus>
+  <Species>cinereus</Species>
+  <Sub-species>pallescens</Sub-species>
+  <VernacularNames>Tropical Pewee</VernacularNames>
+</Audio>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>13931</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN13931.wav</FileName>
+  <ClassId>hzjuvh</ClassId>
+  <Date>2011-09-24</Date>
+  <Time>09:49</Time>
+  <Locality>Cristalino Jungle Lodge, MT</Locality>
+  <Latitude>-9.5981</Latitude>
+  <Longitude>-55.932</Longitude>
+  <Elevation>260</Elevation>
+  <Author>Eric DeFonso</Author>
+  <AuthorID>KTLCZCRCQX</AuthorID>
+  <Content>call</Content>
+  <Comments>Along the Caja trail close to the river. Birds perched in a snag ~30m from the mic.bird-seen:yesplayback-used:no</Comments>
+  <Quality>1</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies />
+  <Order>Psittaciformes</Order>
+  <Family>Psittacidae</Family>
+  <Genus>Brotogeris</Genus>
+  <Species>chrysoptera</Species>
+  <Sub-species />
+  <VernacularNames>Golden-winged Parakeet</VernacularNames>
+</Audio>

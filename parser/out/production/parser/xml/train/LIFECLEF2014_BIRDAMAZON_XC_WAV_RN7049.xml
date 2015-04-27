@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>7049</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN7049.wav</FileName>
+  <ClassId>lsoxmb</ClassId>
+  <Date>2001-04-15</Date>
+  <Time>12:45</Time>
+  <Locality>Canudos, Bahia</Locality>
+  <Latitude>-9.9501</Latitude>
+  <Longitude>-39.1501</Longitude>
+  <Elevation>?</Elevation>
+  <Author>Rolf A. de By</Author>
+  <AuthorID>PTYTXQRLSZ</AuthorID>
+  <Content>calls, and song phrase</Content>
+  <Comments>typically 3 or 4 two-note calls, then a song phrase outburst</Comments>
+  <Quality>1</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Mimidae</Family>
+  <Genus>Mimus</Genus>
+  <Species>saturninus</Species>
+  <Sub-species />
+  <VernacularNames>Chalk-browed Mockingbird</VernacularNames>
+</Audio>

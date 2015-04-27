@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>32836</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN32836.wav</FileName>
+  <ClassId>jjeesd</ClassId>
+  <Date>2014-01-25</Date>
+  <Time>07:30</Time>
+  <Locality>El Valle-Utría National Park Trail</Locality>
+  <Latitude>6.0747</Latitude>
+  <Longitude>-77.3868</Longitude>
+  <Elevation>30</Elevation>
+  <Author>Ottavio Janni</Author>
+  <AuthorID>PWMAZXONXH</AuthorID>
+  <Content>call, male</Content>
+  <Comments>bird-seen:yesplayback-used:no</Comments>
+  <Quality>0</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Cardinalidae</Family>
+  <Genus>Cyanocompsa</Genus>
+  <Species>cyanoides</Species>
+  <Sub-species />
+  <VernacularNames>Blue-black Grosbeak</VernacularNames>
+</Audio>

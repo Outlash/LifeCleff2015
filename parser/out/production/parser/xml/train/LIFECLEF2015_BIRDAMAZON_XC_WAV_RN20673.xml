@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>20673</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN20673.wav</FileName>
+  <ClassId>sjjpbk</ClassId>
+  <Date>2014-01-10</Date>
+  <Time>09:30</Time>
+  <Locality>Potengi, Ceara</Locality>
+  <Latitude>-7.0877</Latitude>
+  <Longitude>-40.0868</Longitude>
+  <Elevation>550</Elevation>
+  <Author>Jefferson Bob</Author>
+  <AuthorID>MVUPZPOXGT</AuthorID>
+  <Content>song</Content>
+  <Comments>bird-seen:yesplayback-used:no</Comments>
+  <Quality>1</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Thraupidae</Family>
+  <Genus>Thlypopsis</Genus>
+  <Species>sordida</Species>
+  <Sub-species />
+  <VernacularNames>Orange-headed Tanager</VernacularNames>
+</Audio>

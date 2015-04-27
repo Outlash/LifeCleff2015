@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>27120</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN27120.wav</FileName>
+  <ClassId>dfxend</ClassId>
+  <Date>2014-01-26</Date>
+  <Time>15:00</Time>
+  <Locality>El Valle-Utría National Park Trail</Locality>
+  <Latitude>6.0747</Latitude>
+  <Longitude>-77.3868</Longitude>
+  <Elevation>30</Elevation>
+  <Author>Ottavio Janni</Author>
+  <AuthorID>PWMAZXONXH</AuthorID>
+  <Content>song</Content>
+  <Comments>Song from four birds in the subcanopy at the entrance to Utria NPbird-seen:yesplayback-used:no</Comments>
+  <Quality>0</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Piciformes</Order>
+  <Family>Bucconidae</Family>
+  <Genus>Monasa</Genus>
+  <Species>morphoeus</Species>
+  <Sub-species />
+  <VernacularNames>White-fronted Nunbird</VernacularNames>
+</Audio>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>26433</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN26433.wav</FileName>
+  <ClassId>nsbalk</ClassId>
+  <Date>2007-06-19</Date>
+  <Time>18:18</Time>
+  <Locality>RNA Hormiguero de Torcoroma, Ocaña, Norte de Santander</Locality>
+  <Latitude>8.2031</Latitude>
+  <Longitude>-73.3798</Longitude>
+  <Elevation>1600</Elevation>
+  <Author>Bradley Davis</Author>
+  <AuthorID>YNXJLOESBB</AuthorID>
+  <Content>call, song</Content>
+  <Comments>scored for song.</Comments>
+  <Quality>4</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Emberizidae</Family>
+  <Genus>Atlapetes</Genus>
+  <Species>albofrenatus</Species>
+  <Sub-species>albofrenatus</Sub-species>
+  <VernacularNames>Moustached Brush Finch</VernacularNames>
+</Audio>

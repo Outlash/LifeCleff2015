@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>18473</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN18473.wav</FileName>
+  <ClassId>swoorg</ClassId>
+  <Date>2000-04-17</Date>
+  <Time>07:00</Time>
+  <Locality>Finca La Pradera, Parroquia Remolinos, Municipio Puerto Lopez, Meta</Locality>
+  <Latitude>NULL</Latitude>
+  <Longitude>NULL</Longitude>
+  <Elevation>400</Elevation>
+  <Author>Bernabe Lopez-Lanus</Author>
+  <AuthorID>BYLLSJRVDZ</AuthorID>
+  <Content>Whistle</Content>
+  <Comments>Very fast and shorters whistles in comparation with the nominal subespecies, interesting...</Comments>
+  <Quality>3</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Pelecaniformes</Order>
+  <Family>Ardeidae</Family>
+  <Genus>Syrigma</Genus>
+  <Species>sibilatrix</Species>
+  <Sub-species>fostersmithi</Sub-species>
+  <VernacularNames>Whistling Heron</VernacularNames>
+</Audio>

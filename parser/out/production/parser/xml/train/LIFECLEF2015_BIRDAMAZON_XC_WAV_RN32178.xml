@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>32178</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN32178.wav</FileName>
+  <ClassId>jfkqxa</ClassId>
+  <Date>2011-03-21</Date>
+  <Time>16-40</Time>
+  <Locality>Puerto Ajacucho</Locality>
+  <Latitude>5.6709</Latitude>
+  <Longitude>-67.5551</Longitude>
+  <Elevation>250</Elevation>
+  <Author>Albert Lastukhin</Author>
+  <AuthorID>LELYWQKUZX</AuthorID>
+  <Content>Drumming</Content>
+  <Comments />
+  <Quality>0</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies>Turdus leucomelas</BackgroundSpecies>
+  <Order>Piciformes</Order>
+  <Family>Picidae</Family>
+  <Genus>Dryocopus</Genus>
+  <Species>lineatus</Species>
+  <Sub-species />
+  <VernacularNames>Lineated Woodpecker</VernacularNames>
+</Audio>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>5063</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN5063.wav</FileName>
+  <ClassId>jeufbl</ClassId>
+  <Date>2007-10-31</Date>
+  <Time>6:31</Time>
+  <Locality>Campo Grande, MS</Locality>
+  <Latitude>-20.44278</Latitude>
+  <Longitude>-54.64639</Longitude>
+  <Elevation>530</Elevation>
+  <Author>Fernando Tizianel</Author>
+  <AuthorID>SOAAVHGORS</AuthorID>
+  <Content>call</Content>
+  <Comments>indivíduo em área urbana próximo a reserva de cerrado</Comments>
+  <Quality>5</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Tyrannidae</Family>
+  <Genus>Elaenia</Genus>
+  <Species>spectabilis</Species>
+  <Sub-species />
+  <VernacularNames>Large Elaenia</VernacularNames>
+</Audio>

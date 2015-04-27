@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>3059</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN3059.wav</FileName>
+  <ClassId>hctcgx</ClassId>
+  <Date>2011-07-27</Date>
+  <Time>10:00</Time>
+  <Locality>Banhado do Maçarico region, Rio Grande, Rio Grande do Sul</Locality>
+  <Latitude>-32.141</Latitude>
+  <Longitude>-52.281</Longitude>
+  <Elevation>2</Elevation>
+  <Author>Rafael Antunes Dias</Author>
+  <AuthorID>XJSWEWQCEC</AuthorID>
+  <Content>call, song</Content>
+  <Comments>In bullrush patch</Comments>
+  <Quality>2</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies>Embernagra platensis,Phacellodomus striaticollis</BackgroundSpecies>
+  <Order>Passeriformes</Order>
+  <Family>Parulidae</Family>
+  <Genus>Geothlypis</Genus>
+  <Species>velata</Species>
+  <Sub-species />
+  <VernacularNames>Southern Yellowthroat</VernacularNames>
+</Audio>

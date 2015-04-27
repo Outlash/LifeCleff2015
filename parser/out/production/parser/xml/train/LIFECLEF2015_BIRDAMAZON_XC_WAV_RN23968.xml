@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>23968</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN23968.wav</FileName>
+  <ClassId>uxuaio</ClassId>
+  <Date>2013-03-23</Date>
+  <Time>13:45</Time>
+  <Locality>Cajamarca, Tolima</Locality>
+  <Latitude>4.4837</Latitude>
+  <Longitude>-75.4797</Longitude>
+  <Elevation>2800</Elevation>
+  <Author>Oscar H. Marín-Gómez</Author>
+  <AuthorID>CSUHASNRSU</AuthorID>
+  <Content>call</Content>
+  <Comments>Ref OHM395. Un individuo escuchado en maraña del sotobosque. Bosque montano altobird-seen:noplayback-used:no</Comments>
+  <Quality>2</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Troglodytidae</Family>
+  <Genus>Pheugopedius</Genus>
+  <Species>mystacalis</Species>
+  <Sub-species />
+  <VernacularNames>Whiskered Wren</VernacularNames>
+</Audio>

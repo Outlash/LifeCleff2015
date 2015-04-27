@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>23109</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN23109.wav</FileName>
+  <ClassId>gvyxhh</ClassId>
+  <Date>2013-10-24</Date>
+  <Time>10:00</Time>
+  <Locality>Estrada do Balneário, PARNA Lagoa do Peixe, Mostardas, Rio Grande do Sul</Locality>
+  <Latitude>-31.1136</Latitude>
+  <Longitude>-50.8582</Longitude>
+  <Elevation>0</Elevation>
+  <Author>Rafael Antunes Dias</Author>
+  <AuthorID>XJSWEWQCEC</AuthorID>
+  <Content>song</Content>
+  <Comments>In restinga forest.bird-seen:yesplayback-used:yes</Comments>
+  <Quality>2</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies>Basileuterus culicivorus,Setophaga pitiayumi</BackgroundSpecies>
+  <Order>Passeriformes</Order>
+  <Family>Thraupidae</Family>
+  <Genus>Stephanophorus</Genus>
+  <Species>diadematus</Species>
+  <Sub-species />
+  <VernacularNames>Diademed Tanager</VernacularNames>
+</Audio>

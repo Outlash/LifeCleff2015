@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>13476</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN13476.wav</FileName>
+  <ClassId>cxyhrl</ClassId>
+  <Date>2011-05-28</Date>
+  <Time>10:30</Time>
+  <Locality>Patrocínio, Minas Gerais State</Locality>
+  <Latitude>-18.94389</Latitude>
+  <Longitude>-46.9925</Longitude>
+  <Elevation>950</Elevation>
+  <Author>Robson Silva e Silva</Author>
+  <AuthorID>WZSVLIHYQF</AuthorID>
+  <Content>?</Content>
+  <Comments />
+  <Quality>1</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Icteridae</Family>
+  <Genus>Psarocolius</Genus>
+  <Species>decumanus</Species>
+  <Sub-species />
+  <VernacularNames>Crested Oropendola</VernacularNames>
+</Audio>

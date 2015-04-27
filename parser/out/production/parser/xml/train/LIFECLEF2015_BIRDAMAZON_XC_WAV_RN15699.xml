@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>15699</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN15699.wav</FileName>
+  <ClassId>eydhxz</ClassId>
+  <Date>2009-09-15</Date>
+  <Time>?</Time>
+  <Locality>Rio Carreiro, Serafina Corrêa, Rio Grande do Sul</Locality>
+  <Latitude>-28.9612</Latitude>
+  <Longitude>-51.7681</Longitude>
+  <Elevation>450</Elevation>
+  <Author>Adrian Eisen Rupp</Author>
+  <AuthorID>AOPMSCIDIA</AuthorID>
+  <Content>call</Content>
+  <Comments />
+  <Quality>1</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Thraupidae</Family>
+  <Genus>Coryphospingus</Genus>
+  <Species>cucullatus</Species>
+  <Sub-species />
+  <VernacularNames>Red Pileated Finch</VernacularNames>
+</Audio>

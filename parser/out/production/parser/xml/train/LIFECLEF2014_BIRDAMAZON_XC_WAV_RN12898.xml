@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>12898</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN12898.wav</FileName>
+  <ClassId>pzlgrh</ClassId>
+  <Date>2004-04-07</Date>
+  <Time>09:09</Time>
+  <Locality>Intervales State Park. Carmo road</Locality>
+  <Latitude>-24.2834</Latitude>
+  <Longitude>-48.4334</Longitude>
+  <Elevation>800</Elevation>
+  <Author>Jeremy Minns</Author>
+  <AuthorID>DGVLLRYDXS</AuthorID>
+  <Content>Calls while feeding</Content>
+  <Comments>Humid forest. Sounds of four birds feeding in a cecropia.</Comments>
+  <Quality>2</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies>Picumnus temminckii,Sporophila frontalis</BackgroundSpecies>
+  <Order>Psittaciformes</Order>
+  <Family>Psittacidae</Family>
+  <Genus>Brotogeris</Genus>
+  <Species>tirica</Species>
+  <Sub-species />
+  <VernacularNames>Plain Parakeet</VernacularNames>
+</Audio>

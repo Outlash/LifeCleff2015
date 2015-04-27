@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>14343</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN14343.wav</FileName>
+  <ClassId>vnkcgy</ClassId>
+  <Date>2014-06-23</Date>
+  <Time>18:00</Time>
+  <Locality>Murillo, Tolima</Locality>
+  <Latitude>4.8763</Latitude>
+  <Longitude>-75.1507</Longitude>
+  <Elevation>2800</Elevation>
+  <Author>Jeisson Poveda</Author>
+  <AuthorID>CVJNYXJFAW</AuthorID>
+  <Content>call</Content>
+  <Comments>bird-seen:yesplayback-used:no</Comments>
+  <Quality>2</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies>Rupornis magnirostris</BackgroundSpecies>
+  <Order>Passeriformes</Order>
+  <Family>Corvidae</Family>
+  <Genus>Cyanolyca</Genus>
+  <Species>armillata</Species>
+  <Sub-species>quindiuna</Sub-species>
+  <VernacularNames>Black-collared Jay</VernacularNames>
+</Audio>

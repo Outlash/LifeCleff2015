@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>12083</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN12083.wav</FileName>
+  <ClassId>yqoepf</ClassId>
+  <Date>2009-10-14</Date>
+  <Time>18:12</Time>
+  <Locality>Lagoa Real, state of Bahia</Locality>
+  <Latitude>NULL</Latitude>
+  <Longitude>NULL</Longitude>
+  <Elevation>530</Elevation>
+  <Author>Ciro Albano</Author>
+  <AuthorID>MXVQPUKGWW</AuthorID>
+  <Content>song</Content>
+  <Comments />
+  <Quality>2</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies />
+  <Order>Tinamiformes</Order>
+  <Family>Tinamidae</Family>
+  <Genus>Crypturellus</Genus>
+  <Species>noctivagus</Species>
+  <Sub-species>zabele</Sub-species>
+  <VernacularNames>Yellow-legged Tinamou</VernacularNames>
+</Audio>

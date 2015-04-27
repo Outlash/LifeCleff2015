@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>2781</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN2781.wav</FileName>
+  <ClassId>nlducw</ClassId>
+  <Date>2001-11-08</Date>
+  <Time>15:42</Time>
+  <Locality>Boa Nova, Wet Forest, state of Bahia</Locality>
+  <Latitude>-14.3834</Latitude>
+  <Longitude>-40.1001</Longitude>
+  <Elevation>825</Elevation>
+  <Author>Jeremy Minns</Author>
+  <AuthorID>DGVLLRYDXS</AuthorID>
+  <Content>call</Content>
+  <Comments>Humid forest. Two birds present but only one vocalized. They were perched on a bamboo stem across the trail, c. 2 m above ground. The calls were given on returning to the perch after sallying to catch insects.</Comments>
+  <Quality>2</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies>Herpsilochmus rufimarginatus,Chiroxiphia caudata,Turdus albicollis</BackgroundSpecies>
+  <Order>Passeriformes</Order>
+  <Family>Tyrannidae</Family>
+  <Genus>Contopus</Genus>
+  <Species>cinereus</Species>
+  <Sub-species>pallescens</Sub-species>
+  <VernacularNames>Tropical Pewee</VernacularNames>
+</Audio>

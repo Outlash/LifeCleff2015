@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>26471</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN26471.wav</FileName>
+  <ClassId>plhrrz</ClassId>
+  <Date>2003-10-25</Date>
+  <Time>16:00</Time>
+  <Locality>Pedra da Boca, Passa e Fica, state of Rio Grande do Norte</Locality>
+  <Latitude>-6.4834</Latitude>
+  <Longitude>-35.5667</Longitude>
+  <Elevation>150</Elevation>
+  <Author>Sidnei de Melo Dantas</Author>
+  <AuthorID>NNCKQMBGPH</AuthorID>
+  <Content>call</Content>
+  <Comments>open, rocky area, in caatinga.</Comments>
+  <Quality>3</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Accipitriformes</Order>
+  <Family>Accipitridae</Family>
+  <Genus>Geranoaetus</Genus>
+  <Species>melanoleucus</Species>
+  <Sub-species />
+  <VernacularNames>Black-chested Buzzard-Eagle</VernacularNames>
+</Audio>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>6801</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN6801.wav</FileName>
+  <ClassId>vifxpb</ClassId>
+  <Date>2007-01-15</Date>
+  <Time>19:15</Time>
+  <Locality>Vargem Grande - Teresópolis - RJ</Locality>
+  <Latitude>-22.3751</Latitude>
+  <Longitude>-42.8751</Longitude>
+  <Elevation>900</Elevation>
+  <Author>Ricardo Gagliardi</Author>
+  <AuthorID>YRDADNREOP</AuthorID>
+  <Content>down song</Content>
+  <Comments>Fazenda Floresta area</Comments>
+  <Quality>4</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies />
+  <Order>Falconiformes</Order>
+  <Family>Falconidae</Family>
+  <Genus>Micrastur</Genus>
+  <Species>ruficollis</Species>
+  <Sub-species />
+  <VernacularNames>Barred Forest Falcon</VernacularNames>
+</Audio>

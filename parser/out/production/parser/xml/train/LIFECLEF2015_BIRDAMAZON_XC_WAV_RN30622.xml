@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>30622</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN30622.wav</FileName>
+  <ClassId>ssdpyu</ClassId>
+  <Date>2013-12-07</Date>
+  <Time>09:30</Time>
+  <Locality>Rio, Rio de Janeiro, Rio de Janeiro</Locality>
+  <Latitude>-22.9959</Latitude>
+  <Longitude>-43.3696</Longitude>
+  <Elevation>10</Elevation>
+  <Author>Ricardo José Mitidieri</Author>
+  <AuthorID>CFRYARSVHN</AuthorID>
+  <Content>call</Content>
+  <Comments>bird-seen:noplayback-used:no</Comments>
+  <Quality>3</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies>Turdus rufiventris,Milvago chimachima</BackgroundSpecies>
+  <Order>Passeriformes</Order>
+  <Family>Troglodytidae</Family>
+  <Genus>Cantorchilus</Genus>
+  <Species>longirostris</Species>
+  <Sub-species>longirostris</Sub-species>
+  <VernacularNames>Long-billed Wren</VernacularNames>
+</Audio>

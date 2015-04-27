@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>3217</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN3217.wav</FileName>
+  <ClassId>msentw</ClassId>
+  <Date>2007-12-17</Date>
+  <Time>17:00</Time>
+  <Locality>Lagoa da Confusão, Tocantins State</Locality>
+  <Latitude>-8.1195</Latitude>
+  <Longitude>-49.0648</Longitude>
+  <Elevation>200</Elevation>
+  <Author>Advaldo D. Prado</Author>
+  <AuthorID>LUMSAVGFDA</AuthorID>
+  <Content>Call</Content>
+  <Comments />
+  <Quality>3</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies />
+  <Order>Piciformes</Order>
+  <Family>Picidae</Family>
+  <Genus>Melanerpes</Genus>
+  <Species>cruentatus</Species>
+  <Sub-species />
+  <VernacularNames>Yellow-tufted Woodpecker</VernacularNames>
+</Audio>

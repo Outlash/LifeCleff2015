@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>22426</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN22426.wav</FileName>
+  <ClassId>fmrhxa</ClassId>
+  <Date>2003-11-04</Date>
+  <Time>14:05</Time>
+  <Locality>Parque Dois Irmãos, Recife, Pernambuco</Locality>
+  <Latitude>-8.0539</Latitude>
+  <Longitude>-34.8809</Longitude>
+  <Elevation>0</Elevation>
+  <Author>Mauricio Cabral Periquito</Author>
+  <AuthorID>HERKCTHDZI</AuthorID>
+  <Content>alarm call</Content>
+  <Comments>Against Caiman latirostris</Comments>
+  <Quality>4</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Gruiformes</Order>
+  <Family>Rallidae</Family>
+  <Genus>Porphyrio</Genus>
+  <Species>martinicus</Species>
+  <Sub-species />
+  <VernacularNames>Purple Gallinule</VernacularNames>
+</Audio>

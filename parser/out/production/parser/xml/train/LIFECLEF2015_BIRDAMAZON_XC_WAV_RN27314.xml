@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>27314</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN27314.wav</FileName>
+  <ClassId>ywpbix</ClassId>
+  <Date>2010-10-03</Date>
+  <Time>?</Time>
+  <Locality>Mont Itoupé</Locality>
+  <Latitude>3.01667</Latitude>
+  <Longitude>-53.0667</Longitude>
+  <Elevation>800</Elevation>
+  <Author>Alexandre Renaudier</Author>
+  <AuthorID>GKADEITXTH</AuthorID>
+  <Content>?</Content>
+  <Comments>natural recording , by 2 birds.</Comments>
+  <Quality>2</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies>Myrmothera campanisona</BackgroundSpecies>
+  <Order>Passeriformes</Order>
+  <Family>Troglodytidae</Family>
+  <Genus>Cyphorhinus</Genus>
+  <Species>arada</Species>
+  <Sub-species />
+  <VernacularNames>Musician Wren</VernacularNames>
+</Audio>

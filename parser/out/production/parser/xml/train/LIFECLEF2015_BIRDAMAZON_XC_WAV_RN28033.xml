@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>28033</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN28033.wav</FileName>
+  <ClassId>xiyuxl</ClassId>
+  <Date>2014-07-28</Date>
+  <Time>10:00</Time>
+  <Locality>Faxinal Preto, São José dos Ausentes, Rio Grande do Sul</Locality>
+  <Latitude>-28.5376</Latitude>
+  <Longitude>-49.8688</Longitude>
+  <Elevation>1200</Elevation>
+  <Author>João Gava Just</Author>
+  <AuthorID>CEKMJEZKSJ</AuthorID>
+  <Content>song</Content>
+  <Comments>bird-seen:noplayback-used:no</Comments>
+  <Quality>2</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Furnariidae</Family>
+  <Genus>Syndactyla</Genus>
+  <Species>rufosuperciliata</Species>
+  <Sub-species />
+  <VernacularNames>Buff-browed Foliage-gleaner</VernacularNames>
+</Audio>

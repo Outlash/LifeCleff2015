@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>17150</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN17150.wav</FileName>
+  <ClassId>njtncg</ClassId>
+  <Date>2012-04-18</Date>
+  <Time>06:55</Time>
+  <Locality>Minca, Magdalena</Locality>
+  <Latitude>11.15</Latitude>
+  <Longitude>-74.11667</Longitude>
+  <Elevation>600</Elevation>
+  <Author>Jeremy Minns</Author>
+  <AuthorID>DGVLLRYDXS</AuthorID>
+  <Content>Call</Content>
+  <Comments>Beside road out of Minca towards Santa Marta. Disturbed secondary growth.</Comments>
+  <Quality>2</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Cardinalidae</Family>
+  <Genus>Saltator</Genus>
+  <Species>striatipectus</Species>
+  <Sub-species>perstriatus</Sub-species>
+  <VernacularNames>Streaked Saltator</VernacularNames>
+</Audio>

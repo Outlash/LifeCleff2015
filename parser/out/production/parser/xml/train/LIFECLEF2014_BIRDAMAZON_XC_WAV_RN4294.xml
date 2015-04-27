@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>4294</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN4294.wav</FileName>
+  <ClassId>relbkx</ClassId>
+  <Date>2005-07-12</Date>
+  <Time>08:00</Time>
+  <Locality>Tucuruí dam, right margin of the lake, state of Pará</Locality>
+  <Latitude>-4.2327</Latitude>
+  <Longitude>-49.41194</Longitude>
+  <Elevation>100</Elevation>
+  <Author>Sidnei de Melo Dantas</Author>
+  <AuthorID>NNCKQMBGPH</AuthorID>
+  <Content>call</Content>
+  <Comments>one individual, at the canopy,</Comments>
+  <Quality>2</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies>Lophotriccus galeatus,Lipaugus vociferans</BackgroundSpecies>
+  <Order>Passeriformes</Order>
+  <Family>Tyrannidae</Family>
+  <Genus>Tolmomyias</Genus>
+  <Species>sulphurescens</Species>
+  <Sub-species>mixtus</Sub-species>
+  <VernacularNames>Yellow-olive Flatbill</VernacularNames>
+</Audio>

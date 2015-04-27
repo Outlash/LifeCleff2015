@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>29592</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN29592.wav</FileName>
+  <ClassId>kgmsiq</ClassId>
+  <Date>2012-03-29</Date>
+  <Time>8:30</Time>
+  <Locality>06 00' N - 75 08' W. Mun. Cocorna. Dep. Antioquia. Restaurante Palacio de los Frijoles - Antigua vía a Cocorna</Locality>
+  <Latitude>NULL</Latitude>
+  <Longitude>NULL</Longitude>
+  <Elevation>1150</Elevation>
+  <Author>Diego Calderon-F.</Author>
+  <AuthorID>OGATBVKNAG</AuthorID>
+  <Content>Song</Content>
+  <Comments>Playback response</Comments>
+  <Quality>1</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Emberizidae</Family>
+  <Genus>Arremon</Genus>
+  <Species>atricapillus</Species>
+  <Sub-species>atricapillus</Sub-species>
+  <VernacularNames>Black-headed Brush Finch</VernacularNames>
+</Audio>

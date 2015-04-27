@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>19484</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN19484.wav</FileName>
+  <ClassId>xuvusy</ClassId>
+  <Date>2010-09-09</Date>
+  <Time>08:03</Time>
+  <Locality>Paragominas, PA, Brazil, Bacia 100</Locality>
+  <Latitude>-2.742</Latitude>
+  <Longitude>-47.8681</Longitude>
+  <Elevation>?</Elevation>
+  <Author>Alexander Lees</Author>
+  <AuthorID>INDDBZAFJL</AuthorID>
+  <Content>song</Content>
+  <Comments>disturbed primary forest</Comments>
+  <Quality>0</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies>Pionus menstruus</BackgroundSpecies>
+  <Order>Passeriformes</Order>
+  <Family>Pipridae</Family>
+  <Genus>Dixiphia</Genus>
+  <Species>pipra</Species>
+  <Sub-species>separabilis</Sub-species>
+  <VernacularNames>White-crowned Manakin</VernacularNames>
+</Audio>

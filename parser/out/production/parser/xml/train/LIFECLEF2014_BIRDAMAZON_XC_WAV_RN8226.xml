@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>8226</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN8226.wav</FileName>
+  <ClassId>kfijne</ClassId>
+  <Date>2012-09-01</Date>
+  <Time>7:40</Time>
+  <Locality>Sede Ornithos, Morretes, Paraná</Locality>
+  <Latitude>-25.49</Latitude>
+  <Longitude>-48.829</Longitude>
+  <Elevation>129</Elevation>
+  <Author>Ornithos Live Cam</Author>
+  <AuthorID>YGOLLMTLDZ</AuthorID>
+  <Content>song</Content>
+  <Comments />
+  <Quality>0</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies />
+  <Order>Apodiformes</Order>
+  <Family>Trochilidae</Family>
+  <Genus>Aphantochroa</Genus>
+  <Species>cirrochloris</Species>
+  <Sub-species />
+  <VernacularNames>Sombre Hummingbird</VernacularNames>
+</Audio>

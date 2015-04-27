@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>10705</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN10705.wav</FileName>
+  <ClassId>knhjlm</ClassId>
+  <Date>1997-12-13</Date>
+  <Time>07:00</Time>
+  <Locality>Ubatuba, SP. Folha Seca.</Locality>
+  <Latitude>-23.5001</Latitude>
+  <Longitude>-45.2167</Longitude>
+  <Elevation>30</Elevation>
+  <Author>Jeremy Minns</Author>
+  <AuthorID>DGVLLRYDXS</AuthorID>
+  <Content>Song</Content>
+  <Comments>Cleared area in humid forest at the foot of the Serra do Mar. Male, in a bamboo clump.</Comments>
+  <Quality>2</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies>Chiroxiphia caudata,Geothlypis velata</BackgroundSpecies>
+  <Order>Passeriformes</Order>
+  <Family>Thraupidae</Family>
+  <Genus>Sporophila</Genus>
+  <Species>caerulescens</Species>
+  <Sub-species>caerulescens</Sub-species>
+  <VernacularNames>Double-collared Seedeater</VernacularNames>
+</Audio>

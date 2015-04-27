@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>23219</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN23219.wav</FileName>
+  <ClassId>zfacpp</ClassId>
+  <Date>2012-03-29</Date>
+  <Time>?</Time>
+  <Locality>Reserva Río Claro</Locality>
+  <Latitude>5.8941</Latitude>
+  <Longitude>-74.8583</Longitude>
+  <Elevation>320</Elevation>
+  <Author>Hans Matheve</Author>
+  <AuthorID>VROUALCTKG</AuthorID>
+  <Content>song</Content>
+  <Comments>bird-seen:yes</Comments>
+  <Quality>0</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Thamnophilidae</Family>
+  <Genus>Myrmeciza</Genus>
+  <Species>palliata</Species>
+  <Sub-species />
+  <VernacularNames>Magdalena Antbird</VernacularNames>
+</Audio>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>19471</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN19471.wav</FileName>
+  <ClassId>szldxi</ClassId>
+  <Date>2010-11-05</Date>
+  <Time>05:24</Time>
+  <Locality>Serra de Itabirito, Itabirito, Minas Gerais</Locality>
+  <Latitude>-20.2636</Latitude>
+  <Longitude>-43.891</Longitude>
+  <Elevation>1300</Elevation>
+  <Author>Luiz Gabriel Mazzoni</Author>
+  <AuthorID>MPOKMOFDDX</AuthorID>
+  <Content>song</Content>
+  <Comments>bird-seen:noplayback-used:yes</Comments>
+  <Quality>2</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Tyrannidae</Family>
+  <Genus>Elaenia</Genus>
+  <Species>mesoleuca</Species>
+  <Sub-species />
+  <VernacularNames>Olivaceous Elaenia</VernacularNames>
+</Audio>

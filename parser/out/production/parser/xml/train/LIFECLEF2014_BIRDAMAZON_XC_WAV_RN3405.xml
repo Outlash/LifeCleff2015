@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>3405</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN3405.wav</FileName>
+  <ClassId>jceldx</ClassId>
+  <Date>2002-01-30</Date>
+  <Time>08:29</Time>
+  <Locality>Serra dos Carajás. Road to Salobo</Locality>
+  <Latitude>-6.0501</Latitude>
+  <Longitude>-50.2667</Longitude>
+  <Elevation>660</Elevation>
+  <Author>Jeremy Minns</Author>
+  <AuthorID>DGVLLRYDXS</AuthorID>
+  <Content>call, song</Content>
+  <Comments>Terra firme forest. After playback.</Comments>
+  <Quality>1</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies>Thamnomanes caesius</BackgroundSpecies>
+  <Order>Passeriformes</Order>
+  <Family>Furnariidae</Family>
+  <Genus>Synallaxis</Genus>
+  <Species>rutilans</Species>
+  <Sub-species>rutilans</Sub-species>
+  <VernacularNames>Ruddy Spinetail</VernacularNames>
+</Audio>

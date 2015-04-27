@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>26436</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN26436.wav</FileName>
+  <ClassId>wvxyjw</ClassId>
+  <Date>2010-01-20</Date>
+  <Time>08:00</Time>
+  <Locality>Pnn Tatama, Municipio de Pueblo Rico</Locality>
+  <Latitude>5.227</Latitude>
+  <Longitude>-76.035</Longitude>
+  <Elevation>1600</Elevation>
+  <Author>Oswaldo Cortes</Author>
+  <AuthorID>VVDRVZCVWW</AuthorID>
+  <Content>song</Content>
+  <Comments />
+  <Quality>3</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies>Coereba flaveola</BackgroundSpecies>
+  <Order>Passeriformes</Order>
+  <Family>Fringillidae</Family>
+  <Genus>Euphonia</Genus>
+  <Species>xanthogaster</Species>
+  <Sub-species />
+  <VernacularNames>Orange-bellied Euphonia</VernacularNames>
+</Audio>

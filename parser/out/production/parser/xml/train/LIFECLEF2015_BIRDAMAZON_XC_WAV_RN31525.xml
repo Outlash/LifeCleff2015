@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>31525</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN31525.wav</FileName>
+  <ClassId>nrjjbm</ClassId>
+  <Date>2004-08-25</Date>
+  <Time>09:22</Time>
+  <Locality>Montserrate below Jardín, Antioquia</Locality>
+  <Latitude>5.5334</Latitude>
+  <Longitude>-75.9167</Longitude>
+  <Elevation>1500</Elevation>
+  <Author>Niels Krabbe</Author>
+  <AuthorID>XTVEPHMPPJ</AuthorID>
+  <Content>call</Content>
+  <Comments>Tape ref. B 299-304</Comments>
+  <Quality>3</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Furnariidae</Family>
+  <Genus>Lochmias</Genus>
+  <Species>nematura</Species>
+  <Sub-species />
+  <VernacularNames>Sharp-tailed Streamcreeper</VernacularNames>
+</Audio>

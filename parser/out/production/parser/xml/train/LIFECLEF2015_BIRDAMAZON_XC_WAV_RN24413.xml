@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>24413</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN24413.wav</FileName>
+  <ClassId>gwdmfy</ClassId>
+  <Date>2010-12-15</Date>
+  <Time>9:40</Time>
+  <Locality>Mitu. Vaupes</Locality>
+  <Latitude>1.226</Latitude>
+  <Longitude>-70.233</Longitude>
+  <Elevation>320</Elevation>
+  <Author>Pablo Florez</Author>
+  <AuthorID>ISWBQKPBGS</AuthorID>
+  <Content>?</Content>
+  <Comments />
+  <Quality>3</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Thamnophilidae</Family>
+  <Genus>Hypocnemis</Genus>
+  <Species>hypoxantha</Species>
+  <Sub-species />
+  <VernacularNames>Yellow-browed Antbird</VernacularNames>
+</Audio>

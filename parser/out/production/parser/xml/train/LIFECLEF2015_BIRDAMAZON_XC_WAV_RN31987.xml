@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>31987</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN31987.wav</FileName>
+  <ClassId>tnkrhy</ClassId>
+  <Date>2004-06-19</Date>
+  <Time>07:00</Time>
+  <Locality>Gravatá, state of Pernambuco</Locality>
+  <Latitude>-8.2001</Latitude>
+  <Longitude>-35.5501</Longitude>
+  <Elevation>200</Elevation>
+  <Author>Sidnei Dantas</Author>
+  <AuthorID>NNCKQMBGPH</AuthorID>
+  <Content>song</Content>
+  <Comments>intervals between sequences reduced. Caatinga.</Comments>
+  <Quality>2</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies>Myrmorchilus strigilatus,Crypturellus tataupa,Formicivora melanogaster</BackgroundSpecies>
+  <Order>Passeriformes</Order>
+  <Family>Thamnophilidae</Family>
+  <Genus>Sakesphorus</Genus>
+  <Species>cristatus</Species>
+  <Sub-species />
+  <VernacularNames>Silvery-cheeked Antshrike</VernacularNames>
+</Audio>

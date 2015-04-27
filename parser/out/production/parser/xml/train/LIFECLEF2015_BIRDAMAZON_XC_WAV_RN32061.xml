@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>32061</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN32061.wav</FileName>
+  <ClassId>cqbqgt</ClassId>
+  <Date>2013-01-09</Date>
+  <Time>08:28</Time>
+  <Locality>La Pedregoza, Puerto Carreño, Vichada</Locality>
+  <Latitude>6.1132</Latitude>
+  <Longitude>-67.7137</Longitude>
+  <Elevation>60</Elevation>
+  <Author>Sandra V. Valderrama &amp; David W. Bradley</Author>
+  <AuthorID>UOHFLNETZD</AuthorID>
+  <Content>song</Content>
+  <Comments>bird-seen:noplayback-used:no</Comments>
+  <Quality>3</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Furnariidae</Family>
+  <Genus>Dendroplex</Genus>
+  <Species>picus</Species>
+  <Sub-species />
+  <VernacularNames>Straight-billed Woodcreeper</VernacularNames>
+</Audio>

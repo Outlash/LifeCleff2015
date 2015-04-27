@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>7424</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN7424.wav</FileName>
+  <ClassId>prpzcg</ClassId>
+  <Date>2011-03-05</Date>
+  <Time>16:24</Time>
+  <Locality>Fazenda Trilhas do Sol, São Gabriel do Oeste - MS</Locality>
+  <Latitude>-19.4345</Latitude>
+  <Longitude>-54.817</Longitude>
+  <Elevation>300</Elevation>
+  <Author>Renan Campos de OIiveira</Author>
+  <AuthorID>SDARDTGGWP</AuthorID>
+  <Content>Song</Content>
+  <Comments>Young male</Comments>
+  <Quality>3</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Pipridae</Family>
+  <Genus>Antilophia</Genus>
+  <Species>galeata</Species>
+  <Sub-species />
+  <VernacularNames>Helmeted Manakin</VernacularNames>
+</Audio>

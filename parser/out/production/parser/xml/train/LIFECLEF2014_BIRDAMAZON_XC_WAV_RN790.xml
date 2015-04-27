@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>790</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN790.wav</FileName>
+  <ClassId>rndrjp</ClassId>
+  <Date>2008-08-15</Date>
+  <Time>07:00</Time>
+  <Locality>Almeirim/Pará</Locality>
+  <Latitude>NULL</Latitude>
+  <Longitude>NULL</Longitude>
+  <Elevation>80</Elevation>
+  <Author>Christian B. Andretti</Author>
+  <AuthorID>EZSMXGTXKS</AuthorID>
+  <Content>song</Content>
+  <Comments>Bituba - Selective Loggingbird-seen:yesplayback-used:no</Comments>
+  <Quality>2</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies>Bucco capensis,Attila spadiceus,Rhytipterna simplex,Hylexetastes perrotii</BackgroundSpecies>
+  <Order>Piciformes</Order>
+  <Family>Galbulidae</Family>
+  <Genus>Jacamerops</Genus>
+  <Species>aureus</Species>
+  <Sub-species>ridgwayi</Sub-species>
+  <VernacularNames>Great Jacamar</VernacularNames>
+</Audio>

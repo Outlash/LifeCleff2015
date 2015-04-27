@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>5408</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN5408.wav</FileName>
+  <ClassId>lddsyh</ClassId>
+  <Date>2008-05-17</Date>
+  <Time>05:48</Time>
+  <Locality>Pousada Rio Azul, PA</Locality>
+  <Latitude>-9.2456</Latitude>
+  <Longitude>-55.987</Longitude>
+  <Elevation>190</Elevation>
+  <Author>Bradley Davis</Author>
+  <AuthorID>YNXJLOESBB</AuthorID>
+  <Content>call</Content>
+  <Comments>Calls from a male at the edge of a large clearing.</Comments>
+  <Quality>2</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies>Brotogeris chrysoptera,Trogon collaris,Myrmoborus leucophrys</BackgroundSpecies>
+  <Order>Passeriformes</Order>
+  <Family>Thamnophilidae</Family>
+  <Genus>Thamnophilus</Genus>
+  <Species>schistaceus</Species>
+  <Sub-species />
+  <VernacularNames>Plain-winged Antshrike</VernacularNames>
+</Audio>

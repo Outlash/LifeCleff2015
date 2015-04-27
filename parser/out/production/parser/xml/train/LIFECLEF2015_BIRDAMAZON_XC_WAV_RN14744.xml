@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>14744</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN14744.wav</FileName>
+  <ClassId>uphahj</ClassId>
+  <Date>0000-00-00</Date>
+  <Time>?</Time>
+  <Locality>Resguardo Unificado Selva de Matavén, Cumaribo, Vichada</Locality>
+  <Latitude>4.507778</Latitude>
+  <Longitude>-68.05889</Longitude>
+  <Elevation>190</Elevation>
+  <Author>Fernando Forero (Colección de Sonidos Ambientales - Instituto Humboldt)</Author>
+  <AuthorID>XMFDPACYJN</AuthorID>
+  <Content>song</Content>
+  <Comments>BSA 28531To obtain a wav file of the original recording, please contact csa@humboldt.org.coplayback-used:no</Comments>
+  <Quality>2</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Accipitriformes</Order>
+  <Family>Accipitridae</Family>
+  <Genus>Rupornis</Genus>
+  <Species>magnirostris</Species>
+  <Sub-species />
+  <VernacularNames>Roadside Hawk</VernacularNames>
+</Audio>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>20292</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN20292.wav</FileName>
+  <ClassId>wgchmm</ClassId>
+  <Date>2011-03-13</Date>
+  <Time>9:47</Time>
+  <Locality>Parque Nacional Yacambú, Lara</Locality>
+  <Latitude>9.7031</Latitude>
+  <Longitude>-69.6048</Longitude>
+  <Elevation>1700</Elevation>
+  <Author>Galo Buitron-Jurado</Author>
+  <AuthorID>XUAITKZGSQ</AuthorID>
+  <Content>?</Content>
+  <Comments />
+  <Quality>3</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Galliformes</Order>
+  <Family>Cracidae</Family>
+  <Genus>Penelope</Genus>
+  <Species>argyrotis</Species>
+  <Sub-species />
+  <VernacularNames>Band-tailed Guan</VernacularNames>
+</Audio>

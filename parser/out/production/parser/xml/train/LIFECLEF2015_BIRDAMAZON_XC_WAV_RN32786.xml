@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>32786</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN32786.wav</FileName>
+  <ClassId>clakup</ClassId>
+  <Date>2009-09-17</Date>
+  <Time>?</Time>
+  <Locality>Linha Emília, Dois Lajeados, Rio Grande do Sul</Locality>
+  <Latitude>-28.9403</Latitude>
+  <Longitude>-51.7806</Longitude>
+  <Elevation>200</Elevation>
+  <Author>Adrian Eisen Rupp</Author>
+  <AuthorID>AOPMSCIDIA</AuthorID>
+  <Content>call</Content>
+  <Comments />
+  <Quality>3</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies>Setophaga pitiayumi</BackgroundSpecies>
+  <Order>Passeriformes</Order>
+  <Family>Tyrannidae</Family>
+  <Genus>Phylloscartes</Genus>
+  <Species>ventralis</Species>
+  <Sub-species />
+  <VernacularNames>Mottle-cheeked Tyrannulet</VernacularNames>
+</Audio>

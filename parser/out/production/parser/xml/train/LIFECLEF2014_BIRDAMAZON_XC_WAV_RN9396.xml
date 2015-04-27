@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>9396</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN9396.wav</FileName>
+  <ClassId>jorqun</ClassId>
+  <Date>1999-12-18</Date>
+  <Time>08:05</Time>
+  <Locality>Pirapora, MG</Locality>
+  <Latitude>-17.3584</Latitude>
+  <Longitude>-44.8501</Longitude>
+  <Elevation>540</Elevation>
+  <Author>Jeremy Minns</Author>
+  <AuthorID>DGVLLRYDXS</AuthorID>
+  <Content>Song during display flight</Content>
+  <Comments>Road along left bank of Rio das Velhas. Secondary growth. On several occasions this male sang without making a display flight.</Comments>
+  <Quality>2</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies>Columbina squammata,Nonnula rubecula,Pitangus sulphuratus,Cyclarhis gujanensis,Coryphospingus pileatus</BackgroundSpecies>
+  <Order>Passeriformes</Order>
+  <Family>Thraupidae</Family>
+  <Genus>Volatinia</Genus>
+  <Species>jacarina</Species>
+  <Sub-species>jacarina</Sub-species>
+  <VernacularNames>Blue-black Grassquit</VernacularNames>
+</Audio>

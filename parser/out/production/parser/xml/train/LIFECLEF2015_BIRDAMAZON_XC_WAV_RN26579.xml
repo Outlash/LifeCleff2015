@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>26579</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN26579.wav</FileName>
+  <ClassId>vsywgi</ClassId>
+  <Date>2012-03-18</Date>
+  <Time>07:00</Time>
+  <Locality>Cristalino Jungle Lodge, MT</Locality>
+  <Latitude>-9.5981</Latitude>
+  <Longitude>-55.932</Longitude>
+  <Elevation>260</Elevation>
+  <Author>Juha Honkala</Author>
+  <AuthorID>UTCLOBFQPH</AuthorID>
+  <Content>call</Content>
+  <Comments>Two birds calling.bird-seen:yesplayback-used:no</Comments>
+  <Quality>1</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Psittaciformes</Order>
+  <Family>Psittacidae</Family>
+  <Genus>Ara</Genus>
+  <Species>macao</Species>
+  <Sub-species />
+  <VernacularNames>Scarlet Macaw</VernacularNames>
+</Audio>

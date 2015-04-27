@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>15769</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN15769.wav</FileName>
+  <ClassId>nnbhgj</ClassId>
+  <Date>2012-01-29</Date>
+  <Time>15:34</Time>
+  <Locality>Mata secundária, Ombrófila mista, estado do Paraná</Locality>
+  <Latitude>NULL</Latitude>
+  <Longitude>NULL</Longitude>
+  <Elevation>630</Elevation>
+  <Author>luiz c. silva</Author>
+  <AuthorID>ORPKXJRFDZ</AuthorID>
+  <Content>song</Content>
+  <Comments />
+  <Quality>4</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Piciformes</Order>
+  <Family>Bucconidae</Family>
+  <Genus>Nonnula</Genus>
+  <Species>rubecula</Species>
+  <Sub-species />
+  <VernacularNames>Rusty-breasted Nunlet</VernacularNames>
+</Audio>

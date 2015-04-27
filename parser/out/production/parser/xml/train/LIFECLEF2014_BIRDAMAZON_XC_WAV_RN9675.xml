@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>9675</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN9675.wav</FileName>
+  <ClassId>uytsig</ClassId>
+  <Date>2011-10-11</Date>
+  <Time>18:12</Time>
+  <Locality>Campo Mourao, Paraná.</Locality>
+  <Latitude>NULL</Latitude>
+  <Longitude>NULL</Longitude>
+  <Elevation>640</Elevation>
+  <Author>Luiz C. Silva</Author>
+  <AuthorID>ORPKXJRFDZ</AuthorID>
+  <Content>call, song</Content>
+  <Comments />
+  <Quality>1</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Turdidae</Family>
+  <Genus>Turdus</Genus>
+  <Species>leucomelas</Species>
+  <Sub-species />
+  <VernacularNames>Pale-breasted Thrush</VernacularNames>
+</Audio>

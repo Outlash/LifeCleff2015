@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>25112</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN25112.wav</FileName>
+  <ClassId>obkcxh</ClassId>
+  <Date>2009-07-10</Date>
+  <Time>?:?</Time>
+  <Locality>Tupana lodge, Amazonas</Locality>
+  <Latitude>-4.067</Latitude>
+  <Longitude>-60.6598</Longitude>
+  <Elevation>?</Elevation>
+  <Author>Alexandre Renaudier</Author>
+  <AuthorID>GKADEITXTH</AuthorID>
+  <Content>call</Content>
+  <Comments />
+  <Quality>2</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies>Hylophilus hypoxanthus</BackgroundSpecies>
+  <Order>Passeriformes</Order>
+  <Family>Tyrannidae</Family>
+  <Genus>Cnipodectes</Genus>
+  <Species>subbrunneus</Species>
+  <Sub-species />
+  <VernacularNames>Brownish Twistwing</VernacularNames>
+</Audio>

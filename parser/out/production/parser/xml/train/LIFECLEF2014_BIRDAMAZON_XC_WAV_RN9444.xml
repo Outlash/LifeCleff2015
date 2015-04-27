@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>9444</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN9444.wav</FileName>
+  <ClassId>fwafrc</ClassId>
+  <Date>2006-11-06</Date>
+  <Time>06:43</Time>
+  <Locality>Parque do Zizo, Sao Paulo state</Locality>
+  <Latitude>-24.017146</Latitude>
+  <Longitude>-47.81044</Longitude>
+  <Elevation>650</Elevation>
+  <Author>Jeremy Minns</Author>
+  <AuthorID>DGVLLRYDXS</AuthorID>
+  <Content>Song</Content>
+  <Comments>Edge of humid forest. After playback of song.</Comments>
+  <Quality>1</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies>Patagioenas picazuro,Drymophila ferruginea,Chiroxiphia caudata</BackgroundSpecies>
+  <Order>Passeriformes</Order>
+  <Family>Thamnophilidae</Family>
+  <Genus>Terenura</Genus>
+  <Species>maculata</Species>
+  <Sub-species />
+  <VernacularNames>Streak-capped Antwren</VernacularNames>
+</Audio>

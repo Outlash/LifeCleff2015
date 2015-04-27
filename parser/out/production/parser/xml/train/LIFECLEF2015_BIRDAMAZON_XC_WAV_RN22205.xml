@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>22205</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN22205.wav</FileName>
+  <ClassId>vkdyyr</ClassId>
+  <Date>2003-01-00</Date>
+  <Time>xx:xx</Time>
+  <Locality>Cerro de la Paz, nr. Serrania de los Yariguies, mun. Zapatoca Santande</Locality>
+  <Latitude>6.9834</Latitude>
+  <Longitude>-73.4334</Longitude>
+  <Elevation>1000</Elevation>
+  <Author>Thomas Donegan</Author>
+  <AuthorID>OXSIOLJJUP</AuthorID>
+  <Content>Call</Content>
+  <Comments>Any ID of other background species appreciated.</Comments>
+  <Quality>3</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies>Patagioenas plumbea,Dysithamnus mentalis,Myioborus miniatus,Myrmeciza immaculata</BackgroundSpecies>
+  <Order>Apodiformes</Order>
+  <Family>Trochilidae</Family>
+  <Genus>Phaethornis</Genus>
+  <Species>guy</Species>
+  <Sub-species />
+  <VernacularNames>Green Hermit</VernacularNames>
+</Audio>

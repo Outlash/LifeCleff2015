@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>4230</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN4230.wav</FileName>
+  <ClassId>azrobg</ClassId>
+  <Date>2001-11-12</Date>
+  <Time>10:36</Time>
+  <Locality>Estação Ecológica de Murici, Alagoas</Locality>
+  <Latitude>-9.3001</Latitude>
+  <Longitude>-35.9334</Longitude>
+  <Elevation>550</Elevation>
+  <Author>Jeremy Minns</Author>
+  <AuthorID>DGVLLRYDXS</AuthorID>
+  <Content>Song</Content>
+  <Comments>Humid forest. Pair.</Comments>
+  <Quality>1</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies>Pyriglena leuconota,Chiroxiphia pareola,Hemithraupis flavicollis</BackgroundSpecies>
+  <Order>Passeriformes</Order>
+  <Family>Thamnophilidae</Family>
+  <Genus>Herpsilochmus</Genus>
+  <Species>rufimarginatus</Species>
+  <Sub-species>scapularis</Sub-species>
+  <VernacularNames>Rufous-winged Antwren</VernacularNames>
+</Audio>

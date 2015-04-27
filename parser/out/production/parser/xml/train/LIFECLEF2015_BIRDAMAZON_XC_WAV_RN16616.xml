@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>16616</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN16616.wav</FileName>
+  <ClassId>piciap</ClassId>
+  <Date>2008-08-02</Date>
+  <Time>10:45</Time>
+  <Locality>RPPN Pontal da Barra - Pelotas, Rio Grande do Sul</Locality>
+  <Latitude>-31.78333</Latitude>
+  <Longitude>-52.22</Longitude>
+  <Elevation>0</Elevation>
+  <Author>Fernando Jacobs</Author>
+  <AuthorID>MHHPJBCUXC</AuthorID>
+  <Content>flight call</Content>
+  <Comments />
+  <Quality>2</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Pelecaniformes</Order>
+  <Family>Ardeidae</Family>
+  <Genus>Ardea</Genus>
+  <Species>cocoi</Species>
+  <Sub-species />
+  <VernacularNames>Cocoi Heron</VernacularNames>
+</Audio>

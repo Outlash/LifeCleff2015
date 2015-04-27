@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>26564</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN26564.wav</FileName>
+  <ClassId>jmefjy</ClassId>
+  <Date>2007-02-19</Date>
+  <Time>14:50</Time>
+  <Locality>Colombia, Tolima, Ibagué, ambala, Reserva</Locality>
+  <Latitude>4.4667</Latitude>
+  <Longitude>-75.2001</Longitude>
+  <Elevation>1800</Elevation>
+  <Author>Yair G Molina - Martínez</Author>
+  <AuthorID>UQUOPFIYYQ</AuthorID>
+  <Content>Call?</Content>
+  <Comments />
+  <Quality>4</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Trogoniformes</Order>
+  <Family>Trogonidae</Family>
+  <Genus>Trogon</Genus>
+  <Species>personatus</Species>
+  <Sub-species />
+  <VernacularNames>Masked Trogon</VernacularNames>
+</Audio>

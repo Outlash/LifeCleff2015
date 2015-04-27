@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>27720</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN27720.wav</FileName>
+  <ClassId>mbfftt</ClassId>
+  <Date>2011-02-09</Date>
+  <Time>8:34</Time>
+  <Locality>RNA Las Tangaras, Choco</Locality>
+  <Latitude>5.729</Latitude>
+  <Longitude>-76.244</Longitude>
+  <Elevation>1800</Elevation>
+  <Author>Jon King</Author>
+  <AuthorID>LNEEOOWCQR</AuthorID>
+  <Content>song</Content>
+  <Comments>Natural vocalisation. Distance to mic. 5m, seen.</Comments>
+  <Quality>1</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Rhinocryptidae</Family>
+  <Genus>Scytalopus</Genus>
+  <Species>vicinior</Species>
+  <Sub-species />
+  <VernacularNames>Narino Tapaculo</VernacularNames>
+</Audio>

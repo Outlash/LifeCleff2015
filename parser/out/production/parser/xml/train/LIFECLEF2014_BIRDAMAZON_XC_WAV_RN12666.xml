@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>12666</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN12666.wav</FileName>
+  <ClassId>xirfzd</ClassId>
+  <Date>2010-01-27</Date>
+  <Time>12:05</Time>
+  <Locality>Angelina, Santa Catarina</Locality>
+  <Latitude>-27.5667</Latitude>
+  <Longitude>-49.01</Longitude>
+  <Elevation>830</Elevation>
+  <Author>Evair Legal</Author>
+  <AuthorID>SMJXFKLATM</AuthorID>
+  <Content>song</Content>
+  <Comments />
+  <Quality>1</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies>Vireo olivaceus,Basileuterus culicivorus,Sittasomus griseicapillus</BackgroundSpecies>
+  <Order>Passeriformes</Order>
+  <Family>Tyrannidae</Family>
+  <Genus>Phyllomyias</Genus>
+  <Species>fasciatus</Species>
+  <Sub-species />
+  <VernacularNames>Planalto Tyrannulet</VernacularNames>
+</Audio>

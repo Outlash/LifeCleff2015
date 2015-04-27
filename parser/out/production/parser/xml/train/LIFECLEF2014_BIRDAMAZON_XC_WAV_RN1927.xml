@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>1927</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN1927.wav</FileName>
+  <ClassId>uphahj</ClassId>
+  <Date>2010-12-13</Date>
+  <Time>08:40</Time>
+  <Locality>Floresta Nacional do Tapajós, Bacia 165, Santarem, Para</Locality>
+  <Latitude>-2.7539</Latitude>
+  <Longitude>-54.997</Longitude>
+  <Elevation>?</Elevation>
+  <Author>Nargila Moura</Author>
+  <AuthorID>CWEIBYBYYD</AuthorID>
+  <Content>song</Content>
+  <Comments>primary forest</Comments>
+  <Quality>3</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies>Dixiphia rubrocapilla</BackgroundSpecies>
+  <Order>Accipitriformes</Order>
+  <Family>Accipitridae</Family>
+  <Genus>Rupornis</Genus>
+  <Species>magnirostris</Species>
+  <Sub-species>magnirostris</Sub-species>
+  <VernacularNames>Roadside Hawk</VernacularNames>
+</Audio>

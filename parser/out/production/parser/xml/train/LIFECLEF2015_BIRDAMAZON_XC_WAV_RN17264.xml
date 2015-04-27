@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>17264</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN17264.wav</FileName>
+  <ClassId>cvyifz</ClassId>
+  <Date>2013-11-13</Date>
+  <Time>06:30</Time>
+  <Locality>Fazenda Bacury, Anhembi, São Paulo</Locality>
+  <Latitude>-22.6707</Latitude>
+  <Longitude>-48.1469</Longitude>
+  <Elevation>550</Elevation>
+  <Author>Juha Honkala</Author>
+  <AuthorID>UTCLOBFQPH</AuthorID>
+  <Content>male, song</Content>
+  <Comments>Dry forest in Fazenda Bacury.bird-seen:yesplayback-used:no</Comments>
+  <Quality>2</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies>Dysithamnus mentalis</BackgroundSpecies>
+  <Order>Passeriformes</Order>
+  <Family>Cardinalidae</Family>
+  <Genus>Habia</Genus>
+  <Species>rubica</Species>
+  <Sub-species />
+  <VernacularNames>Red-crowned Ant Tanager</VernacularNames>
+</Audio>

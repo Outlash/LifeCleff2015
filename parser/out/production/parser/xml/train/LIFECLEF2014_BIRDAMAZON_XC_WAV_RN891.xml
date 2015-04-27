@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>891</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN891.wav</FileName>
+  <ClassId>cxyhrl</ClassId>
+  <Date>1999-09-05</Date>
+  <Time>07:00</Time>
+  <Locality>Ubatuba, SP. Corcovado.</Locality>
+  <Latitude>-23.5001</Latitude>
+  <Longitude>-45.2167</Longitude>
+  <Elevation>40</Elevation>
+  <Author>Jeremy Minns</Author>
+  <AuthorID>DGVLLRYDXS</AuthorID>
+  <Content>call, song</Content>
+  <Comments>Single male, displaying at top of tall bare tree.</Comments>
+  <Quality>2</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies>Leptotila rufaxilla,Brotogeris tirica,Automolus leucophthalmus,Procnias nudicollis,Manacus manacus,Chiroxiphia caudata</BackgroundSpecies>
+  <Order>Passeriformes</Order>
+  <Family>Icteridae</Family>
+  <Genus>Psarocolius</Genus>
+  <Species>decumanus</Species>
+  <Sub-species>maculosus</Sub-species>
+  <VernacularNames>Crested Oropendola</VernacularNames>
+</Audio>

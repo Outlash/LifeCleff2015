@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>2570</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN2570.wav</FileName>
+  <ClassId>aeqwqe</ClassId>
+  <Date>2011-07-05</Date>
+  <Time>07:57</Time>
+  <Locality>1Brasília National Park, Brasília/DF.</Locality>
+  <Latitude>-15.6626</Latitude>
+  <Longitude>-48.017</Longitude>
+  <Elevation>1084</Elevation>
+  <Author>Fernando Fávaro</Author>
+  <AuthorID>QTNGUZTTQM</AuthorID>
+  <Content>call, song</Content>
+  <Comments>Gallery forest. Milho Cozido stream.</Comments>
+  <Quality>1</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies>Corythopis delalandi</BackgroundSpecies>
+  <Order>Passeriformes</Order>
+  <Family>Thamnophilidae</Family>
+  <Genus>Herpsilochmus</Genus>
+  <Species>atricapillus</Species>
+  <Sub-species />
+  <VernacularNames>Black-capped Antwren</VernacularNames>
+</Audio>

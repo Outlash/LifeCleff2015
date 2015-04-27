@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>17825</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN17825.wav</FileName>
+  <ClassId>zuweoe</ClassId>
+  <Date>2013-01-26</Date>
+  <Time>13:00</Time>
+  <Locality>Boa Nova, Wet Forest, state of Bahia</Locality>
+  <Latitude>-14.3834</Latitude>
+  <Longitude>-40.1001</Longitude>
+  <Elevation>700</Elevation>
+  <Author>Dan Lane</Author>
+  <AuthorID>WOEAFQRMUD</AuthorID>
+  <Content>call</Content>
+  <Comments>Natural vocalizations from a male perched on bare top of tall introduced bamboo. A few red feathers noted on throat. Two other individuals present. Disturbed roadside in humid mata atlantica. img:http://www.flickr.com/photos/8013969@N03/8453946166/ bird-seen:yesplayback-used:no</Comments>
+  <Quality>2</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies>Thlypopsis sordida</BackgroundSpecies>
+  <Order>Passeriformes</Order>
+  <Family>Thraupidae</Family>
+  <Genus>Compsothraupis</Genus>
+  <Species>loricata</Species>
+  <Sub-species />
+  <VernacularNames>Scarlet-throated Tanager</VernacularNames>
+</Audio>

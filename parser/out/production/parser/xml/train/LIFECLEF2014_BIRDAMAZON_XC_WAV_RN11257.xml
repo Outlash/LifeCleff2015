@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>11257</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN11257.wav</FileName>
+  <ClassId>nabmpi</ClassId>
+  <Date>2006-04-22</Date>
+  <Time>08:00</Time>
+  <Locality>Estância Santa Maria - Jaguarão, Rio Grande do Sul</Locality>
+  <Latitude>-32.4523</Latitude>
+  <Longitude>-53.1073</Longitude>
+  <Elevation>25</Elevation>
+  <Author>Fernando Jacobs</Author>
+  <AuthorID>MHHPJBCUXC</AuthorID>
+  <Content>duet, song</Content>
+  <Comments />
+  <Quality>2</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Furnariidae</Family>
+  <Genus>Furnarius</Genus>
+  <Species>rufus</Species>
+  <Sub-species />
+  <VernacularNames>Rufous Hornero</VernacularNames>
+</Audio>

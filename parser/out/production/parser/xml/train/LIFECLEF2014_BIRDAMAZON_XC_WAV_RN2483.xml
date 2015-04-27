@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>2483</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN2483.wav</FileName>
+  <ClassId>jiuopg</ClassId>
+  <Date>2008-06-15</Date>
+  <Time>07:30</Time>
+  <Locality>Duas Bocas, Cariacica, ES</Locality>
+  <Latitude>-20.28333</Latitude>
+  <Longitude>-40.46667</Longitude>
+  <Elevation>150</Elevation>
+  <Author>Filipe T. and J. Silvério Lemos</Author>
+  <AuthorID>TTTHVXGOWS</AuthorID>
+  <Content>call</Content>
+  <Comments />
+  <Quality>1</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Tyrannidae</Family>
+  <Genus>Sirystes</Genus>
+  <Species>sibilator</Species>
+  <Sub-species />
+  <VernacularNames>Eastern Sirystes</VernacularNames>
+</Audio>

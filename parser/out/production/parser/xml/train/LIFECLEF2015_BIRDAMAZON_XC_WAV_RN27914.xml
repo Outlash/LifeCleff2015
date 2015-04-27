@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>27914</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN27914.wav</FileName>
+  <ClassId>vcflij</ClassId>
+  <Date>2009-10-31</Date>
+  <Time>15:45</Time>
+  <Locality>La Carapa, Macouria</Locality>
+  <Latitude>4.911</Latitude>
+  <Longitude>-52.46</Longitude>
+  <Elevation>10</Elevation>
+  <Author>Olivier Claessens</Author>
+  <AuthorID>KRQYNRSSDF</AuthorID>
+  <Content>song</Content>
+  <Comments>after playback</Comments>
+  <Quality>1</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Gruiformes</Order>
+  <Family>Rallidae</Family>
+  <Genus>Laterallus</Genus>
+  <Species>viridis</Species>
+  <Sub-species />
+  <VernacularNames>Russet-crowned Crake</VernacularNames>
+</Audio>

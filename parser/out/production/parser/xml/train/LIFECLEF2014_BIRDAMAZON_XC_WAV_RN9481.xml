@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>9481</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN9481.wav</FileName>
+  <ClassId>xbszpg</ClassId>
+  <Date>2006-02-06</Date>
+  <Time>08:00</Time>
+  <Locality>Tapira, Minas Gerais State</Locality>
+  <Latitude>-19.92222</Latitude>
+  <Longitude>-46.82306</Longitude>
+  <Elevation>1100</Elevation>
+  <Author>Robson Silva e Silva</Author>
+  <AuthorID>WZSVLIHYQF</AuthorID>
+  <Content>?</Content>
+  <Comments />
+  <Quality>1</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Thraupidae</Family>
+  <Genus>Sicalis</Genus>
+  <Species>citrina</Species>
+  <Sub-species />
+  <VernacularNames>Stripe-tailed Yellow Finch</VernacularNames>
+</Audio>

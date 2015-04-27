@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>23426</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN23426.wav</FileName>
+  <ClassId>xzvjkj</ClassId>
+  <Date>2014-09-01</Date>
+  <Time>13:00</Time>
+  <Locality>Alto Japurá, margem direita.</Locality>
+  <Latitude>-1.8754</Latitude>
+  <Longitude>-69.045</Longitude>
+  <Elevation>90</Elevation>
+  <Author>Eduardo D. Schultz</Author>
+  <AuthorID>QYOZQITVAC</AuthorID>
+  <Content>song</Content>
+  <Comments>High Japurá, right bank. 65 km from Vila Bittencourt at the border.bird-seen:yes</Comments>
+  <Quality>0</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Tityridae</Family>
+  <Genus>Schiffornis</Genus>
+  <Species>turdina</Species>
+  <Sub-species>amazonum</Sub-species>
+  <VernacularNames>Brown-winged Schiffornis</VernacularNames>
+</Audio>

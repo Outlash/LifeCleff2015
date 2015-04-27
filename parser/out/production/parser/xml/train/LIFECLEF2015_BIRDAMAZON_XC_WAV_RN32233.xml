@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>32233</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN32233.wav</FileName>
+  <ClassId>aiiwiu</ClassId>
+  <Date>2011-08-22</Date>
+  <Time>17.30</Time>
+  <Locality>Lecheria, Edo. Anzoategui</Locality>
+  <Latitude>6.665</Latitude>
+  <Longitude>-66.094</Longitude>
+  <Elevation>0</Elevation>
+  <Author>Thore Noernberg</Author>
+  <AuthorID>TTSQGWDDGW</AuthorID>
+  <Content>?</Content>
+  <Comments>recorded in a garden area</Comments>
+  <Quality>3</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Psittaciformes</Order>
+  <Family>Psittacidae</Family>
+  <Genus>Psittacara</Genus>
+  <Species>leucophthalmus</Species>
+  <Sub-species />
+  <VernacularNames>White-eyed Parakeet</VernacularNames>
+</Audio>

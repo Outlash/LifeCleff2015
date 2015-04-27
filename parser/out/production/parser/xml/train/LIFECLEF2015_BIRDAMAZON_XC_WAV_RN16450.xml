@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>16450</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN16450.wav</FileName>
+  <ClassId>knyhgx</ClassId>
+  <Date>2010-06-26</Date>
+  <Time>09:00</Time>
+  <Locality>San Agustin, Huila</Locality>
+  <Latitude>1.88</Latitude>
+  <Longitude>-76.268</Longitude>
+  <Elevation>1700</Elevation>
+  <Author>Andrew Spencer</Author>
+  <AuthorID>CDTGHVBGZP</AuthorID>
+  <Content>call</Content>
+  <Comments>pair excitement calls</Comments>
+  <Quality>1</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Emberizidae</Family>
+  <Genus>Atlapetes</Genus>
+  <Species>fuscoolivaceus</Species>
+  <Sub-species />
+  <VernacularNames>Dusky-headed Brush Finch</VernacularNames>
+</Audio>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>15432</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN15432.wav</FileName>
+  <ClassId>crqoog</ClassId>
+  <Date>2007-12-17</Date>
+  <Time>11:20</Time>
+  <Locality>Parque Regional Barbas-Bremen, Filandia, Quindio. Sector Barbas</Locality>
+  <Latitude>4.6717</Latitude>
+  <Longitude>-75.6283</Longitude>
+  <Elevation>1900</Elevation>
+  <Author>Oscar Humberto Marin-Gomez</Author>
+  <AuthorID>CSUHASNRSU</AuthorID>
+  <Content>song</Content>
+  <Comments>Ref: OHM15A 1901bird-seen:noplayback-used:no</Comments>
+  <Quality>2</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Tyrannidae</Family>
+  <Genus>Myiodynastes</Genus>
+  <Species>chrysocephalus</Species>
+  <Sub-species />
+  <VernacularNames>Golden-crowned Flycatcher</VernacularNames>
+</Audio>

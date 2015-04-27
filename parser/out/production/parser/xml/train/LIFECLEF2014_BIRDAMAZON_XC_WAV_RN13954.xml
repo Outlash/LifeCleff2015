@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>13954</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN13954.wav</FileName>
+  <ClassId>dzaamy</ClassId>
+  <Date>2011-01-29</Date>
+  <Time>06:52</Time>
+  <Locality>Bacia 129, Belterra, PA</Locality>
+  <Latitude>-2.722</Latitude>
+  <Longitude>-54.752</Longitude>
+  <Elevation>?</Elevation>
+  <Author>Bradley Davis</Author>
+  <AuthorID>YNXJLOESBB</AuthorID>
+  <Content>song</Content>
+  <Comments>Projeto Amazônia Sustentável. Bird not seen.</Comments>
+  <Quality>3</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies>Cyanocompsa cyanoides,Myrmoborus myotherinus</BackgroundSpecies>
+  <Order>Passeriformes</Order>
+  <Family>Furnariidae</Family>
+  <Genus>Sclerurus</Genus>
+  <Species>mexicanus</Species>
+  <Sub-species />
+  <VernacularNames>Tawny-throated Leaftosser</VernacularNames>
+</Audio>

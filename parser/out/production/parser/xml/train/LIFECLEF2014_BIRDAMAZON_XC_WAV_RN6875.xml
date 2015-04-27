@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>6875</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN6875.wav</FileName>
+  <ClassId>hijhrx</ClassId>
+  <Date>2004-04-28</Date>
+  <Time>05:00</Time>
+  <Locality>Itatira, State of Ceará</Locality>
+  <Latitude>-4.5001</Latitude>
+  <Longitude>-39.5667</Longitude>
+  <Elevation>800</Elevation>
+  <Author>Weber Girão</Author>
+  <AuthorID>MXVQPUKGWW</AuthorID>
+  <Content>territorial scream</Content>
+  <Comments />
+  <Quality>5</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies />
+  <Order>Strigiformes</Order>
+  <Family>Strigidae</Family>
+  <Genus>Megascops</Genus>
+  <Species>choliba</Species>
+  <Sub-species />
+  <VernacularNames>Tropical Screech Owl</VernacularNames>
+</Audio>

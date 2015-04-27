@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>29245</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN29245.wav</FileName>
+  <ClassId>knpxmw</ClassId>
+  <Date>2011-06-08</Date>
+  <Time>06:35</Time>
+  <Locality>Chapada dos Guimarães, Mato Grosso state</Locality>
+  <Latitude>-15.457</Latitude>
+  <Longitude>-55.68</Longitude>
+  <Elevation>700</Elevation>
+  <Author>Marcos Melo</Author>
+  <AuthorID>MRGDYNJGUJ</AuthorID>
+  <Content>song</Content>
+  <Comments>three individ. perched and foraging</Comments>
+  <Quality>2</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies>Momotus momota,Pheugopedius genibarbis</BackgroundSpecies>
+  <Order>Piciformes</Order>
+  <Family>Bucconidae</Family>
+  <Genus>Monasa</Genus>
+  <Species>nigrifrons</Species>
+  <Sub-species />
+  <VernacularNames>Black-fronted Nunbird</VernacularNames>
+</Audio>

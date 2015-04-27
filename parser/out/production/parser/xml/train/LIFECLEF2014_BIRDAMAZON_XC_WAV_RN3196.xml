@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>3196</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN3196.wav</FileName>
+  <ClassId>lsoxmb</ClassId>
+  <Date>2001-11-17</Date>
+  <Time>07:11</Time>
+  <Locality>Lagoa Grande, Pernambuco State</Locality>
+  <Latitude>-8.832</Latitude>
+  <Longitude>-40.1773</Longitude>
+  <Elevation>370</Elevation>
+  <Author>Jeremy Minns</Author>
+  <AuthorID>DGVLLRYDXS</AuthorID>
+  <Content>Call</Content>
+  <Comments>Degraded caatinga and farmland. Calls of a group of about six birds in a tree with nests of Caatinga Cacholote. This is Call B in our DVD-ROM 'Birds of Brazil'.</Comments>
+  <Quality>2</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Mimidae</Family>
+  <Genus>Mimus</Genus>
+  <Species>saturninus</Species>
+  <Sub-species>frater</Sub-species>
+  <VernacularNames>Chalk-browed Mockingbird</VernacularNames>
+</Audio>

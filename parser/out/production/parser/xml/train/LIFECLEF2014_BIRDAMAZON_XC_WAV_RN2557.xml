@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>2557</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN2557.wav</FileName>
+  <ClassId>ujjmnm</ClassId>
+  <Date>2002-02-07</Date>
+  <Time>17:10</Time>
+  <Locality>Correntina, BA</Locality>
+  <Latitude>-13.3501</Latitude>
+  <Longitude>-44.6334</Longitude>
+  <Elevation>450</Elevation>
+  <Author>Jeremy Minns</Author>
+  <AuthorID>DGVLLRYDXS</AuthorID>
+  <Content>Song</Content>
+  <Comments>Cerrado. Male</Comments>
+  <Quality>1</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies>Melanopareia torquata,Synallaxis albescens</BackgroundSpecies>
+  <Order>Passeriformes</Order>
+  <Family>Thamnophilidae</Family>
+  <Genus>Thamnophilus</Genus>
+  <Species>torquatus</Species>
+  <Sub-species />
+  <VernacularNames>Rufous-winged Antshrike</VernacularNames>
+</Audio>

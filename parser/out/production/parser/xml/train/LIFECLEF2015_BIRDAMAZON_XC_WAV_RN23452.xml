@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>23452</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN23452.wav</FileName>
+  <ClassId>vqpvft</ClassId>
+  <Date>2010-11-22</Date>
+  <Time>?</Time>
+  <Locality>rio kukenan camp on the way to Cerro Roraima, Bolivar</Locality>
+  <Latitude>5.1323</Latitude>
+  <Longitude>-60.8001</Longitude>
+  <Elevation>?</Elevation>
+  <Author>Alexandre Renaudier</Author>
+  <AuthorID>GKADEITXTH</AuthorID>
+  <Content>song</Content>
+  <Comments />
+  <Quality>2</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Icteridae</Family>
+  <Genus>Sturnella</Genus>
+  <Species>magna</Species>
+  <Sub-species />
+  <VernacularNames>Eastern Meadowlark</VernacularNames>
+</Audio>

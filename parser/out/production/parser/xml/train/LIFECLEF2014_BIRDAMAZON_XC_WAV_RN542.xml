@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>542</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN542.wav</FileName>
+  <ClassId>bafzon</ClassId>
+  <Date>2005-10-11</Date>
+  <Time>6:45</Time>
+  <Locality>N of Esplanada, Bahia</Locality>
+  <Latitude>-11.6489</Latitude>
+  <Longitude>-37.8901</Longitude>
+  <Elevation>150</Elevation>
+  <Author>Richard C. Hoyer</Author>
+  <AuthorID>SRRRBQPENI</AuthorID>
+  <Content>song</Content>
+  <Comments>In response to playback</Comments>
+  <Quality>1</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Formicariidae</Family>
+  <Genus>Formicarius</Genus>
+  <Species>colma</Species>
+  <Sub-species>ruficeps</Sub-species>
+  <VernacularNames>Rufous-capped Antthrush</VernacularNames>
+</Audio>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>14676</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN14676.wav</FileName>
+  <ClassId>qiauol</ClassId>
+  <Date>2012-06-22</Date>
+  <Time>09:00</Time>
+  <Locality>Estação Ecológica Mata Preta, Abelardo Luz, Santa Catarina</Locality>
+  <Latitude>-26.5029</Latitude>
+  <Longitude>-52.1382</Longitude>
+  <Elevation>950</Elevation>
+  <Author>Antonio de Almeida Correia Junior</Author>
+  <AuthorID>FUUWTBJYFV</AuthorID>
+  <Content>song</Content>
+  <Comments>bird-seen:yesplayback-used:no</Comments>
+  <Quality>3</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Piciformes</Order>
+  <Family>Ramphastidae</Family>
+  <Genus>Ramphastos</Genus>
+  <Species>dicolorus</Species>
+  <Sub-species />
+  <VernacularNames>Green-billed Toucan</VernacularNames>
+</Audio>

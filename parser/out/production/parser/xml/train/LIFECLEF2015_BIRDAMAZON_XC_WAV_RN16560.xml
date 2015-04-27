@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>16560</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN16560.wav</FileName>
+  <ClassId>krpshi</ClassId>
+  <Date>2008-00-00</Date>
+  <Time>?:?</Time>
+  <Locality>Mana, piste ONF Dardanelles</Locality>
+  <Latitude>5.649811</Latitude>
+  <Longitude>-53.814468</Longitude>
+  <Elevation>50</Elevation>
+  <Author>A. Renaudier</Author>
+  <AuthorID>GKADEITXTH</AuthorID>
+  <Content>call</Content>
+  <Comments />
+  <Quality>1</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies>Trogon rufus</BackgroundSpecies>
+  <Order>Passeriformes</Order>
+  <Family>Thamnophilidae</Family>
+  <Genus>Cymbilaimus</Genus>
+  <Species>lineatus</Species>
+  <Sub-species>lineatus</Sub-species>
+  <VernacularNames>Fasciated Antshrike</VernacularNames>
+</Audio>

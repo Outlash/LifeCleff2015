@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>16480</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN16480.wav</FileName>
+  <ClassId>loavzh</ClassId>
+  <Date>2007-12-00</Date>
+  <Time>?:?</Time>
+  <Locality>Llanos - Hato El Cedral</Locality>
+  <Latitude>7.058986</Latitude>
+  <Longitude>-69.494019</Longitude>
+  <Elevation>50</Elevation>
+  <Author>Joe Klaiber</Author>
+  <AuthorID>TNPOVFLZMY</AuthorID>
+  <Content>alarm call</Content>
+  <Comments>link:http://www.birds-venezuela.de</Comments>
+  <Quality>3</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Galliformes</Order>
+  <Family>Odontophoridae</Family>
+  <Genus>Colinus</Genus>
+  <Species>cristatus</Species>
+  <Sub-species />
+  <VernacularNames>Crested Bobwhite</VernacularNames>
+</Audio>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>20714</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN20714.wav</FileName>
+  <ClassId>opckrh</ClassId>
+  <Date>2011-09-18</Date>
+  <Time>17:40</Time>
+  <Locality>Cristalino Jungle Lodge, MT</Locality>
+  <Latitude>-9.5981</Latitude>
+  <Longitude>-55.932</Longitude>
+  <Elevation>200</Elevation>
+  <Author>Tayler Brooks</Author>
+  <AuthorID>ARFGONJCBJ</AuthorID>
+  <Content>song</Content>
+  <Comments>In response to playback. Found in bamboo-y forest first heard giving trogon-like call. God-awful nunbirds edited out.</Comments>
+  <Quality>2</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies>Crypturellus strigulosus</BackgroundSpecies>
+  <Order>Piciformes</Order>
+  <Family>Bucconidae</Family>
+  <Genus>Bucco</Genus>
+  <Species>capensis</Species>
+  <Sub-species />
+  <VernacularNames>Collared Puffbird</VernacularNames>
+</Audio>

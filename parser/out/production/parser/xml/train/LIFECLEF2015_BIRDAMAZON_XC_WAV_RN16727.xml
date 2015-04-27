@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>16727</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN16727.wav</FileName>
+  <ClassId>iadzvh</ClassId>
+  <Date>0000-00-00</Date>
+  <Time>10:25</Time>
+  <Locality>Jardin, Antioquia</Locality>
+  <Latitude>5.7362</Latitude>
+  <Longitude>-75.8659</Longitude>
+  <Elevation>2750</Elevation>
+  <Author>Pablo Florez</Author>
+  <AuthorID>ISWBQKPBGS</AuthorID>
+  <Content>?</Content>
+  <Comments />
+  <Quality>1</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Thraupidae</Family>
+  <Genus>Oreothraupis</Genus>
+  <Species>arremonops</Species>
+  <Sub-species />
+  <VernacularNames>Tanager Finch</VernacularNames>
+</Audio>

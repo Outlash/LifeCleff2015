@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>31347</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN31347.wav</FileName>
+  <ClassId>igcivw</ClassId>
+  <Date>1991-07-07</Date>
+  <Time>10:00</Time>
+  <Locality>Abobral river, Mato Grosso do Sul State</Locality>
+  <Latitude>-19.4788</Latitude>
+  <Longitude>-56.9868</Longitude>
+  <Elevation>90</Elevation>
+  <Author>Antonio Silveira</Author>
+  <AuthorID>NBJQSQJRYH</AuthorID>
+  <Content>call</Content>
+  <Comments>perhaps a male.bird-seen:yesplayback-used:no</Comments>
+  <Quality>0</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Pelecaniformes</Order>
+  <Family>Threskiornithidae</Family>
+  <Genus>Theristicus</Genus>
+  <Species>caudatus</Species>
+  <Sub-species />
+  <VernacularNames>Buff-necked Ibis</VernacularNames>
+</Audio>

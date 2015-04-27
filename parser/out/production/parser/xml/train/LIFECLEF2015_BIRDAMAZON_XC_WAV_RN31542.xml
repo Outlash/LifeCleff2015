@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>31542</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN31542.wav</FileName>
+  <ClassId>cpzzjy</ClassId>
+  <Date>2000-04-16</Date>
+  <Time>23:42</Time>
+  <Locality>Finca La Pradera, Parroquia Remolinos, Municipio Puerto Lopez, Meta</Locality>
+  <Latitude>NULL</Latitude>
+  <Longitude>NULL</Longitude>
+  <Elevation>400</Elevation>
+  <Author>Bernabe Lopez-Lanus</Author>
+  <AuthorID>BYLLSJRVDZ</AuthorID>
+  <Content>Song</Content>
+  <Comments>Whit moon. Also Caprimulgus maculicaudus</Comments>
+  <Quality>1</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies>Hydropsalis maculicaudus</BackgroundSpecies>
+  <Order>Passeriformes</Order>
+  <Family>Mimidae</Family>
+  <Genus>Mimus</Genus>
+  <Species>gilvus</Species>
+  <Sub-species>melanopterus</Sub-species>
+  <VernacularNames>Tropical Mockingbird</VernacularNames>
+</Audio>

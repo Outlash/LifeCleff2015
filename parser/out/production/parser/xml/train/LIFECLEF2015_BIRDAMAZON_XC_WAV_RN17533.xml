@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>17533</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN17533.wav</FileName>
+  <ClassId>zwedij</ClassId>
+  <Date>2012-12-28</Date>
+  <Time>17:14</Time>
+  <Locality>ONF carbet, Km6, Piste de la Crique Dardanelles, Mana</Locality>
+  <Latitude>5.4115</Latitude>
+  <Longitude>-53.5747</Longitude>
+  <Elevation>60</Elevation>
+  <Author>Jon King</Author>
+  <AuthorID>LNEEOOWCQR</AuthorID>
+  <Content>call</Content>
+  <Comments>Distance to mic. 9m. Natural (alarm?) calls from just above water surface in vegetation in small river having been flushed from river bank as I walked by. bird-seen:yesplayback-used:no</Comments>
+  <Quality>2</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Thamnophilidae</Family>
+  <Genus>Sclateria</Genus>
+  <Species>naevia</Species>
+  <Sub-species />
+  <VernacularNames>Silvered Antbird</VernacularNames>
+</Audio>

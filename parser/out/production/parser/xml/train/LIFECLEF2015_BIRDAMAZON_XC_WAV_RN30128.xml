@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>30128</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN30128.wav</FileName>
+  <ClassId>djamod</ClassId>
+  <Date>2006-08-20</Date>
+  <Time>9:46</Time>
+  <Locality>Parque La Florida, Bogota</Locality>
+  <Latitude>4.729727</Latitude>
+  <Longitude>-74.135742</Longitude>
+  <Elevation>2600</Elevation>
+  <Author>Charles Hesse</Author>
+  <AuthorID>FMQSRXIRTH</AuthorID>
+  <Content>Alarm call</Content>
+  <Comments>link:http://www.geocities.com/fringe_backed_fire_eye/index.html        Response to playback</Comments>
+  <Quality>2</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Gruiformes</Order>
+  <Family>Rallidae</Family>
+  <Genus>Rallus</Genus>
+  <Species>semiplumbeus</Species>
+  <Sub-species>semiplumbeus</Sub-species>
+  <VernacularNames>Bogota Rail</VernacularNames>
+</Audio>

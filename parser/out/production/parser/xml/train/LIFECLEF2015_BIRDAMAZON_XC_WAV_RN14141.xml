@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>14141</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN14141.wav</FileName>
+  <ClassId>qerdnh</ClassId>
+  <Date>1998-12-19</Date>
+  <Time>08:50</Time>
+  <Locality>São Gabriel da Cachoeira, Amazonas</Locality>
+  <Latitude>-0.1334</Latitude>
+  <Longitude>-67.0834</Longitude>
+  <Elevation>70</Elevation>
+  <Author>Jeremy Minns</Author>
+  <AuthorID>DGVLLRYDXS</AuthorID>
+  <Content>Song</Content>
+  <Comments>Right bank of rio Negro. Terra firme forest.</Comments>
+  <Quality>1</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies>Tyrannulus elatus,Ramphastos tucanus</BackgroundSpecies>
+  <Order>Passeriformes</Order>
+  <Family>Thamnophilidae</Family>
+  <Genus>Thamnophilus</Genus>
+  <Species>murinus</Species>
+  <Sub-species>murinus</Sub-species>
+  <VernacularNames>Mouse-colored Antshrike</VernacularNames>
+</Audio>

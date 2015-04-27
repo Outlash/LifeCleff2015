@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>7808</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN7808.wav</FileName>
+  <ClassId>aiwvzm</ClassId>
+  <Date>2002-00-00</Date>
+  <Time>?:?</Time>
+  <Locality>Chacrinha, Sao Paulo city, Sao Paulo State</Locality>
+  <Latitude>-23.6501</Latitude>
+  <Longitude>-46.6834</Longitude>
+  <Elevation>800</Elevation>
+  <Author>Carlos Candia-Gallardo</Author>
+  <AuthorID>CXQSLQJCAG</AuthorID>
+  <Content>call</Content>
+  <Comments />
+  <Quality>4</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Furnariidae</Family>
+  <Genus>Cranioleuca</Genus>
+  <Species>pallida</Species>
+  <Sub-species />
+  <VernacularNames>Pallid Spinetail</VernacularNames>
+</Audio>

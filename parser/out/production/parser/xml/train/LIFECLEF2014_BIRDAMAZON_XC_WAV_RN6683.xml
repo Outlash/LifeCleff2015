@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>6683</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN6683.wav</FileName>
+  <ClassId>kazyby</ClassId>
+  <Date>2011-09-03</Date>
+  <Time>17:20</Time>
+  <Locality>Pantanal Wildlife Center, MT</Locality>
+  <Latitude>-16.7581</Latitude>
+  <Longitude>-56.8764</Longitude>
+  <Elevation>110</Elevation>
+  <Author>Eric DeFonso</Author>
+  <AuthorID>KTLCZCRCQX</AuthorID>
+  <Content>call</Content>
+  <Comments>Stern calls. Habitat is tropical deciduous woodland.bird-seen:yesplayback-used:no</Comments>
+  <Quality>1</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Furnariidae</Family>
+  <Genus>Synallaxis</Genus>
+  <Species>albilora</Species>
+  <Sub-species />
+  <VernacularNames>White-lored Spinetail</VernacularNames>
+</Audio>

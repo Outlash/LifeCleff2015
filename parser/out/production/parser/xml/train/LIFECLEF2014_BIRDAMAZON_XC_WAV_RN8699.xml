@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>8699</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN8699.wav</FileName>
+  <ClassId>kazyby</ClassId>
+  <Date>2002-01-26</Date>
+  <Time>17:14</Time>
+  <Locality>Rio Araguaia. Caseara</Locality>
+  <Latitude>-9.2667</Latitude>
+  <Longitude>-49.9334</Longitude>
+  <Elevation>170</Elevation>
+  <Author>Jeremy Minns</Author>
+  <AuthorID>DGVLLRYDXS</AuthorID>
+  <Content>Song</Content>
+  <Comments>Island in Rio Araguaia. Natural vocalization by bird in flooded bushy vegetation.</Comments>
+  <Quality>3</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies>Coereba flaveola,Saltator coerulescens</BackgroundSpecies>
+  <Order>Passeriformes</Order>
+  <Family>Furnariidae</Family>
+  <Genus>Synallaxis</Genus>
+  <Species>albilora</Species>
+  <Sub-species>simoni</Sub-species>
+  <VernacularNames>White-lored Spinetail</VernacularNames>
+</Audio>

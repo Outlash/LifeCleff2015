@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>1588</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN1588.wav</FileName>
+  <ClassId>fpnmqt</ClassId>
+  <Date>2008-10-25</Date>
+  <Time>xx:xx</Time>
+  <Locality>ADAMI, Parque Nacional das Araucárias, Ponte Serrada, Santa Catarina</Locality>
+  <Latitude>-26.7987</Latitude>
+  <Longitude>-51.8189</Longitude>
+  <Elevation>1130</Elevation>
+  <Author>Adrian Eisen Rupp</Author>
+  <AuthorID>AOPMSCIDIA</AuthorID>
+  <Content>allarm call</Content>
+  <Comments>Scytalopus notorius</Comments>
+  <Quality>2</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Rhinocryptidae</Family>
+  <Genus>Scytalopus</Genus>
+  <Species>speluncae</Species>
+  <Sub-species />
+  <VernacularNames>Mouse-colored Tapaculo</VernacularNames>
+</Audio>

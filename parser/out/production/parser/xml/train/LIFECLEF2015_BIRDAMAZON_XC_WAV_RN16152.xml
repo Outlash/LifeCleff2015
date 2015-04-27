@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>16152</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN16152.wav</FileName>
+  <ClassId>flxqxu</ClassId>
+  <Date>2005-07-00</Date>
+  <Time>xx:xx</Time>
+  <Locality>La Aurora, Serrania de los Yariguies, Galan, Santander, Colombia</Locality>
+  <Latitude>6.6389</Latitude>
+  <Longitude>-73.3892</Longitude>
+  <Elevation>2700</Elevation>
+  <Author>Thomas Donegan</Author>
+  <AuthorID>OXSIOLJJUP</AuthorID>
+  <Content>call</Content>
+  <Comments>Former mystery 852 / Pai-Luiz 1573</Comments>
+  <Quality>2</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Thraupidae</Family>
+  <Genus>Buthraupis</Genus>
+  <Species>montana</Species>
+  <Sub-species />
+  <VernacularNames>Hooded Mountain Tanager</VernacularNames>
+</Audio>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>23028</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN23028.wav</FileName>
+  <ClassId>yxenbt</ClassId>
+  <Date>2014-07-20</Date>
+  <Time>17:30</Time>
+  <Locality>Manaus, Manaus, Amazonas</Locality>
+  <Latitude>-2.94</Latitude>
+  <Longitude>-59.9878</Longitude>
+  <Elevation>70</Elevation>
+  <Author>Rodrigo Dela Rosa</Author>
+  <AuthorID>VGXDJMKETZ</AuthorID>
+  <Content>song</Content>
+  <Comments>bird-seen:noplayback-used:no</Comments>
+  <Quality>2</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Tinamiformes</Order>
+  <Family>Tinamidae</Family>
+  <Genus>Crypturellus</Genus>
+  <Species>variegatus</Species>
+  <Sub-species />
+  <VernacularNames>Variegated Tinamou</VernacularNames>
+</Audio>

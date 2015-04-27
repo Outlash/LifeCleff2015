@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>31603</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN31603.wav</FileName>
+  <ClassId>aecmdb</ClassId>
+  <Date>2006-11-19</Date>
+  <Time>06:45</Time>
+  <Locality>Shanklands Rainforest Resort</Locality>
+  <Latitude>6.4851</Latitude>
+  <Longitude>-58.5839</Longitude>
+  <Elevation>20</Elevation>
+  <Author>Nick Athanas</Author>
+  <AuthorID>XRABICUARW</AuthorID>
+  <Content>song</Content>
+  <Comments>Response to playback. Guianan Warbling-Antbird</Comments>
+  <Quality>1</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Thamnophilidae</Family>
+  <Genus>Hypocnemis</Genus>
+  <Species>cantator</Species>
+  <Sub-species>notaea?</Sub-species>
+  <VernacularNames>Guianan Warbling Antbird</VernacularNames>
+</Audio>

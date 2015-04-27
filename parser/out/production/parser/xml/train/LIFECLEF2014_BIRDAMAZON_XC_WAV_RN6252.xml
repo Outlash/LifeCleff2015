@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>6252</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN6252.wav</FileName>
+  <ClassId>oinzpv</ClassId>
+  <Date>2003-07-16</Date>
+  <Time>14:19</Time>
+  <Locality>Serra da Capivara National Park, state of Piauí</Locality>
+  <Latitude>-8.863</Latitude>
+  <Longitude>-42.627</Longitude>
+  <Elevation>450</Elevation>
+  <Author>Jeremy Minns</Author>
+  <AuthorID>DGVLLRYDXS</AuthorID>
+  <Content>call</Content>
+  <Comments>Baixão do Perna. Semi-deciduous forest in narrow valley formed by rocky cliffs. Natural calls by a single bird (same bird as in XC82204). . Natural. These are calls C and D in our DVD-ROM 'Birds of Brazil'.</Comments>
+  <Quality>2</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies>Tolmomyias flaviventris,Hirundinea ferruginea</BackgroundSpecies>
+  <Order>Passeriformes</Order>
+  <Family>Corvidae</Family>
+  <Genus>Cyanocorax</Genus>
+  <Species>cyanopogon</Species>
+  <Sub-species />
+  <VernacularNames>White-naped Jay</VernacularNames>
+</Audio>

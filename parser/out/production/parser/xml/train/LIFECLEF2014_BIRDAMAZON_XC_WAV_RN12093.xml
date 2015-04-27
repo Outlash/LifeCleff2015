@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>12093</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN12093.wav</FileName>
+  <ClassId>hkgozq</ClassId>
+  <Date>2005-01-24</Date>
+  <Time>06:56</Time>
+  <Locality>Serra da Bocaina. Bananal</Locality>
+  <Latitude>-22.8667</Latitude>
+  <Longitude>-44.4501</Longitude>
+  <Elevation>1350</Elevation>
+  <Author>Jeremy Minns</Author>
+  <AuthorID>DGVLLRYDXS</AuthorID>
+  <Content>Song</Content>
+  <Comments>Casa da Bocaina. Montane forest. Perched on fallen branch, 50 cm above ground.</Comments>
+  <Quality>2</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies>Dysithamnus xanthopterus,Phyllomyias fasciatus,Myiodynastes maculatus,Procnias nudicollis,Pachyramphus polychopterus,Cyclarhis gujanensis</BackgroundSpecies>
+  <Order>Apodiformes</Order>
+  <Family>Trochilidae</Family>
+  <Genus>Phaethornis</Genus>
+  <Species>eurynome</Species>
+  <Sub-species>eurynome</Sub-species>
+  <VernacularNames>Scale-throated Hermit</VernacularNames>
+</Audio>

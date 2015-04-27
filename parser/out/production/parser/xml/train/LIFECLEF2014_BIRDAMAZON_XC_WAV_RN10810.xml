@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>10810</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN10810.wav</FileName>
+  <ClassId>fwafrc</ClassId>
+  <Date>2005-05-08</Date>
+  <Time>10:00</Time>
+  <Locality>Reserva Ecológica de Guapiaçu, RJ</Locality>
+  <Latitude>-22.5001</Latitude>
+  <Longitude>-42.7167</Longitude>
+  <Elevation>300</Elevation>
+  <Author>Nick Athanas</Author>
+  <AuthorID>XRABICUARW</AuthorID>
+  <Content>call</Content>
+  <Comments />
+  <Quality>1</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Thamnophilidae</Family>
+  <Genus>Terenura</Genus>
+  <Species>maculata</Species>
+  <Sub-species />
+  <VernacularNames>Streak-capped Antwren</VernacularNames>
+</Audio>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>4928</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN4928.wav</FileName>
+  <ClassId>hwqenp</ClassId>
+  <Date>2006-05-04</Date>
+  <Time>11:08</Time>
+  <Locality>Parque do Zizo, Sao Paulo state</Locality>
+  <Latitude>-24.017146</Latitude>
+  <Longitude>-47.81044</Longitude>
+  <Elevation>650</Elevation>
+  <Author>Jeremy Minns</Author>
+  <AuthorID>DGVLLRYDXS</AuthorID>
+  <Content>Calls A, H and D</Content>
+  <Comments>Edge of humid forest. Several cuts of a small group. Two males were seen. The last cut (call D) was certainly by a male.</Comments>
+  <Quality>1</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Thamnophilidae</Family>
+  <Genus>Dysithamnus</Genus>
+  <Species>mentalis</Species>
+  <Sub-species>mentalis</Sub-species>
+  <VernacularNames>Plain Antvireo</VernacularNames>
+</Audio>

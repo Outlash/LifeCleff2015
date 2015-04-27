@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>11147</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN11147.wav</FileName>
+  <ClassId>teprvp</ClassId>
+  <Date>2002-08-28</Date>
+  <Time>14:12</Time>
+  <Locality>Baía de Guaratuba</Locality>
+  <Latitude>-25.8667</Latitude>
+  <Longitude>-48.6501</Longitude>
+  <Elevation>10</Elevation>
+  <Author>Jeremy Minns</Author>
+  <AuthorID>DGVLLRYDXS</AuthorID>
+  <Content>Call</Content>
+  <Comments>Rio Sao Joao, c.15 km inland from mouth of bay. Calls by same birds after playback of earlier recording of call. This is Call B in our DVD-ROM 'Birds of Brazil'.</Comments>
+  <Quality>1</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Thamnophilidae</Family>
+  <Genus>Stymphalornis</Genus>
+  <Species>acutirostris</Species>
+  <Sub-species />
+  <VernacularNames>Marsh Antwren</VernacularNames>
+</Audio>

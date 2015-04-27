@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>4226</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN4226.wav</FileName>
+  <ClassId>lksjxc</ClassId>
+  <Date>2010-04-30</Date>
+  <Time>07:00</Time>
+  <Locality>Querência, MT</Locality>
+  <Latitude>-13.317</Latitude>
+  <Longitude>-52.385</Longitude>
+  <Elevation>100</Elevation>
+  <Author>Sidnei Dantas</Author>
+  <AuthorID>NNCKQMBGPH</AuthorID>
+  <Content>song</Content>
+  <Comments>intervals between sequences were shortened</Comments>
+  <Quality>2</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies>Schiffornis turdina,Herpsilochmus rufimarginatus,Attila spadiceus,Tolmomyias assimilis</BackgroundSpecies>
+  <Order>Passeriformes</Order>
+  <Family>Tyrannidae</Family>
+  <Genus>Myiopagis</Genus>
+  <Species>caniceps</Species>
+  <Sub-species />
+  <VernacularNames>Grey Elaenia</VernacularNames>
+</Audio>

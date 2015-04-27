@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>22578</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN22578.wav</FileName>
+  <ClassId>ovfpsf</ClassId>
+  <Date>1999-07-06</Date>
+  <Time>pm</Time>
+  <Locality>Filo de Cholo, Roncesvalles, Tolima</Locality>
+  <Latitude>NULL</Latitude>
+  <Longitude>NULL</Longitude>
+  <Elevation>2550</Elevation>
+  <Author>Bernabe Lopez-Lanus</Author>
+  <AuthorID>BYLLSJRVDZ</AuthorID>
+  <Content>call</Content>
+  <Comments>Inmaduro, junto a adultos, distinguir los nasales nag o nag-nag característicos de los individuos muy jóvenes.</Comments>
+  <Quality>1</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Psittaciformes</Order>
+  <Family>Psittacidae</Family>
+  <Genus>Ognorhynchus</Genus>
+  <Species>icterotis</Species>
+  <Sub-species />
+  <VernacularNames>Yellow-eared Parrot</VernacularNames>
+</Audio>

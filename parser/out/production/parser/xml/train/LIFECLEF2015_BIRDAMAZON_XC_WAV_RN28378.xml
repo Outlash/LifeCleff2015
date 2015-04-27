@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>28378</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN28378.wav</FileName>
+  <ClassId>cqbxux</ClassId>
+  <Date>2010-03-16</Date>
+  <Time>07:05</Time>
+  <Locality>Canopy Walkway, Iwokrama Reserve</Locality>
+  <Latitude>4.2417</Latitude>
+  <Longitude>-58.9028</Longitude>
+  <Elevation>100</Elevation>
+  <Author>Charlie Vogt</Author>
+  <AuthorID>NYTXYAQSTH</AuthorID>
+  <Content>song</Content>
+  <Comments>after playback, descending burry call. Guianan Toucanet at 8 sec.</Comments>
+  <Quality>3</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies>Selenidera piperivora</BackgroundSpecies>
+  <Order>Passeriformes</Order>
+  <Family>Thamnophilidae</Family>
+  <Genus>Frederickena</Genus>
+  <Species>viridis</Species>
+  <Sub-species />
+  <VernacularNames>Black-throated Antshrike</VernacularNames>
+</Audio>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>20182</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN20182.wav</FileName>
+  <ClassId>tkoszd</ClassId>
+  <Date>2010-09-08</Date>
+  <Time>?</Time>
+  <Locality>Régina, montagne tortue</Locality>
+  <Latitude>4.31667</Latitude>
+  <Longitude>-52.1333</Longitude>
+  <Elevation>50</Elevation>
+  <Author>Alexandre Renaudier</Author>
+  <AuthorID>GKADEITXTH</AuthorID>
+  <Content>call, song</Content>
+  <Comments>Response to playback, early morning</Comments>
+  <Quality>2</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies>Attila spadiceus,Lepidocolaptes albolineatus</BackgroundSpecies>
+  <Order>Caprimulgiformes</Order>
+  <Family>Nyctibiidae</Family>
+  <Genus>Nyctibius</Genus>
+  <Species>leucopterus</Species>
+  <Sub-species />
+  <VernacularNames>White-winged Potoo</VernacularNames>
+</Audio>

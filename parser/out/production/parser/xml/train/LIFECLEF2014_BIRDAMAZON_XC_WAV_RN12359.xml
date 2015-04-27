@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>12359</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN12359.wav</FileName>
+  <ClassId>cthdvt</ClassId>
+  <Date>2008-09-30</Date>
+  <Time>?</Time>
+  <Locality>Barra do Monte Alegre, Chapecó, Santa Catarina</Locality>
+  <Latitude>-27.2353</Latitude>
+  <Longitude>-52.5856</Longitude>
+  <Elevation>385</Elevation>
+  <Author>Adrian Eisen Rupp</Author>
+  <AuthorID>AOPMSCIDIA</AuthorID>
+  <Content>call</Content>
+  <Comments />
+  <Quality>3</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies>Synallaxis ruficapilla,Mackenziaena severa</BackgroundSpecies>
+  <Order>Passeriformes</Order>
+  <Family>Tyrannidae</Family>
+  <Genus>Capsiempis</Genus>
+  <Species>flaveola</Species>
+  <Sub-species />
+  <VernacularNames>Yellow Tyrannulet</VernacularNames>
+</Audio>

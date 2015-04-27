@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>25613</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN25613.wav</FileName>
+  <ClassId>ytwasa</ClassId>
+  <Date>2010-01-07</Date>
+  <Time>06:00</Time>
+  <Locality>Santa Cecilia, Serrania de San Lucas</Locality>
+  <Latitude>7.9759</Latitude>
+  <Longitude>-74.2153</Longitude>
+  <Elevation>1550</Elevation>
+  <Author>Thomas Donegan</Author>
+  <AuthorID>OXSIOLJJUP</AuthorID>
+  <Content>Song</Content>
+  <Comments>In primary forest.  Bird not seen but species confirmed at this locality with mist-net captures.</Comments>
+  <Quality>4</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies>Trogon collaris</BackgroundSpecies>
+  <Order>Passeriformes</Order>
+  <Family>Troglodytidae</Family>
+  <Genus>Henicorhina</Genus>
+  <Species>leucosticta</Species>
+  <Sub-species />
+  <VernacularNames>White-breasted Wood Wren</VernacularNames>
+</Audio>

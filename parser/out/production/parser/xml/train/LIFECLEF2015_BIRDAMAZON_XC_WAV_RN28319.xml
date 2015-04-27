@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>28319</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN28319.wav</FileName>
+  <ClassId>wbchba</ClassId>
+  <Date>2009-08-20</Date>
+  <Time>07:58</Time>
+  <Locality>Municipio de Pandi, Carretera Pandi-Icononzo (Cundinamarca)</Locality>
+  <Latitude>4.19</Latitude>
+  <Longitude>-74.494</Longitude>
+  <Elevation>1200</Elevation>
+  <Author>Oswaldo Cortes, Giovanni Chaves and Fabian Tavera</Author>
+  <AuthorID>VVDRVZCVWW</AuthorID>
+  <Content>song</Content>
+  <Comments />
+  <Quality>3</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Emberizidae</Family>
+  <Genus>Arremonops</Genus>
+  <Species>conirostris</Species>
+  <Sub-species />
+  <VernacularNames>Black-striped Sparrow</VernacularNames>
+</Audio>

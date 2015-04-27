@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>21069</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN21069.wav</FileName>
+  <ClassId>xnhoxm</ClassId>
+  <Date>2002-06-10</Date>
+  <Time>09:24</Time>
+  <Locality>Ubatuba, SP. Fazenda Angelim</Locality>
+  <Latitude>-23.4334</Latitude>
+  <Longitude>-45.1167</Longitude>
+  <Elevation>30</Elevation>
+  <Author>Jeremy Minns</Author>
+  <AuthorID>DGVLLRYDXS</AuthorID>
+  <Content>Song</Content>
+  <Comments>Secondary lowland forest and scrub.</Comments>
+  <Quality>2</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies>Tapera naevia,Drymophila ferruginea,Capsiempis flaveola</BackgroundSpecies>
+  <Order>Piciformes</Order>
+  <Family>Picidae</Family>
+  <Genus>Picumnus</Genus>
+  <Species>cirratus</Species>
+  <Sub-species>cirratus</Sub-species>
+  <VernacularNames>White-barred Piculet</VernacularNames>
+</Audio>

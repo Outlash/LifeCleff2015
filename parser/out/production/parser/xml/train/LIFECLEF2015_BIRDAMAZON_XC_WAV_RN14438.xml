@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>14438</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN14438.wav</FileName>
+  <ClassId>pjuaxh</ClassId>
+  <Date>2007-04-29</Date>
+  <Time>07:00</Time>
+  <Locality>El Rio Morichal Largo</Locality>
+  <Latitude>9.447</Latitude>
+  <Longitude>-62.4056</Longitude>
+  <Elevation>100</Elevation>
+  <Author>Doug Knapp</Author>
+  <AuthorID>BHRXQZEQFL</AuthorID>
+  <Content>Song</Content>
+  <Comments>Several individuals present.</Comments>
+  <Quality>0</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Trogoniformes</Order>
+  <Family>Trogonidae</Family>
+  <Genus>Trogon</Genus>
+  <Species>viridis</Species>
+  <Sub-species />
+  <VernacularNames>Green-backed Trogon</VernacularNames>
+</Audio>

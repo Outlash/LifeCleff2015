@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>7823</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN7823.wav</FileName>
+  <ClassId>bumkxs</ClassId>
+  <Date>2007-11-18</Date>
+  <Time>07:08</Time>
+  <Locality>Serra do Navio, AP</Locality>
+  <Latitude>0.8926</Latitude>
+  <Longitude>-52.056</Longitude>
+  <Elevation>140</Elevation>
+  <Author>Bradley Davis</Author>
+  <AuthorID>YNXJLOESBB</AuthorID>
+  <Content>song</Content>
+  <Comments />
+  <Quality>4</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies>Ramphastos tucanus</BackgroundSpecies>
+  <Order>Passeriformes</Order>
+  <Family>Cardinalidae</Family>
+  <Genus>Saltator</Genus>
+  <Species>maximus</Species>
+  <Sub-species />
+  <VernacularNames>Buff-throated Saltator</VernacularNames>
+</Audio>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>31239</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN31239.wav</FileName>
+  <ClassId>uvevgr</ClassId>
+  <Date>2006-09-04</Date>
+  <Time>11:02</Time>
+  <Locality>RNA El Dorado, Sierra de Santa Marta, Magdalena</Locality>
+  <Latitude>11.1009</Latitude>
+  <Longitude>-74.072</Longitude>
+  <Elevation>2400</Elevation>
+  <Author>Charles Hesse</Author>
+  <AuthorID>FMQSRXIRTH</AuthorID>
+  <Content>Call</Content>
+  <Comments>link:http://www.geocities.com/fringe_backed_fire_eye/index.html            Response to playback</Comments>
+  <Quality>1</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Grallariidae</Family>
+  <Genus>Grallaria</Genus>
+  <Species>bangsi</Species>
+  <Sub-species />
+  <VernacularNames>Santa Marta Antpitta</VernacularNames>
+</Audio>

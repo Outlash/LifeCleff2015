@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>21573</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN21573.wav</FileName>
+  <ClassId>xnhoxm</ClassId>
+  <Date>2004-02-25</Date>
+  <Time>xx:xx</Time>
+  <Locality>Parque Nacional Itatiaia (Hotel Simon), Rio de Janeiro</Locality>
+  <Latitude>NULL</Latitude>
+  <Longitude>NULL</Longitude>
+  <Elevation>1080</Elevation>
+  <Author>Bernabe Lopez-Lanus</Author>
+  <AuthorID>BYLLSJRVDZ</AuthorID>
+  <Content>Song</Content>
+  <Comments />
+  <Quality>2</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Piciformes</Order>
+  <Family>Picidae</Family>
+  <Genus>Picumnus</Genus>
+  <Species>cirratus</Species>
+  <Sub-species>cirratus</Sub-species>
+  <VernacularNames>White-barred Piculet</VernacularNames>
+</Audio>

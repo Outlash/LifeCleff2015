@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>21691</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN21691.wav</FileName>
+  <ClassId>hejxxz</ClassId>
+  <Date>2005-06-01</Date>
+  <Time>09:00</Time>
+  <Locality>Fazenda Barra Mansa, Aquidauana, Mato Grosso do Sul</Locality>
+  <Latitude>-19.5888</Latitude>
+  <Longitude>-56.0877</Longitude>
+  <Elevation>110</Elevation>
+  <Author>Antonio Silveira</Author>
+  <AuthorID>NBJQSQJRYH</AuthorID>
+  <Content>call</Content>
+  <Comments>bird-seen:yesplayback-used:no</Comments>
+  <Quality>1</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Charadriiformes</Order>
+  <Family>Laridae</Family>
+  <Genus>Phaetusa</Genus>
+  <Species>simplex</Species>
+  <Sub-species />
+  <VernacularNames>Large-billed Tern</VernacularNames>
+</Audio>

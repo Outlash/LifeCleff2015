@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>10711</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN10711.wav</FileName>
+  <ClassId>atrqbr</ClassId>
+  <Date>2012-10-19</Date>
+  <Time>11:00</Time>
+  <Locality>Bairro do Guaraú, Peruíbe, São Paulo State</Locality>
+  <Latitude>-24.3167</Latitude>
+  <Longitude>-47.01</Longitude>
+  <Elevation>5</Elevation>
+  <Author>Antonio Silveira</Author>
+  <AuthorID>NBJQSQJRYH</AuthorID>
+  <Content>call</Content>
+  <Comments>Five individuals flying over us.bird-seen:yesplayback-used:no</Comments>
+  <Quality>0</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies />
+  <Order>Psittaciformes</Order>
+  <Family>Psittacidae</Family>
+  <Genus>Pionus</Genus>
+  <Species>maximiliani</Species>
+  <Sub-species />
+  <VernacularNames>Scaly-headed Parrot</VernacularNames>
+</Audio>

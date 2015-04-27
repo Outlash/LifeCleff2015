@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>23817</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN23817.wav</FileName>
+  <ClassId>bbhech</ClassId>
+  <Date>2011-03-13</Date>
+  <Time>13:00</Time>
+  <Locality>Soata (Reserva de Aves para Amazilia castaneiventris y Macroagelaius)</Locality>
+  <Latitude>6.3001</Latitude>
+  <Longitude>-72.7167</Longitude>
+  <Elevation>2500</Elevation>
+  <Author>Oswaldo Cortes</Author>
+  <AuthorID>VVDRVZCVWW</AuthorID>
+  <Content>?</Content>
+  <Comments />
+  <Quality>3</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Icteridae</Family>
+  <Genus>Macroagelaius</Genus>
+  <Species>subalaris</Species>
+  <Sub-species />
+  <VernacularNames>Colombian Mountain Grackle</VernacularNames>
+</Audio>

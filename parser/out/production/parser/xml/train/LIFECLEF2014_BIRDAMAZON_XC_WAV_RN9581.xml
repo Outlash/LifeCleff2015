@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>9581</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN9581.wav</FileName>
+  <ClassId>rogygm</ClassId>
+  <Date>2013-10-04</Date>
+  <Time>07:00</Time>
+  <Locality>Campina Grande do Sul, Parana</Locality>
+  <Latitude>-25.3067</Latitude>
+  <Longitude>-49.0524</Longitude>
+  <Elevation>900</Elevation>
+  <Author>Alexandre Bianco</Author>
+  <AuthorID>ODNEDFESFY</AuthorID>
+  <Content>song</Content>
+  <Comments>bird-seen:noplayback-used:no</Comments>
+  <Quality>1</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Cotingidae</Family>
+  <Genus>Lipaugus</Genus>
+  <Species>lanioides</Species>
+  <Sub-species />
+  <VernacularNames>Cinnamon-vented Piha</VernacularNames>
+</Audio>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>10246</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN10246.wav</FileName>
+  <ClassId>ekfrhz</ClassId>
+  <Date>2007-10-11</Date>
+  <Time>06:50</Time>
+  <Locality>Cristalino Jungle Lodge, MT</Locality>
+  <Latitude>-9.5981</Latitude>
+  <Longitude>-55.932</Longitude>
+  <Elevation>240</Elevation>
+  <Author>Bradley Davis</Author>
+  <AuthorID>YNXJLOESBB</AuthorID>
+  <Content>call</Content>
+  <Comments>&lt;a href='http://www.surfbirds.com/trip_report.php?id=1273'&gt;trip report&lt;/a&gt;</Comments>
+  <Quality>3</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies>Chiroxiphia pareola,Patagioenas plumbea,Hylopezus macularius,Saltator grossus,Momotus coeruliceps,Celeus flavus,Cercomacra cinerascens,Trogon chionurus</BackgroundSpecies>
+  <Order>Accipitriformes</Order>
+  <Family>Accipitridae</Family>
+  <Genus>Leucopternis</Genus>
+  <Species>kuhli</Species>
+  <Sub-species />
+  <VernacularNames>White-browed Hawk</VernacularNames>
+</Audio>

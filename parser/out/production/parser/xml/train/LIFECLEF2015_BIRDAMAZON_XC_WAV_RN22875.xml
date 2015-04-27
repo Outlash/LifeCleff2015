@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>22875</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN22875.wav</FileName>
+  <ClassId>kqjbfy</ClassId>
+  <Date>2013-03-06</Date>
+  <Time>12:00</Time>
+  <Locality>Puerto Lopez, Meta</Locality>
+  <Latitude>4.1809</Latitude>
+  <Longitude>-72.9136</Longitude>
+  <Elevation>170</Elevation>
+  <Author>Oswaldo Cortes</Author>
+  <AuthorID>VVDRVZCVWW</AuthorID>
+  <Content>song</Content>
+  <Comments>bird-seen:yesplayback-used:no</Comments>
+  <Quality>2</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Tyrannidae</Family>
+  <Genus>Tyrannopsis</Genus>
+  <Species>sulphurea</Species>
+  <Sub-species />
+  <VernacularNames>Sulphury Flycatcher</VernacularNames>
+</Audio>

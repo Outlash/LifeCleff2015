@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>26723</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN26723.wav</FileName>
+  <ClassId>tlnmxr</ClassId>
+  <Date>2007-11-04</Date>
+  <Time>06:15</Time>
+  <Locality>Parque Regional Barbas-Bremen, Filandia, Quindio. Sector Bremen-La Popa</Locality>
+  <Latitude>4.6717</Latitude>
+  <Longitude>-75.6283</Longitude>
+  <Elevation>1800</Elevation>
+  <Author>Oscar Humberto Marin-Gomez</Author>
+  <AuthorID>CSUHASNRSU</AuthorID>
+  <Content>song</Content>
+  <Comments>OHM001A 2323. En sotobosque. Bosque montano bajo. A 20m del mic. Vocalización natural. A 10m del mic. Vocalización natural.bird-seen:noplayback-used:no</Comments>
+  <Quality>2</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Furnariidae</Family>
+  <Genus>Syndactyla</Genus>
+  <Species>subalaris</Species>
+  <Sub-species />
+  <VernacularNames>Lineated Foliage-gleaner</VernacularNames>
+</Audio>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>21431</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN21431.wav</FileName>
+  <ClassId>upfjhp</ClassId>
+  <Date>2008-06-25</Date>
+  <Time>07:00</Time>
+  <Locality>Reserva El Malmo,Tunja, Boyaca</Locality>
+  <Latitude>5.4912</Latitude>
+  <Longitude>-73.3945</Longitude>
+  <Elevation>2900</Elevation>
+  <Author>Johana Zuluaga-Bonilla</Author>
+  <AuthorID>USBAJUDGYL</AuthorID>
+  <Content>song</Content>
+  <Comments>bird-seen:yesplayback-used:no</Comments>
+  <Quality>2</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Troglodytidae</Family>
+  <Genus>Cistothorus</Genus>
+  <Species>platensis</Species>
+  <Sub-species />
+  <VernacularNames>Sedge Wren</VernacularNames>
+</Audio>

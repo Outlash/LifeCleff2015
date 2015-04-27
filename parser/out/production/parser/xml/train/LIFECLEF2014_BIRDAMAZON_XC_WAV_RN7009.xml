@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>7009</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN7009.wav</FileName>
+  <ClassId>feohaf</ClassId>
+  <Date>2000-12-03</Date>
+  <Time>10:51</Time>
+  <Locality>Porto Grande, AP. Hotel Sonho Meu</Locality>
+  <Latitude>0.6834</Latitude>
+  <Longitude>-51.4834</Longitude>
+  <Elevation>60</Elevation>
+  <Author>Jeremy Minns</Author>
+  <AuthorID>DGVLLRYDXS</AuthorID>
+  <Content>Call and song in duet</Content>
+  <Comments>In grounds of hotel.</Comments>
+  <Quality>1</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies>Cacicus haemorrhous,Cacicus cela</BackgroundSpecies>
+  <Order>Passeriformes</Order>
+  <Family>Tyrannidae</Family>
+  <Genus>Elaenia</Genus>
+  <Species>flavogaster</Species>
+  <Sub-species>flavogaster</Sub-species>
+  <VernacularNames>Yellow-bellied Elaenia</VernacularNames>
+</Audio>

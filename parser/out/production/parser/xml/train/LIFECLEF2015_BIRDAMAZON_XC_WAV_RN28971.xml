@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>28971</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN28971.wav</FileName>
+  <ClassId>jbufjj</ClassId>
+  <Date>2008-02-02</Date>
+  <Time>09:05</Time>
+  <Locality>Minca, Magdalena</Locality>
+  <Latitude>11.15</Latitude>
+  <Longitude>-74.11667</Longitude>
+  <Elevation>700</Elevation>
+  <Author>Herman van Oosten</Author>
+  <AuthorID>SNUDCZVUQK</AuthorID>
+  <Content>call</Content>
+  <Comments>Again, a remarkable common species here, apparently year-round</Comments>
+  <Quality>1</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Thraupidae</Family>
+  <Genus>Tersina</Genus>
+  <Species>viridis</Species>
+  <Sub-species />
+  <VernacularNames>Swallow Tanager</VernacularNames>
+</Audio>

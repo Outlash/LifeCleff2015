@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>12480</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN12480.wav</FileName>
+  <ClassId>jttuic</ClassId>
+  <Date>2009-04-26</Date>
+  <Time>05:00</Time>
+  <Locality>São Geraldo do Araguaia, Para</Locality>
+  <Latitude>-6.3262</Latitude>
+  <Longitude>-48.539</Longitude>
+  <Elevation>140</Elevation>
+  <Author>GABRIEL LEITE</Author>
+  <AuthorID>TGBFXDVERJ</AuthorID>
+  <Content>song</Content>
+  <Comments>bird-seen:yesplayback-used:yes</Comments>
+  <Quality>2</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies />
+  <Order>Caprimulgiformes</Order>
+  <Family>Nyctibiidae</Family>
+  <Genus>Nyctibius</Genus>
+  <Species>griseus</Species>
+  <Sub-species />
+  <VernacularNames>Common Potoo</VernacularNames>
+</Audio>

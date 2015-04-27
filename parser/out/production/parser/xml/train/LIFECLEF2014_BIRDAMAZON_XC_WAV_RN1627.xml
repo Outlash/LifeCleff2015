@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>1627</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN1627.wav</FileName>
+  <ClassId>hdtboj</ClassId>
+  <Date>2011-12-28</Date>
+  <Time>09:30</Time>
+  <Locality>Microregion of Caraguatatuba, São Paulo</Locality>
+  <Latitude>-23.6074</Latitude>
+  <Longitude>-45.5404</Longitude>
+  <Elevation>650</Elevation>
+  <Author>GABRIEL LEITE</Author>
+  <AuthorID>TGBFXDVERJ</AuthorID>
+  <Content>call</Content>
+  <Comments>bird-seen:yesplayback-used:no</Comments>
+  <Quality>3</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Tyrannidae</Family>
+  <Genus>Hirundinea</Genus>
+  <Species>ferruginea</Species>
+  <Sub-species />
+  <VernacularNames>Cliff Flycatcher</VernacularNames>
+</Audio>

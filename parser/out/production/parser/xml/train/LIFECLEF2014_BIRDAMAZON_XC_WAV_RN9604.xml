@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>9604</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN9604.wav</FileName>
+  <ClassId>eofsmg</ClassId>
+  <Date>2005-12-14</Date>
+  <Time>09:00</Time>
+  <Locality>Serra do Mar State Park. Cunha</Locality>
+  <Latitude>-23.267</Latitude>
+  <Longitude>-45.028</Longitude>
+  <Elevation>1100</Elevation>
+  <Author>Antonio Silveira</Author>
+  <AuthorID>NBJQSQJRYH</AuthorID>
+  <Content>male, song</Content>
+  <Comments>bird-seen:yesplayback-used:yes</Comments>
+  <Quality>0</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Cotingidae</Family>
+  <Genus>Tijuca</Genus>
+  <Species>atra</Species>
+  <Sub-species />
+  <VernacularNames>Black-and-gold Cotinga</VernacularNames>
+</Audio>

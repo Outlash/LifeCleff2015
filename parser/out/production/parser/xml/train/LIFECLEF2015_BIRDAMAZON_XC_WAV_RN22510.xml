@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>22510</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN22510.wav</FileName>
+  <ClassId>tmlmmx</ClassId>
+  <Date>2013-10-05</Date>
+  <Time>14:00</Time>
+  <Locality>Nova Veneza, Nova Veneza, Santa Catarina, Santa Catarina</Locality>
+  <Latitude>-28.642</Latitude>
+  <Longitude>-49.4823</Longitude>
+  <Elevation>160</Elevation>
+  <Author>João Gava</Author>
+  <AuthorID>CEKMJEZKSJ</AuthorID>
+  <Content>song</Content>
+  <Comments>bird-seen:yesplayback-used:no</Comments>
+  <Quality>2</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Piciformes</Order>
+  <Family>Picidae</Family>
+  <Genus>Colaptes</Genus>
+  <Species>melanochloros</Species>
+  <Sub-species />
+  <VernacularNames>Green-barred Woodpecker</VernacularNames>
+</Audio>

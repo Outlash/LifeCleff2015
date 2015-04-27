@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>26966</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN26966.wav</FileName>
+  <ClassId>hdtboj</ClassId>
+  <Date>2014-01-09</Date>
+  <Time>06:00</Time>
+  <Locality>Hotel Donati, Itatiaia NP, Rio de Janeiro state</Locality>
+  <Latitude>-22.4334</Latitude>
+  <Longitude>-44.6334</Longitude>
+  <Elevation>950</Elevation>
+  <Author>Antonio Silveira</Author>
+  <AuthorID>NBJQSQJRYH</AuthorID>
+  <Content>call</Content>
+  <Comments>Bird singing on the lodge.  (birding with Bruno Lima)bird-seen:noplayback-used:no</Comments>
+  <Quality>2</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Tyrannidae</Family>
+  <Genus>Hirundinea</Genus>
+  <Species>ferruginea</Species>
+  <Sub-species />
+  <VernacularNames>Cliff Flycatcher</VernacularNames>
+</Audio>

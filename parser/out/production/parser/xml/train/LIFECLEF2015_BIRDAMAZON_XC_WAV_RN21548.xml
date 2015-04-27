@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>21548</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN21548.wav</FileName>
+  <ClassId>hzpdik</ClassId>
+  <Date>2010-12-10</Date>
+  <Time>09:00</Time>
+  <Locality>Manaus, Amazonas</Locality>
+  <Latitude>-2.5741</Latitude>
+  <Longitude>-60.0938</Longitude>
+  <Elevation>130</Elevation>
+  <Author>GABRIEL LEITE</Author>
+  <AuthorID>TGBFXDVERJ</AuthorID>
+  <Content>call, male</Content>
+  <Comments>bird-seen:yesplayback-used:no</Comments>
+  <Quality>4</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Thraupidae</Family>
+  <Genus>Chlorophanes</Genus>
+  <Species>spiza</Species>
+  <Sub-species />
+  <VernacularNames>Green Honeycreeper</VernacularNames>
+</Audio>

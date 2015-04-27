@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>569</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN569.wav</FileName>
+  <ClassId>ekfrhz</ClassId>
+  <Date>2011-09-18</Date>
+  <Time>06:15</Time>
+  <Locality>Cristalino Jungle Lodge, MT</Locality>
+  <Latitude>-9.5981</Latitude>
+  <Longitude>-55.932</Longitude>
+  <Elevation>260</Elevation>
+  <Author>Eric DeFonso</Author>
+  <AuthorID>KTLCZCRCQX</AuthorID>
+  <Content>song</Content>
+  <Comments>Same individual (likely) as XC129785. Habitat is terra firme forest.bird-seen:noplayback-used:no</Comments>
+  <Quality>2</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies />
+  <Order>Accipitriformes</Order>
+  <Family>Accipitridae</Family>
+  <Genus>Leucopternis</Genus>
+  <Species>kuhli</Species>
+  <Sub-species />
+  <VernacularNames>White-browed Hawk</VernacularNames>
+</Audio>

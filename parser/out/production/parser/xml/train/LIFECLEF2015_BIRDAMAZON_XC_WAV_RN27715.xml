@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>27715</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN27715.wav</FileName>
+  <ClassId>ppdwrk</ClassId>
+  <Date>2010-03-26</Date>
+  <Time>13:33</Time>
+  <Locality>Petrolândia, Santa Catarina</Locality>
+  <Latitude>-27.5218</Latitude>
+  <Longitude>-49.6199</Longitude>
+  <Elevation>460</Elevation>
+  <Author>Douglas Meyer</Author>
+  <AuthorID>MNENFHYTAE</AuthorID>
+  <Content>flight call</Content>
+  <Comments>bird-seen:yesplayback-used:no</Comments>
+  <Quality>2</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Coraciiformes</Order>
+  <Family>Alcedinidae</Family>
+  <Genus>Chloroceryle</Genus>
+  <Species>amazona</Species>
+  <Sub-species />
+  <VernacularNames>Amazon Kingfisher</VernacularNames>
+</Audio>

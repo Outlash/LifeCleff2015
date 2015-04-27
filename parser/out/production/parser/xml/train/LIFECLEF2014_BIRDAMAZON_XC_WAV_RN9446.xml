@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>9446</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN9446.wav</FileName>
+  <ClassId>vwbbga</ClassId>
+  <Date>2011-06-11</Date>
+  <Time>10:00</Time>
+  <Locality>Viçosa, Minas Gerais</Locality>
+  <Latitude>-20.79</Latitude>
+  <Longitude>-42.8882</Longitude>
+  <Elevation>800</Elevation>
+  <Author>Noé Eiterer</Author>
+  <AuthorID>TWSKITNQOV</AuthorID>
+  <Content>call, song</Content>
+  <Comments />
+  <Quality>1</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Thraupidae</Family>
+  <Genus>Conirostrum</Genus>
+  <Species>speciosum</Species>
+  <Sub-species />
+  <VernacularNames>Chestnut-vented Conebill</VernacularNames>
+</Audio>

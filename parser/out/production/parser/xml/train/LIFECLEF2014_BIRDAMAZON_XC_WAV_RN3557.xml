@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>3557</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN3557.wav</FileName>
+  <ClassId>onkywx</ClassId>
+  <Date>2010-01-12</Date>
+  <Time>7:00h</Time>
+  <Locality>Mata Ombrofila TO-226, Nova Olinda, Tocantins</Locality>
+  <Latitude>-7.48</Latitude>
+  <Longitude>-48.46</Longitude>
+  <Elevation>310</Elevation>
+  <Author>Tulio Dornas</Author>
+  <AuthorID>MTUQGBMRNC</AuthorID>
+  <Content>song</Content>
+  <Comments>More details in article submetted</Comments>
+  <Quality>2</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Thamnophilidae</Family>
+  <Genus>Cercomacra</Genus>
+  <Species>manu</Species>
+  <Sub-species />
+  <VernacularNames>Manu Antbird</VernacularNames>
+</Audio>

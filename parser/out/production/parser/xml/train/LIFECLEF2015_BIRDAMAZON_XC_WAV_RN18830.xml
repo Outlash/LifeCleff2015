@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>18830</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN18830.wav</FileName>
+  <ClassId>fmrhxa</ClassId>
+  <Date>2012-02-02</Date>
+  <Time>08:00</Time>
+  <Locality>Humedal Conejera</Locality>
+  <Latitude>4.5834</Latitude>
+  <Longitude>-73.4834</Longitude>
+  <Elevation>2600</Elevation>
+  <Author>Oswaldo Cortes</Author>
+  <AuthorID>VVDRVZCVWW</AuthorID>
+  <Content>call</Content>
+  <Comments>Rescantando una tingua caida en el humedal</Comments>
+  <Quality>2</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Gruiformes</Order>
+  <Family>Rallidae</Family>
+  <Genus>Porphyrio</Genus>
+  <Species>martinicus</Species>
+  <Sub-species />
+  <VernacularNames>Purple Gallinule</VernacularNames>
+</Audio>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>12803</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN12803.wav</FileName>
+  <ClassId>qlwaes</ClassId>
+  <Date>2005-11-23</Date>
+  <Time>14:55</Time>
+  <Locality>Parque do Zizo, Sao Paulo State</Locality>
+  <Latitude>-24.017146</Latitude>
+  <Longitude>-47.81044</Longitude>
+  <Elevation>630</Elevation>
+  <Author>Bob Planqué</Author>
+  <AuthorID>OH38YHKJBS</AuthorID>
+  <Content>call</Content>
+  <Comments>calling while having a large insect in its beak</Comments>
+  <Quality>1</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies>Pionus maximiliani,Oxyruncus cristatus</BackgroundSpecies>
+  <Order>Passeriformes</Order>
+  <Family>Furnariidae</Family>
+  <Genus>Xiphorhynchus</Genus>
+  <Species>fuscus</Species>
+  <Sub-species />
+  <VernacularNames>Lesser Woodcreeper</VernacularNames>
+</Audio>

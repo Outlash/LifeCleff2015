@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>14603</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN14603.wav</FileName>
+  <ClassId>kndwgb</ClassId>
+  <Date>2008-02-02</Date>
+  <Time>10:30</Time>
+  <Locality>Minca, Magdalena</Locality>
+  <Latitude>11.15</Latitude>
+  <Longitude>-74.11667</Longitude>
+  <Elevation>700</Elevation>
+  <Author>Herman van Oosten</Author>
+  <AuthorID>SNUDCZVUQK</AuthorID>
+  <Content>call</Content>
+  <Comments>A common bird.</Comments>
+  <Quality>3</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Thraupidae</Family>
+  <Genus>Ramphocelus</Genus>
+  <Species>dimidiatus</Species>
+  <Sub-species />
+  <VernacularNames>Crimson-backed Tanager</VernacularNames>
+</Audio>

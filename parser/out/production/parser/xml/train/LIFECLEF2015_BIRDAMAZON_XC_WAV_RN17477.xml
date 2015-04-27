@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>17477</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN17477.wav</FileName>
+  <ClassId>nkotzb</ClassId>
+  <Date>2013-03-07</Date>
+  <Time>09:00</Time>
+  <Locality>Goiatins, Tocantins</Locality>
+  <Latitude>-7.7687</Latitude>
+  <Longitude>-47.3684</Longitude>
+  <Elevation>220</Elevation>
+  <Author>Eduardo D. Schultz</Author>
+  <AuthorID>QYOZQITVAC</AuthorID>
+  <Content>song</Content>
+  <Comments>bird-seen:noplayback-used:no</Comments>
+  <Quality>1</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies>Phaethornis ruber</BackgroundSpecies>
+  <Order>Passeriformes</Order>
+  <Family>Tyrannidae</Family>
+  <Genus>Attila</Genus>
+  <Species>cinnamomeus</Species>
+  <Sub-species />
+  <VernacularNames>Cinnamon Attila</VernacularNames>
+</Audio>

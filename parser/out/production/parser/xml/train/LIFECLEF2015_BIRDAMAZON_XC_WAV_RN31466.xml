@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>31466</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN31466.wav</FileName>
+  <ClassId>ksohyj</ClassId>
+  <Date>2006-12-18</Date>
+  <Time>08:00</Time>
+  <Locality>Reserva Montecano, Falcon</Locality>
+  <Latitude>11.9167</Latitude>
+  <Longitude>-69.9667</Longitude>
+  <Elevation>?</Elevation>
+  <Author>Andrew Spencer</Author>
+  <AuthorID>CDTGHVBGZP</AuthorID>
+  <Content>song</Content>
+  <Comments />
+  <Quality>1</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies>Formicivora intermedia,Vireo olivaceus</BackgroundSpecies>
+  <Order>Passeriformes</Order>
+  <Family>Cardinalidae</Family>
+  <Genus>Cardinalis</Genus>
+  <Species>phoeniceus</Species>
+  <Sub-species />
+  <VernacularNames>Vermilion Cardinal</VernacularNames>
+</Audio>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>15303</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN15303.wav</FileName>
+  <ClassId>mwbtii</ClassId>
+  <Date>2010-01-09</Date>
+  <Time>12:00</Time>
+  <Locality>Santa Cecilia, Serrania de San Lucas</Locality>
+  <Latitude>7.9759</Latitude>
+  <Longitude>-74.2153</Longitude>
+  <Elevation>1550</Elevation>
+  <Author>Thomas Donegan</Author>
+  <AuthorID>OXSIOLJJUP</AuthorID>
+  <Content>Call</Content>
+  <Comments>Recordist notes and comparison with XC recordings suggest that this call in a mixed species flock is of P rufum</Comments>
+  <Quality>5</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Furnariidae</Family>
+  <Genus>Philydor</Genus>
+  <Species>rufum</Species>
+  <Sub-species />
+  <VernacularNames>Buff-fronted Foliage-gleaner</VernacularNames>
+</Audio>

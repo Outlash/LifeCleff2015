@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>19158</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN19158.wav</FileName>
+  <ClassId>uiqpgc</ClassId>
+  <Date>2006-01-01</Date>
+  <Time>?</Time>
+  <Locality>Saül</Locality>
+  <Latitude>3.6167</Latitude>
+  <Longitude>-53.2001</Longitude>
+  <Elevation>250</Elevation>
+  <Author>Alexandre Renaudier</Author>
+  <AuthorID>GKADEITXTH</AuthorID>
+  <Content>song</Content>
+  <Comments />
+  <Quality>2</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Turdidae</Family>
+  <Genus>Turdus</Genus>
+  <Species>albicollis</Species>
+  <Sub-species />
+  <VernacularNames>White-necked Thrush</VernacularNames>
+</Audio>

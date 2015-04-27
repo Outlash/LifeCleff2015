@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>24173</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN24173.wav</FileName>
+  <ClassId>wstxgv</ClassId>
+  <Date>2002-01-25</Date>
+  <Time>07:59</Time>
+  <Locality>Rio Araguaia. Caseara</Locality>
+  <Latitude>-9.2667</Latitude>
+  <Longitude>-49.9334</Longitude>
+  <Elevation>170</Elevation>
+  <Author>Jeremy Minns</Author>
+  <AuthorID>DGVLLRYDXS</AuthorID>
+  <Content>call, song</Content>
+  <Comments>Flooded lowland forest beside road to ferry.</Comments>
+  <Quality>2</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies>Columbina squammata,Brotogeris chiriri,Pitangus sulphuratus,Cyclarhis gujanensis,Hylophilus pectoralis,Saltator maximus,Leptotila verreauxi</BackgroundSpecies>
+  <Order>Passeriformes</Order>
+  <Family>Tyrannidae</Family>
+  <Genus>Poecilotriccus</Genus>
+  <Species>latirostris</Species>
+  <Sub-species>ochropterus</Sub-species>
+  <VernacularNames>Rusty-fronted Tody-Flycatcher</VernacularNames>
+</Audio>

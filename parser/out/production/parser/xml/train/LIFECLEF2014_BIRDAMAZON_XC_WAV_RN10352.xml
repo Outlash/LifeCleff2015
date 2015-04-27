@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>10352</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN10352.wav</FileName>
+  <ClassId>pprfie</ClassId>
+  <Date>1993-07-24</Date>
+  <Time>???</Time>
+  <Locality>Chapada dos Guimaraes, MT</Locality>
+  <Latitude>-15.456327</Latitude>
+  <Longitude>-55.774841</Longitude>
+  <Elevation>800</Elevation>
+  <Author>Teus Luijendijk</Author>
+  <AuthorID>VLNULZJNSX</AuthorID>
+  <Content>song</Content>
+  <Comments />
+  <Quality>2</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Vireonidae</Family>
+  <Genus>Cyclarhis</Genus>
+  <Species>gujanensis</Species>
+  <Sub-species />
+  <VernacularNames>Rufous-browed Peppershrike</VernacularNames>
+</Audio>

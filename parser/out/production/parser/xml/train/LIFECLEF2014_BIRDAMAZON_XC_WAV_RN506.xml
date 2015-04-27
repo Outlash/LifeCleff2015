@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>506</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN506.wav</FileName>
+  <ClassId>arlrfh</ClassId>
+  <Date>2006-05-05</Date>
+  <Time>9am</Time>
+  <Locality>Region of Mutum River, Barão de Melgaço, MT</Locality>
+  <Latitude>-16.353</Latitude>
+  <Longitude>-55.852</Longitude>
+  <Elevation>135</Elevation>
+  <Author>Antonio Silveira</Author>
+  <AuthorID>NBJQSQJRYH</AuthorID>
+  <Content>song</Content>
+  <Comments>bird-seen:yesplayback-used:no</Comments>
+  <Quality>2</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies />
+  <Order>Cuculiformes</Order>
+  <Family>Cuculidae</Family>
+  <Genus>Crotophaga</Genus>
+  <Species>major</Species>
+  <Sub-species />
+  <VernacularNames>Greater Ani</VernacularNames>
+</Audio>

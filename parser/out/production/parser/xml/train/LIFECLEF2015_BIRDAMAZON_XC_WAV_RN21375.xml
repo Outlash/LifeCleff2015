@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>21375</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN21375.wav</FileName>
+  <ClassId>ejtezg</ClassId>
+  <Date>2007-04-04</Date>
+  <Time>07:00</Time>
+  <Locality>Parque Natural Munchique, sector Romelia</Locality>
+  <Latitude>NULL</Latitude>
+  <Longitude>NULL</Longitude>
+  <Elevation>2500</Elevation>
+  <Author>Oswaldo Cortes y Juan Pablo Lopez</Author>
+  <AuthorID>VVDRVZCVWW</AuthorID>
+  <Content>song</Content>
+  <Comments />
+  <Quality>4</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Troglodytidae</Family>
+  <Genus>Henicorhina</Genus>
+  <Species>negreti</Species>
+  <Sub-species />
+  <VernacularNames>Munchique Wood Wren</VernacularNames>
+</Audio>

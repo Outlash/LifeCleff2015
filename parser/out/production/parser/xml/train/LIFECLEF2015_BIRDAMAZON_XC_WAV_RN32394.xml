@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>32394</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN32394.wav</FileName>
+  <ClassId>zsqhks</ClassId>
+  <Date>2012-12-06</Date>
+  <Time>14:19</Time>
+  <Locality>Praia do Forte, Bahia</Locality>
+  <Latitude>-12.5776</Latitude>
+  <Longitude>-38.0054</Longitude>
+  <Elevation>10</Elevation>
+  <Author>Yair G. Molina M.</Author>
+  <AuthorID>UQUOPFIYYQ</AuthorID>
+  <Content>song</Content>
+  <Comments>bird-seen:yesplayback-used:no</Comments>
+  <Quality>3</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Columbiformes</Order>
+  <Family>Columbidae</Family>
+  <Genus>Columbina</Genus>
+  <Species>squammata</Species>
+  <Sub-species />
+  <VernacularNames>Scaled Dove</VernacularNames>
+</Audio>

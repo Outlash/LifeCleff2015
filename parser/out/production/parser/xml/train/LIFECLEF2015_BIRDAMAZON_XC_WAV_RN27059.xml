@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>27059</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN27059.wav</FileName>
+  <ClassId>boyvjk</ClassId>
+  <Date>2008-11-17</Date>
+  <Time>09:00</Time>
+  <Locality>Estação Ecológica Juréia-Itatins, Peruíbe,São Paulo -SP</Locality>
+  <Latitude>-24.554</Latitude>
+  <Longitude>-47.225</Longitude>
+  <Elevation>10</Elevation>
+  <Author>Antonio Silveira</Author>
+  <AuthorID>NBJQSQJRYH</AuthorID>
+  <Content>male, song</Content>
+  <Comments>Male perched near the trail and singing. In Restinga near the beach.bird-seen:yesplayback-used:no""</Comments>
+  <Quality>2</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Apodiformes</Order>
+  <Family>Trochilidae</Family>
+  <Genus>Ramphodon</Genus>
+  <Species>naevius</Species>
+  <Sub-species />
+  <VernacularNames>Saw-billed Hermit</VernacularNames>
+</Audio>

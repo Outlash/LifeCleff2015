@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>30739</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN30739.wav</FileName>
+  <ClassId>tadaeg</ClassId>
+  <Date>2004-08-22</Date>
+  <Time>06:30</Time>
+  <Locality>Mesenia, Antioquia</Locality>
+  <Latitude>5.4834</Latitude>
+  <Longitude>-75.9001</Longitude>
+  <Elevation>2300</Elevation>
+  <Author>Niels Krabbe</Author>
+  <AuthorID>XTVEPHMPPJ</AuthorID>
+  <Content>male song and female advertising song after pb</Content>
+  <Comments>Pair collected. Tape ref. B 283-287</Comments>
+  <Quality>1</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Rhinocryptidae</Family>
+  <Genus>Scytalopus</Genus>
+  <Species>spillmanni</Species>
+  <Sub-species />
+  <VernacularNames>Spillmann's Tapaculo</VernacularNames>
+</Audio>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>13790</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN13790.wav</FileName>
+  <ClassId>gcyzcu</ClassId>
+  <Date>2012-09-02</Date>
+  <Time>9:30am</Time>
+  <Locality>Instituto Butantan, São Paulo city, São Paulo State</Locality>
+  <Latitude>-23.565</Latitude>
+  <Longitude>-46.728</Longitude>
+  <Elevation>750</Elevation>
+  <Author>Antonio Silveira</Author>
+  <AuthorID>NBJQSQJRYH</AuthorID>
+  <Content>song</Content>
+  <Comments />
+  <Quality>3</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies />
+  <Order>Psittaciformes</Order>
+  <Family>Psittacidae</Family>
+  <Genus>Diopsittaca</Genus>
+  <Species>nobilis</Species>
+  <Sub-species />
+  <VernacularNames>Red-shouldered Macaw</VernacularNames>
+</Audio>

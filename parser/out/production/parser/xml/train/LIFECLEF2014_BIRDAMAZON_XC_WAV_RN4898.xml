@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>4898</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN4898.wav</FileName>
+  <ClassId>cuwfkj</ClassId>
+  <Date>2004-07-11</Date>
+  <Time>?</Time>
+  <Locality>Serra do Arapuá, Pernambuco State</Locality>
+  <Latitude>-8.3001</Latitude>
+  <Longitude>-38.7667</Longitude>
+  <Elevation>500</Elevation>
+  <Author>Ciro Albano</Author>
+  <AuthorID>MXVQPUKGWW</AuthorID>
+  <Content>song</Content>
+  <Comments />
+  <Quality>1</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Thamnophilidae</Family>
+  <Genus>Herpsilochmus</Genus>
+  <Species>sellowi</Species>
+  <Sub-species />
+  <VernacularNames>Caatinga Antwren</VernacularNames>
+</Audio>

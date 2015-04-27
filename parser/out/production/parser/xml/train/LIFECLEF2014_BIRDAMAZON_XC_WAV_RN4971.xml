@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>4971</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN4971.wav</FileName>
+  <ClassId>gshgib</ClassId>
+  <Date>2000-06-09</Date>
+  <Time>10am</Time>
+  <Locality>Pedra da Mina,Queluz,São Paulo State,Brazil</Locality>
+  <Latitude>-22.431</Latitude>
+  <Longitude>-44.847</Longitude>
+  <Elevation>2790</Elevation>
+  <Author>Antonio Silveira</Author>
+  <AuthorID>NBJQSQJRYH</AuthorID>
+  <Content>call</Content>
+  <Comments>The first recorded to São Paulo State. see in http://www.aultimaarcadenoe.com.br/wp-content/uploads/2011/06/Primeiro-registro-de-Garrincha-chorona_AS.pdf bird-seen:yesplayback-used:no</Comments>
+  <Quality>2</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Furnariidae</Family>
+  <Genus>Asthenes</Genus>
+  <Species>moreirae</Species>
+  <Sub-species />
+  <VernacularNames>Itatiaia Spinetail</VernacularNames>
+</Audio>

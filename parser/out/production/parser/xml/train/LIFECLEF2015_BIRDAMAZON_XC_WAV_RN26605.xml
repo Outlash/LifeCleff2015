@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>26605</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN26605.wav</FileName>
+  <ClassId>cadwtw</ClassId>
+  <Date>2012-12-30</Date>
+  <Time>16:30</Time>
+  <Locality>Balneário Rincão, Santa Catarina state, Brazil</Locality>
+  <Latitude>-28.8333</Latitude>
+  <Longitude>-49.25</Longitude>
+  <Elevation>0</Elevation>
+  <Author>João Gava</Author>
+  <AuthorID>CEKMJEZKSJ</AuthorID>
+  <Content>call, female, male, song</Content>
+  <Comments>bird-seen:yesplayback-used:no</Comments>
+  <Quality>2</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Icteridae</Family>
+  <Genus>Amblyramphus</Genus>
+  <Species>holosericeus</Species>
+  <Sub-species />
+  <VernacularNames>Scarlet-headed Blackbird</VernacularNames>
+</Audio>

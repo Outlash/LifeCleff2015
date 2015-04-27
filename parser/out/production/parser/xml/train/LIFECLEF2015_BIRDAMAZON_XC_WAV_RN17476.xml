@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>17476</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN17476.wav</FileName>
+  <ClassId>ipvlig</ClassId>
+  <Date>2014-05-25</Date>
+  <Time>8:25</Time>
+  <Locality>San Sebastián de La Castellana, municipio El Retiro, departamento de Antioquia</Locality>
+  <Latitude>6.109</Latitude>
+  <Longitude>-75.549</Longitude>
+  <Elevation>2800</Elevation>
+  <Author>Danny Zapata-Henao</Author>
+  <AuthorID>AHYWLCEJLP</AuthorID>
+  <Content>song</Content>
+  <Comments>bird-seen:yesplayback-used:no</Comments>
+  <Quality>0</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Parulidae</Family>
+  <Genus>Myioborus</Genus>
+  <Species>ornatus</Species>
+  <Sub-species />
+  <VernacularNames>Golden-fronted Whitestart</VernacularNames>
+</Audio>

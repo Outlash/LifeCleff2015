@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>22438</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN22438.wav</FileName>
+  <ClassId>runaut</ClassId>
+  <Date>2013-04-26</Date>
+  <Time>06:15</Time>
+  <Locality>Antioquia, Municipio de Yarumal, Vereda Corcovado, carretera entre el Alto de Ventanas y el Cedro, Finca Villa Nueva.</Locality>
+  <Latitude>7.055</Latitude>
+  <Longitude>-75.4482</Longitude>
+  <Elevation>2100</Elevation>
+  <Author>Oscar Humberto Marin-Gomez</Author>
+  <AuthorID>CSUHASNRSU</AuthorID>
+  <Content>call, song</Content>
+  <Comments>Ref: OHMYA 590. Dos individuos en maraña de chusque en borde de bosque.  A 20m del mic. Vocalización natural.bird-seen:yesplayback-used:no</Comments>
+  <Quality>3</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Furnariidae</Family>
+  <Genus>Synallaxis</Genus>
+  <Species>azarae</Species>
+  <Sub-species />
+  <VernacularNames>Azara's Spinetail</VernacularNames>
+</Audio>

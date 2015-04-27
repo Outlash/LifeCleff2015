@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>32197</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN32197.wav</FileName>
+  <ClassId>aaogct</ClassId>
+  <Date>2011-09-01</Date>
+  <Time>17:42</Time>
+  <Locality>Pantanal Wildlife Center, MT</Locality>
+  <Latitude>-16.7581</Latitude>
+  <Longitude>-56.8764</Longitude>
+  <Elevation>110</Elevation>
+  <Author>Eric DeFonso</Author>
+  <AuthorID>KTLCZCRCQX</AuthorID>
+  <Content>song</Content>
+  <Comments>Portion of dusk song near lodge grounds, with some handling noise. Habitat is tropical deciduous woodland in dry season.bird-seen:noplayback-used:no</Comments>
+  <Quality>3</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies>Crypturellus undulatus</BackgroundSpecies>
+  <Order>Passeriformes</Order>
+  <Family>Icteridae</Family>
+  <Genus>Icterus</Genus>
+  <Species>croconotus</Species>
+  <Sub-species />
+  <VernacularNames>Orange-backed Troupial</VernacularNames>
+</Audio>

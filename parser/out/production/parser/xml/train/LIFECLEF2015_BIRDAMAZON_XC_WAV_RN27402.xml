@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>27402</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN27402.wav</FileName>
+  <ClassId>xkktdr</ClassId>
+  <Date>2006-08-05</Date>
+  <Time>17:00</Time>
+  <Locality>Parque Nacional Yacambú, Lara</Locality>
+  <Latitude>9.7031</Latitude>
+  <Longitude>-69.6048</Longitude>
+  <Elevation>1770</Elevation>
+  <Author>Nick Athanas</Author>
+  <AuthorID>XRABICUARW</AuthorID>
+  <Content>call</Content>
+  <Comments>Calls from one member of a pair feeding in a fruiting tree. img:http://www.antpitta.com/images/photos/tanagers/Golden-Tanager.jpg</Comments>
+  <Quality>2</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Thraupidae</Family>
+  <Genus>Tangara</Genus>
+  <Species>arthus</Species>
+  <Sub-species>arthus</Sub-species>
+  <VernacularNames>Golden Tanager</VernacularNames>
+</Audio>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>29600</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN29600.wav</FileName>
+  <ClassId>iadzvh</ClassId>
+  <Date>2012-03-20</Date>
+  <Time>12:00</Time>
+  <Locality>Galapagos Road, El Cairo / San Jose del Palmar, Valle del Cauca / Choco, W Andes</Locality>
+  <Latitude>4.867</Latitude>
+  <Longitude>-76.2189</Longitude>
+  <Elevation>1800</Elevation>
+  <Author>Diego Calderon-F.</Author>
+  <AuthorID>OGATBVKNAG</AuthorID>
+  <Content>Song</Content>
+  <Comments>2 individuals responding to playback behind the bushes</Comments>
+  <Quality>1</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Thraupidae</Family>
+  <Genus>Oreothraupis</Genus>
+  <Species>arremonops</Species>
+  <Sub-species />
+  <VernacularNames>Tanager Finch</VernacularNames>
+</Audio>

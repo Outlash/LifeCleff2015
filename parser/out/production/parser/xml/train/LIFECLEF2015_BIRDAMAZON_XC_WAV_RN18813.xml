@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>18813</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN18813.wav</FileName>
+  <ClassId>obpowj</ClassId>
+  <Date>2013-10-28</Date>
+  <Time>08:30</Time>
+  <Locality>Estação Ecológica Mata Preta, Abelardo Luz, Santa Catarina</Locality>
+  <Latitude>-26.4916</Latitude>
+  <Longitude>-52.2042</Longitude>
+  <Elevation>950</Elevation>
+  <Author>Antonio de Almeida Correia Junior</Author>
+  <AuthorID>FUUWTBJYFV</AuthorID>
+  <Content>song</Content>
+  <Comments>bird-seen:noplayback-used:no</Comments>
+  <Quality>2</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Tityridae</Family>
+  <Genus>Schiffornis</Genus>
+  <Species>virescens</Species>
+  <Sub-species />
+  <VernacularNames>Greenish Schiffornis</VernacularNames>
+</Audio>

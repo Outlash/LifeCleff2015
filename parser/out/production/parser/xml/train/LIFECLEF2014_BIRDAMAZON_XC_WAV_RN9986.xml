@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>9986</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN9986.wav</FileName>
+  <ClassId>epiugh</ClassId>
+  <Date>2006-01-22</Date>
+  <Time>17:00</Time>
+  <Locality>Serra dos Carajás, PA</Locality>
+  <Latitude>-6.1603</Latitude>
+  <Longitude>-50.3459</Longitude>
+  <Elevation>580</Elevation>
+  <Author>Nick Athanas</Author>
+  <AuthorID>XRABICUARW</AuthorID>
+  <Content>song</Content>
+  <Comments />
+  <Quality>1</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies />
+  <Order>Tinamiformes</Order>
+  <Family>Tinamidae</Family>
+  <Genus>Crypturellus</Genus>
+  <Species>strigulosus</Species>
+  <Sub-species />
+  <VernacularNames>Brazilian Tinamou</VernacularNames>
+</Audio>

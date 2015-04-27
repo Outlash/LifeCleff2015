@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>18072</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN18072.wav</FileName>
+  <ClassId>myrlln</ClassId>
+  <Date>2005-07-25</Date>
+  <Time>xx-xx-xxxx</Time>
+  <Locality>Cabo de la Vela (Guajira)</Locality>
+  <Latitude>12.272</Latitude>
+  <Longitude>-71.9489</Longitude>
+  <Elevation>0</Elevation>
+  <Author>Oswaldo Cortes</Author>
+  <AuthorID>VVDRVZCVWW</AuthorID>
+  <Content>song</Content>
+  <Comments />
+  <Quality>0</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Tyrannidae</Family>
+  <Genus>Inezia</Genus>
+  <Species>tenuirostris</Species>
+  <Sub-species />
+  <VernacularNames>Slender-billed Inezia</VernacularNames>
+</Audio>

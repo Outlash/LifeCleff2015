@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>13290</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN13290.wav</FileName>
+  <ClassId>vnmlmt</ClassId>
+  <Date>2005-12-24</Date>
+  <Time>10:30</Time>
+  <Locality>Porteiras, Altinho, Pernambuco</Locality>
+  <Latitude>-8.3</Latitude>
+  <Longitude>-37.75</Longitude>
+  <Elevation>460</Elevation>
+  <Author>Glauco Alves Pereira</Author>
+  <AuthorID>ZWEROGGYVP</AuthorID>
+  <Content>call</Content>
+  <Comments>Caatinga habitat</Comments>
+  <Quality>3</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies>Vanellus chilensis,Pitangus sulphuratus,Cantorchilus longirostris</BackgroundSpecies>
+  <Order>Passeriformes</Order>
+  <Family>Thamnophilidae</Family>
+  <Genus>Thamnophilus</Genus>
+  <Species>doliatus</Species>
+  <Sub-species />
+  <VernacularNames>Barred Antshrike</VernacularNames>
+</Audio>

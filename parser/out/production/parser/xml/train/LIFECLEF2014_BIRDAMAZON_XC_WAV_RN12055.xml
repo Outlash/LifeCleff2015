@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>12055</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN12055.wav</FileName>
+  <ClassId>asvgnp</ClassId>
+  <Date>2007-02-07</Date>
+  <Time>10:13</Time>
+  <Locality>Barroca - Serra da Moeda MG</Locality>
+  <Latitude>-20.2959</Latitude>
+  <Longitude>-44.0328</Longitude>
+  <Elevation>1037</Elevation>
+  <Author>Nuno Medeiros</Author>
+  <AuthorID>WTQPQQHZBV</AuthorID>
+  <Content>Call</Content>
+  <Comments>Alarm</Comments>
+  <Quality>1</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies />
+  <Order>Falconiformes</Order>
+  <Family>Falconidae</Family>
+  <Genus>Milvago</Genus>
+  <Species>chimachima</Species>
+  <Sub-species />
+  <VernacularNames>Yellow-headed Caracara</VernacularNames>
+</Audio>

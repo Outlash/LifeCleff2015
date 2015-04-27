@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>22490</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN22490.wav</FileName>
+  <ClassId>tzphql</ClassId>
+  <Date>2005-07-00</Date>
+  <Time>xx:xx</Time>
+  <Locality>Filo Pamplona, Serrania de los Yariguies, Galan, Santander, 06º38’N</Locality>
+  <Latitude>6.6384</Latitude>
+  <Longitude>-73.4089</Longitude>
+  <Elevation>3200</Elevation>
+  <Author>Thomas Donegan</Author>
+  <AuthorID>OXSIOLJJUP</AuthorID>
+  <Content>Call</Content>
+  <Comments>Record' call</Comments>
+  <Quality>5</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies>Chlorospingus flavopectus</BackgroundSpecies>
+  <Order>Passeriformes</Order>
+  <Family>Thraupidae</Family>
+  <Genus>Diglossa</Genus>
+  <Species>cyanea</Species>
+  <Sub-species />
+  <VernacularNames>Masked Flowerpiercer</VernacularNames>
+</Audio>

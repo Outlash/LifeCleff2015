@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>24443</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN24443.wav</FileName>
+  <ClassId>faocvv</ClassId>
+  <Date>2011-01-10</Date>
+  <Time>?</Time>
+  <Locality>Bacia 69, Santarem, PA</Locality>
+  <Latitude>-2.5601</Latitude>
+  <Longitude>-54.6528</Longitude>
+  <Elevation>?</Elevation>
+  <Author>Nargila Moura</Author>
+  <AuthorID>CWEIBYBYYD</AuthorID>
+  <Content>call</Content>
+  <Comments>pasture</Comments>
+  <Quality>0</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies>Cantorchilus leucotis,Hylopezus berlepschi,Brotogeris versicolurus</BackgroundSpecies>
+  <Order>Passeriformes</Order>
+  <Family>Tityridae</Family>
+  <Genus>Pachyramphus</Genus>
+  <Species>rufus</Species>
+  <Sub-species>juruanus</Sub-species>
+  <VernacularNames>Cinereous Becard</VernacularNames>
+</Audio>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>17304</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN17304.wav</FileName>
+  <ClassId>kndwgb</ClassId>
+  <Date>2013-06-01</Date>
+  <Time>12:00</Time>
+  <Locality>Fusagasuga, Cundinamarca</Locality>
+  <Latitude>4.3049</Latitude>
+  <Longitude>-74.4276</Longitude>
+  <Elevation>1300</Elevation>
+  <Author>cesar villamil</Author>
+  <AuthorID>NOMTIJJIKR</AuthorID>
+  <Content>call, male</Content>
+  <Comments>bird-seen:yesplayback-used:yes</Comments>
+  <Quality>1</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Thraupidae</Family>
+  <Genus>Ramphocelus</Genus>
+  <Species>dimidiatus</Species>
+  <Sub-species />
+  <VernacularNames>Crimson-backed Tanager</VernacularNames>
+</Audio>

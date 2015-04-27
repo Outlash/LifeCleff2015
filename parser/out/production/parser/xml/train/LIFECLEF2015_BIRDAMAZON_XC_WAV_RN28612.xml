@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>28612</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN28612.wav</FileName>
+  <ClassId>wnszlf</ClassId>
+  <Date>2006-11-07</Date>
+  <Time>06:55</Time>
+  <Locality>Plateau de Lucifer (Lucifer Dékou-Dékou reserve)</Locality>
+  <Latitude>4.777</Latitude>
+  <Longitude>-53.9456</Longitude>
+  <Elevation>560</Elevation>
+  <Author>Olivier Claessens</Author>
+  <AuthorID>KRQYNRSSDF</AuthorID>
+  <Content>song</Content>
+  <Comments />
+  <Quality>3</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Piciformes</Order>
+  <Family>Picidae</Family>
+  <Genus>Colaptes</Genus>
+  <Species>rubiginosus</Species>
+  <Sub-species>nigriceps</Sub-species>
+  <VernacularNames>Golden-olive Woodpecker</VernacularNames>
+</Audio>

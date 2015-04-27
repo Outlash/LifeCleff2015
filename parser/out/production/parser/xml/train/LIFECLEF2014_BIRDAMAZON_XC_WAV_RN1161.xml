@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>1161</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN1161.wav</FileName>
+  <ClassId>obpowj</ClassId>
+  <Date>2010-09-02</Date>
+  <Time>08:36</Time>
+  <Locality>trail between Hotel Donati and Hotel Simon, Itatiaia NP, RJ</Locality>
+  <Latitude>-22.457</Latitude>
+  <Longitude>-44.5901</Longitude>
+  <Elevation>800</Elevation>
+  <Author>Herman van Oosten</Author>
+  <AuthorID>SNUDCZVUQK</AuthorID>
+  <Content>song?</Content>
+  <Comments>Bird not seen.</Comments>
+  <Quality>1</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Tityridae</Family>
+  <Genus>Schiffornis</Genus>
+  <Species>virescens</Species>
+  <Sub-species />
+  <VernacularNames>Greenish Schiffornis</VernacularNames>
+</Audio>

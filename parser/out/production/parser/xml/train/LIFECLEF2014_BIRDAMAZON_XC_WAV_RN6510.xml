@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>6510</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN6510.wav</FileName>
+  <ClassId>dkxicr</ClassId>
+  <Date>2010-03-07</Date>
+  <Time>?</Time>
+  <Locality>São josé dos Campos/SP</Locality>
+  <Latitude>-23.0667</Latitude>
+  <Longitude>-45.9167</Longitude>
+  <Elevation>700</Elevation>
+  <Author>Rodrigo Dela Rosa</Author>
+  <AuthorID>VGXDJMKETZ</AuthorID>
+  <Content>Song</Content>
+  <Comments />
+  <Quality>3</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Thraupidae</Family>
+  <Genus>Sporophila</Genus>
+  <Species>frontalis</Species>
+  <Sub-species />
+  <VernacularNames>Buffy-fronted Seedeater</VernacularNames>
+</Audio>

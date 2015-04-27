@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>27874</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN27874.wav</FileName>
+  <ClassId>igtfqw</ClassId>
+  <Date>2006-09-13</Date>
+  <Time>08:10</Time>
+  <Locality>Sancho, Recife, Pernambuco</Locality>
+  <Latitude>NULL</Latitude>
+  <Longitude>NULL</Longitude>
+  <Elevation>50</Elevation>
+  <Author>Glauco Alves Pereira</Author>
+  <AuthorID>ZWEROGGYVP</AuthorID>
+  <Content>call, song in flight</Content>
+  <Comments>Couple overflying low (approximately 20 m), among two urban buildings. they were accomplishing exhibition flights. Melopsittacus undulatus (in cage)</Comments>
+  <Quality>3</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies>Passer domesticus,Pitangus sulphuratus,Thraupis sayaca,Melopsittacus undulatus</BackgroundSpecies>
+  <Order>Apodiformes</Order>
+  <Family>Apodidae</Family>
+  <Genus>Chaetura</Genus>
+  <Species>meridionalis</Species>
+  <Sub-species />
+  <VernacularNames>Sick's Swift</VernacularNames>
+</Audio>

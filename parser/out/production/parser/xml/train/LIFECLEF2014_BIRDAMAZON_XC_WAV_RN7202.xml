@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>7202</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN7202.wav</FileName>
+  <ClassId>ppearp</ClassId>
+  <Date>2005-07-15</Date>
+  <Time>7:05</Time>
+  <Locality>Fz. Primavera, Itabuna, Bahia</Locality>
+  <Latitude>NULL</Latitude>
+  <Longitude>NULL</Longitude>
+  <Elevation>60</Elevation>
+  <Author>Brian Campbell</Author>
+  <AuthorID>GRCESHAGGH</AuthorID>
+  <Content>Song</Content>
+  <Comments>From shaded-cacao plantation</Comments>
+  <Quality>0</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Tyrannidae</Family>
+  <Genus>Tolmomyias</Genus>
+  <Species>flaviventris</Species>
+  <Sub-species />
+  <VernacularNames>Ochre-lored Flatbill</VernacularNames>
+</Audio>

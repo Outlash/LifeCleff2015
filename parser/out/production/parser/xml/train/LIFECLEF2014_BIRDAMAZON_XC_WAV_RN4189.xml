@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>4189</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN4189.wav</FileName>
+  <ClassId>kwwbda</ClassId>
+  <Date>2005-04-15</Date>
+  <Time>06:50</Time>
+  <Locality>Engenho Opinioso, Amaraji, Pernambuco</Locality>
+  <Latitude>-8.385091</Latitude>
+  <Longitude>-35.44138</Longitude>
+  <Elevation>550</Elevation>
+  <Author>Glauco Alves Pereira</Author>
+  <AuthorID>ZWEROGGYVP</AuthorID>
+  <Content>call</Content>
+  <Comments>Edge of humid forest</Comments>
+  <Quality>3</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Thamnophilidae</Family>
+  <Genus>Thamnophilus</Genus>
+  <Species>caerulescens</Species>
+  <Sub-species>pernambucensis</Sub-species>
+  <VernacularNames>Variable Antshrike</VernacularNames>
+</Audio>

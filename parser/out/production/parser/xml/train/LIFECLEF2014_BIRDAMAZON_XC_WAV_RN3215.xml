@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>3215</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN3215.wav</FileName>
+  <ClassId>ddkxtm</ClassId>
+  <Date>2012-09-15</Date>
+  <Time>16:21</Time>
+  <Locality>Sitio água da rainha , São Francisco de Paula, RS</Locality>
+  <Latitude>-29.4934</Latitude>
+  <Longitude>-50.5728</Longitude>
+  <Elevation>800</Elevation>
+  <Author>Gilberto Sander Muller</Author>
+  <AuthorID>YXIUXLVTAI</AuthorID>
+  <Content>call</Content>
+  <Comments />
+  <Quality>2</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Furnariidae</Family>
+  <Genus>Synallaxis</Genus>
+  <Species>cinerascens</Species>
+  <Sub-species />
+  <VernacularNames>Grey-bellied Spinetail</VernacularNames>
+</Audio>

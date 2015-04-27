@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>2153</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN2153.wav</FileName>
+  <ClassId>esguzq</ClassId>
+  <Date>2002-08-12</Date>
+  <Time>10:16</Time>
+  <Locality>Parque Estadual Intervales. Barra Grande</Locality>
+  <Latitude>-24.2667</Latitude>
+  <Longitude>-48.3834</Longitude>
+  <Elevation>800</Elevation>
+  <Author>Jeremy Minns</Author>
+  <AuthorID>DGVLLRYDXS</AuthorID>
+  <Content>Song</Content>
+  <Comments>Secondary montane forest.</Comments>
+  <Quality>1</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies>Phylloscartes oustaleti,Sporophila frontalis</BackgroundSpecies>
+  <Order>Passeriformes</Order>
+  <Family>Formicariidae</Family>
+  <Genus>Chamaeza</Genus>
+  <Species>campanisona</Species>
+  <Sub-species>campanisona</Sub-species>
+  <VernacularNames>Short-tailed Antthrush</VernacularNames>
+</Audio>

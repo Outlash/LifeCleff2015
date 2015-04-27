@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>26753</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN26753.wav</FileName>
+  <ClassId>glznwe</ClassId>
+  <Date>1997-10-13</Date>
+  <Time>00:00</Time>
+  <Locality>Mocoa-Pasto road, Putumayo</Locality>
+  <Latitude>1.11667</Latitude>
+  <Longitude>-76.86667</Longitude>
+  <Elevation>?</Elevation>
+  <Author>Todd Mark</Author>
+  <AuthorID>CLKPHLYUHA</AuthorID>
+  <Content>call?</Content>
+  <Comments>ID not certain</Comments>
+  <Quality>3</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Tyrannidae</Family>
+  <Genus>Leptopogon</Genus>
+  <Species>rufipectus</Species>
+  <Sub-species />
+  <VernacularNames>Rufous-breasted Flycatcher</VernacularNames>
+</Audio>

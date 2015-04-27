@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>8489</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN8489.wav</FileName>
+  <ClassId>vifxpb</ClassId>
+  <Date>2013-09-23</Date>
+  <Time>17:30</Time>
+  <Locality>Paraibuna, São Paulo</Locality>
+  <Latitude>-23.5797</Latitude>
+  <Longitude>-45.5474</Longitude>
+  <Elevation>800</Elevation>
+  <Author>Rodrigo Dela Rosa</Author>
+  <AuthorID>VGXDJMKETZ</AuthorID>
+  <Content>song</Content>
+  <Comments>bird-seen:yesplayback-used:yes</Comments>
+  <Quality>2</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies />
+  <Order>Falconiformes</Order>
+  <Family>Falconidae</Family>
+  <Genus>Micrastur</Genus>
+  <Species>ruficollis</Species>
+  <Sub-species />
+  <VernacularNames>Barred Forest Falcon</VernacularNames>
+</Audio>

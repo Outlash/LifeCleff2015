@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>17860</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN17860.wav</FileName>
+  <ClassId>xoqhws</ClassId>
+  <Date>2001-11-14</Date>
+  <Time>15:10</Time>
+  <Locality>Chapada do Araripe (Ceara)</Locality>
+  <Latitude>-7.3334</Latitude>
+  <Longitude>-39.3001</Longitude>
+  <Elevation>900</Elevation>
+  <Author>Jeremy Minns</Author>
+  <AuthorID>DGVLLRYDXS</AuthorID>
+  <Content>call</Content>
+  <Comments>Dry forest. Natural.</Comments>
+  <Quality>1</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Furnariidae</Family>
+  <Genus>Megaxenops</Genus>
+  <Species>parnaguae</Species>
+  <Sub-species />
+  <VernacularNames>Great Xenops</VernacularNames>
+</Audio>

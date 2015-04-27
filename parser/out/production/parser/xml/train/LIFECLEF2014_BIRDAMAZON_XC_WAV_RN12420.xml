@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>12420</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN12420.wav</FileName>
+  <ClassId>perzmu</ClassId>
+  <Date>2011-12-12</Date>
+  <Time>10:00</Time>
+  <Locality>Joinville, Santa Catarina</Locality>
+  <Latitude>-26.2692</Latitude>
+  <Longitude>-48.9527</Longitude>
+  <Elevation>180</Elevation>
+  <Author>Alexandre Bianco</Author>
+  <AuthorID>ODNEDFESFY</AuthorID>
+  <Content>song</Content>
+  <Comments>bird-seen:yesplayback-used:no</Comments>
+  <Quality>3</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Coerebidae</Family>
+  <Genus>Coereba</Genus>
+  <Species>flaveola</Species>
+  <Sub-species />
+  <VernacularNames>Bananaquit</VernacularNames>
+</Audio>

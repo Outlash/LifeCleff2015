@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>9192</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN9192.wav</FileName>
+  <ClassId>fiennj</ClassId>
+  <Date>2011-01-22</Date>
+  <Time>07:00</Time>
+  <Locality>Flona do Tapajos, Santarem</Locality>
+  <Latitude>-3.0359</Latitude>
+  <Longitude>-54.9398</Longitude>
+  <Elevation>?</Elevation>
+  <Author>Alexander Lees</Author>
+  <AuthorID>INDDBZAFJL</AuthorID>
+  <Content>song</Content>
+  <Comments>primary forest</Comments>
+  <Quality>2</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies>Lipaugus vociferans,Vireolanius leucotis</BackgroundSpecies>
+  <Order>Passeriformes</Order>
+  <Family>Emberizidae</Family>
+  <Genus>Arremon</Genus>
+  <Species>taciturnus</Species>
+  <Sub-species>taciturnus</Sub-species>
+  <VernacularNames>Pectoral Sparrow</VernacularNames>
+</Audio>

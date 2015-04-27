@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>27840</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN27840.wav</FileName>
+  <ClassId>oskqfx</ClassId>
+  <Date>2011-05-27</Date>
+  <Time>?</Time>
+  <Locality>saint-Georges, piste de Saut Maripa</Locality>
+  <Latitude>3.950143</Latitude>
+  <Longitude>-51.794735</Longitude>
+  <Elevation>30</Elevation>
+  <Author>Alexandre Renaudier</Author>
+  <AuthorID>GKADEITXTH</AuthorID>
+  <Content>song</Content>
+  <Comments>natural recording, very excited birds</Comments>
+  <Quality>3</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies>Xipholena punicea</BackgroundSpecies>
+  <Order>Passeriformes</Order>
+  <Family>Thamnophilidae</Family>
+  <Genus>Gymnopithys</Genus>
+  <Species>rufigula</Species>
+  <Sub-species />
+  <VernacularNames>Rufous-throated Antbird</VernacularNames>
+</Audio>

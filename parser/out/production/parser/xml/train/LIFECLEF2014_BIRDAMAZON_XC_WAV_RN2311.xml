@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>2311</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN2311.wav</FileName>
+  <ClassId>rhijnm</ClassId>
+  <Date>2006-11-02</Date>
+  <Time>16:42</Time>
+  <Locality>Reserva Ecológica de Guapiaçu, RJ</Locality>
+  <Latitude>-22.5001</Latitude>
+  <Longitude>-42.7167</Longitude>
+  <Elevation>30</Elevation>
+  <Author>Jeremy Minns</Author>
+  <AuthorID>DGVLLRYDXS</AuthorID>
+  <Content>call, song</Content>
+  <Comments>Same place. Pair near nest with others nearby.</Comments>
+  <Quality>2</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies>Thamnophilus palliatus,Pitangus sulphuratus,Tachycineta leucorrhoa,Turdus rufiventris</BackgroundSpecies>
+  <Order>Passeriformes</Order>
+  <Family>Icteridae</Family>
+  <Genus>Chrysomus</Genus>
+  <Species>ruficapillus</Species>
+  <Sub-species>ruficapillus</Sub-species>
+  <VernacularNames>Chestnut-capped Blackbird</VernacularNames>
+</Audio>

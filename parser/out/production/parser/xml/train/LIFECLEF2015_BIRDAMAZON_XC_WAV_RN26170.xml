@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>26170</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN26170.wav</FileName>
+  <ClassId>ywownv</ClassId>
+  <Date>2009-02-14</Date>
+  <Time>06:00</Time>
+  <Locality>Limon, Maracay, Aragua</Locality>
+  <Latitude>10.304</Latitude>
+  <Longitude>-67.633</Longitude>
+  <Elevation>480</Elevation>
+  <Author>Fernand DEROUSSEN</Author>
+  <AuthorID>UXGZWVYDFE</AuthorID>
+  <Content>song</Content>
+  <Comments>bird-seen:yesplayback-used:no</Comments>
+  <Quality>1</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Galliformes</Order>
+  <Family>Cracidae</Family>
+  <Genus>Ortalis</Genus>
+  <Species>ruficauda</Species>
+  <Sub-species />
+  <VernacularNames>Rufous-vented Chachalaca</VernacularNames>
+</Audio>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>29469</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN29469.wav</FileName>
+  <ClassId>vifxpb</ClassId>
+  <Date>2003-02-15</Date>
+  <Time>?</Time>
+  <Locality>Reserva privada Yotoco, Yotoco, Valle del Cauca</Locality>
+  <Latitude>3.8775</Latitude>
+  <Longitude>-76.43195</Longitude>
+  <Elevation>1400 a 1600</Elevation>
+  <Author>José Agustín López (Colección de Sonidos Ambientales - Instituto Humboldt)</Author>
+  <AuthorID>XMFDPACYJN</AuthorID>
+  <Content>song</Content>
+  <Comments>BSA 12021To obtain a wav file of the original recording, please contact csa@humboldt.org.coplayback-used:no</Comments>
+  <Quality>2</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Falconiformes</Order>
+  <Family>Falconidae</Family>
+  <Genus>Micrastur</Genus>
+  <Species>ruficollis</Species>
+  <Sub-species />
+  <VernacularNames>Barred Forest Falcon</VernacularNames>
+</Audio>

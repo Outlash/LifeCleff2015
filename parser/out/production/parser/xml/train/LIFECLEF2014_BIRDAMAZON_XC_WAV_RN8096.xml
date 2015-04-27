@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>8096</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN8096.wav</FileName>
+  <ClassId>jirbln</ClassId>
+  <Date>2007-05-08</Date>
+  <Time>07:30</Time>
+  <Locality>Catalão, Goias State</Locality>
+  <Latitude>-18.1658</Latitude>
+  <Longitude>-47.9464</Longitude>
+  <Elevation>850</Elevation>
+  <Author>Robson Silva e Silva</Author>
+  <AuthorID>WZSVLIHYQF</AuthorID>
+  <Content>call</Content>
+  <Comments>bird-seen:yesplayback-used:no</Comments>
+  <Quality>1</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies />
+  <Order>Piciformes</Order>
+  <Family>Picidae</Family>
+  <Genus>Melanerpes</Genus>
+  <Species>candidus</Species>
+  <Sub-species />
+  <VernacularNames>White Woodpecker</VernacularNames>
+</Audio>

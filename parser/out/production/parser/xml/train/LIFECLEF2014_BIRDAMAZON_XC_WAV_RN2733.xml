@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>2733</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN2733.wav</FileName>
+  <ClassId>wyqhet</ClassId>
+  <Date>2006-05-20</Date>
+  <Time>17:20</Time>
+  <Locality>Barroquinha, Ceará State</Locality>
+  <Latitude>-2.9501</Latitude>
+  <Longitude>-41.2167</Longitude>
+  <Elevation>15</Elevation>
+  <Author>Ciro Albano</Author>
+  <AuthorID>MXVQPUKGWW</AuthorID>
+  <Content>song</Content>
+  <Comments />
+  <Quality>0</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies>Coereba flaveola,Tolmomyias flaviventris</BackgroundSpecies>
+  <Order>Passeriformes</Order>
+  <Family>Thamnophilidae</Family>
+  <Genus>Thamnophilus</Genus>
+  <Species>pelzelni</Species>
+  <Sub-species />
+  <VernacularNames>Planalto Slaty Antshrike</VernacularNames>
+</Audio>

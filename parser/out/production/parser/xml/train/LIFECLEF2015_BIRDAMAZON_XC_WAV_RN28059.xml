@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>28059</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN28059.wav</FileName>
+  <ClassId>eghdvj</ClassId>
+  <Date>2014-02-09</Date>
+  <Time>05:30</Time>
+  <Locality>Machadinho d'Oeste, Rondônia</Locality>
+  <Latitude>-8.7521</Latitude>
+  <Longitude>-62.2375</Longitude>
+  <Elevation>90</Elevation>
+  <Author>GABRIEL LEITE</Author>
+  <AuthorID>TGBFXDVERJ</AuthorID>
+  <Content>call</Content>
+  <Comments>bird-seen:yesplayback-used:yes</Comments>
+  <Quality>2</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Caprimulgiformes</Order>
+  <Family>Nyctibiidae</Family>
+  <Genus>Nyctibius</Genus>
+  <Species>aethereus</Species>
+  <Sub-species />
+  <VernacularNames>Long-tailed Potoo</VernacularNames>
+</Audio>

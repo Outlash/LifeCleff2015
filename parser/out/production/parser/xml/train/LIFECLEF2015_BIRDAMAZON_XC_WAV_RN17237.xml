@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>17237</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN17237.wav</FileName>
+  <ClassId>iazbts</ClassId>
+  <Date>2011-03-13</Date>
+  <Time>6-30</Time>
+  <Locality>Timotes</Locality>
+  <Latitude>8.9848</Latitude>
+  <Longitude>-70.7548</Longitude>
+  <Elevation>2220</Elevation>
+  <Author>Albert Lastukhin</Author>
+  <AuthorID>LELYWQKUZX</AuthorID>
+  <Content>Song</Content>
+  <Comments>Song of male near the nest</Comments>
+  <Quality>0</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Icteridae</Family>
+  <Genus>Quiscalus</Genus>
+  <Species>lugubris</Species>
+  <Sub-species />
+  <VernacularNames>Carib Grackle</VernacularNames>
+</Audio>

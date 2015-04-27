@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>18769</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN18769.wav</FileName>
+  <ClassId>jbufjj</ClassId>
+  <Date>2011-09-03</Date>
+  <Time>7:30</Time>
+  <Locality>Cristalino Jungle Lodge, MT</Locality>
+  <Latitude>-9.5981</Latitude>
+  <Longitude>-55.932</Longitude>
+  <Elevation>200</Elevation>
+  <Author>Tayler Brooks</Author>
+  <AuthorID>ARFGONJCBJ</AuthorID>
+  <Content>call</Content>
+  <Comments>Natural vocalization. On bank of Rio Cristalino.</Comments>
+  <Quality>1</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies>Myiopagis gaimardii,Cantorchilus leucotis,Hypocnemoides maculicauda</BackgroundSpecies>
+  <Order>Passeriformes</Order>
+  <Family>Thraupidae</Family>
+  <Genus>Tersina</Genus>
+  <Species>viridis</Species>
+  <Sub-species>viridis</Sub-species>
+  <VernacularNames>Swallow Tanager</VernacularNames>
+</Audio>

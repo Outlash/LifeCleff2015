@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>829</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN829.wav</FileName>
+  <ClassId>enlzwu</ClassId>
+  <Date>2002-01-25</Date>
+  <Time>07:35</Time>
+  <Locality>Rio Araguaia. Caseara</Locality>
+  <Latitude>-9.2667</Latitude>
+  <Longitude>-49.9334</Longitude>
+  <Elevation>170</Elevation>
+  <Author>Jeremy Minns</Author>
+  <AuthorID>DGVLLRYDXS</AuthorID>
+  <Content>Song</Content>
+  <Comments>Flooded forest on road to ferry. Male in tree beside road.</Comments>
+  <Quality>2</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies>Trogon melanurus,Pitangus sulphuratus,Troglodytes aedon,Pheugopedius genibarbis</BackgroundSpecies>
+  <Order>Passeriformes</Order>
+  <Family>Thraupidae</Family>
+  <Genus>Oryzoborus</Genus>
+  <Species>angolensis</Species>
+  <Sub-species>torridus</Sub-species>
+  <VernacularNames>Chestnut-bellied Seed Finch</VernacularNames>
+</Audio>

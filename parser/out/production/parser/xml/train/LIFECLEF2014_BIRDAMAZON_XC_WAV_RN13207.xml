@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>13207</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN13207.wav</FileName>
+  <ClassId>ubmxxg</ClassId>
+  <Date>2004-05-03</Date>
+  <Time>?:?</Time>
+  <Locality>Cristalino Jungle Lodge, MT</Locality>
+  <Latitude>-9.5981</Latitude>
+  <Longitude>-55.932</Longitude>
+  <Elevation>240</Elevation>
+  <Author>Frank Lambert</Author>
+  <AuthorID>YTUXOCTUEM</AuthorID>
+  <Content>call</Content>
+  <Comments>Previously published on AVoCet as &lt;a href=http://avocet.zoology.msu.edu/recordings/10083&gt;AV10083&lt;/a&gt;.  Certainty: 100%.  ID determined by: seen. GPS: Google Earth. Habitat: igapo along river.</Comments>
+  <Quality>2</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Thamnophilidae</Family>
+  <Genus>Myrmotherula</Genus>
+  <Species>multostriata</Species>
+  <Sub-species />
+  <VernacularNames>Amazonian Streaked Antwren</VernacularNames>
+</Audio>

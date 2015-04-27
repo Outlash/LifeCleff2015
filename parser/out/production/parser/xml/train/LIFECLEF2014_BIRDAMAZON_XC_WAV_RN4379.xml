@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>4379</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN4379.wav</FileName>
+  <ClassId>fxwyhh</ClassId>
+  <Date>2001-06-10</Date>
+  <Time>07:00</Time>
+  <Locality>Tapajós National Forest</Locality>
+  <Latitude>-3.4834</Latitude>
+  <Longitude>-54.9167</Longitude>
+  <Elevation>150</Elevation>
+  <Author>Sidnei de Melo Dantas</Author>
+  <AuthorID>NNCKQMBGPH</AuthorID>
+  <Content>call, song</Content>
+  <Comments>undergrowth, in land forest. Each part of record separated by 10-30 seconds interval.</Comments>
+  <Quality>3</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Tyrannidae</Family>
+  <Genus>Platyrinchus</Genus>
+  <Species>platyrhynchos</Species>
+  <Sub-species />
+  <VernacularNames>White-crested Spadebill</VernacularNames>
+</Audio>

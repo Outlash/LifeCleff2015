@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>29167</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN29167.wav</FileName>
+  <ClassId>wlxghh</ClassId>
+  <Date>2010-10-09</Date>
+  <Time>?</Time>
+  <Locality>Mont Itoupé</Locality>
+  <Latitude>3.01667</Latitude>
+  <Longitude>-53.0667</Longitude>
+  <Elevation>570</Elevation>
+  <Author>Alexandre Renaudier</Author>
+  <AuthorID>GKADEITXTH</AuthorID>
+  <Content>song at lek</Content>
+  <Comments />
+  <Quality>2</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies>Lipaugus vociferans,Patagioenas plumbea,Herpsilochmus stictocephalus</BackgroundSpecies>
+  <Order>Passeriformes</Order>
+  <Family>Cotingidae</Family>
+  <Genus>Perissocephalus</Genus>
+  <Species>tricolor</Species>
+  <Sub-species />
+  <VernacularNames>Capuchinbird</VernacularNames>
+</Audio>

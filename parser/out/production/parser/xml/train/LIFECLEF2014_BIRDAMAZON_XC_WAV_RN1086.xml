@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>1086</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN1086.wav</FileName>
+  <ClassId>hwjycx</ClassId>
+  <Date>2010-08-24</Date>
+  <Time>?</Time>
+  <Locality>São José dos Campos</Locality>
+  <Latitude>NULL</Latitude>
+  <Longitude>NULL</Longitude>
+  <Elevation>550</Elevation>
+  <Author>Rodrigo Dela Rosa</Author>
+  <AuthorID>VGXDJMKETZ</AuthorID>
+  <Content>Song</Content>
+  <Comments />
+  <Quality>2</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies>Nyctidromus albicollis</BackgroundSpecies>
+  <Order>Caprimulgiformes</Order>
+  <Family>Caprimulgidae</Family>
+  <Genus>Setopagis</Genus>
+  <Species>parvula</Species>
+  <Sub-species />
+  <VernacularNames>Little Nightjar</VernacularNames>
+</Audio>

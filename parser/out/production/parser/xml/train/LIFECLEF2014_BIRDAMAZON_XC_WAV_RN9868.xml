@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>9868</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN9868.wav</FileName>
+  <ClassId>azrobg</ClassId>
+  <Date>2001-11-06</Date>
+  <Time>09:44</Time>
+  <Locality>RPPN Estação Veracel, Porto Seguro, Bahia</Locality>
+  <Latitude>-16.345838</Latitude>
+  <Longitude>-39.139481</Longitude>
+  <Elevation>80</Elevation>
+  <Author>Jeremy Minns</Author>
+  <AuthorID>DGVLLRYDXS</AuthorID>
+  <Content>Song</Content>
+  <Comments>Coastal white sand forest.</Comments>
+  <Quality>1</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies>Tolmomyias flaviventris,Ramphocaenus melanurus,Cacicus haemorrhous</BackgroundSpecies>
+  <Order>Passeriformes</Order>
+  <Family>Thamnophilidae</Family>
+  <Genus>Herpsilochmus</Genus>
+  <Species>rufimarginatus</Species>
+  <Sub-species>rufimarginatus</Sub-species>
+  <VernacularNames>Rufous-winged Antwren</VernacularNames>
+</Audio>

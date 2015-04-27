@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>21557</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN21557.wav</FileName>
+  <ClassId>vwbbga</ClassId>
+  <Date>2012-10-02</Date>
+  <Time>09:46</Time>
+  <Locality>Universidade Federal de Juiz de Fora, MG</Locality>
+  <Latitude>-21.776</Latitude>
+  <Longitude>-43.371</Longitude>
+  <Elevation>900</Elevation>
+  <Author>Marco Manhães</Author>
+  <AuthorID>ZLBYQGJAJN</AuthorID>
+  <Content>call</Content>
+  <Comments>amplified by audacity softwarebird-seen:noplayback-used:no</Comments>
+  <Quality>2</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Thraupidae</Family>
+  <Genus>Conirostrum</Genus>
+  <Species>speciosum</Species>
+  <Sub-species />
+  <VernacularNames>Chestnut-vented Conebill</VernacularNames>
+</Audio>

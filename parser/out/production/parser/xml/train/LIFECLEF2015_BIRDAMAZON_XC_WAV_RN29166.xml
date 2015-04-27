@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>29166</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN29166.wav</FileName>
+  <ClassId>xoqhws</ClassId>
+  <Date>2002-02-09</Date>
+  <Time>12:28</Time>
+  <Locality>Cavernas do Peruaçu National Park</Locality>
+  <Latitude>-15.0334</Latitude>
+  <Longitude>-44.2501</Longitude>
+  <Elevation>750</Elevation>
+  <Author>Jeremy Minns</Author>
+  <AuthorID>DGVLLRYDXS</AuthorID>
+  <Content>Scold</Content>
+  <Comments>Caatinga. Natural</Comments>
+  <Quality>1</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies>Myiarchus tyrannulus</BackgroundSpecies>
+  <Order>Passeriformes</Order>
+  <Family>Furnariidae</Family>
+  <Genus>Megaxenops</Genus>
+  <Species>parnaguae</Species>
+  <Sub-species />
+  <VernacularNames>Great Xenops</VernacularNames>
+</Audio>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>14866</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN14866.wav</FileName>
+  <ClassId>clakup</ClassId>
+  <Date>2009-07-13</Date>
+  <Time>10:35</Time>
+  <Locality>Vale das Taquaras, RJ</Locality>
+  <Latitude>-22.4062</Latitude>
+  <Longitude>-42.4653</Longitude>
+  <Elevation>1000</Elevation>
+  <Author>Nick Athanas</Author>
+  <AuthorID>XRABICUARW</AuthorID>
+  <Content>song</Content>
+  <Comments>Photo of the same bird: img:http://antpitta.com/images/photos/tyrants/Mottle-cheeked-Tyrannulet-valedastaquaras_5241.jpg</Comments>
+  <Quality>1</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Tyrannidae</Family>
+  <Genus>Phylloscartes</Genus>
+  <Species>ventralis</Species>
+  <Sub-species>ventralis</Sub-species>
+  <VernacularNames>Mottle-cheeked Tyrannulet</VernacularNames>
+</Audio>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>12931</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN12931.wav</FileName>
+  <ClassId>ubmxxg</ClassId>
+  <Date>2012-10-09</Date>
+  <Time>17:20</Time>
+  <Locality>Cristalino Jungle Lodge, MT</Locality>
+  <Latitude>-9.5981</Latitude>
+  <Longitude>-55.932</Longitude>
+  <Elevation>260</Elevation>
+  <Author>Andrew Spencer</Author>
+  <AuthorID>CDTGHVBGZP</AuthorID>
+  <Content>call</Content>
+  <Comments>natural vocalization, calls from a female bird moving through the mid-story of dense varzea forest.  bird-seen:yesplayback-used:no</Comments>
+  <Quality>1</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Thamnophilidae</Family>
+  <Genus>Myrmotherula</Genus>
+  <Species>multostriata</Species>
+  <Sub-species />
+  <VernacularNames>Amazonian Streaked Antwren</VernacularNames>
+</Audio>

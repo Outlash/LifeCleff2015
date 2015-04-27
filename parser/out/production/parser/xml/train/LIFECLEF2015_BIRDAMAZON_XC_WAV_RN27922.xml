@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>27922</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN27922.wav</FileName>
+  <ClassId>ktwbdx</ClassId>
+  <Date>2013-03-26</Date>
+  <Time>10:50</Time>
+  <Locality>Cajamarca, Tolima</Locality>
+  <Latitude>4.4837</Latitude>
+  <Longitude>-75.4797</Longitude>
+  <Elevation>2950</Elevation>
+  <Author>Oscar H. Marín-Gómez</Author>
+  <AuthorID>CSUHASNRSU</AuthorID>
+  <Content>call</Content>
+  <Comments>Ref OHM457. Regrabación de XC128066 bird-seen:yesplayback-used:no</Comments>
+  <Quality>2</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Troglodytidae</Family>
+  <Genus>Cinnycerthia</Genus>
+  <Species>olivascens</Species>
+  <Sub-species />
+  <VernacularNames>Sepia-brown Wren</VernacularNames>
+</Audio>

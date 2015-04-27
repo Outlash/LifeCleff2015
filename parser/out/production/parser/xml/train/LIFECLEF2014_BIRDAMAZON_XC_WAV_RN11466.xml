@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>11466</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN11466.wav</FileName>
+  <ClassId>qqkpms</ClassId>
+  <Date>2009-09-20</Date>
+  <Time>11:30</Time>
+  <Locality>Cristalino Jungle Lodge, MT</Locality>
+  <Latitude>-9.5981</Latitude>
+  <Longitude>-55.932</Longitude>
+  <Elevation>250</Elevation>
+  <Author>Andrew Spencer</Author>
+  <AuthorID>CDTGHVBGZP</AuthorID>
+  <Content>drumming</Content>
+  <Comments />
+  <Quality>2</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies>Lipaugus vociferans</BackgroundSpecies>
+  <Order>Piciformes</Order>
+  <Family>Picidae</Family>
+  <Genus>Celeus</Genus>
+  <Species>torquatus</Species>
+  <Sub-species>occidentalis</Sub-species>
+  <VernacularNames>Ringed Woodpecker</VernacularNames>
+</Audio>

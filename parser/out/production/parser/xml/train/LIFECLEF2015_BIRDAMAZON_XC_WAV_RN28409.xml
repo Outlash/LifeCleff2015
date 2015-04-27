@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>28409</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN28409.wav</FileName>
+  <ClassId>cpzzjy</ClassId>
+  <Date>2009-10-00</Date>
+  <Time>06:00</Time>
+  <Locality>Big Pond, San Andres isla</Locality>
+  <Latitude>12.547</Latitude>
+  <Longitude>-81.719</Longitude>
+  <Elevation>50</Elevation>
+  <Author>Thomas Donegan</Author>
+  <AuthorID>OXSIOLJJUP</AuthorID>
+  <Content>Call</Content>
+  <Comments />
+  <Quality>3</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies>Coereba flaveola</BackgroundSpecies>
+  <Order>Passeriformes</Order>
+  <Family>Mimidae</Family>
+  <Genus>Mimus</Genus>
+  <Species>gilvus</Species>
+  <Sub-species>magnirostris</Sub-species>
+  <VernacularNames>Tropical Mockingbird</VernacularNames>
+</Audio>

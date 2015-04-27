@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>18184</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN18184.wav</FileName>
+  <ClassId>maqvgn</ClassId>
+  <Date>2011-03-17</Date>
+  <Time>11:30</Time>
+  <Locality>Brownsberg</Locality>
+  <Latitude>4.9301</Latitude>
+  <Longitude>-55.2101</Longitude>
+  <Elevation>450</Elevation>
+  <Author>Daniel Lane</Author>
+  <AuthorID>WOEAFQRMUD</AuthorID>
+  <Content>call, song?</Content>
+  <Comments>Vocalizations from a flock (5?), the 'bzzt' and 'bzz-tway?' calls and perhaps 'tee tew-tew-tew'. Part of a mixed canopy flock.</Comments>
+  <Quality>2</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies>Lipaugus vociferans,Herpsilochmus stictocephalus,Tyrannulus elatus</BackgroundSpecies>
+  <Order>Passeriformes</Order>
+  <Family>Cardinalidae</Family>
+  <Genus>Caryothraustes</Genus>
+  <Species>canadensis</Species>
+  <Sub-species />
+  <VernacularNames>Yellow-green Grosbeak</VernacularNames>
+</Audio>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>30428</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN30428.wav</FileName>
+  <ClassId>jwatvd</ClassId>
+  <Date>2012-04-28</Date>
+  <Time>10:00</Time>
+  <Locality>Monteiro Lobato, São Paulo</Locality>
+  <Latitude>-22.8984</Latitude>
+  <Longitude>-45.6834</Longitude>
+  <Elevation>1400</Elevation>
+  <Author>Rodrigo Dela Rosa</Author>
+  <AuthorID>VGXDJMKETZ</AuthorID>
+  <Content>song</Content>
+  <Comments>bird-seen:yesplayback-used:yes</Comments>
+  <Quality>2</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Grallariidae</Family>
+  <Genus>Grallaria</Genus>
+  <Species>varia</Species>
+  <Sub-species />
+  <VernacularNames>Variegated Antpitta</VernacularNames>
+</Audio>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>13492</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN13492.wav</FileName>
+  <ClassId>ltjfqv</ClassId>
+  <Date>2010-07-24</Date>
+  <Time>7:45</Time>
+  <Locality>Parque Estadual Mata dos Godoy, Londrina, Parana</Locality>
+  <Latitude>-23.4501</Latitude>
+  <Longitude>-51.2334</Longitude>
+  <Elevation>600</Elevation>
+  <Author>Renan Campos de Oliveira</Author>
+  <AuthorID>SDARDTGGWP</AuthorID>
+  <Content>call</Content>
+  <Comments />
+  <Quality>1</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Tyrannidae</Family>
+  <Genus>Myiarchus</Genus>
+  <Species>tyrannulus</Species>
+  <Sub-species />
+  <VernacularNames>Brown-crested Flycatcher</VernacularNames>
+</Audio>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>28708</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN28708.wav</FileName>
+  <ClassId>jhwuqr</ClassId>
+  <Date>2010-00-00</Date>
+  <Time>06:53</Time>
+  <Locality>Cto. Campo Alegre, Andalucia, Valle, Colombia</Locality>
+  <Latitude>4.175</Latitude>
+  <Longitude>-76.198</Longitude>
+  <Elevation>955</Elevation>
+  <Author>Orlando A. Acevedo - Charry</Author>
+  <AuthorID>LBVSJDZNVD</AuthorID>
+  <Content>song</Content>
+  <Comments>A male at the border of wetland</Comments>
+  <Quality>2</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Thraupidae</Family>
+  <Genus>Sporophila</Genus>
+  <Species>nigricollis</Species>
+  <Sub-species />
+  <VernacularNames>Yellow-bellied Seedeater</VernacularNames>
+</Audio>

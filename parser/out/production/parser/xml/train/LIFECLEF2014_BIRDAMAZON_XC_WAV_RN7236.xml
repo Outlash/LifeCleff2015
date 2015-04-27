@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>7236</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN7236.wav</FileName>
+  <ClassId>czvsyl</ClassId>
+  <Date>2002-07-30</Date>
+  <Time>07:40</Time>
+  <Locality>Ubatuba, SP. Folha Seca.</Locality>
+  <Latitude>-23.5001</Latitude>
+  <Longitude>-45.2167</Longitude>
+  <Elevation>30</Elevation>
+  <Author>Jeremy Minns</Author>
+  <AuthorID>DGVLLRYDXS</AuthorID>
+  <Content>call, song</Content>
+  <Comments>Humid lowland forest. Female. After playback. This is Call A in our DVD-ROM 'Birds of Brazil'.</Comments>
+  <Quality>1</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies>Ramphodon naevius,Drymophila squamata</BackgroundSpecies>
+  <Order>Passeriformes</Order>
+  <Family>Thamnophilidae</Family>
+  <Genus>Myrmotherula</Genus>
+  <Species>unicolor</Species>
+  <Sub-species />
+  <VernacularNames>Unicolored Antwren</VernacularNames>
+</Audio>

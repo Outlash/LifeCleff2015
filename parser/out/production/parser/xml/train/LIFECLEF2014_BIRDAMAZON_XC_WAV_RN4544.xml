@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>4544</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN4544.wav</FileName>
+  <ClassId>hoxugq</ClassId>
+  <Date>2005-12-04</Date>
+  <Time>07:30</Time>
+  <Locality>Serra de Baturité, Ceará</Locality>
+  <Latitude>-4.2334</Latitude>
+  <Longitude>-38.9167</Longitude>
+  <Elevation>750</Elevation>
+  <Author>Ciro Albano</Author>
+  <AuthorID>MXVQPUKGWW</AuthorID>
+  <Content>song</Content>
+  <Comments />
+  <Quality>2</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies />
+  <Order>Galliformes</Order>
+  <Family>Odontophoridae</Family>
+  <Genus>Odontophorus</Genus>
+  <Species>capueira</Species>
+  <Sub-species>plumbeicollis</Sub-species>
+  <VernacularNames>Spot-winged Wood Quail</VernacularNames>
+</Audio>

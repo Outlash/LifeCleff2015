@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>29862</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN29862.wav</FileName>
+  <ClassId>lgrpvc</ClassId>
+  <Date>2014-10-15</Date>
+  <Time>07:20</Time>
+  <Locality>Parque Estadual Mata dos Godoy</Locality>
+  <Latitude>-23.446</Latitude>
+  <Longitude>-51.244</Longitude>
+  <Elevation>600</Elevation>
+  <Author>Gabriel Rosa</Author>
+  <AuthorID>GXMOPUMWMA</AuthorID>
+  <Content>song</Content>
+  <Comments>original: GMR_20141015_072048bird-seen:yesplayback-used:yes</Comments>
+  <Quality>1</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Furnariidae</Family>
+  <Genus>Synallaxis</Genus>
+  <Species>ruficapilla</Species>
+  <Sub-species />
+  <VernacularNames>Rufous-capped Spinetail</VernacularNames>
+</Audio>

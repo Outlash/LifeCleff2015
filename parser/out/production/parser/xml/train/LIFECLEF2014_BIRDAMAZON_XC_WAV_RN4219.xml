@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>4219</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN4219.wav</FileName>
+  <ClassId>friwfr</ClassId>
+  <Date>2013-10-20</Date>
+  <Time>11:00</Time>
+  <Locality>Ibirapuera Park,São Paulo city,São Paulo State</Locality>
+  <Latitude>-23.59</Latitude>
+  <Longitude>-46.66</Longitude>
+  <Elevation>750</Elevation>
+  <Author>Antonio Silveira</Author>
+  <AuthorID>NBJQSQJRYH</AuthorID>
+  <Content>alarm call, call, female, male</Content>
+  <Comments>A couple perched and call and singing after playback. Male call first.bird-seen:yesplayback-used:yes</Comments>
+  <Quality>3</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies />
+  <Order>Piciformes</Order>
+  <Family>Picidae</Family>
+  <Genus>Picumnus</Genus>
+  <Species>temminckii</Species>
+  <Sub-species />
+  <VernacularNames>Ochre-collared Piculet</VernacularNames>
+</Audio>

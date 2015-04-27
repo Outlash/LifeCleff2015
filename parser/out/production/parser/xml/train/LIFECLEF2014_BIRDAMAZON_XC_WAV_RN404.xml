@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>404</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN404.wav</FileName>
+  <ClassId>ksvanv</ClassId>
+  <Date>2010-11-08</Date>
+  <Time>6:35</Time>
+  <Locality>Belterra, PA - Bacia 399</Locality>
+  <Latitude>-2.844</Latitude>
+  <Longitude>-54.833</Longitude>
+  <Elevation>?</Elevation>
+  <Author>Christian Borges Andretti</Author>
+  <AuthorID>EZSMXGTXKS</AuthorID>
+  <Content>song</Content>
+  <Comments />
+  <Quality>3</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Thamnophilidae</Family>
+  <Genus>Pygiptila</Genus>
+  <Species>stellaris</Species>
+  <Sub-species />
+  <VernacularNames>Spot-winged Antshrike</VernacularNames>
+</Audio>

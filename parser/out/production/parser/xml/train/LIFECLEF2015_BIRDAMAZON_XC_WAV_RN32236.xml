@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>32236</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN32236.wav</FileName>
+  <ClassId>bgaifs</ClassId>
+  <Date>2009-10-15</Date>
+  <Time>09:00</Time>
+  <Locality>Cristalino Jungle Lodge, MT</Locality>
+  <Latitude>-9.5981</Latitude>
+  <Longitude>-55.932</Longitude>
+  <Elevation>250</Elevation>
+  <Author>Andrew Spencer</Author>
+  <AuthorID>CDTGHVBGZP</AuthorID>
+  <Content>song</Content>
+  <Comments />
+  <Quality>1</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Furnariidae</Family>
+  <Genus>Deconychura</Genus>
+  <Species>stictolaema</Species>
+  <Sub-species>stictolaema</Sub-species>
+  <VernacularNames>Spot-throated Woodcreeper</VernacularNames>
+</Audio>

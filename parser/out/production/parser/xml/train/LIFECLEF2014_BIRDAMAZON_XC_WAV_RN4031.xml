@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>4031</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN4031.wav</FileName>
+  <ClassId>vyxqzu</ClassId>
+  <Date>2005-04-20</Date>
+  <Time>06:15</Time>
+  <Locality>Cabo Frio, RJ</Locality>
+  <Latitude>-22.9509</Latitude>
+  <Longitude>-42.0273</Longitude>
+  <Elevation>5</Elevation>
+  <Author>Nick Athanas</Author>
+  <AuthorID>XRABICUARW</AuthorID>
+  <Content>song</Content>
+  <Comments />
+  <Quality>2</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Thamnophilidae</Family>
+  <Genus>Formicivora</Genus>
+  <Species>serrana</Species>
+  <Sub-species>littoralis</Sub-species>
+  <VernacularNames>Serra Antwren</VernacularNames>
+</Audio>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>15381</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN15381.wav</FileName>
+  <ClassId>vifxpb</ClassId>
+  <Date>2013-03-11</Date>
+  <Time>09:00</Time>
+  <Locality>Campo Largo, Campo Largo, Parana</Locality>
+  <Latitude>-25.4597</Latitude>
+  <Longitude>-49.5273</Longitude>
+  <Elevation>950</Elevation>
+  <Author>João Antônio de B. Vitto</Author>
+  <AuthorID>RIVNLYTULO</AuthorID>
+  <Content>call</Content>
+  <Comments>bird-seen:yesplayback-used:yes</Comments>
+  <Quality>0</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Falconiformes</Order>
+  <Family>Falconidae</Family>
+  <Genus>Micrastur</Genus>
+  <Species>ruficollis</Species>
+  <Sub-species />
+  <VernacularNames>Barred Forest Falcon</VernacularNames>
+</Audio>

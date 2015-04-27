@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>17042</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN17042.wav</FileName>
+  <ClassId>cqqgho</ClassId>
+  <Date>1985-01-06</Date>
+  <Time>14:00</Time>
+  <Locality>Guayabital, 1.7 km SE San José de los Altos, Miranda</Locality>
+  <Latitude>10.3417</Latitude>
+  <Longitude>-66.9026</Longitude>
+  <Elevation>863</Elevation>
+  <Author>Chris Parrish</Author>
+  <AuthorID>IHIOGGZVQA</AuthorID>
+  <Content>song</Content>
+  <Comments />
+  <Quality>2</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies>Trogon collaris</BackgroundSpecies>
+  <Order>Passeriformes</Order>
+  <Family>Troglodytidae</Family>
+  <Genus>Thryophilus</Genus>
+  <Species>rufalbus</Species>
+  <Sub-species>cumanensis</Sub-species>
+  <VernacularNames>Rufous-and-white Wren</VernacularNames>
+</Audio>

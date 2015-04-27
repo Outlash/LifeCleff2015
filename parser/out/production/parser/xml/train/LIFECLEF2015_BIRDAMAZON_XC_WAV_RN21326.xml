@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>21326</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN21326.wav</FileName>
+  <ClassId>xjpygk</ClassId>
+  <Date>2013-10-05</Date>
+  <Time>17:43</Time>
+  <Locality>Igarapé Marmelo, Machadinho d'Oeste, Rondônia</Locality>
+  <Latitude>-8.9654</Latitude>
+  <Longitude>-61.9391</Longitude>
+  <Elevation>80</Elevation>
+  <Author>Luiz Gabriel Mazzoni</Author>
+  <AuthorID>MPOKMOFDDX</AuthorID>
+  <Content>song</Content>
+  <Comments>Riparian forest.bird-seen:yesplayback-used:yes</Comments>
+  <Quality>1</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies>Ramphastos tucanus</BackgroundSpecies>
+  <Order>Passeriformes</Order>
+  <Family>Thamnophilidae</Family>
+  <Genus>Sakesphorus</Genus>
+  <Species>luctuosus</Species>
+  <Sub-species />
+  <VernacularNames>Glossy Antshrike</VernacularNames>
+</Audio>

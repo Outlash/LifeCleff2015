@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>23770</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN23770.wav</FileName>
+  <ClassId>vcflij</ClassId>
+  <Date>2014-02-01</Date>
+  <Time>16:30</Time>
+  <Locality>Floresta Estadual Rio Preto-Jacundá, Machadinho d'Oeste, Rondônia</Locality>
+  <Latitude>-8.9244</Latitude>
+  <Longitude>-62.0836</Longitude>
+  <Elevation>80</Elevation>
+  <Author>GABRIEL LEITE</Author>
+  <AuthorID>TGBFXDVERJ</AuthorID>
+  <Content>song</Content>
+  <Comments>bird-seen:noplayback-used:yes</Comments>
+  <Quality>2</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Gruiformes</Order>
+  <Family>Rallidae</Family>
+  <Genus>Laterallus</Genus>
+  <Species>viridis</Species>
+  <Sub-species />
+  <VernacularNames>Russet-crowned Crake</VernacularNames>
+</Audio>

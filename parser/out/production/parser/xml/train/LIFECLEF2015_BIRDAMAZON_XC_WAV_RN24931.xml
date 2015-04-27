@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>24931</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN24931.wav</FileName>
+  <ClassId>uaciky</ClassId>
+  <Date>2010-01-01</Date>
+  <Time>09h30</Time>
+  <Locality>PN Tatamá</Locality>
+  <Latitude>5.117</Latitude>
+  <Longitude>-76.108</Longitude>
+  <Elevation>1550</Elevation>
+  <Author>Peter Boesman</Author>
+  <AuthorID>OOECIWCSWV</AuthorID>
+  <Content>song</Content>
+  <Comments>This is an unidentified Scytalopus from the Choco region. Voice resembles superficially Stiles' Tapaculo, which should not occur here (?). It was quite common in an elevational range 1500-1700m, seemingly confined to this zone, in between Choco Tapaculo (lower) and Nariño Tapaculo (higher)</Comments>
+  <Quality>1</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Rhinocryptidae</Family>
+  <Genus>Scytalopus</Genus>
+  <Species>sp.nov.Alto_Pisones</Species>
+  <Sub-species />
+  <VernacularNames>Alto Pisones' Tapaculo</VernacularNames>
+</Audio>

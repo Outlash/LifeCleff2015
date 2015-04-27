@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>21763</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN21763.wav</FileName>
+  <ClassId>ayyyjw</ClassId>
+  <Date>2013-10-07</Date>
+  <Time>08:00</Time>
+  <Locality>Campos de Bragança, Para</Locality>
+  <Latitude>-1.0054</Latitude>
+  <Longitude>-46.8002</Longitude>
+  <Elevation>10</Elevation>
+  <Author>Alex Lees</Author>
+  <AuthorID>INDDBZAFJL</AuthorID>
+  <Content>song</Content>
+  <Comments>secondary forest and scrubbird-seen:yesplayback-used:no</Comments>
+  <Quality>2</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies>Hylophilus pectoralis,Manacus manacus,Certhiaxis cinnamomeus,Pitangus sulphuratus,Leptotila verreauxi,Crotophaga major</BackgroundSpecies>
+  <Order>Passeriformes</Order>
+  <Family>Tyrannidae</Family>
+  <Genus>Poecilotriccus</Genus>
+  <Species>sylvia</Species>
+  <Sub-species>schulzi</Sub-species>
+  <VernacularNames>Slaty-headed Tody-Flycatcher</VernacularNames>
+</Audio>

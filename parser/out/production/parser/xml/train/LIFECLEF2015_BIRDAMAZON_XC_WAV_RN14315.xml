@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>14315</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN14315.wav</FileName>
+  <ClassId>jjeesd</ClassId>
+  <Date>2003-01-00</Date>
+  <Time>xx:xx</Time>
+  <Locality>Cerro de la Paz, nr. Serrania de los Yariguies, mun. Zapatoca Santande</Locality>
+  <Latitude>6.9834</Latitude>
+  <Longitude>-73.4334</Longitude>
+  <Elevation>1000</Elevation>
+  <Author>Thomas Donegan</Author>
+  <AuthorID>OXSIOLJJUP</AuthorID>
+  <Content>call, song</Content>
+  <Comments>Score for song. Not sure of background species.  Recording repeated in next track.</Comments>
+  <Quality>1</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies>Trogon personatus,Basileuterus rufifrons</BackgroundSpecies>
+  <Order>Passeriformes</Order>
+  <Family>Cardinalidae</Family>
+  <Genus>Cyanocompsa</Genus>
+  <Species>cyanoides</Species>
+  <Sub-species />
+  <VernacularNames>Blue-black Grosbeak</VernacularNames>
+</Audio>

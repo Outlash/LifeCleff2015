@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>29260</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN29260.wav</FileName>
+  <ClassId>cqqgho</ClassId>
+  <Date>2008-07-12</Date>
+  <Time>12:00</Time>
+  <Locality>Minca. Magdalena</Locality>
+  <Latitude>NULL</Latitude>
+  <Longitude>NULL</Longitude>
+  <Elevation>800</Elevation>
+  <Author>Pablo Florez</Author>
+  <AuthorID>ISWBQKPBGS</AuthorID>
+  <Content>?</Content>
+  <Comments />
+  <Quality>3</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Troglodytidae</Family>
+  <Genus>Thryophilus</Genus>
+  <Species>rufalbus</Species>
+  <Sub-species />
+  <VernacularNames>Rufous-and-white Wren</VernacularNames>
+</Audio>

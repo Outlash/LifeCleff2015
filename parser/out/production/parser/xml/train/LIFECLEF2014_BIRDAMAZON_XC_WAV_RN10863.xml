@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>10863</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN10863.wav</FileName>
+  <ClassId>jefgxc</ClassId>
+  <Date>0000-00-00</Date>
+  <Time>?</Time>
+  <Locality>São José da Barra, MG</Locality>
+  <Latitude>-20.7084</Latitude>
+  <Longitude>-46.1334</Longitude>
+  <Elevation>920</Elevation>
+  <Author>Luiz Fernando Figueiredo</Author>
+  <AuthorID>EYYKGDWADQ</AuthorID>
+  <Content>song</Content>
+  <Comments />
+  <Quality>1</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies>Zonotrichia capensis</BackgroundSpecies>
+  <Order>Piciformes</Order>
+  <Family>Galbulidae</Family>
+  <Genus>Galbula</Genus>
+  <Species>ruficauda</Species>
+  <Sub-species />
+  <VernacularNames>Rufous-tailed Jacamar</VernacularNames>
+</Audio>

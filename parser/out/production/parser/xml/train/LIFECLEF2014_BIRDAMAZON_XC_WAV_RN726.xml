@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>726</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN726.wav</FileName>
+  <ClassId>obvdbc</ClassId>
+  <Date>2010-09-08</Date>
+  <Time>05:59</Time>
+  <Locality>Paragominas, PA, Brazil, Bacia 100</Locality>
+  <Latitude>-2.742</Latitude>
+  <Longitude>-47.8681</Longitude>
+  <Elevation>?</Elevation>
+  <Author>Nargila Moura</Author>
+  <AuthorID>CWEIBYBYYD</AuthorID>
+  <Content>call</Content>
+  <Comments>selectively logged primary forest</Comments>
+  <Quality>3</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies>Thamnomanes caesius,Myrmotherula axillaris,Xenops minutus</BackgroundSpecies>
+  <Order>Piciformes</Order>
+  <Family>Picidae</Family>
+  <Genus>Campephilus</Genus>
+  <Species>rubricollis</Species>
+  <Sub-species>olallae</Sub-species>
+  <VernacularNames>Red-necked Woodpecker</VernacularNames>
+</Audio>

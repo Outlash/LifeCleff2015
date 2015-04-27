@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>15148</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN15148.wav</FileName>
+  <ClassId>lzezgo</ClassId>
+  <Date>2013-02-01</Date>
+  <Time>07:00</Time>
+  <Locality>Ventanas Peak Road, Jardin, Antioquia, W Andes</Locality>
+  <Latitude>5.547</Latitude>
+  <Longitude>-75.794</Longitude>
+  <Elevation>2800</Elevation>
+  <Author>Diego Calderon-F.</Author>
+  <AuthorID>OGATBVKNAG</AuthorID>
+  <Content>song</Content>
+  <Comments>bird-seen:yesplayback-used:yes</Comments>
+  <Quality>3</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Rhinocryptidae</Family>
+  <Genus>Scytalopus</Genus>
+  <Species>latrans</Species>
+  <Sub-species>latrans</Sub-species>
+  <VernacularNames>Blackish Tapaculo</VernacularNames>
+</Audio>

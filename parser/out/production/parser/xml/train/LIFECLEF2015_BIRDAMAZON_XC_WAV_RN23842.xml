@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>23842</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN23842.wav</FileName>
+  <ClassId>fkjcci</ClassId>
+  <Date>2013-02-15</Date>
+  <Time>23:00</Time>
+  <Locality>Libano, Tolima</Locality>
+  <Latitude>4.9223</Latitude>
+  <Longitude>-75.0559</Longitude>
+  <Elevation>1500</Elevation>
+  <Author>Jeisson Poveda</Author>
+  <AuthorID>CVJNYXJFAW</AuthorID>
+  <Content>call</Content>
+  <Comments>bird-seen:yesplayback-used:no</Comments>
+  <Quality>2</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Strigiformes</Order>
+  <Family>Strigidae</Family>
+  <Genus>Strix</Genus>
+  <Species>virgata</Species>
+  <Sub-species />
+  <VernacularNames>Mottled Owl</VernacularNames>
+</Audio>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>8182</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN8182.wav</FileName>
+  <ClassId>ujjmnm</ClassId>
+  <Date>2010-02-09</Date>
+  <Time>11:30</Time>
+  <Locality>Palmeiras, Chapada Diamantina, Bahia.</Locality>
+  <Latitude>-12.5304</Latitude>
+  <Longitude>-41.5757</Longitude>
+  <Elevation>750</Elevation>
+  <Author>GABRIEL LEITE</Author>
+  <AuthorID>TGBFXDVERJ</AuthorID>
+  <Content>call, male</Content>
+  <Comments>bird-seen:yesplayback-used:yes</Comments>
+  <Quality>3</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Thamnophilidae</Family>
+  <Genus>Thamnophilus</Genus>
+  <Species>torquatus</Species>
+  <Sub-species />
+  <VernacularNames>Rufous-winged Antshrike</VernacularNames>
+</Audio>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>32122</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN32122.wav</FileName>
+  <ClassId>zxedcd</ClassId>
+  <Date>2008-01-31</Date>
+  <Time>15:30</Time>
+  <Locality>Guamitas, PN Henri Pittier, Aragua</Locality>
+  <Latitude>10.3295</Latitude>
+  <Longitude>-67.6517</Longitude>
+  <Elevation>650</Elevation>
+  <Author>Daniel Lane</Author>
+  <AuthorID>WOEAFQRMUD</AuthorID>
+  <Content>song</Content>
+  <Comments>Natural duet.</Comments>
+  <Quality>2</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Troglodytidae</Family>
+  <Genus>Pheugopedius</Genus>
+  <Species>rutilus</Species>
+  <Sub-species />
+  <VernacularNames>Rufous-breasted Wren</VernacularNames>
+</Audio>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>12061</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN12061.wav</FileName>
+  <ClassId>eupamv</ClassId>
+  <Date>2005-09-00</Date>
+  <Time>06:20</Time>
+  <Locality>Piedade, São Paulo state</Locality>
+  <Latitude>NULL</Latitude>
+  <Longitude>NULL</Longitude>
+  <Elevation>781</Elevation>
+  <Author>Guilherme R R Brito</Author>
+  <AuthorID>OAYOBWYOOM</AuthorID>
+  <Content>mimicry song</Content>
+  <Comments>mimicry of several species!!</Comments>
+  <Quality>3</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Fringillidae</Family>
+  <Genus>Euphonia</Genus>
+  <Species>violacea</Species>
+  <Sub-species />
+  <VernacularNames>Violaceous Euphonia</VernacularNames>
+</Audio>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>13932</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN13932.wav</FileName>
+  <ClassId>aeqwqe</ClassId>
+  <Date>2008-12-20</Date>
+  <Time>07:20</Time>
+  <Locality>Carrancas, Minas Gerais</Locality>
+  <Latitude>-21.4706</Latitude>
+  <Longitude>-44.6376</Longitude>
+  <Elevation>?</Elevation>
+  <Author>Marcos Melo</Author>
+  <AuthorID>MRGDYNJGUJ</AuthorID>
+  <Content>song</Content>
+  <Comments />
+  <Quality>2</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Thamnophilidae</Family>
+  <Genus>Herpsilochmus</Genus>
+  <Species>atricapillus</Species>
+  <Sub-species />
+  <VernacularNames>Black-capped Antwren</VernacularNames>
+</Audio>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>29822</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN29822.wav</FileName>
+  <ClassId>aziqpv</ClassId>
+  <Date>2006-02-27</Date>
+  <Time>16:35</Time>
+  <Locality>Estância Santa Maria - Jaguarão, Rio Grande do Sul</Locality>
+  <Latitude>-32.4545</Latitude>
+  <Longitude>-53.0964</Longitude>
+  <Elevation>25</Elevation>
+  <Author>Fernando Jacobs</Author>
+  <AuthorID>MHHPJBCUXC</AuthorID>
+  <Content>call, song</Content>
+  <Comments />
+  <Quality>3</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Thraupidae</Family>
+  <Genus>Sicalis</Genus>
+  <Species>luteola</Species>
+  <Sub-species />
+  <VernacularNames>Grassland Yellow Finch</VernacularNames>
+</Audio>

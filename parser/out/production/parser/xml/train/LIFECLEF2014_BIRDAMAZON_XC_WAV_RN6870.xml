@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>6870</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN6870.wav</FileName>
+  <ClassId>rlqpij</ClassId>
+  <Date>0000-00-00</Date>
+  <Time>?</Time>
+  <Locality>Monte Alegre do Sul, Sao Paulo State</Locality>
+  <Latitude>-22.6833</Latitude>
+  <Longitude>-46.7166</Longitude>
+  <Elevation>748</Elevation>
+  <Author>Luiz Fernando Figueiredo</Author>
+  <AuthorID>EYYKGDWADQ</AuthorID>
+  <Content>call</Content>
+  <Comments />
+  <Quality>1</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies>Saltator similis</BackgroundSpecies>
+  <Order>Passeriformes</Order>
+  <Family>Tyrannidae</Family>
+  <Genus>Myiodynastes</Genus>
+  <Species>maculatus</Species>
+  <Sub-species />
+  <VernacularNames>Streaked Flycatcher</VernacularNames>
+</Audio>

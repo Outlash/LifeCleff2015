@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>9301</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN9301.wav</FileName>
+  <ClassId>ajwuzt</ClassId>
+  <Date>2003-12-04</Date>
+  <Time>08:45</Time>
+  <Locality>Pousada Araras, Pantanal, MT</Locality>
+  <Latitude>-16.5167</Latitude>
+  <Longitude>-56.7167</Longitude>
+  <Elevation>120</Elevation>
+  <Author>Jeremy Minns</Author>
+  <AuthorID>DGVLLRYDXS</AuthorID>
+  <Content>Song and duet</Content>
+  <Comments>Araras Eco Lodge. Seasonally flooded pasture and gallery forest. Two birds.</Comments>
+  <Quality>1</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Cardinalidae</Family>
+  <Genus>Saltator</Genus>
+  <Species>coerulescens</Species>
+  <Sub-species>coerulescens</Sub-species>
+  <VernacularNames>Greyish Saltator</VernacularNames>
+</Audio>

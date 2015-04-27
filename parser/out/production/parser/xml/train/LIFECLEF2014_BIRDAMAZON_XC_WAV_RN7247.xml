@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>7247</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN7247.wav</FileName>
+  <ClassId>bbtkon</ClassId>
+  <Date>2008-06-08</Date>
+  <Time>pm</Time>
+  <Locality>Saracá-Taquera National Forest, Porto Trombetas, PA</Locality>
+  <Latitude>-1.6667</Latitude>
+  <Longitude>-56.01</Longitude>
+  <Elevation>150</Elevation>
+  <Author>Eduardo Patrial</Author>
+  <AuthorID>QEFRRVCRRP</AuthorID>
+  <Content>song</Content>
+  <Comments />
+  <Quality>1</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Thamnophilidae</Family>
+  <Genus>Percnostola</Genus>
+  <Species>rufifrons</Species>
+  <Sub-species />
+  <VernacularNames>Black-headed Antbird</VernacularNames>
+</Audio>

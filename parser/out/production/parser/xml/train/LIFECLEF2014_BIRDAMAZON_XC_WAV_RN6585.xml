@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>6585</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN6585.wav</FileName>
+  <ClassId>tpwgoq</ClassId>
+  <Date>2002-10-30</Date>
+  <Time>15:35</Time>
+  <Locality>Parque Nacional Serra da Canastra, São Roque de Minas, MG</Locality>
+  <Latitude>-20.24528</Latitude>
+  <Longitude>-46.36583</Longitude>
+  <Elevation>1350</Elevation>
+  <Author>Jeremy Minns</Author>
+  <AuthorID>DGVLLRYDXS</AuthorID>
+  <Content>Song</Content>
+  <Comments>Abandoned fazenda near Cachoeira do Rolinho. Single bird on top of tree on edge of gallery forest.</Comments>
+  <Quality>2</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies>Zonotrichia capensis</BackgroundSpecies>
+  <Order>Passeriformes</Order>
+  <Family>Icteridae</Family>
+  <Genus>Gnorimopsar</Genus>
+  <Species>chopi</Species>
+  <Sub-species>chopi</Sub-species>
+  <VernacularNames>Chopi Blackbird</VernacularNames>
+</Audio>

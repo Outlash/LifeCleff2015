@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>22121</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN22121.wav</FileName>
+  <ClassId>ozjitk</ClassId>
+  <Date>2012-06-26</Date>
+  <Time>07:22</Time>
+  <Locality>San Jose de Guaviare - Departamento del Guaviare</Locality>
+  <Latitude>2.667</Latitude>
+  <Longitude>-72.6148</Longitude>
+  <Elevation>50</Elevation>
+  <Author>Oswaldo Cortes</Author>
+  <AuthorID>VVDRVZCVWW</AuthorID>
+  <Content>song</Content>
+  <Comments />
+  <Quality>3</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Icteridae</Family>
+  <Genus>Molothrus</Genus>
+  <Species>oryzivorus</Species>
+  <Sub-species />
+  <VernacularNames>Giant Cowbird</VernacularNames>
+</Audio>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>31323</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN31323.wav</FileName>
+  <ClassId>afzbzd</ClassId>
+  <Date>2014-02-11</Date>
+  <Time>18:00</Time>
+  <Locality>Libano, Tolima</Locality>
+  <Latitude>4.9219</Latitude>
+  <Longitude>-75.076</Longitude>
+  <Elevation>1600</Elevation>
+  <Author>Jeisson Poveda</Author>
+  <AuthorID>CVJNYXJFAW</AuthorID>
+  <Content>song</Content>
+  <Comments>bird-seen:yesplayback-used:no</Comments>
+  <Quality>2</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Cuculiformes</Order>
+  <Family>Cuculidae</Family>
+  <Genus>Tapera</Genus>
+  <Species>naevia</Species>
+  <Sub-species />
+  <VernacularNames>Striped Cuckoo</VernacularNames>
+</Audio>

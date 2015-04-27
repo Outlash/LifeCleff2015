@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>30515</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN30515.wav</FileName>
+  <ClassId>swkumm</ClassId>
+  <Date>2014-09-11</Date>
+  <Time>16:00</Time>
+  <Locality>Libano, Tolima</Locality>
+  <Latitude>4.9224</Latitude>
+  <Longitude>-75.0777</Longitude>
+  <Elevation>1600</Elevation>
+  <Author>Jeisson Poveda</Author>
+  <AuthorID>CVJNYXJFAW</AuthorID>
+  <Content>song</Content>
+  <Comments>Couple nesting in understory, small patch of pine forest Colombian, Central Andes, Colombia.Pareja anidando en sotobosque, pequeño parche de bosque de pino Colombiano, Andes Centrales, Colombia.bird-seen:yesplayback-used:no</Comments>
+  <Quality>1</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies>Thamnophilus multistriatus,Turdus ignobilis,Saltator striatipectus</BackgroundSpecies>
+  <Order>Passeriformes</Order>
+  <Family>Thraupidae</Family>
+  <Genus>Rhodinocichla</Genus>
+  <Species>rosea</Species>
+  <Sub-species />
+  <VernacularNames>Rosy Thrush-Tanager</VernacularNames>
+</Audio>

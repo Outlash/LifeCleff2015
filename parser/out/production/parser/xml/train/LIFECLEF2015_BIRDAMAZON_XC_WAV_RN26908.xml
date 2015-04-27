@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>26908</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN26908.wav</FileName>
+  <ClassId>rogygm</ClassId>
+  <Date>2012-07-13</Date>
+  <Time>16:34</Time>
+  <Locality>Brasil/RJ/Angra dos Reis/Ilha grande/redes ECOAVES</Locality>
+  <Latitude>-23.1803</Latitude>
+  <Longitude>-44.2017</Longitude>
+  <Elevation>220</Elevation>
+  <Author>Yair G. Molina M.</Author>
+  <AuthorID>UQUOPFIYYQ</AuthorID>
+  <Content>song</Content>
+  <Comments>bird-seen:noplayback-used:no</Comments>
+  <Quality>2</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies>Procnias nudicollis</BackgroundSpecies>
+  <Order>Passeriformes</Order>
+  <Family>Cotingidae</Family>
+  <Genus>Lipaugus</Genus>
+  <Species>lanioides</Species>
+  <Sub-species />
+  <VernacularNames>Cinnamon-vented Piha</VernacularNames>
+</Audio>

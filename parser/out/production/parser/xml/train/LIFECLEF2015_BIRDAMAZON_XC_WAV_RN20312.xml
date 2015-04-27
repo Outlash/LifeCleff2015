@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>20312</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN20312.wav</FileName>
+  <ClassId>cyghvw</ClassId>
+  <Date>2011-04-01</Date>
+  <Time>05:16</Time>
+  <Locality>Gran Sabana, Bolívar</Locality>
+  <Latitude>4.6096</Latitude>
+  <Longitude>-61.3583</Longitude>
+  <Elevation>1000</Elevation>
+  <Author>Anthony Crease</Author>
+  <AuthorID>ENEAFHQVOF</AuthorID>
+  <Content>call</Content>
+  <Comments>Forest interior, single bird calling steadily in distance, ID from Amazonian birds, Disc 1, #15 (call spacing 3.2 s) Evidence of presence. No loud background species.bird-seen:noplayback-used:no</Comments>
+  <Quality>3</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Falconiformes</Order>
+  <Family>Falconidae</Family>
+  <Genus>Micrastur</Genus>
+  <Species>semitorquatus</Species>
+  <Sub-species />
+  <VernacularNames>Collared Forest Falcon</VernacularNames>
+</Audio>

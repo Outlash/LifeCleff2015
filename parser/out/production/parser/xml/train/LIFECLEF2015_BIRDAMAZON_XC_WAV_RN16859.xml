@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>16859</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN16859.wav</FileName>
+  <ClassId>eaahqv</ClassId>
+  <Date>2012-04-22</Date>
+  <Time>08:50</Time>
+  <Locality>Montezuma Peak Road, Pueblo Rico, Risaralda, W Andes - Tatama National Park</Locality>
+  <Latitude>5.2431</Latitude>
+  <Longitude>-76.0964</Longitude>
+  <Elevation>2400</Elevation>
+  <Author>Jeremy Minns</Author>
+  <AuthorID>DGVLLRYDXS</AuthorID>
+  <Content>Song, song</Content>
+  <Comments>Montane forest. Not seen. Tentatively identified by comparison with XC13941 and 56495. P. granadensis was photographed at Finca Montezuma (1375m) two days later. 21/08/2014 Correct ID given by Dušan M. Brinkhuizen.bird-seen:noplayback-used:no</Comments>
+  <Quality>1</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Cotingidae</Family>
+  <Genus>Pipreola</Genus>
+  <Species>riefferii</Species>
+  <Sub-species />
+  <VernacularNames>Green-and-black Fruiteater</VernacularNames>
+</Audio>

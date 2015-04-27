@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>19522</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN19522.wav</FileName>
+  <ClassId>relbkx</ClassId>
+  <Date>2008-01-28</Date>
+  <Time>07:00</Time>
+  <Locality>Hato Pinero, Laguna Grande, Cojedes</Locality>
+  <Latitude>8.967</Latitude>
+  <Longitude>-68.0778</Longitude>
+  <Elevation>80</Elevation>
+  <Author>Daniel Lane</Author>
+  <AuthorID>WOEAFQRMUD</AuthorID>
+  <Content>daytime song</Content>
+  <Comments>Natural vocalizations. Bird unseen, but about 4m up in deciduous tropical forest.</Comments>
+  <Quality>2</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies>Leptotila verreauxi,Columbina squammata,Atalotriccus pilaris,Chiroxiphia lanceolata,Inezia caudata,Ramphocaenus melanurus,Patagioenas cayennensis,Ara macao,Anhima cornuta</BackgroundSpecies>
+  <Order>Passeriformes</Order>
+  <Family>Tyrannidae</Family>
+  <Genus>Tolmomyias</Genus>
+  <Species>sulphurescens</Species>
+  <Sub-species>exortivus</Sub-species>
+  <VernacularNames>Yellow-olive Flatbill</VernacularNames>
+</Audio>

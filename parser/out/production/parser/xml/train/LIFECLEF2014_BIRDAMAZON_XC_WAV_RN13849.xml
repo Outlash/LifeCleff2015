@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>13849</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN13849.wav</FileName>
+  <ClassId>ptfyqz</ClassId>
+  <Date>1999-12-18</Date>
+  <Time>18:32</Time>
+  <Locality>Mocambinho, MG</Locality>
+  <Latitude>-15.1334</Latitude>
+  <Longitude>-44.01</Longitude>
+  <Elevation>550</Elevation>
+  <Author>Jeremy Minns</Author>
+  <AuthorID>DGVLLRYDXS</AuthorID>
+  <Content>Song</Content>
+  <Comments>Caatinga.</Comments>
+  <Quality>1</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies>Columbina talpacoti,Patagioenas picazuro,Agelaioides badius</BackgroundSpecies>
+  <Order>Tinamiformes</Order>
+  <Family>Tinamidae</Family>
+  <Genus>Crypturellus</Genus>
+  <Species>undulatus</Species>
+  <Sub-species>vermiculatus</Sub-species>
+  <VernacularNames>Undulated Tinamou</VernacularNames>
+</Audio>

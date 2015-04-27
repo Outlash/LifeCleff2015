@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>9034</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN9034.wav</FileName>
+  <ClassId>ietadq</ClassId>
+  <Date>2001-11-16</Date>
+  <Time>08:14</Time>
+  <Locality>Chapada do Araripe (Ceara)</Locality>
+  <Latitude>-7.3334</Latitude>
+  <Longitude>-39.3001</Longitude>
+  <Elevation>900</Elevation>
+  <Author>Jeremy Minns</Author>
+  <AuthorID>DGVLLRYDXS</AuthorID>
+  <Content>Call</Content>
+  <Comments>Araripe National Forest. Dry forest. This is Call B in our DVD-ROM 'Birds of Brazil'.</Comments>
+  <Quality>2</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies>Thamnophilus pelzelni,Polioptila plumbea</BackgroundSpecies>
+  <Order>Passeriformes</Order>
+  <Family>Vireonidae</Family>
+  <Genus>Hylophilus</Genus>
+  <Species>amaurocephalus</Species>
+  <Sub-species />
+  <VernacularNames>Grey-eyed Greenlet</VernacularNames>
+</Audio>

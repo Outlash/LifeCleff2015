@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>32425</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN32425.wav</FileName>
+  <ClassId>uhwmky</ClassId>
+  <Date>2014-09-11</Date>
+  <Time>15:30</Time>
+  <Locality>Libano, Tolima</Locality>
+  <Latitude>4.9215</Latitude>
+  <Longitude>-75.0753</Longitude>
+  <Elevation>1600</Elevation>
+  <Author>Jeisson Poveda</Author>
+  <AuthorID>CVJNYXJFAW</AuthorID>
+  <Content>song</Content>
+  <Comments>Two individuals, dissipating heat in a Colombian forest relict pine. 1650 masl, Central Andes, Colombia.Dos individuos, disipando calor en un relicto de bosque de pino colombiano. 1650 msnm, Andes Centrales, Colombia.bird-seen:noplayback-used:no</Comments>
+  <Quality>1</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Tyrannidae</Family>
+  <Genus>Lophotriccus</Genus>
+  <Species>pileatus</Species>
+  <Sub-species />
+  <VernacularNames>Scale-crested Pygmy Tyrant</VernacularNames>
+</Audio>

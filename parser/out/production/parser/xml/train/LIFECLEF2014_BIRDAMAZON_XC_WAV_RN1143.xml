@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>1143</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN1143.wav</FileName>
+  <ClassId>iyshfg</ClassId>
+  <Date>2012-10-05</Date>
+  <Time>09:00</Time>
+  <Locality>Palmeirante - Tocantins State</Locality>
+  <Latitude>-7.786</Latitude>
+  <Longitude>-47.804</Longitude>
+  <Elevation>200</Elevation>
+  <Author>Eduardo D. Schultz</Author>
+  <AuthorID>QYOZQITVAC</AuthorID>
+  <Content>song</Content>
+  <Comments>bird-seen:yesplayback-used:no</Comments>
+  <Quality>2</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Pipridae</Family>
+  <Genus>Tyranneutes</Genus>
+  <Species>stolzmanni</Species>
+  <Sub-species />
+  <VernacularNames>Dwarf Tyrant-Manakin</VernacularNames>
+</Audio>

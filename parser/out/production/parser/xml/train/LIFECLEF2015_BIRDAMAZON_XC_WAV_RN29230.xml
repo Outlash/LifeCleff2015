@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>29230</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN29230.wav</FileName>
+  <ClassId>rxywkl</ClassId>
+  <Date>2010-03-22</Date>
+  <Time>07:33</Time>
+  <Locality>Abary Creek, 65km SE Georgetown, Guyana</Locality>
+  <Latitude>6.5501</Latitude>
+  <Longitude>-57.7501</Longitude>
+  <Elevation>0</Elevation>
+  <Author>Charlie Vogt</Author>
+  <AuthorID>NYTXYAQSTH</AuthorID>
+  <Content>song</Content>
+  <Comments>natural vocalization</Comments>
+  <Quality>3</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies>Hylophilus thoracicus</BackgroundSpecies>
+  <Order>Passeriformes</Order>
+  <Family>Tyrannidae</Family>
+  <Genus>Phaeomyias</Genus>
+  <Species>murina</Species>
+  <Sub-species />
+  <VernacularNames>Mouse-colored Tyrannulet</VernacularNames>
+</Audio>

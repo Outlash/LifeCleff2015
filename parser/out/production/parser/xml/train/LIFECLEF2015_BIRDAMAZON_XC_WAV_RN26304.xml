@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>26304</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN26304.wav</FileName>
+  <ClassId>nhfrir</ClassId>
+  <Date>2008-02-07</Date>
+  <Time>11:45</Time>
+  <Locality>Finca Costa Rica, Amalfi, Antioquia</Locality>
+  <Latitude>NULL</Latitude>
+  <Longitude>NULL</Longitude>
+  <Elevation>1800</Elevation>
+  <Author>Herman van Oosten</Author>
+  <AuthorID>SNUDCZVUQK</AuthorID>
+  <Content>song</Content>
+  <Comments>Lovely birds.</Comments>
+  <Quality>0</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Thraupidae</Family>
+  <Genus>Tiaris</Genus>
+  <Species>olivaceus</Species>
+  <Sub-species />
+  <VernacularNames>Yellow-faced Grassquit</VernacularNames>
+</Audio>

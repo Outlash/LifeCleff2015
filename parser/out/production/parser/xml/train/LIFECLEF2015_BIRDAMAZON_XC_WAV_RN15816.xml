@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>15816</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN15816.wav</FileName>
+  <ClassId>iydjte</ClassId>
+  <Date>2009-06-16</Date>
+  <Time>07:00</Time>
+  <Locality>Las Picotas, vereda Angosturas, California, Santander</Locality>
+  <Latitude>7.3862</Latitude>
+  <Longitude>-72.8801</Longitude>
+  <Elevation>3500</Elevation>
+  <Author>Jorge Enrique Avendaño</Author>
+  <AuthorID>KYUFWYBYJY</AuthorID>
+  <Content>call</Content>
+  <Comments>Paramo matorral. Different individual from  XC115785. Apparently a female calling from its nest.bird-seen:yesplayback-used:no</Comments>
+  <Quality>2</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Furnariidae</Family>
+  <Genus>Asthenes</Genus>
+  <Species>fuliginosa</Species>
+  <Sub-species />
+  <VernacularNames>White-chinned Thistletail</VernacularNames>
+</Audio>

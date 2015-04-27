@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>32214</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN32214.wav</FileName>
+  <ClassId>pprfie</ClassId>
+  <Date>2013-12-01</Date>
+  <Time>10:00</Time>
+  <Locality>Rio Bonito de Cima - Nova Friburgo - RJ</Locality>
+  <Latitude>-22.3917</Latitude>
+  <Longitude>-42.3751</Longitude>
+  <Elevation>850</Elevation>
+  <Author>Ricardo José Mitidieri</Author>
+  <AuthorID>CFRYARSVHN</AuthorID>
+  <Content>song</Content>
+  <Comments>bird-seen:yesplayback-used:no</Comments>
+  <Quality>0</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies>Procnias nudicollis</BackgroundSpecies>
+  <Order>Passeriformes</Order>
+  <Family>Vireonidae</Family>
+  <Genus>Cyclarhis</Genus>
+  <Species>gujanensis</Species>
+  <Sub-species>ochrocephala</Sub-species>
+  <VernacularNames>Rufous-browed Peppershrike</VernacularNames>
+</Audio>

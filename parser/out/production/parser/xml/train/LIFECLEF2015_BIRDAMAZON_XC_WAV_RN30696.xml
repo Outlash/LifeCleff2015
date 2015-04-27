@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>30696</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN30696.wav</FileName>
+  <ClassId>flxqxu</ClassId>
+  <Date>2005-07-00</Date>
+  <Time>xx:xx</Time>
+  <Locality>Filo Pamplona, Serrania de los Yariguies, Galan, Santander, 06º38’N</Locality>
+  <Latitude>6.6384</Latitude>
+  <Longitude>-73.4089</Longitude>
+  <Elevation>3100</Elevation>
+  <Author>Thomas Donegan</Author>
+  <AuthorID>OXSIOLJJUP</AuthorID>
+  <Content>call</Content>
+  <Comments />
+  <Quality>1</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Thraupidae</Family>
+  <Genus>Buthraupis</Genus>
+  <Species>montana</Species>
+  <Sub-species />
+  <VernacularNames>Hooded Mountain Tanager</VernacularNames>
+</Audio>

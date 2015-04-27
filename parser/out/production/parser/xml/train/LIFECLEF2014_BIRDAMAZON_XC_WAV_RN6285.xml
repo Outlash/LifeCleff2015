@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>6285</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN6285.wav</FileName>
+  <ClassId>nozplb</ClassId>
+  <Date>2000-01-13</Date>
+  <Time>10:33</Time>
+  <Locality>Bonito, MS. Serra da Bodoquena</Locality>
+  <Latitude>-21.0834</Latitude>
+  <Longitude>-56.8667</Longitude>
+  <Elevation>315</Elevation>
+  <Author>Jeremy Minns</Author>
+  <AuthorID>DGVLLRYDXS</AuthorID>
+  <Content>Song</Content>
+  <Comments>Marsh, west of Ba’a das Garas. Single bird.</Comments>
+  <Quality>2</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies>Oryzoborus angolensis,Gnorimopsar chopi</BackgroundSpecies>
+  <Order>Passeriformes</Order>
+  <Family>Thraupidae</Family>
+  <Genus>Sporophila</Genus>
+  <Species>lineola</Species>
+  <Sub-species />
+  <VernacularNames>Lined Seedeater</VernacularNames>
+</Audio>

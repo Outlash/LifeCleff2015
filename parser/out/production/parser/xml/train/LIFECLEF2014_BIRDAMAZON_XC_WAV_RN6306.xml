@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>6306</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN6306.wav</FileName>
+  <ClassId>wmvjdr</ClassId>
+  <Date>2012-09-15</Date>
+  <Time>09:23</Time>
+  <Locality>Sitio água da rainha , São Francisco de Paula, RS</Locality>
+  <Latitude>-29.4934</Latitude>
+  <Longitude>-50.5728</Longitude>
+  <Elevation>800</Elevation>
+  <Author>Gilberto Sander Muller</Author>
+  <AuthorID>YXIUXLVTAI</AuthorID>
+  <Content>call</Content>
+  <Comments />
+  <Quality>2</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Grallariidae</Family>
+  <Genus>Hylopezus</Genus>
+  <Species>nattereri</Species>
+  <Sub-species />
+  <VernacularNames>Speckle-breasted Antpitta</VernacularNames>
+</Audio>

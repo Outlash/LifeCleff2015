@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>3188</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN3188.wav</FileName>
+  <ClassId>rstljd</ClassId>
+  <Date>2004-08-15</Date>
+  <Time>06:11</Time>
+  <Locality>Borba, Amazonas</Locality>
+  <Latitude>-4.3881</Latitude>
+  <Longitude>-59.5934</Longitude>
+  <Elevation>30</Elevation>
+  <Author>Jeremy Minns</Author>
+  <AuthorID>DGVLLRYDXS</AuthorID>
+  <Content>Call</Content>
+  <Comments>Secondary scrub on edge of terra firme forest. Not seen. ID not 100% certain.</Comments>
+  <Quality>1</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies>Cercomacra nigrescens,Myrmoborus myotherinus</BackgroundSpecies>
+  <Order>Passeriformes</Order>
+  <Family>Tyrannidae</Family>
+  <Genus>Hemitriccus</Genus>
+  <Species>minor</Species>
+  <Sub-species>snethlageae</Sub-species>
+  <VernacularNames>Snethlage's Tody-Tyrant</VernacularNames>
+</Audio>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>14703</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN14703.wav</FileName>
+  <ClassId>ofurok</ClassId>
+  <Date>2009-10-05</Date>
+  <Time>17:20</Time>
+  <Locality>Cristalino Jungle Lodge, MT</Locality>
+  <Latitude>-9.5981</Latitude>
+  <Longitude>-55.932</Longitude>
+  <Elevation>250</Elevation>
+  <Author>Andrew Spencer</Author>
+  <AuthorID>CDTGHVBGZP</AuthorID>
+  <Content>song</Content>
+  <Comments />
+  <Quality>1</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Furnariidae</Family>
+  <Genus>Sclerurus</Genus>
+  <Species>caudacutus</Species>
+  <Sub-species>pallidus</Sub-species>
+  <VernacularNames>Black-tailed Leaftosser</VernacularNames>
+</Audio>

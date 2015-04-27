@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>32780</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN32780.wav</FileName>
+  <ClassId>oamyzj</ClassId>
+  <Date>2014-01-16</Date>
+  <Time>09:00</Time>
+  <Locality>Boa Nova, BA - dry forest</Locality>
+  <Latitude>-14.3834</Latitude>
+  <Longitude>-40.2001</Longitude>
+  <Elevation>650</Elevation>
+  <Author>Niels Poul Dreyer</Author>
+  <AuthorID>YIQSVPAMDQ</AuthorID>
+  <Content>song</Content>
+  <Comments>bird-seen:yesplayback-used:yes</Comments>
+  <Quality>0</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Thamnophilidae</Family>
+  <Genus>Rhopornis</Genus>
+  <Species>ardesiacus</Species>
+  <Sub-species />
+  <VernacularNames>Slender Antbird</VernacularNames>
+</Audio>

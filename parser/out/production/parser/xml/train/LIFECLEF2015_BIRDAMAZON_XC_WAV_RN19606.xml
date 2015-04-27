@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>19606</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN19606.wav</FileName>
+  <ClassId>tccdzp</ClassId>
+  <Date>2014-11-01</Date>
+  <Time>10:07</Time>
+  <Locality>Rio Branco, Rio Branco, Acre</Locality>
+  <Latitude>-9.9491</Latitude>
+  <Longitude>-67.8809</Longitude>
+  <Elevation>160</Elevation>
+  <Author>Edson Guilherme</Author>
+  <AuthorID>FZTTBRELVC</AuthorID>
+  <Content>call</Content>
+  <Comments>Parque Zoobotânico belongs to the Federal University of Acrebird-seen:yes</Comments>
+  <Quality>0</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Thamnophilidae</Family>
+  <Genus>Phlegopsis</Genus>
+  <Species>nigromaculata</Species>
+  <Sub-species />
+  <VernacularNames>Black-spotted Bare-eye</VernacularNames>
+</Audio>

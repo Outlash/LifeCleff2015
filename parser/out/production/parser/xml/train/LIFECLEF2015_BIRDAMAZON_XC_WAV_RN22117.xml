@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>22117</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN22117.wav</FileName>
+  <ClassId>ffvgyk</ClassId>
+  <Date>2014-01-24</Date>
+  <Time>09:00</Time>
+  <Locality>San Lorenzo Ridge, Santa Marta Mountains</Locality>
+  <Latitude>11.1092</Latitude>
+  <Longitude>-74.0456</Longitude>
+  <Elevation>2600</Elevation>
+  <Author>Andrew Spencer</Author>
+  <AuthorID>CDTGHVBGZP</AuthorID>
+  <Content>song</Content>
+  <Comments>response to playback from the same pair as in XC165606.bird-seen:yesplayback-used:yes</Comments>
+  <Quality>1</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Troglodytidae</Family>
+  <Genus>Henicorhina</Genus>
+  <Species>leucophrys</Species>
+  <Sub-species>anachoreta</Sub-species>
+  <VernacularNames>Grey-breasted Wood Wren</VernacularNames>
+</Audio>

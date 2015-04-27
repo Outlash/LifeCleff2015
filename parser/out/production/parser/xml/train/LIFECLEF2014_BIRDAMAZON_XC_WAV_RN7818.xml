@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>7818</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN7818.wav</FileName>
+  <ClassId>qifkfu</ClassId>
+  <Date>2002-12-02</Date>
+  <Time>07:58</Time>
+  <Locality>Estrada da Graciosa, Paraná state</Locality>
+  <Latitude>-25.3334</Latitude>
+  <Longitude>-48.9001</Longitude>
+  <Elevation>875</Elevation>
+  <Author>Jeremy Minns</Author>
+  <AuthorID>DGVLLRYDXS</AuthorID>
+  <Content>Song</Content>
+  <Comments>Montane forest. First part natural, second after playback</Comments>
+  <Quality>1</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies>Phaethornis eurynome,Batara cinerea,Carpornis cucullata,Procnias nudicollis,Turdus albicollis,Myiothlypis leucoblephara</BackgroundSpecies>
+  <Order>Passeriformes</Order>
+  <Family>Furnariidae</Family>
+  <Genus>Cranioleuca</Genus>
+  <Species>obsoleta</Species>
+  <Sub-species />
+  <VernacularNames>Olive Spinetail</VernacularNames>
+</Audio>

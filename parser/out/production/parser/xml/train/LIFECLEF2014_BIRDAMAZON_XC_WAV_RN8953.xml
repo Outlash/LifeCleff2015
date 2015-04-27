@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>8953</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN8953.wav</FileName>
+  <ClassId>aiigbg</ClassId>
+  <Date>2006-11-13</Date>
+  <Time>13:15</Time>
+  <Locality>Hotel Simone, Itatiaia NP,  Rio de Janeiro state</Locality>
+  <Latitude>-22.438</Latitude>
+  <Longitude>-44.607</Longitude>
+  <Elevation>1050</Elevation>
+  <Author>Daniel Lane</Author>
+  <AuthorID>WOEAFQRMUD</AuthorID>
+  <Content>song</Content>
+  <Comments>Natural song from a bird about 8-10m up in tall montane forest on slope with heavy bamboo understory.</Comments>
+  <Quality>1</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies>Contopus cinereus</BackgroundSpecies>
+  <Order>Passeriformes</Order>
+  <Family>Furnariidae</Family>
+  <Genus>Sittasomus</Genus>
+  <Species>griseicapillus</Species>
+  <Sub-species>sylviellus</Sub-species>
+  <VernacularNames>Olivaceous Woodcreeper</VernacularNames>
+</Audio>

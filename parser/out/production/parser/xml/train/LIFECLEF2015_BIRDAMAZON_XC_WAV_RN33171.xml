@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>33171</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN33171.wav</FileName>
+  <ClassId>wdgsdk</ClassId>
+  <Date>2009-04-09</Date>
+  <Time>?:?</Time>
+  <Locality>Presidente Figueredo</Locality>
+  <Latitude>NULL</Latitude>
+  <Longitude>NULL</Longitude>
+  <Elevation>?</Elevation>
+  <Author>Joseph Tobias and Nathalie Seddon</Author>
+  <AuthorID>IKMWQIXRNV</AuthorID>
+  <Content>song</Content>
+  <Comments>track T1977.</Comments>
+  <Quality>2</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Furnariidae</Family>
+  <Genus>Xiphorhynchus</Genus>
+  <Species>pardalotus</Species>
+  <Sub-species />
+  <VernacularNames>Chestnut-rumped Woodcreeper</VernacularNames>
+</Audio>
