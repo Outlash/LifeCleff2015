@@ -39,6 +39,10 @@ public class Example implements Serializable
     /** Accessor for the classLabel
      * @return classLabel
      **/
+
+    public double[] getAttributes() {
+        return attributes;
+    }
     public int getClassLabel()
     {
         return classLabel;

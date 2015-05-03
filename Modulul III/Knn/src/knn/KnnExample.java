@@ -26,7 +26,7 @@ public class KnnExample extends Example
      */
     public KnnExample(Example example, int id)
     {
-        super();
+        super(example.getClassLabel(), example.getAttributes());
         this.id = id;
         this.weight = 1;  // by default each weight is set to 1
     }
@@ -48,7 +48,7 @@ public class KnnExample extends Example
     public void setRelativeDist(Example example)
     {
         double sum=0;
-        for (int i=0; i < attributes.length; i++)
+        for (int i=0; i < example.getAttributes().length; i++)
         {
             sum = sum + featureWeights[i] * (Math.pow(getAttribute(i) - example.getAttribute(i), 2));
         }

@@ -410,17 +410,17 @@ public class Knn
      **/
     public static void main(String[] args)
     {
-        if (args.length!=4)
+        if (args.length!=0)
         {
             System.out.println("Wrong usage. Type java kNN [data file] [training set size] [mode] [param]");
         }
         else
         {
             // Read in argument
-            DataSet dataFile = new DataSet(args[0]);
-            int trainSetSize = Integer.parseInt(args[1]);
-            int mode = Integer.parseInt(args[2]);
-            int lastParam = Integer.parseInt(args[3]);
+            DataSet dataFile = new DataSet("D:\\UAIC-ComputerScience\\UAIC\\AnII-Sem2\\Ip\\LifeCleff2015\\Modulul III\\Knn\\src\\project.test");
+            int trainSetSize = Integer.parseInt("5000");
+            int mode = Integer.parseInt("0");
+            int lastParam = Integer.parseInt("1");
 
             // Feature selection
             int  numFeatures=58;
