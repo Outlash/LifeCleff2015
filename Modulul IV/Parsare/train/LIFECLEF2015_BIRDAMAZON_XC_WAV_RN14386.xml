@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>14386</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN14386.wav</FileName>
+  <ClassId>wnszlf</ClassId>
+  <Date>2013-03-25</Date>
+  <Time>15:30</Time>
+  <Locality>Parque Natural Tatama</Locality>
+  <Latitude>5.113</Latitude>
+  <Longitude>-76.165</Longitude>
+  <Elevation>1500</Elevation>
+  <Author>Oswaldo Cortes</Author>
+  <AuthorID>VVDRVZCVWW</AuthorID>
+  <Content>call</Content>
+  <Comments>bird-seen:yesplayback-used:no</Comments>
+  <Quality>3</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies>Thripadectes holostictus</BackgroundSpecies>
+  <Order>Piciformes</Order>
+  <Family>Picidae</Family>
+  <Genus>Colaptes</Genus>
+  <Species>rubiginosus</Species>
+  <Sub-species />
+  <VernacularNames>Golden-olive Woodpecker</VernacularNames>
+</Audio>

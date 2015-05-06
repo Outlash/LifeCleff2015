@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>5384</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN5384.wav</FileName>
+  <ClassId>kipzod</ClassId>
+  <Date>2002-10-31</Date>
+  <Time>05:54</Time>
+  <Locality>Parque Nacional Serra da Canastra, São Roque de Minas, MG</Locality>
+  <Latitude>-20.24528</Latitude>
+  <Longitude>-46.36583</Longitude>
+  <Elevation>1350</Elevation>
+  <Author>Jeremy Minns</Author>
+  <AuthorID>DGVLLRYDXS</AuthorID>
+  <Content>Song</Content>
+  <Comments>Upland Grassland near source of Rio S‹o Francisco. Male singing perched on grass stem. About 10 mins after playback. This is Song A in our DVD-ROM 'Birds of Brazil'.</Comments>
+  <Quality>2</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies>Rhynchotus rufescens,Sicalis citrina</BackgroundSpecies>
+  <Order>Passeriformes</Order>
+  <Family>Thraupidae</Family>
+  <Genus>Coryphaspiza</Genus>
+  <Species>melanotis</Species>
+  <Sub-species>melanotis</Sub-species>
+  <VernacularNames>Black-masked Finch</VernacularNames>
+</Audio>

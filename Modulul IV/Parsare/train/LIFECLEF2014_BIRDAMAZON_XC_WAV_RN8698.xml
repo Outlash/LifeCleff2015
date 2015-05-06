@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>8698</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN8698.wav</FileName>
+  <ClassId>qflnvv</ClassId>
+  <Date>2002-02-01</Date>
+  <Time>08:45:00</Time>
+  <Locality>Serra dos Carajás. Águas Claras</Locality>
+  <Latitude>-6.1657</Latitude>
+  <Longitude>-50.3445</Longitude>
+  <Elevation>390</Elevation>
+  <Author>Jeremy Minns</Author>
+  <AuthorID>DGVLLRYDXS</AuthorID>
+  <Content>call</Content>
+  <Comments>Terra firme forest. Calls by bird in emergent c.100m away. Mate's head was sticking out of a hole in the same tree.</Comments>
+  <Quality>0</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies />
+  <Order>Psittaciformes</Order>
+  <Family>Psittacidae</Family>
+  <Genus>Ara</Genus>
+  <Species>chloropterus</Species>
+  <Sub-species />
+  <VernacularNames>Red-and-green Macaw</VernacularNames>
+</Audio>

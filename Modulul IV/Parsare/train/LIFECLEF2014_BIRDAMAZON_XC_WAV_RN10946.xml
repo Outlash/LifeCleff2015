@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>10946</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN10946.wav</FileName>
+  <ClassId>tovyzm</ClassId>
+  <Date>2008-05-01</Date>
+  <Time>07:00</Time>
+  <Locality>Sítio do Cervo, Miracatú-SP</Locality>
+  <Latitude>-24.38333</Latitude>
+  <Longitude>-47.7</Longitude>
+  <Elevation>50</Elevation>
+  <Author>Tim Hirsch</Author>
+  <AuthorID>BMVCNRFNOY</AuthorID>
+  <Content>?</Content>
+  <Comments>In canopy</Comments>
+  <Quality>1</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies />
+  <Order>Accipitriformes</Order>
+  <Family>Accipitridae</Family>
+  <Genus>Spizaetus</Genus>
+  <Species>tyrannus</Species>
+  <Sub-species />
+  <VernacularNames>Black Hawk-Eagle</VernacularNames>
+</Audio>

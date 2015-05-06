@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>20267</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN20267.wav</FileName>
+  <ClassId>mlluku</ClassId>
+  <Date>2002-02-08</Date>
+  <Time>12:00</Time>
+  <Locality>Southwest Bahia</Locality>
+  <Latitude>NULL</Latitude>
+  <Longitude>NULL</Longitude>
+  <Elevation>?</Elevation>
+  <Author>Dave Beadle</Author>
+  <AuthorID>ETVSBTKLBC</AuthorID>
+  <Content>song</Content>
+  <Comments />
+  <Quality>1</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Grallariidae</Family>
+  <Genus>Hylopezus</Genus>
+  <Species>ochroleucus</Species>
+  <Sub-species />
+  <VernacularNames>White-browed Antpitta</VernacularNames>
+</Audio>

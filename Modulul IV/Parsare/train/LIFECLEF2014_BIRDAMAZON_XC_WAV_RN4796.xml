@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>4796</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN4796.wav</FileName>
+  <ClassId>gekxwa</ClassId>
+  <Date>2003-08-24</Date>
+  <Time>16:40</Time>
+  <Locality>Praia do Gamela, Sirinhaém, Pernambuco</Locality>
+  <Latitude>-8.6114</Latitude>
+  <Longitude>-35.0392</Longitude>
+  <Elevation>0</Elevation>
+  <Author>Mauricio Cabral Periquito</Author>
+  <AuthorID>HERKCTHDZI</AuthorID>
+  <Content>song</Content>
+  <Comments>Answer to play-back with the bird flying around me</Comments>
+  <Quality>4</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Tyrannidae</Family>
+  <Genus>Myiarchus</Genus>
+  <Species>ferox</Species>
+  <Sub-species />
+  <VernacularNames>Short-crested Flycatcher</VernacularNames>
+</Audio>

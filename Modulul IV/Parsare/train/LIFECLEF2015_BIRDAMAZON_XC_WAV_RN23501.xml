@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>23501</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN23501.wav</FileName>
+  <ClassId>szldxi</ClassId>
+  <Date>2013-11-17</Date>
+  <Time>09:30</Time>
+  <Locality>Nova Veneza, Santa Catarina</Locality>
+  <Latitude>-28.6441</Latitude>
+  <Longitude>-49.6682</Longitude>
+  <Elevation>350</Elevation>
+  <Author>João Gava</Author>
+  <AuthorID>CEKMJEZKSJ</AuthorID>
+  <Content>call</Content>
+  <Comments>Reserva Biológica Estadual do Aguaí, mata ripária em regeneração / Aguaí Biological Reserve, riverine forest in regeneration. bird-seen:yesplayback-used:yes</Comments>
+  <Quality>2</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies>Turdus flavipes</BackgroundSpecies>
+  <Order>Passeriformes</Order>
+  <Family>Tyrannidae</Family>
+  <Genus>Elaenia</Genus>
+  <Species>mesoleuca</Species>
+  <Sub-species />
+  <VernacularNames>Olivaceous Elaenia</VernacularNames>
+</Audio>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>27909</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN27909.wav</FileName>
+  <ClassId>omjzdy</ClassId>
+  <Date>2005-07-00</Date>
+  <Time>xx:xx</Time>
+  <Locality>La Aurora, Serrania de los Yariguies, Galan, Santander, Colombia</Locality>
+  <Latitude>6.6389</Latitude>
+  <Longitude>-73.3892</Longitude>
+  <Elevation>2750</Elevation>
+  <Author>Thomas Donegan</Author>
+  <AuthorID>OXSIOLJJUP</AuthorID>
+  <Content>Song</Content>
+  <Comments />
+  <Quality>4</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies>Henicorhina leucophrys</BackgroundSpecies>
+  <Order>Passeriformes</Order>
+  <Family>Formicariidae</Family>
+  <Genus>Chamaeza</Genus>
+  <Species>turdina</Species>
+  <Sub-species>undescribed</Sub-species>
+  <VernacularNames>Schwartz's Antthrush</VernacularNames>
+</Audio>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>26401</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN26401.wav</FileName>
+  <ClassId>gkeewf</ClassId>
+  <Date>2005-08-20</Date>
+  <Time>?</Time>
+  <Locality>Huila, San Agustín, Reserva Los Yalcones, Cerca a la casa de la Reserva</Locality>
+  <Latitude>1.81</Latitude>
+  <Longitude>-76.34972</Longitude>
+  <Elevation>2330</Elevation>
+  <Author>Diego Calderón (Colección de Sonidos Ambientales - Instituto Humboldt)</Author>
+  <AuthorID>XMFDPACYJN</AuthorID>
+  <Content>call</Content>
+  <Comments>BSA 16645To obtain a wav file of the original recording, please contact csa@humboldt.org.cobird-seen:noplayback-used:no</Comments>
+  <Quality>1</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Apodiformes</Order>
+  <Family>Trochilidae</Family>
+  <Genus>Adelomyia</Genus>
+  <Species>melanogenys</Species>
+  <Sub-species />
+  <VernacularNames>Speckled Hummingbird</VernacularNames>
+</Audio>

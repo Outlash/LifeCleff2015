@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>20585</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN20585.wav</FileName>
+  <ClassId>cwxlrq</ClassId>
+  <Date>2014-04-12</Date>
+  <Time>08:30</Time>
+  <Locality>Barra do Ouro, Maquiné, Rio Grande do Sul</Locality>
+  <Latitude>-29.5625</Latitude>
+  <Longitude>-50.2867</Longitude>
+  <Elevation>300</Elevation>
+  <Author>João Gava</Author>
+  <AuthorID>CEKMJEZKSJ</AuthorID>
+  <Content>song</Content>
+  <Comments>About 50 individuals counted in a stretch of 3 km due massive fructification of bamboos (cf. Chusquea sp.).bird-seen:yesplayback-used:no</Comments>
+  <Quality>2</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Thraupidae</Family>
+  <Genus>Haplospiza</Genus>
+  <Species>unicolor</Species>
+  <Sub-species />
+  <VernacularNames>Uniform Finch</VernacularNames>
+</Audio>

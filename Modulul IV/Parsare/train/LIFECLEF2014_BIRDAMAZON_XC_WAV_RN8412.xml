@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>8412</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN8412.wav</FileName>
+  <ClassId>ewytof</ClassId>
+  <Date>0000-00-00</Date>
+  <Time>?</Time>
+  <Locality>PE Juquery - Franco da Rocha, SP</Locality>
+  <Latitude>NULL</Latitude>
+  <Longitude>NULL</Longitude>
+  <Elevation>760</Elevation>
+  <Author>Luiz Fernando Figueiredo</Author>
+  <AuthorID>EYYKGDWADQ</AuthorID>
+  <Content>call</Content>
+  <Comments />
+  <Quality>2</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Thamnophilidae</Family>
+  <Genus>Mackenziaena</Genus>
+  <Species>severa</Species>
+  <Sub-species />
+  <VernacularNames>Tufted Antshrike</VernacularNames>
+</Audio>

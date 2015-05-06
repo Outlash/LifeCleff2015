@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>13232</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN13232.wav</FileName>
+  <ClassId>kwpuds</ClassId>
+  <Date>2012-02-06</Date>
+  <Time>08:30</Time>
+  <Locality>Parauapebas, Para</Locality>
+  <Latitude>-5.9712</Latitude>
+  <Longitude>-50.235</Longitude>
+  <Elevation>280</Elevation>
+  <Author>GABRIEL LEITE</Author>
+  <AuthorID>TGBFXDVERJ</AuthorID>
+  <Content>call, male</Content>
+  <Comments>bird-seen:yesplayback-used:no</Comments>
+  <Quality>1</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies />
+  <Order>Piciformes</Order>
+  <Family>Galbulidae</Family>
+  <Genus>Galbula</Genus>
+  <Species>cyanicollis</Species>
+  <Sub-species />
+  <VernacularNames>Blue-necked Jacamar</VernacularNames>
+</Audio>

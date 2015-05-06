@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>16219</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN16219.wav</FileName>
+  <ClassId>wgtqmw</ClassId>
+  <Date>2010-12-09</Date>
+  <Time>07:30</Time>
+  <Locality>Estrada Perdida, Parque Nacional do Viruá, Caracaraí, Roraima</Locality>
+  <Latitude>1.4022</Latitude>
+  <Longitude>-60.9869</Longitude>
+  <Elevation>50</Elevation>
+  <Author>Thiago Orsi Laranjeiras</Author>
+  <AuthorID>PMYLTPLTLT</AuthorID>
+  <Content>call</Content>
+  <Comments>Dois indivíduos explorando borda de mata a baixa altura (menos de 6 metros), na beira da estrada.bird-seen:yesplayback-used:no</Comments>
+  <Quality>2</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Thamnophilidae</Family>
+  <Genus>Herpsilochmus</Genus>
+  <Species>dorsimaculatus</Species>
+  <Sub-species />
+  <VernacularNames>Spot-backed Antwren</VernacularNames>
+</Audio>

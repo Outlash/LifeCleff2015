@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>10058</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN10058.wav</FileName>
+  <ClassId>relbkx</ClassId>
+  <Date>2013-05-07</Date>
+  <Time>10:00</Time>
+  <Locality>Borebi, São Paulo</Locality>
+  <Latitude>-22.6736</Latitude>
+  <Longitude>-48.9592</Longitude>
+  <Elevation>700</Elevation>
+  <Author>Paulo Affonso Fonseca Pires Neto</Author>
+  <AuthorID>QOMWCAGQJX</AuthorID>
+  <Content>call</Content>
+  <Comments>bird-seen:yesplayback-used:no</Comments>
+  <Quality>1</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Tyrannidae</Family>
+  <Genus>Tolmomyias</Genus>
+  <Species>sulphurescens</Species>
+  <Sub-species />
+  <VernacularNames>Yellow-olive Flatbill</VernacularNames>
+</Audio>

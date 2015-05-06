@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>6641</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN6641.wav</FileName>
+  <ClassId>vyxqzu</ClassId>
+  <Date>2008-06-08</Date>
+  <Time>15:10</Time>
+  <Locality>Posse dos Coqueiros - Areal - RJ</Locality>
+  <Latitude>-22.2501</Latitude>
+  <Longitude>-43.2501</Longitude>
+  <Elevation>480</Elevation>
+  <Author>Ricardo Gagliardi</Author>
+  <AuthorID>YRDADNREOP</AuthorID>
+  <Content>call, song</Content>
+  <Comments>This record represent the southest occurrence area for that species.</Comments>
+  <Quality>1</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Thamnophilidae</Family>
+  <Genus>Formicivora</Genus>
+  <Species>serrana</Species>
+  <Sub-species>interposita</Sub-species>
+  <VernacularNames>Serra Antwren</VernacularNames>
+</Audio>

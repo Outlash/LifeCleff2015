@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>11445</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN11445.wav</FileName>
+  <ClassId>izpyuo</ClassId>
+  <Date>2012-09-03</Date>
+  <Time>11am</Time>
+  <Locality>Botanic Garden of São Paulo, São Paulo State,Brazil</Locality>
+  <Latitude>-23.639</Latitude>
+  <Longitude>-46.619</Longitude>
+  <Elevation>700</Elevation>
+  <Author>Antonio Silveira</Author>
+  <AuthorID>NBJQSQJRYH</AuthorID>
+  <Content>song</Content>
+  <Comments />
+  <Quality>2</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Thraupidae</Family>
+  <Genus>Thraupis</Genus>
+  <Species>ornata</Species>
+  <Sub-species />
+  <VernacularNames>Golden-chevroned Tanager</VernacularNames>
+</Audio>

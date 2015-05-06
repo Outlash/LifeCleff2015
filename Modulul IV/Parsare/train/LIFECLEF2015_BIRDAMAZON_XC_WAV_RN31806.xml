@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>31806</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN31806.wav</FileName>
+  <ClassId>jfkqxa</ClassId>
+  <Date>2014-09-13</Date>
+  <Time>07:56</Time>
+  <Locality>Londrina State University (near  Londrina), Londrina, Parana</Locality>
+  <Latitude>-23.3254</Latitude>
+  <Longitude>-51.1996</Longitude>
+  <Elevation>600</Elevation>
+  <Author>Gabriel Rosa</Author>
+  <AuthorID>GXMOPUMWMA</AuthorID>
+  <Content>drumming</Content>
+  <Comments>original: GMR_20140913_075659bird-seen:yesplayback-used:no</Comments>
+  <Quality>1</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Piciformes</Order>
+  <Family>Picidae</Family>
+  <Genus>Dryocopus</Genus>
+  <Species>lineatus</Species>
+  <Sub-species />
+  <VernacularNames>Lineated Woodpecker</VernacularNames>
+</Audio>

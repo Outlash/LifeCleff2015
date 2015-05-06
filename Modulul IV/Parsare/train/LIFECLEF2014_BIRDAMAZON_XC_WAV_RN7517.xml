@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>7517</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN7517.wav</FileName>
+  <ClassId>rseeil</ClassId>
+  <Date>2011-02-15</Date>
+  <Time>15:15</Time>
+  <Locality>Parque Estadual Intervales, SP</Locality>
+  <Latitude>-24.2759</Latitude>
+  <Longitude>-48.4181</Longitude>
+  <Elevation>850</Elevation>
+  <Author>Daniel Lane</Author>
+  <AuthorID>WOEAFQRMUD</AuthorID>
+  <Content>song</Content>
+  <Comments>Natural song from unseen individual in dense primary forest. Probably in understory.</Comments>
+  <Quality>1</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies>Lathrotriccus euleri,Icterus pyrrhopterus</BackgroundSpecies>
+  <Order>Passeriformes</Order>
+  <Family>Icteridae</Family>
+  <Genus>Cacicus</Genus>
+  <Species>chrysopterus</Species>
+  <Sub-species />
+  <VernacularNames>Golden-winged Cacique</VernacularNames>
+</Audio>

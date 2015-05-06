@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>4936</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN4936.wav</FileName>
+  <ClassId>zrckxj</ClassId>
+  <Date>2009-03-23</Date>
+  <Time>08:00</Time>
+  <Locality>Monte Alegre, State of Pará</Locality>
+  <Latitude>-2.0375</Latitude>
+  <Longitude>-54.1131</Longitude>
+  <Elevation>70</Elevation>
+  <Author>Sidnei Dantas</Author>
+  <AuthorID>NNCKQMBGPH</AuthorID>
+  <Content>song</Content>
+  <Comments>varzea forest.</Comments>
+  <Quality>2</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies>Tolmomyias flaviventris,Pitangus sulphuratus,Cacicus cela,Sakesphorus luctuosus,Attila cinnamomeus</BackgroundSpecies>
+  <Order>Passeriformes</Order>
+  <Family>Furnariidae</Family>
+  <Genus>Cranioleuca</Genus>
+  <Species>vulpina</Species>
+  <Sub-species />
+  <VernacularNames>Rusty-backed Spinetail</VernacularNames>
+</Audio>

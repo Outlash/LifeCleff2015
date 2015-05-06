@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>19261</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN19261.wav</FileName>
+  <ClassId>glsklv</ClassId>
+  <Date>2010-06-11</Date>
+  <Time>09:00</Time>
+  <Locality>Manaus, Amazonas</Locality>
+  <Latitude>-2.8086</Latitude>
+  <Longitude>-59.8727</Longitude>
+  <Elevation>40</Elevation>
+  <Author>GABRIEL LEITE</Author>
+  <AuthorID>TGBFXDVERJ</AuthorID>
+  <Content>call, song</Content>
+  <Comments>bird-seen:yesplayback-used:yes</Comments>
+  <Quality>3</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Tyrannidae</Family>
+  <Genus>Platyrinchus</Genus>
+  <Species>saturatus</Species>
+  <Sub-species />
+  <VernacularNames>Cinnamon-crested Spadebill</VernacularNames>
+</Audio>

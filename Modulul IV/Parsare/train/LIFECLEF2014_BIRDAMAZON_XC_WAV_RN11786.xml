@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>11786</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN11786.wav</FileName>
+  <ClassId>vzrhzv</ClassId>
+  <Date>2004-08-16</Date>
+  <Time>?</Time>
+  <Locality>Estação Ecológica de Murici, Alagoas</Locality>
+  <Latitude>-9.3001</Latitude>
+  <Longitude>-35.9334</Longitude>
+  <Elevation>550</Elevation>
+  <Author>Weber Girão</Author>
+  <AuthorID>MXVQPUKGWW</AuthorID>
+  <Content>call</Content>
+  <Comments />
+  <Quality>1</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies>Cyclarhis gujanensis,Herpsilochmus atricapillus,Momotus momota,Hemitriccus griseipectus</BackgroundSpecies>
+  <Order>Passeriformes</Order>
+  <Family>Thamnophilidae</Family>
+  <Genus>Thamnophilus</Genus>
+  <Species>aethiops</Species>
+  <Sub-species>distans</Sub-species>
+  <VernacularNames>White-shouldered Antshrike</VernacularNames>
+</Audio>

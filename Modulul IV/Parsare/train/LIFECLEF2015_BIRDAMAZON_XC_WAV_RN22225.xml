@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>22225</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN22225.wav</FileName>
+  <ClassId>pprfie</ClassId>
+  <Date>2006-09-07</Date>
+  <Time>10:00</Time>
+  <Locality>Vereda el Tres y medio, Puerto Salgar, Cundinamarca. Magdalena medio</Locality>
+  <Latitude>NULL</Latitude>
+  <Longitude>NULL</Longitude>
+  <Elevation>300</Elevation>
+  <Author>Oscar Laverde</Author>
+  <AuthorID>WKVKSVMNDZ</AuthorID>
+  <Content>song</Content>
+  <Comments />
+  <Quality>3</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies>Forpus conspicillatus</BackgroundSpecies>
+  <Order>Passeriformes</Order>
+  <Family>Vireonidae</Family>
+  <Genus>Cyclarhis</Genus>
+  <Species>gujanensis</Species>
+  <Sub-species />
+  <VernacularNames>Rufous-browed Peppershrike</VernacularNames>
+</Audio>

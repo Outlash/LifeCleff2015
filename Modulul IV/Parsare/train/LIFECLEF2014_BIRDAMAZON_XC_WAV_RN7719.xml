@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>7719</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN7719.wav</FileName>
+  <ClassId>dkxicr</ClassId>
+  <Date>2002-08-11</Date>
+  <Time>07:12</Time>
+  <Locality>Intervales State Park. Carmo road</Locality>
+  <Latitude>-24.2834</Latitude>
+  <Longitude>-48.4334</Longitude>
+  <Elevation>800</Elevation>
+  <Author>Jeremy Minns</Author>
+  <AuthorID>DGVLLRYDXS</AuthorID>
+  <Content>Song with variations</Content>
+  <Comments>Montane forest. 25 m up in an emergent in bamboo.</Comments>
+  <Quality>1</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies>Drymophila ferruginea,Drymophila malura,Synallaxis ruficapilla,Anabazenops fuscus,Hylophilus poicilotis</BackgroundSpecies>
+  <Order>Passeriformes</Order>
+  <Family>Thraupidae</Family>
+  <Genus>Sporophila</Genus>
+  <Species>frontalis</Species>
+  <Sub-species />
+  <VernacularNames>Buffy-fronted Seedeater</VernacularNames>
+</Audio>

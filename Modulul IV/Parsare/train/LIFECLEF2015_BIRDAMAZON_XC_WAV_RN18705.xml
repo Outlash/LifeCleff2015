@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>18705</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN18705.wav</FileName>
+  <ClassId>zsdjkk</ClassId>
+  <Date>2006-01-06</Date>
+  <Time>11:50</Time>
+  <Locality>Serra de Baturité, Ceará</Locality>
+  <Latitude>-4.2334</Latitude>
+  <Longitude>-38.9167</Longitude>
+  <Elevation>1050</Elevation>
+  <Author>Nick Athanas</Author>
+  <AuthorID>XRABICUARW</AuthorID>
+  <Content>song</Content>
+  <Comments>First few notes were cut off. img:http://www.antpitta.com/images/photos/toucans/Goulds-Toucanet.jpg</Comments>
+  <Quality>3</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies>Elaenia spectabilis</BackgroundSpecies>
+  <Order>Piciformes</Order>
+  <Family>Ramphastidae</Family>
+  <Genus>Selenidera</Genus>
+  <Species>gouldii</Species>
+  <Sub-species />
+  <VernacularNames>Gould's Toucanet</VernacularNames>
+</Audio>

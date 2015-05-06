@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>31379</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN31379.wav</FileName>
+  <ClassId>wfgnlp</ClassId>
+  <Date>2011-09-20</Date>
+  <Time>09:09</Time>
+  <Locality>Cristalino Jungle Lodge, MT</Locality>
+  <Latitude>-9.5981</Latitude>
+  <Longitude>-55.932</Longitude>
+  <Elevation>260</Elevation>
+  <Author>Eric DeFonso</Author>
+  <AuthorID>KTLCZCRCQX</AuthorID>
+  <Content>song</Content>
+  <Comments>Typical, natural downslurred notes from somewhat distant birds. Recorded along the trail near the new 50m tower in terra firme forest.bird-seen:noplayback-used:no</Comments>
+  <Quality>3</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies>Lipaugus vociferans</BackgroundSpecies>
+  <Order>Passeriformes</Order>
+  <Family>Vireonidae</Family>
+  <Genus>Vireolanius</Genus>
+  <Species>leucotis</Species>
+  <Sub-species />
+  <VernacularNames>Slaty-capped Shrike-Vireo</VernacularNames>
+</Audio>

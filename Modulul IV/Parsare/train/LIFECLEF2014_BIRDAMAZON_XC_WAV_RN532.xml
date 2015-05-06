@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>532</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN532.wav</FileName>
+  <ClassId>ojdrck</ClassId>
+  <Date>2005-12-24</Date>
+  <Time>10:00</Time>
+  <Locality>Porteiras, Altinho, Pernambuco</Locality>
+  <Latitude>-8.3</Latitude>
+  <Longitude>-37.75</Longitude>
+  <Elevation>360</Elevation>
+  <Author>Glauco Alves Pereira</Author>
+  <AuthorID>ZWEROGGYVP</AuthorID>
+  <Content>duet, song</Content>
+  <Comments>Observed in caatinga habitat</Comments>
+  <Quality>2</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Furnariidae</Family>
+  <Genus>Phacellodomus</Genus>
+  <Species>rufifrons</Species>
+  <Sub-species />
+  <VernacularNames>Rufous-fronted Thornbird</VernacularNames>
+</Audio>

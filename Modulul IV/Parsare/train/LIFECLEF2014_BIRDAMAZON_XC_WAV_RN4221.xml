@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>4221</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN4221.wav</FileName>
+  <ClassId>tpwgoq</ClassId>
+  <Date>2010-05-17</Date>
+  <Time>13:35</Time>
+  <Locality>Pantanal do Miranda - MS</Locality>
+  <Latitude>-19.5512</Latitude>
+  <Longitude>-57.012</Longitude>
+  <Elevation>100</Elevation>
+  <Author>Renan Campos de Oliveira</Author>
+  <AuthorID>SDARDTGGWP</AuthorID>
+  <Content>Song</Content>
+  <Comments />
+  <Quality>2</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Icteridae</Family>
+  <Genus>Gnorimopsar</Genus>
+  <Species>chopi</Species>
+  <Sub-species />
+  <VernacularNames>Chopi Blackbird</VernacularNames>
+</Audio>

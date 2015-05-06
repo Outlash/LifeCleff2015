@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>30912</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN30912.wav</FileName>
+  <ClassId>cpcenp</ClassId>
+  <Date>2008-12-13</Date>
+  <Time>9:20</Time>
+  <Locality>left bank of the Amazon River, Prainha, Pará state</Locality>
+  <Latitude>NULL</Latitude>
+  <Longitude>NULL</Longitude>
+  <Elevation>70</Elevation>
+  <Author>Guilherme R R Brito</Author>
+  <AuthorID>OAYOBWYOOM</AuthorID>
+  <Content>duet, song</Content>
+  <Comments>couple response to playback, female song is the shorter one</Comments>
+  <Quality>0</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Thamnophilidae</Family>
+  <Genus>Myrmeciza</Genus>
+  <Species>longipes</Species>
+  <Sub-species />
+  <VernacularNames>White-bellied Antbird</VernacularNames>
+</Audio>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>24268</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN24268.wav</FileName>
+  <ClassId>waknsi</ClassId>
+  <Date>2014-08-19</Date>
+  <Time>01:30</Time>
+  <Locality>Salvador, Bahia</Locality>
+  <Latitude>-12.8923</Latitude>
+  <Longitude>-38.3745</Longitude>
+  <Elevation>0</Elevation>
+  <Author>Wilton Gonçalves</Author>
+  <AuthorID>BSCTVPIPQH</AuthorID>
+  <Content>song</Content>
+  <Comments>A vocalização foi gravada em um smartphone NOKIA E7-00 no modo de gravação em Alta Qualidade, arquivo salvo na extensão .mp4 e foi convertido para a extensão .mp3. O espécime se encontrava em uma área urbana de Salvador no bairro de Jardim das Margaridas, a área possui manchas de vegetação de Mata Atlântica.bird-seen:yes""</Comments>
+  <Quality>0</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Caprimulgiformes</Order>
+  <Family>Caprimulgidae</Family>
+  <Genus>Nyctidromus</Genus>
+  <Species>albicollis</Species>
+  <Sub-species />
+  <VernacularNames>Pauraque</VernacularNames>
+</Audio>

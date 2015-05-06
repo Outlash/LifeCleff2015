@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>16105</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN16105.wav</FileName>
+  <ClassId>uxoaxq</ClassId>
+  <Date>2007-05-12</Date>
+  <Time>10:10</Time>
+  <Locality>Colombia/ Tolima /Santa Isabel/La Estrella</Locality>
+  <Latitude>4.7434</Latitude>
+  <Longitude>-75.2395</Longitude>
+  <Elevation>3600</Elevation>
+  <Author>Yair G Molina - Martínez</Author>
+  <AuthorID>UQUOPFIYYQ</AuthorID>
+  <Content>Song</Content>
+  <Comments />
+  <Quality>0</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Tyrannidae</Family>
+  <Genus>Mecocerculus</Genus>
+  <Species>leucophrys</Species>
+  <Sub-species />
+  <VernacularNames>White-throated Tyrannulet</VernacularNames>
+</Audio>

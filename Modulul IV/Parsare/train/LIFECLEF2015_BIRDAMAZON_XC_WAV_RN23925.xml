@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>23925</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN23925.wav</FileName>
+  <ClassId>armfvy</ClassId>
+  <Date>2012-12-20</Date>
+  <Time>17:20</Time>
+  <Locality>Yondó, Antioquia</Locality>
+  <Latitude>6.5871</Latitude>
+  <Longitude>-74.3155</Longitude>
+  <Elevation>110</Elevation>
+  <Author>Sergio Chaparro-Herrera</Author>
+  <AuthorID>RJLERWCWGE</AuthorID>
+  <Content>song</Content>
+  <Comments>bird-seen:yesplayback-used:no</Comments>
+  <Quality>0</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Tyrannidae</Family>
+  <Genus>Camptostoma</Genus>
+  <Species>obsoletum</Species>
+  <Sub-species />
+  <VernacularNames>Southern Beardless Tyrannulet</VernacularNames>
+</Audio>

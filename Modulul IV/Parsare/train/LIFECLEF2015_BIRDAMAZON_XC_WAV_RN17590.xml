@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>17590</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN17590.wav</FileName>
+  <ClassId>myvkag</ClassId>
+  <Date>2011-09-28</Date>
+  <Time>?</Time>
+  <Locality>Maripasoula, Grand Inini</Locality>
+  <Latitude>NULL</Latitude>
+  <Longitude>NULL</Longitude>
+  <Elevation>90</Elevation>
+  <Author>Alexandre Renaudier</Author>
+  <AuthorID>GKADEITXTH</AuthorID>
+  <Content>call</Content>
+  <Comments />
+  <Quality>2</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies>Trogon violaceus,Turdus albicollis</BackgroundSpecies>
+  <Order>Falconiformes</Order>
+  <Family>Falconidae</Family>
+  <Genus>Ibycter</Genus>
+  <Species>americanus</Species>
+  <Sub-species />
+  <VernacularNames>Red-throated Caracara</VernacularNames>
+</Audio>

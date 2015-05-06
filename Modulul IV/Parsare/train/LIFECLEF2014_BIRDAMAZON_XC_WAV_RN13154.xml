@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>13154</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN13154.wav</FileName>
+  <ClassId>bcbkld</ClassId>
+  <Date>2008-09-24</Date>
+  <Time>?</Time>
+  <Locality>Rio Tigre, Guatambu, Santa Catarina</Locality>
+  <Latitude>-27.140118</Latitude>
+  <Longitude>-52.783728</Longitude>
+  <Elevation>290</Elevation>
+  <Author>Adrian Eisen Rupp</Author>
+  <AuthorID>AOPMSCIDIA</AuthorID>
+  <Content>song</Content>
+  <Comments />
+  <Quality>2</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies>Sirystes sibilator,Megaceryle torquata,Rupornis magnirostris</BackgroundSpecies>
+  <Order>Passeriformes</Order>
+  <Family>Furnariidae</Family>
+  <Genus>Xenops</Genus>
+  <Species>rutilans</Species>
+  <Sub-species />
+  <VernacularNames>Streaked Xenops</VernacularNames>
+</Audio>

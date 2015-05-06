@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>14587</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN14587.wav</FileName>
+  <ClassId>qrhwnu</ClassId>
+  <Date>2012-07-25</Date>
+  <Time>08:00</Time>
+  <Locality>Poxoréo, Mato Grosso</Locality>
+  <Latitude>-15.8415</Latitude>
+  <Longitude>-54.3926</Longitude>
+  <Elevation>340</Elevation>
+  <Author>Eduardo D. Schultz</Author>
+  <AuthorID>QYOZQITVAC</AuthorID>
+  <Content>song</Content>
+  <Comments>bird-seen:noplayback-used:no</Comments>
+  <Quality>0</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Piciformes</Order>
+  <Family>Ramphastidae</Family>
+  <Genus>Ramphastos</Genus>
+  <Species>vitellinus</Species>
+  <Sub-species />
+  <VernacularNames>Channel-billed Toucan</VernacularNames>
+</Audio>

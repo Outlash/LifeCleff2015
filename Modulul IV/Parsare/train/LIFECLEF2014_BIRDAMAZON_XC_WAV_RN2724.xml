@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>2724</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN2724.wav</FileName>
+  <ClassId>xipjkx</ClassId>
+  <Date>2003-12-04</Date>
+  <Time>08:09</Time>
+  <Locality>Pousada Araras, Pantanal, MT</Locality>
+  <Latitude>-16.5167</Latitude>
+  <Longitude>-56.7167</Longitude>
+  <Elevation>120</Elevation>
+  <Author>Jeremy Minns</Author>
+  <AuthorID>DGVLLRYDXS</AuthorID>
+  <Content>Song</Content>
+  <Comments>Araras Eco Lodge. Gallery forest.</Comments>
+  <Quality>2</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies>Thamnophilus doliatus,Cercomacra melanaria,Elaenia flavogaster,Pitangus sulphuratus,Myiarchus ferox,Progne tapera,Campylorhynchus turdinus,Saltator coerulescens</BackgroundSpecies>
+  <Order>Passeriformes</Order>
+  <Family>Icteridae</Family>
+  <Genus>Icterus</Genus>
+  <Species>pyrrhopterus</Species>
+  <Sub-species />
+  <VernacularNames>Variable Oriole</VernacularNames>
+</Audio>

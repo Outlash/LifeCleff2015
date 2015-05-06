@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>32187</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN32187.wav</FileName>
+  <ClassId>kfijne</ClassId>
+  <Date>2012-06-13</Date>
+  <Time>10:00</Time>
+  <Locality>FEENA, Rio Claro, São Paulo</Locality>
+  <Latitude>-22.3864</Latitude>
+  <Longitude>-47.546</Longitude>
+  <Elevation>600</Elevation>
+  <Author>Fernando Igor de Godoy</Author>
+  <AuthorID>CHDHFSVVIN</AuthorID>
+  <Content>song</Content>
+  <Comments>bird-seen:yesplayback-used:no</Comments>
+  <Quality>0</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Apodiformes</Order>
+  <Family>Trochilidae</Family>
+  <Genus>Aphantochroa</Genus>
+  <Species>cirrochloris</Species>
+  <Sub-species />
+  <VernacularNames>Sombre Hummingbird</VernacularNames>
+</Audio>

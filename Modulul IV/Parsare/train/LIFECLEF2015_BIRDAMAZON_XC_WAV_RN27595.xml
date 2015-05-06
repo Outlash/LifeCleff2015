@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>27595</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN27595.wav</FileName>
+  <ClassId>lavuag</ClassId>
+  <Date>1998-12-13</Date>
+  <Time>08:48</Time>
+  <Locality>Reserva Acaime, vereda Quindio, Quindio</Locality>
+  <Latitude>NULL</Latitude>
+  <Longitude>NULL</Longitude>
+  <Elevation>2700</Elevation>
+  <Author>Bernabe Lopez-Lanus</Author>
+  <AuthorID>BYLLSJRVDZ</AuthorID>
+  <Content>Young call</Content>
+  <Comments>Call from a young bird perched (adult close)</Comments>
+  <Quality>1</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Apodiformes</Order>
+  <Family>Trochilidae</Family>
+  <Genus>Metallura</Genus>
+  <Species>tyrianthina</Species>
+  <Sub-species>tyrianthina</Sub-species>
+  <VernacularNames>Tyrian Metaltail</VernacularNames>
+</Audio>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>28571</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN28571.wav</FileName>
+  <ClassId>sfzdae</ClassId>
+  <Date>2008-03-18</Date>
+  <Time>08:30</Time>
+  <Locality>Setor Jaó - Goiânia, Goiás</Locality>
+  <Latitude>-16.645402</Latitude>
+  <Longitude>-49.226604</Longitude>
+  <Elevation>690</Elevation>
+  <Author>Nunes D´Acosta</Author>
+  <AuthorID>OHHTDSDNBT</AuthorID>
+  <Content>song</Content>
+  <Comments>Vocalizando  nas margens do Rio Meia Ponte-zona urbana - úmida.</Comments>
+  <Quality>2</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Anseriformes</Order>
+  <Family>Anhimidae</Family>
+  <Genus>Anhima</Genus>
+  <Species>cornuta</Species>
+  <Sub-species />
+  <VernacularNames>Horned Screamer</VernacularNames>
+</Audio>

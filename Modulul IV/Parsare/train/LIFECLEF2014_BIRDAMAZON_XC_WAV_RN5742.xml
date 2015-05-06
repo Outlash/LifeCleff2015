@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>5742</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN5742.wav</FileName>
+  <ClassId>zreufv</ClassId>
+  <Date>2008-10-27</Date>
+  <Time>08:00</Time>
+  <Locality>Bairro do Jaceguava, São Paulo, SP</Locality>
+  <Latitude>-23.752501</Latitude>
+  <Longitude>-46.735334</Longitude>
+  <Elevation>755</Elevation>
+  <Author>Marcos Melo</Author>
+  <AuthorID>MRGDYNJGUJ</AuthorID>
+  <Content>song</Content>
+  <Comments />
+  <Quality>1</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies>Vireo olivaceus</BackgroundSpecies>
+  <Order>Passeriformes</Order>
+  <Family>Tityridae</Family>
+  <Genus>Pachyramphus</Genus>
+  <Species>polychopterus</Species>
+  <Sub-species />
+  <VernacularNames>White-winged Becard</VernacularNames>
+</Audio>

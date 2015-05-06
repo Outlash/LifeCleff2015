@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>18515</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN18515.wav</FileName>
+  <ClassId>mvdpht</ClassId>
+  <Date>2005-07-06</Date>
+  <Time>7:23</Time>
+  <Locality>PNN Chingaza, sector Palacio</Locality>
+  <Latitude>4.5167</Latitude>
+  <Longitude>-73.7501</Longitude>
+  <Elevation>?</Elevation>
+  <Author>Oscar Laverde</Author>
+  <AuthorID>WKVKSVMNDZ</AuthorID>
+  <Content>call?</Content>
+  <Comments />
+  <Quality>5</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Furnariidae</Family>
+  <Genus>Xiphocolaptes</Genus>
+  <Species>promeropirhynchus</Species>
+  <Sub-species />
+  <VernacularNames>Strong-billed Woodcreeper</VernacularNames>
+</Audio>

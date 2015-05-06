@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>4681</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN4681.wav</FileName>
+  <ClassId>veiywt</ClassId>
+  <Date>2013-06-24</Date>
+  <Time>16:30</Time>
+  <Locality>Xapuri, Acre</Locality>
+  <Latitude>-10.7427</Latitude>
+  <Longitude>-68.2818</Longitude>
+  <Elevation>220</Elevation>
+  <Author>Marcos A. Melo</Author>
+  <AuthorID>MRGDYNJGUJ</AuthorID>
+  <Content>song</Content>
+  <Comments>bird-seen:yesplayback-used:no</Comments>
+  <Quality>2</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies />
+  <Order>Accipitriformes</Order>
+  <Family>Accipitridae</Family>
+  <Genus>Buteo</Genus>
+  <Species>nitidus</Species>
+  <Sub-species />
+  <VernacularNames>Grey-lined Hawk</VernacularNames>
+</Audio>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>10034</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN10034.wav</FileName>
+  <ClassId>mryser</ClassId>
+  <Date>2012-03-13</Date>
+  <Time>07:10</Time>
+  <Locality>Lagoa do finado Armando Machado, localizada entre o Alto Humaitá e Alto Fonseca no centro de Pão de Açúcar -Alagoas-Brasil.</Locality>
+  <Latitude>-9.73396276981374</Latitude>
+  <Longitude>-37.4356040949351</Longitude>
+  <Elevation>?</Elevation>
+  <Author>pedroteia</Author>
+  <AuthorID>BZVNDWLRSQ</AuthorID>
+  <Content>song</Content>
+  <Comments>Gravado na lagoa do finado Armando Machado, localizada entre o Alto Humaitá e Alto Fonseca no centro de Pão de Açúcar -Alagoas-Brasil.</Comments>
+  <Quality>0</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies />
+  <Order>Gruiformes</Order>
+  <Family>Rallidae</Family>
+  <Genus>Gallinula</Genus>
+  <Species>galeata</Species>
+  <Sub-species />
+  <VernacularNames>Common Gallinule</VernacularNames>
+</Audio>

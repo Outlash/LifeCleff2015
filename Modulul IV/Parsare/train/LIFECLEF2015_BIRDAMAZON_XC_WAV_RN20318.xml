@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>20318</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN20318.wav</FileName>
+  <ClassId>anfvsy</ClassId>
+  <Date>2009-03-20</Date>
+  <Time>06:30</Time>
+  <Locality>Parque Regional Barbas-Bremen, Filandia, Quindio. Sector Barbas</Locality>
+  <Latitude>4.6717</Latitude>
+  <Longitude>-75.6283</Longitude>
+  <Elevation>1800</Elevation>
+  <Author>Oscar Humberto Marin-Gomez</Author>
+  <AuthorID>CSUHASNRSU</AuthorID>
+  <Content>flight call</Content>
+  <Comments>Ref: PNR Barbas 002B 0047bird-seen:noplayback-used:no</Comments>
+  <Quality>2</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Psittaciformes</Order>
+  <Family>Psittacidae</Family>
+  <Genus>Psittacara</Genus>
+  <Species>wagleri</Species>
+  <Sub-species />
+  <VernacularNames>Scarlet-fronted Parakeet</VernacularNames>
+</Audio>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>29459</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN29459.wav</FileName>
+  <ClassId>fwrnff</ClassId>
+  <Date>0000-00-00</Date>
+  <Time>09:51:00</Time>
+  <Locality>La Colorada, Arcabuco, Boyacá</Locality>
+  <Latitude>5.729722</Latitude>
+  <Longitude>-73.46278</Longitude>
+  <Elevation>2720</Elevation>
+  <Author>Sergio Córdoba Córdoba (Colección de Sonidos Ambientales - Instituto Humboldt)</Author>
+  <AuthorID>XMFDPACYJN</AuthorID>
+  <Content>song</Content>
+  <Comments>BSA 13539To obtain a wav file of the original recording, please contact csa@humboldt.org.coplayback-used:no</Comments>
+  <Quality>3</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Apodiformes</Order>
+  <Family>Trochilidae</Family>
+  <Genus>Colibri</Genus>
+  <Species>thalassinus</Species>
+  <Sub-species />
+  <VernacularNames>Green Violetear</VernacularNames>
+</Audio>

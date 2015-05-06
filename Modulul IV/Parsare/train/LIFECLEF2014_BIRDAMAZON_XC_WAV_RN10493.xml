@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>10493</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN10493.wav</FileName>
+  <ClassId>cgxaxh</ClassId>
+  <Date>1997-12-01</Date>
+  <Time>08:00</Time>
+  <Locality>Serra do Mar State Park. Picinguaba</Locality>
+  <Latitude>-23.3334</Latitude>
+  <Longitude>-44.8834</Longitude>
+  <Elevation>5</Elevation>
+  <Author>Antonio Silveira</Author>
+  <AuthorID>NBJQSQJRYH</AuthorID>
+  <Content>song</Content>
+  <Comments>bird-seen:yesplayback-used:no</Comments>
+  <Quality>1</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Furnariidae</Family>
+  <Genus>Phacellodomus</Genus>
+  <Species>erythrophthalmus</Species>
+  <Sub-species />
+  <VernacularNames>Orange-eyed Thornbird</VernacularNames>
+</Audio>

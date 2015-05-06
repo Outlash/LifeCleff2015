@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>22727</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN22727.wav</FileName>
+  <ClassId>zxmweq</ClassId>
+  <Date>2011-02-05</Date>
+  <Time>07:15</Time>
+  <Locality>SFF Otun-Quimbaya, Risaralda</Locality>
+  <Latitude>4.727</Latitude>
+  <Longitude>-75.577</Longitude>
+  <Elevation>1875</Elevation>
+  <Author>Eric DeFonso</Author>
+  <AuthorID>KTLCZCRCQX</AuthorID>
+  <Content>song</Content>
+  <Comments>compare with XC105651</Comments>
+  <Quality>0</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Turdidae</Family>
+  <Genus>Catharus</Genus>
+  <Species>aurantiirostris</Species>
+  <Sub-species />
+  <VernacularNames>Orange-billed Nightingale-Thrush</VernacularNames>
+</Audio>

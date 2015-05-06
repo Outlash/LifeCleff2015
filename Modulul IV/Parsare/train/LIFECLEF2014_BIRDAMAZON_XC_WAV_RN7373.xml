@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>7373</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN7373.wav</FileName>
+  <ClassId>jjeesd</ClassId>
+  <Date>2011-05-22</Date>
+  <Time>18:02</Time>
+  <Locality>Paragominas, PA, Brazil, Bacia 549</Locality>
+  <Latitude>-3.8101</Latitude>
+  <Longitude>-48.377</Longitude>
+  <Elevation>?</Elevation>
+  <Author>Alexander Lees</Author>
+  <AuthorID>INDDBZAFJL</AuthorID>
+  <Content>song</Content>
+  <Comments>after playback, in selectively-logged primary forest</Comments>
+  <Quality>3</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies>Sclerurus caudacutus,Tyranneutes stolzmanni</BackgroundSpecies>
+  <Order>Passeriformes</Order>
+  <Family>Cardinalidae</Family>
+  <Genus>Cyanocompsa</Genus>
+  <Species>cyanoides</Species>
+  <Sub-species />
+  <VernacularNames>Blue-black Grosbeak</VernacularNames>
+</Audio>

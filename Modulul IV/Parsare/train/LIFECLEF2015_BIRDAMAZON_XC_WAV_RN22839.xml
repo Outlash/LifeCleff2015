@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>22839</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN22839.wav</FileName>
+  <ClassId>xcynfk</ClassId>
+  <Date>2001-03-16</Date>
+  <Time>15:12</Time>
+  <Locality>Itatiaia National Park - Agulhas Negras road</Locality>
+  <Latitude>-22.3667</Latitude>
+  <Longitude>-44.7334</Longitude>
+  <Elevation>1740</Elevation>
+  <Author>Jeremy Minns</Author>
+  <AuthorID>DGVLLRYDXS</AuthorID>
+  <Content>Call</Content>
+  <Comments>High altitude montane forest. At least two and probably more birds in a tree overhanging the road. This is Call A in our DVD-ROM 'Birds of Brazil'.</Comments>
+  <Quality>2</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies>Tijuca atra</BackgroundSpecies>
+  <Order>Passeriformes</Order>
+  <Family>Thraupidae</Family>
+  <Genus>Poospiza</Genus>
+  <Species>lateralis</Species>
+  <Sub-species />
+  <VernacularNames>Buff-throated Warbling Finch</VernacularNames>
+</Audio>

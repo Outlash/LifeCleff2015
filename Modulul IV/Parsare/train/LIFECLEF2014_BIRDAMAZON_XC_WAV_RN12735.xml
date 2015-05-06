@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>12735</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN12735.wav</FileName>
+  <ClassId>bmiqmk</ClassId>
+  <Date>2001-10-00</Date>
+  <Time>?:?</Time>
+  <Locality>Aug. Rushi</Locality>
+  <Latitude>-19.906</Latitude>
+  <Longitude>-40.5533</Longitude>
+  <Elevation>?</Elevation>
+  <Author>John van der Woude</Author>
+  <AuthorID>LDKAWQWMRJ</AuthorID>
+  <Content>song</Content>
+  <Comments>trip:http://home.tiscali.nl/~jvanderw/brazil01/summary.html</Comments>
+  <Quality>3</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Pipridae</Family>
+  <Genus>Chiroxiphia</Genus>
+  <Species>caudata</Species>
+  <Sub-species />
+  <VernacularNames>Blue Manakin</VernacularNames>
+</Audio>

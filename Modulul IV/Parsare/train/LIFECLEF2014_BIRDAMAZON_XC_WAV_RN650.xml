@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>650</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN650.wav</FileName>
+  <ClassId>kaobjf</ClassId>
+  <Date>2008-05-04</Date>
+  <Time>9:15</Time>
+  <Locality>RPPN Retiro Branco, Poços de Caldas, Minas Gerais state</Locality>
+  <Latitude>NULL</Latitude>
+  <Longitude>NULL</Longitude>
+  <Elevation>1300</Elevation>
+  <Author>Guilherme R R Brito</Author>
+  <AuthorID>OAYOBWYOOM</AuthorID>
+  <Content>call</Content>
+  <Comments />
+  <Quality>2</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Tyrannidae</Family>
+  <Genus>Hemitriccus</Genus>
+  <Species>diops</Species>
+  <Sub-species />
+  <VernacularNames>Drab-breasted Bamboo Tyrant</VernacularNames>
+</Audio>

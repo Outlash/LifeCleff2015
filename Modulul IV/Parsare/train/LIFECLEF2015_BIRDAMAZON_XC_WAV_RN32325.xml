@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>32325</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN32325.wav</FileName>
+  <ClassId>ckjsvo</ClassId>
+  <Date>2011-06-03</Date>
+  <Time>08:00</Time>
+  <Locality>miraflores, Boyaca</Locality>
+  <Latitude>5.188</Latitude>
+  <Longitude>-73.202</Longitude>
+  <Elevation>1800</Elevation>
+  <Author>Oswaldo Cortes</Author>
+  <AuthorID>VVDRVZCVWW</AuthorID>
+  <Content>song</Content>
+  <Comments />
+  <Quality>3</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Furnariidae</Family>
+  <Genus>Dendrocolaptes</Genus>
+  <Species>picumnus</Species>
+  <Sub-species />
+  <VernacularNames>Black-banded Woodcreeper</VernacularNames>
+</Audio>

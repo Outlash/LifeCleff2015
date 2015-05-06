@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>27262</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN27262.wav</FileName>
+  <ClassId>iofesp</ClassId>
+  <Date>2008-02-06</Date>
+  <Time>06:30</Time>
+  <Locality>El canon del Rio Claro, Antioquia</Locality>
+  <Latitude>5.8334</Latitude>
+  <Longitude>-74.8667</Longitude>
+  <Elevation>600</Elevation>
+  <Author>Herman van Oosten</Author>
+  <AuthorID>SNUDCZVUQK</AuthorID>
+  <Content>call</Content>
+  <Comments>Re-identified by Dan Lane.Bird was close (10m) but took me a while to id it -never heard a Rhynchocyclus vocalising, so had no clue, initially!</Comments>
+  <Quality>0</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Tyrannidae</Family>
+  <Genus>Rhynchocyclus</Genus>
+  <Species>olivaceus</Species>
+  <Sub-species />
+  <VernacularNames>Olivaceous Flatbill</VernacularNames>
+</Audio>

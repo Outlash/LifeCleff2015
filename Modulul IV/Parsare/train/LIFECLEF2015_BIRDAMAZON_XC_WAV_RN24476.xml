@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>24476</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN24476.wav</FileName>
+  <ClassId>ietadq</ClassId>
+  <Date>2011-09-24</Date>
+  <Time>07:00</Time>
+  <Locality>Brotas, São Paulo</Locality>
+  <Latitude>-22.3181</Latitude>
+  <Longitude>-48.0732</Longitude>
+  <Elevation>650</Elevation>
+  <Author>Fernando Igor de Godoy</Author>
+  <AuthorID>CHDHFSVVIN</AuthorID>
+  <Content>couple song</Content>
+  <Comments>FNJV 30342bird-seen:yesplayback-used:yes</Comments>
+  <Quality>0</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Vireonidae</Family>
+  <Genus>Hylophilus</Genus>
+  <Species>amaurocephalus</Species>
+  <Sub-species />
+  <VernacularNames>Grey-eyed Greenlet</VernacularNames>
+</Audio>

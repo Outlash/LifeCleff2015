@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>32259</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN32259.wav</FileName>
+  <ClassId>msoptg</ClassId>
+  <Date>2011-09-12</Date>
+  <Time>15:34</Time>
+  <Locality>Cristalino Jungle Lodge, MT</Locality>
+  <Latitude>-9.5981</Latitude>
+  <Longitude>-55.932</Longitude>
+  <Elevation>260</Elevation>
+  <Author>Eric DeFonso</Author>
+  <AuthorID>KTLCZCRCQX</AuthorID>
+  <Content>song</Content>
+  <Comments>Along rocks on the Rio Cristalino riverbankbird-seen:yesplayback-used:no</Comments>
+  <Quality>2</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies>Chelidoptera tenebrosa</BackgroundSpecies>
+  <Order>Eurypygiformes</Order>
+  <Family>Eurypygidae</Family>
+  <Genus>Eurypyga</Genus>
+  <Species>helias</Species>
+  <Sub-species />
+  <VernacularNames>Sunbittern</VernacularNames>
+</Audio>

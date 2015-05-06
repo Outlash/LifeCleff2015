@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>2465</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN2465.wav</FileName>
+  <ClassId>gvyxhh</ClassId>
+  <Date>2009-11-24</Date>
+  <Time>?</Time>
+  <Locality>Faxinal do Bepe, Parque Nacional da Serra do Itajaí, Indaial, Santa Catarina</Locality>
+  <Latitude>NULL</Latitude>
+  <Longitude>NULL</Longitude>
+  <Elevation>500</Elevation>
+  <Author>Evair Legal</Author>
+  <AuthorID>SMJXFKLATM</AuthorID>
+  <Content>song</Content>
+  <Comments />
+  <Quality>2</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Thraupidae</Family>
+  <Genus>Stephanophorus</Genus>
+  <Species>diadematus</Species>
+  <Sub-species />
+  <VernacularNames>Diademed Tanager</VernacularNames>
+</Audio>

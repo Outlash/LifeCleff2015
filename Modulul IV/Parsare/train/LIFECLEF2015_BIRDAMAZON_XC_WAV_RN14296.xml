@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>14296</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN14296.wav</FileName>
+  <ClassId>iunosv</ClassId>
+  <Date>2004-07-12</Date>
+  <Time>16:29</Time>
+  <Locality>Aquidauana. Fazenda Aguapé</Locality>
+  <Latitude>-20.0834</Latitude>
+  <Longitude>-55.9501</Longitude>
+  <Elevation>128</Elevation>
+  <Author>Jeremy Minns</Author>
+  <AuthorID>DGVLLRYDXS</AuthorID>
+  <Content>call</Content>
+  <Comments>Poção. Several birds in trees along the edge of a pool.</Comments>
+  <Quality>2</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies>Patagioenas picazuro,Eupsittula aurea,Certhiaxis cinnamomeus,Pitangus sulphuratus</BackgroundSpecies>
+  <Order>Pelecaniformes</Order>
+  <Family>Ardeidae</Family>
+  <Genus>Nycticorax</Genus>
+  <Species>nycticorax</Species>
+  <Sub-species>hoactli</Sub-species>
+  <VernacularNames>Black-crowned Night Heron</VernacularNames>
+</Audio>

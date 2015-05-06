@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>18007</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN18007.wav</FileName>
+  <ClassId>qtzsvy</ClassId>
+  <Date>2002-09-29</Date>
+  <Time>17:45</Time>
+  <Locality>Rio Negro. Barcelos. Lago Grande</Locality>
+  <Latitude>-1.0942</Latitude>
+  <Longitude>-62.082</Longitude>
+  <Elevation>40</Elevation>
+  <Author>Jeremy Minns</Author>
+  <AuthorID>DGVLLRYDXS</AuthorID>
+  <Content>call, song</Content>
+  <Comments>Terra firme forest. Natural calls and then song after playback.</Comments>
+  <Quality>0</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Furnariidae</Family>
+  <Genus>Automolus</Genus>
+  <Species>infuscatus</Species>
+  <Sub-species>cervicalis</Sub-species>
+  <VernacularNames>Olive-backed Foliage-gleaner</VernacularNames>
+</Audio>

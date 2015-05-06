@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>26135</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN26135.wav</FileName>
+  <ClassId>lzezgo</ClassId>
+  <Date>2005-08-14</Date>
+  <Time>8:29</Time>
+  <Locality>Huila, San Agustín, Reserva Los Yalcones, El Palmar. Interfluvio Quebrada El Palmar - Rio Balseros</Locality>
+  <Latitude>1.795556</Latitude>
+  <Longitude>-76.35139</Longitude>
+  <Elevation>2500</Elevation>
+  <Author>Diego Calderón (Colección de Sonidos Ambientales - Instituto Humboldt)</Author>
+  <AuthorID>XMFDPACYJN</AuthorID>
+  <Content>call</Content>
+  <Comments>BSA 16563To obtain a wav file of the original recording, please contact csa@humboldt.org.cobird-seen:noplayback-used:no</Comments>
+  <Quality>1</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies>Myiothlypis coronata</BackgroundSpecies>
+  <Order>Passeriformes</Order>
+  <Family>Rhinocryptidae</Family>
+  <Genus>Scytalopus</Genus>
+  <Species>latrans</Species>
+  <Sub-species />
+  <VernacularNames>Blackish Tapaculo</VernacularNames>
+</Audio>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>27855</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN27855.wav</FileName>
+  <ClassId>zuweoe</ClassId>
+  <Date>2011-07-31</Date>
+  <Time>08:09</Time>
+  <Locality>Dores de Guanhães, Minas Gerais</Locality>
+  <Latitude>-19.0539</Latitude>
+  <Longitude>-42.8792</Longitude>
+  <Elevation>480</Elevation>
+  <Author>Luiz Gabriel Mazzoni</Author>
+  <AuthorID>MPOKMOFDDX</AuthorID>
+  <Content>call</Content>
+  <Comments>A couple. Responded to playback aggressively.bird-seen:yesplayback-used:yes</Comments>
+  <Quality>1</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies>Vanellus chilensis</BackgroundSpecies>
+  <Order>Passeriformes</Order>
+  <Family>Thraupidae</Family>
+  <Genus>Compsothraupis</Genus>
+  <Species>loricata</Species>
+  <Sub-species />
+  <VernacularNames>Scarlet-throated Tanager</VernacularNames>
+</Audio>

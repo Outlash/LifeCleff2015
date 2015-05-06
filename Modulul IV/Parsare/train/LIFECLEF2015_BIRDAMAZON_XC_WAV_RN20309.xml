@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>20309</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN20309.wav</FileName>
+  <ClassId>kvowbh</ClassId>
+  <Date>2012-09-08</Date>
+  <Time>09:56</Time>
+  <Locality>Reserve Naturelle Regionale Tresor, Roura</Locality>
+  <Latitude>4.6105</Latitude>
+  <Longitude>-52.2793</Longitude>
+  <Elevation>240</Elevation>
+  <Author>Jon King</Author>
+  <AuthorID>LNEEOOWCQR</AuthorID>
+  <Content>male, song</Content>
+  <Comments>Distance to mic. 4-6m. Secong male countersinging in background. Both different individuals to XC114429.bird-seen:yesplayback-used:yes</Comments>
+  <Quality>1</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Thamnophilidae</Family>
+  <Genus>Myrmeciza</Genus>
+  <Species>ferruginea</Species>
+  <Sub-species />
+  <VernacularNames>Ferruginous-backed Antbird</VernacularNames>
+</Audio>

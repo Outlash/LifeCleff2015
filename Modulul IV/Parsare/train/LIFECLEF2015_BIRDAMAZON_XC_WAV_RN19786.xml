@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>19786</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN19786.wav</FileName>
+  <ClassId>msddpb</ClassId>
+  <Date>2013-03-23</Date>
+  <Time>12:02</Time>
+  <Locality>Cajamarca, Tolima</Locality>
+  <Latitude>4.4837</Latitude>
+  <Longitude>-75.4797</Longitude>
+  <Elevation>2900</Elevation>
+  <Author>Oscar H. Marín-Gómez</Author>
+  <AuthorID>CSUHASNRSU</AuthorID>
+  <Content>call, song</Content>
+  <Comments>Ref. OHM 389. One bird singing in forest dominated by Chusquea. bird-seen:noplayback-used:no</Comments>
+  <Quality>3</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies>Diglossa caerulescens,Myiothlypis coronata</BackgroundSpecies>
+  <Order>Passeriformes</Order>
+  <Family>Grallariidae</Family>
+  <Genus>Grallaria</Genus>
+  <Species>milleri</Species>
+  <Sub-species />
+  <VernacularNames>Brown-banded Antpitta</VernacularNames>
+</Audio>

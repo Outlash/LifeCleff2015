@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>1323</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN1323.wav</FileName>
+  <ClassId>aiigbg</ClassId>
+  <Date>2008-10-27</Date>
+  <Time>10:47</Time>
+  <Locality>Passo do Ricardo, Rio Piratini - Pedro Osório, Rio Grande do Sul</Locality>
+  <Latitude>-31.9006</Latitude>
+  <Longitude>-52.6626</Longitude>
+  <Elevation>0</Elevation>
+  <Author>Fernando Jacobs</Author>
+  <AuthorID>MHHPJBCUXC</AuthorID>
+  <Content>call, song</Content>
+  <Comments />
+  <Quality>1</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Furnariidae</Family>
+  <Genus>Sittasomus</Genus>
+  <Species>griseicapillus</Species>
+  <Sub-species />
+  <VernacularNames>Olivaceous Woodcreeper</VernacularNames>
+</Audio>

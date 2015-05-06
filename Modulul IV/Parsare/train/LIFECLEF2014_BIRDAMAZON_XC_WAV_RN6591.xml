@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>6591</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN6591.wav</FileName>
+  <ClassId>rdftli</ClassId>
+  <Date>2001-11-06</Date>
+  <Time>08:03</Time>
+  <Locality>RPPN Estação Veracel, Porto Seguro, Bahia</Locality>
+  <Latitude>-16.345838</Latitude>
+  <Longitude>-39.139481</Longitude>
+  <Elevation>80</Elevation>
+  <Author>Jeremy Minns</Author>
+  <AuthorID>DGVLLRYDXS</AuthorID>
+  <Content>Song</Content>
+  <Comments>Coastal white sand forest. Male, perched on a bare twig 5-6 m above the ground.</Comments>
+  <Quality>2</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies>Pitangus sulphuratus,Coereba flaveola</BackgroundSpecies>
+  <Order>Apodiformes</Order>
+  <Family>Trochilidae</Family>
+  <Genus>Hylocharis</Genus>
+  <Species>cyanus</Species>
+  <Sub-species>cyanus</Sub-species>
+  <VernacularNames>White-chinned Sapphire</VernacularNames>
+</Audio>

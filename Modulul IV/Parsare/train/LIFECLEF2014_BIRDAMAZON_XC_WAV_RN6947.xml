@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>6947</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN6947.wav</FileName>
+  <ClassId>pswzyj</ClassId>
+  <Date>2011-11-15</Date>
+  <Time>08:56</Time>
+  <Locality>Reserva Ecológica de Guapi Açu (REGUA), RJ</Locality>
+  <Latitude>-22.4508</Latitude>
+  <Longitude>-42.7735</Longitude>
+  <Elevation>30</Elevation>
+  <Author>Eric DeFonso</Author>
+  <AuthorID>KTLCZCRCQX</AuthorID>
+  <Content>song</Content>
+  <Comments>Natural song from a bird 20m up a hillside in heavy understory and mid-stature recovering forest. Recorded from the footpath near the wetland ponds.bird-seen:yesplayback-used:no</Comments>
+  <Quality>3</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Vireonidae</Family>
+  <Genus>Vireo</Genus>
+  <Species>olivaceus</Species>
+  <Sub-species>chivi</Sub-species>
+  <VernacularNames>Red-eyed Vireo</VernacularNames>
+</Audio>

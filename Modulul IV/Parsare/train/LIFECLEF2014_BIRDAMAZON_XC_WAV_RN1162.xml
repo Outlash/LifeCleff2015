@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>1162</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN1162.wav</FileName>
+  <ClassId>wplnms</ClassId>
+  <Date>2011-09-01</Date>
+  <Time>17:40</Time>
+  <Locality>Cristalino Jungle Lodge, MT</Locality>
+  <Latitude>-9.5981</Latitude>
+  <Longitude>-55.932</Longitude>
+  <Elevation>200</Elevation>
+  <Author>Tayler Brooks</Author>
+  <AuthorID>ARFGONJCBJ</AuthorID>
+  <Content>song</Content>
+  <Comments>Natural vocalization.</Comments>
+  <Quality>1</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies />
+  <Order>Trogoniformes</Order>
+  <Family>Trogonidae</Family>
+  <Genus>Trogon</Genus>
+  <Species>melanurus</Species>
+  <Sub-species>eumorphus</Sub-species>
+  <VernacularNames>Black-tailed Trogon</VernacularNames>
+</Audio>

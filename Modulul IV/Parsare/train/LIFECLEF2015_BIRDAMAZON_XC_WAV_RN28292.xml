@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>28292</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN28292.wav</FileName>
+  <ClassId>bwixcq</ClassId>
+  <Date>2010-04-12</Date>
+  <Time>?</Time>
+  <Locality>Pointe Béhague, crique Vieille</Locality>
+  <Latitude>4.657</Latitude>
+  <Longitude>-51.869</Longitude>
+  <Elevation>1</Elevation>
+  <Author>Renaudier Alexandre</Author>
+  <AuthorID>GKADEITXTH</AuthorID>
+  <Content>song</Content>
+  <Comments />
+  <Quality>2</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Thraupidae</Family>
+  <Genus>Conirostrum</Genus>
+  <Species>bicolor</Species>
+  <Sub-species />
+  <VernacularNames>Bicolored Conebill</VernacularNames>
+</Audio>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>23806</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN23806.wav</FileName>
+  <ClassId>qvcasw</ClassId>
+  <Date>2011-03-11</Date>
+  <Time>09:00</Time>
+  <Locality>Weg naar zee</Locality>
+  <Latitude>5.9001</Latitude>
+  <Longitude>-55.2301</Longitude>
+  <Elevation>1</Elevation>
+  <Author>Daniel Lane</Author>
+  <AuthorID>WOEAFQRMUD</AuthorID>
+  <Content>song</Content>
+  <Comments>Response to playback from the same bird as XC74981 perched in small bush on rubble pile in second growth scrub near grassy marsh.</Comments>
+  <Quality>1</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies>Amazona amazonica,Pitangus sulphuratus</BackgroundSpecies>
+  <Order>Passeriformes</Order>
+  <Family>Furnariidae</Family>
+  <Genus>Synallaxis</Genus>
+  <Species>albescens</Species>
+  <Sub-species />
+  <VernacularNames>Pale-breasted Spinetail</VernacularNames>
+</Audio>

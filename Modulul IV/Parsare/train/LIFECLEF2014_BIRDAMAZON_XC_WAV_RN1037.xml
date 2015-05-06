@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>1037</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN1037.wav</FileName>
+  <ClassId>fjiyjf</ClassId>
+  <Date>2001-03-17</Date>
+  <Time>09:10</Time>
+  <Locality>Itatiaia National Park - Agulhas Negras road</Locality>
+  <Latitude>-22.3667</Latitude>
+  <Longitude>-44.7334</Longitude>
+  <Elevation>1750</Elevation>
+  <Author>Jeremy Minns</Author>
+  <AuthorID>DGVLLRYDXS</AuthorID>
+  <Content>Song</Content>
+  <Comments>High altitude montane forest. Male song with one female song in background.</Comments>
+  <Quality>1</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies>Saltator similis</BackgroundSpecies>
+  <Order>Passeriformes</Order>
+  <Family>Thamnophilidae</Family>
+  <Genus>Drymophila</Genus>
+  <Species>genei</Species>
+  <Sub-species />
+  <VernacularNames>Rufous-tailed Antbird</VernacularNames>
+</Audio>

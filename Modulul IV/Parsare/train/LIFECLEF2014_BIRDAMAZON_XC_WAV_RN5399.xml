@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>5399</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN5399.wav</FileName>
+  <ClassId>ijpmji</ClassId>
+  <Date>2006-05-13</Date>
+  <Time>08:00</Time>
+  <Locality>Tucuruí dam, right margin of the lake, state of Pará</Locality>
+  <Latitude>-4.2327</Latitude>
+  <Longitude>-49.41194</Longitude>
+  <Elevation>50</Elevation>
+  <Author>Sidnei de Melo Dantas</Author>
+  <AuthorID>NNCKQMBGPH</AuthorID>
+  <Content>call</Content>
+  <Comments />
+  <Quality>0</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies>Tolmomyias sulphurescens,Lepidocolaptes albolineatus</BackgroundSpecies>
+  <Order>Psittaciformes</Order>
+  <Family>Psittacidae</Family>
+  <Genus>Amazona</Genus>
+  <Species>farinosa</Species>
+  <Sub-species />
+  <VernacularNames>Mealy Amazon</VernacularNames>
+</Audio>

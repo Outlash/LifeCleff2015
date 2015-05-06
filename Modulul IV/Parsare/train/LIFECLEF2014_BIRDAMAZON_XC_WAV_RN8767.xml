@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>8767</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN8767.wav</FileName>
+  <ClassId>nurzze</ClassId>
+  <Date>2007-10-07</Date>
+  <Time>07:10</Time>
+  <Locality>Pousada Rio Azul, PA</Locality>
+  <Latitude>-9.2456</Latitude>
+  <Longitude>-55.987</Longitude>
+  <Elevation>220</Elevation>
+  <Author>Bradley Davis</Author>
+  <AuthorID>YNXJLOESBB</AuthorID>
+  <Content>call</Content>
+  <Comments />
+  <Quality>2</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies>Thamnophilus palliatus,Ramphocaenus melanurus,Legatus leucophaius,Amazona amazonica</BackgroundSpecies>
+  <Order>Columbiformes</Order>
+  <Family>Columbidae</Family>
+  <Genus>Patagioenas</Genus>
+  <Species>plumbea</Species>
+  <Sub-species />
+  <VernacularNames>Plumbeous Pigeon</VernacularNames>
+</Audio>

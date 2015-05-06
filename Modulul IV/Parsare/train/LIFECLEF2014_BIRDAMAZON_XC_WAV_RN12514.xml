@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>12514</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN12514.wav</FileName>
+  <ClassId>tovyzm</ClassId>
+  <Date>2012-06-30</Date>
+  <Time>15:13</Time>
+  <Locality>Salete, Santa Catarina</Locality>
+  <Latitude>-27.0214</Latitude>
+  <Longitude>-50.0103</Longitude>
+  <Elevation>600</Elevation>
+  <Author>Douglas Meyer</Author>
+  <AuthorID>MNENFHYTAE</AuthorID>
+  <Content>juvenile</Content>
+  <Comments>bird-seen:yesplayback-used:no</Comments>
+  <Quality>2</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies />
+  <Order>Accipitriformes</Order>
+  <Family>Accipitridae</Family>
+  <Genus>Spizaetus</Genus>
+  <Species>tyrannus</Species>
+  <Sub-species />
+  <VernacularNames>Black Hawk-Eagle</VernacularNames>
+</Audio>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>25590</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN25590.wav</FileName>
+  <ClassId>igcivw</ClassId>
+  <Date>1992-11-01</Date>
+  <Time>?</Time>
+  <Locality>Apure, Hato el Cedral</Locality>
+  <Latitude>7.4334</Latitude>
+  <Longitude>-69.3167</Longitude>
+  <Elevation>80</Elevation>
+  <Author>Allen T. Chartier</Author>
+  <AuthorID>AZXTZTQJRO</AuthorID>
+  <Content>flight call</Content>
+  <Comments>Birds leaving night roost</Comments>
+  <Quality>0</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies>Tyrannus melancholicus</BackgroundSpecies>
+  <Order>Pelecaniformes</Order>
+  <Family>Threskiornithidae</Family>
+  <Genus>Theristicus</Genus>
+  <Species>caudatus</Species>
+  <Sub-species />
+  <VernacularNames>Buff-necked Ibis</VernacularNames>
+</Audio>

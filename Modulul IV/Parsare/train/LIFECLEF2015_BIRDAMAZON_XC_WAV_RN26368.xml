@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>26368</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN26368.wav</FileName>
+  <ClassId>ngukgn</ClassId>
+  <Date>2012-03-16</Date>
+  <Time>9:00 AM</Time>
+  <Locality>El Paujil ProAves reserve</Locality>
+  <Latitude>6.0462</Latitude>
+  <Longitude>-74.282</Longitude>
+  <Elevation>250</Elevation>
+  <Author>Fabrice Schmitt</Author>
+  <AuthorID>FPAGKPAQYO</AuthorID>
+  <Content>song</Content>
+  <Comments>without playback</Comments>
+  <Quality>1</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Troglodytidae</Family>
+  <Genus>Microcerculus</Genus>
+  <Species>marginatus</Species>
+  <Sub-species>squamulatus</Sub-species>
+  <VernacularNames>Southern Nightingale-Wren</VernacularNames>
+</Audio>

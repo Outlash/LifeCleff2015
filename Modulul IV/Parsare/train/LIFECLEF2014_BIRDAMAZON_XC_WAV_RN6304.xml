@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>6304</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN6304.wav</FileName>
+  <ClassId>tsbdow</ClassId>
+  <Date>2007-09-29</Date>
+  <Time>12:15</Time>
+  <Locality>Vale do Canal São Gonçalo - Rio Grande, Rio Grande do Sul</Locality>
+  <Latitude>-31.7998</Latitude>
+  <Longitude>-52.3442</Longitude>
+  <Elevation>0</Elevation>
+  <Author>Fernando Jacobs</Author>
+  <AuthorID>MHHPJBCUXC</AuthorID>
+  <Content>call</Content>
+  <Comments />
+  <Quality>1</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies />
+  <Order>Gruiformes</Order>
+  <Family>Aramidae</Family>
+  <Genus>Aramus</Genus>
+  <Species>guarauna</Species>
+  <Sub-species />
+  <VernacularNames>Limpkin</VernacularNames>
+</Audio>

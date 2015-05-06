@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>10298</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN10298.wav</FileName>
+  <ClassId>afzbzd</ClassId>
+  <Date>2005-10-26</Date>
+  <Time>16:35</Time>
+  <Locality>Serra dos Carajás. Road to Salobo</Locality>
+  <Latitude>-6.0501</Latitude>
+  <Longitude>-50.2667</Longitude>
+  <Elevation>660</Elevation>
+  <Author>Jeremy Minns</Author>
+  <AuthorID>DGVLLRYDXS</AuthorID>
+  <Content>Simple song</Content>
+  <Comments>Single bird perched on a bush in canga. The bird photographed.</Comments>
+  <Quality>2</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies>Tyrannus melancholicus,Procnias albus</BackgroundSpecies>
+  <Order>Cuculiformes</Order>
+  <Family>Cuculidae</Family>
+  <Genus>Tapera</Genus>
+  <Species>naevia</Species>
+  <Sub-species>naevia</Sub-species>
+  <VernacularNames>Striped Cuckoo</VernacularNames>
+</Audio>

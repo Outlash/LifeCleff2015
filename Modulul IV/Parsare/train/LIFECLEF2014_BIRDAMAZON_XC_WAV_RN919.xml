@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>919</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN919.wav</FileName>
+  <ClassId>iangvt</ClassId>
+  <Date>2001-07-03</Date>
+  <Time>8:20</Time>
+  <Locality>10km W of Sitio Grande, Bahia</Locality>
+  <Latitude>-12.4792</Latitude>
+  <Longitude>-45.1459</Longitude>
+  <Elevation>?</Elevation>
+  <Author>Paul Donahue</Author>
+  <AuthorID>LLRXADGTBA</AuthorID>
+  <Content>song</Content>
+  <Comments />
+  <Quality>0</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Polioptilidae</Family>
+  <Genus>Polioptila</Genus>
+  <Species>plumbea</Species>
+  <Sub-species />
+  <VernacularNames>Tropical Gnatcatcher</VernacularNames>
+</Audio>

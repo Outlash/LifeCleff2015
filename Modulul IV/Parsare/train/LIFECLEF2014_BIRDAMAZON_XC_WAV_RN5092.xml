@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>5092</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN5092.wav</FileName>
+  <ClassId>fotnep</ClassId>
+  <Date>2005-10-10</Date>
+  <Time>?</Time>
+  <Locality>Pernambuco, Igarassu, Usina São José</Locality>
+  <Latitude>-7.852159</Latitude>
+  <Longitude>-34.917126</Longitude>
+  <Elevation>4</Elevation>
+  <Author>Gilmar Farias</Author>
+  <AuthorID>TUOWEEELME</AuthorID>
+  <Content>song</Content>
+  <Comments />
+  <Quality>2</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Thraupidae</Family>
+  <Genus>Dacnis</Genus>
+  <Species>cayana</Species>
+  <Sub-species />
+  <VernacularNames>Blue Dacnis</VernacularNames>
+</Audio>

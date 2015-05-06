@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>15628</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN15628.wav</FileName>
+  <ClassId>mkkiqf</ClassId>
+  <Date>2006-12-13</Date>
+  <Time>?</Time>
+  <Locality>Saül</Locality>
+  <Latitude>3.6167</Latitude>
+  <Longitude>-53.2001</Longitude>
+  <Elevation>230</Elevation>
+  <Author>Alexandre Renaudier</Author>
+  <AuthorID>GKADEITXTH</AuthorID>
+  <Content>display by male</Content>
+  <Comments />
+  <Quality>2</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies>Trogon viridis,Leptotila rufaxilla</BackgroundSpecies>
+  <Order>Apodiformes</Order>
+  <Family>Trochilidae</Family>
+  <Genus>Topaza</Genus>
+  <Species>pella</Species>
+  <Sub-species>pella</Sub-species>
+  <VernacularNames>Crimson Topaz</VernacularNames>
+</Audio>

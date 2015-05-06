@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>1315</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN1315.wav</FileName>
+  <ClassId>mkqlxe</ClassId>
+  <Date>2008-09-27</Date>
+  <Time>?</Time>
+  <Locality>Lajeado Grande, Alpestre, Rio Grande do Sul</Locality>
+  <Latitude>-27.2395</Latitude>
+  <Longitude>-52.9695</Longitude>
+  <Elevation>275</Elevation>
+  <Author>Adrian Eisen Rupp</Author>
+  <AuthorID>AOPMSCIDIA</AuthorID>
+  <Content>call</Content>
+  <Comments />
+  <Quality>4</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Tyrannidae</Family>
+  <Genus>Myiozetetes</Genus>
+  <Species>similis</Species>
+  <Sub-species />
+  <VernacularNames>Social Flycatcher</VernacularNames>
+</Audio>

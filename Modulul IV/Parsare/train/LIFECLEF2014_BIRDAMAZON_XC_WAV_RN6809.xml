@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>6809</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN6809.wav</FileName>
+  <ClassId>fcojdk</ClassId>
+  <Date>2009-10-17</Date>
+  <Time>08:35</Time>
+  <Locality>Reserva Guainumbi São Luiz do Paraitinga São Paulo</Locality>
+  <Latitude>NULL</Latitude>
+  <Longitude>NULL</Longitude>
+  <Elevation>761</Elevation>
+  <Author>Renata Neves Biancalana</Author>
+  <AuthorID>LXVLRBAGTX</AuthorID>
+  <Content>song</Content>
+  <Comments />
+  <Quality>0</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Cotingidae</Family>
+  <Genus>Procnias</Genus>
+  <Species>nudicollis</Species>
+  <Sub-species />
+  <VernacularNames>Bare-throated Bellbird</VernacularNames>
+</Audio>

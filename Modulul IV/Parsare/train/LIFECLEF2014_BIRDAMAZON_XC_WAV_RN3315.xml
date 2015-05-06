@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>3315</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN3315.wav</FileName>
+  <ClassId>ltmvlu</ClassId>
+  <Date>2007-11-16</Date>
+  <Time>6:05</Time>
+  <Locality>Nazaré, Bahia.</Locality>
+  <Latitude>NULL</Latitude>
+  <Longitude>NULL</Longitude>
+  <Elevation>?</Elevation>
+  <Author>Sidnei S. dos Santos</Author>
+  <AuthorID>BHODJXTHGQ</AuthorID>
+  <Content>Song</Content>
+  <Comments />
+  <Quality>0</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Furnariidae</Family>
+  <Genus>Xiphorhynchus</Genus>
+  <Species>guttatus</Species>
+  <Sub-species />
+  <VernacularNames>Buff-throated Woodcreeper</VernacularNames>
+</Audio>

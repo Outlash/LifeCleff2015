@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>24466</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN24466.wav</FileName>
+  <ClassId>gkeewf</ClassId>
+  <Date>2005-07-00</Date>
+  <Time>xx:xx</Time>
+  <Locality>La Aurora, Serrania de los Yariguies, Galan, Santander, Colombia</Locality>
+  <Latitude>6.6389</Latitude>
+  <Longitude>-73.3892</Longitude>
+  <Elevation>2700</Elevation>
+  <Author>Thomas Donegan</Author>
+  <AuthorID>OXSIOLJJUP</AuthorID>
+  <Content>Song</Content>
+  <Comments>Former mystery 869 (a similar song was ID'd by Pai-Luiz previously)</Comments>
+  <Quality>3</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Apodiformes</Order>
+  <Family>Trochilidae</Family>
+  <Genus>Adelomyia</Genus>
+  <Species>melanogenys</Species>
+  <Sub-species />
+  <VernacularNames>Speckled Hummingbird</VernacularNames>
+</Audio>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>15428</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN15428.wav</FileName>
+  <ClassId>keftqy</ClassId>
+  <Date>2008-01-28</Date>
+  <Time>08:30</Time>
+  <Locality>Hato Pinero, Laguna Grande, Cojedes</Locality>
+  <Latitude>8.967</Latitude>
+  <Longitude>-68.078</Longitude>
+  <Elevation>80</Elevation>
+  <Author>Daniel Lane</Author>
+  <AuthorID>WOEAFQRMUD</AuthorID>
+  <Content>chatter</Content>
+  <Comments>Response to playback from bird in dense marsh vegetation along edge of lake.</Comments>
+  <Quality>1</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Gruiformes</Order>
+  <Family>Rallidae</Family>
+  <Genus>Laterallus</Genus>
+  <Species>exilis</Species>
+  <Sub-species />
+  <VernacularNames>Grey-breasted Crake</VernacularNames>
+</Audio>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>16818</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN16818.wav</FileName>
+  <ClassId>bafzon</ClassId>
+  <Date>2010-07-15</Date>
+  <Time>?</Time>
+  <Locality>Roura, Montagne Maripa</Locality>
+  <Latitude>4.442</Latitude>
+  <Longitude>-52.368</Longitude>
+  <Elevation>30</Elevation>
+  <Author>Renaudier Alexandre</Author>
+  <AuthorID>GKADEITXTH</AuthorID>
+  <Content>alarm call</Content>
+  <Comments>natural recording</Comments>
+  <Quality>1</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Formicariidae</Family>
+  <Genus>Formicarius</Genus>
+  <Species>colma</Species>
+  <Sub-species>colma</Sub-species>
+  <VernacularNames>Rufous-capped Antthrush</VernacularNames>
+</Audio>

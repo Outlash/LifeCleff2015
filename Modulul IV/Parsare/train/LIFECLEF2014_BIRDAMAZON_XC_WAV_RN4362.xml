@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>4362</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN4362.wav</FileName>
+  <ClassId>ewisum</ClassId>
+  <Date>2002-03-00</Date>
+  <Time>?</Time>
+  <Locality>Serra do Quilombo, Sao Paolo State</Locality>
+  <Latitude>-23.888035</Latitude>
+  <Longitude>-46.3399</Longitude>
+  <Elevation>40</Elevation>
+  <Author>Carlos Candia-Gallardo</Author>
+  <AuthorID>CXQSLQJCAG</AuthorID>
+  <Content>song</Content>
+  <Comments />
+  <Quality>2</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Parulidae</Family>
+  <Genus>Basileuterus</Genus>
+  <Species>culicivorus</Species>
+  <Sub-species />
+  <VernacularNames>Golden-crowned Warbler</VernacularNames>
+</Audio>

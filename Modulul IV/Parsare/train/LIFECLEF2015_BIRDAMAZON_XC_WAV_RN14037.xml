@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>14037</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN14037.wav</FileName>
+  <ClassId>friwfr</ClassId>
+  <Date>2013-10-20</Date>
+  <Time>09:00</Time>
+  <Locality>Ibirapuera Park,São Paulo city,São Paulo State</Locality>
+  <Latitude>-23.59</Latitude>
+  <Longitude>-46.66</Longitude>
+  <Elevation>750</Elevation>
+  <Author>Antonio Silveira</Author>
+  <AuthorID>NBJQSQJRYH</AuthorID>
+  <Content>male, song</Content>
+  <Comments>male singing near the female.bird-seen:yesplayback-used:no</Comments>
+  <Quality>0</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Piciformes</Order>
+  <Family>Picidae</Family>
+  <Genus>Picumnus</Genus>
+  <Species>temminckii</Species>
+  <Sub-species />
+  <VernacularNames>Ochre-collared Piculet</VernacularNames>
+</Audio>

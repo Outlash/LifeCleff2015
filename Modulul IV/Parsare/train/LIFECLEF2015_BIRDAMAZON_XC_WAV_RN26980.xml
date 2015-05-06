@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>26980</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN26980.wav</FileName>
+  <ClassId>fdjofa</ClassId>
+  <Date>2006-01-01</Date>
+  <Time>?</Time>
+  <Locality>Saül</Locality>
+  <Latitude>3.6167</Latitude>
+  <Longitude>-53.2001</Longitude>
+  <Elevation>230</Elevation>
+  <Author>Alexandre Renaudier</Author>
+  <AuthorID>GKADEITXTH</AuthorID>
+  <Content>flight call</Content>
+  <Comments />
+  <Quality>2</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Psittaciformes</Order>
+  <Family>Psittacidae</Family>
+  <Genus>Pionus</Genus>
+  <Species>menstruus</Species>
+  <Sub-species>menstruus</Sub-species>
+  <VernacularNames>Blue-headed Parrot</VernacularNames>
+</Audio>

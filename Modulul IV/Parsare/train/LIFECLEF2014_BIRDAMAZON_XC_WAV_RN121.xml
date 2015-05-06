@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>121</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN121.wav</FileName>
+  <ClassId>azkncx</ClassId>
+  <Date>2013-10-24</Date>
+  <Time>13:00</Time>
+  <Locality>Fazenda Jaranduba, Soure, Para</Locality>
+  <Latitude>-0.2552</Latitude>
+  <Longitude>-48.7199</Longitude>
+  <Elevation>0</Elevation>
+  <Author>Alex Lees</Author>
+  <AuthorID>INDDBZAFJL</AuthorID>
+  <Content>flight call, song</Content>
+  <Comments>in disturbed varzea thicket 300m from the seabird-seen:noplayback-used:no</Comments>
+  <Quality>1</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies>Ramphocelus carbo,Cantorchilus leucotis,Brotogeris versicolurus</BackgroundSpecies>
+  <Order>Psittaciformes</Order>
+  <Family>Psittacidae</Family>
+  <Genus>Amazona</Genus>
+  <Species>ochrocephala</Species>
+  <Sub-species>xantholaema</Sub-species>
+  <VernacularNames>Yellow-crowned Amazon</VernacularNames>
+</Audio>

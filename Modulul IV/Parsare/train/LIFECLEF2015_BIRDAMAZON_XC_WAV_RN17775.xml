@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>17775</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN17775.wav</FileName>
+  <ClassId>dxtjbh</ClassId>
+  <Date>2013-10-22</Date>
+  <Time>17:30</Time>
+  <Locality>Libano, Tolima</Locality>
+  <Latitude>4.9317</Latitude>
+  <Longitude>-75.048</Longitude>
+  <Elevation>1800</Elevation>
+  <Author>Jeisson Poveda</Author>
+  <AuthorID>CVJNYXJFAW</AuthorID>
+  <Content>grasshopper sound, song</Content>
+  <Comments>It's a couple near to the nestbird-seen:yesplayback-used:no</Comments>
+  <Quality>2</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Emberizidae</Family>
+  <Genus>Atlapetes</Genus>
+  <Species>flaviceps</Species>
+  <Sub-species />
+  <VernacularNames>Yellow-headed Brush Finch</VernacularNames>
+</Audio>

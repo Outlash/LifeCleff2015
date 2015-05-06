@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>27419</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN27419.wav</FileName>
+  <ClassId>sgfjyn</ClassId>
+  <Date>1993-03-00</Date>
+  <Time>?</Time>
+  <Locality>Chapada dos Guimarães, Mato Grosso state</Locality>
+  <Latitude>-15.457</Latitude>
+  <Longitude>-55.68</Longitude>
+  <Elevation>700</Elevation>
+  <Author>Frank Lambert</Author>
+  <AuthorID>YTUXOCTUEM</AuthorID>
+  <Content>call, song</Content>
+  <Comments>bird-seen:yes</Comments>
+  <Quality>4</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Thamnophilidae</Family>
+  <Genus>Herpsilochmus</Genus>
+  <Species>longirostris</Species>
+  <Sub-species />
+  <VernacularNames>Large-billed Antwren</VernacularNames>
+</Audio>

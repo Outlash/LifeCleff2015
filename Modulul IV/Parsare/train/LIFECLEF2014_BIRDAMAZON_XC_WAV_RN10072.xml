@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>10072</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN10072.wav</FileName>
+  <ClassId>ynqtrh</ClassId>
+  <Date>1998-01-06</Date>
+  <Time>11:15</Time>
+  <Locality>Ubatuba. Fazenda Cambucá</Locality>
+  <Latitude>-23.4001</Latitude>
+  <Longitude>-45.01</Longitude>
+  <Elevation>30</Elevation>
+  <Author>Jeremy Minns</Author>
+  <AuthorID>DGVLLRYDXS</AuthorID>
+  <Content>call</Content>
+  <Comments>Edge of humid forest. Large group flying about in the canopy of various trees. Two takes.</Comments>
+  <Quality>2</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies>Attila rufus</BackgroundSpecies>
+  <Order>Passeriformes</Order>
+  <Family>Thraupidae</Family>
+  <Genus>Orthogonys</Genus>
+  <Species>chloricterus</Species>
+  <Sub-species />
+  <VernacularNames>Olive-green Tanager</VernacularNames>
+</Audio>

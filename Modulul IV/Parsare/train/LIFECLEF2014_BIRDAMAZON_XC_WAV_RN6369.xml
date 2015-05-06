@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>6369</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN6369.wav</FileName>
+  <ClassId>bpyrxb</ClassId>
+  <Date>2000-11-30</Date>
+  <Time>16:32</Time>
+  <Locality>Serra do Navio, AP</Locality>
+  <Latitude>0.8926</Latitude>
+  <Longitude>-52.056</Longitude>
+  <Elevation>125</Elevation>
+  <Author>Jeremy Minns</Author>
+  <AuthorID>DGVLLRYDXS</AuthorID>
+  <Content>call, song</Content>
+  <Comments>Perimetral Norte, 10km W of Serra do Navio. Single bird 3-4m up in small trees beside road. Unfortunately I was commentating when it finally sang.</Comments>
+  <Quality>1</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Tyrannidae</Family>
+  <Genus>Myiornis</Genus>
+  <Species>ecaudatus</Species>
+  <Sub-species>miserabilis</Sub-species>
+  <VernacularNames>Short-tailed Pygmy Tyrant</VernacularNames>
+</Audio>

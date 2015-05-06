@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>29309</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN29309.wav</FileName>
+  <ClassId>iwssmb</ClassId>
+  <Date>2012-07-22</Date>
+  <Time>10:30</Time>
+  <Locality>AICA La Patasola, Vereda Boquía, Salento, Quindio</Locality>
+  <Latitude>4.6861</Latitude>
+  <Longitude>-75.5472</Longitude>
+  <Elevation>2300</Elevation>
+  <Author>Oscar H. Marín-Gómez</Author>
+  <AuthorID>CSUHASNRSU</AuthorID>
+  <Content>song</Content>
+  <Comments>Ref OHM100R. Two individuals singing in forest edge. Interference by a strong windbird-seen:yesplayback-used:no</Comments>
+  <Quality>4</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Corvidae</Family>
+  <Genus>Cyanocorax</Genus>
+  <Species>yncas</Species>
+  <Sub-species />
+  <VernacularNames>Inca Jay</VernacularNames>
+</Audio>

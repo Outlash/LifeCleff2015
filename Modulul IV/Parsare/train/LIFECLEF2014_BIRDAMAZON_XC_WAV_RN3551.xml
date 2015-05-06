@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>3551</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN3551.wav</FileName>
+  <ClassId>aiigbg</ClassId>
+  <Date>2010-03-31</Date>
+  <Time>09:10</Time>
+  <Locality>Reserva Biológica Estadual da Canela Preta, Botuverá Santa Catarina</Locality>
+  <Latitude>-27.27</Latitude>
+  <Longitude>-49.142</Longitude>
+  <Elevation>600</Elevation>
+  <Author>Evair Legal</Author>
+  <AuthorID>SMJXFKLATM</AuthorID>
+  <Content>call</Content>
+  <Comments />
+  <Quality>2</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Furnariidae</Family>
+  <Genus>Sittasomus</Genus>
+  <Species>griseicapillus</Species>
+  <Sub-species />
+  <VernacularNames>Olivaceous Woodcreeper</VernacularNames>
+</Audio>

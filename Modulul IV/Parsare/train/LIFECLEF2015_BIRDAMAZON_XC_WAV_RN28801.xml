@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>28801</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN28801.wav</FileName>
+  <ClassId>oozajf</ClassId>
+  <Date>2014-05-04</Date>
+  <Time>07:15</Time>
+  <Locality>Reserva Biológica Municipal Poço D'Anta, Juiz de Fora, MG.</Locality>
+  <Latitude>-21.757</Latitude>
+  <Longitude>-43.31</Longitude>
+  <Elevation>850</Elevation>
+  <Author>Marco Manhães</Author>
+  <AuthorID>ZLBYQGJAJN</AuthorID>
+  <Content>song</Content>
+  <Comments>bird-seen:noplayback-used:no</Comments>
+  <Quality>1</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Tinamiformes</Order>
+  <Family>Tinamidae</Family>
+  <Genus>Crypturellus</Genus>
+  <Species>obsoletus</Species>
+  <Sub-species />
+  <VernacularNames>Brown Tinamou</VernacularNames>
+</Audio>

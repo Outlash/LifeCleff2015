@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>10727</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN10727.wav</FileName>
+  <ClassId>uzzjrh</ClassId>
+  <Date>0000-00-00</Date>
+  <Time>?</Time>
+  <Locality>Caieiras, SP</Locality>
+  <Latitude>-23.36417</Latitude>
+  <Longitude>-46.74056</Longitude>
+  <Elevation>760</Elevation>
+  <Author>Luiz Fernando Figueiredo</Author>
+  <AuthorID>EYYKGDWADQ</AuthorID>
+  <Content>dawn song</Content>
+  <Comments />
+  <Quality>0</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Tyrannidae</Family>
+  <Genus>Myiarchus</Genus>
+  <Species>swainsoni</Species>
+  <Sub-species />
+  <VernacularNames>Swainson's Flycatcher</VernacularNames>
+</Audio>

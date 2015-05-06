@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>8190</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN8190.wav</FileName>
+  <ClassId>aufwve</ClassId>
+  <Date>2011-10-06</Date>
+  <Time>22:30</Time>
+  <Locality>Vale do Selke, Pomerode, Santa Catarina</Locality>
+  <Latitude>-26.79</Latitude>
+  <Longitude>-49.149</Longitude>
+  <Elevation>40</Elevation>
+  <Author>Adrian Eisen Rupp</Author>
+  <AuthorID>AOPMSCIDIA</AuthorID>
+  <Content>song</Content>
+  <Comments />
+  <Quality>2</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies />
+  <Order>Strigiformes</Order>
+  <Family>Strigidae</Family>
+  <Genus>Megascops</Genus>
+  <Species>atricapilla</Species>
+  <Sub-species />
+  <VernacularNames>Black-capped Screech Owl</VernacularNames>
+</Audio>

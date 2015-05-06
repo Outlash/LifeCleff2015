@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>3852</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN3852.wav</FileName>
+  <ClassId>fcojdk</ClassId>
+  <Date>2009-10-16</Date>
+  <Time>11:59</Time>
+  <Locality>Reserva Guainumbi São Luiz do Paraitinga São Paulo</Locality>
+  <Latitude>NULL</Latitude>
+  <Longitude>NULL</Longitude>
+  <Elevation>1000</Elevation>
+  <Author>Rodolfo Eller Viana</Author>
+  <AuthorID>CZFOSLNGBO</AuthorID>
+  <Content>?</Content>
+  <Comments />
+  <Quality>1</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Cotingidae</Family>
+  <Genus>Procnias</Genus>
+  <Species>nudicollis</Species>
+  <Sub-species />
+  <VernacularNames>Bare-throated Bellbird</VernacularNames>
+</Audio>

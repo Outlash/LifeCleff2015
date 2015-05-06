@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>33178</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN33178.wav</FileName>
+  <ClassId>xpmcwb</ClassId>
+  <Date>2007-10-03</Date>
+  <Time>10:40</Time>
+  <Locality>Pousada Rio Azul, PA</Locality>
+  <Latitude>-9.2456</Latitude>
+  <Longitude>-55.987</Longitude>
+  <Elevation>230</Elevation>
+  <Author>Bradley Davis</Author>
+  <AuthorID>YNXJLOESBB</AuthorID>
+  <Content>song</Content>
+  <Comments />
+  <Quality>3</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Furnariidae</Family>
+  <Genus>Synallaxis</Genus>
+  <Species>gujanensis</Species>
+  <Sub-species>gujanensis</Sub-species>
+  <VernacularNames>Plain-crowned Spinetail</VernacularNames>
+</Audio>

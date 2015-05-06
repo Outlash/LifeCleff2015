@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>19211</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN19211.wav</FileName>
+  <ClassId>oskqfx</ClassId>
+  <Date>2007-11-14</Date>
+  <Time>07:30</Time>
+  <Locality>Porto Grande, AP</Locality>
+  <Latitude>0.7362</Latitude>
+  <Longitude>-51.5834</Longitude>
+  <Elevation>120</Elevation>
+  <Author>Bradley Davis</Author>
+  <AuthorID>YNXJLOESBB</AuthorID>
+  <Content>song</Content>
+  <Comments>response to playback</Comments>
+  <Quality>2</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies>Thamnophilus murinus</BackgroundSpecies>
+  <Order>Passeriformes</Order>
+  <Family>Thamnophilidae</Family>
+  <Genus>Gymnopithys</Genus>
+  <Species>rufigula</Species>
+  <Sub-species />
+  <VernacularNames>Rufous-throated Antbird</VernacularNames>
+</Audio>

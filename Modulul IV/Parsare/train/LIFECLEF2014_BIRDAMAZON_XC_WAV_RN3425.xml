@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>3425</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN3425.wav</FileName>
+  <ClassId>acvtjw</ClassId>
+  <Date>2013-09-29</Date>
+  <Time>08:00</Time>
+  <Locality>Cametá, Para</Locality>
+  <Latitude>-2.1694</Latitude>
+  <Longitude>-49.5345</Longitude>
+  <Elevation>20</Elevation>
+  <Author>Alex Lees</Author>
+  <AuthorID>INDDBZAFJL</AuthorID>
+  <Content>female, male, song</Content>
+  <Comments>in logged primary forestbird-seen:yesplayback-used:yes</Comments>
+  <Quality>2</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies>Phaethornis ruber</BackgroundSpecies>
+  <Order>Passeriformes</Order>
+  <Family>Thamnophilidae</Family>
+  <Genus>Myrmotherula</Genus>
+  <Species>brachyura</Species>
+  <Sub-species />
+  <VernacularNames>Pygmy Antwren</VernacularNames>
+</Audio>

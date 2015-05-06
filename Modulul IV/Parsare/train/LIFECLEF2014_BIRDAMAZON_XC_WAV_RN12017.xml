@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>12017</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN12017.wav</FileName>
+  <ClassId>qvcasw</ClassId>
+  <Date>2013-08-30</Date>
+  <Time>09:00</Time>
+  <Locality>Correntina, Bahia</Locality>
+  <Latitude>-13.4476</Latitude>
+  <Longitude>-45.6736</Longitude>
+  <Elevation>800</Elevation>
+  <Author>Marcelo Villegas</Author>
+  <AuthorID>YWTZVKKHKP</AuthorID>
+  <Content>song</Content>
+  <Comments>bird-seen:yesplayback-used:yes</Comments>
+  <Quality>1</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies>Rhynchotus rufescens</BackgroundSpecies>
+  <Order>Passeriformes</Order>
+  <Family>Furnariidae</Family>
+  <Genus>Synallaxis</Genus>
+  <Species>albescens</Species>
+  <Sub-species />
+  <VernacularNames>Pale-breasted Spinetail</VernacularNames>
+</Audio>

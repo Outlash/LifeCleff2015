@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>28614</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN28614.wav</FileName>
+  <ClassId>bcieap</ClassId>
+  <Date>0000-00-00</Date>
+  <Time>?:?</Time>
+  <Locality>Sierra Nevada de Santa Marta, on San Lorenzo Ridge</Locality>
+  <Latitude>11.1</Latitude>
+  <Longitude>-74.1</Longitude>
+  <Elevation>2480</Elevation>
+  <Author>Frank Lambert</Author>
+  <AuthorID>YTUXOCTUEM</AuthorID>
+  <Content>call</Content>
+  <Comments>Previously published on AVoCet as &lt;a href=http://avocet.zoology.msu.edu/recordings/9216&gt;AV9216&lt;/a&gt;.  Certainty: 100%.  ID determined by: not specifically indicated, recordist normally sees birds recorded and indicates if any question, matches XC cuts. GPS: xeno-canto. Habitat: in pine.</Comments>
+  <Quality>2</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Parulidae</Family>
+  <Genus>Myiothlypis</Genus>
+  <Species>conspicillata</Species>
+  <Sub-species />
+  <VernacularNames>White-lored Warbler</VernacularNames>
+</Audio>

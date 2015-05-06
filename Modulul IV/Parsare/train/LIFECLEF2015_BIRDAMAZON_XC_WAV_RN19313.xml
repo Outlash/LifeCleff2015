@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>19313</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN19313.wav</FileName>
+  <ClassId>vspudg</ClassId>
+  <Date>2011-03-06</Date>
+  <Time>17:15</Time>
+  <Locality>Foengoe Island, Coppename River</Locality>
+  <Latitude>4.725</Latitude>
+  <Longitude>-56.206</Longitude>
+  <Elevation>60</Elevation>
+  <Author>Daniel Lane</Author>
+  <AuthorID>WOEAFQRMUD</AuthorID>
+  <Content>song</Content>
+  <Comments>Response to playback from a bird 5m up in lower mid-story over dense understory of palms but with short, broken overstory on hilltop. Crest raised. Photo: link:http://www.flickr.com/photos/8013969@N03/5544762633/</Comments>
+  <Quality>2</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Pipridae</Family>
+  <Genus>Tyranneutes</Genus>
+  <Species>virescens</Species>
+  <Sub-species />
+  <VernacularNames>Tiny Tyrant-Manakin</VernacularNames>
+</Audio>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>8928</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN8928.wav</FileName>
+  <ClassId>xyvbwf</ClassId>
+  <Date>2013-08-23</Date>
+  <Time>07:30</Time>
+  <Locality>Itaituba, Para</Locality>
+  <Latitude>-5.4957</Latitude>
+  <Longitude>-56.9861</Longitude>
+  <Elevation>150</Elevation>
+  <Author>GABRIEL LEITE</Author>
+  <AuthorID>TGBFXDVERJ</AuthorID>
+  <Content>call, male</Content>
+  <Comments>bird-seen:yesplayback-used:no</Comments>
+  <Quality>2</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Thamnophilidae</Family>
+  <Genus>Microrhopias</Genus>
+  <Species>quixensis</Species>
+  <Sub-species />
+  <VernacularNames>Dot-winged Antwren</VernacularNames>
+</Audio>

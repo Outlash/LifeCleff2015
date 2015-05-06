@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>28177</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN28177.wav</FileName>
+  <ClassId>ottart</ClassId>
+  <Date>2013-09-13</Date>
+  <Time>12:57</Time>
+  <Locality>Altaquer, RN Rio Nambi, Narino</Locality>
+  <Latitude>1.3001</Latitude>
+  <Longitude>-78.0834</Longitude>
+  <Elevation>1400</Elevation>
+  <Author>Oscar Humberto Marin-Gomez</Author>
+  <AuthorID>CSUHASNRSU</AuthorID>
+  <Content>Distress calls, song</Content>
+  <Comments>Llamados de estrés de un individuo capturado en red de niebla. Número de Catalogo OHM 1218bird-seen:yesplayback-used:no</Comments>
+  <Quality>1</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Piciformes</Order>
+  <Family>Ramphastidae</Family>
+  <Genus>Aulacorhynchus</Genus>
+  <Species>haematopygus</Species>
+  <Sub-species />
+  <VernacularNames>Crimson-rumped Toucanet</VernacularNames>
+</Audio>

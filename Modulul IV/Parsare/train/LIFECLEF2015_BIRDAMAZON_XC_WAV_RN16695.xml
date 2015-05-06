@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>16695</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN16695.wav</FileName>
+  <ClassId>bthqkm</ClassId>
+  <Date>2008-01-02</Date>
+  <Time>06:45</Time>
+  <Locality>São Miguel do Araguaia , Goiás.</Locality>
+  <Latitude>NULL</Latitude>
+  <Longitude>NULL</Longitude>
+  <Elevation>320</Elevation>
+  <Author>Nunes D´Acosta</Author>
+  <AuthorID>OHHTDSDNBT</AuthorID>
+  <Content>song</Content>
+  <Comments>Ave construindo ninho dentro da mata densa e alta, (Jatobá - Hymenaea courbaril), próximo a ilha do Bananal - Povoado de Serraria.Rio Araguaia.</Comments>
+  <Quality>2</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Accipitriformes</Order>
+  <Family>Accipitridae</Family>
+  <Genus>Harpia</Genus>
+  <Species>harpyja</Species>
+  <Sub-species />
+  <VernacularNames>Harpy Eagle</VernacularNames>
+</Audio>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>6804</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN6804.wav</FileName>
+  <ClassId>uphahj</ClassId>
+  <Date>2013-06-22</Date>
+  <Time>08:30</Time>
+  <Locality>Xapuri, Acre</Locality>
+  <Latitude>-10.7427</Latitude>
+  <Longitude>-68.2818</Longitude>
+  <Elevation>220</Elevation>
+  <Author>Marcos A. Melo</Author>
+  <AuthorID>MRGDYNJGUJ</AuthorID>
+  <Content>call, song</Content>
+  <Comments>bird-seen:yesplayback-used:no</Comments>
+  <Quality>0</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies>Thamnophilus doliatus,Thraupis palmarum,Tyrannus melancholicus</BackgroundSpecies>
+  <Order>Accipitriformes</Order>
+  <Family>Accipitridae</Family>
+  <Genus>Rupornis</Genus>
+  <Species>magnirostris</Species>
+  <Sub-species />
+  <VernacularNames>Roadside Hawk</VernacularNames>
+</Audio>

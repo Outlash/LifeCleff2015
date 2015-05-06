@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>29098</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN29098.wav</FileName>
+  <ClassId>sawlsz</ClassId>
+  <Date>2014-09-16</Date>
+  <Time>07:30</Time>
+  <Locality>PNN Chingaza , San Fransisco, La Calera, Cundinamarca</Locality>
+  <Latitude>4.7036</Latitude>
+  <Longitude>-73.865</Longitude>
+  <Elevation>2700</Elevation>
+  <Author>Oswaldo Cortes</Author>
+  <AuthorID>VVDRVZCVWW</AuthorID>
+  <Content>song</Content>
+  <Comments>bird-seen:yesplayback-used:no</Comments>
+  <Quality>2</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Strigiformes</Order>
+  <Family>Strigidae</Family>
+  <Genus>Glaucidium</Genus>
+  <Species>jardinii</Species>
+  <Sub-species />
+  <VernacularNames>Andean Pygmy Owl</VernacularNames>
+</Audio>

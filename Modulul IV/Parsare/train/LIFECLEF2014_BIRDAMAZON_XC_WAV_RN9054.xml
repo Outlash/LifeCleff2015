@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>9054</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN9054.wav</FileName>
+  <ClassId>hwqenp</ClassId>
+  <Date>1997-09-07</Date>
+  <Time>?</Time>
+  <Locality>Hotel do Ype, Itatiaia National Park</Locality>
+  <Latitude>-22.38</Latitude>
+  <Longitude>-44.63</Longitude>
+  <Elevation>?</Elevation>
+  <Author>Don Jones</Author>
+  <AuthorID>BCWZQTGMSO</AuthorID>
+  <Content>song</Content>
+  <Comments />
+  <Quality>1</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Thamnophilidae</Family>
+  <Genus>Dysithamnus</Genus>
+  <Species>mentalis</Species>
+  <Sub-species />
+  <VernacularNames>Plain Antvireo</VernacularNames>
+</Audio>

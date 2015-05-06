@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>10154</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN10154.wav</FileName>
+  <ClassId>gvqejj</ClassId>
+  <Date>2011-09-03</Date>
+  <Time>15:36</Time>
+  <Locality>Salseiro, Vidal Ramos, Santa Catarina</Locality>
+  <Latitude>-27.39726</Latitude>
+  <Longitude>-49.379082</Longitude>
+  <Elevation>450</Elevation>
+  <Author>Evair Legal</Author>
+  <AuthorID>SMJXFKLATM</AuthorID>
+  <Content>drum call</Content>
+  <Comments />
+  <Quality>2</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies />
+  <Order>Piciformes</Order>
+  <Family>Picidae</Family>
+  <Genus>Campephilus</Genus>
+  <Species>robustus</Species>
+  <Sub-species />
+  <VernacularNames>Robust Woodpecker</VernacularNames>
+</Audio>

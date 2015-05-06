@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>1554</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN1554.wav</FileName>
+  <ClassId>azkncx</ClassId>
+  <Date>2013-07-13</Date>
+  <Time>17:40</Time>
+  <Locality>Reserva Biologica do Gurupi</Locality>
+  <Latitude>-3.8141</Latitude>
+  <Longitude>-46.8045</Longitude>
+  <Elevation>190</Elevation>
+  <Author>Josh Engel</Author>
+  <AuthorID>AHACCPDBSA</AuthorID>
+  <Content>call</Content>
+  <Comments>bird-seen:yesplayback-used:no</Comments>
+  <Quality>2</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies />
+  <Order>Psittaciformes</Order>
+  <Family>Psittacidae</Family>
+  <Genus>Amazona</Genus>
+  <Species>ochrocephala</Species>
+  <Sub-species>ochrocephala</Sub-species>
+  <VernacularNames>Yellow-crowned Amazon</VernacularNames>
+</Audio>

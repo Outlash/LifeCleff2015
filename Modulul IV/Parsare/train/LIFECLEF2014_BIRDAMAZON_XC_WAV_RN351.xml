@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>351</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN351.wav</FileName>
+  <ClassId>cvyifz</ClassId>
+  <Date>2007-09-02</Date>
+  <Time>11:10</Time>
+  <Locality>Açude da Concórdia - Valença - RJ</Locality>
+  <Latitude>-22.3001</Latitude>
+  <Longitude>-43.6667</Longitude>
+  <Elevation>?</Elevation>
+  <Author>Ricardo Gagliardi</Author>
+  <AuthorID>YRDADNREOP</AuthorID>
+  <Content>call</Content>
+  <Comments>ID changed, originally H.cristata</Comments>
+  <Quality>3</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies>Myrmeciza loricata</BackgroundSpecies>
+  <Order>Passeriformes</Order>
+  <Family>Cardinalidae</Family>
+  <Genus>Habia</Genus>
+  <Species>rubica</Species>
+  <Sub-species />
+  <VernacularNames>Red-crowned Ant Tanager</VernacularNames>
+</Audio>

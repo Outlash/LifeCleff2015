@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>9329</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN9329.wav</FileName>
+  <ClassId>xywqxu</ClassId>
+  <Date>2007-12-13</Date>
+  <Time>10:00</Time>
+  <Locality>Miranda, Mato Grosso do Sul</Locality>
+  <Latitude>-20.2425</Latitude>
+  <Longitude>-56.3636</Longitude>
+  <Elevation>130</Elevation>
+  <Author>Karlla Vanessa Camargo Barbosa</Author>
+  <AuthorID>SYSWROYZJO</AuthorID>
+  <Content>juvenile</Content>
+  <Comments>Song extracted from a video recording made inside the nest of the bird by Thiago Filadelfo.More details on this nest, including remarks on the nestling vocalization, will be presented in a publication soon. bird-seen:yesplayback-used:no</Comments>
+  <Quality>1</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies />
+  <Order>Falconiformes</Order>
+  <Family>Falconidae</Family>
+  <Genus>Herpetotheres</Genus>
+  <Species>cachinnans</Species>
+  <Sub-species>queribundus</Sub-species>
+  <VernacularNames>Laughing Falcon</VernacularNames>
+</Audio>

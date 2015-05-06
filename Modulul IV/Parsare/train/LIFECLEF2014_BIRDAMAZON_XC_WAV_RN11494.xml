@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>11494</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN11494.wav</FileName>
+  <ClassId>breyju</ClassId>
+  <Date>2013-01-24</Date>
+  <Time>11:00</Time>
+  <Locality>Palmeiras, Chapada Diamantina, Bahia.</Locality>
+  <Latitude>-12.5304</Latitude>
+  <Longitude>-41.5757</Longitude>
+  <Elevation>750</Elevation>
+  <Author>Dan Lane</Author>
+  <AuthorID>WOEAFQRMUD</AuthorID>
+  <Content>call</Content>
+  <Comments>Tick' calls in response to playback from a male between about 1-4m up in taller, very dense deciduous Mimosa scrub along river.bird-seen:yesplayback-used:yes</Comments>
+  <Quality>2</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies>Picumnus innominatus,Formicivora melanogaster,Myiophobus fasciatus,Galbula ruficauda,Megarynchus pitangua,Hemitriccus margaritaceiventer,Myiothlypis flaveola</BackgroundSpecies>
+  <Order>Passeriformes</Order>
+  <Family>Emberizidae</Family>
+  <Genus>Arremon</Genus>
+  <Species>franciscanus</Species>
+  <Sub-species />
+  <VernacularNames>Sao Francisco Sparrow</VernacularNames>
+</Audio>

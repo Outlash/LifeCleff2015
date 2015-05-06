@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>26295</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN26295.wav</FileName>
+  <ClassId>dkgzcm</ClassId>
+  <Date>2011-06-12</Date>
+  <Time>09:00</Time>
+  <Locality>Mitu, Vaupes</Locality>
+  <Latitude>1.2598</Latitude>
+  <Longitude>-70.2367</Longitude>
+  <Elevation>190</Elevation>
+  <Author>Andrew Spencer</Author>
+  <AuthorID>CDTGHVBGZP</AuthorID>
+  <Content>song</Content>
+  <Comments>natural vocalization</Comments>
+  <Quality>1</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Tyrannidae</Family>
+  <Genus>Ornithion</Genus>
+  <Species>inerme</Species>
+  <Sub-species />
+  <VernacularNames>White-lored Tyrannulet</VernacularNames>
+</Audio>

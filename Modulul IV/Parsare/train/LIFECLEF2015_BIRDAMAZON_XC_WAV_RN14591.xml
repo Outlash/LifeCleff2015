@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>14591</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN14591.wav</FileName>
+  <ClassId>skjryu</ClassId>
+  <Date>2012-11-18</Date>
+  <Time>08:00</Time>
+  <Locality>Montezuma Peak Road, Pueblo Rico, Risaralda, W Andes - Tatama National Park</Locality>
+  <Latitude>5.2431</Latitude>
+  <Longitude>-76.0964</Longitude>
+  <Elevation>2275</Elevation>
+  <Author>Diego Calderon-F.</Author>
+  <AuthorID>OGATBVKNAG</AuthorID>
+  <Content>call note sensu Frank Rheindt</Content>
+  <Comments>call notes from Colombian W Andes chrysops ssp.I used to get this one mistakenly IDed as [Zimmerius albigularis - Choco Tyrannulet](http://www.flickr.com/search/?w=27992517@N08&amp;q=zimmerius%20montezuma)bird-seen:yesplayback-used:yes</Comments>
+  <Quality>1</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Tyrannidae</Family>
+  <Genus>Zimmerius</Genus>
+  <Species>chrysops</Species>
+  <Sub-species>chrysops</Sub-species>
+  <VernacularNames>Golden-faced Tyrannulet</VernacularNames>
+</Audio>

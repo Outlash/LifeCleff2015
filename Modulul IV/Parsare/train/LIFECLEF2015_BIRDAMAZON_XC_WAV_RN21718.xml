@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>21718</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN21718.wav</FileName>
+  <ClassId>pprfie</ClassId>
+  <Date>2010-10-20</Date>
+  <Time>12:00</Time>
+  <Locality>Parque Anhanguera, São Paulo - SP</Locality>
+  <Latitude>-23.418</Latitude>
+  <Longitude>-46.789</Longitude>
+  <Elevation>800</Elevation>
+  <Author>Fernando Igor de Godoy</Author>
+  <AuthorID>CHDHFSVVIN</AuthorID>
+  <Content>song</Content>
+  <Comments>FNJV 30247</Comments>
+  <Quality>0</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Vireonidae</Family>
+  <Genus>Cyclarhis</Genus>
+  <Species>gujanensis</Species>
+  <Sub-species>ochrocephala</Sub-species>
+  <VernacularNames>Rufous-browed Peppershrike</VernacularNames>
+</Audio>

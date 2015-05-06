@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>23406</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN23406.wav</FileName>
+  <ClassId>veiywt</ClassId>
+  <Date>1985-04-14</Date>
+  <Time>?</Time>
+  <Locality>San Carlos del Rio Negro, Amazonas</Locality>
+  <Latitude>1.9201</Latitude>
+  <Longitude>-67.0606</Longitude>
+  <Elevation>119</Elevation>
+  <Author>Chris Parrish</Author>
+  <AuthorID>IHIOGGZVQA</AuthorID>
+  <Content>Calls in flight.</Content>
+  <Comments>Two interacting pairs. Two birds in flight grappled talons and cartwheeled towards earth.</Comments>
+  <Quality>3</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Accipitriformes</Order>
+  <Family>Accipitridae</Family>
+  <Genus>Buteo</Genus>
+  <Species>nitidus</Species>
+  <Sub-species>nitidus</Sub-species>
+  <VernacularNames>Grey-lined Hawk</VernacularNames>
+</Audio>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>5513</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN5513.wav</FileName>
+  <ClassId>mfiwku</ClassId>
+  <Date>2009-02-05</Date>
+  <Time>?</Time>
+  <Locality>RPPN Rio das Lontras, Águas Mornas, Santa Catarina</Locality>
+  <Latitude>-27.6253</Latitude>
+  <Longitude>-48.8842</Longitude>
+  <Elevation>500</Elevation>
+  <Author>Adrian Eisen Rupp</Author>
+  <AuthorID>AOPMSCIDIA</AuthorID>
+  <Content>call</Content>
+  <Comments />
+  <Quality>2</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies>Vireo olivaceus</BackgroundSpecies>
+  <Order>Passeriformes</Order>
+  <Family>Tyrannidae</Family>
+  <Genus>Phylloscartes</Genus>
+  <Species>kronei</Species>
+  <Sub-species />
+  <VernacularNames>Restinga Tyrannulet</VernacularNames>
+</Audio>

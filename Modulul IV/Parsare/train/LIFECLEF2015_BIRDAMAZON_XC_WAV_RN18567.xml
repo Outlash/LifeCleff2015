@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>18567</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN18567.wav</FileName>
+  <ClassId>loavzh</ClassId>
+  <Date>2000-05-20</Date>
+  <Time>xx:xx</Time>
+  <Locality>Finca El Emporio (represa), Villa de Leyva, Boyaca</Locality>
+  <Latitude>NULL</Latitude>
+  <Longitude>NULL</Longitude>
+  <Elevation>2150</Elevation>
+  <Author>Bernabe Lopez-Lanus</Author>
+  <AuthorID>BYLLSJRVDZ</AuthorID>
+  <Content>song</Content>
+  <Comments />
+  <Quality>2</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Galliformes</Order>
+  <Family>Odontophoridae</Family>
+  <Genus>Colinus</Genus>
+  <Species>cristatus</Species>
+  <Sub-species>bogotensis</Sub-species>
+  <VernacularNames>Crested Bobwhite</VernacularNames>
+</Audio>

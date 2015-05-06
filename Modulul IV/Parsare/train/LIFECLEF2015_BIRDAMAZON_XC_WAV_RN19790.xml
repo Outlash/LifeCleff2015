@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>19790</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN19790.wav</FileName>
+  <ClassId>peiocp</ClassId>
+  <Date>2006-11-08</Date>
+  <Time>17:40</Time>
+  <Locality>Parque do Zizo, Sao Paulo state</Locality>
+  <Latitude>-24.017146</Latitude>
+  <Longitude>-47.81044</Longitude>
+  <Elevation>650</Elevation>
+  <Author>Jeremy Minns</Author>
+  <AuthorID>DGVLLRYDXS</AuthorID>
+  <Content>call, song</Content>
+  <Comments>Edge of humid forest. At least two birds. After playback.</Comments>
+  <Quality>2</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies>Philydor atricapillus,Attila phoenicurus,Turdus rufiventris,Grallaria varia</BackgroundSpecies>
+  <Order>Passeriformes</Order>
+  <Family>Tyrannidae</Family>
+  <Genus>Conopias</Genus>
+  <Species>trivirgatus</Species>
+  <Sub-species>trivirgatus</Sub-species>
+  <VernacularNames>Three-striped Flycatcher</VernacularNames>
+</Audio>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>20885</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN20885.wav</FileName>
+  <ClassId>yvbyyb</ClassId>
+  <Date>2010-11-08</Date>
+  <Time>17:00</Time>
+  <Locality>Porto Ferreira, São Paulo</Locality>
+  <Latitude>-21.854</Latitude>
+  <Longitude>-47.4925</Longitude>
+  <Elevation>600</Elevation>
+  <Author>Fernando Igor de Godoy</Author>
+  <AuthorID>CHDHFSVVIN</AuthorID>
+  <Content>song</Content>
+  <Comments>FNJV 30253bird-seen:yesplayback-used:no</Comments>
+  <Quality>0</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Anseriformes</Order>
+  <Family>Anatidae</Family>
+  <Genus>Dendrocygna</Genus>
+  <Species>autumnalis</Species>
+  <Sub-species />
+  <VernacularNames>Black-bellied Whistling Duck</VernacularNames>
+</Audio>

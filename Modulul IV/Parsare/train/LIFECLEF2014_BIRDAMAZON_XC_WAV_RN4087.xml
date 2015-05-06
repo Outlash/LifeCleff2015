@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>4087</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN4087.wav</FileName>
+  <ClassId>teprvp</ClassId>
+  <Date>2008-05-24</Date>
+  <Time>am</Time>
+  <Locality>Balneário Pontal, Itapoá, SC</Locality>
+  <Latitude>-26.16667</Latitude>
+  <Longitude>-48.6</Longitude>
+  <Elevation>3</Elevation>
+  <Author>Eduardo Patrial</Author>
+  <AuthorID>QEFRRVCRRP</AuthorID>
+  <Content>song</Content>
+  <Comments>Female responding play-back.</Comments>
+  <Quality>0</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Thamnophilidae</Family>
+  <Genus>Stymphalornis</Genus>
+  <Species>acutirostris</Species>
+  <Sub-species />
+  <VernacularNames>Marsh Antwren</VernacularNames>
+</Audio>

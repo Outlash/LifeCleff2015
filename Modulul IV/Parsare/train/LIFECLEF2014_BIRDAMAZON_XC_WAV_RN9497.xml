@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>9497</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN9497.wav</FileName>
+  <ClassId>lgrpvc</ClassId>
+  <Date>2011-12-21</Date>
+  <Time>11:30</Time>
+  <Locality>São José dos Campos, São Paulo</Locality>
+  <Latitude>-23.2119</Latitude>
+  <Longitude>-45.9613</Longitude>
+  <Elevation>550</Elevation>
+  <Author>GABRIEL LEITE</Author>
+  <AuthorID>TGBFXDVERJ</AuthorID>
+  <Content>call, female, male</Content>
+  <Comments>bird-seen:yesplayback-used:yes</Comments>
+  <Quality>2</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Furnariidae</Family>
+  <Genus>Synallaxis</Genus>
+  <Species>ruficapilla</Species>
+  <Sub-species />
+  <VernacularNames>Rufous-capped Spinetail</VernacularNames>
+</Audio>

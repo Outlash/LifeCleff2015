@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>6646</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN6646.wav</FileName>
+  <ClassId>uphahj</ClassId>
+  <Date>2011-05-17</Date>
+  <Time>10:00</Time>
+  <Locality>Panga Research Station, Minas Gerais</Locality>
+  <Latitude>-19.182381</Latitude>
+  <Longitude>-48.393574</Longitude>
+  <Elevation>700</Elevation>
+  <Author>Bob Planque</Author>
+  <AuthorID>OH38YHKJBS</AuthorID>
+  <Content>call</Content>
+  <Comments>circling overhead</Comments>
+  <Quality>1</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies />
+  <Order>Accipitriformes</Order>
+  <Family>Accipitridae</Family>
+  <Genus>Rupornis</Genus>
+  <Species>magnirostris</Species>
+  <Sub-species />
+  <VernacularNames>Roadside Hawk</VernacularNames>
+</Audio>

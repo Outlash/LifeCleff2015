@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>20981</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN20981.wav</FileName>
+  <ClassId>ckjsvo</ClassId>
+  <Date>2008-02-07</Date>
+  <Time>06:10</Time>
+  <Locality>Parque Regional Barbas-Bremen, Filandia, Quindio. Sector Bremen-La Popa</Locality>
+  <Latitude>4.6717</Latitude>
+  <Longitude>-75.6283</Longitude>
+  <Elevation>1800</Elevation>
+  <Author>Oscar Humberto Marin-Gomez</Author>
+  <AuthorID>CSUHASNRSU</AuthorID>
+  <Content>song</Content>
+  <Comments>OHM23B 0229bird-seen:noplayback-used:no</Comments>
+  <Quality>2</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Furnariidae</Family>
+  <Genus>Dendrocolaptes</Genus>
+  <Species>picumnus</Species>
+  <Sub-species />
+  <VernacularNames>Black-banded Woodcreeper</VernacularNames>
+</Audio>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>10989</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN10989.wav</FileName>
+  <ClassId>myvkag</ClassId>
+  <Date>2011-09-11</Date>
+  <Time>09:00</Time>
+  <Locality>Parauapebas, Para</Locality>
+  <Latitude>-6.1242</Latitude>
+  <Longitude>-50.4382</Longitude>
+  <Elevation>650</Elevation>
+  <Author>GABRIEL LEITE</Author>
+  <AuthorID>TGBFXDVERJ</AuthorID>
+  <Content>call</Content>
+  <Comments>bird-seen:yesplayback-used:no</Comments>
+  <Quality>2</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies>Hylophylax naevius</BackgroundSpecies>
+  <Order>Falconiformes</Order>
+  <Family>Falconidae</Family>
+  <Genus>Ibycter</Genus>
+  <Species>americanus</Species>
+  <Sub-species />
+  <VernacularNames>Red-throated Caracara</VernacularNames>
+</Audio>

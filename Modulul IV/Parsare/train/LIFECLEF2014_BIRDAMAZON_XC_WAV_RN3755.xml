@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>3755</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN3755.wav</FileName>
+  <ClassId>qgrzoy</ClassId>
+  <Date>2009-06-10</Date>
+  <Time>16:30</Time>
+  <Locality>Right bank of Rio Teles Pires, Jacareacanga, Para</Locality>
+  <Latitude>-9.3109</Latitude>
+  <Longitude>-56.7781</Longitude>
+  <Elevation>190</Elevation>
+  <Author>Guilherme R R Brito</Author>
+  <AuthorID>OAYOBWYOOM</AuthorID>
+  <Content>call</Content>
+  <Comments>discussed in the mysteries page (cat.n 1052)</Comments>
+  <Quality>2</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies>Hylophylax punctulatus,Brotogeris chrysoptera,Xiphorhynchus guttatus,Ramphastos vitellinus,Phaethornis superciliosus</BackgroundSpecies>
+  <Order>Passeriformes</Order>
+  <Family>Tyrannidae</Family>
+  <Genus>Hemitriccus</Genus>
+  <Species>griseipectus</Species>
+  <Sub-species />
+  <VernacularNames>White-bellied Tody-Tyrant</VernacularNames>
+</Audio>

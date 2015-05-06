@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>16676</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN16676.wav</FileName>
+  <ClassId>lktqhx</ClassId>
+  <Date>2012-11-28</Date>
+  <Time>15:52</Time>
+  <Locality>Brownsberg Natuurpark, Brokopondo</Locality>
+  <Latitude>4.9459</Latitude>
+  <Longitude>-55.183</Longitude>
+  <Elevation>480</Elevation>
+  <Author>Jon King</Author>
+  <AuthorID>LNEEOOWCQR</AuthorID>
+  <Content>male, song</Content>
+  <Comments>Distance to mic. 9m. Male perched directly overhead, feeding in fruiting tree with female and two other pairs nearby.bird-seen:yesplayback-used:no</Comments>
+  <Quality>1</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Piciformes</Order>
+  <Family>Ramphastidae</Family>
+  <Genus>Selenidera</Genus>
+  <Species>piperivora</Species>
+  <Sub-species />
+  <VernacularNames>Guianan Toucanet</VernacularNames>
+</Audio>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>13981</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN13981.wav</FileName>
+  <ClassId>pjuaxh</ClassId>
+  <Date>2011-08-21</Date>
+  <Time>11:10</Time>
+  <Locality>Cristalino Jungle Lodge, MT</Locality>
+  <Latitude>-9.5981</Latitude>
+  <Longitude>-55.932</Longitude>
+  <Elevation>200</Elevation>
+  <Author>Tayler Brooks</Author>
+  <AuthorID>ARFGONJCBJ</AuthorID>
+  <Content>call</Content>
+  <Comments>Natural vocalization.</Comments>
+  <Quality>2</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies />
+  <Order>Trogoniformes</Order>
+  <Family>Trogonidae</Family>
+  <Genus>Trogon</Genus>
+  <Species>viridis</Species>
+  <Sub-species>viridis</Sub-species>
+  <VernacularNames>Green-backed Trogon</VernacularNames>
+</Audio>

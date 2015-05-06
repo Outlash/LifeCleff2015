@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>3316</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN3316.wav</FileName>
+  <ClassId>vjavkh</ClassId>
+  <Date>2011-01-13</Date>
+  <Time>10:00</Time>
+  <Locality>RPPN Solo Sagrado, São Paulo - SP</Locality>
+  <Latitude>-23.7698</Latitude>
+  <Longitude>-46.7539</Longitude>
+  <Elevation>760</Elevation>
+  <Author>Marcos Melo</Author>
+  <AuthorID>MRGDYNJGUJ</AuthorID>
+  <Content>song</Content>
+  <Comments>male,</Comments>
+  <Quality>2</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies>Tolmomyias sulphurescens</BackgroundSpecies>
+  <Order>Passeriformes</Order>
+  <Family>Thamnophilidae</Family>
+  <Genus>Rhopias</Genus>
+  <Species>gularis</Species>
+  <Sub-species />
+  <VernacularNames>Star-throated Antwren</VernacularNames>
+</Audio>

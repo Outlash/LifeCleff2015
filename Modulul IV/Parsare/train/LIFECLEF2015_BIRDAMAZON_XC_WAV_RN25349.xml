@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>25349</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN25349.wav</FileName>
+  <ClassId>xsrvcv</ClassId>
+  <Date>2009-07-04</Date>
+  <Time>09:00</Time>
+  <Locality>Rio Claro, Doradal, Antioquia</Locality>
+  <Latitude>5.900189</Latitude>
+  <Longitude>-74.84848</Longitude>
+  <Elevation>1500</Elevation>
+  <Author>Oswaldo Cortes</Author>
+  <AuthorID>VVDRVZCVWW</AuthorID>
+  <Content>song</Content>
+  <Comments />
+  <Quality>3</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Piciformes</Order>
+  <Family>Capitonidae</Family>
+  <Genus>Capito</Genus>
+  <Species>hypoleucus</Species>
+  <Sub-species />
+  <VernacularNames>White-mantled Barbet</VernacularNames>
+</Audio>

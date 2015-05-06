@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>13933</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN13933.wav</FileName>
+  <ClassId>gkpnfs</ClassId>
+  <Date>2011-09-02</Date>
+  <Time>06:14</Time>
+  <Locality>Pantanal Wildlife Center, MT</Locality>
+  <Latitude>-16.7581</Latitude>
+  <Longitude>-56.8764</Longitude>
+  <Elevation>110</Elevation>
+  <Author>Eric DeFonso</Author>
+  <AuthorID>KTLCZCRCQX</AuthorID>
+  <Content>song</Content>
+  <Comments>Typical, natural song. Recorded on lodge grounds. Habitat is tropical deciduous woodland.bird-seen:yesplayback-used:no</Comments>
+  <Quality>2</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies>Campylorhynchus turdinus</BackgroundSpecies>
+  <Order>Columbiformes</Order>
+  <Family>Columbidae</Family>
+  <Genus>Patagioenas</Genus>
+  <Species>picazuro</Species>
+  <Sub-species />
+  <VernacularNames>Picazuro Pigeon</VernacularNames>
+</Audio>

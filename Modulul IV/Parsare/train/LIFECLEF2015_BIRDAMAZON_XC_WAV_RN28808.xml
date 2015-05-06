@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>28808</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN28808.wav</FileName>
+  <ClassId>zqzulo</ClassId>
+  <Date>2005-03-13</Date>
+  <Time>07:30</Time>
+  <Locality>Parque Dois Irmãos, Recife, Pernambuco</Locality>
+  <Latitude>-8.0539</Latitude>
+  <Longitude>-34.8809</Longitude>
+  <Elevation>0</Elevation>
+  <Author>Sidnei de Melo Dantas</Author>
+  <AuthorID>NNCKQMBGPH</AuthorID>
+  <Content>call, song</Content>
+  <Comments>Two birds, not seen. At the edge of atlantic forest, hidden in the grass, beside a lake. The second sequence, which is a full song, was after playback.</Comments>
+  <Quality>1</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies>Todirostrum cinereum,Thraupis palmarum</BackgroundSpecies>
+  <Order>Gruiformes</Order>
+  <Family>Rallidae</Family>
+  <Genus>Amaurolimnas</Genus>
+  <Species>concolor</Species>
+  <Sub-species />
+  <VernacularNames>Uniform Crake</VernacularNames>
+</Audio>

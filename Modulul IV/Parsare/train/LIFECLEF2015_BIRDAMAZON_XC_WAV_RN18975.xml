@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>18975</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN18975.wav</FileName>
+  <ClassId>runaut</ClassId>
+  <Date>2011-01-31</Date>
+  <Time>11:46</Time>
+  <Locality>FUNDEGAR ('Rio Blanco'), Manizales, Caldas</Locality>
+  <Latitude>5.074</Latitude>
+  <Longitude>-75.435</Longitude>
+  <Elevation>2650</Elevation>
+  <Author>Eric DeFonso</Author>
+  <AuthorID>KTLCZCRCQX</AuthorID>
+  <Content>song</Content>
+  <Comments>along road heading uphill from the main lodge</Comments>
+  <Quality>2</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Furnariidae</Family>
+  <Genus>Synallaxis</Genus>
+  <Species>azarae</Species>
+  <Sub-species />
+  <VernacularNames>Azara's Spinetail</VernacularNames>
+</Audio>

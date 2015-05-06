@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>10237</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN10237.wav</FileName>
+  <ClassId>jiuopg</ClassId>
+  <Date>2006-10-26</Date>
+  <Time>10:00</Time>
+  <Locality>Caetes, Espirito Santo</Locality>
+  <Latitude>-20.501637</Latitude>
+  <Longitude>-41.027412</Longitude>
+  <Elevation>1150</Elevation>
+  <Author>Daniel Lane</Author>
+  <AuthorID>WOEAFQRMUD</AuthorID>
+  <Content>daytime song</Content>
+  <Comments>Natural daytime call or song from a pair.</Comments>
+  <Quality>2</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies>Nemosia rourei,Lipaugus lanioides,Pachyramphus castaneus,Pachyramphus castaneus</BackgroundSpecies>
+  <Order>Passeriformes</Order>
+  <Family>Tyrannidae</Family>
+  <Genus>Sirystes</Genus>
+  <Species>sibilator</Species>
+  <Sub-species>sibilator</Sub-species>
+  <VernacularNames>Eastern Sirystes</VernacularNames>
+</Audio>

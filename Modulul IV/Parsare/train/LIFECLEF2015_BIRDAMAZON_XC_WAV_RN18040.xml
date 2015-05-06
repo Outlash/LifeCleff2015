@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>18040</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN18040.wav</FileName>
+  <ClassId>dccvuj</ClassId>
+  <Date>2014-07-13</Date>
+  <Time>17:00</Time>
+  <Locality>Lajeado, Lajeado, Rio Grande do Sul, Rio Grande do Sul</Locality>
+  <Latitude>-29.4613</Latitude>
+  <Longitude>-51.9477</Longitude>
+  <Elevation>30</Elevation>
+  <Author>Cleberton D. Bianchini</Author>
+  <AuthorID>FYHMASBKBC</AuthorID>
+  <Content>song</Content>
+  <Comments>bird-seen:yesplayback-used:no</Comments>
+  <Quality>1</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Gruiformes</Order>
+  <Family>Rallidae</Family>
+  <Genus>Pardirallus</Genus>
+  <Species>nigricans</Species>
+  <Sub-species />
+  <VernacularNames>Blackish Rail</VernacularNames>
+</Audio>

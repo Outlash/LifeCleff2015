@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>12707</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN12707.wav</FileName>
+  <ClassId>gaggjv</ClassId>
+  <Date>2002-08-30</Date>
+  <Time>08:58</Time>
+  <Locality>Reserva Volta Velha, Itapoá, SC</Locality>
+  <Latitude>-26.0834</Latitude>
+  <Longitude>-48.6334</Longitude>
+  <Elevation>10</Elevation>
+  <Author>Jeremy Minns</Author>
+  <AuthorID>DGVLLRYDXS</AuthorID>
+  <Content>Song</Content>
+  <Comments>Edge of coastal forest on white sand beside a river.</Comments>
+  <Quality>1</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies>Procnias nudicollis,Chiroxiphia caudata,Schiffornis virescens</BackgroundSpecies>
+  <Order>Passeriformes</Order>
+  <Family>Cardinalidae</Family>
+  <Genus>Saltator</Genus>
+  <Species>similis</Species>
+  <Sub-species>ochraceiventris</Sub-species>
+  <VernacularNames>Green-winged Saltator</VernacularNames>
+</Audio>

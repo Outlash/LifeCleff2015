@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>17964</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN17964.wav</FileName>
+  <ClassId>ziqyeq</ClassId>
+  <Date>2005-01-00</Date>
+  <Time>xx:xx</Time>
+  <Locality>Lepipuerto, Serrania de los Yariguies</Locality>
+  <Latitude>6.4581</Latitude>
+  <Longitude>-73.4576</Longitude>
+  <Elevation>2900</Elevation>
+  <Author>Thomas Donegan</Author>
+  <AuthorID>OXSIOLJJUP</AuthorID>
+  <Content>Song</Content>
+  <Comments />
+  <Quality>5</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies>Chlorospingus flavopectus</BackgroundSpecies>
+  <Order>Passeriformes</Order>
+  <Family>Parulidae</Family>
+  <Genus>Myiothlypis</Genus>
+  <Species>luteoviridis</Species>
+  <Sub-species />
+  <VernacularNames>Citrine Warbler</VernacularNames>
+</Audio>

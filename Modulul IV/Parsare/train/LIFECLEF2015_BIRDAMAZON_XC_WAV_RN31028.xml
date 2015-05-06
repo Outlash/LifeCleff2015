@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>31028</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN31028.wav</FileName>
+  <ClassId>gifcqu</ClassId>
+  <Date>2006-10-07</Date>
+  <Time>20:40</Time>
+  <Locality>Pantanal Wildlife Center, MT</Locality>
+  <Latitude>-16.7581</Latitude>
+  <Longitude>-56.8764</Longitude>
+  <Elevation>120</Elevation>
+  <Author>Nick Athanas</Author>
+  <AuthorID>XRABICUARW</AuthorID>
+  <Content>song</Content>
+  <Comments>Singing from dense grass in a cow pasture.</Comments>
+  <Quality>1</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Caprimulgiformes</Order>
+  <Family>Caprimulgidae</Family>
+  <Genus>Hydropsalis</Genus>
+  <Species>maculicaudus</Species>
+  <Sub-species />
+  <VernacularNames>Spot-tailed Nightjar</VernacularNames>
+</Audio>

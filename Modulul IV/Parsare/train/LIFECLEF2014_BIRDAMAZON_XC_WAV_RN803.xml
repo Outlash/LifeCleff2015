@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>803</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN803.wav</FileName>
+  <ClassId>gekxwa</ClassId>
+  <Date>2006-02-17</Date>
+  <Time>11:45</Time>
+  <Locality>Mata do Xanguá, Us. trapiche, Rio Formoso, Pernambuco</Locality>
+  <Latitude>NULL</Latitude>
+  <Longitude>NULL</Longitude>
+  <Elevation>90</Elevation>
+  <Author>Glauco Alves Pereira</Author>
+  <AuthorID>ZWEROGGYVP</AuthorID>
+  <Content>call</Content>
+  <Comments />
+  <Quality>4</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Tyrannidae</Family>
+  <Genus>Myiarchus</Genus>
+  <Species>ferox</Species>
+  <Sub-species />
+  <VernacularNames>Short-crested Flycatcher</VernacularNames>
+</Audio>

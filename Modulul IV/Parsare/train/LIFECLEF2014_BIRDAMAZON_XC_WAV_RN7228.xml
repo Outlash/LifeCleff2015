@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>7228</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN7228.wav</FileName>
+  <ClassId>qldqit</ClassId>
+  <Date>2000-08-14</Date>
+  <Time>08:08</Time>
+  <Locality>Caraguatatuba, São Paulo state. 'Hípica as Gaivotas'</Locality>
+  <Latitude>-23.5667</Latitude>
+  <Longitude>-45.3167</Longitude>
+  <Elevation>10</Elevation>
+  <Author>Jeremy Minns</Author>
+  <AuthorID>DGVLLRYDXS</AuthorID>
+  <Content>Call</Content>
+  <Comments>Lowland forest. This is Call C in our DVD-ROM 'Birds of Brazil'.</Comments>
+  <Quality>1</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies>Drymophila squamata,Automolus leucophthalmus,Procnias nudicollis,Turdus albicollis</BackgroundSpecies>
+  <Order>Passeriformes</Order>
+  <Family>Furnariidae</Family>
+  <Genus>Philydor</Genus>
+  <Species>atricapillus</Species>
+  <Sub-species />
+  <VernacularNames>Black-capped Foliage-gleaner</VernacularNames>
+</Audio>

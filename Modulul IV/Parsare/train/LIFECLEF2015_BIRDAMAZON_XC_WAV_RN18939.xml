@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>18939</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN18939.wav</FileName>
+  <ClassId>uvevgr</ClassId>
+  <Date>2010-02-21</Date>
+  <Time>10:20</Time>
+  <Locality>Sierra Nevada de Santa Marta, Reserva Natural la Cumbre</Locality>
+  <Latitude>11.1038</Latitude>
+  <Longitude>-74.0486</Longitude>
+  <Elevation>2300</Elevation>
+  <Author>Katherine C Cubillos</Author>
+  <AuthorID>SKLCUGTMAU</AuthorID>
+  <Content>song</Content>
+  <Comments>bird-seen:yesplayback-used:no</Comments>
+  <Quality>1</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Grallariidae</Family>
+  <Genus>Grallaria</Genus>
+  <Species>bangsi</Species>
+  <Sub-species />
+  <VernacularNames>Santa Marta Antpitta</VernacularNames>
+</Audio>

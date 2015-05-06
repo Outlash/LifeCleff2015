@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>8172</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN8172.wav</FileName>
+  <ClassId>vumzkv</ClassId>
+  <Date>2010-01-20</Date>
+  <Time>?</Time>
+  <Locality>RPPN Prima Luna, Nova Trento, Santa Catarina</Locality>
+  <Latitude>-27.258</Latitude>
+  <Longitude>-49.02</Longitude>
+  <Elevation>500</Elevation>
+  <Author>Evair Legal</Author>
+  <AuthorID>SMJXFKLATM</AuthorID>
+  <Content>song</Content>
+  <Comments />
+  <Quality>2</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Furnariidae</Family>
+  <Genus>Cichlocolaptes</Genus>
+  <Species>leucophrus</Species>
+  <Sub-species />
+  <VernacularNames>Pale-browed Treehunter</VernacularNames>
+</Audio>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>1751</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN1751.wav</FileName>
+  <ClassId>bbtkon</ClassId>
+  <Date>2000-12-04</Date>
+  <Time>06:48</Time>
+  <Locality>Porto Grande, AP. Hotel Sonho Meu</Locality>
+  <Latitude>0.6834</Latitude>
+  <Longitude>-51.4834</Longitude>
+  <Elevation>60</Elevation>
+  <Author>Jeremy Minns</Author>
+  <AuthorID>DGVLLRYDXS</AuthorID>
+  <Content>Song</Content>
+  <Comments>Secondary growth along access road to hotel.</Comments>
+  <Quality>1</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Thamnophilidae</Family>
+  <Genus>Percnostola</Genus>
+  <Species>rufifrons</Species>
+  <Sub-species>rufifrons</Sub-species>
+  <VernacularNames>Black-headed Antbird</VernacularNames>
+</Audio>

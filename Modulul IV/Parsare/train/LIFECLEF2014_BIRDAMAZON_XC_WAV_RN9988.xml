@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>9988</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN9988.wav</FileName>
+  <ClassId>kbnuar</ClassId>
+  <Date>2002-09-00</Date>
+  <Time>10:00</Time>
+  <Locality>Cristalino Jungle Lodge, MT</Locality>
+  <Latitude>-9.5981</Latitude>
+  <Longitude>-55.932</Longitude>
+  <Elevation>260</Elevation>
+  <Author>Antonio Silveira</Author>
+  <AuthorID>NBJQSQJRYH</AuthorID>
+  <Content>song</Content>
+  <Comments>A flock about 6 individuals near the tower in the forest.bird-seen:yesplayback-used:no</Comments>
+  <Quality>0</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies />
+  <Order>Psittaciformes</Order>
+  <Family>Psittacidae</Family>
+  <Genus>Pionites</Genus>
+  <Species>leucogaster</Species>
+  <Sub-species />
+  <VernacularNames>White-bellied Parrot</VernacularNames>
+</Audio>

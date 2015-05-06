@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>6785</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN6785.wav</FileName>
+  <ClassId>ezprzx</ClassId>
+  <Date>2002-07-24</Date>
+  <Time>07:00</Time>
+  <Locality>Boa Nova, Wet Forest, state of Bahia</Locality>
+  <Latitude>-14.3834</Latitude>
+  <Longitude>-40.1001</Longitude>
+  <Elevation>825</Elevation>
+  <Author>Jeremy Minns</Author>
+  <AuthorID>DGVLLRYDXS</AuthorID>
+  <Content>Long and short song</Content>
+  <Comments>Humid forest. At the end a second bird sings further off. The long song is given by the male, the short song by the female.</Comments>
+  <Quality>1</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies>Trogon surrucura,Todirostrum poliocephalum,Piprites chloris,Contopus cinereus,Colonia colonus</BackgroundSpecies>
+  <Order>Tinamiformes</Order>
+  <Family>Tinamidae</Family>
+  <Genus>Crypturellus</Genus>
+  <Species>soui</Species>
+  <Sub-species>albigularis</Sub-species>
+  <VernacularNames>Little Tinamou</VernacularNames>
+</Audio>

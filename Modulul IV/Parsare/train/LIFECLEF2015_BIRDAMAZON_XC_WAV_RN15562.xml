@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>15562</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN15562.wav</FileName>
+  <ClassId>ozjitk</ClassId>
+  <Date>2011-08-16</Date>
+  <Time>15:10</Time>
+  <Locality>Cristalino Jungle Lodge, MT</Locality>
+  <Latitude>-9.5981</Latitude>
+  <Longitude>-55.932</Longitude>
+  <Elevation>200</Elevation>
+  <Author>Tayler Brooks</Author>
+  <AuthorID>ARFGONJCBJ</AuthorID>
+  <Content>call</Content>
+  <Comments>Natural vocalization.</Comments>
+  <Quality>1</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Icteridae</Family>
+  <Genus>Molothrus</Genus>
+  <Species>oryzivorus</Species>
+  <Sub-species>oryzivorus</Sub-species>
+  <VernacularNames>Giant Cowbird</VernacularNames>
+</Audio>

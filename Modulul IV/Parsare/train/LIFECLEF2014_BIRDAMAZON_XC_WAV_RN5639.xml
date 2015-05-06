@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>5639</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN5639.wav</FileName>
+  <ClassId>ezprzx</ClassId>
+  <Date>2004-08-06</Date>
+  <Time>07:15</Time>
+  <Locality>São Gabriel da Cachoeira, Amazonas</Locality>
+  <Latitude>-0.1334</Latitude>
+  <Longitude>-67.0834</Longitude>
+  <Elevation>70</Elevation>
+  <Author>Jeremy Minns</Author>
+  <AuthorID>DGVLLRYDXS</AuthorID>
+  <Content>Song</Content>
+  <Comments>Left bank of rio Negro - campinarana.</Comments>
+  <Quality>1</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies>Tyrannulus elatus</BackgroundSpecies>
+  <Order>Tinamiformes</Order>
+  <Family>Tinamidae</Family>
+  <Genus>Crypturellus</Genus>
+  <Species>soui</Species>
+  <Sub-species>albigularis</Sub-species>
+  <VernacularNames>Little Tinamou</VernacularNames>
+</Audio>

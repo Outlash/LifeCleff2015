@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>31660</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN31660.wav</FileName>
+  <ClassId>nxdwzm</ClassId>
+  <Date>2013-11-14</Date>
+  <Time>10:30</Time>
+  <Locality>Reserva Biológica do Aguaí, Nova Veneza, Santa Catarina, Santa Catarina</Locality>
+  <Latitude>-28.6494</Latitude>
+  <Longitude>-49.6695</Longitude>
+  <Elevation>320</Elevation>
+  <Author>João Gava</Author>
+  <AuthorID>CEKMJEZKSJ</AuthorID>
+  <Content>call</Content>
+  <Comments>bird-seen:yesplayback-used:no</Comments>
+  <Quality>2</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Furnariidae</Family>
+  <Genus>Automolus</Genus>
+  <Species>leucophthalmus</Species>
+  <Sub-species />
+  <VernacularNames>White-eyed Foliage-gleaner</VernacularNames>
+</Audio>

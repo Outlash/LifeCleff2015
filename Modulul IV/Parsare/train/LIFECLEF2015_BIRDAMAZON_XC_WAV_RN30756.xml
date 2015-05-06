@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>30756</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN30756.wav</FileName>
+  <ClassId>iangvt</ClassId>
+  <Date>2014-02-06</Date>
+  <Time>06:00</Time>
+  <Locality>Sabanitas, Inirida, Guainia</Locality>
+  <Latitude>3.8809</Latitude>
+  <Longitude>-67.8813</Longitude>
+  <Elevation>90</Elevation>
+  <Author>Ottavio Janni</Author>
+  <AuthorID>PWMAZXONXH</AuthorID>
+  <Content>male, song</Content>
+  <Comments>Male singing in the canopybird-seen:yesplayback-used:no</Comments>
+  <Quality>0</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Polioptilidae</Family>
+  <Genus>Polioptila</Genus>
+  <Species>plumbea</Species>
+  <Sub-species />
+  <VernacularNames>Tropical Gnatcatcher</VernacularNames>
+</Audio>

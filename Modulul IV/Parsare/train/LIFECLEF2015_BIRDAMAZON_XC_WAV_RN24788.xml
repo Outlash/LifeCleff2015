@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>24788</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN24788.wav</FileName>
+  <ClassId>kgkeqt</ClassId>
+  <Date>2001-05-13</Date>
+  <Time>17:00</Time>
+  <Locality>Cienaga del Convento (Parque Crocodilia), Vereda El Puerto, Sabanagrande, Atlantico</Locality>
+  <Latitude>10.854</Latitude>
+  <Longitude>-74.761</Longitude>
+  <Elevation>2</Elevation>
+  <Author>Bernabe Lopez-Lanus</Author>
+  <AuthorID>BYLLSJRVDZ</AuthorID>
+  <Content>Song</Content>
+  <Comments />
+  <Quality>2</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Furnariidae</Family>
+  <Genus>Furnarius</Genus>
+  <Species>longirostris</Species>
+  <Sub-species>endoecus</Sub-species>
+  <VernacularNames>Caribbean Hornero</VernacularNames>
+</Audio>

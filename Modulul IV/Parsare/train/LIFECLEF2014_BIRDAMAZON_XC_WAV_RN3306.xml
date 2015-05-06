@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>3306</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN3306.wav</FileName>
+  <ClassId>yyjrms</ClassId>
+  <Date>2012-08-08</Date>
+  <Time>14 : 58</Time>
+  <Locality>Caatinga da Serra Alta - Mata grande - Alagoas - Brasil</Locality>
+  <Latitude>-9.135</Latitude>
+  <Longitude>-37.772</Longitude>
+  <Elevation>400</Elevation>
+  <Author>pedroteia</Author>
+  <AuthorID>BZVNDWLRSQ</AuthorID>
+  <Content>song</Content>
+  <Comments>Esse é o dobrador porque tem uma nota a mais.</Comments>
+  <Quality>1</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Emberizidae</Family>
+  <Genus>Zonotrichia</Genus>
+  <Species>capensis</Species>
+  <Sub-species />
+  <VernacularNames>Rufous-collared Sparrow</VernacularNames>
+</Audio>

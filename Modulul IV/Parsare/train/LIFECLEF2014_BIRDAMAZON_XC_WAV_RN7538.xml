@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>7538</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN7538.wav</FileName>
+  <ClassId>bjvdzx</ClassId>
+  <Date>2013-01-18</Date>
+  <Time>08:00</Time>
+  <Locality>Corredeiras do Bem Querer, Roraima</Locality>
+  <Latitude>1.9309</Latitude>
+  <Longitude>-61.0128</Longitude>
+  <Elevation>80</Elevation>
+  <Author>Eduardo D. Schultz</Author>
+  <AuthorID>QYOZQITVAC</AuthorID>
+  <Content>alarm call</Content>
+  <Comments>A couple answering to playback of themselvesbird-seen:yesplayback-used:yes</Comments>
+  <Quality>0</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies>Lipaugus vociferans</BackgroundSpecies>
+  <Order>Passeriformes</Order>
+  <Family>Troglodytidae</Family>
+  <Genus>Pheugopedius</Genus>
+  <Species>coraya</Species>
+  <Sub-species />
+  <VernacularNames>Coraya Wren</VernacularNames>
+</Audio>

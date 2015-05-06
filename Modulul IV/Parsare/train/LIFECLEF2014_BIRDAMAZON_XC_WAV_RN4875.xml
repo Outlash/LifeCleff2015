@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>4875</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN4875.wav</FileName>
+  <ClassId>onmuhx</ClassId>
+  <Date>2008-12-31</Date>
+  <Time>?</Time>
+  <Locality>Morro dos Zimbros, Portobelo, Santa Catarina</Locality>
+  <Latitude>-27.1717</Latitude>
+  <Longitude>-48.5501</Longitude>
+  <Elevation>200</Elevation>
+  <Author>Vitor de Q. Piacentini</Author>
+  <AuthorID>BMAIKRWPPA</AuthorID>
+  <Content>song</Content>
+  <Comments />
+  <Quality>1</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Thraupidae</Family>
+  <Genus>Sporophila</Genus>
+  <Species>falcirostris</Species>
+  <Sub-species />
+  <VernacularNames>Temminck's Seedeater</VernacularNames>
+</Audio>

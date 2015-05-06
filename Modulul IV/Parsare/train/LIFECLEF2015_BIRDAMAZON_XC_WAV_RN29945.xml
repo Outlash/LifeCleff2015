@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>29945</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN29945.wav</FileName>
+  <ClassId>xuvusy</ClassId>
+  <Date>2006-11-21</Date>
+  <Time>07:06</Time>
+  <Locality>Iwokrama Forest</Locality>
+  <Latitude>4.2448</Latitude>
+  <Longitude>-58.9056</Longitude>
+  <Elevation>90</Elevation>
+  <Author>Nick Athanas</Author>
+  <AuthorID>XRABICUARW</AuthorID>
+  <Content>call</Content>
+  <Comments />
+  <Quality>2</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies>Tityra cayana,Conopias albovittatus</BackgroundSpecies>
+  <Order>Passeriformes</Order>
+  <Family>Pipridae</Family>
+  <Genus>Dixiphia</Genus>
+  <Species>pipra</Species>
+  <Sub-species>pipra</Sub-species>
+  <VernacularNames>White-crowned Manakin</VernacularNames>
+</Audio>

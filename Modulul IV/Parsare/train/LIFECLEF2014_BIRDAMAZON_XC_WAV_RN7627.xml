@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>7627</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN7627.wav</FileName>
+  <ClassId>htgkfv</ClassId>
+  <Date>2006-10-02</Date>
+  <Time>8:30</Time>
+  <Locality>Reserva Ecológica de Guapiaçu, RJ</Locality>
+  <Latitude>-22.5001</Latitude>
+  <Longitude>-42.7167</Longitude>
+  <Elevation>?</Elevation>
+  <Author>Leonardo Pimentel</Author>
+  <AuthorID>JHBOHGJALL</AuthorID>
+  <Content>call, song</Content>
+  <Comments>Song after playback</Comments>
+  <Quality>1</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies>Aramus guarauna,Mionectes rufiventris</BackgroundSpecies>
+  <Order>Passeriformes</Order>
+  <Family>Tyrannidae</Family>
+  <Genus>Mionectes</Genus>
+  <Species>oleagineus</Species>
+  <Sub-species />
+  <VernacularNames>Ochre-bellied Flycatcher</VernacularNames>
+</Audio>

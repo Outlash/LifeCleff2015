@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>13001</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN13001.wav</FileName>
+  <ClassId>jvqabt</ClassId>
+  <Date>2006-09-08</Date>
+  <Time>?</Time>
+  <Locality>Perequê - Angra dos Reis - RJ</Locality>
+  <Latitude>-23.012</Latitude>
+  <Longitude>-44.5351</Longitude>
+  <Elevation>50</Elevation>
+  <Author>Ricardo Gagliardi</Author>
+  <AuthorID>YRDADNREOP</AuthorID>
+  <Content>song</Content>
+  <Comments />
+  <Quality>1</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Parulidae</Family>
+  <Genus>Myiothlypis</Genus>
+  <Species>rivularis</Species>
+  <Sub-species />
+  <VernacularNames>Riverbank Warbler</VernacularNames>
+</Audio>

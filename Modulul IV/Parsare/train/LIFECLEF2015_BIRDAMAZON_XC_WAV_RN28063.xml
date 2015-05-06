@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>28063</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN28063.wav</FileName>
+  <ClassId>ottart</ClassId>
+  <Date>0000-00-00</Date>
+  <Time>?</Time>
+  <Locality>El Mirador Río Blanco, Mocoa, Putumayo</Locality>
+  <Latitude>1.069722</Latitude>
+  <Longitude>-76.74472</Longitude>
+  <Elevation>3600</Elevation>
+  <Author>Mauricio Álvarez Rebolledo (Colección de Sonidos Ambientales - Instituto Humboldt)</Author>
+  <AuthorID>XMFDPACYJN</AuthorID>
+  <Content>song</Content>
+  <Comments>BSA 654To obtain a wav file of the original recording, please contact csa@humboldt.org.coplayback-used:no</Comments>
+  <Quality>3</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies>Henicorhina leucophrys,Myadestes ralloides</BackgroundSpecies>
+  <Order>Piciformes</Order>
+  <Family>Ramphastidae</Family>
+  <Genus>Aulacorhynchus</Genus>
+  <Species>haematopygus</Species>
+  <Sub-species />
+  <VernacularNames>Crimson-rumped Toucanet</VernacularNames>
+</Audio>

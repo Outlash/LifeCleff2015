@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>2070</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN2070.wav</FileName>
+  <ClassId>nahjxx</ClassId>
+  <Date>2010-05-06</Date>
+  <Time>6:50</Time>
+  <Locality>Entre Rios, Bahia.</Locality>
+  <Latitude>NULL</Latitude>
+  <Longitude>NULL</Longitude>
+  <Elevation>?</Elevation>
+  <Author>Sidnei S. dos Santos</Author>
+  <AuthorID>BHODJXTHGQ</AuthorID>
+  <Content>Song</Content>
+  <Comments>Song of the female after the male</Comments>
+  <Quality>0</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Thamnophilidae</Family>
+  <Genus>Thamnophilus</Genus>
+  <Species>palliatus</Species>
+  <Sub-species />
+  <VernacularNames>Chestnut-backed Antshrike</VernacularNames>
+</Audio>

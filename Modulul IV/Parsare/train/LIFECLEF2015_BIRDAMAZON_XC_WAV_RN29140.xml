@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>29140</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN29140.wav</FileName>
+  <ClassId>nqmbll</ClassId>
+  <Date>2010-10-05</Date>
+  <Time>?</Time>
+  <Locality>Mont Itoupé</Locality>
+  <Latitude>3.01667</Latitude>
+  <Longitude>-53.0667</Longitude>
+  <Elevation>700</Elevation>
+  <Author>Alexandre Renaudier</Author>
+  <AuthorID>GKADEITXTH</AuthorID>
+  <Content>song</Content>
+  <Comments>A very rare bird in French Guiana, found only in a few locations above 500 metres</Comments>
+  <Quality>2</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Apodiformes</Order>
+  <Family>Trochilidae</Family>
+  <Genus>Colibri</Genus>
+  <Species>delphinae</Species>
+  <Sub-species />
+  <VernacularNames>Brown Violetear</VernacularNames>
+</Audio>

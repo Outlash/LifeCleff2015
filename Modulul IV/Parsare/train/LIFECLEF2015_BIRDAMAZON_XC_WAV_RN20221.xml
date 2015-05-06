@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>20221</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN20221.wav</FileName>
+  <ClassId>vtxzdv</ClassId>
+  <Date>2007-01-00</Date>
+  <Time>05:30</Time>
+  <Locality>La Lana, San Pedro de los Milagros, Antioquia</Locality>
+  <Latitude>6.4495</Latitude>
+  <Longitude>-75.5942</Longitude>
+  <Elevation>2650</Elevation>
+  <Author>Thomas Donegan</Author>
+  <AuthorID>OXSIOLJJUP</AuthorID>
+  <Content>Song</Content>
+  <Comments />
+  <Quality>5</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Strigiformes</Order>
+  <Family>Strigidae</Family>
+  <Genus>Strix</Genus>
+  <Species>albitarsis</Species>
+  <Sub-species />
+  <VernacularNames>Rufous-banded Owl</VernacularNames>
+</Audio>

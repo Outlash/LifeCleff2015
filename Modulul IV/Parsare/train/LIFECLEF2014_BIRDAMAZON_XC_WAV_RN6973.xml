@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>6973</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN6973.wav</FileName>
+  <ClassId>armfvy</ClassId>
+  <Date>2010-03-10</Date>
+  <Time>?</Time>
+  <Locality>Itacorubi, Florianópolis, Santa Catarina</Locality>
+  <Latitude>-27.58</Latitude>
+  <Longitude>-48.507</Longitude>
+  <Elevation>5</Elevation>
+  <Author>Evair Legal</Author>
+  <AuthorID>SMJXFKLATM</AuthorID>
+  <Content>call</Content>
+  <Comments />
+  <Quality>2</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Tyrannidae</Family>
+  <Genus>Camptostoma</Genus>
+  <Species>obsoletum</Species>
+  <Sub-species />
+  <VernacularNames>Southern Beardless Tyrannulet</VernacularNames>
+</Audio>

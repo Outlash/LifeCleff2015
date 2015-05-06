@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>12337</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN12337.wav</FileName>
+  <ClassId>fakmli</ClassId>
+  <Date>2011-06-26</Date>
+  <Time>08:00</Time>
+  <Locality>São José dos Campos, São Paulo</Locality>
+  <Latitude>-23.0726</Latitude>
+  <Longitude>-45.9388</Longitude>
+  <Elevation>700</Elevation>
+  <Author>GABRIEL LEITE</Author>
+  <AuthorID>TGBFXDVERJ</AuthorID>
+  <Content>call</Content>
+  <Comments>bird-seen:yesplayback-used:no</Comments>
+  <Quality>4</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Tyrannidae</Family>
+  <Genus>Platyrinchus</Genus>
+  <Species>mystaceus</Species>
+  <Sub-species />
+  <VernacularNames>White-throated Spadebill</VernacularNames>
+</Audio>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>14623</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN14623.wav</FileName>
+  <ClassId>mbfftt</ClassId>
+  <Date>2011-03-15</Date>
+  <Time>08:00</Time>
+  <Locality>Reserva Natural Cerro El Ingles, Valle del Cauca</Locality>
+  <Latitude>4.7417</Latitude>
+  <Longitude>-76.2962</Longitude>
+  <Elevation>2200</Elevation>
+  <Author>Oscar H. Marín-Gómez</Author>
+  <AuthorID>CSUHASNRSU</AuthorID>
+  <Content>call, female, male, song</Content>
+  <Comments>Ref: Tape OHM70B. 7Distance to Mic: 10m.  Natural vocalization, two birds in entangled understory close to trail. Low Montane Forest.bird-seen:yesplayback-used:no</Comments>
+  <Quality>1</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Rhinocryptidae</Family>
+  <Genus>Scytalopus</Genus>
+  <Species>vicinior</Species>
+  <Sub-species />
+  <VernacularNames>Narino Tapaculo</VernacularNames>
+</Audio>

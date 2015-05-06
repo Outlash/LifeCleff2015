@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>30846</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN30846.wav</FileName>
+  <ClassId>ayzwsf</ClassId>
+  <Date>2011-04-27</Date>
+  <Time>18:40</Time>
+  <Locality>Parque Anhanguera, São Paulo - SP</Locality>
+  <Latitude>-23.418</Latitude>
+  <Longitude>-46.789</Longitude>
+  <Elevation>740</Elevation>
+  <Author>Marcos Melo</Author>
+  <AuthorID>MRGDYNJGUJ</AuthorID>
+  <Content>song</Content>
+  <Comments />
+  <Quality>0</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Pelecaniformes</Order>
+  <Family>Threskiornithidae</Family>
+  <Genus>Mesembrinibis</Genus>
+  <Species>cayennensis</Species>
+  <Sub-species />
+  <VernacularNames>Green Ibis</VernacularNames>
+</Audio>

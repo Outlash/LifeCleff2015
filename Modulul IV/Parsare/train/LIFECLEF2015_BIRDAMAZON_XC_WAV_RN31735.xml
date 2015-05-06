@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>31735</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN31735.wav</FileName>
+  <ClassId>bjsvvq</ClassId>
+  <Date>2014-08-13</Date>
+  <Time>07:00</Time>
+  <Locality>Cerro Peru, Caripe - Monagas</Locality>
+  <Latitude>10.1329</Latitude>
+  <Longitude>-63.5364</Longitude>
+  <Elevation>1300</Elevation>
+  <Author>Thore Noernberg</Author>
+  <AuthorID>TTSQGWDDGW</AuthorID>
+  <Content>song</Content>
+  <Comments>bird singing at the entrance to Cerro Peru trail - forest edgebird-seen:noplayback-used:no</Comments>
+  <Quality>1</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Furnariidae</Family>
+  <Genus>Synallaxis</Genus>
+  <Species>cinnamomea</Species>
+  <Sub-species>striatipectus</Sub-species>
+  <VernacularNames>Stripe-breasted Spinetail</VernacularNames>
+</Audio>

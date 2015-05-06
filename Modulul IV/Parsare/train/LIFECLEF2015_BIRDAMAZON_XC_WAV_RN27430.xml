@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>27430</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN27430.wav</FileName>
+  <ClassId>cpzzjy</ClassId>
+  <Date>0000-00-00</Date>
+  <Time>?:?</Time>
+  <Locality>Paramaribo</Locality>
+  <Latitude>5.81</Latitude>
+  <Longitude>-55.174</Longitude>
+  <Elevation>?</Elevation>
+  <Author>Jan-Hein Ribot</Author>
+  <AuthorID>ASEUAUOXZA</AuthorID>
+  <Content>song</Content>
+  <Comments />
+  <Quality>2</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Mimidae</Family>
+  <Genus>Mimus</Genus>
+  <Species>gilvus</Species>
+  <Sub-species />
+  <VernacularNames>Tropical Mockingbird</VernacularNames>
+</Audio>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>21110</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN21110.wav</FileName>
+  <ClassId>vsvcnk</ClassId>
+  <Date>2009-01-00</Date>
+  <Time>14:00</Time>
+  <Locality>PNN Salamanca W, north of road by Ministerio centre</Locality>
+  <Latitude>11.007</Latitude>
+  <Longitude>-74.588</Longitude>
+  <Elevation>1</Elevation>
+  <Author>Thomas Donegan</Author>
+  <AuthorID>OXSIOLJJUP</AuthorID>
+  <Content>call</Content>
+  <Comments />
+  <Quality>3</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies>Pitangus sulphuratus</BackgroundSpecies>
+  <Order>Psittaciformes</Order>
+  <Family>Psittacidae</Family>
+  <Genus>Eupsittula</Genus>
+  <Species>pertinax</Species>
+  <Sub-species />
+  <VernacularNames>Brown-throated Parakeet</VernacularNames>
+</Audio>

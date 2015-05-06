@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>4559</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN4559.wav</FileName>
+  <ClassId>mbrhfx</ClassId>
+  <Date>2006-11-03</Date>
+  <Time>11:00</Time>
+  <Locality>Reserva Ecológica de Guapiaçu, RJ</Locality>
+  <Latitude>-22.5001</Latitude>
+  <Longitude>-42.7167</Longitude>
+  <Elevation>150</Elevation>
+  <Author>Jeremy Minns</Author>
+  <AuthorID>DGVLLRYDXS</AuthorID>
+  <Content>Song</Content>
+  <Comments>Humid secondary forest.</Comments>
+  <Quality>2</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies>Drymophila squamata,Mionectes rufiventris,Chiroxiphia caudata,Vireo olivaceus,Turdus albicollis</BackgroundSpecies>
+  <Order>Columbiformes</Order>
+  <Family>Columbidae</Family>
+  <Genus>Leptotila</Genus>
+  <Species>rufaxilla</Species>
+  <Sub-species>reichenbachii</Sub-species>
+  <VernacularNames>Grey-fronted Dove</VernacularNames>
+</Audio>

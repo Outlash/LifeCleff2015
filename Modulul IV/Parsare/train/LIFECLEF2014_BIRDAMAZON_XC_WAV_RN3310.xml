@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>3310</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN3310.wav</FileName>
+  <ClassId>wenuau</ClassId>
+  <Date>2003-11-28</Date>
+  <Time>10:23</Time>
+  <Locality>Cristalino Jungle Lodge, MT</Locality>
+  <Latitude>-9.5981</Latitude>
+  <Longitude>-55.932</Longitude>
+  <Elevation>250</Elevation>
+  <Author>Jeremy Minns</Author>
+  <AuthorID>DGVLLRYDXS</AuthorID>
+  <Content>Call</Content>
+  <Comments>Terra firme forest. Male in tangled vines on rocks at foot of serra.</Comments>
+  <Quality>1</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Thamnophilidae</Family>
+  <Genus>Myrmoborus</Genus>
+  <Species>leucophrys</Species>
+  <Sub-species>leucophrys</Sub-species>
+  <VernacularNames>White-browed Antbird</VernacularNames>
+</Audio>

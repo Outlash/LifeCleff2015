@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>25433</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN25433.wav</FileName>
+  <ClassId>wbchba</ClassId>
+  <Date>1985-09-11</Date>
+  <Time>?</Time>
+  <Locality>Embalse de Camatagua, Aragua</Locality>
+  <Latitude>9.8128</Latitude>
+  <Longitude>-66.9401</Longitude>
+  <Elevation>280</Elevation>
+  <Author>Chris Parrish</Author>
+  <AuthorID>IHIOGGZVQA</AuthorID>
+  <Content>song</Content>
+  <Comments />
+  <Quality>1</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Emberizidae</Family>
+  <Genus>Arremonops</Genus>
+  <Species>conirostris</Species>
+  <Sub-species>conirostris</Sub-species>
+  <VernacularNames>Black-striped Sparrow</VernacularNames>
+</Audio>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>1580</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN1580.wav</FileName>
+  <ClassId>mfqpdt</ClassId>
+  <Date>2006-06-12</Date>
+  <Time>08:00</Time>
+  <Locality>Serra dos Caiabis, Alta Floresta - MT</Locality>
+  <Latitude>-10.7501</Latitude>
+  <Longitude>-56.7501</Longitude>
+  <Elevation>310</Elevation>
+  <Author>Bradley Davis</Author>
+  <AuthorID>YNXJLOESBB</AuthorID>
+  <Content>song</Content>
+  <Comments />
+  <Quality>1</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies />
+  <Order>Piciformes</Order>
+  <Family>Galbulidae</Family>
+  <Genus>Galbula</Genus>
+  <Species>leucogastra</Species>
+  <Sub-species />
+  <VernacularNames>Bronzy Jacamar</VernacularNames>
+</Audio>

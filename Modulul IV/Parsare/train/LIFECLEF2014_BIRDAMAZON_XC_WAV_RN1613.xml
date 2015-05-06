@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>1613</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN1613.wav</FileName>
+  <ClassId>ypmevr</ClassId>
+  <Date>2007-06-09</Date>
+  <Time>?</Time>
+  <Locality>Lajeado Alto, Parque Nacional da Serra do Itajaí, Guabiruba/Blumenau, Santa Catarina</Locality>
+  <Latitude>-27.1164</Latitude>
+  <Longitude>-49.0809</Longitude>
+  <Elevation>750</Elevation>
+  <Author>Adrian Eisen Rupp</Author>
+  <AuthorID>AOPMSCIDIA</AuthorID>
+  <Content>call</Content>
+  <Comments />
+  <Quality>0</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Conopophagidae</Family>
+  <Genus>Conopophaga</Genus>
+  <Species>melanops</Species>
+  <Sub-species>melanops</Sub-species>
+  <VernacularNames>Black-cheeked Gnateater</VernacularNames>
+</Audio>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>1293</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN1293.wav</FileName>
+  <ClassId>qfjwpy</ClassId>
+  <Date>2012-10-12</Date>
+  <Time>06:35</Time>
+  <Locality>Pousada Piuval, Transpantaneira km 12, MT</Locality>
+  <Latitude>-16.3834</Latitude>
+  <Longitude>-56.6167</Longitude>
+  <Elevation>120</Elevation>
+  <Author>Andrew Spencer</Author>
+  <AuthorID>CDTGHVBGZP</AuthorID>
+  <Content>call</Content>
+  <Comments>natural vocalization, calls from a bird flying overhead and apparently alarmed by my presence, in open ranch country.bird-seen:yesplayback-used:no</Comments>
+  <Quality>1</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies />
+  <Order>Charadriiformes</Order>
+  <Family>Charadriidae</Family>
+  <Genus>Vanellus</Genus>
+  <Species>chilensis</Species>
+  <Sub-species>lampronotus</Sub-species>
+  <VernacularNames>Southern Lapwing</VernacularNames>
+</Audio>

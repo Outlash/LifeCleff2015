@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>14781</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN14781.wav</FileName>
+  <ClassId>szldxi</ClassId>
+  <Date>2014-01-25</Date>
+  <Time>09:00</Time>
+  <Locality>Ponte Serrada, Santa Catarina</Locality>
+  <Latitude>-26.8738</Latitude>
+  <Longitude>-52.0118</Longitude>
+  <Elevation>1000</Elevation>
+  <Author>Roberto Buss Stringari</Author>
+  <AuthorID>TLLUGZINYM</AuthorID>
+  <Content>song</Content>
+  <Comments>bird-seen:yesplayback-used:no</Comments>
+  <Quality>0</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Tyrannidae</Family>
+  <Genus>Elaenia</Genus>
+  <Species>mesoleuca</Species>
+  <Sub-species />
+  <VernacularNames>Olivaceous Elaenia</VernacularNames>
+</Audio>

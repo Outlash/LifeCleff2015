@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>25822</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN25822.wav</FileName>
+  <ClassId>wixeie</ClassId>
+  <Date>2008-09-24</Date>
+  <Time>?</Time>
+  <Locality>Rio Tigre, Guatambu, Santa Catarina</Locality>
+  <Latitude>-27.140118</Latitude>
+  <Longitude>-52.783728</Longitude>
+  <Elevation>290</Elevation>
+  <Author>Adrian Eisen Rupp</Author>
+  <AuthorID>AOPMSCIDIA</AuthorID>
+  <Content>flight call</Content>
+  <Comments />
+  <Quality>2</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies>Hemitriccus diops,Chiroxiphia caudata</BackgroundSpecies>
+  <Order>Accipitriformes</Order>
+  <Family>Accipitridae</Family>
+  <Genus>Buteo</Genus>
+  <Species>brachyurus</Species>
+  <Sub-species />
+  <VernacularNames>Short-tailed Hawk</VernacularNames>
+</Audio>

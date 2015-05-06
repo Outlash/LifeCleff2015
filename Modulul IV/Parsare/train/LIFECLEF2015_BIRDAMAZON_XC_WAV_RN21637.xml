@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>21637</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN21637.wav</FileName>
+  <ClassId>afzbzd</ClassId>
+  <Date>2013-07-18</Date>
+  <Time>11:00</Time>
+  <Locality>DMI Agualinda, Apia, Risaralda</Locality>
+  <Latitude>5.128</Latitude>
+  <Longitude>-75.932</Longitude>
+  <Elevation>1700</Elevation>
+  <Author>Julian Andres Zuleta Marín</Author>
+  <AuthorID>AMCJKUNQOR</AuthorID>
+  <Content>song</Content>
+  <Comments>bird-seen:yesplayback-used:no</Comments>
+  <Quality>1</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Cuculiformes</Order>
+  <Family>Cuculidae</Family>
+  <Genus>Tapera</Genus>
+  <Species>naevia</Species>
+  <Sub-species />
+  <VernacularNames>Striped Cuckoo</VernacularNames>
+</Audio>

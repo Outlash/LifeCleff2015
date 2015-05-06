@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>4340</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN4340.wav</FileName>
+  <ClassId>nxdwzm</ClassId>
+  <Date>2008-01-12</Date>
+  <Time>00:02</Time>
+  <Locality>Santa teresa Espírito Santo</Locality>
+  <Latitude>NULL</Latitude>
+  <Longitude>NULL</Longitude>
+  <Elevation>0</Elevation>
+  <Author>Juan Pablo Culasso</Author>
+  <AuthorID>AIIUSZLMQX</AuthorID>
+  <Content>call, songs after playback.</Content>
+  <Comments />
+  <Quality>5</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Furnariidae</Family>
+  <Genus>Automolus</Genus>
+  <Species>leucophthalmus</Species>
+  <Sub-species />
+  <VernacularNames>White-eyed Foliage-gleaner</VernacularNames>
+</Audio>

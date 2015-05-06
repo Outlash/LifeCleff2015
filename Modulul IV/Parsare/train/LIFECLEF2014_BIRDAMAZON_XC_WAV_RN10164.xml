@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>10164</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN10164.wav</FileName>
+  <ClassId>sjrtzw</ClassId>
+  <Date>2009-06-27</Date>
+  <Time>18:45</Time>
+  <Locality>Vale das Taquaras, RJ</Locality>
+  <Latitude>-22.4062</Latitude>
+  <Longitude>-42.4653</Longitude>
+  <Elevation>1100</Elevation>
+  <Author>Ricardo Gagliardi</Author>
+  <AuthorID>YRDADNREOP</AuthorID>
+  <Content>call</Content>
+  <Comments />
+  <Quality>3</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies />
+  <Order>Strigiformes</Order>
+  <Family>Strigidae</Family>
+  <Genus>Strix</Genus>
+  <Species>hylophila</Species>
+  <Sub-species />
+  <VernacularNames>Rusty-barred Owl</VernacularNames>
+</Audio>

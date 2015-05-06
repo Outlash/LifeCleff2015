@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>18984</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN18984.wav</FileName>
+  <ClassId>waknsi</ClassId>
+  <Date>2014-07-09</Date>
+  <Time>19:30</Time>
+  <Locality>Otun-Quimbaya. Pereira. Risaralda deparment.</Locality>
+  <Latitude>4.7237</Latitude>
+  <Longitude>-75.5681</Longitude>
+  <Elevation>1900</Elevation>
+  <Author>jorge quintero</Author>
+  <AuthorID>EZMZWRHDXT</AuthorID>
+  <Content>call</Content>
+  <Comments>bird-seen:noplayback-used:yes</Comments>
+  <Quality>1</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Caprimulgiformes</Order>
+  <Family>Caprimulgidae</Family>
+  <Genus>Nyctidromus</Genus>
+  <Species>albicollis</Species>
+  <Sub-species />
+  <VernacularNames>Pauraque</VernacularNames>
+</Audio>

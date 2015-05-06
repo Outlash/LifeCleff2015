@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>27693</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN27693.wav</FileName>
+  <ClassId>gamqjv</ClassId>
+  <Date>2000-01-11</Date>
+  <Time>11:09</Time>
+  <Locality>Finca La Siberia, Roncesvalles, Tolima</Locality>
+  <Latitude>NULL</Latitude>
+  <Longitude>NULL</Longitude>
+  <Elevation>2800</Elevation>
+  <Author>Bernabe Lopez-Lanus</Author>
+  <AuthorID>BYLLSJRVDZ</AuthorID>
+  <Content>Call</Content>
+  <Comments />
+  <Quality>3</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Fringillidae</Family>
+  <Genus>Chlorophonia</Genus>
+  <Species>pyrrhophrys</Species>
+  <Sub-species />
+  <VernacularNames>Chestnut-breasted Chlorophonia</VernacularNames>
+</Audio>

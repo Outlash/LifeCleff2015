@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>10401</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN10401.wav</FileName>
+  <ClassId>lksjxc</ClassId>
+  <Date>2006-07-30</Date>
+  <Time>8:32</Time>
+  <Locality>Mata de Aldeia, Camaragibe, Pernambuco</Locality>
+  <Latitude>-8.0167</Latitude>
+  <Longitude>-34.9667</Longitude>
+  <Elevation>80</Elevation>
+  <Author>Mauricio Cabral Periquito</Author>
+  <AuthorID>HERKCTHDZI</AuthorID>
+  <Content>song</Content>
+  <Comments />
+  <Quality>3</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies>Cercomacra laeta</BackgroundSpecies>
+  <Order>Passeriformes</Order>
+  <Family>Tyrannidae</Family>
+  <Genus>Myiopagis</Genus>
+  <Species>caniceps</Species>
+  <Sub-species />
+  <VernacularNames>Grey Elaenia</VernacularNames>
+</Audio>

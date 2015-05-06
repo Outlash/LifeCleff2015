@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>12464</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN12464.wav</FileName>
+  <ClassId>mryser</ClassId>
+  <Date>2013-07-17</Date>
+  <Time>14:00</Time>
+  <Locality>Viçosa, Minas Gerais</Locality>
+  <Latitude>-20.79</Latitude>
+  <Longitude>-42.8882</Longitude>
+  <Elevation>800</Elevation>
+  <Author>Noé Eiterer</Author>
+  <AuthorID>TWSKITNQOV</AuthorID>
+  <Content>song</Content>
+  <Comments>bird-seen:yesplayback-used:yes</Comments>
+  <Quality>1</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies />
+  <Order>Gruiformes</Order>
+  <Family>Rallidae</Family>
+  <Genus>Gallinula</Genus>
+  <Species>galeata</Species>
+  <Sub-species />
+  <VernacularNames>Common Gallinule</VernacularNames>
+</Audio>

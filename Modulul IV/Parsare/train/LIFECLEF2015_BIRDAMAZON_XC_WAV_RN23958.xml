@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>23958</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN23958.wav</FileName>
+  <ClassId>ehpgkp</ClassId>
+  <Date>2011-03-13</Date>
+  <Time>09:25</Time>
+  <Locality>Poti Hill, N Palumeu</Locality>
+  <Latitude>3.4539</Latitude>
+  <Longitude>-55.3789</Longitude>
+  <Elevation>170</Elevation>
+  <Author>Daniel Lane</Author>
+  <AuthorID>WOEAFQRMUD</AuthorID>
+  <Content>song</Content>
+  <Comments>Long after playback, song from unseen bird on ground in very dense, low understory with palm component in sandy soil forest.</Comments>
+  <Quality>2</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies>Pyrrhura picta</BackgroundSpecies>
+  <Order>Passeriformes</Order>
+  <Family>Formicariidae</Family>
+  <Genus>Formicarius</Genus>
+  <Species>analis</Species>
+  <Sub-species />
+  <VernacularNames>Black-faced Antthrush</VernacularNames>
+</Audio>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>6776</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN6776.wav</FileName>
+  <ClassId>jocatj</ClassId>
+  <Date>2006-01-19</Date>
+  <Time>10:20</Time>
+  <Locality>Serra dos Carajás, PA</Locality>
+  <Latitude>-6.1603</Latitude>
+  <Longitude>-50.3459</Longitude>
+  <Elevation>230</Elevation>
+  <Author>Nick Athanas</Author>
+  <AuthorID>XRABICUARW</AuthorID>
+  <Content>song</Content>
+  <Comments>ID by Vitor Piacentini, originally uploaded as Schistocichla rufifacies.bird-seen:noplayback-used:yes</Comments>
+  <Quality>1</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies>Ramphastos tucanus</BackgroundSpecies>
+  <Order>Passeriformes</Order>
+  <Family>Thamnophilidae</Family>
+  <Genus>Sclateria</Genus>
+  <Species>naevia</Species>
+  <Sub-species />
+  <VernacularNames>Silvered Antbird</VernacularNames>
+</Audio>

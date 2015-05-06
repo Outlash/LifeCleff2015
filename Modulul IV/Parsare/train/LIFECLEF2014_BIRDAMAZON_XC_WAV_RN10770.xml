@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>10770</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN10770.wav</FileName>
+  <ClassId>vixeni</ClassId>
+  <Date>2010-04-23</Date>
+  <Time>10:10</Time>
+  <Locality>Parque Estadual dos Três Picos, Nova Friburgo, RJ</Locality>
+  <Latitude>-22.325</Latitude>
+  <Longitude>-42.593</Longitude>
+  <Elevation>1500</Elevation>
+  <Author>Ricardo Gagliardi</Author>
+  <AuthorID>YRDADNREOP</AuthorID>
+  <Content>call</Content>
+  <Comments />
+  <Quality>2</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Thraupidae</Family>
+  <Genus>Pyrrhocoma</Genus>
+  <Species>ruficeps</Species>
+  <Sub-species />
+  <VernacularNames>Chestnut-headed Tanager</VernacularNames>
+</Audio>

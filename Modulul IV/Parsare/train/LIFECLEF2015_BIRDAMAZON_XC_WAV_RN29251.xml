@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>29251</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN29251.wav</FileName>
+  <ClassId>xuvusy</ClassId>
+  <Date>2009-11-07</Date>
+  <Time>7:55</Time>
+  <Locality>Balbina, Presidente Figueiredo, Amazonas (S1 56' W59 25')</Locality>
+  <Latitude>NULL</Latitude>
+  <Longitude>NULL</Longitude>
+  <Elevation>50</Elevation>
+  <Author>Marco Aurélio-Silva</Author>
+  <AuthorID>MHNPLZNVHP</AuthorID>
+  <Content>song</Content>
+  <Comments />
+  <Quality>2</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Pipridae</Family>
+  <Genus>Dixiphia</Genus>
+  <Species>pipra</Species>
+  <Sub-species />
+  <VernacularNames>White-crowned Manakin</VernacularNames>
+</Audio>

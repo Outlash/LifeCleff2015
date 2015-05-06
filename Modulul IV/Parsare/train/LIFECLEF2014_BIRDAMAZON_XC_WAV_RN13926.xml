@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>13926</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN13926.wav</FileName>
+  <ClassId>vyxqzu</ClassId>
+  <Date>2007-11-13</Date>
+  <Time>07:30</Time>
+  <Locality>Parque Natural do Caraça, MG</Locality>
+  <Latitude>-20.41</Latitude>
+  <Longitude>-43.35</Longitude>
+  <Elevation>1350</Elevation>
+  <Author>Claydson P. de Assis</Author>
+  <AuthorID>PXKXBFXYWR</AuthorID>
+  <Content>Song</Content>
+  <Comments>Male</Comments>
+  <Quality>0</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Thamnophilidae</Family>
+  <Genus>Formicivora</Genus>
+  <Species>serrana</Species>
+  <Sub-species>serrana</Sub-species>
+  <VernacularNames>Serra Antwren</VernacularNames>
+</Audio>

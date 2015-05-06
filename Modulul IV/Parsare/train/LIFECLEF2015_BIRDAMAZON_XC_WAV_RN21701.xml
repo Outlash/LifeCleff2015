@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>21701</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN21701.wav</FileName>
+  <ClassId>bpufoz</ClassId>
+  <Date>2010-07-24</Date>
+  <Time>07:50</Time>
+  <Locality>Presidente Figueiredo, Amazonas</Locality>
+  <Latitude>-2.028</Latitude>
+  <Longitude>-59.997</Longitude>
+  <Elevation>50</Elevation>
+  <Author>Marcos Melo</Author>
+  <AuthorID>MRGDYNJGUJ</AuthorID>
+  <Content>territorial song</Content>
+  <Comments>a couple</Comments>
+  <Quality>3</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Tyrannidae</Family>
+  <Genus>Conopias</Genus>
+  <Species>parvus</Species>
+  <Sub-species />
+  <VernacularNames>Yellow-throated Flycatcher</VernacularNames>
+</Audio>

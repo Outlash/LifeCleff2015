@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>14009</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN14009.wav</FileName>
+  <ClassId>unimmw</ClassId>
+  <Date>1999-09-10</Date>
+  <Time>13:30</Time>
+  <Locality>Reserva Extrativista Alto Juruá. Foz do Breu</Locality>
+  <Latitude>-8.9826</Latitude>
+  <Longitude>-72.7148</Longitude>
+  <Elevation>230</Elevation>
+  <Author>Jeremy Minns</Author>
+  <AuthorID>DGVLLRYDXS</AuthorID>
+  <Content>Song</Content>
+  <Comments>Edge of humid forest. Male. Natural and after playback.</Comments>
+  <Quality>2</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies />
+  <Order>Trogoniformes</Order>
+  <Family>Trogonidae</Family>
+  <Genus>Trogon</Genus>
+  <Species>curucui</Species>
+  <Sub-species>peruvianus</Sub-species>
+  <VernacularNames>Blue-crowned Trogon</VernacularNames>
+</Audio>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>19015</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN19015.wav</FileName>
+  <ClassId>uarutv</ClassId>
+  <Date>2007-03-30</Date>
+  <Time>08:30</Time>
+  <Locality>Jau National Park, Amazonas State</Locality>
+  <Latitude>-2.9635</Latitude>
+  <Longitude>-61.0977</Longitude>
+  <Elevation>?</Elevation>
+  <Author>Thiago Vernaschi V. Costa</Author>
+  <AuthorID>FPHQAPNAFU</AuthorID>
+  <Content>song</Content>
+  <Comments>response to playback</Comments>
+  <Quality>3</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Tyrannidae</Family>
+  <Genus>Hemitriccus</Genus>
+  <Species>zosterops</Species>
+  <Sub-species>zosterops?</Sub-species>
+  <VernacularNames>White-eyed Tody-Tyrant</VernacularNames>
+</Audio>

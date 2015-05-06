@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>19125</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN19125.wav</FileName>
+  <ClassId>cqqnge</ClassId>
+  <Date>1994-07-15</Date>
+  <Time>?</Time>
+  <Locality>Rio Grande, Sierra de Imataca, Bolivar</Locality>
+  <Latitude>8.1101</Latitude>
+  <Longitude>-61.6714</Longitude>
+  <Elevation>320</Elevation>
+  <Author>Allen T. Chartier</Author>
+  <AuthorID>AZXTZTQJRO</AuthorID>
+  <Content>Call</Content>
+  <Comments />
+  <Quality>2</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Furnariidae</Family>
+  <Genus>Dendrocincla</Genus>
+  <Species>fuliginosa</Species>
+  <Sub-species>fuliginosa</Sub-species>
+  <VernacularNames>Plain-brown Woodcreeper</VernacularNames>
+</Audio>

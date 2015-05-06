@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>18400</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN18400.wav</FileName>
+  <ClassId>mddteh</ClassId>
+  <Date>2010-06-10</Date>
+  <Time>08:28</Time>
+  <Locality>Piste forestière de Trou Poisson - Iracoubo</Locality>
+  <Latitude>NULL</Latitude>
+  <Longitude>NULL</Longitude>
+  <Elevation>?</Elevation>
+  <Author>Patrick INGREMEAU</Author>
+  <AuthorID>IIVTYSKEYX</AuthorID>
+  <Content>Call</Content>
+  <Comments />
+  <Quality>1</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Tyrannidae</Family>
+  <Genus>Myiopagis</Genus>
+  <Species>gaimardii</Species>
+  <Sub-species />
+  <VernacularNames>Forest Elaenia</VernacularNames>
+</Audio>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>27165</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN27165.wav</FileName>
+  <ClassId>oamyzj</ClassId>
+  <Date>1993-03-00</Date>
+  <Time>?</Time>
+  <Locality>Boa Nova, BA - dry forest</Locality>
+  <Latitude>-14.3834</Latitude>
+  <Longitude>-40.2001</Longitude>
+  <Elevation>650</Elevation>
+  <Author>Frank Lambert</Author>
+  <AuthorID>YTUXOCTUEM</AuthorID>
+  <Content>male, song</Content>
+  <Comments>bird-seen:yesplayback-used:no</Comments>
+  <Quality>1</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Thamnophilidae</Family>
+  <Genus>Rhopornis</Genus>
+  <Species>ardesiacus</Species>
+  <Sub-species />
+  <VernacularNames>Slender Antbird</VernacularNames>
+</Audio>

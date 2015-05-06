@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>252</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN252.wav</FileName>
+  <ClassId>aiigbg</ClassId>
+  <Date>2007-10-06</Date>
+  <Time>13:00</Time>
+  <Locality>Horto Florestal, Cantareira, Sao Paulo city, Sao Paulo state</Locality>
+  <Latitude>-23.46</Latitude>
+  <Longitude>-46.638</Longitude>
+  <Elevation>830</Elevation>
+  <Author>Daniel Lane</Author>
+  <AuthorID>WOEAFQRMUD</AuthorID>
+  <Content>call</Content>
+  <Comments>Natural calls, first single note series, then rattle (second, closer example is cut off at start). One of pair in small flock with Basileuterus, in understory.</Comments>
+  <Quality>1</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Furnariidae</Family>
+  <Genus>Sittasomus</Genus>
+  <Species>griseicapillus</Species>
+  <Sub-species>sylviellus</Sub-species>
+  <VernacularNames>Olivaceous Woodcreeper</VernacularNames>
+</Audio>

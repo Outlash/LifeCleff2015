@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>16418</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN16418.wav</FileName>
+  <ClassId>myrlln</ClassId>
+  <Date>2000-11-01</Date>
+  <Time>am</Time>
+  <Locality>Sabana Grande (aprox 20 km al W de la ciudad de Riohacha), Municipio Riohacha, La Guajira</Locality>
+  <Latitude>NULL</Latitude>
+  <Longitude>NULL</Longitude>
+  <Elevation>3</Elevation>
+  <Author>Bernabe Lopez-Lanus</Author>
+  <AuthorID>BYLLSJRVDZ</AuthorID>
+  <Content>Song</Content>
+  <Comments />
+  <Quality>0</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Tyrannidae</Family>
+  <Genus>Inezia</Genus>
+  <Species>tenuirostris</Species>
+  <Sub-species />
+  <VernacularNames>Slender-billed Inezia</VernacularNames>
+</Audio>

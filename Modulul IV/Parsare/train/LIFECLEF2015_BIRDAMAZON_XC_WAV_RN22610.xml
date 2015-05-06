@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>22610</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN22610.wav</FileName>
+  <ClassId>rbdxus</ClassId>
+  <Date>2010-10-12</Date>
+  <Time>08:18</Time>
+  <Locality>Puerto Lopez, Rio Humea (meta)</Locality>
+  <Latitude>4.155</Latitude>
+  <Longitude>-72.923</Longitude>
+  <Elevation>100</Elevation>
+  <Author>Oswaldo Cortes</Author>
+  <AuthorID>VVDRVZCVWW</AuthorID>
+  <Content>song</Content>
+  <Comments>male</Comments>
+  <Quality>0</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Thraupidae</Family>
+  <Genus>Ramphocelus</Genus>
+  <Species>carbo</Species>
+  <Sub-species />
+  <VernacularNames>Silver-beaked Tanager</VernacularNames>
+</Audio>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>9567</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN9567.wav</FileName>
+  <ClassId>lssubf</ClassId>
+  <Date>2007-09-01</Date>
+  <Time>09:20</Time>
+  <Locality>Vassouras - RJ</Locality>
+  <Latitude>-22.4584</Latitude>
+  <Longitude>-43.6917</Longitude>
+  <Elevation>?</Elevation>
+  <Author>Ricardo Gagliardi</Author>
+  <AuthorID>YRDADNREOP</AuthorID>
+  <Content>song</Content>
+  <Comments>Hotel Galo Vermelho area</Comments>
+  <Quality>1</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies>Myrmeciza loricata</BackgroundSpecies>
+  <Order>Passeriformes</Order>
+  <Family>Thamnophilidae</Family>
+  <Genus>Drymophila</Genus>
+  <Species>ferruginea</Species>
+  <Sub-species />
+  <VernacularNames>Ferruginous Antbird</VernacularNames>
+</Audio>

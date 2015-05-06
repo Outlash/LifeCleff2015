@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>6868</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN6868.wav</FileName>
+  <ClassId>dccvuj</ClassId>
+  <Date>2005-10-00</Date>
+  <Time>5pm</Time>
+  <Locality>Itamonte,Minas Gerais State - near road 354</Locality>
+  <Latitude>-22.375</Latitude>
+  <Longitude>-44.769</Longitude>
+  <Elevation>1.800</Elevation>
+  <Author>Antonio Silveira</Author>
+  <AuthorID>NBJQSQJRYH</AuthorID>
+  <Content>song</Content>
+  <Comments />
+  <Quality>2</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies />
+  <Order>Gruiformes</Order>
+  <Family>Rallidae</Family>
+  <Genus>Pardirallus</Genus>
+  <Species>nigricans</Species>
+  <Sub-species />
+  <VernacularNames>Blackish Rail</VernacularNames>
+</Audio>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>3679</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN3679.wav</FileName>
+  <ClassId>fdggbs</ClassId>
+  <Date>2005-10-24</Date>
+  <Time>?</Time>
+  <Locality>Boa Nova, Wet Forest, state of Bahia</Locality>
+  <Latitude>-14.3834</Latitude>
+  <Longitude>-40.1001</Longitude>
+  <Elevation>900</Elevation>
+  <Author>Bradley Davis</Author>
+  <AuthorID>YNXJLOESBB</AuthorID>
+  <Content>song</Content>
+  <Comments>2 or 3 birds</Comments>
+  <Quality>2</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Thamnophilidae</Family>
+  <Genus>Dysithamnus</Genus>
+  <Species>stictothorax</Species>
+  <Sub-species />
+  <VernacularNames>Spot-breasted Antvireo</VernacularNames>
+</Audio>

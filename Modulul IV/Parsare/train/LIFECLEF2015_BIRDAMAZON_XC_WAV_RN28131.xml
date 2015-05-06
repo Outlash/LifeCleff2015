@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>28131</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN28131.wav</FileName>
+  <ClassId>peiocp</ClassId>
+  <Date>2006-01-25</Date>
+  <Time>16:00</Time>
+  <Locality>Ilha Anavilhanas, west of Manaus</Locality>
+  <Latitude>-2.9426</Latitude>
+  <Longitude>-60.4834</Longitude>
+  <Elevation>20</Elevation>
+  <Author>Nick Athanas</Author>
+  <AuthorID>XRABICUARW</AuthorID>
+  <Content>song</Content>
+  <Comments>Two indiv, presumably a pair</Comments>
+  <Quality>2</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies>Ramphastos tucanus,Patagioenas cayennensis</BackgroundSpecies>
+  <Order>Passeriformes</Order>
+  <Family>Tyrannidae</Family>
+  <Genus>Conopias</Genus>
+  <Species>trivirgatus</Species>
+  <Sub-species>berlepschi</Sub-species>
+  <VernacularNames>Three-striped Flycatcher</VernacularNames>
+</Audio>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>4355</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN4355.wav</FileName>
+  <ClassId>omlmlo</ClassId>
+  <Date>2008-09-24</Date>
+  <Time>?</Time>
+  <Locality>Rio Tigre, Guatambu, Santa Catarina</Locality>
+  <Latitude>-27.140118</Latitude>
+  <Longitude>-52.783728</Longitude>
+  <Elevation>290</Elevation>
+  <Author>Adrian Eisen Rupp</Author>
+  <AuthorID>AOPMSCIDIA</AuthorID>
+  <Content>call, song</Content>
+  <Comments />
+  <Quality>3</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies>Setophaga pitiayumi,Saltator similis</BackgroundSpecies>
+  <Order>Passeriformes</Order>
+  <Family>Cardinalidae</Family>
+  <Genus>Cyanocompsa</Genus>
+  <Species>brissonii</Species>
+  <Sub-species />
+  <VernacularNames>Ultramarine Grosbeak</VernacularNames>
+</Audio>

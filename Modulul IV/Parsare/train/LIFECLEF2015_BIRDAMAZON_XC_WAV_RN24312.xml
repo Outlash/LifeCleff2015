@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>24312</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN24312.wav</FileName>
+  <ClassId>kmsgtq</ClassId>
+  <Date>2013-02-07</Date>
+  <Time>07:56</Time>
+  <Locality>KM756, Troncal 10, Sierra de Lema, Bolívar</Locality>
+  <Latitude>5.9132</Latitude>
+  <Longitude>-61.4355</Longitude>
+  <Elevation>1400</Elevation>
+  <Author>Jon King</Author>
+  <AuthorID>LNEEOOWCQR</AuthorID>
+  <Content>call, female, male, song</Content>
+  <Comments>Distance to mic. c.10m. Calls (from presumed female) and song (from presumed male) in initial immediate response to self playback (of song). Singing bird seen after recording.bird-seen:yesplayback-used:yes</Comments>
+  <Quality>2</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Troglodytidae</Family>
+  <Genus>Microcerculus</Genus>
+  <Species>ustulatus</Species>
+  <Sub-species />
+  <VernacularNames>Flutist Wren</VernacularNames>
+</Audio>

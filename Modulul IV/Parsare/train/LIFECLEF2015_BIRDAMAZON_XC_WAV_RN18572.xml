@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>18572</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN18572.wav</FileName>
+  <ClassId>yyjrms</ClassId>
+  <Date>2007-07-28</Date>
+  <Time>08:12</Time>
+  <Locality>Humedal Jaboque, ciudad de Bogota</Locality>
+  <Latitude>4.707636</Latitude>
+  <Longitude>-74.128039</Longitude>
+  <Elevation>2500</Elevation>
+  <Author>Oswaldo Cortes</Author>
+  <AuthorID>VVDRVZCVWW</AuthorID>
+  <Content>call</Content>
+  <Comments />
+  <Quality>3</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Emberizidae</Family>
+  <Genus>Zonotrichia</Genus>
+  <Species>capensis</Species>
+  <Sub-species />
+  <VernacularNames>Rufous-collared Sparrow</VernacularNames>
+</Audio>

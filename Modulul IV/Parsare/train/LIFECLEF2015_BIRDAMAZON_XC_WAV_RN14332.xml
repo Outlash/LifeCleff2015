@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>14332</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN14332.wav</FileName>
+  <ClassId>bthqkm</ClassId>
+  <Date>1998-10-29</Date>
+  <Time>?:?</Time>
+  <Locality>Currupira das Araras, Mato Grosso</Locality>
+  <Latitude>NULL</Latitude>
+  <Longitude>NULL</Longitude>
+  <Elevation>?</Elevation>
+  <Author>Miguel Castelino</Author>
+  <AuthorID>RCJCABZSNP</AuthorID>
+  <Content>song</Content>
+  <Comments>female &lt;a href=http://www.xeno-canto.org/graphics/conosur.jpg rel=lightbox&gt;From Bird Sounds of Southern South America by Lopez-Lanus (2008)&lt;/a&gt;</Comments>
+  <Quality>2</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Accipitriformes</Order>
+  <Family>Accipitridae</Family>
+  <Genus>Harpia</Genus>
+  <Species>harpyja</Species>
+  <Sub-species />
+  <VernacularNames>Harpy Eagle</VernacularNames>
+</Audio>

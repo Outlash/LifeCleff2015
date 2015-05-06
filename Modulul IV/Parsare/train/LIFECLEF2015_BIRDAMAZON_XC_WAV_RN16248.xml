@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>16248</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN16248.wav</FileName>
+  <ClassId>ayzwsf</ClassId>
+  <Date>2011-10-09</Date>
+  <Time>05:00</Time>
+  <Locality>Cristalino Jungle Lodge, MT</Locality>
+  <Latitude>-9.5981</Latitude>
+  <Longitude>-55.932</Longitude>
+  <Elevation>260</Elevation>
+  <Author>Eric DeFonso</Author>
+  <AuthorID>KTLCZCRCQX</AuthorID>
+  <Content>song</Content>
+  <Comments>The main 'corocoro' song, heard as bird went downriver in darkness. At the boat dock for the lodge.bird-seen:noplayback-used:no</Comments>
+  <Quality>2</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies>Cantorchilus leucotis,Pipile cujubi</BackgroundSpecies>
+  <Order>Pelecaniformes</Order>
+  <Family>Threskiornithidae</Family>
+  <Genus>Mesembrinibis</Genus>
+  <Species>cayennensis</Species>
+  <Sub-species />
+  <VernacularNames>Green Ibis</VernacularNames>
+</Audio>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>18191</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN18191.wav</FileName>
+  <ClassId>jbynhe</ClassId>
+  <Date>2003-03-28</Date>
+  <Time>07:23</Time>
+  <Locality>Guajará-Mirim, RO</Locality>
+  <Latitude>-10.8814</Latitude>
+  <Longitude>-65.2501</Longitude>
+  <Elevation>130</Elevation>
+  <Author>Jeremy Minns</Author>
+  <AuthorID>DGVLLRYDXS</AuthorID>
+  <Content>call, song</Content>
+  <Comments>Terra firme forest. Calls by male in foreground, second bird singing in background.</Comments>
+  <Quality>1</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies>Amazona farinosa,Hypocnemis ochrogyna,Attila spadiceus</BackgroundSpecies>
+  <Order>Passeriformes</Order>
+  <Family>Thamnophilidae</Family>
+  <Genus>Willisornis</Genus>
+  <Species>poecilinotus</Species>
+  <Sub-species>griseiventris</Sub-species>
+  <VernacularNames>Common Scale-backed Antbird</VernacularNames>
+</Audio>

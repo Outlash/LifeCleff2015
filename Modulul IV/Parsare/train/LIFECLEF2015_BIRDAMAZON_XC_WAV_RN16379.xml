@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>16379</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN16379.wav</FileName>
+  <ClassId>xohbun</ClassId>
+  <Date>2007-08-25</Date>
+  <Time>16:00</Time>
+  <Locality>Rio Purus, state of Acre</Locality>
+  <Latitude>-9.0509</Latitude>
+  <Longitude>-69.5539</Longitude>
+  <Elevation>100</Elevation>
+  <Author>Sidnei Dantas</Author>
+  <AuthorID>NNCKQMBGPH</AuthorID>
+  <Content>call, song</Content>
+  <Comments>edge of forest</Comments>
+  <Quality>2</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies>Attila bolivianus</BackgroundSpecies>
+  <Order>Passeriformes</Order>
+  <Family>Fringillidae</Family>
+  <Genus>Euphonia</Genus>
+  <Species>chrysopasta</Species>
+  <Sub-species />
+  <VernacularNames>White-lored Euphonia</VernacularNames>
+</Audio>

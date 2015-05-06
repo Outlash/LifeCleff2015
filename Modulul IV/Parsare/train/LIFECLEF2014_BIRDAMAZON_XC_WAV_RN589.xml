@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>589</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN589.wav</FileName>
+  <ClassId>qfjwpy</ClassId>
+  <Date>2009-11-06</Date>
+  <Time>12:30</Time>
+  <Locality>Estação de Pesquisa do Canguçu - Pium - Tocantins State</Locality>
+  <Latitude>-9.9826</Latitude>
+  <Longitude>-50.0151</Longitude>
+  <Elevation>180</Elevation>
+  <Author>GABRIEL LEITE</Author>
+  <AuthorID>TGBFXDVERJ</AuthorID>
+  <Content>call, female, male, song</Content>
+  <Comments>bird-seen:yesplayback-used:no</Comments>
+  <Quality>3</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies />
+  <Order>Charadriiformes</Order>
+  <Family>Charadriidae</Family>
+  <Genus>Vanellus</Genus>
+  <Species>chilensis</Species>
+  <Sub-species />
+  <VernacularNames>Southern Lapwing</VernacularNames>
+</Audio>

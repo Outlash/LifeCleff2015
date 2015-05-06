@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>14777</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN14777.wav</FileName>
+  <ClassId>mjpnmn</ClassId>
+  <Date>2014-08-14</Date>
+  <Time>05:30</Time>
+  <Locality>Finca Cachicamo, Santa Ines - Caripe area, Monagas</Locality>
+  <Latitude>10.1988</Latitude>
+  <Longitude>-63.4418</Longitude>
+  <Elevation>900</Elevation>
+  <Author>Thore Noernberg</Author>
+  <AuthorID>TTSQGWDDGW</AuthorID>
+  <Content>call</Content>
+  <Comments>bird is calling from the primary forest in distance to the cabin of the farm bird-seen:noplayback-used:no</Comments>
+  <Quality>1</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Strigiformes</Order>
+  <Family>Strigidae</Family>
+  <Genus>Glaucidium</Genus>
+  <Species>brasilianum</Species>
+  <Sub-species />
+  <VernacularNames>Ferruginous Pygmy Owl</VernacularNames>
+</Audio>

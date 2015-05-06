@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>26253</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN26253.wav</FileName>
+  <ClassId>cpzzjy</ClassId>
+  <Date>2010-09-25</Date>
+  <Time>?</Time>
+  <Locality>Awala-Yalimapo</Locality>
+  <Latitude>5.7334</Latitude>
+  <Longitude>-53.9001</Longitude>
+  <Elevation>2</Elevation>
+  <Author>Alexandre Renaudier</Author>
+  <AuthorID>GKADEITXTH</AuthorID>
+  <Content>call</Content>
+  <Comments />
+  <Quality>1</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies>Troglodytes aedon,Pitangus sulphuratus</BackgroundSpecies>
+  <Order>Passeriformes</Order>
+  <Family>Mimidae</Family>
+  <Genus>Mimus</Genus>
+  <Species>gilvus</Species>
+  <Sub-species />
+  <VernacularNames>Tropical Mockingbird</VernacularNames>
+</Audio>

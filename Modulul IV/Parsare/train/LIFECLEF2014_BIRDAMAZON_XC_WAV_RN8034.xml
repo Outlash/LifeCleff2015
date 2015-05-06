@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>8034</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN8034.wav</FileName>
+  <ClassId>yplahx</ClassId>
+  <Date>2011-08-21</Date>
+  <Time>11:45</Time>
+  <Locality>Cristalino Jungle Lodge, MT</Locality>
+  <Latitude>-9.5981</Latitude>
+  <Longitude>-55.932</Longitude>
+  <Elevation>200</Elevation>
+  <Author>Tayler Brooks</Author>
+  <AuthorID>ARFGONJCBJ</AuthorID>
+  <Content>call, song</Content>
+  <Comments>In response to playback. Three song types in this cut, and 2 call types.</Comments>
+  <Quality>1</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Polioptilidae</Family>
+  <Genus>Ramphocaenus</Genus>
+  <Species>melanurus</Species>
+  <Sub-species />
+  <VernacularNames>Long-billed Gnatwren</VernacularNames>
+</Audio>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>6747</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN6747.wav</FileName>
+  <ClassId>wenuau</ClassId>
+  <Date>1999-09-18</Date>
+  <Time>06:50</Time>
+  <Locality>Reserva Extrativista Alto Juruá. Pedra Pintada</Locality>
+  <Latitude>-9.3828</Latitude>
+  <Longitude>-72.7106</Longitude>
+  <Elevation>230</Elevation>
+  <Author>Jeremy Minns</Author>
+  <AuthorID>DGVLLRYDXS</AuthorID>
+  <Content>Song</Content>
+  <Comments>In sucessional vegetation, mainly composed of low cecropias. Male, after playback.</Comments>
+  <Quality>1</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies>Ramphotrigon fuscicauda,Ramphastos tucanus,Xiphorhynchus guttatus,Campylorhynchus turdinus,Formicarius analis</BackgroundSpecies>
+  <Order>Passeriformes</Order>
+  <Family>Thamnophilidae</Family>
+  <Genus>Myrmoborus</Genus>
+  <Species>leucophrys</Species>
+  <Sub-species>leucophrys</Sub-species>
+  <VernacularNames>White-browed Antbird</VernacularNames>
+</Audio>

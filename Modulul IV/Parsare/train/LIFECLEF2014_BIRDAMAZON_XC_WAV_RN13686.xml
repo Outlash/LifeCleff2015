@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>13686</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN13686.wav</FileName>
+  <ClassId>lmawzv</ClassId>
+  <Date>2009-01-30</Date>
+  <Time>07:25</Time>
+  <Locality>Reserva Natural da Vale - Linhares, Espirito Santo</Locality>
+  <Latitude>-19.1456</Latitude>
+  <Longitude>-40.0645</Longitude>
+  <Elevation>50</Elevation>
+  <Author>Marcos Melo</Author>
+  <AuthorID>MRGDYNJGUJ</AuthorID>
+  <Content>song</Content>
+  <Comments>A couple perched</Comments>
+  <Quality>1</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies>Vireo olivaceus</BackgroundSpecies>
+  <Order>Psittaciformes</Order>
+  <Family>Psittacidae</Family>
+  <Genus>Primolius</Genus>
+  <Species>maracana</Species>
+  <Sub-species />
+  <VernacularNames>Blue-winged Macaw</VernacularNames>
+</Audio>

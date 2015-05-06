@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>14701</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN14701.wav</FileName>
+  <ClassId>tobdcn</ClassId>
+  <Date>2012-07-00</Date>
+  <Time>13:00</Time>
+  <Locality>Las Tangaras</Locality>
+  <Latitude>5.7289</Latitude>
+  <Longitude>-76.2439</Longitude>
+  <Elevation>1800</Elevation>
+  <Author>David Edwards</Author>
+  <AuthorID>AFEHYCAHZR</AuthorID>
+  <Content>song</Content>
+  <Comments>playback-used:no</Comments>
+  <Quality>1</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Grallariidae</Family>
+  <Genus>Grallaria</Genus>
+  <Species>flavotincta</Species>
+  <Sub-species />
+  <VernacularNames>Yellow-breasted Antpitta</VernacularNames>
+</Audio>

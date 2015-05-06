@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>6277</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN6277.wav</FileName>
+  <ClassId>btsawy</ClassId>
+  <Date>1998-12-14</Date>
+  <Time>10:20</Time>
+  <Locality>Manaus. INPA tower on ZF-2</Locality>
+  <Latitude>-1.4506</Latitude>
+  <Longitude>-48.4439</Longitude>
+  <Elevation>100</Elevation>
+  <Author>Jeremy Minns</Author>
+  <AuthorID>DGVLLRYDXS</AuthorID>
+  <Content>call, male</Content>
+  <Comments>Terra firme forest.</Comments>
+  <Quality>2</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Thamnophilidae</Family>
+  <Genus>Cercomacra</Genus>
+  <Species>cinerascens</Species>
+  <Sub-species>immaculata</Sub-species>
+  <VernacularNames>Grey Antbird</VernacularNames>
+</Audio>

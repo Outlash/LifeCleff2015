@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>29195</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN29195.wav</FileName>
+  <ClassId>zdicwn</ClassId>
+  <Date>2011-01-20</Date>
+  <Time>16:00</Time>
+  <Locality>Laguna El Hato</Locality>
+  <Latitude>NULL</Latitude>
+  <Longitude>NULL</Longitude>
+  <Elevation>?</Elevation>
+  <Author>Jesse Fagan</Author>
+  <AuthorID>MKUJNSTVEZ</AuthorID>
+  <Content>call</Content>
+  <Comments />
+  <Quality>2</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Tyrannidae</Family>
+  <Genus>Myiopagis</Genus>
+  <Species>viridicata</Species>
+  <Sub-species />
+  <VernacularNames>Greenish Elaenia</VernacularNames>
+</Audio>

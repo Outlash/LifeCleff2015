@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>1595</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN1595.wav</FileName>
+  <ClassId>cxyhrl</ClassId>
+  <Date>2009-08-23</Date>
+  <Time>06:45</Time>
+  <Locality>Setor Samambaia, Campus II UFG - Goiânia, Goiás.</Locality>
+  <Latitude>NULL</Latitude>
+  <Longitude>NULL</Longitude>
+  <Elevation>690</Elevation>
+  <Author>Nunes D´Acosta</Author>
+  <AuthorID>OHHTDSDNBT</AuthorID>
+  <Content>song</Content>
+  <Comments>Ninhal construído em reserva de mata seca(   ) antropizada.  Machos vocalizando entre os ninhos e  as femeas respondendo dentro deles - Ataque constante do parasita  grauna(Scaphidura orizovora)</Comments>
+  <Quality>2</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Icteridae</Family>
+  <Genus>Psarocolius</Genus>
+  <Species>decumanus</Species>
+  <Sub-species />
+  <VernacularNames>Crested Oropendola</VernacularNames>
+</Audio>

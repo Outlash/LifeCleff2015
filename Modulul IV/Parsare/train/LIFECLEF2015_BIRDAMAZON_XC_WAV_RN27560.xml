@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>27560</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN27560.wav</FileName>
+  <ClassId>dxtjbh</ClassId>
+  <Date>2010-02-06</Date>
+  <Time>6:35</Time>
+  <Locality>Ibague, Tolima</Locality>
+  <Latitude>4.43889</Latitude>
+  <Longitude>-75.23222</Longitude>
+  <Elevation>2000</Elevation>
+  <Author>David Geale</Author>
+  <AuthorID>SBFBVYGIJC</AuthorID>
+  <Content>Song</Content>
+  <Comments>Lots of human excitement (with some nearby hummers!)</Comments>
+  <Quality>3</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies>Grallaria ruficapilla,Drymophila striaticeps</BackgroundSpecies>
+  <Order>Passeriformes</Order>
+  <Family>Emberizidae</Family>
+  <Genus>Atlapetes</Genus>
+  <Species>flaviceps</Species>
+  <Sub-species />
+  <VernacularNames>Yellow-headed Brush Finch</VernacularNames>
+</Audio>

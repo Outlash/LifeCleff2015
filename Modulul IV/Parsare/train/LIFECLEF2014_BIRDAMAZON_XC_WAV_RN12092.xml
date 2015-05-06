@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>12092</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN12092.wav</FileName>
+  <ClassId>hgmqff</ClassId>
+  <Date>2012-04-21</Date>
+  <Time>09:20</Time>
+  <Locality>Timbaúba, Pernambuco</Locality>
+  <Latitude>-7.6096</Latitude>
+  <Longitude>-35.3952</Longitude>
+  <Elevation>440</Elevation>
+  <Author>Marcus Braun</Author>
+  <AuthorID>EICLYDGEKS</AuthorID>
+  <Content>call</Content>
+  <Comments>Mata do Engenho Xixá, Macaparanabird-seen:yesplayback-used:no</Comments>
+  <Quality>4</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Thamnophilidae</Family>
+  <Genus>Myrmeciza</Genus>
+  <Species>ruficauda</Species>
+  <Sub-species />
+  <VernacularNames>Scalloped Antbird</VernacularNames>
+</Audio>

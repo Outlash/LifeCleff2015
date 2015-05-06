@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>16972</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN16972.wav</FileName>
+  <ClassId>bvpcer</ClassId>
+  <Date>2013-07-29</Date>
+  <Time>11:30</Time>
+  <Locality>Paraibuna, São Paulo</Locality>
+  <Latitude>-23.5797</Latitude>
+  <Longitude>-45.5474</Longitude>
+  <Elevation>800</Elevation>
+  <Author>Rodrigo Dela Rosa</Author>
+  <AuthorID>VGXDJMKETZ</AuthorID>
+  <Content>song</Content>
+  <Comments>bird-seen:yesplayback-used:yes</Comments>
+  <Quality>2</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Pipridae</Family>
+  <Genus>Ilicura</Genus>
+  <Species>militaris</Species>
+  <Sub-species />
+  <VernacularNames>Pin-tailed Manakin</VernacularNames>
+</Audio>

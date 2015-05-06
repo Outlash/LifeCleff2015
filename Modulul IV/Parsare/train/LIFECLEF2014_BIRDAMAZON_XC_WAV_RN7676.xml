@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>7676</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN7676.wav</FileName>
+  <ClassId>cxxjnh</ClassId>
+  <Date>2005-09-10</Date>
+  <Time>?</Time>
+  <Locality>Reserva Natural Salto Morato, Guaraqueçaba, Paraná</Locality>
+  <Latitude>-25.182</Latitude>
+  <Longitude>-48.2981</Longitude>
+  <Elevation>0</Elevation>
+  <Author>Vitor de Q. Piacentini</Author>
+  <AuthorID>BMAIKRWPPA</AuthorID>
+  <Content>song</Content>
+  <Comments>Response to playback, variation. Same individual as XC76783 (a male). One of the few documented records of the species for the state of Paraná</Comments>
+  <Quality>2</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies>Procnias nudicollis</BackgroundSpecies>
+  <Order>Passeriformes</Order>
+  <Family>Tityridae</Family>
+  <Genus>Pachyramphus</Genus>
+  <Species>marginatus</Species>
+  <Sub-species>marginatus</Sub-species>
+  <VernacularNames>Black-capped Becard</VernacularNames>
+</Audio>

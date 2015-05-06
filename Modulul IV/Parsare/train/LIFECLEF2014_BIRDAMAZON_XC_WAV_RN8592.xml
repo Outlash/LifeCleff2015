@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>8592</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN8592.wav</FileName>
+  <ClassId>omrceb</ClassId>
+  <Date>2003-10-30</Date>
+  <Time>07:34</Time>
+  <Locality>Parque Estadual Intervales. Barra Grande</Locality>
+  <Latitude>-24.2667</Latitude>
+  <Longitude>-48.3834</Longitude>
+  <Elevation>800</Elevation>
+  <Author>Jeremy Minns</Author>
+  <AuthorID>DGVLLRYDXS</AuthorID>
+  <Content>call, song</Content>
+  <Comments>Montane forest. At least three birds, in bamboo.</Comments>
+  <Quality>1</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies>Carpornis cucullata,Vireo olivaceus,Sporophila frontalis,Basileuterus culicivorus</BackgroundSpecies>
+  <Order>Passeriformes</Order>
+  <Family>Furnariidae</Family>
+  <Genus>Anabazenops</Genus>
+  <Species>fuscus</Species>
+  <Sub-species />
+  <VernacularNames>White-collared Foliage-gleaner</VernacularNames>
+</Audio>

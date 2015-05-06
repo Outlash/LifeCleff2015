@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>28994</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN28994.wav</FileName>
+  <ClassId>zpvuom</ClassId>
+  <Date>2009-10-14</Date>
+  <Time>18:00</Time>
+  <Locality>Atures, Amazonas</Locality>
+  <Latitude>5.9373</Latitude>
+  <Longitude>-67.2649</Longitude>
+  <Elevation>220</Elevation>
+  <Author>Joe Klaiber</Author>
+  <AuthorID>TNPOVFLZMY</AuthorID>
+  <Content>call</Content>
+  <Comments>bird-seen:yesplayback-used:no</Comments>
+  <Quality>1</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Gruiformes</Order>
+  <Family>Rallidae</Family>
+  <Genus>Aramides</Genus>
+  <Species>cajaneus</Species>
+  <Sub-species />
+  <VernacularNames>Grey-necked Wood Rail</VernacularNames>
+</Audio>

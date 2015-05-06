@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>26200</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN26200.wav</FileName>
+  <ClassId>hultky</ClassId>
+  <Date>2010-07-03</Date>
+  <Time>08:32</Time>
+  <Locality>Montagne de Kaw - Roura</Locality>
+  <Latitude>NULL</Latitude>
+  <Longitude>NULL</Longitude>
+  <Elevation>?</Elevation>
+  <Author>Patrick INGREMEAU</Author>
+  <AuthorID>IIVTYSKEYX</AuthorID>
+  <Content>call, song</Content>
+  <Comments>Group of ten birds</Comments>
+  <Quality>0</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Icteridae</Family>
+  <Genus>Psarocolius</Genus>
+  <Species>viridis</Species>
+  <Sub-species />
+  <VernacularNames>Green Oropendola</VernacularNames>
+</Audio>

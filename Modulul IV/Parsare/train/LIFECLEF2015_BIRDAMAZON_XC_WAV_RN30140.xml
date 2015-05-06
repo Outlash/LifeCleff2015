@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>30140</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN30140.wav</FileName>
+  <ClassId>ckjsvo</ClassId>
+  <Date>2008-08-08</Date>
+  <Time>?</Time>
+  <Locality>Paramo de Tama, Betania (Tachira)</Locality>
+  <Latitude>NULL</Latitude>
+  <Longitude>NULL</Longitude>
+  <Elevation>?</Elevation>
+  <Author>Alexandre Renaudier</Author>
+  <AuthorID>GKADEITXTH</AuthorID>
+  <Content>song</Content>
+  <Comments />
+  <Quality>2</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies>Chlorospingus flavopectus,Grallaria ruficapilla,Catharus dryas</BackgroundSpecies>
+  <Order>Passeriformes</Order>
+  <Family>Furnariidae</Family>
+  <Genus>Dendrocolaptes</Genus>
+  <Species>picumnus</Species>
+  <Sub-species />
+  <VernacularNames>Black-banded Woodcreeper</VernacularNames>
+</Audio>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>15752</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN15752.wav</FileName>
+  <ClassId>onmuhx</ClassId>
+  <Date>2013-04-14</Date>
+  <Time>07:34</Time>
+  <Locality>Timbó, Santa Catarina</Locality>
+  <Latitude>-26.8494</Latitude>
+  <Longitude>-49.299</Longitude>
+  <Elevation>400</Elevation>
+  <Author>Douglas Meyer</Author>
+  <AuthorID>MNENFHYTAE</AuthorID>
+  <Content>song</Content>
+  <Comments>bird-seen:yesplayback-used:no</Comments>
+  <Quality>0</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Thraupidae</Family>
+  <Genus>Sporophila</Genus>
+  <Species>falcirostris</Species>
+  <Sub-species />
+  <VernacularNames>Temminck's Seedeater</VernacularNames>
+</Audio>

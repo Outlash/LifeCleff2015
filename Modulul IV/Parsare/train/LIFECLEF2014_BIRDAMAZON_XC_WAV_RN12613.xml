@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>12613</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN12613.wav</FileName>
+  <ClassId>dkgzcm</ClassId>
+  <Date>2003-04-08</Date>
+  <Time>10:06</Time>
+  <Locality>Pousada Thaimaçu. Rio São Benedito</Locality>
+  <Latitude>-9.0501</Latitude>
+  <Longitude>-56.5834</Longitude>
+  <Elevation>180</Elevation>
+  <Author>Jeremy Minns</Author>
+  <AuthorID>DGVLLRYDXS</AuthorID>
+  <Content>Song</Content>
+  <Comments>Terra firme forest.</Comments>
+  <Quality>1</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Tyrannidae</Family>
+  <Genus>Ornithion</Genus>
+  <Species>inerme</Species>
+  <Sub-species />
+  <VernacularNames>White-lored Tyrannulet</VernacularNames>
+</Audio>

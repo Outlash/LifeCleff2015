@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>6230</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN6230.wav</FileName>
+  <ClassId>gcyuvy</ClassId>
+  <Date>2010-03-18</Date>
+  <Time>8:30h</Time>
+  <Locality>Corrego Porteira, Tupirama, Tocantins</Locality>
+  <Latitude>-8.875</Latitude>
+  <Longitude>-48.205</Longitude>
+  <Elevation>210</Elevation>
+  <Author>Tulio Dornas</Author>
+  <AuthorID>MTUQGBMRNC</AuthorID>
+  <Content>song</Content>
+  <Comments>More details in article submetted</Comments>
+  <Quality>2</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Tyrannidae</Family>
+  <Genus>Attila</Genus>
+  <Species>spadiceus</Species>
+  <Sub-species />
+  <VernacularNames>Bright-rumped Attila</VernacularNames>
+</Audio>

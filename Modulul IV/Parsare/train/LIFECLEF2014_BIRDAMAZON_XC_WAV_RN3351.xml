@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>3351</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN3351.wav</FileName>
+  <ClassId>rlbfhk</ClassId>
+  <Date>2010-01-25</Date>
+  <Time>10:25</Time>
+  <Locality>APA da Bacia do Rio Paraíba do Sul - Guarulhos, SP</Locality>
+  <Latitude>-23.3038935315393</Latitude>
+  <Longitude>-46.4058272839247</Longitude>
+  <Elevation>1050</Elevation>
+  <Author>Marcos Melo</Author>
+  <AuthorID>MRGDYNJGUJ</AuthorID>
+  <Content>call</Content>
+  <Comments />
+  <Quality>2</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies>Xiphorhynchus fuscus,Sporophila frontalis</BackgroundSpecies>
+  <Order>Piciformes</Order>
+  <Family>Picidae</Family>
+  <Genus>Piculus</Genus>
+  <Species>aurulentus</Species>
+  <Sub-species />
+  <VernacularNames>Yellow-browed Woodpecker</VernacularNames>
+</Audio>

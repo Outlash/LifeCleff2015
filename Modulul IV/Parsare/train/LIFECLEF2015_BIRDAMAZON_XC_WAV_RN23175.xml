@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>23175</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN23175.wav</FileName>
+  <ClassId>azkncx</ClassId>
+  <Date>2012-06-05</Date>
+  <Time>09:23</Time>
+  <Locality>Arauca, Laguna Rodriguera</Locality>
+  <Latitude>7.092</Latitude>
+  <Longitude>-70.697</Longitude>
+  <Elevation>100</Elevation>
+  <Author>Oswaldo Cortes</Author>
+  <AuthorID>VVDRVZCVWW</AuthorID>
+  <Content>?</Content>
+  <Comments />
+  <Quality>3</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Psittaciformes</Order>
+  <Family>Psittacidae</Family>
+  <Genus>Amazona</Genus>
+  <Species>ochrocephala</Species>
+  <Sub-species />
+  <VernacularNames>Yellow-crowned Amazon</VernacularNames>
+</Audio>

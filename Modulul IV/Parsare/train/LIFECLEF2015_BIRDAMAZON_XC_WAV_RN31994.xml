@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>31994</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN31994.wav</FileName>
+  <ClassId>yrrqto</ClassId>
+  <Date>2008-07-31</Date>
+  <Time>12:45</Time>
+  <Locality>Road to San Jose del Palmar, Serrania de las Paraguas, Choco</Locality>
+  <Latitude>4.8412</Latitude>
+  <Longitude>-76.2153</Longitude>
+  <Elevation>1780</Elevation>
+  <Author>Andrew Spencer</Author>
+  <AuthorID>CDTGHVBGZP</AuthorID>
+  <Content>begging call</Content>
+  <Comments>quiet begging calls from the older juvenile following a pair of adults (the male from XC 22115).  Water noise in the background.</Comments>
+  <Quality>2</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Thraupidae</Family>
+  <Genus>Bangsia</Genus>
+  <Species>aureocincta</Species>
+  <Sub-species />
+  <VernacularNames>Gold-ringed Tanager</VernacularNames>
+</Audio>

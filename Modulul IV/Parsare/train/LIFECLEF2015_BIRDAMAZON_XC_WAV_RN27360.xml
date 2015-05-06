@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>27360</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN27360.wav</FileName>
+  <ClassId>keftqy</ClassId>
+  <Date>2012-06-27</Date>
+  <Time>17:56</Time>
+  <Locality>Coromandel, Minas Gerais</Locality>
+  <Latitude>-18.3901</Latitude>
+  <Longitude>-47.1556</Longitude>
+  <Elevation>750</Elevation>
+  <Author>Luiz Gabriel Mazzoni</Author>
+  <AuthorID>MPOKMOFDDX</AuthorID>
+  <Content>call, song</Content>
+  <Comments>bird-seen:noplayback-used:yes</Comments>
+  <Quality>2</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies>Caracara plancus</BackgroundSpecies>
+  <Order>Gruiformes</Order>
+  <Family>Rallidae</Family>
+  <Genus>Laterallus</Genus>
+  <Species>exilis</Species>
+  <Sub-species />
+  <VernacularNames>Grey-breasted Crake</VernacularNames>
+</Audio>

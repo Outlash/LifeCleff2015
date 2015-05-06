@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>23724</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN23724.wav</FileName>
+  <ClassId>mbfftt</ClassId>
+  <Date>2013-07-13</Date>
+  <Time>14:30</Time>
+  <Locality>Reserva Natural Mesenia - Paramillo</Locality>
+  <Latitude>5.483</Latitude>
+  <Longitude>-75.896</Longitude>
+  <Elevation>2415</Elevation>
+  <Author>Diego Calderon-F.</Author>
+  <AuthorID>OGATBVKNAG</AuthorID>
+  <Content>male, song</Content>
+  <Comments>bird-seen:noplayback-used:no</Comments>
+  <Quality>1</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Rhinocryptidae</Family>
+  <Genus>Scytalopus</Genus>
+  <Species>vicinior</Species>
+  <Sub-species />
+  <VernacularNames>Narino Tapaculo</VernacularNames>
+</Audio>

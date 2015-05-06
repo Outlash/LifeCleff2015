@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>28704</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN28704.wav</FileName>
+  <ClassId>htbfro</ClassId>
+  <Date>2010-01-04</Date>
+  <Time>17:35</Time>
+  <Locality>Sonsón, Antioquia, Vereda San Francisco, Cerro de las Palomas, Páramo de Sonsón</Locality>
+  <Latitude>5.716</Latitude>
+  <Longitude>-75.2583</Longitude>
+  <Elevation>3000</Elevation>
+  <Author>Oscar H. Marín-Gómez</Author>
+  <AuthorID>CSUHASNRSU</AuthorID>
+  <Content>flight call, song</Content>
+  <Comments>Ref: Tape OHM065B 1549. Two birds foraging in dense brush. Secondary forest. Natural vocalization. 20 m to mic.bird-seen:yesplayback-used:no</Comments>
+  <Quality>3</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies>Cyphorhinus thoracicus</BackgroundSpecies>
+  <Order>Passeriformes</Order>
+  <Family>Thraupidae</Family>
+  <Genus>Thraupis</Genus>
+  <Species>cyanocephala</Species>
+  <Sub-species />
+  <VernacularNames>Blue-capped Tanager</VernacularNames>
+</Audio>

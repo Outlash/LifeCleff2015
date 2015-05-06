@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>10996</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN10996.wav</FileName>
+  <ClassId>ktxxvp</ClassId>
+  <Date>2006-09-22</Date>
+  <Time>?:?</Time>
+  <Locality>Casa Farinha, near Ubatuba, RJ</Locality>
+  <Latitude>NULL</Latitude>
+  <Longitude>NULL</Longitude>
+  <Elevation>?</Elevation>
+  <Author>Frank Lambert</Author>
+  <AuthorID>YTUXOCTUEM</AuthorID>
+  <Content>song</Content>
+  <Comments>response to playback</Comments>
+  <Quality>1</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Tyrannidae</Family>
+  <Genus>Hemitriccus</Genus>
+  <Species>furcatus</Species>
+  <Sub-species />
+  <VernacularNames>Fork-tailed Tody-Tyrant</VernacularNames>
+</Audio>

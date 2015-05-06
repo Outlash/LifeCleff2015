@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>26238</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN26238.wav</FileName>
+  <ClassId>iiwvue</ClassId>
+  <Date>2001-05-15</Date>
+  <Time>07:30</Time>
+  <Locality>Cano Clarin Viejo, Palermo, Isla de Salamanca, Magdalena</Locality>
+  <Latitude>10.9901</Latitude>
+  <Longitude>-74.7451</Longitude>
+  <Elevation>2</Elevation>
+  <Author>Bernabe Lopez-Lanus</Author>
+  <AuthorID>BYLLSJRVDZ</AuthorID>
+  <Content>Song</Content>
+  <Comments />
+  <Quality>2</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Troglodytidae</Family>
+  <Genus>Campylorhynchus</Genus>
+  <Species>griseus</Species>
+  <Sub-species>albicilius</Sub-species>
+  <VernacularNames>Bicolored Wren</VernacularNames>
+</Audio>

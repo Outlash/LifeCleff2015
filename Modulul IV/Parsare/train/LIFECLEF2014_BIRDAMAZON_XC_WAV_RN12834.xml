@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>12834</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN12834.wav</FileName>
+  <ClassId>cllknv</ClassId>
+  <Date>2008-12-03</Date>
+  <Time>07:00</Time>
+  <Locality>Serra dos Carajás, PA</Locality>
+  <Latitude>-6.1603</Latitude>
+  <Longitude>-50.3459</Longitude>
+  <Elevation>100</Elevation>
+  <Author>Sidnei Dantas</Author>
+  <AuthorID>NNCKQMBGPH</AuthorID>
+  <Content>long song, song.</Content>
+  <Comments>Excited bird, in a mixed-flock. Long song incomplete, unfortunatelly.</Comments>
+  <Quality>2</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies>Momotus momota,Thamnophilus schistaceus,Grallaria varia,Thamnomanes caesius,Thamnophilus amazonicus,Trogon viridis,Hylophilus hypoxanthus,Myrmoborus leucophrys,Myiarchus tuberculifer</BackgroundSpecies>
+  <Order>Passeriformes</Order>
+  <Family>Furnariidae</Family>
+  <Genus>Xiphorhynchus</Genus>
+  <Species>spixii</Species>
+  <Sub-species />
+  <VernacularNames>Spix's Woodcreeper</VernacularNames>
+</Audio>

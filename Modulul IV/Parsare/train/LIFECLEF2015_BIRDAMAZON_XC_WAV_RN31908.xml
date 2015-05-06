@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>31908</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN31908.wav</FileName>
+  <ClassId>objnpr</ClassId>
+  <Date>2002-06-11</Date>
+  <Time>xx:xx</Time>
+  <Locality>Finca El Emporio (represa), Villa de Leyva, Boyaca</Locality>
+  <Latitude>NULL</Latitude>
+  <Longitude>NULL</Longitude>
+  <Elevation>2000</Elevation>
+  <Author>Bernabe Lopez-Lanus</Author>
+  <AuthorID>BYLLSJRVDZ</AuthorID>
+  <Content>Song</Content>
+  <Comments />
+  <Quality>2</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Parulidae</Family>
+  <Genus>Setophaga</Genus>
+  <Species>pitiayumi</Species>
+  <Sub-species />
+  <VernacularNames>Tropical Parula</VernacularNames>
+</Audio>

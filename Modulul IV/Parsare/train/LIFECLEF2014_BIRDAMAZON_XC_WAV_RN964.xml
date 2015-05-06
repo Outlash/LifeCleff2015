@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>964</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN964.wav</FileName>
+  <ClassId>bcbkld</ClassId>
+  <Date>2005-07-10</Date>
+  <Time>?</Time>
+  <Locality>Araripe National Forest, Crato, Ceará State</Locality>
+  <Latitude>-7.2501</Latitude>
+  <Longitude>-39.5834</Longitude>
+  <Elevation>750</Elevation>
+  <Author>Ciro Albano</Author>
+  <AuthorID>MXVQPUKGWW</AuthorID>
+  <Content>song</Content>
+  <Comments />
+  <Quality>0</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies>Turdus leucomelas,Zonotrichia capensis</BackgroundSpecies>
+  <Order>Passeriformes</Order>
+  <Family>Furnariidae</Family>
+  <Genus>Xenops</Genus>
+  <Species>rutilans</Species>
+  <Sub-species />
+  <VernacularNames>Streaked Xenops</VernacularNames>
+</Audio>

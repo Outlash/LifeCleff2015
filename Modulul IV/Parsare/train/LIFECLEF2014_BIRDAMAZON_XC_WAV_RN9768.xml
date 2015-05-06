@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>9768</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN9768.wav</FileName>
+  <ClassId>zsociq</ClassId>
+  <Date>2002-06-06</Date>
+  <Time>7:08</Time>
+  <Locality>Santa Isabel Road, near Jaguar Ecological Reserve, MT</Locality>
+  <Latitude>NULL</Latitude>
+  <Longitude>NULL</Longitude>
+  <Elevation>?</Elevation>
+  <Author>Paul Donahue</Author>
+  <AuthorID>LLRXADGTBA</AuthorID>
+  <Content>song</Content>
+  <Comments>the Todirostrum IDed by Braulio Carlos</Comments>
+  <Quality>3</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies />
+  <Order>Galliformes</Order>
+  <Family>Cracidae</Family>
+  <Genus>Ortalis</Genus>
+  <Species>canicollis</Species>
+  <Sub-species />
+  <VernacularNames>Chaco Chachalaca</VernacularNames>
+</Audio>

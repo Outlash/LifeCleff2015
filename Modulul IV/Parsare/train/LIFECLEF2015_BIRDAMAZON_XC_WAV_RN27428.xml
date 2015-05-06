@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>27428</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN27428.wav</FileName>
+  <ClassId>xxjaog</ClassId>
+  <Date>2012-07-21</Date>
+  <Time>07:59</Time>
+  <Locality>Quinchia, Departamento de Risaralda</Locality>
+  <Latitude>5.3448</Latitude>
+  <Longitude>-75.67</Longitude>
+  <Elevation>1650</Elevation>
+  <Author>Oswaldo Cortes</Author>
+  <AuthorID>VVDRVZCVWW</AuthorID>
+  <Content>call</Content>
+  <Comments />
+  <Quality>2</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Thraupidae</Family>
+  <Genus>Hemithraupis</Genus>
+  <Species>guira</Species>
+  <Sub-species />
+  <VernacularNames>Guira Tanager</VernacularNames>
+</Audio>

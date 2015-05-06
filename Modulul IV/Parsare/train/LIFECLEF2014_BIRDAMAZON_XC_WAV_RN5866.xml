@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>5866</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN5866.wav</FileName>
+  <ClassId>gvqejj</ClassId>
+  <Date>2007-10-07</Date>
+  <Time>8:56</Time>
+  <Locality>Gleba maior Reserva Biológica Estadual do Sassafrás, Doutor Pedrinho, Santa Catarina</Locality>
+  <Latitude>-26.7117</Latitude>
+  <Longitude>-49.6756</Longitude>
+  <Elevation>920</Elevation>
+  <Author>Adrian Eisen Rupp</Author>
+  <AuthorID>AOPMSCIDIA</AuthorID>
+  <Content>Drum Calls</Content>
+  <Comments />
+  <Quality>0</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies>Trogon surrucura,Phyllomyias fasciatus</BackgroundSpecies>
+  <Order>Piciformes</Order>
+  <Family>Picidae</Family>
+  <Genus>Campephilus</Genus>
+  <Species>robustus</Species>
+  <Sub-species />
+  <VernacularNames>Robust Woodpecker</VernacularNames>
+</Audio>

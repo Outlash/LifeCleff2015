@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>16882</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN16882.wav</FileName>
+  <ClassId>yxenbt</ClassId>
+  <Date>2013-09-28</Date>
+  <Time>06:30</Time>
+  <Locality>Moju, Para</Locality>
+  <Latitude>-2.8551</Latitude>
+  <Longitude>-49.2021</Longitude>
+  <Elevation>40</Elevation>
+  <Author>Alex Lees</Author>
+  <AuthorID>INDDBZAFJL</AuthorID>
+  <Content>song</Content>
+  <Comments>in selectively-logged primary forestbird-seen:noplayback-used:no</Comments>
+  <Quality>2</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies>Tachyphonus surinamus,Rhytipterna simplex,Cercomacra cinerascens,Thamnomanes caesius,Myrmotherula axillaris,Mionectes macconnelli,Ramphocaenus melanurus,Willisornis vidua,Attila spadiceus</BackgroundSpecies>
+  <Order>Tinamiformes</Order>
+  <Family>Tinamidae</Family>
+  <Genus>Crypturellus</Genus>
+  <Species>variegatus</Species>
+  <Sub-species />
+  <VernacularNames>Variegated Tinamou</VernacularNames>
+</Audio>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>12612</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN12612.wav</FileName>
+  <ClassId>bmiqmk</ClassId>
+  <Date>2008-10-03</Date>
+  <Time>14:30</Time>
+  <Locality>Baixo Fruteira - Laurentino - Santa Catarina</Locality>
+  <Latitude>-27.2417</Latitude>
+  <Longitude>-49.7384</Longitude>
+  <Elevation>390</Elevation>
+  <Author>www.aapimentao.com.br</Author>
+  <AuthorID>VVQBELMRMH</AuthorID>
+  <Content>song</Content>
+  <Comments />
+  <Quality>2</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Pipridae</Family>
+  <Genus>Chiroxiphia</Genus>
+  <Species>caudata</Species>
+  <Sub-species />
+  <VernacularNames>Blue Manakin</VernacularNames>
+</Audio>

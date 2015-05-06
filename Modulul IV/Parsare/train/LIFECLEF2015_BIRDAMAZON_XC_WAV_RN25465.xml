@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>25465</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN25465.wav</FileName>
+  <ClassId>rxgdwi</ClassId>
+  <Date>2009-08-15</Date>
+  <Time>07:35</Time>
+  <Locality>Ome Ecological Station, Purite River, Amazonas dep. 70 Km N of Leticia</Locality>
+  <Latitude>NULL</Latitude>
+  <Longitude>NULL</Longitude>
+  <Elevation>110</Elevation>
+  <Author>Gabriela Navarrete Forero</Author>
+  <AuthorID>LEHRZWLXDV</AuthorID>
+  <Content>song</Content>
+  <Comments>2 individuals, one calls from far, link:www.ornitologiacolombiana.org/oc9/Resumenes%20Tesis%20OC9.pdf</Comments>
+  <Quality>2</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Columbiformes</Order>
+  <Family>Columbidae</Family>
+  <Genus>Patagioenas</Genus>
+  <Species>subvinacea</Species>
+  <Sub-species />
+  <VernacularNames>Ruddy Pigeon</VernacularNames>
+</Audio>

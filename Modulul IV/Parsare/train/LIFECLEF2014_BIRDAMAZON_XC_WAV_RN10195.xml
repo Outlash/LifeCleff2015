@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>10195</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN10195.wav</FileName>
+  <ClassId>qnjjng</ClassId>
+  <Date>2008-06-23</Date>
+  <Time>07:30</Time>
+  <Locality>Belo Monte, left bank of Rio Xingu, Pará</Locality>
+  <Latitude>-3.3848</Latitude>
+  <Longitude>-51.9245</Longitude>
+  <Elevation>100</Elevation>
+  <Author>Sidnei Dantas</Author>
+  <AuthorID>NNCKQMBGPH</AuthorID>
+  <Content>song</Content>
+  <Comments>varzea foret, on an island.</Comments>
+  <Quality>0</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies>Tolmomyias poliocephalus,Myrmotherula multostriata</BackgroundSpecies>
+  <Order>Passeriformes</Order>
+  <Family>Thamnophilidae</Family>
+  <Genus>Cercomacra</Genus>
+  <Species>nigrescens</Species>
+  <Sub-species />
+  <VernacularNames>Blackish Antbird</VernacularNames>
+</Audio>

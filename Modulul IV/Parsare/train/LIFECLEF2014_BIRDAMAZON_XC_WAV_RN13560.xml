@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>13560</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN13560.wav</FileName>
+  <ClassId>pndtuh</ClassId>
+  <Date>0000-00-00</Date>
+  <Time>?</Time>
+  <Locality>Miracatu, Sao Paulo State</Locality>
+  <Latitude>-24.33197</Latitude>
+  <Longitude>-47.261124</Longitude>
+  <Elevation>40</Elevation>
+  <Author>Luiz Fernando Figueiredo</Author>
+  <AuthorID>EYYKGDWADQ</AuthorID>
+  <Content>song</Content>
+  <Comments />
+  <Quality>3</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies />
+  <Order>Apodiformes</Order>
+  <Family>Trochilidae</Family>
+  <Genus>Phaethornis</Genus>
+  <Species>ruber</Species>
+  <Sub-species />
+  <VernacularNames>Reddish Hermit</VernacularNames>
+</Audio>

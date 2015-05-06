@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>4661</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN4661.wav</FileName>
+  <ClassId>cqbqgt</ClassId>
+  <Date>2010-10-08</Date>
+  <Time>05:43</Time>
+  <Locality>Paragominas, PA, Brazil, Bacia 245</Locality>
+  <Latitude>-3.1253</Latitude>
+  <Longitude>-46.8456</Longitude>
+  <Elevation>?</Elevation>
+  <Author>Nargila Moura</Author>
+  <AuthorID>CWEIBYBYYD</AuthorID>
+  <Content>call, song</Content>
+  <Comments>overgrown cattle pasture</Comments>
+  <Quality>3</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies>Tapera naevia,Thamnophilus palliatus,Todirostrum cinereum,Camptostoma obsoletum,Phaeomyias murina,Turdus leucomelas</BackgroundSpecies>
+  <Order>Passeriformes</Order>
+  <Family>Furnariidae</Family>
+  <Genus>Dendroplex</Genus>
+  <Species>picus</Species>
+  <Sub-species>picus</Sub-species>
+  <VernacularNames>Straight-billed Woodcreeper</VernacularNames>
+</Audio>

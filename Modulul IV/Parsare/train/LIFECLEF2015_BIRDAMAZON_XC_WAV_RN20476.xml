@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>20476</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN20476.wav</FileName>
+  <ClassId>nhduqd</ClassId>
+  <Date>1999-08-07</Date>
+  <Time>12:36</Time>
+  <Locality>Finca La Magnolia, Corregimiento Totumo, Ibague, Tolima</Locality>
+  <Latitude>NULL</Latitude>
+  <Longitude>NULL</Longitude>
+  <Elevation>1000</Elevation>
+  <Author>Bernabe Lopez-Lanus</Author>
+  <AuthorID>BYLLSJRVDZ</AuthorID>
+  <Content>Song</Content>
+  <Comments>Bird with nest</Comments>
+  <Quality>1</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Hirundinidae</Family>
+  <Genus>Progne</Genus>
+  <Species>chalybea</Species>
+  <Sub-species>chalybea</Sub-species>
+  <VernacularNames>Grey-breasted Martin</VernacularNames>
+</Audio>

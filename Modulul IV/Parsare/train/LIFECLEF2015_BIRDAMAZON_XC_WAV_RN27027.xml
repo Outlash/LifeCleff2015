@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>27027</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN27027.wav</FileName>
+  <ClassId>xcmybb</ClassId>
+  <Date>2000-04-21</Date>
+  <Time>am</Time>
+  <Locality>Finca La Pradera, Parroquia Remolinos, Municipio Puerto Lopez, Meta</Locality>
+  <Latitude>NULL</Latitude>
+  <Longitude>NULL</Longitude>
+  <Elevation>400</Elevation>
+  <Author>Bernabe Lopez-Lanus</Author>
+  <AuthorID>BYLLSJRVDZ</AuthorID>
+  <Content>Song</Content>
+  <Comments />
+  <Quality>2</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Columbiformes</Order>
+  <Family>Columbidae</Family>
+  <Genus>Patagioenas</Genus>
+  <Species>cayennensis</Species>
+  <Sub-species>pallidicrissa</Sub-species>
+  <VernacularNames>Pale-vented Pigeon</VernacularNames>
+</Audio>

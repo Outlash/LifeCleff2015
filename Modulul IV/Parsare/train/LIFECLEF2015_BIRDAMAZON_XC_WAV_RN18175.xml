@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>18175</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN18175.wav</FileName>
+  <ClassId>ovfpsf</ClassId>
+  <Date>2012-01-00</Date>
+  <Time>15:00</Time>
+  <Locality>Alto de Ventanas</Locality>
+  <Latitude>5.5374</Latitude>
+  <Longitude>-75.8029</Longitude>
+  <Elevation>2850</Elevation>
+  <Author>David Edwards</Author>
+  <AuthorID>AFEHYCAHZR</AuthorID>
+  <Content>call</Content>
+  <Comments>playback-used:no</Comments>
+  <Quality>1</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Psittaciformes</Order>
+  <Family>Psittacidae</Family>
+  <Genus>Ognorhynchus</Genus>
+  <Species>icterotis</Species>
+  <Sub-species />
+  <VernacularNames>Yellow-eared Parrot</VernacularNames>
+</Audio>

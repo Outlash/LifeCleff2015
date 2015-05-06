@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>28601</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN28601.wav</FileName>
+  <ClassId>oiorva</ClassId>
+  <Date>2011-03-14</Date>
+  <Time>09:50</Time>
+  <Locality>Reserva Natural Cerro El Ingles, Valle del Cauca</Locality>
+  <Latitude>4.7417</Latitude>
+  <Longitude>-76.2962</Longitude>
+  <Elevation>2100</Elevation>
+  <Author>Oscar Humberto Marin-Gomez</Author>
+  <AuthorID>CSUHASNRSU</AuthorID>
+  <Content>call, song</Content>
+  <Comments>Ref: OHM73A 1803. Un individuo siguiendo bandada mixta en borde de bosque, a 30m del mic. Bosque montano. Camino hacia La Florida. Vocalización Natural. Grabaciones junto con Diego Gomez Hoyos.bird-seen:yesplayback-used:no</Comments>
+  <Quality>3</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Parulidae</Family>
+  <Genus>Myioborus</Genus>
+  <Species>miniatus</Species>
+  <Sub-species />
+  <VernacularNames>Slate-throated Whitestart</VernacularNames>
+</Audio>

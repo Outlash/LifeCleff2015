@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>31156</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN31156.wav</FileName>
+  <ClassId>vnmlmt</ClassId>
+  <Date>0000-00-00</Date>
+  <Time>07:30</Time>
+  <Locality>Goiatins, Tocantins</Locality>
+  <Latitude>-7.7687</Latitude>
+  <Longitude>-47.3684</Longitude>
+  <Elevation>220</Elevation>
+  <Author>Eduardo D. Schultz</Author>
+  <AuthorID>QYOZQITVAC</AuthorID>
+  <Content>song</Content>
+  <Comments>bird-seen:noplayback-used:no</Comments>
+  <Quality>3</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Thamnophilidae</Family>
+  <Genus>Thamnophilus</Genus>
+  <Species>doliatus</Species>
+  <Sub-species />
+  <VernacularNames>Barred Antshrike</VernacularNames>
+</Audio>

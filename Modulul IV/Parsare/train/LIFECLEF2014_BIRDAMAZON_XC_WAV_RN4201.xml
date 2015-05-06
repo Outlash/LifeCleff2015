@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>4201</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN4201.wav</FileName>
+  <ClassId>cuwfkj</ClassId>
+  <Date>2001-04-15</Date>
+  <Time>13:35</Time>
+  <Locality>4km S of Canudos, Bahia</Locality>
+  <Latitude>-10.017877</Latitude>
+  <Longitude>-39.16179</Longitude>
+  <Elevation>?</Elevation>
+  <Author>Rolf A. de By</Author>
+  <AuthorID>PTYTXQRLSZ</AuthorID>
+  <Content>call</Content>
+  <Comments>like short version of song.  Caatinga shrub.</Comments>
+  <Quality>2</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Thamnophilidae</Family>
+  <Genus>Herpsilochmus</Genus>
+  <Species>sellowi</Species>
+  <Sub-species />
+  <VernacularNames>Caatinga Antwren</VernacularNames>
+</Audio>

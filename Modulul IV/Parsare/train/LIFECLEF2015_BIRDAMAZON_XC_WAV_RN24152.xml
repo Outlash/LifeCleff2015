@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>24152</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN24152.wav</FileName>
+  <ClassId>mbfftt</ClassId>
+  <Date>2013-02-10</Date>
+  <Time>10:30</Time>
+  <Locality>Vereda Las Cumbres, PNN Tatamà, Apía, Risaralda</Locality>
+  <Latitude>5.112</Latitude>
+  <Longitude>-76.0029</Longitude>
+  <Elevation>2200</Elevation>
+  <Author>Ottavio Janni</Author>
+  <AuthorID>PWMAZXONXH</AuthorID>
+  <Content>call</Content>
+  <Comments>two birds calling back and forthbird-seen:yesplayback-used:no</Comments>
+  <Quality>2</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Rhinocryptidae</Family>
+  <Genus>Scytalopus</Genus>
+  <Species>vicinior</Species>
+  <Sub-species />
+  <VernacularNames>Narino Tapaculo</VernacularNames>
+</Audio>

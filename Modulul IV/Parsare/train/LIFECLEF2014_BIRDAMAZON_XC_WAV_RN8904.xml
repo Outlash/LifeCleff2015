@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>8904</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN8904.wav</FileName>
+  <ClassId>ephxxx</ClassId>
+  <Date>2011-11-06</Date>
+  <Time>?</Time>
+  <Locality>Intervales State Park. Residential area</Locality>
+  <Latitude>-24.2667</Latitude>
+  <Longitude>-48.4167</Longitude>
+  <Elevation>800</Elevation>
+  <Author>Juha Honkala</Author>
+  <AuthorID>UTCLOBFQPH</AuthorID>
+  <Content>song</Content>
+  <Comments />
+  <Quality>2</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Tyrannidae</Family>
+  <Genus>Legatus</Genus>
+  <Species>leucophaius</Species>
+  <Sub-species />
+  <VernacularNames>Piratic Flycatcher</VernacularNames>
+</Audio>

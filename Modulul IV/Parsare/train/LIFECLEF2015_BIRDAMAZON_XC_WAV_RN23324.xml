@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>23324</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN23324.wav</FileName>
+  <ClassId>iofesp</ClassId>
+  <Date>1990-12-21</Date>
+  <Time>?</Time>
+  <Locality>Antioquia, Turbo, PNN Los Katíos</Locality>
+  <Latitude>7.8</Latitude>
+  <Longitude>-77.15</Longitude>
+  <Elevation />
+  <Author>Gary Stiles (Colección de Sonidos Ambientales - Instituto Humboldt)</Author>
+  <AuthorID>XMFDPACYJN</AuthorID>
+  <Content>call</Content>
+  <Comments>BSA 10593To obtain a wav file of the original recording, please contact csa@humboldt.org.cobird-seen:noplayback-used:no</Comments>
+  <Quality>1</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Tyrannidae</Family>
+  <Genus>Rhynchocyclus</Genus>
+  <Species>olivaceus</Species>
+  <Sub-species />
+  <VernacularNames>Olivaceous Flatbill</VernacularNames>
+</Audio>

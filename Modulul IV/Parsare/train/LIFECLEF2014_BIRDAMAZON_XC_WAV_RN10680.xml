@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>10680</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN10680.wav</FileName>
+  <ClassId>dvcjbu</ClassId>
+  <Date>2010-07-05</Date>
+  <Time>22:00</Time>
+  <Locality>Rancho Pica Pau, Ubatuba, SP</Locality>
+  <Latitude>-23.398</Latitude>
+  <Longitude>-45.061</Longitude>
+  <Elevation>26</Elevation>
+  <Author>Teus Luijendijk</Author>
+  <AuthorID>VLNULZJNSX</AuthorID>
+  <Content>call</Content>
+  <Comments>Single calls</Comments>
+  <Quality>3</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies />
+  <Order>Strigiformes</Order>
+  <Family>Strigidae</Family>
+  <Genus>Pulsatrix</Genus>
+  <Species>koeniswaldiana</Species>
+  <Sub-species />
+  <VernacularNames>Tawny-browed Owl</VernacularNames>
+</Audio>

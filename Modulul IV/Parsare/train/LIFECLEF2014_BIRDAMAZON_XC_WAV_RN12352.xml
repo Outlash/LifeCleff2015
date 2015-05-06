@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>12352</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN12352.wav</FileName>
+  <ClassId>ewisum</ClassId>
+  <Date>2010-01-25</Date>
+  <Time>10:20</Time>
+  <Locality>APA da Bacia do Rio Paraíba do Sul - Guarulhos, SP</Locality>
+  <Latitude>-23.3038935315393</Latitude>
+  <Longitude>-46.4058272839247</Longitude>
+  <Elevation>1050</Elevation>
+  <Author>Marcos Melo</Author>
+  <AuthorID>MRGDYNJGUJ</AuthorID>
+  <Content>song</Content>
+  <Comments />
+  <Quality>2</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies>Haplospiza unicolor,Procnias nudicollis</BackgroundSpecies>
+  <Order>Passeriformes</Order>
+  <Family>Parulidae</Family>
+  <Genus>Basileuterus</Genus>
+  <Species>culicivorus</Species>
+  <Sub-species />
+  <VernacularNames>Golden-crowned Warbler</VernacularNames>
+</Audio>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>26941</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN26941.wav</FileName>
+  <ClassId>cpigyt</ClassId>
+  <Date>2014-06-12</Date>
+  <Time>07:00</Time>
+  <Locality>Cundinamarca, Guasca, PNN Chingaza, Piedras Gordas E del municipio La Calera</Locality>
+  <Latitude>4.7222</Latitude>
+  <Longitude>-73.8611</Longitude>
+  <Elevation>3200</Elevation>
+  <Author>Oswaldo Cortes</Author>
+  <AuthorID>VVDRVZCVWW</AuthorID>
+  <Content>song</Content>
+  <Comments>bird-seen:yesplayback-used:no</Comments>
+  <Quality>3</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Piciformes</Order>
+  <Family>Ramphastidae</Family>
+  <Genus>Andigena</Genus>
+  <Species>nigrirostris</Species>
+  <Sub-species />
+  <VernacularNames>Black-billed Mountain Toucan</VernacularNames>
+</Audio>

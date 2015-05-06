@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>1828</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN1828.wav</FileName>
+  <ClassId>tkfjdd</ClassId>
+  <Date>2009-10-21</Date>
+  <Time>05:25</Time>
+  <Locality>Pq. Ibirapuera, São Paulo, SP</Locality>
+  <Latitude>-23.5889</Latitude>
+  <Longitude>-46.6606</Longitude>
+  <Elevation>760</Elevation>
+  <Author>Marcos Melo</Author>
+  <AuthorID>MRGDYNJGUJ</AuthorID>
+  <Content>perched song</Content>
+  <Comments />
+  <Quality>3</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies>Turdus rufiventris</BackgroundSpecies>
+  <Order>Caprimulgiformes</Order>
+  <Family>Caprimulgidae</Family>
+  <Genus>Lurocalis</Genus>
+  <Species>semitorquatus</Species>
+  <Sub-species />
+  <VernacularNames>Short-tailed Nighthawk</VernacularNames>
+</Audio>

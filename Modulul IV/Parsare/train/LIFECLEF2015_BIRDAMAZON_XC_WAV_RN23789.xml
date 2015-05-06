@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>23789</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN23789.wav</FileName>
+  <ClassId>wenuau</ClassId>
+  <Date>2011-03-09</Date>
+  <Time>10:10</Time>
+  <Locality>Voltzberg, Raleighvallen National Park</Locality>
+  <Latitude>4.68333</Latitude>
+  <Longitude>-56.16667</Longitude>
+  <Elevation>170</Elevation>
+  <Author>Daniel Lane</Author>
+  <AuthorID>WOEAFQRMUD</AuthorID>
+  <Content>song</Content>
+  <Comments>Natural song of unseen bird about 2m up in moderate understory around large boulder-strewn forest.</Comments>
+  <Quality>2</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies>Leptotila rufaxilla,Patagioenas subvinacea,Myrmotherula surinamensis,Momotus momota</BackgroundSpecies>
+  <Order>Passeriformes</Order>
+  <Family>Thamnophilidae</Family>
+  <Genus>Myrmoborus</Genus>
+  <Species>leucophrys</Species>
+  <Sub-species>angustirostris</Sub-species>
+  <VernacularNames>White-browed Antbird</VernacularNames>
+</Audio>

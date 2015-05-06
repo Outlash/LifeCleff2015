@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>29941</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN29941.wav</FileName>
+  <ClassId>xdszwe</ClassId>
+  <Date>2011-10-16</Date>
+  <Time>08:09</Time>
+  <Locality>Cristalino Jungle Lodge, MT</Locality>
+  <Latitude>-9.5981</Latitude>
+  <Longitude>-55.932</Longitude>
+  <Elevation>260</Elevation>
+  <Author>Eric DeFonso</Author>
+  <AuthorID>KTLCZCRCQX</AuthorID>
+  <Content>conversational gobbling</Content>
+  <Comments>background species is actually louder than focus bird due to distance. Along the Haffer trail. Habitat is primary terra firme forest.bird-seen:yesplayback-used:no""</Comments>
+  <Quality>3</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies>Dixiphia rubrocapilla</BackgroundSpecies>
+  <Order>Psittaciformes</Order>
+  <Family>Psittacidae</Family>
+  <Genus>Ara</Genus>
+  <Species>severus</Species>
+  <Sub-species />
+  <VernacularNames>Chestnut-fronted Macaw</VernacularNames>
+</Audio>

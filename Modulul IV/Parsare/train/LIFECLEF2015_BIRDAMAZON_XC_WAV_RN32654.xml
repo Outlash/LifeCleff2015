@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>32654</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN32654.wav</FileName>
+  <ClassId>uphahj</ClassId>
+  <Date>2005-10-01</Date>
+  <Time>9:00</Time>
+  <Locality>Soata, Cerca de la Quebrada Municipal, Santander</Locality>
+  <Latitude>6.3334</Latitude>
+  <Longitude>-72.6667</Longitude>
+  <Elevation>1800-1900</Elevation>
+  <Author>Oscar Laverde</Author>
+  <AuthorID>WKVKSVMNDZ</AuthorID>
+  <Content>song</Content>
+  <Comments>Grupo de 3 individuos sobrevolando</Comments>
+  <Quality>2</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Accipitriformes</Order>
+  <Family>Accipitridae</Family>
+  <Genus>Rupornis</Genus>
+  <Species>magnirostris</Species>
+  <Sub-species />
+  <VernacularNames>Roadside Hawk</VernacularNames>
+</Audio>

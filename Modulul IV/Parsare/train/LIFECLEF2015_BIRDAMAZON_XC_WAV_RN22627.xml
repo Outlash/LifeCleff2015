@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>22627</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN22627.wav</FileName>
+  <ClassId>xywqxu</ClassId>
+  <Date>2013-12-23</Date>
+  <Time>12:30</Time>
+  <Locality>Parque Nacional Cerro Saroche. Estado Lara.</Locality>
+  <Latitude>10.1654</Latitude>
+  <Longitude>-69.5186</Longitude>
+  <Elevation>800</Elevation>
+  <Author>Eduardo Freitez Gassán / Fernando Freitez Gassán</Author>
+  <AuthorID>ZATWBJXVQE</AuthorID>
+  <Content>flight call</Content>
+  <Comments>bird-seen:yesplayback-used:no</Comments>
+  <Quality>0</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Falconiformes</Order>
+  <Family>Falconidae</Family>
+  <Genus>Herpetotheres</Genus>
+  <Species>cachinnans</Species>
+  <Sub-species />
+  <VernacularNames>Laughing Falcon</VernacularNames>
+</Audio>

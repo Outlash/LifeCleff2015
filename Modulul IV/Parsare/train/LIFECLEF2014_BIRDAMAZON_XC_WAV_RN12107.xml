@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>12107</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN12107.wav</FileName>
+  <ClassId>umxbnz</ClassId>
+  <Date>2013-08-12</Date>
+  <Time>18:00</Time>
+  <Locality>Cristalina, Goiás</Locality>
+  <Latitude>-16.7707</Latitude>
+  <Longitude>-47.612</Longitude>
+  <Elevation>1200</Elevation>
+  <Author>Nunes D'Acosta</Author>
+  <AuthorID>OHHTDSDNBT</AuthorID>
+  <Content>alarm call, female</Content>
+  <Comments>Fêmea preparando para pouso dentro de uma moita de capim-meloso num dia  fechado e frio.bird-seen:noplayback-used:yes</Comments>
+  <Quality>2</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies />
+  <Order>Tinamiformes</Order>
+  <Family>Tinamidae</Family>
+  <Genus>Taoniscus</Genus>
+  <Species>nanus</Species>
+  <Sub-species />
+  <VernacularNames>Dwarf Tinamou</VernacularNames>
+</Audio>

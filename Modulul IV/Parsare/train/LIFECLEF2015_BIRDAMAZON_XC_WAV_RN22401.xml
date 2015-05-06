@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>22401</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN22401.wav</FileName>
+  <ClassId>woerbo</ClassId>
+  <Date>2012-10-31</Date>
+  <Time>15:42</Time>
+  <Locality>Saul, Mount Galbao</Locality>
+  <Latitude>3.5759</Latitude>
+  <Longitude>-53.2614</Longitude>
+  <Elevation>380</Elevation>
+  <Author>Patrick Ingremeau</Author>
+  <AuthorID>IIVTYSKEYX</AuthorID>
+  <Content>song</Content>
+  <Comments>bird-seen:noplayback-used:no</Comments>
+  <Quality>1</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies>Lanio fulvus</BackgroundSpecies>
+  <Order>Passeriformes</Order>
+  <Family>Cotingidae</Family>
+  <Genus>Procnias</Genus>
+  <Species>albus</Species>
+  <Sub-species />
+  <VernacularNames>White Bellbird</VernacularNames>
+</Audio>

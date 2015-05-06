@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>16572</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN16572.wav</FileName>
+  <ClassId>cpmbyl</ClassId>
+  <Date>2011-03-07</Date>
+  <Time>8-40</Time>
+  <Locality>Santo Domingo, Mérida</Locality>
+  <Latitude>8.8589</Latitude>
+  <Longitude>-70.7042</Longitude>
+  <Elevation>1600</Elevation>
+  <Author>Albert Lastukhin</Author>
+  <AuthorID>LELYWQKUZX</AuthorID>
+  <Content>male, song</Content>
+  <Comments />
+  <Quality>0</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Grallariidae</Family>
+  <Genus>Grallaria</Genus>
+  <Species>ruficapilla</Species>
+  <Sub-species>nigrolineata</Sub-species>
+  <VernacularNames>Chestnut-crowned Antpitta</VernacularNames>
+</Audio>

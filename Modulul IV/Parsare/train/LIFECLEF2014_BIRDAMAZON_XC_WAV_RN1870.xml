@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>1870</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN1870.wav</FileName>
+  <ClassId>eofsmg</ClassId>
+  <Date>2011-02-12</Date>
+  <Time>11:00</Time>
+  <Locality>Campos do Jordão-São Paulo</Locality>
+  <Latitude>NULL</Latitude>
+  <Longitude>NULL</Longitude>
+  <Elevation>1.800</Elevation>
+  <Author>Rodrigo Dela Rosa</Author>
+  <AuthorID>VGXDJMKETZ</AuthorID>
+  <Content>Song</Content>
+  <Comments />
+  <Quality>1</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies>Patagioenas plumbea,Hylopezus nattereri</BackgroundSpecies>
+  <Order>Passeriformes</Order>
+  <Family>Cotingidae</Family>
+  <Genus>Tijuca</Genus>
+  <Species>atra</Species>
+  <Sub-species />
+  <VernacularNames>Black-and-gold Cotinga</VernacularNames>
+</Audio>

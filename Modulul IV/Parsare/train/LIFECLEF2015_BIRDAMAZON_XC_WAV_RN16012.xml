@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>16012</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN16012.wav</FileName>
+  <ClassId>cpzzjy</ClassId>
+  <Date>2009-02-18</Date>
+  <Time>07:30</Time>
+  <Locality>Barinitas, Bolivar, Barinas</Locality>
+  <Latitude>8.8863</Latitude>
+  <Longitude>-70.4877</Longitude>
+  <Elevation>1400</Elevation>
+  <Author>Fernand DEROUSSEN</Author>
+  <AuthorID>UXGZWVYDFE</AuthorID>
+  <Content>male, song</Content>
+  <Comments>bird-seen:yesplayback-used:no</Comments>
+  <Quality>1</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Mimidae</Family>
+  <Genus>Mimus</Genus>
+  <Species>gilvus</Species>
+  <Sub-species />
+  <VernacularNames>Tropical Mockingbird</VernacularNames>
+</Audio>

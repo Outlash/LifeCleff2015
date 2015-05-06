@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>9453</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN9453.wav</FileName>
+  <ClassId>mztxid</ClassId>
+  <Date>2003-10-08</Date>
+  <Time>14:30</Time>
+  <Locality>Intervales State Park. Residential area</Locality>
+  <Latitude>-24.2667</Latitude>
+  <Longitude>-48.4167</Longitude>
+  <Elevation>830</Elevation>
+  <Author>Jeremy Minns</Author>
+  <AuthorID>DGVLLRYDXS</AuthorID>
+  <Content>Song</Content>
+  <Comments>Secondary growth in residential area.</Comments>
+  <Quality>1</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies>Procnias nudicollis,Pachyramphus castaneus,Cyclarhis gujanensis,Turdus rufiventris</BackgroundSpecies>
+  <Order>Passeriformes</Order>
+  <Family>Thraupidae</Family>
+  <Genus>Thraupis</Genus>
+  <Species>sayaca</Species>
+  <Sub-species>sayaca</Sub-species>
+  <VernacularNames>Sayaca Tanager</VernacularNames>
+</Audio>

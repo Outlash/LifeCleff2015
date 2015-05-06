@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>22135</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN22135.wav</FileName>
+  <ClassId>ygcrlc</ClassId>
+  <Date>2014-06-07</Date>
+  <Time>07:00</Time>
+  <Locality>Mesenia Santa Ines, Andes Antioquia</Locality>
+  <Latitude>5.4898</Latitude>
+  <Longitude>-75.9014</Longitude>
+  <Elevation>2600</Elevation>
+  <Author>A Edwar H Guarín</Author>
+  <AuthorID>NQMGMOJOHV</AuthorID>
+  <Content>song</Content>
+  <Comments>bird-seen:yesplayback-used:no</Comments>
+  <Quality>1</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Troglodytidae</Family>
+  <Genus>Cyphorhinus</Genus>
+  <Species>thoracicus</Species>
+  <Sub-species />
+  <VernacularNames>Chestnut-breasted Wren</VernacularNames>
+</Audio>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>11033</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN11033.wav</FileName>
+  <ClassId>zhxbyo</ClassId>
+  <Date>2005-11-06</Date>
+  <Time>5:30</Time>
+  <Locality>Sítio Pitombeira, Feira Nova, state of Pernambuco</Locality>
+  <Latitude>-7.930715</Latitude>
+  <Longitude>-35.367737</Longitude>
+  <Elevation>146</Elevation>
+  <Author>Mauricio Cabral Periquito</Author>
+  <AuthorID>HERKCTHDZI</AuthorID>
+  <Content>song</Content>
+  <Comments />
+  <Quality>4</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies>Passer domesticus</BackgroundSpecies>
+  <Order>Passeriformes</Order>
+  <Family>Tyrannidae</Family>
+  <Genus>Serpophaga</Genus>
+  <Species>subcristata</Species>
+  <Sub-species />
+  <VernacularNames>White-crested Tyrannulet</VernacularNames>
+</Audio>

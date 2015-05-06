@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>5966</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN5966.wav</FileName>
+  <ClassId>jhwuqr</ClassId>
+  <Date>2012-06-13</Date>
+  <Time>15:30</Time>
+  <Locality>Viçosa, Minas Gerais</Locality>
+  <Latitude>-20.8004</Latitude>
+  <Longitude>-42.8884</Longitude>
+  <Elevation>800</Elevation>
+  <Author>Noé Eiterer</Author>
+  <AuthorID>TWSKITNQOV</AuthorID>
+  <Content>call</Content>
+  <Comments>playback-used:no</Comments>
+  <Quality>2</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Thraupidae</Family>
+  <Genus>Sporophila</Genus>
+  <Species>nigricollis</Species>
+  <Sub-species />
+  <VernacularNames>Yellow-bellied Seedeater</VernacularNames>
+</Audio>

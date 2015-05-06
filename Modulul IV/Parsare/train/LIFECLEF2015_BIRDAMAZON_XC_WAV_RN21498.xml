@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>21498</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN21498.wav</FileName>
+  <ClassId>pprfie</ClassId>
+  <Date>2005-07-05</Date>
+  <Time>08:00</Time>
+  <Locality>Parque Nacional Natural Macuira</Locality>
+  <Latitude>12.16</Latitude>
+  <Longitude>-71.331</Longitude>
+  <Elevation>500</Elevation>
+  <Author>Oswaldo Cortes</Author>
+  <AuthorID>VVDRVZCVWW</AuthorID>
+  <Content>song</Content>
+  <Comments />
+  <Quality>3</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Vireonidae</Family>
+  <Genus>Cyclarhis</Genus>
+  <Species>gujanensis</Species>
+  <Sub-species />
+  <VernacularNames>Rufous-browed Peppershrike</VernacularNames>
+</Audio>

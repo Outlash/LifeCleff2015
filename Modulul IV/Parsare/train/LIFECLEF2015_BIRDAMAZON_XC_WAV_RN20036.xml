@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>20036</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN20036.wav</FileName>
+  <ClassId>firddw</ClassId>
+  <Date>2014-01-16</Date>
+  <Time>11:00</Time>
+  <Locality>Belo Oriente, Minas Gerais</Locality>
+  <Latitude>-19.2204</Latitude>
+  <Longitude>-42.4832</Longitude>
+  <Elevation>260</Elevation>
+  <Author>Roney Assis Souza</Author>
+  <AuthorID>AJYSYOLBOF</AuthorID>
+  <Content>male, song</Content>
+  <Comments>bird-seen:yesplayback-used:no</Comments>
+  <Quality>0</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Thamnophilidae</Family>
+  <Genus>Thamnophilus</Genus>
+  <Species>ambiguus</Species>
+  <Sub-species />
+  <VernacularNames>Sooretama Slaty Antshrike</VernacularNames>
+</Audio>

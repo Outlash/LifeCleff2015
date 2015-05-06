@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>32117</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN32117.wav</FileName>
+  <ClassId>njtncg</ClassId>
+  <Date>2013-05-06</Date>
+  <Time>15:30</Time>
+  <Locality>Libano, Tolima</Locality>
+  <Latitude>4.9272</Latitude>
+  <Longitude>-75.0841</Longitude>
+  <Elevation>1900</Elevation>
+  <Author>Jeisson Poveda</Author>
+  <AuthorID>CVJNYXJFAW</AuthorID>
+  <Content>song</Content>
+  <Comments>bird-seen:yesplayback-used:no</Comments>
+  <Quality>2</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Cardinalidae</Family>
+  <Genus>Saltator</Genus>
+  <Species>striatipectus</Species>
+  <Sub-species />
+  <VernacularNames>Streaked Saltator</VernacularNames>
+</Audio>

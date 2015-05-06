@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>32088</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN32088.wav</FileName>
+  <ClassId>iqhznr</ClassId>
+  <Date>2010-01-16</Date>
+  <Time>10:15</Time>
+  <Locality>between Minca and RNA El Dorado, Sierra de Santa Marta, Magdalena</Locality>
+  <Latitude>11.1334</Latitude>
+  <Longitude>-74.1001</Longitude>
+  <Elevation>1900</Elevation>
+  <Author>Pablo Florez</Author>
+  <AuthorID>ISWBQKPBGS</AuthorID>
+  <Content>?</Content>
+  <Comments />
+  <Quality>0</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Cotingidae</Family>
+  <Genus>Pipreola</Genus>
+  <Species>aureopectus</Species>
+  <Sub-species />
+  <VernacularNames>Golden-breasted Fruiteater</VernacularNames>
+</Audio>

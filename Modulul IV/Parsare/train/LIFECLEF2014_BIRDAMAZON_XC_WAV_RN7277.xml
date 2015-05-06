@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>7277</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN7277.wav</FileName>
+  <ClassId>fdggbs</ClassId>
+  <Date>2005-06-26</Date>
+  <Time>08:15</Time>
+  <Locality>Taquara City Park - Duque de Caxias - RJ</Locality>
+  <Latitude>-22.5667</Latitude>
+  <Longitude>-43.2167</Longitude>
+  <Elevation>300</Elevation>
+  <Author>Ricardo Gagliardi</Author>
+  <AuthorID>YRDADNREOP</AuthorID>
+  <Content>song</Content>
+  <Comments />
+  <Quality>2</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies>Chiroxiphia caudata</BackgroundSpecies>
+  <Order>Passeriformes</Order>
+  <Family>Thamnophilidae</Family>
+  <Genus>Dysithamnus</Genus>
+  <Species>stictothorax</Species>
+  <Sub-species />
+  <VernacularNames>Spot-breasted Antvireo</VernacularNames>
+</Audio>

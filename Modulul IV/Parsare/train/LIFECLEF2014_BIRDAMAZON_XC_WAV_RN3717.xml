@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>3717</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN3717.wav</FileName>
+  <ClassId>fpnmqt</ClassId>
+  <Date>2008-11-08</Date>
+  <Time>?</Time>
+  <Locality>Mono, Parque Nacional da Serra do Itajaí, Indaial, Santa Catarina</Locality>
+  <Latitude>NULL</Latitude>
+  <Longitude>NULL</Longitude>
+  <Elevation>650</Elevation>
+  <Author>Evair Legal</Author>
+  <AuthorID>SMJXFKLATM</AuthorID>
+  <Content>alarm call</Content>
+  <Comments />
+  <Quality>1</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Rhinocryptidae</Family>
+  <Genus>Scytalopus</Genus>
+  <Species>speluncae</Species>
+  <Sub-species />
+  <VernacularNames>Mouse-colored Tapaculo</VernacularNames>
+</Audio>

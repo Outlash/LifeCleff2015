@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>13785</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN13785.wav</FileName>
+  <ClassId>ppearp</ClassId>
+  <Date>2005-06-00</Date>
+  <Time>16:48</Time>
+  <Locality>Mancha Verde, São Joao dos Patos - Maranhao State</Locality>
+  <Latitude>-6.5942</Latitude>
+  <Longitude>-43.617</Longitude>
+  <Elevation>?</Elevation>
+  <Author>Guilherme R R Brito</Author>
+  <AuthorID>OAYOBWYOOM</AuthorID>
+  <Content>song</Content>
+  <Comments />
+  <Quality>1</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Tyrannidae</Family>
+  <Genus>Tolmomyias</Genus>
+  <Species>flaviventris</Species>
+  <Sub-species />
+  <VernacularNames>Ochre-lored Flatbill</VernacularNames>
+</Audio>

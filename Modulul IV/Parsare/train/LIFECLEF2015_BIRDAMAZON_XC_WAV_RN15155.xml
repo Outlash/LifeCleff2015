@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>15155</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN15155.wav</FileName>
+  <ClassId>clakup</ClassId>
+  <Date>2000-06-01</Date>
+  <Time>14:23</Time>
+  <Locality>Boraceia Biological Station, SP state</Locality>
+  <Latitude>-23.6334</Latitude>
+  <Longitude>-45.8667</Longitude>
+  <Elevation>825</Elevation>
+  <Author>Jeremy Minns</Author>
+  <AuthorID>DGVLLRYDXS</AuthorID>
+  <Content>Song</Content>
+  <Comments>Garden of a house in montane forest. Excited but natural song by one of two birds, probably a pair.</Comments>
+  <Quality>1</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Tyrannidae</Family>
+  <Genus>Phylloscartes</Genus>
+  <Species>ventralis</Species>
+  <Sub-species>ventralis</Sub-species>
+  <VernacularNames>Mottle-cheeked Tyrannulet</VernacularNames>
+</Audio>

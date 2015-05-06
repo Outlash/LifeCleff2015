@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>17224</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN17224.wav</FileName>
+  <ClassId>knpxmw</ClassId>
+  <Date>2013-07-31</Date>
+  <Time>08:00</Time>
+  <Locality>Rosário Oeste, Mato Grosso</Locality>
+  <Latitude>-14.8264</Latitude>
+  <Longitude>-56.4241</Longitude>
+  <Elevation>200</Elevation>
+  <Author>João Antônio de B. Vitto</Author>
+  <AuthorID>RIVNLYTULO</AuthorID>
+  <Content>song</Content>
+  <Comments>bird-seen:yesplayback-used:yes</Comments>
+  <Quality>0</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Piciformes</Order>
+  <Family>Bucconidae</Family>
+  <Genus>Monasa</Genus>
+  <Species>nigrifrons</Species>
+  <Sub-species />
+  <VernacularNames>Black-fronted Nunbird</VernacularNames>
+</Audio>

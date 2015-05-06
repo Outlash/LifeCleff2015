@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>11629</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN11629.wav</FileName>
+  <ClassId>uytsig</ClassId>
+  <Date>2008-10-13</Date>
+  <Time>9:14</Time>
+  <Locality>Embrapa Soja</Locality>
+  <Latitude>-23.1839</Latitude>
+  <Longitude>-51.1848</Longitude>
+  <Elevation>600</Elevation>
+  <Author>Renan Campos de Oliveira</Author>
+  <AuthorID>SDARDTGGWP</AuthorID>
+  <Content>Song</Content>
+  <Comments />
+  <Quality>2</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Turdidae</Family>
+  <Genus>Turdus</Genus>
+  <Species>leucomelas</Species>
+  <Sub-species />
+  <VernacularNames>Pale-breasted Thrush</VernacularNames>
+</Audio>

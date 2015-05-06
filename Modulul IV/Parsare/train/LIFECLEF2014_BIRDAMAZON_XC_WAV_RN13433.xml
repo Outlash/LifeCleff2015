@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>13433</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN13433.wav</FileName>
+  <ClassId>btsawy</ClassId>
+  <Date>2002-01-30</Date>
+  <Time>07:37</Time>
+  <Locality>Serra dos Carajás. Road to Salobo</Locality>
+  <Latitude>-6.0501</Latitude>
+  <Longitude>-50.2667</Longitude>
+  <Elevation>660</Elevation>
+  <Author>Jeremy Minns</Author>
+  <AuthorID>DGVLLRYDXS</AuthorID>
+  <Content>Call</Content>
+  <Comments>Terra firme forest.</Comments>
+  <Quality>2</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies>Ramphocaenus melanurus,Saltator grossus</BackgroundSpecies>
+  <Order>Passeriformes</Order>
+  <Family>Thamnophilidae</Family>
+  <Genus>Cercomacra</Genus>
+  <Species>cinerascens</Species>
+  <Sub-species>iterata</Sub-species>
+  <VernacularNames>Grey Antbird</VernacularNames>
+</Audio>

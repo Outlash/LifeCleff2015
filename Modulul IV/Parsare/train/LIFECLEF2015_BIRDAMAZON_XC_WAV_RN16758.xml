@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>16758</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN16758.wav</FileName>
+  <ClassId>jhwuqr</ClassId>
+  <Date>2013-04-23</Date>
+  <Time>16:35</Time>
+  <Locality>Belo Vale, Minas Gerais</Locality>
+  <Latitude>-20.4082</Latitude>
+  <Longitude>-44.0279</Longitude>
+  <Elevation>800</Elevation>
+  <Author>Douglas Meyer</Author>
+  <AuthorID>MNENFHYTAE</AuthorID>
+  <Content>song</Content>
+  <Comments>bird-seen:yesplayback-used:no</Comments>
+  <Quality>0</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Thraupidae</Family>
+  <Genus>Sporophila</Genus>
+  <Species>nigricollis</Species>
+  <Sub-species />
+  <VernacularNames>Yellow-bellied Seedeater</VernacularNames>
+</Audio>

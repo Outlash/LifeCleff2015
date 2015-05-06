@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>13315</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN13315.wav</FileName>
+  <ClassId>vxglzx</ClassId>
+  <Date>2012-04-07</Date>
+  <Time>10:34</Time>
+  <Locality>Itatiaia - RJ</Locality>
+  <Latitude>NULL</Latitude>
+  <Longitude>NULL</Longitude>
+  <Elevation>940</Elevation>
+  <Author>Alexandre Bianco</Author>
+  <AuthorID>ODNEDFESFY</AuthorID>
+  <Content>Song</Content>
+  <Comments />
+  <Quality>0</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Thamnophilidae</Family>
+  <Genus>Biatas</Genus>
+  <Species>nigropectus</Species>
+  <Sub-species />
+  <VernacularNames>White-bearded Antshrike</VernacularNames>
+</Audio>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>12182</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN12182.wav</FileName>
+  <ClassId>efxnjc</ClassId>
+  <Date>2011-05-20</Date>
+  <Time>05:19</Time>
+  <Locality>Paragominas, PA, Brazil, Bacia 549</Locality>
+  <Latitude>-3.8101</Latitude>
+  <Longitude>-48.377</Longitude>
+  <Elevation>?</Elevation>
+  <Author>Alexander Lees</Author>
+  <AuthorID>INDDBZAFJL</AuthorID>
+  <Content>song</Content>
+  <Comments>very distant, in primary forest</Comments>
+  <Quality>4</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies>Nyctibius aethereus</BackgroundSpecies>
+  <Order>Strigiformes</Order>
+  <Family>Strigidae</Family>
+  <Genus>Glaucidium</Genus>
+  <Species>hardyi</Species>
+  <Sub-species />
+  <VernacularNames>Amazonian Pygmy Owl</VernacularNames>
+</Audio>

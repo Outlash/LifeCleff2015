@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>15059</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN15059.wav</FileName>
+  <ClassId>rvpusq</ClassId>
+  <Date>2005-07-24</Date>
+  <Time>08:40</Time>
+  <Locality>Serra da Capivara National Park, Piauí State</Locality>
+  <Latitude>-8.4167</Latitude>
+  <Longitude>-42.3334</Longitude>
+  <Elevation>?</Elevation>
+  <Author>Ciro Albano</Author>
+  <AuthorID>MXVQPUKGWW</AuthorID>
+  <Content>call</Content>
+  <Comments />
+  <Quality>1</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Icteridae</Family>
+  <Genus>Icterus</Genus>
+  <Species>jamacaii</Species>
+  <Sub-species />
+  <VernacularNames>Campo Troupial</VernacularNames>
+</Audio>

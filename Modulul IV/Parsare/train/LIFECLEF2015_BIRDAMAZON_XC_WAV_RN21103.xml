@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>21103</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN21103.wav</FileName>
+  <ClassId>aezhvb</ClassId>
+  <Date>2005-03-27</Date>
+  <Time>?</Time>
+  <Locality>Reserva Figueira Branca, Gaspar, Santa Catarina</Locality>
+  <Latitude>NULL</Latitude>
+  <Longitude>NULL</Longitude>
+  <Elevation>?</Elevation>
+  <Author>Claudia Sabrine Brandt</Author>
+  <AuthorID>AOPMSCIDIA</AuthorID>
+  <Content>song</Content>
+  <Comments />
+  <Quality>4</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Caprimulgiformes</Order>
+  <Family>Caprimulgidae</Family>
+  <Genus>Antrostomus</Genus>
+  <Species>sericocaudatus</Species>
+  <Sub-species />
+  <VernacularNames>Silky-tailed Nightjar</VernacularNames>
+</Audio>

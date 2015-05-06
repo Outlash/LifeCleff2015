@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>19259</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN19259.wav</FileName>
+  <ClassId>ugoxqz</ClassId>
+  <Date>0000-00-00</Date>
+  <Time>?</Time>
+  <Locality>Joanópolis, SP</Locality>
+  <Latitude>NULL</Latitude>
+  <Longitude>NULL</Longitude>
+  <Elevation>930</Elevation>
+  <Author>Luiz Fernando Figueiredo</Author>
+  <AuthorID>EYYKGDWADQ</AuthorID>
+  <Content>song</Content>
+  <Comments />
+  <Quality>2</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies>Sporophila lineola</BackgroundSpecies>
+  <Order>Apodiformes</Order>
+  <Family>Trochilidae</Family>
+  <Genus>Phaethornis</Genus>
+  <Species>pretrei</Species>
+  <Sub-species />
+  <VernacularNames>Planalto Hermit</VernacularNames>
+</Audio>

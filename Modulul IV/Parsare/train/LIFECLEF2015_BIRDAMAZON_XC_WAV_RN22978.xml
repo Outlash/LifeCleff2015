@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>22978</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN22978.wav</FileName>
+  <ClassId>bthqkm</ClassId>
+  <Date>2009-07-26</Date>
+  <Time>07:00</Time>
+  <Locality>Caxiuanã Scientific Station</Locality>
+  <Latitude>-1.7375</Latitude>
+  <Longitude>-51.4556</Longitude>
+  <Elevation>70</Elevation>
+  <Author>Sidnei Dantas</Author>
+  <AuthorID>NNCKQMBGPH</AuthorID>
+  <Content>call</Content>
+  <Comments>not seen</Comments>
+  <Quality>2</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies>Lipaugus vociferans,Willisornis poecilinotus,Brotogeris chrysoptera,Dixiphia pipra,Patagioenas plumbea,Herpsilochmus rufimarginatus,Thamnophilus stictocephalus</BackgroundSpecies>
+  <Order>Accipitriformes</Order>
+  <Family>Accipitridae</Family>
+  <Genus>Harpia</Genus>
+  <Species>harpyja</Species>
+  <Sub-species />
+  <VernacularNames>Harpy Eagle</VernacularNames>
+</Audio>

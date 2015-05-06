@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>12587</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN12587.wav</FileName>
+  <ClassId>leuotc</ClassId>
+  <Date>2009-10-17</Date>
+  <Time>10:40</Time>
+  <Locality>Cristalino Jungle Lodge, MT</Locality>
+  <Latitude>-9.5981</Latitude>
+  <Longitude>-55.932</Longitude>
+  <Elevation>250</Elevation>
+  <Author>Andrew Spencer</Author>
+  <AuthorID>CDTGHVBGZP</AuthorID>
+  <Content>call</Content>
+  <Comments>multiple call types from a bird at a small antswarm</Comments>
+  <Quality>1</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Furnariidae</Family>
+  <Genus>Dendrocolaptes</Genus>
+  <Species>certhia</Species>
+  <Sub-species>concolor</Sub-species>
+  <VernacularNames>Amazonian Barred Woodcreeper</VernacularNames>
+</Audio>

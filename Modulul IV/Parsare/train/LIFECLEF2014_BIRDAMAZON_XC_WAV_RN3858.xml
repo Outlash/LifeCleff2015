@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>3858</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN3858.wav</FileName>
+  <ClassId>uhflol</ClassId>
+  <Date>2003-03-30</Date>
+  <Time>06:19</Time>
+  <Locality>Guajará-Mirim, RO</Locality>
+  <Latitude>-10.8814</Latitude>
+  <Longitude>-65.2501</Longitude>
+  <Elevation>130</Elevation>
+  <Author>Jeremy Minns</Author>
+  <AuthorID>DGVLLRYDXS</AuthorID>
+  <Content>Song</Content>
+  <Comments>Terra firme forest.</Comments>
+  <Quality>1</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Furnariidae</Family>
+  <Genus>Hylexetastes</Genus>
+  <Species>uniformis</Species>
+  <Sub-species />
+  <VernacularNames>Uniform Woodcreeper</VernacularNames>
+</Audio>

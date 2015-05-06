@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>24839</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN24839.wav</FileName>
+  <ClassId>bcieap</ClassId>
+  <Date>2010-01-19</Date>
+  <Time>16:00</Time>
+  <Locality>San Lorenzo, Sierra Nevada de Santa Marta</Locality>
+  <Latitude>11.105305</Latitude>
+  <Longitude>-74.047165</Longitude>
+  <Elevation>2150</Elevation>
+  <Author>David Geale</Author>
+  <AuthorID>SBFBVYGIJC</AuthorID>
+  <Content>Call</Content>
+  <Comments>2 birds. Human noises in BG.</Comments>
+  <Quality>2</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies>Psittacara wagleri</BackgroundSpecies>
+  <Order>Passeriformes</Order>
+  <Family>Parulidae</Family>
+  <Genus>Myiothlypis</Genus>
+  <Species>conspicillata</Species>
+  <Sub-species />
+  <VernacularNames>White-lored Warbler</VernacularNames>
+</Audio>

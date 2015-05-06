@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>14451</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN14451.wav</FileName>
+  <ClassId>cchgxy</ClassId>
+  <Date>2007-11-07</Date>
+  <Time>16:50</Time>
+  <Locality>Universidad del Quindío, Armenia, Quindio</Locality>
+  <Latitude>4.5538</Latitude>
+  <Longitude>-75.6604</Longitude>
+  <Elevation>1500</Elevation>
+  <Author>Oscar Humberto Marin-Gomez</Author>
+  <AuthorID>CSUHASNRSU</AuthorID>
+  <Content>Nest call, flight call, male, song</Content>
+  <Comments>Ref OHM003B 1436. Bandada de 50-70 individuos en vuelo. 40m del mic. Vocalizacion naturalbird-seen:yes</Comments>
+  <Quality>1</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Hirundinidae</Family>
+  <Genus>Notiochelidon</Genus>
+  <Species>cyanoleuca</Species>
+  <Sub-species />
+  <VernacularNames>Blue-and-white Swallow</VernacularNames>
+</Audio>

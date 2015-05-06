@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>21875</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN21875.wav</FileName>
+  <ClassId>qfjwpy</ClassId>
+  <Date>2000-04-18</Date>
+  <Time>Night</Time>
+  <Locality>Finca La Pradera, Parroquia Remolinos, Municipio Puerto Lopez, Meta</Locality>
+  <Latitude>NULL</Latitude>
+  <Longitude>NULL</Longitude>
+  <Elevation>400</Elevation>
+  <Author>Bernabe Lopez-Lanus</Author>
+  <AuthorID>BYLLSJRVDZ</AuthorID>
+  <Content>call</Content>
+  <Comments />
+  <Quality>2</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Charadriiformes</Order>
+  <Family>Charadriidae</Family>
+  <Genus>Vanellus</Genus>
+  <Species>chilensis</Species>
+  <Sub-species>cayennensis</Sub-species>
+  <VernacularNames>Southern Lapwing</VernacularNames>
+</Audio>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>19843</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN19843.wav</FileName>
+  <ClassId>ynwbeg</ClassId>
+  <Date>2003-11-30</Date>
+  <Time>17:20</Time>
+  <Locality>Cristalino Jungle Lodge, MT</Locality>
+  <Latitude>-9.5981</Latitude>
+  <Longitude>-55.932</Longitude>
+  <Elevation>250</Elevation>
+  <Author>Jeremy Minns</Author>
+  <AuthorID>DGVLLRYDXS</AuthorID>
+  <Content>duet, song</Content>
+  <Comments>Terra firme forest. Response to playback.</Comments>
+  <Quality>1</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Piciformes</Order>
+  <Family>Bucconidae</Family>
+  <Genus>Notharchus</Genus>
+  <Species>ordii</Species>
+  <Sub-species />
+  <VernacularNames>Brown-banded Puffbird</VernacularNames>
+</Audio>

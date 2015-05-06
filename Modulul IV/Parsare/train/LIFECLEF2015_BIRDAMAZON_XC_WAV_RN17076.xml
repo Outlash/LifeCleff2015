@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>17076</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN17076.wav</FileName>
+  <ClassId>bvpcer</ClassId>
+  <Date>2014-01-16</Date>
+  <Time>11:00</Time>
+  <Locality>Reserva Natural Salto Morato, Guaraqueçaba, Paraná</Locality>
+  <Latitude>-25.182</Latitude>
+  <Longitude>-48.2981</Longitude>
+  <Elevation>30</Elevation>
+  <Author>João Antônio de B. Vitto</Author>
+  <AuthorID>RIVNLYTULO</AuthorID>
+  <Content>song</Content>
+  <Comments>bird-seen:yesplayback-used:yes</Comments>
+  <Quality>1</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Pipridae</Family>
+  <Genus>Ilicura</Genus>
+  <Species>militaris</Species>
+  <Sub-species />
+  <VernacularNames>Pin-tailed Manakin</VernacularNames>
+</Audio>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>13314</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN13314.wav</FileName>
+  <ClassId>rseeil</ClassId>
+  <Date>2013-03-23</Date>
+  <Time>12:30</Time>
+  <Locality>Campo Mourao, Paraná.</Locality>
+  <Latitude>-24.0458</Latitude>
+  <Longitude>-52.3828</Longitude>
+  <Elevation>600</Elevation>
+  <Author>Luiz C.  Silva</Author>
+  <AuthorID>ORPKXJRFDZ</AuthorID>
+  <Content>call</Content>
+  <Comments>bird-seen:noplayback-used:no</Comments>
+  <Quality>2</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Icteridae</Family>
+  <Genus>Cacicus</Genus>
+  <Species>chrysopterus</Species>
+  <Sub-species />
+  <VernacularNames>Golden-winged Cacique</VernacularNames>
+</Audio>

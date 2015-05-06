@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>4036</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN4036.wav</FileName>
+  <ClassId>xhgzss</ClassId>
+  <Date>2006-07-03</Date>
+  <Time>10:00</Time>
+  <Locality>Ubatuba, Corcovado</Locality>
+  <Latitude>-23.5</Latitude>
+  <Longitude>-45.131</Longitude>
+  <Elevation>50</Elevation>
+  <Author>Gustavo S Cabanne &amp; Frank Rheindt</Author>
+  <AuthorID>XXVEEPYYBD</AuthorID>
+  <Content>song</Content>
+  <Comments />
+  <Quality>1</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Furnariidae</Family>
+  <Genus>Dendrocincla</Genus>
+  <Species>turdina</Species>
+  <Sub-species>turdina</Sub-species>
+  <VernacularNames>Plain-winged Woodcreeper</VernacularNames>
+</Audio>

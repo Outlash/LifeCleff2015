@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>31287</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN31287.wav</FileName>
+  <ClassId>msentw</ClassId>
+  <Date>2011-03-24</Date>
+  <Time>9-10</Time>
+  <Locality>Puerto Ajacucho</Locality>
+  <Latitude>5.6709</Latitude>
+  <Longitude>-67.5551</Longitude>
+  <Elevation>250</Elevation>
+  <Author>Albert Lastukhin</Author>
+  <AuthorID>LELYWQKUZX</AuthorID>
+  <Content>Song. territorial call</Content>
+  <Comments>bird that is looking for in the flowers of a large tree</Comments>
+  <Quality>3</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies>Ramphastos tucanus</BackgroundSpecies>
+  <Order>Piciformes</Order>
+  <Family>Picidae</Family>
+  <Genus>Melanerpes</Genus>
+  <Species>cruentatus</Species>
+  <Sub-species />
+  <VernacularNames>Yellow-tufted Woodpecker</VernacularNames>
+</Audio>

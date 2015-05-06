@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>15110</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN15110.wav</FileName>
+  <ClassId>fknsgw</ClassId>
+  <Date>2008-10-31</Date>
+  <Time>17:29</Time>
+  <Locality>Pousada Rio Roosevelt, AM</Locality>
+  <Latitude>-8.4945</Latitude>
+  <Longitude>-60.9626</Longitude>
+  <Elevation>100</Elevation>
+  <Author>Bradley Davis</Author>
+  <AuthorID>YNXJLOESBB</AuthorID>
+  <Content>song</Content>
+  <Comments>response to whistled imitations</Comments>
+  <Quality>2</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Furnariidae</Family>
+  <Genus>Nasica</Genus>
+  <Species>longirostris</Species>
+  <Sub-species />
+  <VernacularNames>Long-billed Woodcreeper</VernacularNames>
+</Audio>

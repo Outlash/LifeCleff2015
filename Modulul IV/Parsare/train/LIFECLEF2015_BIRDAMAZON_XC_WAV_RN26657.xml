@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>26657</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN26657.wav</FileName>
+  <ClassId>ssjgea</ClassId>
+  <Date>2010-01-07</Date>
+  <Time>06:30</Time>
+  <Locality>Santa Cecilia, Serrania de San Lucas</Locality>
+  <Latitude>7.9759</Latitude>
+  <Longitude>-74.2153</Longitude>
+  <Elevation>1550</Elevation>
+  <Author>Thomas Donegan</Author>
+  <AuthorID>OXSIOLJJUP</AuthorID>
+  <Content>Song</Content>
+  <Comments>Primary forest.  Bird not seen on this occasion but was later.</Comments>
+  <Quality>5</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies>Myrmeciza immaculata,Henicorhina leucosticta</BackgroundSpecies>
+  <Order>Passeriformes</Order>
+  <Family>Rhinocryptidae</Family>
+  <Genus>Scytalopus</Genus>
+  <Species>atratus</Species>
+  <Sub-species />
+  <VernacularNames>Northern White-crowned Tapaculo</VernacularNames>
+</Audio>

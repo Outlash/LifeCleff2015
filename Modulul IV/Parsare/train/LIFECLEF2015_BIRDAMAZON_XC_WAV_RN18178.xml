@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>18178</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN18178.wav</FileName>
+  <ClassId>elfnvh</ClassId>
+  <Date>1995-09-28</Date>
+  <Time>?:?</Time>
+  <Locality>Hacienda Santa Isabel-Transpantaneira</Locality>
+  <Latitude>NULL</Latitude>
+  <Longitude>NULL</Longitude>
+  <Elevation>?</Elevation>
+  <Author>Miguel Castelino</Author>
+  <AuthorID>RCJCABZSNP</AuthorID>
+  <Content>song</Content>
+  <Comments>rpb &lt;a href=http://www.xeno-canto.org/graphics/conosur.jpg rel=lightbox&gt;From Bird Sounds of Southern South America by Lopez-Lanus (2008)&lt;/a&gt;</Comments>
+  <Quality>2</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Piciformes</Order>
+  <Family>Picidae</Family>
+  <Genus>Veniliornis</Genus>
+  <Species>passerinus</Species>
+  <Sub-species />
+  <VernacularNames>Little Woodpecker</VernacularNames>
+</Audio>

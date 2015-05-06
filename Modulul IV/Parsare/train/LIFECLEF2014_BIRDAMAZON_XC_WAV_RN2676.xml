@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>2676</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN2676.wav</FileName>
+  <ClassId>imzsdw</ClassId>
+  <Date>2007-08-25</Date>
+  <Time>0</Time>
+  <Locality>APA da Bocaina, Sertao da Bocaina, SP</Locality>
+  <Latitude>-23.182973</Latitude>
+  <Longitude>-44.880524</Longitude>
+  <Elevation>1200</Elevation>
+  <Author>Claydson P. de Assis</Author>
+  <AuthorID>PXKXBFXYWR</AuthorID>
+  <Content>Song</Content>
+  <Comments />
+  <Quality>2</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Tyrannidae</Family>
+  <Genus>Hemitriccus</Genus>
+  <Species>obsoletus</Species>
+  <Sub-species />
+  <VernacularNames>Brown-breasted Bamboo Tyrant</VernacularNames>
+</Audio>

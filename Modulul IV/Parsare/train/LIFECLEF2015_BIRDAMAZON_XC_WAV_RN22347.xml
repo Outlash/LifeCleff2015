@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>22347</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN22347.wav</FileName>
+  <ClassId>dlrpwn</ClassId>
+  <Date>2006-02-12</Date>
+  <Time>10:35</Time>
+  <Locality>Chapada dos Guimarães, north of Cuiabá, MT</Locality>
+  <Latitude>-15.4239</Latitude>
+  <Longitude>-55.7778</Longitude>
+  <Elevation>700</Elevation>
+  <Author>Nick Athanas</Author>
+  <AuthorID>XRABICUARW</AuthorID>
+  <Content>call</Content>
+  <Comments />
+  <Quality>3</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies>Herpsilochmus longirostris,Dysithamnus mentalis,Myiopagis gaimardii</BackgroundSpecies>
+  <Order>Passeriformes</Order>
+  <Family>Corvidae</Family>
+  <Genus>Cyanocorax</Genus>
+  <Species>cyanomelas</Species>
+  <Sub-species />
+  <VernacularNames>Purplish Jay</VernacularNames>
+</Audio>

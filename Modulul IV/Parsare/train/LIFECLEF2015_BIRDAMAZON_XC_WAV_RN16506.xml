@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>16506</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN16506.wav</FileName>
+  <ClassId>dkinxl</ClassId>
+  <Date>2014-05-19</Date>
+  <Time>08:00</Time>
+  <Locality>Campos do Jordão, São Paulo</Locality>
+  <Latitude>-22.666</Latitude>
+  <Longitude>-45.4534</Longitude>
+  <Elevation>1500</Elevation>
+  <Author>Alex Lees</Author>
+  <AuthorID>INDDBZAFJL</AuthorID>
+  <Content>flight call</Content>
+  <Comments>bird-seen:yesplayback-used:no</Comments>
+  <Quality>2</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies>Pitangus sulphuratus</BackgroundSpecies>
+  <Order>Psittaciformes</Order>
+  <Family>Psittacidae</Family>
+  <Genus>Amazona</Genus>
+  <Species>vinacea</Species>
+  <Sub-species />
+  <VernacularNames>Vinaceous-breasted Amazon</VernacularNames>
+</Audio>

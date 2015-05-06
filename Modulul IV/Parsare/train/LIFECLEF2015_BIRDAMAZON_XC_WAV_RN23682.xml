@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>23682</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN23682.wav</FileName>
+  <ClassId>ezprzx</ClassId>
+  <Date>2008-02-05</Date>
+  <Time>11:10</Time>
+  <Locality>El canon del Rio Claro, Antioquia</Locality>
+  <Latitude>5.8334</Latitude>
+  <Longitude>-74.8667</Longitude>
+  <Elevation>600</Elevation>
+  <Author>Herman van Oosten</Author>
+  <AuthorID>SNUDCZVUQK</AuthorID>
+  <Content>song?</Content>
+  <Comments>95%, bird not seen.</Comments>
+  <Quality>1</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies>Vireolanius eximius,Legatus leucophaius</BackgroundSpecies>
+  <Order>Tinamiformes</Order>
+  <Family>Tinamidae</Family>
+  <Genus>Crypturellus</Genus>
+  <Species>soui</Species>
+  <Sub-species />
+  <VernacularNames>Little Tinamou</VernacularNames>
+</Audio>

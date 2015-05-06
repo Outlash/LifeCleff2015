@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>16150</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN16150.wav</FileName>
+  <ClassId>ovfpsf</ClassId>
+  <Date>2008-02-09</Date>
+  <Time>16:35</Time>
+  <Locality>Jardin, Antioquia</Locality>
+  <Latitude>5.736243</Latitude>
+  <Longitude>-75.86608</Longitude>
+  <Elevation>2800</Elevation>
+  <Author>Herman van Oosten</Author>
+  <AuthorID>SNUDCZVUQK</AuthorID>
+  <Content>flight call</Content>
+  <Comments>Still alive! The birds we saw were rather far away and flying, but damn...what a birds. Here you hear three birds flying by.</Comments>
+  <Quality>3</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Psittaciformes</Order>
+  <Family>Psittacidae</Family>
+  <Genus>Ognorhynchus</Genus>
+  <Species>icterotis</Species>
+  <Sub-species />
+  <VernacularNames>Yellow-eared Parrot</VernacularNames>
+</Audio>

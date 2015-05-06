@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>22447</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN22447.wav</FileName>
+  <ClassId>vifxpb</ClassId>
+  <Date>2011-04-19</Date>
+  <Time>11:27</Time>
+  <Locality>Gran Sabana, Bolívar</Locality>
+  <Latitude>4.5472</Latitude>
+  <Longitude>-61.5911</Longitude>
+  <Elevation>820</Elevation>
+  <Author>Anthony Crease</Author>
+  <AuthorID>ENEAFHQVOF</AuthorID>
+  <Content>song</Content>
+  <Comments>Single bird perched in a tree in forest near the road but not seen, singing single note song. ssp is that expected at this location and was not verified. No loud background species.bird-seen:noplayback-used:no</Comments>
+  <Quality>2</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Falconiformes</Order>
+  <Family>Falconidae</Family>
+  <Genus>Micrastur</Genus>
+  <Species>ruficollis</Species>
+  <Sub-species>concentricus</Sub-species>
+  <VernacularNames>Barred Forest Falcon</VernacularNames>
+</Audio>

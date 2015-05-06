@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>1603</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN1603.wav</FileName>
+  <ClassId>dfegpk</ClassId>
+  <Date>2012-07-04</Date>
+  <Time>07:06</Time>
+  <Locality>Eldorado, Mato Grosso do Sul state</Locality>
+  <Latitude>-23.8501</Latitude>
+  <Longitude>-54.2537</Longitude>
+  <Elevation>340</Elevation>
+  <Author>Joao Menezes</Author>
+  <AuthorID>BEYMZHZHIB</AuthorID>
+  <Content>flight calls, perched calls</Content>
+  <Comments />
+  <Quality>1</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies>Gubernetes yetapa,Vanellus chilensis</BackgroundSpecies>
+  <Order>Psittaciformes</Order>
+  <Family>Psittacidae</Family>
+  <Genus>Amazona</Genus>
+  <Species>aestiva</Species>
+  <Sub-species />
+  <VernacularNames>Turquoise-fronted Amazon</VernacularNames>
+</Audio>

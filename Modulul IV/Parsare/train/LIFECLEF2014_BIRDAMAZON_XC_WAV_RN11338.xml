@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>11338</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN11338.wav</FileName>
+  <ClassId>ajwuzt</ClassId>
+  <Date>2013-10-11</Date>
+  <Time>11:00</Time>
+  <Locality>Acre</Locality>
+  <Latitude>-8.8734</Latitude>
+  <Longitude>-69.2802</Longitude>
+  <Elevation>140</Elevation>
+  <Author>GABRIEL LEITE</Author>
+  <AuthorID>TGBFXDVERJ</AuthorID>
+  <Content>song</Content>
+  <Comments>bird-seen:yesplayback-used:no</Comments>
+  <Quality>1</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Cardinalidae</Family>
+  <Genus>Saltator</Genus>
+  <Species>coerulescens</Species>
+  <Sub-species />
+  <VernacularNames>Greyish Saltator</VernacularNames>
+</Audio>

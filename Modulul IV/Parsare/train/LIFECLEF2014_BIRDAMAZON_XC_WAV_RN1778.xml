@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>1778</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN1778.wav</FileName>
+  <ClassId>uphahj</ClassId>
+  <Date>2005-02-16</Date>
+  <Time>08:49</Time>
+  <Locality>Fazenda Capricornio, Ubatuba, Sao Paulo</Locality>
+  <Latitude>NULL</Latitude>
+  <Longitude>NULL</Longitude>
+  <Elevation>80</Elevation>
+  <Author>Bernabe Lopez-Lanus</Author>
+  <AuthorID>BYLLSJRVDZ</AuthorID>
+  <Content>Song</Content>
+  <Comments />
+  <Quality>4</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies />
+  <Order>Accipitriformes</Order>
+  <Family>Accipitridae</Family>
+  <Genus>Rupornis</Genus>
+  <Species>magnirostris</Species>
+  <Sub-species>magnirostris ?</Sub-species>
+  <VernacularNames>Roadside Hawk</VernacularNames>
+</Audio>

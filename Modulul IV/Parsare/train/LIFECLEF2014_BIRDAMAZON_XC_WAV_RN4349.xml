@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>4349</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN4349.wav</FileName>
+  <ClassId>dhzucj</ClassId>
+  <Date>2010-10-02</Date>
+  <Time>12:23</Time>
+  <Locality>nova lima, brasil</Locality>
+  <Latitude>NULL</Latitude>
+  <Longitude>NULL</Longitude>
+  <Elevation>795</Elevation>
+  <Author>Frederico Pereira</Author>
+  <AuthorID>CUABISBTCK</AuthorID>
+  <Content>song</Content>
+  <Comments />
+  <Quality>1</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies>Turdus rufiventris</BackgroundSpecies>
+  <Order>Passeriformes</Order>
+  <Family>Thamnophilidae</Family>
+  <Genus>Drymophila</Genus>
+  <Species>ochropyga</Species>
+  <Sub-species />
+  <VernacularNames>Ochre-rumped Antbird</VernacularNames>
+</Audio>

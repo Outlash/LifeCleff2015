@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>4153</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN4153.wav</FileName>
+  <ClassId>yyvzjd</ClassId>
+  <Date>1993-11-13</Date>
+  <Time>?</Time>
+  <Locality>Fazenda Rancho Grande, Rondonia</Locality>
+  <Latitude>-10.3167</Latitude>
+  <Longitude>-62.8667</Longitude>
+  <Elevation>200</Elevation>
+  <Author>Allen T. Chartier</Author>
+  <AuthorID>AZXTZTQJRO</AuthorID>
+  <Content>Song</Content>
+  <Comments>Responding to playback</Comments>
+  <Quality>0</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Furnariidae</Family>
+  <Genus>Automolus</Genus>
+  <Species>ochrolaemus</Species>
+  <Sub-species>auricularis?</Sub-species>
+  <VernacularNames>Buff-throated Foliage-gleaner</VernacularNames>
+</Audio>

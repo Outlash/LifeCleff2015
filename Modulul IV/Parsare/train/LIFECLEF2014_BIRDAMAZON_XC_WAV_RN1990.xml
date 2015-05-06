@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>1990</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN1990.wav</FileName>
+  <ClassId>hijhrx</ClassId>
+  <Date>1997-09-21</Date>
+  <Time>?</Time>
+  <Locality>Rio Doce State Park, Minas Gerais</Locality>
+  <Latitude>-19.5001</Latitude>
+  <Longitude>-41.167</Longitude>
+  <Elevation>?</Elevation>
+  <Author>Don Jones</Author>
+  <AuthorID>BCWZQTGMSO</AuthorID>
+  <Content>song</Content>
+  <Comments>Territorial song</Comments>
+  <Quality>2</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies />
+  <Order>Strigiformes</Order>
+  <Family>Strigidae</Family>
+  <Genus>Megascops</Genus>
+  <Species>choliba</Species>
+  <Sub-species />
+  <VernacularNames>Tropical Screech Owl</VernacularNames>
+</Audio>

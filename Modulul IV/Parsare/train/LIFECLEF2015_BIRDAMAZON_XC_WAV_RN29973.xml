@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>29973</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN29973.wav</FileName>
+  <ClassId>gupevx</ClassId>
+  <Date>2013-11-27</Date>
+  <Time>14:30</Time>
+  <Locality>Medellin, Antioquia</Locality>
+  <Latitude>6.2705</Latitude>
+  <Longitude>-75.5721</Longitude>
+  <Elevation>1500</Elevation>
+  <Author>Andrés Felipe Jiménez Quintero</Author>
+  <AuthorID>KDNSIHTXJC</AuthorID>
+  <Content>sonido grupal</Content>
+  <Comments>bird-seen:yesplayback-used:yes</Comments>
+  <Quality>2</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Psittaciformes</Order>
+  <Family>Psittacidae</Family>
+  <Genus>Brotogeris</Genus>
+  <Species>jugularis</Species>
+  <Sub-species />
+  <VernacularNames>Orange-chinned Parakeet</VernacularNames>
+</Audio>

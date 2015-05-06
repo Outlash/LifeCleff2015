@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>10231</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN10231.wav</FileName>
+  <ClassId>vqsusq</ClassId>
+  <Date>2004-05-28</Date>
+  <Time>07:30</Time>
+  <Locality>Itatiaia NP, RJ</Locality>
+  <Latitude>-22.38</Latitude>
+  <Longitude>-44.63</Longitude>
+  <Elevation>1150</Elevation>
+  <Author>Nick Athanas</Author>
+  <AuthorID>XRABICUARW</AuthorID>
+  <Content>call</Content>
+  <Comments />
+  <Quality>1</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies>Micrastur ruficollis,Hemitriccus furcatus,Anabazenops fuscus</BackgroundSpecies>
+  <Order>Passeriformes</Order>
+  <Family>Furnariidae</Family>
+  <Genus>Campylorhamphus</Genus>
+  <Species>falcularius</Species>
+  <Sub-species />
+  <VernacularNames>Black-billed Scythebill</VernacularNames>
+</Audio>

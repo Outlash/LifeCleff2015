@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>2157</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN2157.wav</FileName>
+  <ClassId>esguzq</ClassId>
+  <Date>2010-11-21</Date>
+  <Time>08:34</Time>
+  <Locality>Sitio Tomio, Salete, Santa Catarina State</Locality>
+  <Latitude>-26.995</Latitude>
+  <Longitude>-50.014</Longitude>
+  <Elevation>570</Elevation>
+  <Author>Douglas Meyer</Author>
+  <AuthorID>WTLCUXQQUD</AuthorID>
+  <Content>song</Content>
+  <Comments />
+  <Quality>2</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Formicariidae</Family>
+  <Genus>Chamaeza</Genus>
+  <Species>campanisona</Species>
+  <Sub-species />
+  <VernacularNames>Short-tailed Antthrush</VernacularNames>
+</Audio>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>11044</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN11044.wav</FileName>
+  <ClassId>gshgib</ClassId>
+  <Date>2009-09-25</Date>
+  <Time>17:30</Time>
+  <Locality>Agulhas Negras (Puesto de Avanzada), Planalto, PN Itatiaia, Rio de Janeiro</Locality>
+  <Latitude>-22.3731</Latitude>
+  <Longitude>-44.7031</Longitude>
+  <Elevation>2480</Elevation>
+  <Author>Odirlei Vieira da Fonseca</Author>
+  <AuthorID>PHUJYQLGTN</AuthorID>
+  <Content>song</Content>
+  <Comments>An adult singing on top of one clump of Chusquea sp. Spontaneous songbird-seen:yesplayback-used:no</Comments>
+  <Quality>1</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Furnariidae</Family>
+  <Genus>Asthenes</Genus>
+  <Species>moreirae</Species>
+  <Sub-species />
+  <VernacularNames>Itatiaia Spinetail</VernacularNames>
+</Audio>

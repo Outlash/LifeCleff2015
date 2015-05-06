@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>7183</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN7183.wav</FileName>
+  <ClassId>cllknv</ClassId>
+  <Date>2011-01-24</Date>
+  <Time>?</Time>
+  <Locality>Tapajos National Forest, Bacia 363, Santarém, PA</Locality>
+  <Latitude>-3.2939</Latitude>
+  <Longitude>-54.9978</Longitude>
+  <Elevation>?</Elevation>
+  <Author>Nargila Moura</Author>
+  <AuthorID>CWEIBYBYYD</AuthorID>
+  <Content>song</Content>
+  <Comments>primary forest</Comments>
+  <Quality>4</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies>Notharchus hyperrhynchus</BackgroundSpecies>
+  <Order>Passeriformes</Order>
+  <Family>Furnariidae</Family>
+  <Genus>Xiphorhynchus</Genus>
+  <Species>spixii</Species>
+  <Sub-species />
+  <VernacularNames>Spix's Woodcreeper</VernacularNames>
+</Audio>

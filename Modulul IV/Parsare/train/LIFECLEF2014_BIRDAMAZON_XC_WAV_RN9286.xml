@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>9286</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN9286.wav</FileName>
+  <ClassId>ioaqnm</ClassId>
+  <Date>2011-09-02</Date>
+  <Time>09:55</Time>
+  <Locality>Pantanal Wildlife Center, MT</Locality>
+  <Latitude>-16.7581</Latitude>
+  <Longitude>-56.8764</Longitude>
+  <Elevation>110</Elevation>
+  <Author>Eric DeFonso</Author>
+  <AuthorID>KTLCZCRCQX</AuthorID>
+  <Content>call</Content>
+  <Comments>The soft dry clicking. Habitat is gallery forest tropical deciduous woodland.bird-seen:yesplayback-used:no</Comments>
+  <Quality>2</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies />
+  <Order>Cuculiformes</Order>
+  <Family>Cuculidae</Family>
+  <Genus>Piaya</Genus>
+  <Species>cayana</Species>
+  <Sub-species />
+  <VernacularNames>Squirrel Cuckoo</VernacularNames>
+</Audio>

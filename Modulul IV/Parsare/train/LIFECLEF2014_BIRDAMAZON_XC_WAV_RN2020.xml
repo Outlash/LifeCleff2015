@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>2020</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN2020.wav</FileName>
+  <ClassId>nahjxx</ClassId>
+  <Date>2003-11-26</Date>
+  <Time>07:54</Time>
+  <Locality>Cristalino Jungle Lodge, MT</Locality>
+  <Latitude>-9.5981</Latitude>
+  <Longitude>-55.932</Longitude>
+  <Elevation>250</Elevation>
+  <Author>Jeremy Minns</Author>
+  <AuthorID>DGVLLRYDXS</AuthorID>
+  <Content>Song</Content>
+  <Comments>Edge of terra firme forest.</Comments>
+  <Quality>1</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies>Drymophila devillei,Hypocnemis striata,Ramphocaenus melanurus</BackgroundSpecies>
+  <Order>Passeriformes</Order>
+  <Family>Thamnophilidae</Family>
+  <Genus>Thamnophilus</Genus>
+  <Species>palliatus</Species>
+  <Sub-species>palliatus</Sub-species>
+  <VernacularNames>Chestnut-backed Antshrike</VernacularNames>
+</Audio>

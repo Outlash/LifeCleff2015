@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>33048</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN33048.wav</FileName>
+  <ClassId>alwkew</ClassId>
+  <Date>2013-12-28</Date>
+  <Time>10:16</Time>
+  <Locality>Intervales State Park. Mirante</Locality>
+  <Latitude>-24.2667</Latitude>
+  <Longitude>-48.4001</Longitude>
+  <Elevation>900</Elevation>
+  <Author>Rodrigo Dela Rosa</Author>
+  <AuthorID>VGXDJMKETZ</AuthorID>
+  <Content>song</Content>
+  <Comments>bird-seen:yesplayback-used:no</Comments>
+  <Quality>3</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies>Carpornis cucullata,Saltator similis,Basileuterus culicivorus</BackgroundSpecies>
+  <Order>Passeriformes</Order>
+  <Family>Thraupidae</Family>
+  <Genus>Orchesticus</Genus>
+  <Species>abeillei</Species>
+  <Sub-species />
+  <VernacularNames>Brown Tanager</VernacularNames>
+</Audio>

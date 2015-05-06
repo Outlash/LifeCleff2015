@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>28472</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN28472.wav</FileName>
+  <ClassId>uezkjg</ClassId>
+  <Date>2000-09-08</Date>
+  <Time>06:46</Time>
+  <Locality>Parque Nacional da Amazônia</Locality>
+  <Latitude>-4.5167</Latitude>
+  <Longitude>-56.3001</Longitude>
+  <Elevation>50</Elevation>
+  <Author>Jeremy Minns</Author>
+  <AuthorID>DGVLLRYDXS</AuthorID>
+  <Content>Song</Content>
+  <Comments>Terra firme forest. After playback.</Comments>
+  <Quality>1</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Thamnophilidae</Family>
+  <Genus>Epinecrophylla</Genus>
+  <Species>leucophthalma</Species>
+  <Sub-species>phaeonota</Sub-species>
+  <VernacularNames>White-eyed Antwren</VernacularNames>
+</Audio>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>12309</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN12309.wav</FileName>
+  <ClassId>dvcjbu</ClassId>
+  <Date>2007-09-08</Date>
+  <Time>??:??</Time>
+  <Locality>Fazenda Santa Rita, Parque Nacional da Serra do Itajaí, Indaial, Santa Catarina</Locality>
+  <Latitude>-27.1073</Latitude>
+  <Longitude>-49.1573</Longitude>
+  <Elevation>770</Elevation>
+  <Author>Adrian Eisen Rupp</Author>
+  <AuthorID>AOPMSCIDIA</AuthorID>
+  <Content>call</Content>
+  <Comments />
+  <Quality>2</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies />
+  <Order>Strigiformes</Order>
+  <Family>Strigidae</Family>
+  <Genus>Pulsatrix</Genus>
+  <Species>koeniswaldiana</Species>
+  <Sub-species />
+  <VernacularNames>Tawny-browed Owl</VernacularNames>
+</Audio>

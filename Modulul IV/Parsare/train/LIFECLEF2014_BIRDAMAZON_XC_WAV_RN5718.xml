@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>5718</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN5718.wav</FileName>
+  <ClassId>epiugh</ClassId>
+  <Date>2010-11-17</Date>
+  <Time>07:18</Time>
+  <Locality>Paragominas, PA, Brazil, Bacia 342</Locality>
+  <Latitude>-3.311</Latitude>
+  <Longitude>-48.183</Longitude>
+  <Elevation>?</Elevation>
+  <Author>Alexander Lees</Author>
+  <AuthorID>INDDBZAFJL</AuthorID>
+  <Content>song</Content>
+  <Comments>primary forest</Comments>
+  <Quality>3</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies>Trogon rufus,Momotus momota,Xiphorhynchus guttatus,Dysithamnus mentalis,Cercomacra cinerascens,Pyriglena leuconota,Lipaugus vociferans,Ramphocaenus melanurus</BackgroundSpecies>
+  <Order>Tinamiformes</Order>
+  <Family>Tinamidae</Family>
+  <Genus>Crypturellus</Genus>
+  <Species>strigulosus</Species>
+  <Sub-species />
+  <VernacularNames>Brazilian Tinamou</VernacularNames>
+</Audio>

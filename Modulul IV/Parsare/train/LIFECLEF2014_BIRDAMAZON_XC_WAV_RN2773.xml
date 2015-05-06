@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>2773</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN2773.wav</FileName>
+  <ClassId>ypmevr</ClassId>
+  <Date>2006-11-02</Date>
+  <Time>08:29</Time>
+  <Locality>Reserva Ecológica de Guapiaçu, RJ</Locality>
+  <Latitude>-22.5001</Latitude>
+  <Longitude>-42.7167</Longitude>
+  <Elevation>250</Elevation>
+  <Author>Jeremy Minns</Author>
+  <AuthorID>DGVLLRYDXS</AuthorID>
+  <Content>Song</Content>
+  <Comments>Secondary humid forest. Male. After playback.</Comments>
+  <Quality>2</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies>Brotogeris tirica,Chiroxiphia caudata</BackgroundSpecies>
+  <Order>Passeriformes</Order>
+  <Family>Conopophagidae</Family>
+  <Genus>Conopophaga</Genus>
+  <Species>melanops</Species>
+  <Sub-species>melanops</Sub-species>
+  <VernacularNames>Black-cheeked Gnateater</VernacularNames>
+</Audio>

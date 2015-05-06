@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>3303</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN3303.wav</FileName>
+  <ClassId>wvgogb</ClassId>
+  <Date>2011-05-29</Date>
+  <Time>09:00</Time>
+  <Locality>Viçosa, Minas Gerais</Locality>
+  <Latitude>-20.8004</Latitude>
+  <Longitude>-42.8884</Longitude>
+  <Elevation>800</Elevation>
+  <Author>Noé Eiterer</Author>
+  <AuthorID>TWSKITNQOV</AuthorID>
+  <Content>song</Content>
+  <Comments>bird-seen:yesplayback-used:no</Comments>
+  <Quality>2</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies />
+  <Order>Cariamiformes</Order>
+  <Family>Cariamidae</Family>
+  <Genus>Cariama</Genus>
+  <Species>cristata</Species>
+  <Sub-species />
+  <VernacularNames>Red-legged Seriema</VernacularNames>
+</Audio>

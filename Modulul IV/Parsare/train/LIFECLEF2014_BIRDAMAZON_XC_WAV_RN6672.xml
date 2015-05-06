@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>6672</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN6672.wav</FileName>
+  <ClassId>zreufv</ClassId>
+  <Date>2007-03-07</Date>
+  <Time>07:30</Time>
+  <Locality>Itatiaia national Park - Aldeia dos Pássaros</Locality>
+  <Latitude>-22.3798</Latitude>
+  <Longitude>-44.6301</Longitude>
+  <Elevation>700</Elevation>
+  <Author>Ricardo Gagliardi</Author>
+  <AuthorID>YRDADNREOP</AuthorID>
+  <Content>song</Content>
+  <Comments />
+  <Quality>0</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Tityridae</Family>
+  <Genus>Pachyramphus</Genus>
+  <Species>polychopterus</Species>
+  <Sub-species />
+  <VernacularNames>White-winged Becard</VernacularNames>
+</Audio>

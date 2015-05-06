@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>22173</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN22173.wav</FileName>
+  <ClassId>espdgz</ClassId>
+  <Date>1997-01-25</Date>
+  <Time>?</Time>
+  <Locality>Curaçá, Bahia</Locality>
+  <Latitude>-9.01</Latitude>
+  <Longitude>-39.9001</Longitude>
+  <Elevation>?</Elevation>
+  <Author>Juan Mazar Barnett</Author>
+  <AuthorID>KVDIDMAVLE</AuthorID>
+  <Content>flight call</Content>
+  <Comments>cd:http://www.birdsongs.com/Bolivia/main.htm</Comments>
+  <Quality>5</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Thraupidae</Family>
+  <Genus>Charitospiza</Genus>
+  <Species>eucosma</Species>
+  <Sub-species />
+  <VernacularNames>Coal-crested Finch</VernacularNames>
+</Audio>

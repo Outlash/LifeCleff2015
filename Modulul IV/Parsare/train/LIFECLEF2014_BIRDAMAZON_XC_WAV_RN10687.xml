@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>10687</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN10687.wav</FileName>
+  <ClassId>inyngh</ClassId>
+  <Date>2009-10-25</Date>
+  <Time>?</Time>
+  <Locality>Fortaleza (Campus V FURB), Blumenau, Santa Catarina</Locality>
+  <Latitude>-26.8562</Latitude>
+  <Longitude>-49.0506</Longitude>
+  <Elevation>50</Elevation>
+  <Author>Adrian Eisen Rupp</Author>
+  <AuthorID>AOPMSCIDIA</AuthorID>
+  <Content>song</Content>
+  <Comments />
+  <Quality>2</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies>Thamnophilus caerulescens</BackgroundSpecies>
+  <Order>Passeriformes</Order>
+  <Family>Thraupidae</Family>
+  <Genus>Tachyphonus</Genus>
+  <Species>coronatus</Species>
+  <Sub-species />
+  <VernacularNames>Ruby-crowned Tanager</VernacularNames>
+</Audio>

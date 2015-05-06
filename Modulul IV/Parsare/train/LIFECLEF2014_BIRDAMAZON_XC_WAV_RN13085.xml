@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>13085</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN13085.wav</FileName>
+  <ClassId>pnosvx</ClassId>
+  <Date>2005-12-29</Date>
+  <Time>08:00</Time>
+  <Locality>Engenho Cachoeira Linda, Barreiros, Pernambuco</Locality>
+  <Latitude>-8.8173</Latitude>
+  <Longitude>-35.4773</Longitude>
+  <Elevation>90</Elevation>
+  <Author>Sidnei de Melo Dantas</Author>
+  <AuthorID>NNCKQMBGPH</AuthorID>
+  <Content>call</Content>
+  <Comments>Undergrowth, in a forest fragment. Not seen.</Comments>
+  <Quality>2</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies>Turdus leucomelas,Cyclarhis gujanensis,Chiroxiphia pareola,Vireo olivaceus,Ornithion inerme,Saltator fuliginosus,Leptotila rufaxilla</BackgroundSpecies>
+  <Order>Columbiformes</Order>
+  <Family>Columbidae</Family>
+  <Genus>Geotrygon</Genus>
+  <Species>montana</Species>
+  <Sub-species />
+  <VernacularNames>Ruddy Quail-Dove</VernacularNames>
+</Audio>

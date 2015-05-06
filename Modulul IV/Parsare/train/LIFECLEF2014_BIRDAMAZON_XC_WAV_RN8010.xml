@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>8010</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN8010.wav</FileName>
+  <ClassId>scjydk</ClassId>
+  <Date>2012-10-12</Date>
+  <Time>07:30</Time>
+  <Locality>Pousada Piuval, Transpantaneira km 12, MT</Locality>
+  <Latitude>-16.3834</Latitude>
+  <Longitude>-56.6167</Longitude>
+  <Elevation>120</Elevation>
+  <Author>Andrew Spencer</Author>
+  <AuthorID>CDTGHVBGZP</AuthorID>
+  <Content>call</Content>
+  <Comments>natural vocalizations, calls from a pair of birds perched in a tall tree and then in flight in fairly open savanna.bird-seen:yesplayback-used:no</Comments>
+  <Quality>1</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies />
+  <Order>Psittaciformes</Order>
+  <Family>Psittacidae</Family>
+  <Genus>Anodorhynchus</Genus>
+  <Species>hyacinthinus</Species>
+  <Sub-species />
+  <VernacularNames>Hyacinth Macaw</VernacularNames>
+</Audio>

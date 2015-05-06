@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>4159</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN4159.wav</FileName>
+  <ClassId>wtxeww</ClassId>
+  <Date>2006-11-19</Date>
+  <Time>6:15</Time>
+  <Locality>Praia do Gamela, Sirinhaém, Pernambuco</Locality>
+  <Latitude>-8.6114</Latitude>
+  <Longitude>-35.0392</Longitude>
+  <Elevation>0</Elevation>
+  <Author>Mauricio Cabral Periquito</Author>
+  <AuthorID>HERKCTHDZI</AuthorID>
+  <Content>call</Content>
+  <Comments>A unique bird</Comments>
+  <Quality>2</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies>Cyclarhis gujanensis</BackgroundSpecies>
+  <Order>Psittaciformes</Order>
+  <Family>Psittacidae</Family>
+  <Genus>Eupsittula</Genus>
+  <Species>aurea</Species>
+  <Sub-species />
+  <VernacularNames>Peach-fronted Parakeet</VernacularNames>
+</Audio>

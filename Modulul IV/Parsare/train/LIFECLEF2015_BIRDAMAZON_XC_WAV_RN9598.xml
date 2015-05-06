@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>9598</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN9598.wav</FileName>
+  <ClassId>uaciky</ClassId>
+  <Date>2010-02-04</Date>
+  <Time>14:50</Time>
+  <Locality>Montezuma Peak Road, Pueblo Rico, Risaralda, W Andes - Tatama National Park</Locality>
+  <Latitude>5.2431</Latitude>
+  <Longitude>-76.0964</Longitude>
+  <Elevation>1550</Elevation>
+  <Author>David Geale</Author>
+  <AuthorID>SBFBVYGIJC</AuthorID>
+  <Content>Song</Content>
+  <Comments>Sure Tatamá Tapaculo is a nicer (and appropriate) English name!?</Comments>
+  <Quality>2</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Rhinocryptidae</Family>
+  <Genus>Scytalopus</Genus>
+  <Species>sp.nov.Alto_Pisones</Species>
+  <Sub-species />
+  <VernacularNames>Alto Pisones' Tapaculo</VernacularNames>
+</Audio>

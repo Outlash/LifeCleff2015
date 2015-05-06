@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>25934</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN25934.wav</FileName>
+  <ClassId>armfvy</ClassId>
+  <Date>2011-08-14</Date>
+  <Time>11:00</Time>
+  <Locality>Içara, Içara, Santa Catarina</Locality>
+  <Latitude>-28.7137</Latitude>
+  <Longitude>-49.3091</Longitude>
+  <Elevation>50</Elevation>
+  <Author>João Antônio de B. Vitto</Author>
+  <AuthorID>RIVNLYTULO</AuthorID>
+  <Content>call, song</Content>
+  <Comments>bird-seen:yesplayback-used:yes</Comments>
+  <Quality>0</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Tyrannidae</Family>
+  <Genus>Camptostoma</Genus>
+  <Species>obsoletum</Species>
+  <Sub-species />
+  <VernacularNames>Southern Beardless Tyrannulet</VernacularNames>
+</Audio>

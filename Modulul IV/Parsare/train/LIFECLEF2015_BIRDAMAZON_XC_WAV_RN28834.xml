@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>28834</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN28834.wav</FileName>
+  <ClassId>buacoa</ClassId>
+  <Date>2006-12-00</Date>
+  <Time>?:?</Time>
+  <Locality>Rio Grande, Sierra de Imataca, Bolivar</Locality>
+  <Latitude>8.1101</Latitude>
+  <Longitude>-61.6714</Longitude>
+  <Elevation>300</Elevation>
+  <Author>David Edwards</Author>
+  <AuthorID>AFEHYCAHZR</AuthorID>
+  <Content>song</Content>
+  <Comments />
+  <Quality>1</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Thamnophilidae</Family>
+  <Genus>Cercomacra</Genus>
+  <Species>tyrannina</Species>
+  <Sub-species />
+  <VernacularNames>Dusky Antbird</VernacularNames>
+</Audio>

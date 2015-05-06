@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>31430</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN31430.wav</FileName>
+  <ClassId>uissyt</ClassId>
+  <Date>2005-03-22</Date>
+  <Time>11:15</Time>
+  <Locality>Ibague, Finca Los Molinos, Corregimiento de Dantas, Tolima</Locality>
+  <Latitude>4.440719</Latitude>
+  <Longitude>-75.240211</Longitude>
+  <Elevation>2000-2200</Elevation>
+  <Author>Oscar Laverde</Author>
+  <AuthorID>WKVKSVMNDZ</AuthorID>
+  <Content>song</Content>
+  <Comments />
+  <Quality>4</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Tyrannidae</Family>
+  <Genus>Pyrrhomyias</Genus>
+  <Species>cinnamomeus</Species>
+  <Sub-species />
+  <VernacularNames>Cinnamon Flycatcher</VernacularNames>
+</Audio>

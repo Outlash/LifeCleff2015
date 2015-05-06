@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>22547</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN22547.wav</FileName>
+  <ClassId>hdcvoa</ClassId>
+  <Date>2008-03-04</Date>
+  <Time>07:30</Time>
+  <Locality>crique Limonade amont, Saül</Locality>
+  <Latitude>3.5834</Latitude>
+  <Longitude>-53.2167</Longitude>
+  <Elevation>210</Elevation>
+  <Author>Olivier Claessens</Author>
+  <AuthorID>KRQYNRSSDF</AuthorID>
+  <Content>call</Content>
+  <Comments />
+  <Quality>3</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies>Leptotila rufaxilla</BackgroundSpecies>
+  <Order>Charadriiformes</Order>
+  <Family>Scolopacidae</Family>
+  <Genus>Tringa</Genus>
+  <Species>solitaria</Species>
+  <Sub-species />
+  <VernacularNames>Solitary Sandpiper</VernacularNames>
+</Audio>

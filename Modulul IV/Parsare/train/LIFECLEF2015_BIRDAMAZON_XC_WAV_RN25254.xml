@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>25254</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN25254.wav</FileName>
+  <ClassId>lavuag</ClassId>
+  <Date>2000-01-14</Date>
+  <Time>12:15</Time>
+  <Locality>Cundinamarca, Subachoque, Finca El Cerro</Locality>
+  <Latitude>5</Latitude>
+  <Longitude>-74.15</Longitude>
+  <Elevation>2900</Elevation>
+  <Author>Mateo Hernandez (Colección de Sonidos Ambientales - Instituto Humboldt)</Author>
+  <AuthorID>XMFDPACYJN</AuthorID>
+  <Content>call</Content>
+  <Comments>BSA 11060To obtain a wav file of the original recording, please contact csa@humboldt.org.cobird-seen:yesplayback-used:no</Comments>
+  <Quality>1</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies>Zonotrichia capensis</BackgroundSpecies>
+  <Order>Apodiformes</Order>
+  <Family>Trochilidae</Family>
+  <Genus>Metallura</Genus>
+  <Species>tyrianthina</Species>
+  <Sub-species />
+  <VernacularNames>Tyrian Metaltail</VernacularNames>
+</Audio>

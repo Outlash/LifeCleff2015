@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>3470</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN3470.wav</FileName>
+  <ClassId>hendyi</ClassId>
+  <Date>2012-03-14</Date>
+  <Time>17:21</Time>
+  <Locality>Brasil/RJ/Angra dos Reis/Ilha grande/Trilha mae de agua</Locality>
+  <Latitude>-23.1803</Latitude>
+  <Longitude>-44.2017</Longitude>
+  <Elevation>238</Elevation>
+  <Author>Yair G Molina - Martínez</Author>
+  <AuthorID>UQUOPFIYYQ</AuthorID>
+  <Content>call</Content>
+  <Comments>Juvenil call</Comments>
+  <Quality>0</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Tyrannidae</Family>
+  <Genus>Empidonomus</Genus>
+  <Species>varius</Species>
+  <Sub-species />
+  <VernacularNames>Variegated Flycatcher</VernacularNames>
+</Audio>

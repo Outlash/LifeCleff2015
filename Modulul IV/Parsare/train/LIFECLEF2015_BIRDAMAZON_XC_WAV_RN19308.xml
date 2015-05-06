@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>19308</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN19308.wav</FileName>
+  <ClassId>vnkcgy</ClassId>
+  <Date>2009-04-10</Date>
+  <Time>06:27</Time>
+  <Locality>Finca La Judea, Vereda Pedregales Alto, Génova, Quindio</Locality>
+  <Latitude>4.1543</Latitude>
+  <Longitude>-75.7191</Longitude>
+  <Elevation>3200</Elevation>
+  <Author>Oscar Humberto Marin-Gomez</Author>
+  <AuthorID>CSUHASNRSU</AuthorID>
+  <Content>call, song</Content>
+  <Comments>OHM059B 0705. Tres individuos observados en borde de bosque. 30m del mic.bird-seen:yesplayback-used:no</Comments>
+  <Quality>3</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Corvidae</Family>
+  <Genus>Cyanolyca</Genus>
+  <Species>armillata</Species>
+  <Sub-species />
+  <VernacularNames>Black-collared Jay</VernacularNames>
+</Audio>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>9625</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN9625.wav</FileName>
+  <ClassId>tyqwsc</ClassId>
+  <Date>2013-08-23</Date>
+  <Time>09:00</Time>
+  <Locality>Itaituba, Para</Locality>
+  <Latitude>-5.4957</Latitude>
+  <Longitude>-56.9861</Longitude>
+  <Elevation>150</Elevation>
+  <Author>GABRIEL LEITE</Author>
+  <AuthorID>TGBFXDVERJ</AuthorID>
+  <Content>song</Content>
+  <Comments>bird-seen:noplayback-used:no</Comments>
+  <Quality>3</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Troglodytidae</Family>
+  <Genus>Odontorchilus</Genus>
+  <Species>cinereus</Species>
+  <Sub-species />
+  <VernacularNames>Tooth-billed Wren</VernacularNames>
+</Audio>

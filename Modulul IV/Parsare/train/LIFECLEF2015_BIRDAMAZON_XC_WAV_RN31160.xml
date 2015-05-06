@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>31160</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN31160.wav</FileName>
+  <ClassId>mexmxs</ClassId>
+  <Date>2005-10-15</Date>
+  <Time>?:?</Time>
+  <Locality>Bakhuys mountains</Locality>
+  <Latitude>4.7301</Latitude>
+  <Longitude>-56.7701</Longitude>
+  <Elevation>?</Elevation>
+  <Author>Otte Ottema</Author>
+  <AuthorID>ASEUAUOXZA</AuthorID>
+  <Content>song</Content>
+  <Comments />
+  <Quality>2</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Furnariidae</Family>
+  <Genus>Automolus</Genus>
+  <Species>rubiginosus</Species>
+  <Sub-species>obscurus</Sub-species>
+  <VernacularNames>Ruddy Foliage-gleaner</VernacularNames>
+</Audio>

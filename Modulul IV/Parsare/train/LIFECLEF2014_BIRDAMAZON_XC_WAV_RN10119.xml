@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>10119</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN10119.wav</FileName>
+  <ClassId>yyjrms</ClassId>
+  <Date>1994-10-08</Date>
+  <Time>08:10</Time>
+  <Locality>Ubatuba, SP. Praia Vermelha do Sul.</Locality>
+  <Latitude>-23.5167</Latitude>
+  <Longitude>-45.1667</Longitude>
+  <Elevation>5</Elevation>
+  <Author>Jeremy Minns</Author>
+  <AuthorID>DGVLLRYDXS</AuthorID>
+  <Content>Song</Content>
+  <Comments>In gardens of a  well wooded condominium beside the sea.</Comments>
+  <Quality>2</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies>Vireo olivaceus,Troglodytes aedon</BackgroundSpecies>
+  <Order>Passeriformes</Order>
+  <Family>Emberizidae</Family>
+  <Genus>Zonotrichia</Genus>
+  <Species>capensis</Species>
+  <Sub-species>subtorquata</Sub-species>
+  <VernacularNames>Rufous-collared Sparrow</VernacularNames>
+</Audio>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>11833</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN11833.wav</FileName>
+  <ClassId>ffwvot</ClassId>
+  <Date>2010-05-05</Date>
+  <Time>07:37</Time>
+  <Locality>Fazenda Praia Alta, Lagoa da Confusão, Tocantins</Locality>
+  <Latitude>-10.7342</Latitude>
+  <Longitude>-49.8559</Longitude>
+  <Elevation>180</Elevation>
+  <Author>Giuliano Bernardon</Author>
+  <AuthorID>TFBSSQOXDG</AuthorID>
+  <Content>call</Content>
+  <Comments>The new Certhiaxis species of the Araguaia region, seen and recorded at close range. Fazenda Praia Alta, Rio Formoso do Araguaia.</Comments>
+  <Quality>3</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Furnariidae</Family>
+  <Genus>Certhiaxis</Genus>
+  <Species>cinnamomeus</Species>
+  <Sub-species>sp novum</Sub-species>
+  <VernacularNames>Yellow-chinned Spinetail</VernacularNames>
+</Audio>

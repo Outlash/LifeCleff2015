@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>17813</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN17813.wav</FileName>
+  <ClassId>mgeafu</ClassId>
+  <Date>2009-08-28</Date>
+  <Time>11:00</Time>
+  <Locality>vereda La Unión, Quipile, Cundinamarca</Locality>
+  <Latitude>4.7455</Latitude>
+  <Longitude>-74.5339</Longitude>
+  <Elevation>1400</Elevation>
+  <Author>Sergio Chaparro-Herrera</Author>
+  <AuthorID>RJLERWCWGE</AuthorID>
+  <Content>song</Content>
+  <Comments>Cafetal con sombrío.bird-seen:yesplayback-used:no</Comments>
+  <Quality>3</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Fringillidae</Family>
+  <Genus>Euphonia</Genus>
+  <Species>concinna</Species>
+  <Sub-species />
+  <VernacularNames>Velvet-fronted Euphonia</VernacularNames>
+</Audio>

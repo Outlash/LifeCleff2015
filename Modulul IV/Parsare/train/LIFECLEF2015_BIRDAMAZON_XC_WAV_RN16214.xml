@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>16214</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN16214.wav</FileName>
+  <ClassId>uvevgr</ClassId>
+  <Date>2000-11-02</Date>
+  <Time>am</Time>
+  <Locality>Los Refugios, Vereda San Lorenzo, Santa Marta, Magdalena</Locality>
+  <Latitude>NULL</Latitude>
+  <Longitude>NULL</Longitude>
+  <Elevation>1900</Elevation>
+  <Author>Bernabe Lopez-Lanus</Author>
+  <AuthorID>BYLLSJRVDZ</AuthorID>
+  <Content>Song</Content>
+  <Comments />
+  <Quality>0</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Grallariidae</Family>
+  <Genus>Grallaria</Genus>
+  <Species>bangsi</Species>
+  <Sub-species />
+  <VernacularNames>Santa Marta Antpitta</VernacularNames>
+</Audio>

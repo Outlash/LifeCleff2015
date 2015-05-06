@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>1041</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN1041.wav</FileName>
+  <ClassId>tsxwwl</ClassId>
+  <Date>2006-11-07</Date>
+  <Time>06:17</Time>
+  <Locality>Parque do Zizo, Sao Paulo state</Locality>
+  <Latitude>-24.017146</Latitude>
+  <Longitude>-47.81044</Longitude>
+  <Elevation>650</Elevation>
+  <Author>Jeremy Minns</Author>
+  <AuthorID>DGVLLRYDXS</AuthorID>
+  <Content>Call</Content>
+  <Comments>Humid forest. In bamboo. Female. This is Call A in our DVD-ROM 'Birds of Brazil'.</Comments>
+  <Quality>1</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Thamnophilidae</Family>
+  <Genus>Myrmeciza</Genus>
+  <Species>squamosa</Species>
+  <Sub-species />
+  <VernacularNames>Squamate Antbird</VernacularNames>
+</Audio>

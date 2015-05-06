@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>13366</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN13366.wav</FileName>
+  <ClassId>uuvfxv</ClassId>
+  <Date>2004-10-16</Date>
+  <Time>15:00</Time>
+  <Locality>Engenho Aparauá, Goiana, Pernambuco</Locality>
+  <Latitude>-7.565</Latitude>
+  <Longitude>-35.005</Longitude>
+  <Elevation>60</Elevation>
+  <Author>Glauco Alves Pereira</Author>
+  <AuthorID>ZWEROGGYVP</AuthorID>
+  <Content>call, song</Content>
+  <Comments>Observed in humid forest</Comments>
+  <Quality>1</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Parulidae</Family>
+  <Genus>Myiothlypis</Genus>
+  <Species>flaveola</Species>
+  <Sub-species />
+  <VernacularNames>Flavescent Warbler</VernacularNames>
+</Audio>

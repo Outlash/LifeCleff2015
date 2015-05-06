@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>19820</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN19820.wav</FileName>
+  <ClassId>ytwsmv</ClassId>
+  <Date>2014-08-02</Date>
+  <Time>09:00</Time>
+  <Locality>Cerro Humo, Paria Peninsula</Locality>
+  <Latitude>10.6876</Latitude>
+  <Longitude>-62.6249</Longitude>
+  <Elevation>700</Elevation>
+  <Author>Thore Noernberg</Author>
+  <AuthorID>TTSQGWDDGW</AuthorID>
+  <Content>song</Content>
+  <Comments>bird singing in primary forest on the trail to Cerro Humobird-seen:noplayback-used:no</Comments>
+  <Quality>2</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies>Formicarius analis</BackgroundSpecies>
+  <Order>Piciformes</Order>
+  <Family>Ramphastidae</Family>
+  <Genus>Aulacorhynchus</Genus>
+  <Species>sulcatus</Species>
+  <Sub-species>erythrognathus</Sub-species>
+  <VernacularNames>Groove-billed Toucanet</VernacularNames>
+</Audio>

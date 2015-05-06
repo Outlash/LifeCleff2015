@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>8715</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN8715.wav</FileName>
+  <ClassId>ibvnlg</ClassId>
+  <Date>2011-09-03</Date>
+  <Time>?</Time>
+  <Locality>Salseiro, Vidal Ramos, Santa Catarina</Locality>
+  <Latitude>-27.39726</Latitude>
+  <Longitude>-49.379082</Longitude>
+  <Elevation>450</Elevation>
+  <Author>Evair Legal</Author>
+  <AuthorID>SMJXFKLATM</AuthorID>
+  <Content>call</Content>
+  <Comments />
+  <Quality>2</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Tyrannidae</Family>
+  <Genus>Myiornis</Genus>
+  <Species>auricularis</Species>
+  <Sub-species />
+  <VernacularNames>Eared Pygmy Tyrant</VernacularNames>
+</Audio>

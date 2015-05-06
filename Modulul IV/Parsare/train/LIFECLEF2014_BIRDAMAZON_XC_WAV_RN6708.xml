@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>6708</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN6708.wav</FileName>
+  <ClassId>mjvnht</ClassId>
+  <Date>2009-05-06</Date>
+  <Time>9:00</Time>
+  <Locality>Figueira, Paraná</Locality>
+  <Latitude>NULL</Latitude>
+  <Longitude>NULL</Longitude>
+  <Elevation>550</Elevation>
+  <Author>Marcelo Villegas</Author>
+  <AuthorID>YWTZVKKHKP</AuthorID>
+  <Content>Song</Content>
+  <Comments />
+  <Quality>2</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Rhinocryptidae</Family>
+  <Genus>Psilorhamphus</Genus>
+  <Species>guttatus</Species>
+  <Sub-species />
+  <VernacularNames>Spotted Bamboowren</VernacularNames>
+</Audio>

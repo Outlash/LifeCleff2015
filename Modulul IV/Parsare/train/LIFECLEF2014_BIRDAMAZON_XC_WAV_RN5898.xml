@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>5898</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN5898.wav</FileName>
+  <ClassId>drteex</ClassId>
+  <Date>2007-08-18</Date>
+  <Time>05:45</Time>
+  <Locality>Reserva Ecológica de Guapiaçu, RJ</Locality>
+  <Latitude>-22.5001</Latitude>
+  <Longitude>-42.7167</Longitude>
+  <Elevation>?</Elevation>
+  <Author>Eduardo Gelli</Author>
+  <AuthorID>FANYWVEFDK</AuthorID>
+  <Content>call</Content>
+  <Comments />
+  <Quality>1</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies />
+  <Order>Gruiformes</Order>
+  <Family>Rallidae</Family>
+  <Genus>Aramides</Genus>
+  <Species>saracura</Species>
+  <Sub-species />
+  <VernacularNames>Slaty-breasted Wood Rail</VernacularNames>
+</Audio>

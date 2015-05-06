@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>24452</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN24452.wav</FileName>
+  <ClassId>cxyhrl</ClassId>
+  <Date>2011-01-21</Date>
+  <Time>9:10</Time>
+  <Locality>6.535, 75.828</Locality>
+  <Latitude>6.535</Latitude>
+  <Longitude>-75.828</Longitude>
+  <Elevation>420</Elevation>
+  <Author>Carlos E. Lara</Author>
+  <AuthorID>WDHGHUVMAL</AuthorID>
+  <Content>?</Content>
+  <Comments />
+  <Quality>2</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Icteridae</Family>
+  <Genus>Psarocolius</Genus>
+  <Species>decumanus</Species>
+  <Sub-species />
+  <VernacularNames>Crested Oropendola</VernacularNames>
+</Audio>

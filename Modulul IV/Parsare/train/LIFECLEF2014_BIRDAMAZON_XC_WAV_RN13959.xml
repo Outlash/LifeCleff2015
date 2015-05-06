@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>13959</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN13959.wav</FileName>
+  <ClassId>btsawy</ClassId>
+  <Date>2011-08-10</Date>
+  <Time>8:35</Time>
+  <Locality>Cristalino Jungle Lodge, MT</Locality>
+  <Latitude>-9.5981</Latitude>
+  <Longitude>-55.932</Longitude>
+  <Elevation>200</Elevation>
+  <Author>Tayler Brooks</Author>
+  <AuthorID>ARFGONJCBJ</AuthorID>
+  <Content>song</Content>
+  <Comments>In response to playback.</Comments>
+  <Quality>1</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Thamnophilidae</Family>
+  <Genus>Cercomacra</Genus>
+  <Species>cinerascens</Species>
+  <Sub-species>iterata</Sub-species>
+  <VernacularNames>Grey Antbird</VernacularNames>
+</Audio>

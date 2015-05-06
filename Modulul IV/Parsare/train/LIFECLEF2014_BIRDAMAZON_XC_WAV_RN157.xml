@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>157</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN157.wav</FileName>
+  <ClassId>pxqbfm</ClassId>
+  <Date>2007-06-06</Date>
+  <Time>7:50</Time>
+  <Locality>Reserva Ecológica de Guapiaçu, RJ</Locality>
+  <Latitude>-22.5001</Latitude>
+  <Longitude>-42.7167</Longitude>
+  <Elevation>?</Elevation>
+  <Author>Leonardo Pimentel</Author>
+  <AuthorID>JHBOHGJALL</AuthorID>
+  <Content>Song</Content>
+  <Comments />
+  <Quality>1</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies />
+  <Order>Piciformes</Order>
+  <Family>Bucconidae</Family>
+  <Genus>Malacoptila</Genus>
+  <Species>striata</Species>
+  <Sub-species />
+  <VernacularNames>Crescent-chested Puffbird</VernacularNames>
+</Audio>

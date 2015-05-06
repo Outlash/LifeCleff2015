@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>13585</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN13585.wav</FileName>
+  <ClassId>nxdwzm</ClassId>
+  <Date>2006-08-23</Date>
+  <Time>11:15</Time>
+  <Locality>Reserva Ecológica de Guapiaçu, RJ</Locality>
+  <Latitude>-22.5001</Latitude>
+  <Longitude>-42.7167</Longitude>
+  <Elevation>330</Elevation>
+  <Author>Frank Lambert</Author>
+  <AuthorID>YTUXOCTUEM</AuthorID>
+  <Content>song</Content>
+  <Comments>response to playback</Comments>
+  <Quality>2</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Furnariidae</Family>
+  <Genus>Automolus</Genus>
+  <Species>leucophthalmus</Species>
+  <Sub-species />
+  <VernacularNames>White-eyed Foliage-gleaner</VernacularNames>
+</Audio>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>12288</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN12288.wav</FileName>
+  <ClassId>fdvjzj</ClassId>
+  <Date>2004-07-17</Date>
+  <Time>10:03</Time>
+  <Locality>Aquidauana. Fazenda Aguapé</Locality>
+  <Latitude>-20.0834</Latitude>
+  <Longitude>-55.9501</Longitude>
+  <Elevation>128</Elevation>
+  <Author>Jeremy Minns</Author>
+  <AuthorID>DGVLLRYDXS</AuthorID>
+  <Content>call, song</Content>
+  <Comments>Cerrado. Four birds responding to playback of calls in #17.</Comments>
+  <Quality>1</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Cardinalidae</Family>
+  <Genus>Saltator</Genus>
+  <Species>atricollis</Species>
+  <Sub-species />
+  <VernacularNames>Black-throated Saltator</VernacularNames>
+</Audio>

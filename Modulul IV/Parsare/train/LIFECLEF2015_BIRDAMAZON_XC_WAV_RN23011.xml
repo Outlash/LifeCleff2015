@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>23011</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN23011.wav</FileName>
+  <ClassId>nehqqq</ClassId>
+  <Date>2008-07-15</Date>
+  <Time>10:20</Time>
+  <Locality>Galapagos road. San Jose Palmar. Choco</Locality>
+  <Latitude>NULL</Latitude>
+  <Longitude>NULL</Longitude>
+  <Elevation>1800</Elevation>
+  <Author>Pablo Florez</Author>
+  <AuthorID>ISWBQKPBGS</AuthorID>
+  <Content>?</Content>
+  <Comments />
+  <Quality>0</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Vireonidae</Family>
+  <Genus>Cyclarhis</Genus>
+  <Species>nigrirostris</Species>
+  <Sub-species />
+  <VernacularNames>Black-billed Peppershrike</VernacularNames>
+</Audio>

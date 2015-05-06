@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>28985</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN28985.wav</FileName>
+  <ClassId>ksifri</ClassId>
+  <Date>2009-10-18</Date>
+  <Time>17:00</Time>
+  <Locality>Cristalino Jungle Lodge, MT</Locality>
+  <Latitude>-9.5981</Latitude>
+  <Longitude>-55.932</Longitude>
+  <Elevation>250</Elevation>
+  <Author>Andrew Spencer</Author>
+  <AuthorID>CDTGHVBGZP</AuthorID>
+  <Content>call</Content>
+  <Comments>img:http://www.surfbirds.com/media/gallery_photos/20091022031556.jpg calls given from a bird perched in an exposed dead tree</Comments>
+  <Quality>2</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Accipitriformes</Order>
+  <Family>Accipitridae</Family>
+  <Genus>Accipiter</Genus>
+  <Species>bicolor</Species>
+  <Sub-species />
+  <VernacularNames>Bicolored Hawk</VernacularNames>
+</Audio>

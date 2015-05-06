@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>5890</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN5890.wav</FileName>
+  <ClassId>zieccy</ClassId>
+  <Date>1998-12-08</Date>
+  <Time>17:29</Time>
+  <Locality>Itatiaia National Park - Agulhas Negras road</Locality>
+  <Latitude>-22.3667</Latitude>
+  <Longitude>-44.7334</Longitude>
+  <Elevation>?</Elevation>
+  <Author>Rolf A. de By</Author>
+  <AuthorID>PTYTXQRLSZ</AuthorID>
+  <Content>song</Content>
+  <Comments>bird eventually approached to 150cm, while I was flat on my belly</Comments>
+  <Quality>5</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Formicariidae</Family>
+  <Genus>Chamaeza</Genus>
+  <Species>meruloides</Species>
+  <Sub-species />
+  <VernacularNames>Cryptic Antthrush</VernacularNames>
+</Audio>

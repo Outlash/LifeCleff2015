@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>28355</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN28355.wav</FileName>
+  <ClassId>bfwjif</ClassId>
+  <Date>2003-01-00</Date>
+  <Time>07:00</Time>
+  <Locality>El Talisman, San Vicente, Yariguies, Santander</Locality>
+  <Latitude>6.8492</Latitude>
+  <Longitude>-73.3642</Longitude>
+  <Elevation>2000</Elevation>
+  <Author>Thomas Donegan</Author>
+  <AuthorID>OXSIOLJJUP</AuthorID>
+  <Content>Dawn call</Content>
+  <Comments>This is the recording used in the article re discovery of a viable population for this CR species in Cotinga 23 (2005): 74-77.</Comments>
+  <Quality>3</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies>Pheugopedius mystacalis</BackgroundSpecies>
+  <Order>Galliformes</Order>
+  <Family>Odontophoridae</Family>
+  <Genus>Odontophorus</Genus>
+  <Species>strophium</Species>
+  <Sub-species />
+  <VernacularNames>Gorgeted Wood Quail</VernacularNames>
+</Audio>

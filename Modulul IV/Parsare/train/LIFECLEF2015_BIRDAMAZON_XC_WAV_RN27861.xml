@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>27861</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN27861.wav</FileName>
+  <ClassId>oozajf</ClassId>
+  <Date>2011-12-21</Date>
+  <Time>07:08</Time>
+  <Locality>Fechos Ecological Station, Nova Lima, Nova Lima, Minas Gerais</Locality>
+  <Latitude>-20.0642</Latitude>
+  <Longitude>-43.9638</Longitude>
+  <Elevation>1200</Elevation>
+  <Author>Luiz Gabriel Mazzoni</Author>
+  <AuthorID>MPOKMOFDDX</AuthorID>
+  <Content>song</Content>
+  <Comments>bird-seen:noplayback-used:yes</Comments>
+  <Quality>1</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies>Chiroxiphia caudata,Sporophila frontalis,Herpsilochmus atricapillus,Lepidocolaptes squamatus,Basileuterus culicivorus</BackgroundSpecies>
+  <Order>Tinamiformes</Order>
+  <Family>Tinamidae</Family>
+  <Genus>Crypturellus</Genus>
+  <Species>obsoletus</Species>
+  <Sub-species />
+  <VernacularNames>Brown Tinamou</VernacularNames>
+</Audio>

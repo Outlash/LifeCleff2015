@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>5337</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN5337.wav</FileName>
+  <ClassId>wbapfb</ClassId>
+  <Date>2013-02-02</Date>
+  <Time>10:00</Time>
+  <Locality>Santa Teresa, Espirito Santo</Locality>
+  <Latitude>-19.934</Latitude>
+  <Longitude>-40.5962</Longitude>
+  <Elevation>650</Elevation>
+  <Author>Noé Eiterer</Author>
+  <AuthorID>TWSKITNQOV</AuthorID>
+  <Content>call</Content>
+  <Comments>bird-seen:yesplayback-used:yes</Comments>
+  <Quality>2</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Fringillidae</Family>
+  <Genus>Euphonia</Genus>
+  <Species>pectoralis</Species>
+  <Sub-species />
+  <VernacularNames>Chestnut-bellied Euphonia</VernacularNames>
+</Audio>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>28580</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN28580.wav</FileName>
+  <ClassId>wdmans</ClassId>
+  <Date>2005-03-25</Date>
+  <Time>?:?</Time>
+  <Locality>Tafelberg</Locality>
+  <Latitude>3.9201</Latitude>
+  <Longitude>-56.17</Longitude>
+  <Elevation>?</Elevation>
+  <Author>Otte Ottema</Author>
+  <AuthorID>ASEUAUOXZA</AuthorID>
+  <Content>call</Content>
+  <Comments>score fo single call</Comments>
+  <Quality>3</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Pipridae</Family>
+  <Genus>Lepidothrix</Genus>
+  <Species>serena</Species>
+  <Sub-species />
+  <VernacularNames>White-fronted Manakin</VernacularNames>
+</Audio>

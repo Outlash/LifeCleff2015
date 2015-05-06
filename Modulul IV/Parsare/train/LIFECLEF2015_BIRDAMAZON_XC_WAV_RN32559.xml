@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>32559</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN32559.wav</FileName>
+  <ClassId>lavuag</ClassId>
+  <Date>2007-11-02</Date>
+  <Time>08:42</Time>
+  <Locality>RNA El Dorado, Sierra de Santa Marta, Magdalena</Locality>
+  <Latitude>11.1009</Latitude>
+  <Longitude>-74.072</Longitude>
+  <Elevation>2550</Elevation>
+  <Author>Nick Athanas</Author>
+  <AuthorID>XRABICUARW</AuthorID>
+  <Content>call</Content>
+  <Comments />
+  <Quality>2</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Apodiformes</Order>
+  <Family>Trochilidae</Family>
+  <Genus>Metallura</Genus>
+  <Species>tyrianthina</Species>
+  <Sub-species>districta</Sub-species>
+  <VernacularNames>Tyrian Metaltail</VernacularNames>
+</Audio>

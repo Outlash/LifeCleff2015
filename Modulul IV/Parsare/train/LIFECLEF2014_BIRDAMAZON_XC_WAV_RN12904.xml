@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>12904</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN12904.wav</FileName>
+  <ClassId>ewytof</ClassId>
+  <Date>2008-10-30</Date>
+  <Time>10am</Time>
+  <Locality>Alto Ribeira State Park (PETAR),São Paulo State,Brazil</Locality>
+  <Latitude>-24.541</Latitude>
+  <Longitude>-48.713</Longitude>
+  <Elevation>500</Elevation>
+  <Author>Antonio Silveira</Author>
+  <AuthorID>NBJQSQJRYH</AuthorID>
+  <Content>song</Content>
+  <Comments />
+  <Quality>0</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Thamnophilidae</Family>
+  <Genus>Mackenziaena</Genus>
+  <Species>severa</Species>
+  <Sub-species />
+  <VernacularNames>Tufted Antshrike</VernacularNames>
+</Audio>

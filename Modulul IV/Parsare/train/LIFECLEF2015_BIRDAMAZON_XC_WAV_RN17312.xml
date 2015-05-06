@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>17312</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN17312.wav</FileName>
+  <ClassId>sxpisu</ClassId>
+  <Date>2013-09-11</Date>
+  <Time>12:00</Time>
+  <Locality>Pirenópolis, Goiás</Locality>
+  <Latitude>-15.8456</Latitude>
+  <Longitude>-48.9582</Longitude>
+  <Elevation>800</Elevation>
+  <Author>Krzysztof Deoniziak</Author>
+  <AuthorID>VCROLXMVLX</AuthorID>
+  <Content>call</Content>
+  <Comments>bird-seen:yesplayback-used:no</Comments>
+  <Quality>1</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Psittaciformes</Order>
+  <Family>Psittacidae</Family>
+  <Genus>Brotogeris</Genus>
+  <Species>chiriri</Species>
+  <Sub-species />
+  <VernacularNames>Yellow-chevroned Parakeet</VernacularNames>
+</Audio>

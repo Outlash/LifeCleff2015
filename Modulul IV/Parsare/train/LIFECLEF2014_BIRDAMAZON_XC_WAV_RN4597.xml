@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>4597</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN4597.wav</FileName>
+  <ClassId>xunfjj</ClassId>
+  <Date>2013-10-28</Date>
+  <Time>09:00</Time>
+  <Locality>Vale do Quilombo, Gramado, Rio Grande do Sul state</Locality>
+  <Latitude>-29.3762</Latitude>
+  <Longitude>-50.8526</Longitude>
+  <Elevation>600</Elevation>
+  <Author>Antonio Silveira</Author>
+  <AuthorID>NBJQSQJRYH</AuthorID>
+  <Content>male, song</Content>
+  <Comments>Male singing near upaved road.bird-seen:yesplayback-used:no</Comments>
+  <Quality>1</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Turdidae</Family>
+  <Genus>Turdus</Genus>
+  <Species>rufiventris</Species>
+  <Sub-species />
+  <VernacularNames>Rufous-bellied Thrush</VernacularNames>
+</Audio>

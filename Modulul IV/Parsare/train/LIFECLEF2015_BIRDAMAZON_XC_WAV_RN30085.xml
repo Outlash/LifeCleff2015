@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>30085</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN30085.wav</FileName>
+  <ClassId>tobdcn</ClassId>
+  <Date>2007-03-05</Date>
+  <Time>06:20</Time>
+  <Locality>Munchique National Park</Locality>
+  <Latitude>2.287295</Latitude>
+  <Longitude>-77.124023</Longitude>
+  <Elevation>2875</Elevation>
+  <Author>Oswaldo Cortes</Author>
+  <AuthorID>VVDRVZCVWW</AuthorID>
+  <Content>song</Content>
+  <Comments>Respuesta a Playback</Comments>
+  <Quality>1</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Grallariidae</Family>
+  <Genus>Grallaria</Genus>
+  <Species>flavotincta</Species>
+  <Sub-species />
+  <VernacularNames>Yellow-breasted Antpitta</VernacularNames>
+</Audio>

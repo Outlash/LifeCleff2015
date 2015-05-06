@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>32365</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN32365.wav</FileName>
+  <ClassId>hejxxz</ClassId>
+  <Date>2014-05-22</Date>
+  <Time>16:30</Time>
+  <Locality>Maraã, Amazonas</Locality>
+  <Latitude>-2.3734</Latitude>
+  <Longitude>-65.2598</Longitude>
+  <Elevation>50</Elevation>
+  <Author>GABRIEL LEITE</Author>
+  <AuthorID>TGBFXDVERJ</AuthorID>
+  <Content>female, flight call, male</Content>
+  <Comments>bird-seen:yesplayback-used:no</Comments>
+  <Quality>2</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Charadriiformes</Order>
+  <Family>Laridae</Family>
+  <Genus>Phaetusa</Genus>
+  <Species>simplex</Species>
+  <Sub-species />
+  <VernacularNames>Large-billed Tern</VernacularNames>
+</Audio>

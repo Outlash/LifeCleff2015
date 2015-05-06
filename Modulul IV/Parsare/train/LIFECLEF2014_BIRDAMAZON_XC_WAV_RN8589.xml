@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>8589</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN8589.wav</FileName>
+  <ClassId>rfinai</ClassId>
+  <Date>2006-10-03</Date>
+  <Time>08:30</Time>
+  <Locality>Pedra de Baú, Campos do Jordao, SP</Locality>
+  <Latitude>-22.6834</Latitude>
+  <Longitude>-45.6501</Longitude>
+  <Elevation>1800</Elevation>
+  <Author>Nick Athanas</Author>
+  <AuthorID>XRABICUARW</AuthorID>
+  <Content>song</Content>
+  <Comments>img:http://antpitta.com/images/photos/pipits/HellmayrsPipit-Bau.jpg</Comments>
+  <Quality>1</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies>Crypturellus obsoletus</BackgroundSpecies>
+  <Order>Passeriformes</Order>
+  <Family>Motacillidae</Family>
+  <Genus>Anthus</Genus>
+  <Species>hellmayri</Species>
+  <Sub-species>brasilianus</Sub-species>
+  <VernacularNames>Hellmayr's Pipit</VernacularNames>
+</Audio>

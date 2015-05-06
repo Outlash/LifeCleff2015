@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>18805</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN18805.wav</FileName>
+  <ClassId>aiiwiu</ClassId>
+  <Date>2011-09-19</Date>
+  <Time>09:00</Time>
+  <Locality>São Lourenço, Minas Gerais</Locality>
+  <Latitude>-22.1171</Latitude>
+  <Longitude>-45.051</Longitude>
+  <Elevation>900</Elevation>
+  <Author>João Antônio de B. Vitto</Author>
+  <AuthorID>RIVNLYTULO</AuthorID>
+  <Content>call</Content>
+  <Comments>bird-seen:yesplayback-used:no</Comments>
+  <Quality>0</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Psittaciformes</Order>
+  <Family>Psittacidae</Family>
+  <Genus>Psittacara</Genus>
+  <Species>leucophthalmus</Species>
+  <Sub-species />
+  <VernacularNames>White-eyed Parakeet</VernacularNames>
+</Audio>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>16933</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN16933.wav</FileName>
+  <ClassId>nehqqq</ClassId>
+  <Date>2013-03-25</Date>
+  <Time>?</Time>
+  <Locality>RNA Las Tangaras, Choco</Locality>
+  <Latitude>5.8067</Latitude>
+  <Longitude>-76.1816</Longitude>
+  <Elevation>1700</Elevation>
+  <Author>Hans Matheve</Author>
+  <AuthorID>VROUALCTKG</AuthorID>
+  <Content>song</Content>
+  <Comments>bird-seen:yes</Comments>
+  <Quality>2</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Vireonidae</Family>
+  <Genus>Cyclarhis</Genus>
+  <Species>nigrirostris</Species>
+  <Sub-species>nigrirostris</Sub-species>
+  <VernacularNames>Black-billed Peppershrike</VernacularNames>
+</Audio>

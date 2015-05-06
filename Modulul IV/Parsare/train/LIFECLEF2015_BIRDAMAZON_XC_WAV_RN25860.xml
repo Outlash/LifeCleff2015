@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>25860</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN25860.wav</FileName>
+  <ClassId>wvxyjw</ClassId>
+  <Date>2004-08-16</Date>
+  <Time>10:50</Time>
+  <Locality>Altaquer, RN Rio Nambi, Narino</Locality>
+  <Latitude>1.3001</Latitude>
+  <Longitude>-78.0834</Longitude>
+  <Elevation>1100-1600</Elevation>
+  <Author>Oscar Laverde</Author>
+  <AuthorID>WKVKSVMNDZ</AuthorID>
+  <Content>song</Content>
+  <Comments />
+  <Quality>1</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Fringillidae</Family>
+  <Genus>Euphonia</Genus>
+  <Species>xanthogaster</Species>
+  <Sub-species />
+  <VernacularNames>Orange-bellied Euphonia</VernacularNames>
+</Audio>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>18785</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN18785.wav</FileName>
+  <ClassId>wixeie</ClassId>
+  <Date>2012-01-24</Date>
+  <Time>16:22</Time>
+  <Locality>Mata do Estado, São Vicente Férrer, Pernambuco</Locality>
+  <Latitude>-7.6167</Latitude>
+  <Longitude>-35.5001</Longitude>
+  <Elevation>500</Elevation>
+  <Author>Marcus Braun</Author>
+  <AuthorID>EICLYDGEKS</AuthorID>
+  <Content>flight call</Content>
+  <Comments>bird-seen:yesplayback-used:no</Comments>
+  <Quality>3</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Accipitriformes</Order>
+  <Family>Accipitridae</Family>
+  <Genus>Buteo</Genus>
+  <Species>brachyurus</Species>
+  <Sub-species />
+  <VernacularNames>Short-tailed Hawk</VernacularNames>
+</Audio>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>18809</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN18809.wav</FileName>
+  <ClassId>jatqgd</ClassId>
+  <Date>2014-07-02</Date>
+  <Time>08:00</Time>
+  <Locality>Reserva La Montaña, Alto Quindío, Salento, Quindío</Locality>
+  <Latitude>4.6548</Latitude>
+  <Longitude>-75.4666</Longitude>
+  <Elevation>2800</Elevation>
+  <Author>Oswaldo Cortes</Author>
+  <AuthorID>VVDRVZCVWW</AuthorID>
+  <Content>call</Content>
+  <Comments>bird-seen:yesplayback-used:no</Comments>
+  <Quality>4</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies>Penelope montagnii</BackgroundSpecies>
+  <Order>Passeriformes</Order>
+  <Family>Rhinocryptidae</Family>
+  <Genus>Myornis</Genus>
+  <Species>senilis</Species>
+  <Sub-species />
+  <VernacularNames>Ash-colored Tapaculo</VernacularNames>
+</Audio>

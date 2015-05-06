@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>13192</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN13192.wav</FileName>
+  <ClassId>doafbd</ClassId>
+  <Date>2000-11-25</Date>
+  <Time>07:44</Time>
+  <Locality>Tapajós National Forest</Locality>
+  <Latitude>-3.4834</Latitude>
+  <Longitude>-54.9167</Longitude>
+  <Elevation>170</Elevation>
+  <Author>Jeremy Minns</Author>
+  <AuthorID>DGVLLRYDXS</AuthorID>
+  <Content>duet, song</Content>
+  <Comments>Terra firme forest. After playback.</Comments>
+  <Quality>1</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Thamnophilidae</Family>
+  <Genus>Hypocnemis</Genus>
+  <Species>striata</Species>
+  <Sub-species>striata</Sub-species>
+  <VernacularNames>Spix's Warbling Antbird</VernacularNames>
+</Audio>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>20326</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN20326.wav</FileName>
+  <ClassId>peiocp</ClassId>
+  <Date>2000-07-15</Date>
+  <Time>?:?</Time>
+  <Locality>Volta Velha, Santa Catarina</Locality>
+  <Latitude>NULL</Latitude>
+  <Longitude>NULL</Longitude>
+  <Elevation>?</Elevation>
+  <Author>Rosendo Fraga</Author>
+  <AuthorID>JQSYKZHEMB</AuthorID>
+  <Content>call</Content>
+  <Comments>&lt;a href=http://www.xeno-canto.org/graphics/conosur.jpg rel=lightbox&gt;From Bird Sounds of Southern South America by Lopez-Lanus (2008)&lt;/a&gt;</Comments>
+  <Quality>3</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Tyrannidae</Family>
+  <Genus>Conopias</Genus>
+  <Species>trivirgatus</Species>
+  <Sub-species />
+  <VernacularNames>Three-striped Flycatcher</VernacularNames>
+</Audio>

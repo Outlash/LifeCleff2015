@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>1507</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN1507.wav</FileName>
+  <ClassId>gwzyoa</ClassId>
+  <Date>2010-07-24</Date>
+  <Time>07:30</Time>
+  <Locality>Presidente Figueiredo, Amazonas</Locality>
+  <Latitude>-2.0278</Latitude>
+  <Longitude>-59.997</Longitude>
+  <Elevation>?</Elevation>
+  <Author>Marcos Melo</Author>
+  <AuthorID>MRGDYNJGUJ</AuthorID>
+  <Content>song</Content>
+  <Comments />
+  <Quality>2</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Thamnophilidae</Family>
+  <Genus>Hylophylax</Genus>
+  <Species>naevius</Species>
+  <Sub-species />
+  <VernacularNames>Spot-backed Antbird</VernacularNames>
+</Audio>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>26396</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN26396.wav</FileName>
+  <ClassId>zsociq</ClassId>
+  <Date>2011-09-01</Date>
+  <Time>16:15</Time>
+  <Locality>Pantanal Wildlife Center, MT</Locality>
+  <Latitude>-16.7581</Latitude>
+  <Longitude>-56.8764</Longitude>
+  <Elevation>110</Elevation>
+  <Author>Eric DeFonso</Author>
+  <AuthorID>KTLCZCRCQX</AuthorID>
+  <Content>call</Content>
+  <Comments>What I call giggling, since it's not the true chorus vocalization. Habitat is tropical deciduous woodland in dry season.bird-seen:yesplayback-used:no""</Comments>
+  <Quality>1</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies>Patagioenas picazuro,Crypturellus undulatus</BackgroundSpecies>
+  <Order>Galliformes</Order>
+  <Family>Cracidae</Family>
+  <Genus>Ortalis</Genus>
+  <Species>canicollis</Species>
+  <Sub-species />
+  <VernacularNames>Chaco Chachalaca</VernacularNames>
+</Audio>

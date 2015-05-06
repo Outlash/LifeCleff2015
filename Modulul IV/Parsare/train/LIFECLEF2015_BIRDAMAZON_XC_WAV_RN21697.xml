@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>21697</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN21697.wav</FileName>
+  <ClassId>dptlek</ClassId>
+  <Date>2007-01-06</Date>
+  <Time>13:30</Time>
+  <Locality>30 km. west of Maripa, Bolivar</Locality>
+  <Latitude>NULL</Latitude>
+  <Longitude>NULL</Longitude>
+  <Elevation>?</Elevation>
+  <Author>Andrew Spencer</Author>
+  <AuthorID>CDTGHVBGZP</AuthorID>
+  <Content>call</Content>
+  <Comments>calls given in flight by both members of a pair</Comments>
+  <Quality>3</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Furnariidae</Family>
+  <Genus>Berlepschia</Genus>
+  <Species>rikeri</Species>
+  <Sub-species />
+  <VernacularNames>Point-tailed Palmcreeper</VernacularNames>
+</Audio>

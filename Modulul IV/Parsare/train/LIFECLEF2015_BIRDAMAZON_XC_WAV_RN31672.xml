@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>31672</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN31672.wav</FileName>
+  <ClassId>dktltf</ClassId>
+  <Date>2003-03-31</Date>
+  <Time>11:28</Time>
+  <Locality>Humaitá, AM. Sítio Boa Fé</Locality>
+  <Latitude>-7.7167</Latitude>
+  <Longitude>-63.0834</Longitude>
+  <Elevation>80</Elevation>
+  <Author>Jeremy Minns</Author>
+  <AuthorID>DGVLLRYDXS</AuthorID>
+  <Content>Call</Content>
+  <Comments>Terra firme forest. Natural and after playback.bird-seen:noplayback-used:no</Comments>
+  <Quality>0</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Thamnophilidae</Family>
+  <Genus>Hypocnemis</Genus>
+  <Species>peruviana</Species>
+  <Sub-species />
+  <VernacularNames>Peruvian Warbling Antbird</VernacularNames>
+</Audio>

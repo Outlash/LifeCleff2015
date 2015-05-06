@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>7772</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN7772.wav</FileName>
+  <ClassId>fiennj</ClassId>
+  <Date>2008-04-24</Date>
+  <Time>10:18</Time>
+  <Locality>Reserva Ecológica Mãe-da-Lua, Itapajé, Ceará</Locality>
+  <Latitude>-3.8114</Latitude>
+  <Longitude>-39.4737</Longitude>
+  <Elevation>500</Elevation>
+  <Author>Hermann Redies</Author>
+  <AuthorID>VKWSROQKWH</AuthorID>
+  <Content>call</Content>
+  <Comments>Not certain about elevation. Bird seen while vocalizing.</Comments>
+  <Quality>1</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Emberizidae</Family>
+  <Genus>Arremon</Genus>
+  <Species>taciturnus</Species>
+  <Sub-species />
+  <VernacularNames>Pectoral Sparrow</VernacularNames>
+</Audio>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>32185</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN32185.wav</FileName>
+  <ClassId>oublby</ClassId>
+  <Date>1990-12-17</Date>
+  <Time>?</Time>
+  <Locality>Huila, San Agustin</Locality>
+  <Latitude>NULL</Latitude>
+  <Longitude>NULL</Longitude>
+  <Elevation />
+  <Author>Gary Stiles (Colección de Sonidos Ambientales - Instituto Humboldt)</Author>
+  <AuthorID>XMFDPACYJN</AuthorID>
+  <Content>song</Content>
+  <Comments>BSA 11366To obtain a wav file of the original recording, please contact csa@humboldt.org.cobird-seen:yesplayback-used:no</Comments>
+  <Quality>2</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Coraciiformes</Order>
+  <Family>Alcedinidae</Family>
+  <Genus>Megaceryle</Genus>
+  <Species>torquata</Species>
+  <Sub-species />
+  <VernacularNames>Ringed Kingfisher</VernacularNames>
+</Audio>

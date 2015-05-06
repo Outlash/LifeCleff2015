@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>12677</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN12677.wav</FileName>
+  <ClassId>eupamv</ClassId>
+  <Date>2011-11-01</Date>
+  <Time>09:30</Time>
+  <Locality>São José dos Campos, São Paulo</Locality>
+  <Latitude>-23.0726</Latitude>
+  <Longitude>-45.9388</Longitude>
+  <Elevation>700</Elevation>
+  <Author>Rodrigo Dela Rosa de Souza</Author>
+  <AuthorID>VGXDJMKETZ</AuthorID>
+  <Content>male, song</Content>
+  <Comments>bird-seen:yesplayback-used:no</Comments>
+  <Quality>2</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Fringillidae</Family>
+  <Genus>Euphonia</Genus>
+  <Species>violacea</Species>
+  <Sub-species />
+  <VernacularNames>Violaceous Euphonia</VernacularNames>
+</Audio>

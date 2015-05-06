@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>20195</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN20195.wav</FileName>
+  <ClassId>jttuic</ClassId>
+  <Date>2012-02-12</Date>
+  <Time>19:30</Time>
+  <Locality>Jacareí, São Paulo</Locality>
+  <Latitude>-23.2511</Latitude>
+  <Longitude>-46.0116</Longitude>
+  <Elevation>650</Elevation>
+  <Author>Rodrigo Dela Rosa</Author>
+  <AuthorID>VGXDJMKETZ</AuthorID>
+  <Content>song</Content>
+  <Comments>bird-seen:yesplayback-used:yes</Comments>
+  <Quality>1</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Caprimulgiformes</Order>
+  <Family>Nyctibiidae</Family>
+  <Genus>Nyctibius</Genus>
+  <Species>griseus</Species>
+  <Sub-species />
+  <VernacularNames>Common Potoo</VernacularNames>
+</Audio>

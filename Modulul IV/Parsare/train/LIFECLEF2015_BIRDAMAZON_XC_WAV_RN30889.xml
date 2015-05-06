@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>30889</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN30889.wav</FileName>
+  <ClassId>veelze</ClassId>
+  <Date>2008-03-00</Date>
+  <Time>?:?</Time>
+  <Locality>Bejuma - Carabobo state Casa Maria Lodge</Locality>
+  <Latitude>8.407</Latitude>
+  <Longitude>-66.445</Longitude>
+  <Elevation>1200</Elevation>
+  <Author>Joe Klaiber</Author>
+  <AuthorID>TNPOVFLZMY</AuthorID>
+  <Content>song</Content>
+  <Comments>link:http://www.birds-venezuela.de</Comments>
+  <Quality>1</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Furnariidae</Family>
+  <Genus>Xiphorhynchus</Genus>
+  <Species>susurrans</Species>
+  <Sub-species />
+  <VernacularNames>Cocoa Woodcreeper</VernacularNames>
+</Audio>

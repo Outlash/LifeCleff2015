@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>15806</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN15806.wav</FileName>
+  <ClassId>uvevgr</ClassId>
+  <Date>2010-02-08</Date>
+  <Time>12:00</Time>
+  <Locality>above RNA El Dorado, Sierra de Santa Marta, Magdalena</Locality>
+  <Latitude>11.1078</Latitude>
+  <Longitude>-74.0487</Longitude>
+  <Elevation>2450</Elevation>
+  <Author>Frank Lambert</Author>
+  <AuthorID>YTUXOCTUEM</AuthorID>
+  <Content>song</Content>
+  <Comments />
+  <Quality>0</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Grallariidae</Family>
+  <Genus>Grallaria</Genus>
+  <Species>bangsi</Species>
+  <Sub-species />
+  <VernacularNames>Santa Marta Antpitta</VernacularNames>
+</Audio>

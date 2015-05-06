@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>22240</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN22240.wav</FileName>
+  <ClassId>cpmbyl</ClassId>
+  <Date>2012-01-00</Date>
+  <Time>17:00</Time>
+  <Locality>Alto de Ventanas</Locality>
+  <Latitude>5.5374</Latitude>
+  <Longitude>-75.8029</Longitude>
+  <Elevation>2600</Elevation>
+  <Author>David Edwards</Author>
+  <AuthorID>AFEHYCAHZR</AuthorID>
+  <Content>song</Content>
+  <Comments>playback-used:no</Comments>
+  <Quality>1</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Grallariidae</Family>
+  <Genus>Grallaria</Genus>
+  <Species>ruficapilla</Species>
+  <Sub-species />
+  <VernacularNames>Chestnut-crowned Antpitta</VernacularNames>
+</Audio>

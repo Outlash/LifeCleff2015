@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>31918</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN31918.wav</FileName>
+  <ClassId>cwjrpd</ClassId>
+  <Date>2006-11-00</Date>
+  <Time>?:?</Time>
+  <Locality>below Yacambu, Lara</Locality>
+  <Latitude>NULL</Latitude>
+  <Longitude>NULL</Longitude>
+  <Elevation>&lt;b&gt;800?&lt;/b&gt;</Elevation>
+  <Author>David Edwards</Author>
+  <AuthorID>AFEHYCAHZR</AuthorID>
+  <Content>song</Content>
+  <Comments />
+  <Quality>1</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Vireonidae</Family>
+  <Genus>Hylophilus</Genus>
+  <Species>flavipes</Species>
+  <Sub-species />
+  <VernacularNames>Scrub Greenlet</VernacularNames>
+</Audio>

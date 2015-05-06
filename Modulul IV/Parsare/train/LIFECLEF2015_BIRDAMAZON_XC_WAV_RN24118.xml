@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>24118</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN24118.wav</FileName>
+  <ClassId>wdgsdk</ClassId>
+  <Date>2004-08-01</Date>
+  <Time>17:57</Time>
+  <Locality>Presidente Figueiredo. Road off BR-174 at km 85</Locality>
+  <Latitude>-2.2334</Latitude>
+  <Longitude>-60.0167</Longitude>
+  <Elevation>115</Elevation>
+  <Author>Jeremy Minns</Author>
+  <AuthorID>DGVLLRYDXS</AuthorID>
+  <Content>Song</Content>
+  <Comments>Terra firme forest.</Comments>
+  <Quality>2</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies>Tyranneutes virescens,Xenops minutus,Ramphastos tucanus</BackgroundSpecies>
+  <Order>Passeriformes</Order>
+  <Family>Furnariidae</Family>
+  <Genus>Xiphorhynchus</Genus>
+  <Species>pardalotus</Species>
+  <Sub-species>pardalotus</Sub-species>
+  <VernacularNames>Chestnut-rumped Woodcreeper</VernacularNames>
+</Audio>

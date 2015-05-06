@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>18224</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN18224.wav</FileName>
+  <ClassId>ltmvlu</ClassId>
+  <Date>2010-03-17</Date>
+  <Time>18:20</Time>
+  <Locality>Rewa, Guyana</Locality>
+  <Latitude>NULL</Latitude>
+  <Longitude>NULL</Longitude>
+  <Elevation>100</Elevation>
+  <Author>Charlie Vogt</Author>
+  <AuthorID>NYTXYAQSTH</AuthorID>
+  <Content>song</Content>
+  <Comments>natural vocalization, one-note call</Comments>
+  <Quality>2</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies>Leptotila rufaxilla</BackgroundSpecies>
+  <Order>Passeriformes</Order>
+  <Family>Furnariidae</Family>
+  <Genus>Xiphorhynchus</Genus>
+  <Species>guttatus</Species>
+  <Sub-species>polystictus</Sub-species>
+  <VernacularNames>Buff-throated Woodcreeper</VernacularNames>
+</Audio>

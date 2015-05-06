@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>1270</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN1270.wav</FileName>
+  <ClassId>lxpfyd</ClassId>
+  <Date>2011-08-24</Date>
+  <Time>18:05</Time>
+  <Locality>Cristalino Jungle Lodge, MT</Locality>
+  <Latitude>-9.5981</Latitude>
+  <Longitude>-55.932</Longitude>
+  <Elevation>200</Elevation>
+  <Author>Tayler Brooks</Author>
+  <AuthorID>ARFGONJCBJ</AuthorID>
+  <Content>song</Content>
+  <Comments>Natural vocalization. In thick bamboo dominated understory.</Comments>
+  <Quality>1</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Furnariidae</Family>
+  <Genus>Automolus</Genus>
+  <Species>rufipileatus</Species>
+  <Sub-species>rufipileatus</Sub-species>
+  <VernacularNames>Chestnut-crowned Foliage-gleaner</VernacularNames>
+</Audio>

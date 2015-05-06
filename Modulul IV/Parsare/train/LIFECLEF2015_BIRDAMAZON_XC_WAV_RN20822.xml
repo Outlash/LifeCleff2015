@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>20822</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN20822.wav</FileName>
+  <ClassId>opckrh</ClassId>
+  <Date>2005-08-12</Date>
+  <Time>05:40</Time>
+  <Locality>23km WSW Alta Floresta, MT</Locality>
+  <Latitude>NULL</Latitude>
+  <Longitude>NULL</Longitude>
+  <Elevation>100</Elevation>
+  <Author>Alexander Lees</Author>
+  <AuthorID>INDDBZAFJL</AuthorID>
+  <Content>song</Content>
+  <Comments />
+  <Quality>3</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies>Micrastur semitorquatus,Myrmeciza atrothorax,Lathrotriccus euleri</BackgroundSpecies>
+  <Order>Piciformes</Order>
+  <Family>Bucconidae</Family>
+  <Genus>Bucco</Genus>
+  <Species>capensis</Species>
+  <Sub-species />
+  <VernacularNames>Collared Puffbird</VernacularNames>
+</Audio>

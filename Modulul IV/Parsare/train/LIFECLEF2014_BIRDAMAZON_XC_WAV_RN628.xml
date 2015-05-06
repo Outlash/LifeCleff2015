@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>628</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN628.wav</FileName>
+  <ClassId>ddkxtm</ClassId>
+  <Date>2005-12-10</Date>
+  <Time>11:10</Time>
+  <Locality>Parque Estadual Intervales, SP</Locality>
+  <Latitude>-24.2759</Latitude>
+  <Longitude>-48.4181</Longitude>
+  <Elevation>830</Elevation>
+  <Author>Bob Planqué</Author>
+  <AuthorID>OH38YHKJBS</AuthorID>
+  <Content>song</Content>
+  <Comments />
+  <Quality>2</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies>Procnias nudicollis</BackgroundSpecies>
+  <Order>Passeriformes</Order>
+  <Family>Furnariidae</Family>
+  <Genus>Synallaxis</Genus>
+  <Species>cinerascens</Species>
+  <Sub-species />
+  <VernacularNames>Grey-bellied Spinetail</VernacularNames>
+</Audio>

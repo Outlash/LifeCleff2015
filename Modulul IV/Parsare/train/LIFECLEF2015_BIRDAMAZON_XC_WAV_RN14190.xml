@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>14190</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN14190.wav</FileName>
+  <ClassId>mxonho</ClassId>
+  <Date>2011-11-21</Date>
+  <Time>18:42</Time>
+  <Locality>Reserva Ecológica de Guapi Açu (REGUA), RJ</Locality>
+  <Latitude>-22.4508</Latitude>
+  <Longitude>-42.7735</Longitude>
+  <Elevation>30</Elevation>
+  <Author>Eric DeFonso</Author>
+  <AuthorID>KTLCZCRCQX</AuthorID>
+  <Content>call, conversational chatter</Content>
+  <Comments>Chatter from a gathering night roost of at least 60+ individuals, on a small island in the middle of the wetland. Recorded from the footpaths around the large wetlands near the lodge.bird-seen:yesplayback-used:no</Comments>
+  <Quality>2</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Pelecaniformes</Order>
+  <Family>Ardeidae</Family>
+  <Genus>Bubulcus</Genus>
+  <Species>ibis</Species>
+  <Sub-species />
+  <VernacularNames>Western Cattle Egret</VernacularNames>
+</Audio>

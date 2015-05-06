@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>5050</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN5050.wav</FileName>
+  <ClassId>hkqgia</ClassId>
+  <Date>2001-10-25</Date>
+  <Time>10:58</Time>
+  <Locality>Perequê - Angra dos Reis - RJ</Locality>
+  <Latitude>-23.012</Latitude>
+  <Longitude>-44.5351</Longitude>
+  <Elevation>50</Elevation>
+  <Author>Jeremy Minns</Author>
+  <AuthorID>DGVLLRYDXS</AuthorID>
+  <Content>Song</Content>
+  <Comments>Edge of secondary growth.</Comments>
+  <Quality>1</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies>Mackenziaena severa,Stelgidopteryx ruficollis</BackgroundSpecies>
+  <Order>Passeriformes</Order>
+  <Family>Tyrannidae</Family>
+  <Genus>Todirostrum</Genus>
+  <Species>poliocephalum</Species>
+  <Sub-species />
+  <VernacularNames>Yellow-lored Tody-Flycatcher</VernacularNames>
+</Audio>

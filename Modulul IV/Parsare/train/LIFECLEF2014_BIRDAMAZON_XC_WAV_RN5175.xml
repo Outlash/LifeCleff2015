@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>5175</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN5175.wav</FileName>
+  <ClassId>ixjdrc</ClassId>
+  <Date>2009-09-20</Date>
+  <Time>10:00</Time>
+  <Locality>Cristalino Jungle Lodge, MT</Locality>
+  <Latitude>-9.5981</Latitude>
+  <Longitude>-55.932</Longitude>
+  <Elevation>250</Elevation>
+  <Author>Andrew Spencer</Author>
+  <AuthorID>CDTGHVBGZP</AuthorID>
+  <Content>song</Content>
+  <Comments />
+  <Quality>1</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Pipridae</Family>
+  <Genus>Dixiphia</Genus>
+  <Species>rubrocapilla</Species>
+  <Sub-species />
+  <VernacularNames>Red-headed Manakin</VernacularNames>
+</Audio>

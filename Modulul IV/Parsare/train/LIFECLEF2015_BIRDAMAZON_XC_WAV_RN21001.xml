@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>21001</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN21001.wav</FileName>
+  <ClassId>okgumd</ClassId>
+  <Date>2012-05-15</Date>
+  <Time>11:11</Time>
+  <Locality>Lençóis, Bahia</Locality>
+  <Latitude>-12.5517</Latitude>
+  <Longitude>-41.3984</Longitude>
+  <Elevation>600</Elevation>
+  <Author>Marcus Braun</Author>
+  <AuthorID>EICLYDGEKS</AuthorID>
+  <Content>song</Content>
+  <Comments>bird-seen:yesplayback-used:no</Comments>
+  <Quality>4</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Apodiformes</Order>
+  <Family>Trochilidae</Family>
+  <Genus>Amazilia</Genus>
+  <Species>fimbriata</Species>
+  <Sub-species />
+  <VernacularNames>Glittering-throated Emerald</VernacularNames>
+</Audio>

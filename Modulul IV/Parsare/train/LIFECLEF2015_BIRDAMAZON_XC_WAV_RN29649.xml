@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>29649</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN29649.wav</FileName>
+  <ClassId>bqtilk</ClassId>
+  <Date>2007-11-03</Date>
+  <Time>11:35</Time>
+  <Locality>Parque Regional Barbas-Bremen, Filandia, Quindio</Locality>
+  <Latitude>4.6717</Latitude>
+  <Longitude>-75.6283</Longitude>
+  <Elevation>1800</Elevation>
+  <Author>Oscar H. Marín-Gómez</Author>
+  <AuthorID>CSUHASNRSU</AuthorID>
+  <Content>male, song</Content>
+  <Comments>Ref: Tape OHM000B 2300. Two males singing  perch in different trees, in secondary forest near to Bremen campament. Low Montane Forest. Distance to Mic: 20m. Natural vocalization.bird-seen:yesplayback-used:no</Comments>
+  <Quality>2</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies>Zimmerius chrysops,Phaethornis guy</BackgroundSpecies>
+  <Order>Apodiformes</Order>
+  <Family>Trochilidae</Family>
+  <Genus>Amazilia</Genus>
+  <Species>franciae</Species>
+  <Sub-species />
+  <VernacularNames>Andean Emerald</VernacularNames>
+</Audio>

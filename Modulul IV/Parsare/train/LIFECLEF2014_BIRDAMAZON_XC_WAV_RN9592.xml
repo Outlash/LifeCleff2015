@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>9592</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN9592.wav</FileName>
+  <ClassId>ukfemk</ClassId>
+  <Date>2006-11-25</Date>
+  <Time>05:10</Time>
+  <Locality>Mata das Cobras, Us. trapiche, Sirinhaém, Pernambuco</Locality>
+  <Latitude>NULL</Latitude>
+  <Longitude>NULL</Longitude>
+  <Elevation>20</Elevation>
+  <Author>Glauco Alves Pereira</Author>
+  <AuthorID>ZWEROGGYVP</AuthorID>
+  <Content>Song</Content>
+  <Comments />
+  <Quality>3</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Tyrannidae</Family>
+  <Genus>Tyrannus</Genus>
+  <Species>melancholicus</Species>
+  <Sub-species />
+  <VernacularNames>Tropical Kingbird</VernacularNames>
+</Audio>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>25157</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN25157.wav</FileName>
+  <ClassId>ayfewp</ClassId>
+  <Date>2011-03-14</Date>
+  <Time>09:00</Time>
+  <Locality>Reserva Natural Cerro El Ingles, Valle del Cauca</Locality>
+  <Latitude>4.7417</Latitude>
+  <Longitude>-76.2962</Longitude>
+  <Elevation>2100</Elevation>
+  <Author>Oscar Humberto Marin-Gomez</Author>
+  <AuthorID>CSUHASNRSU</AuthorID>
+  <Content>call</Content>
+  <Comments>OHM073A 0702bird-seen:noplayback-used:no</Comments>
+  <Quality>2</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Emberizidae</Family>
+  <Genus>Arremon</Genus>
+  <Species>brunneinucha</Species>
+  <Sub-species />
+  <VernacularNames>Chestnut-capped Brush Finch</VernacularNames>
+</Audio>

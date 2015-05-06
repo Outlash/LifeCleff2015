@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>10722</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN10722.wav</FileName>
+  <ClassId>fdggbs</ClassId>
+  <Date>2001-09-09</Date>
+  <Time>08:29</Time>
+  <Locality>Ubatuba, SP. Folha Seca.</Locality>
+  <Latitude>-23.5001</Latitude>
+  <Longitude>-45.2167</Longitude>
+  <Elevation>30</Elevation>
+  <Author>Jeremy Minns</Author>
+  <AuthorID>DGVLLRYDXS</AuthorID>
+  <Content>Call</Content>
+  <Comments>Call A. Classification as in our DVD-ROM 'Birds of Brazil' Humid forest on the lower slopes of the Serra do Mar.</Comments>
+  <Quality>1</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies>Trogon surrucura,Conopophaga melanops,Chiroxiphia caudata,Vireo olivaceus</BackgroundSpecies>
+  <Order>Passeriformes</Order>
+  <Family>Thamnophilidae</Family>
+  <Genus>Dysithamnus</Genus>
+  <Species>stictothorax</Species>
+  <Sub-species />
+  <VernacularNames>Spot-breasted Antvireo</VernacularNames>
+</Audio>

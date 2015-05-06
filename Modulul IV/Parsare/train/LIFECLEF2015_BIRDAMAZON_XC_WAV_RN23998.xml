@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>23998</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN23998.wav</FileName>
+  <ClassId>qgszhv</ClassId>
+  <Date>2006-01-18</Date>
+  <Time>09:30</Time>
+  <Locality>Serra dos Carajás, PA</Locality>
+  <Latitude>-6.1603</Latitude>
+  <Longitude>-50.3459</Longitude>
+  <Elevation>700</Elevation>
+  <Author>Nick Athanas</Author>
+  <AuthorID>XRABICUARW</AuthorID>
+  <Content>call</Content>
+  <Comments />
+  <Quality>4</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Pipridae</Family>
+  <Genus>Machaeropterus</Genus>
+  <Species>pyrocephalus</Species>
+  <Sub-species>pyrocephalus</Sub-species>
+  <VernacularNames>Fiery-capped Manakin</VernacularNames>
+</Audio>

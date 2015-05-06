@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>4409</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN4409.wav</FileName>
+  <ClassId>firddw</ClassId>
+  <Date>2012-09-28</Date>
+  <Time>06:00</Time>
+  <Locality>Macaé, Rio de Janeiro</Locality>
+  <Latitude>-22.3717</Latitude>
+  <Longitude>-41.7857</Longitude>
+  <Elevation>10</Elevation>
+  <Author>Eduardo D. Schultz</Author>
+  <AuthorID>QYOZQITVAC</AuthorID>
+  <Content>call</Content>
+  <Comments>playback-used:no</Comments>
+  <Quality>2</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Thamnophilidae</Family>
+  <Genus>Thamnophilus</Genus>
+  <Species>ambiguus</Species>
+  <Sub-species />
+  <VernacularNames>Sooretama Slaty Antshrike</VernacularNames>
+</Audio>

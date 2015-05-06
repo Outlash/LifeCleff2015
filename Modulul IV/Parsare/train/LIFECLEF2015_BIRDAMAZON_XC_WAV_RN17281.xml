@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>17281</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN17281.wav</FileName>
+  <ClassId>wgtqmw</ClassId>
+  <Date>1998-12-14</Date>
+  <Time>07:49</Time>
+  <Locality>Manaus. INPA tower on ZF-2</Locality>
+  <Latitude>-2.5834</Latitude>
+  <Longitude>-60.1167</Longitude>
+  <Elevation>100</Elevation>
+  <Author>Jeremy Minns</Author>
+  <AuthorID>DGVLLRYDXS</AuthorID>
+  <Content>Song in duet and call</Content>
+  <Comments>Terra firme forest. Male closer, female further off. After playback.</Comments>
+  <Quality>1</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies>Ramphastos tucanus,Hypocnemis cantator</BackgroundSpecies>
+  <Order>Passeriformes</Order>
+  <Family>Thamnophilidae</Family>
+  <Genus>Herpsilochmus</Genus>
+  <Species>dorsimaculatus</Species>
+  <Sub-species />
+  <VernacularNames>Spot-backed Antwren</VernacularNames>
+</Audio>

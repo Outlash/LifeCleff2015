@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>32825</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN32825.wav</FileName>
+  <ClassId>oxhigs</ClassId>
+  <Date>2013-10-02</Date>
+  <Time>08:30</Time>
+  <Locality>San Carlos Guaroa, Meta</Locality>
+  <Latitude>3.7126</Latitude>
+  <Longitude>-73.2483</Longitude>
+  <Elevation>220</Elevation>
+  <Author>Oswaldo Cortes</Author>
+  <AuthorID>VVDRVZCVWW</AuthorID>
+  <Content>call</Content>
+  <Comments>bird-seen:yesplayback-used:no</Comments>
+  <Quality>2</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Cuculiformes</Order>
+  <Family>Cuculidae</Family>
+  <Genus>Crotophaga</Genus>
+  <Species>ani</Species>
+  <Sub-species />
+  <VernacularNames>Smooth-billed Ani</VernacularNames>
+</Audio>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>8972</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN8972.wav</FileName>
+  <ClassId>vnmlmt</ClassId>
+  <Date>2009-05-02</Date>
+  <Time>afternoon</Time>
+  <Locality>Emas National Park, Goias state</Locality>
+  <Latitude>-18.098866</Latitude>
+  <Longitude>-52.874451</Longitude>
+  <Elevation>900</Elevation>
+  <Author>Fabio Olmos</Author>
+  <AuthorID>KSFTXTWUGU</AuthorID>
+  <Content>song</Content>
+  <Comments>response to play-back</Comments>
+  <Quality>1</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Thamnophilidae</Family>
+  <Genus>Thamnophilus</Genus>
+  <Species>doliatus</Species>
+  <Sub-species />
+  <VernacularNames>Barred Antshrike</VernacularNames>
+</Audio>

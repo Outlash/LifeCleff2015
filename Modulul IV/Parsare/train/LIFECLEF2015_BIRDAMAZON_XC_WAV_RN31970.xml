@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>31970</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN31970.wav</FileName>
+  <ClassId>gkeewf</ClassId>
+  <Date>2007-04-05</Date>
+  <Time>09:00</Time>
+  <Locality>FARALLON DE MEDINA</Locality>
+  <Latitude>4.5834</Latitude>
+  <Longitude>-73.4834</Longitude>
+  <Elevation>2100</Elevation>
+  <Author>Oswaldo Cortes</Author>
+  <AuthorID>VVDRVZCVWW</AuthorID>
+  <Content>call</Content>
+  <Comments />
+  <Quality>2</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Apodiformes</Order>
+  <Family>Trochilidae</Family>
+  <Genus>Adelomyia</Genus>
+  <Species>melanogenys</Species>
+  <Sub-species />
+  <VernacularNames>Speckled Hummingbird</VernacularNames>
+</Audio>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>30041</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN30041.wav</FileName>
+  <ClassId>ywomvb</ClassId>
+  <Date>2005-04-15</Date>
+  <Time>17:55</Time>
+  <Locality>Engenho Opinioso, Amaraji, Pernambuco</Locality>
+  <Latitude>-8.385091</Latitude>
+  <Longitude>-35.44138</Longitude>
+  <Elevation>550</Elevation>
+  <Author>Glauco Alves Pereira</Author>
+  <AuthorID>ZWEROGGYVP</AuthorID>
+  <Content>duet, song</Content>
+  <Comments />
+  <Quality>0</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Gruiformes</Order>
+  <Family>Rallidae</Family>
+  <Genus>Porzana</Genus>
+  <Species>albicollis</Species>
+  <Sub-species />
+  <VernacularNames>Ash-throated Crake</VernacularNames>
+</Audio>

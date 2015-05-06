@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>15943</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN15943.wav</FileName>
+  <ClassId>uarutv</ClassId>
+  <Date>2012-09-14</Date>
+  <Time>11:42</Time>
+  <Locality>Saul, St Laurent Du Maroni</Locality>
+  <Latitude>3.6217</Latitude>
+  <Longitude>-53.2088</Longitude>
+  <Elevation>210</Elevation>
+  <Author>Jon King</Author>
+  <AuthorID>LNEEOOWCQR</AuthorID>
+  <Content>song</Content>
+  <Comments>Distance to mic. 10m. Natural song directly overhead in mid-height of open forest on Monts La Fumee.bird-seen:yesplayback-used:no</Comments>
+  <Quality>2</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Tyrannidae</Family>
+  <Genus>Hemitriccus</Genus>
+  <Species>zosterops</Species>
+  <Sub-species />
+  <VernacularNames>White-eyed Tody-Tyrant</VernacularNames>
+</Audio>

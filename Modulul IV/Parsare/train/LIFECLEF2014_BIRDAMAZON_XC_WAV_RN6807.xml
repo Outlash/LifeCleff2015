@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>6807</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN6807.wav</FileName>
+  <ClassId>tkfjdd</ClassId>
+  <Date>2006-09-28</Date>
+  <Time>05:50</Time>
+  <Locality>Usina Zillo Lorenzetti - Quatá, Sao Paulo State</Locality>
+  <Latitude>-22.2589</Latitude>
+  <Longitude>-50.7089</Longitude>
+  <Elevation>550</Elevation>
+  <Author>Guilherme R R Brito</Author>
+  <AuthorID>OAYOBWYOOM</AuthorID>
+  <Content>song</Content>
+  <Comments>two individuals</Comments>
+  <Quality>3</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies />
+  <Order>Caprimulgiformes</Order>
+  <Family>Caprimulgidae</Family>
+  <Genus>Lurocalis</Genus>
+  <Species>semitorquatus</Species>
+  <Sub-species />
+  <VernacularNames>Short-tailed Nighthawk</VernacularNames>
+</Audio>

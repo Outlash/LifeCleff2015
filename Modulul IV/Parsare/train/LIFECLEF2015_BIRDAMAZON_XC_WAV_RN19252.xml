@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>19252</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN19252.wav</FileName>
+  <ClassId>zfdlov</ClassId>
+  <Date>2013-08-01</Date>
+  <Time>09:23</Time>
+  <Locality>Reserva Natural Salto Morato, Guaraqueçaba, Paraná</Locality>
+  <Latitude>-25.182</Latitude>
+  <Longitude>-48.2981</Longitude>
+  <Elevation>30</Elevation>
+  <Author>Teus Luijendijk</Author>
+  <AuthorID>VLNULZJNSX</AuthorID>
+  <Content>call</Content>
+  <Comments>Recording slightly filtered &lt;600 Hz. Two birds, halfway up in trees near stream.bird-seen:yesplayback-used:no</Comments>
+  <Quality>2</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Tyrannidae</Family>
+  <Genus>Phylloscartes</Genus>
+  <Species>oustaleti</Species>
+  <Sub-species />
+  <VernacularNames>Oustalet's Tyrannulet</VernacularNames>
+</Audio>

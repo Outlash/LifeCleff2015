@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>20092</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN20092.wav</FileName>
+  <ClassId>uphahj</ClassId>
+  <Date>2014-07-02</Date>
+  <Time>12:00</Time>
+  <Locality>Suaita, Santander</Locality>
+  <Latitude>6.1064</Latitude>
+  <Longitude>-73.4556</Longitude>
+  <Elevation>1600</Elevation>
+  <Author>Oscar Humberto Marin-Gomez</Author>
+  <AuthorID>CSUHASNRSU</AuthorID>
+  <Content>call</Content>
+  <Comments>Un individuo perchado en la copa de un árbol seco en borde de bosque. A 15 m del mic. Catalog number Suaita 1805bird-seen:yesplayback-used:no</Comments>
+  <Quality>2</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Accipitriformes</Order>
+  <Family>Accipitridae</Family>
+  <Genus>Rupornis</Genus>
+  <Species>magnirostris</Species>
+  <Sub-species />
+  <VernacularNames>Roadside Hawk</VernacularNames>
+</Audio>

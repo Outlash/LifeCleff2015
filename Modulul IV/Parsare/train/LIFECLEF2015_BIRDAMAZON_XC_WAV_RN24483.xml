@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>24483</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN24483.wav</FileName>
+  <ClassId>dptlek</ClassId>
+  <Date>2002-05-27</Date>
+  <Time>15:20</Time>
+  <Locality>Alta Floresta, MT</Locality>
+  <Latitude>-9.8781</Latitude>
+  <Longitude>-56.0981</Longitude>
+  <Elevation>?</Elevation>
+  <Author>Paul Donahue</Author>
+  <AuthorID>LLRXADGTBA</AuthorID>
+  <Content>song</Content>
+  <Comments />
+  <Quality>1</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Furnariidae</Family>
+  <Genus>Berlepschia</Genus>
+  <Species>rikeri</Species>
+  <Sub-species />
+  <VernacularNames>Point-tailed Palmcreeper</VernacularNames>
+</Audio>

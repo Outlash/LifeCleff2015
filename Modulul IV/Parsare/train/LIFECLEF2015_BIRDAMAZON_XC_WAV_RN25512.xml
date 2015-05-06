@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>25512</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN25512.wav</FileName>
+  <ClassId>smnliu</ClassId>
+  <Date>2010-12-28</Date>
+  <Time>13:36</Time>
+  <Locality>Sitio Tomio, Salete, Santa Catarina State</Locality>
+  <Latitude>-26.995</Latitude>
+  <Longitude>-50.014</Longitude>
+  <Elevation>460</Elevation>
+  <Author>Douglas Meyer</Author>
+  <AuthorID>MNENFHYTAE</AuthorID>
+  <Content>song</Content>
+  <Comments>bird-seen:yesplayback-used:no</Comments>
+  <Quality>0</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Tityridae</Family>
+  <Genus>Tityra</Genus>
+  <Species>cayana</Species>
+  <Sub-species />
+  <VernacularNames>Black-tailed Tityra</VernacularNames>
+</Audio>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>13303</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN13303.wav</FileName>
+  <ClassId>feohaf</ClassId>
+  <Date>2006-11-02</Date>
+  <Time>16:52</Time>
+  <Locality>Reserva Ecológica de Guapiaçu, RJ</Locality>
+  <Latitude>-22.5001</Latitude>
+  <Longitude>-42.7167</Longitude>
+  <Elevation>30</Elevation>
+  <Author>Jeremy Minns</Author>
+  <AuthorID>DGVLLRYDXS</AuthorID>
+  <Content>call, song</Content>
+  <Comments>Wetland. Single bird. One call and one song.</Comments>
+  <Quality>1</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies>Jacana jacana,Certhiaxis cinnamomeus,Tachycineta leucorrhoa,Turdus rufiventris,Chrysomus ruficapillus</BackgroundSpecies>
+  <Order>Passeriformes</Order>
+  <Family>Tyrannidae</Family>
+  <Genus>Elaenia</Genus>
+  <Species>flavogaster</Species>
+  <Sub-species>flavogaster</Sub-species>
+  <VernacularNames>Yellow-bellied Elaenia</VernacularNames>
+</Audio>

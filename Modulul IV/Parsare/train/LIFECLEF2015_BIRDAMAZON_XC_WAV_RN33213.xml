@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>33213</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN33213.wav</FileName>
+  <ClassId>addsdr</ClassId>
+  <Date>2008-10-27</Date>
+  <Time>08:15</Time>
+  <Locality>Bairro do Jaceguava, São Paulo, SP</Locality>
+  <Latitude>-23.752501</Latitude>
+  <Longitude>-46.735334</Longitude>
+  <Elevation>755</Elevation>
+  <Author>Marcos Melo</Author>
+  <AuthorID>MRGDYNJGUJ</AuthorID>
+  <Content>call, song</Content>
+  <Comments>Forrageando em arbustos</Comments>
+  <Quality>2</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies>Cyclarhis gujanensis</BackgroundSpecies>
+  <Order>Passeriformes</Order>
+  <Family>Tyrannidae</Family>
+  <Genus>Hemitriccus</Genus>
+  <Species>nidipendulus</Species>
+  <Sub-species />
+  <VernacularNames>Hangnest Tody-Tyrant</VernacularNames>
+</Audio>

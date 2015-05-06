@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>8784</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN8784.wav</FileName>
+  <ClassId>enlzwu</ClassId>
+  <Date>2010-10-31</Date>
+  <Time>06:42</Time>
+  <Locality>Paragominas, PA, Brazil, Bacia 152</Locality>
+  <Latitude>-2.9298</Latitude>
+  <Longitude>-46.7692</Longitude>
+  <Elevation>?</Elevation>
+  <Author>Alexander Lees</Author>
+  <AuthorID>INDDBZAFJL</AuthorID>
+  <Content>song</Content>
+  <Comments>secondary forest</Comments>
+  <Quality>3</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies>Poecilotriccus fumifrons,Phaeomyias murina,Progne chalybea,Ramphocelus carbo</BackgroundSpecies>
+  <Order>Passeriformes</Order>
+  <Family>Thraupidae</Family>
+  <Genus>Oryzoborus</Genus>
+  <Species>angolensis</Species>
+  <Sub-species />
+  <VernacularNames>Chestnut-bellied Seed Finch</VernacularNames>
+</Audio>

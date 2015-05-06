@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>27324</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN27324.wav</FileName>
+  <ClassId>mnbzkx</ClassId>
+  <Date>2012-10-30</Date>
+  <Time>08:30</Time>
+  <Locality>Manicoré, Amazonas</Locality>
+  <Latitude>-5.441</Latitude>
+  <Longitude>-62.0837</Longitude>
+  <Elevation>60</Elevation>
+  <Author>GABRIEL LEITE</Author>
+  <AuthorID>TGBFXDVERJ</AuthorID>
+  <Content>male, song</Content>
+  <Comments>bird-seen:yesplayback-used:no</Comments>
+  <Quality>2</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies>Piprites chloris</BackgroundSpecies>
+  <Order>Trogoniformes</Order>
+  <Family>Trogonidae</Family>
+  <Genus>Pharomachrus</Genus>
+  <Species>pavoninus</Species>
+  <Sub-species />
+  <VernacularNames>Pavonine Quetzal</VernacularNames>
+</Audio>

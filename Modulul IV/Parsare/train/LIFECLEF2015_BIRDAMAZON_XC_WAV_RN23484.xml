@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>23484</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN23484.wav</FileName>
+  <ClassId>budxsv</ClassId>
+  <Date>2007-01-00</Date>
+  <Time>?:?</Time>
+  <Locality>La Mucuy, Sierra Nevada NP, Merida</Locality>
+  <Latitude>8.620356</Latitude>
+  <Longitude>-71.082487</Longitude>
+  <Elevation>2000</Elevation>
+  <Author>Joe Klaiber</Author>
+  <AuthorID>TNPOVFLZMY</AuthorID>
+  <Content>song</Content>
+  <Comments>link:http://www.birds-venezuela.de</Comments>
+  <Quality>3</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Parulidae</Family>
+  <Genus>Myiothlypis</Genus>
+  <Species>nigrocristata</Species>
+  <Sub-species />
+  <VernacularNames>Black-crested Warbler</VernacularNames>
+</Audio>

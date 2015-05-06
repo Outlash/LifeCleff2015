@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>24970</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN24970.wav</FileName>
+  <ClassId>oymxxb</ClassId>
+  <Date>2000-11-03</Date>
+  <Time>pm</Time>
+  <Locality>Sector minado en las antenas (PNN Sierra Nevada de Santa Marta), Vereda San Lorenzo, Mpio San Lorenzo, Magdalena</Locality>
+  <Latitude>NULL</Latitude>
+  <Longitude>NULL</Longitude>
+  <Elevation>2600</Elevation>
+  <Author>Bernabe Lopez-Lanus</Author>
+  <AuthorID>BYLLSJRVDZ</AuthorID>
+  <Content>Biisyllabic sound</Content>
+  <Comments>Response to playback</Comments>
+  <Quality>1</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Turdidae</Family>
+  <Genus>Catharus</Genus>
+  <Species>fuscater</Species>
+  <Sub-species>sanctaemartae</Sub-species>
+  <VernacularNames>Slaty-backed Nightingale-Thrush</VernacularNames>
+</Audio>

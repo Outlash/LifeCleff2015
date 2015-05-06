@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>8728</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN8728.wav</FileName>
+  <ClassId>ssdpyu</ClassId>
+  <Date>2004-03-20</Date>
+  <Time>05:10</Time>
+  <Locality>Mata da Millenium, Mataraca, State of Paraíba</Locality>
+  <Latitude>-6.5834</Latitude>
+  <Longitude>-35.0501</Longitude>
+  <Elevation>30</Elevation>
+  <Author>Glauco Alves Pereira</Author>
+  <AuthorID>ZWEROGGYVP</AuthorID>
+  <Content>call</Content>
+  <Comments>Observed in edge of forest</Comments>
+  <Quality>2</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies>Leptotila verreauxi,Vireo olivaceus</BackgroundSpecies>
+  <Order>Passeriformes</Order>
+  <Family>Troglodytidae</Family>
+  <Genus>Cantorchilus</Genus>
+  <Species>longirostris</Species>
+  <Sub-species />
+  <VernacularNames>Long-billed Wren</VernacularNames>
+</Audio>

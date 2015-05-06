@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>8735</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN8735.wav</FileName>
+  <ClassId>ibvnlg</ClassId>
+  <Date>2010-06-04</Date>
+  <Time>08:30</Time>
+  <Locality>Barão de Cocais, Minas Gerais</Locality>
+  <Latitude>-19.939</Latitude>
+  <Longitude>-43.4752</Longitude>
+  <Elevation>1.042</Elevation>
+  <Author>Helberth J. C. Peixoto</Author>
+  <AuthorID>XIRUVWSNEN</AuthorID>
+  <Content>call</Content>
+  <Comments>bird-seen:yesplayback-used:no</Comments>
+  <Quality>3</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Tyrannidae</Family>
+  <Genus>Myiornis</Genus>
+  <Species>auricularis</Species>
+  <Sub-species />
+  <VernacularNames>Eared Pygmy Tyrant</VernacularNames>
+</Audio>

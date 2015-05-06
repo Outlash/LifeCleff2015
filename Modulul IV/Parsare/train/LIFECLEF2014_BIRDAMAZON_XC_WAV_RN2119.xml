@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>2119</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN2119.wav</FileName>
+  <ClassId>lgrpvc</ClassId>
+  <Date>2008-07-31</Date>
+  <Time>07:30</Time>
+  <Locality>Sítio do Cervo, Miracatú-SP</Locality>
+  <Latitude>-24.38333</Latitude>
+  <Longitude>-47.7</Longitude>
+  <Elevation>50</Elevation>
+  <Author>Tim Hirsch</Author>
+  <AuthorID>BMVCNRFNOY</AuthorID>
+  <Content>Song</Content>
+  <Comments>Hopping about in thick vegetation by riverbank</Comments>
+  <Quality>4</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Furnariidae</Family>
+  <Genus>Synallaxis</Genus>
+  <Species>ruficapilla</Species>
+  <Sub-species />
+  <VernacularNames>Rufous-capped Spinetail</VernacularNames>
+</Audio>

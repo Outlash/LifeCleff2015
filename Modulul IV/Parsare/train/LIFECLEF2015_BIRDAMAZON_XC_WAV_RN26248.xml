@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>26248</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN26248.wav</FileName>
+  <ClassId>qhsdfp</ClassId>
+  <Date>2012-03-00</Date>
+  <Time>15:00</Time>
+  <Locality>La Mesenia</Locality>
+  <Latitude>5.4834</Latitude>
+  <Longitude>-75.9001</Longitude>
+  <Elevation>2600</Elevation>
+  <Author>David Edwards</Author>
+  <AuthorID>AFEHYCAHZR</AuthorID>
+  <Content>call</Content>
+  <Comments>playback-used:no</Comments>
+  <Quality>1</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Grallariidae</Family>
+  <Genus>Grallaricula</Genus>
+  <Species>nana</Species>
+  <Sub-species />
+  <VernacularNames>Slaty-crowned Antpitta</VernacularNames>
+</Audio>

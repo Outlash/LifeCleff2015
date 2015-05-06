@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>26986</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN26986.wav</FileName>
+  <ClassId>ilxrbn</ClassId>
+  <Date>2010-06-22</Date>
+  <Time>10:00</Time>
+  <Locality>Balbina forest, Bandeira, MG</Locality>
+  <Latitude>-15.8062</Latitude>
+  <Longitude>-40.5181</Longitude>
+  <Elevation>750</Elevation>
+  <Author>Ciro Albano</Author>
+  <AuthorID>MXVQPUKGWW</AuthorID>
+  <Content>song</Content>
+  <Comments>In flight.</Comments>
+  <Quality>2</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Accipitriformes</Order>
+  <Family>Accipitridae</Family>
+  <Genus>Spizaetus</Genus>
+  <Species>ornatus</Species>
+  <Sub-species />
+  <VernacularNames>Ornate Hawk-Eagle</VernacularNames>
+</Audio>

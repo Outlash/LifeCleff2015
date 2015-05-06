@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>3281</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN3281.wav</FileName>
+  <ClassId>bumkxs</ClassId>
+  <Date>2003-08-16</Date>
+  <Time>09:00</Time>
+  <Locality>Estação Ecológica de Murici, Alagoas</Locality>
+  <Latitude>-9.3001</Latitude>
+  <Longitude>-35.9334</Longitude>
+  <Elevation>600</Elevation>
+  <Author>Glauco Alves Pereira</Author>
+  <AuthorID>ZWEROGGYVP</AuthorID>
+  <Content>Song</Content>
+  <Comments />
+  <Quality>4</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies>Cyclarhis gujanensis,Ramphocelus bresilius</BackgroundSpecies>
+  <Order>Passeriformes</Order>
+  <Family>Cardinalidae</Family>
+  <Genus>Saltator</Genus>
+  <Species>maximus</Species>
+  <Sub-species />
+  <VernacularNames>Buff-throated Saltator</VernacularNames>
+</Audio>

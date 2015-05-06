@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>8616</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN8616.wav</FileName>
+  <ClassId>qiauol</ClassId>
+  <Date>2009-05-26</Date>
+  <Time>09:00</Time>
+  <Locality>Fazenda Castanheiras (APA -Bororé - Colonia) São Paulo, SP</Locality>
+  <Latitude>-23.8081</Latitude>
+  <Longitude>-46.6498</Longitude>
+  <Elevation>760</Elevation>
+  <Author>Marcos Melo</Author>
+  <AuthorID>MRGDYNJGUJ</AuthorID>
+  <Content>song</Content>
+  <Comments>intervals this song was edited</Comments>
+  <Quality>1</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies />
+  <Order>Piciformes</Order>
+  <Family>Ramphastidae</Family>
+  <Genus>Ramphastos</Genus>
+  <Species>dicolorus</Species>
+  <Sub-species />
+  <VernacularNames>Green-billed Toucan</VernacularNames>
+</Audio>

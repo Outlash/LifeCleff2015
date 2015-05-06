@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>21989</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN21989.wav</FileName>
+  <ClassId>kzadgq</ClassId>
+  <Date>2005-01-00</Date>
+  <Time>xx:xx</Time>
+  <Locality>Lepipuerto, Serrania de los Yariguies</Locality>
+  <Latitude>6.4581</Latitude>
+  <Longitude>-73.4576</Longitude>
+  <Elevation>2900</Elevation>
+  <Author>Thomas Donegan</Author>
+  <AuthorID>OXSIOLJJUP</AuthorID>
+  <Content>Lekking song</Content>
+  <Comments>One of best recordings of this species from the site</Comments>
+  <Quality>2</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Emberizidae</Family>
+  <Genus>Chlorospingus</Genus>
+  <Species>flavopectus</Species>
+  <Sub-species>flavopectus</Sub-species>
+  <VernacularNames>Common Bush Tanager</VernacularNames>
+</Audio>

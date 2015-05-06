@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>9176</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN9176.wav</FileName>
+  <ClassId>uizzbr</ClassId>
+  <Date>2011-09-16</Date>
+  <Time>16:20</Time>
+  <Locality>Cristalino Jungle Lodge, MT</Locality>
+  <Latitude>-9.5981</Latitude>
+  <Longitude>-55.932</Longitude>
+  <Elevation>260</Elevation>
+  <Author>Eric DeFonso</Author>
+  <AuthorID>KTLCZCRCQX</AuthorID>
+  <Content>song</Content>
+  <Comments>This is more of an ambient recording - a chorus of relatively distant birds all vocalizing at once. Recorded from atop the old tower. Habitat is terra firme forest.bird-seen:noplayback-used:no</Comments>
+  <Quality>3</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies>Psarocolius bifasciatus</BackgroundSpecies>
+  <Order>Passeriformes</Order>
+  <Family>Cotingidae</Family>
+  <Genus>Lipaugus</Genus>
+  <Species>vociferans</Species>
+  <Sub-species />
+  <VernacularNames>Screaming Piha</VernacularNames>
+</Audio>

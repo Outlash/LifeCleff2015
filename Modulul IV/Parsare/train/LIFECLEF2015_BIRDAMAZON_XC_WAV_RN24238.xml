@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>24238</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN24238.wav</FileName>
+  <ClassId>afzbzd</ClassId>
+  <Date>2013-02-20</Date>
+  <Time>15:45</Time>
+  <Locality>Libano, Tolima</Locality>
+  <Latitude>4.9259</Latitude>
+  <Longitude>-75.0732</Longitude>
+  <Elevation>1640</Elevation>
+  <Author>Jeisson Poveda</Author>
+  <AuthorID>CVJNYXJFAW</AuthorID>
+  <Content>call</Content>
+  <Comments>Notese que en la vocalización parece haber dos aves pero es una sola...bird-seen:noplayback-used:no</Comments>
+  <Quality>1</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Cuculiformes</Order>
+  <Family>Cuculidae</Family>
+  <Genus>Tapera</Genus>
+  <Species>naevia</Species>
+  <Sub-species />
+  <VernacularNames>Striped Cuckoo</VernacularNames>
+</Audio>

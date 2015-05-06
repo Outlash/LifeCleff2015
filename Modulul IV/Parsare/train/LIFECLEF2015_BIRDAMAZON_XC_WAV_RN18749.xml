@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>18749</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN18749.wav</FileName>
+  <ClassId>waknsi</ClassId>
+  <Date>2008-02-17</Date>
+  <Time>20:00</Time>
+  <Locality>P.N. Mana Dulce, Cundinamarca?</Locality>
+  <Latitude>NULL</Latitude>
+  <Longitude>NULL</Longitude>
+  <Elevation>500</Elevation>
+  <Author>Herman van Oosten</Author>
+  <AuthorID>SNUDCZVUQK</AuthorID>
+  <Content>song</Content>
+  <Comments>Around 10 calling Pauraques.</Comments>
+  <Quality>5</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Caprimulgiformes</Order>
+  <Family>Caprimulgidae</Family>
+  <Genus>Nyctidromus</Genus>
+  <Species>albicollis</Species>
+  <Sub-species />
+  <VernacularNames>Pauraque</VernacularNames>
+</Audio>

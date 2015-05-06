@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>9809</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN9809.wav</FileName>
+  <ClassId>wsyiro</ClassId>
+  <Date>2007-06-27</Date>
+  <Time>10:27</Time>
+  <Locality>Reserva Ecológica de Guapiaçu, RJ</Locality>
+  <Latitude>-22.5001</Latitude>
+  <Longitude>-42.7167</Longitude>
+  <Elevation>?</Elevation>
+  <Author>Leonardo Pimentel</Author>
+  <AuthorID>JHBOHGJALL</AuthorID>
+  <Content>Call</Content>
+  <Comments />
+  <Quality>2</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Turdidae</Family>
+  <Genus>Turdus</Genus>
+  <Species>flavipes</Species>
+  <Sub-species />
+  <VernacularNames>Yellow-legged Thrush</VernacularNames>
+</Audio>

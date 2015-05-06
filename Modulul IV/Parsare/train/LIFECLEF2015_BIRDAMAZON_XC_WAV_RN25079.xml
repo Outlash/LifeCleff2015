@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>25079</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN25079.wav</FileName>
+  <ClassId>dgocsv</ClassId>
+  <Date>2007-02-06</Date>
+  <Time>09:18</Time>
+  <Locality>RNA Reinita Cielo Azul, San Vicente de Chucuri, Santander</Locality>
+  <Latitude>6.8464</Latitude>
+  <Longitude>-73.3751</Longitude>
+  <Elevation>1225</Elevation>
+  <Author>Nick Athanas</Author>
+  <AuthorID>XRABICUARW</AuthorID>
+  <Content>call</Content>
+  <Comments>link:http://www.proaves.org/rubrique.php?id_rubrique=78</Comments>
+  <Quality>2</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies>Cyclarhis gujanensis,Thamnophilus multistriatus</BackgroundSpecies>
+  <Order>Psittaciformes</Order>
+  <Family>Psittacidae</Family>
+  <Genus>Forpus</Genus>
+  <Species>conspicillatus</Species>
+  <Sub-species>conspicillatus?</Sub-species>
+  <VernacularNames>Spectacled Parrotlet</VernacularNames>
+</Audio>

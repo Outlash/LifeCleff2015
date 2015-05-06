@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>18067</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN18067.wav</FileName>
+  <ClassId>clakup</ClassId>
+  <Date>2010-01-20</Date>
+  <Time>12:00</Time>
+  <Locality>RPPN Prima Luna, Nova Trento, Santa Catarina</Locality>
+  <Latitude>-27.258</Latitude>
+  <Longitude>-49.02</Longitude>
+  <Elevation>1090</Elevation>
+  <Author>Evair Legal</Author>
+  <AuthorID>SMJXFKLATM</AuthorID>
+  <Content>call</Content>
+  <Comments />
+  <Quality>2</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Tyrannidae</Family>
+  <Genus>Phylloscartes</Genus>
+  <Species>ventralis</Species>
+  <Sub-species />
+  <VernacularNames>Mottle-cheeked Tyrannulet</VernacularNames>
+</Audio>

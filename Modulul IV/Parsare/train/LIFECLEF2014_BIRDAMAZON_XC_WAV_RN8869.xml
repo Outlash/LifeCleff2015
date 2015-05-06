@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>8869</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN8869.wav</FileName>
+  <ClassId>yyjrms</ClassId>
+  <Date>2006-08-27</Date>
+  <Time>8:30</Time>
+  <Locality>Parque Nacional do Catimbau, Buíque, state of Pernambuco</Locality>
+  <Latitude>-8.585095</Latitude>
+  <Longitude>-37.20932</Longitude>
+  <Elevation>800</Elevation>
+  <Author>Mauricio Cabral Periquito</Author>
+  <AuthorID>HERKCTHDZI</AuthorID>
+  <Content>call</Content>
+  <Comments />
+  <Quality>4</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Emberizidae</Family>
+  <Genus>Zonotrichia</Genus>
+  <Species>capensis</Species>
+  <Sub-species />
+  <VernacularNames>Rufous-collared Sparrow</VernacularNames>
+</Audio>

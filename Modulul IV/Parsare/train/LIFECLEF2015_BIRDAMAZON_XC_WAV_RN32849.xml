@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>32849</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN32849.wav</FileName>
+  <ClassId>yxdaxx</ClassId>
+  <Date>2008-02-06</Date>
+  <Time>06:25</Time>
+  <Locality>El canon del Rio Claro, Antioquia</Locality>
+  <Latitude>5.8334</Latitude>
+  <Longitude>-74.8667</Longitude>
+  <Elevation>600</Elevation>
+  <Author>Herman van Oosten</Author>
+  <AuthorID>SNUDCZVUQK</AuthorID>
+  <Content>Song</Content>
+  <Comments>Regularly heard, sometimes seen.</Comments>
+  <Quality>3</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Thamnophilidae</Family>
+  <Genus>Myrmeciza</Genus>
+  <Species>exsul</Species>
+  <Sub-species />
+  <VernacularNames>Chestnut-backed Antbird</VernacularNames>
+</Audio>

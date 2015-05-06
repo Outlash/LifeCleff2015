@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>2273</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN2273.wav</FileName>
+  <ClassId>xipjkx</ClassId>
+  <Date>2009-04-22</Date>
+  <Time>06:30</Time>
+  <Locality>Pq. Ibirapuera, São Paulo, SP</Locality>
+  <Latitude>-23.5889</Latitude>
+  <Longitude>-46.6606</Longitude>
+  <Elevation>760</Elevation>
+  <Author>Marcos Melo</Author>
+  <AuthorID>MRGDYNJGUJ</AuthorID>
+  <Content>call</Content>
+  <Comments>imitating calls of Pitangus sulphuratus and Mimus saturninus</Comments>
+  <Quality>2</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies>Pitangus sulphuratus,Brotogeris tirica</BackgroundSpecies>
+  <Order>Passeriformes</Order>
+  <Family>Icteridae</Family>
+  <Genus>Icterus</Genus>
+  <Species>pyrrhopterus</Species>
+  <Sub-species />
+  <VernacularNames>Variable Oriole</VernacularNames>
+</Audio>

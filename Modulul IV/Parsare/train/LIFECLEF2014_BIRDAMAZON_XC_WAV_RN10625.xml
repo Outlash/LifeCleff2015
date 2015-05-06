@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>10625</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN10625.wav</FileName>
+  <ClassId>arlrfh</ClassId>
+  <Date>2013-03-06</Date>
+  <Time>09:37</Time>
+  <Locality>Barra do Rio Azul, Rio Grande do Sul</Locality>
+  <Latitude>-27.334</Latitude>
+  <Longitude>-52.3947</Longitude>
+  <Elevation>340</Elevation>
+  <Author>Douglas Meyer</Author>
+  <AuthorID>MNENFHYTAE</AuthorID>
+  <Content>song</Content>
+  <Comments>bird-seen:yesplayback-used:no</Comments>
+  <Quality>0</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies />
+  <Order>Cuculiformes</Order>
+  <Family>Cuculidae</Family>
+  <Genus>Crotophaga</Genus>
+  <Species>major</Species>
+  <Sub-species />
+  <VernacularNames>Greater Ani</VernacularNames>
+</Audio>

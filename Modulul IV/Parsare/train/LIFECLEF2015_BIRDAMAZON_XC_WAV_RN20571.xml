@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>20571</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN20571.wav</FileName>
+  <ClassId>rbdxus</ClassId>
+  <Date>2010-10-27</Date>
+  <Time>07:31</Time>
+  <Locality>Saül</Locality>
+  <Latitude>3.6167</Latitude>
+  <Longitude>-53.2001</Longitude>
+  <Elevation>?</Elevation>
+  <Author>Patrick Ingremeau</Author>
+  <AuthorID>IIVTYSKEYX</AuthorID>
+  <Content>song</Content>
+  <Comments />
+  <Quality>1</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Thraupidae</Family>
+  <Genus>Ramphocelus</Genus>
+  <Species>carbo</Species>
+  <Sub-species />
+  <VernacularNames>Silver-beaked Tanager</VernacularNames>
+</Audio>

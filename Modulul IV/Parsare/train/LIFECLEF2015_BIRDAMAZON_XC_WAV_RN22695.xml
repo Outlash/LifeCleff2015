@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>22695</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN22695.wav</FileName>
+  <ClassId>qhsdfp</ClassId>
+  <Date>1998-06-23</Date>
+  <Time>11:23</Time>
+  <Locality>Finca Yerbabuenal (sobre Toche), canon del rio Toche, Tolima</Locality>
+  <Latitude>NULL</Latitude>
+  <Longitude>NULL</Longitude>
+  <Elevation>2400</Elevation>
+  <Author>Bernabe Lopez-Lanus</Author>
+  <AuthorID>BYLLSJRVDZ</AuthorID>
+  <Content>Song</Content>
+  <Comments />
+  <Quality>2</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Grallariidae</Family>
+  <Genus>Grallaricula</Genus>
+  <Species>nana</Species>
+  <Sub-species>nana</Sub-species>
+  <VernacularNames>Slaty-crowned Antpitta</VernacularNames>
+</Audio>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>22597</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN22597.wav</FileName>
+  <ClassId>pprfie</ClassId>
+  <Date>2011-06-13</Date>
+  <Time>11:30</Time>
+  <Locality>Passo de Camaragibe,  Alagoas</Locality>
+  <Latitude>-9.3164</Latitude>
+  <Longitude>-35.4423</Longitude>
+  <Elevation>10</Elevation>
+  <Author>Fernando Igor de Godoy</Author>
+  <AuthorID>CHDHFSVVIN</AuthorID>
+  <Content>song</Content>
+  <Comments>FNJV 20244</Comments>
+  <Quality>0</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Vireonidae</Family>
+  <Genus>Cyclarhis</Genus>
+  <Species>gujanensis</Species>
+  <Sub-species>cearensis</Sub-species>
+  <VernacularNames>Rufous-browed Peppershrike</VernacularNames>
+</Audio>

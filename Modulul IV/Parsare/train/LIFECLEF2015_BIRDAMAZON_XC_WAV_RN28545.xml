@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>28545</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN28545.wav</FileName>
+  <ClassId>vyxqzu</ClassId>
+  <Date>2013-04-24</Date>
+  <Time>11:15</Time>
+  <Locality>Belo Vale, Minas Gerais</Locality>
+  <Latitude>-20.4082</Latitude>
+  <Longitude>-44.0279</Longitude>
+  <Elevation>800</Elevation>
+  <Author>João Antônio de B. Vitto</Author>
+  <AuthorID>RIVNLYTULO</AuthorID>
+  <Content>song</Content>
+  <Comments>bird-seen:yesplayback-used:yes</Comments>
+  <Quality>3</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Thamnophilidae</Family>
+  <Genus>Formicivora</Genus>
+  <Species>serrana</Species>
+  <Sub-species />
+  <VernacularNames>Serra Antwren</VernacularNames>
+</Audio>

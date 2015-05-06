@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>1766</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN1766.wav</FileName>
+  <ClassId>gshgib</ClassId>
+  <Date>2004-02-20</Date>
+  <Time>xx:xx</Time>
+  <Locality>Puente antes del Puesto de Avanzada (Agulhas negras), Planalto, PN Itatiaia, Rio de Janeiro</Locality>
+  <Latitude>NULL</Latitude>
+  <Longitude>NULL</Longitude>
+  <Elevation>2305</Elevation>
+  <Author>Bernabe Lopez-Lanus</Author>
+  <AuthorID>BYLLSJRVDZ</AuthorID>
+  <Content>Song</Content>
+  <Comments />
+  <Quality>0</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Furnariidae</Family>
+  <Genus>Asthenes</Genus>
+  <Species>moreirae</Species>
+  <Sub-species />
+  <VernacularNames>Itatiaia Spinetail</VernacularNames>
+</Audio>

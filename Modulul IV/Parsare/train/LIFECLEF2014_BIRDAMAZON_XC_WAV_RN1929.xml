@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>1929</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN1929.wav</FileName>
+  <ClassId>vvhcgg</ClassId>
+  <Date>2009-06-08</Date>
+  <Time>9:00am</Time>
+  <Locality>Caxias do Sul, Rio Grande do Sul</Locality>
+  <Latitude>-29.1667</Latitude>
+  <Longitude>-51.2001</Longitude>
+  <Elevation>500</Elevation>
+  <Author>Cristiano Dalla-Rosa</Author>
+  <AuthorID>FAHFLLKJRH</AuthorID>
+  <Content>?</Content>
+  <Comments />
+  <Quality>4</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Thraupidae</Family>
+  <Genus>Poospiza</Genus>
+  <Species>cabanisi</Species>
+  <Sub-species />
+  <VernacularNames>Grey-throated Warbling Finch</VernacularNames>
+</Audio>

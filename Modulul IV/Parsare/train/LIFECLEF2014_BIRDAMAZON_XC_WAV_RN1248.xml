@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>1248</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN1248.wav</FileName>
+  <ClassId>wkjlrj</ClassId>
+  <Date>2005-11-00</Date>
+  <Time>09:30</Time>
+  <Locality>Campo do Café, Praia de Boracéia, Bertioga, São Paulo</Locality>
+  <Latitude>-23.7564</Latitude>
+  <Longitude>-45.8737</Longitude>
+  <Elevation>8</Elevation>
+  <Author>Guilherme R R Brito</Author>
+  <AuthorID>OAYOBWYOOM</AuthorID>
+  <Content>lekking</Content>
+  <Comments />
+  <Quality>2</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Pipridae</Family>
+  <Genus>Manacus</Genus>
+  <Species>manacus</Species>
+  <Sub-species />
+  <VernacularNames>White-bearded Manakin</VernacularNames>
+</Audio>

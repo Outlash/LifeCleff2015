@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>30391</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN30391.wav</FileName>
+  <ClassId>uhwmky</ClassId>
+  <Date>2013-03-25</Date>
+  <Time>06:30</Time>
+  <Locality>Parque Natural Tatama</Locality>
+  <Latitude>5.113</Latitude>
+  <Longitude>-76.165</Longitude>
+  <Elevation>2500</Elevation>
+  <Author>Oswaldo Cortes</Author>
+  <AuthorID>VVDRVZCVWW</AuthorID>
+  <Content>song</Content>
+  <Comments>bird-seen:yesplayback-used:no</Comments>
+  <Quality>1</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Tyrannidae</Family>
+  <Genus>Lophotriccus</Genus>
+  <Species>pileatus</Species>
+  <Sub-species />
+  <VernacularNames>Scale-crested Pygmy Tyrant</VernacularNames>
+</Audio>

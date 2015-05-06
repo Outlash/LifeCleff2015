@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>27795</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN27795.wav</FileName>
+  <ClassId>jrnnqp</ClassId>
+  <Date>2011-07-01</Date>
+  <Time>07:50</Time>
+  <Locality>5Brasília National Park, Brasília/DF.</Locality>
+  <Latitude>-15.6423</Latitude>
+  <Longitude>-48.0181</Longitude>
+  <Elevation>1208</Elevation>
+  <Author>Fernando Fávaro</Author>
+  <AuthorID>QTNGUZTTQM</AuthorID>
+  <Content>Song</Content>
+  <Comments>Cerrado (campo sujo).</Comments>
+  <Quality>2</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Thraupidae</Family>
+  <Genus>Cypsnagra</Genus>
+  <Species>hirundinacea</Species>
+  <Sub-species />
+  <VernacularNames>White-rumped Tanager</VernacularNames>
+</Audio>

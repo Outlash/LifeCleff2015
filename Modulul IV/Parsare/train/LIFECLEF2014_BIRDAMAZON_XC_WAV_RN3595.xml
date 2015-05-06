@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>3595</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN3595.wav</FileName>
+  <ClassId>pjuaxh</ClassId>
+  <Date>2011-07-18</Date>
+  <Time>17:00</Time>
+  <Locality>Almeirim/Pará</Locality>
+  <Latitude>-1.095</Latitude>
+  <Longitude>-52.653</Longitude>
+  <Elevation>80</Elevation>
+  <Author>Christian B. Andretti</Author>
+  <AuthorID>EZSMXGTXKS</AuthorID>
+  <Content>song</Content>
+  <Comments>Bituba - Selective Loggingbird-seen:noplayback-used:no</Comments>
+  <Quality>0</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies>Coereba flaveola</BackgroundSpecies>
+  <Order>Trogoniformes</Order>
+  <Family>Trogonidae</Family>
+  <Genus>Trogon</Genus>
+  <Species>viridis</Species>
+  <Sub-species>viridis</Sub-species>
+  <VernacularNames>Green-backed Trogon</VernacularNames>
+</Audio>

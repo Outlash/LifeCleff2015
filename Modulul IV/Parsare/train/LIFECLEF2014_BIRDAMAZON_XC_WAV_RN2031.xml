@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>2031</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN2031.wav</FileName>
+  <ClassId>mkqlxe</ClassId>
+  <Date>2005-04-07</Date>
+  <Time>16:40</Time>
+  <Locality>Reserva Ecológica de Guapiaçu, RJ</Locality>
+  <Latitude>-22.5001</Latitude>
+  <Longitude>-42.7167</Longitude>
+  <Elevation>50</Elevation>
+  <Author>Nick Athanas</Author>
+  <AuthorID>XRABICUARW</AuthorID>
+  <Content>call</Content>
+  <Comments />
+  <Quality>1</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies>Myiarchus ferox,Leptotila verreauxi</BackgroundSpecies>
+  <Order>Passeriformes</Order>
+  <Family>Tyrannidae</Family>
+  <Genus>Myiozetetes</Genus>
+  <Species>similis</Species>
+  <Sub-species>pallidiventris</Sub-species>
+  <VernacularNames>Social Flycatcher</VernacularNames>
+</Audio>

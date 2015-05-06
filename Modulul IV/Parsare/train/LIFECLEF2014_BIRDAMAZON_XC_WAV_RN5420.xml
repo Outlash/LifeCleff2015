@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>5420</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN5420.wav</FileName>
+  <ClassId>kuggpr</ClassId>
+  <Date>2002-08-12</Date>
+  <Time>15:00</Time>
+  <Locality>Parque Estadual Intervales. Barra Grande</Locality>
+  <Latitude>-24.2667</Latitude>
+  <Longitude>-48.3834</Longitude>
+  <Elevation>800</Elevation>
+  <Author>Jeremy Minns</Author>
+  <AuthorID>DGVLLRYDXS</AuthorID>
+  <Content>Call</Content>
+  <Comments>Call A. Classification as in our DVD-ROM 'Birds of Brazil' Secondary montane forest edge. Female.</Comments>
+  <Quality>1</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Thamnophilidae</Family>
+  <Genus>Batara</Genus>
+  <Species>cinerea</Species>
+  <Sub-species>cinerea</Sub-species>
+  <VernacularNames>Giant Antshrike</VernacularNames>
+</Audio>

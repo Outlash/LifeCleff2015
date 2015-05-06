@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>12063</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN12063.wav</FileName>
+  <ClassId>jnqggx</ClassId>
+  <Date>2003-12-01</Date>
+  <Time>05:13</Time>
+  <Locality>Cristalino Jungle Lodge, MT</Locality>
+  <Latitude>-9.5981</Latitude>
+  <Longitude>-55.932</Longitude>
+  <Elevation>250</Elevation>
+  <Author>Jeremy Minns</Author>
+  <AuthorID>DGVLLRYDXS</AuthorID>
+  <Content>Call</Content>
+  <Comments>Seasonally flooded forest beside river. Natural and after playback.</Comments>
+  <Quality>2</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies>Habia rubica</BackgroundSpecies>
+  <Order>Passeriformes</Order>
+  <Family>Furnariidae</Family>
+  <Genus>Glyphorynchus</Genus>
+  <Species>spirurus</Species>
+  <Sub-species>inornatus</Sub-species>
+  <VernacularNames>Wedge-billed Woodcreeper</VernacularNames>
+</Audio>

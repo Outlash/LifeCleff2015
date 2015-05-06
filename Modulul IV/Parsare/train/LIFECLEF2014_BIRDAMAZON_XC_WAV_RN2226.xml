@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>2226</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN2226.wav</FileName>
+  <ClassId>brsyrr</ClassId>
+  <Date>2005-10-00</Date>
+  <Time>morning</Time>
+  <Locality>Itamonte,Minas Gerais State - near road 354</Locality>
+  <Latitude>-22.375</Latitude>
+  <Longitude>-44.769</Longitude>
+  <Elevation>1.800</Elevation>
+  <Author>Antonio Silveira</Author>
+  <AuthorID>NBJQSQJRYH</AuthorID>
+  <Content>song</Content>
+  <Comments />
+  <Quality>1</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Vireonidae</Family>
+  <Genus>Hylophilus</Genus>
+  <Species>poicilotis</Species>
+  <Sub-species />
+  <VernacularNames>Rufous-crowned Greenlet</VernacularNames>
+</Audio>

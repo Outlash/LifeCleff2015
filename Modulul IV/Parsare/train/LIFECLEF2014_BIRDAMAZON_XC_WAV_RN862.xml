@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>862</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN862.wav</FileName>
+  <ClassId>dkinxl</ClassId>
+  <Date>2010-08-23</Date>
+  <Time>06:20</Time>
+  <Locality>Campos do Jordao State Park, Sao Paulo state</Locality>
+  <Latitude>-22.6681</Latitude>
+  <Longitude>-45.5031</Longitude>
+  <Elevation>?</Elevation>
+  <Author>Marcos Melo</Author>
+  <AuthorID>MRGDYNJGUJ</AuthorID>
+  <Content>perched calls</Content>
+  <Comments />
+  <Quality>2</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies />
+  <Order>Psittaciformes</Order>
+  <Family>Psittacidae</Family>
+  <Genus>Amazona</Genus>
+  <Species>vinacea</Species>
+  <Sub-species />
+  <VernacularNames>Vinaceous-breasted Amazon</VernacularNames>
+</Audio>

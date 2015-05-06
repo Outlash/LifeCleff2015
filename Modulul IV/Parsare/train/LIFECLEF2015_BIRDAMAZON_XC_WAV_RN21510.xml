@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>21510</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN21510.wav</FileName>
+  <ClassId>kleweo</ClassId>
+  <Date>2008-07-24</Date>
+  <Time>10:00</Time>
+  <Locality>Novo Progresso, state of Pará</Locality>
+  <Latitude>-7.1501</Latitude>
+  <Longitude>-55.4834</Longitude>
+  <Elevation>100</Elevation>
+  <Author>Sidnei dantas</Author>
+  <AuthorID>NNCKQMBGPH</AuthorID>
+  <Content>song</Content>
+  <Comments>land forest.</Comments>
+  <Quality>2</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies>Saltator grossus,Myrmotherula sclateri,Myrmotherula brachyura,Hylophilus hypoxanthus</BackgroundSpecies>
+  <Order>Passeriformes</Order>
+  <Family>Icteridae</Family>
+  <Genus>Psarocolius</Genus>
+  <Species>bifasciatus</Species>
+  <Sub-species />
+  <VernacularNames>Olive Oropendola</VernacularNames>
+</Audio>

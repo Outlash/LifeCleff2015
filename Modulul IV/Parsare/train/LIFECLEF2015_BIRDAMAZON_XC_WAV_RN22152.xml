@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>22152</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN22152.wav</FileName>
+  <ClassId>ppdwrk</ClassId>
+  <Date>1992-08-13</Date>
+  <Time>08:00</Time>
+  <Locality>Rio Salobra,Miranda,Mato Grosso do Sul State</Locality>
+  <Latitude>-20.216</Latitude>
+  <Longitude>-56.494</Longitude>
+  <Elevation>120</Elevation>
+  <Author>Antonio Silveira</Author>
+  <AuthorID>NBJQSQJRYH</AuthorID>
+  <Content>call, male, song</Content>
+  <Comments>male flying over the river.bird-seen:yesplayback-used:no</Comments>
+  <Quality>2</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Coraciiformes</Order>
+  <Family>Alcedinidae</Family>
+  <Genus>Chloroceryle</Genus>
+  <Species>amazona</Species>
+  <Sub-species />
+  <VernacularNames>Amazon Kingfisher</VernacularNames>
+</Audio>

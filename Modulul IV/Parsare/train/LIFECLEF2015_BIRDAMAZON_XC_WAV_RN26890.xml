@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>26890</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN26890.wav</FileName>
+  <ClassId>xfkpxa</ClassId>
+  <Date>2008-02-05</Date>
+  <Time>10:35</Time>
+  <Locality>El canon del Rio Claro, Antioquia</Locality>
+  <Latitude>5.8334</Latitude>
+  <Longitude>-74.8667</Longitude>
+  <Elevation>600</Elevation>
+  <Author>Herman van Oosten</Author>
+  <AuthorID>SNUDCZVUQK</AuthorID>
+  <Content>?</Content>
+  <Comments>Well, one bird, one call and no crest...not the stunner I expected!</Comments>
+  <Quality>3</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Cardinalidae</Family>
+  <Genus>Habia</Genus>
+  <Species>gutturalis</Species>
+  <Sub-species />
+  <VernacularNames>Sooty Ant Tanager</VernacularNames>
+</Audio>

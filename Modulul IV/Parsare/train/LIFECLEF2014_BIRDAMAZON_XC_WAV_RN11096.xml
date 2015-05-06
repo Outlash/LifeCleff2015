@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>11096</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN11096.wav</FileName>
+  <ClassId>xsdgpb</ClassId>
+  <Date>2001-11-08</Date>
+  <Time>10:00</Time>
+  <Locality>Boa Nova, Wet Forest, state of Bahia</Locality>
+  <Latitude>-14.3834</Latitude>
+  <Longitude>-40.1001</Longitude>
+  <Elevation>825</Elevation>
+  <Author>Jeremy Minns</Author>
+  <AuthorID>DGVLLRYDXS</AuthorID>
+  <Content>Song</Content>
+  <Comments>Humid forest. After playback.</Comments>
+  <Quality>1</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Furnariidae</Family>
+  <Genus>Dendrocolaptes</Genus>
+  <Species>platyrostris</Species>
+  <Sub-species>platyrostris</Sub-species>
+  <VernacularNames>Planalto Woodcreeper</VernacularNames>
+</Audio>

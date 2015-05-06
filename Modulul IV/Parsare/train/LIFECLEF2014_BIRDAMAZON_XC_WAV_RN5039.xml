@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>5039</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN5039.wav</FileName>
+  <ClassId>oozajf</ClassId>
+  <Date>2004-02-23</Date>
+  <Time>xx:xx</Time>
+  <Locality>Itatiaia National Park - Simon Hotel</Locality>
+  <Latitude>-22.3798</Latitude>
+  <Longitude>-44.6301</Longitude>
+  <Elevation>2300</Elevation>
+  <Author>Bernabe Lopez-Lanus</Author>
+  <AuthorID>BYLLSJRVDZ</AuthorID>
+  <Content>Song</Content>
+  <Comments />
+  <Quality>2</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies />
+  <Order>Tinamiformes</Order>
+  <Family>Tinamidae</Family>
+  <Genus>Crypturellus</Genus>
+  <Species>obsoletus</Species>
+  <Sub-species>obsoletus</Sub-species>
+  <VernacularNames>Brown Tinamou</VernacularNames>
+</Audio>

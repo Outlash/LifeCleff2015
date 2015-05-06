@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>7500</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN7500.wav</FileName>
+  <ClassId>aiiwiu</ClassId>
+  <Date>2011-07-23</Date>
+  <Time>8:15</Time>
+  <Locality>Iporá, State of Goiás</Locality>
+  <Latitude>-16.445634</Latitude>
+  <Longitude>-51.120071</Longitude>
+  <Elevation>650</Elevation>
+  <Author>Daniel Blamires</Author>
+  <AuthorID>ZLNOGADASD</AuthorID>
+  <Content>song</Content>
+  <Comments />
+  <Quality>3</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies>Passer domesticus</BackgroundSpecies>
+  <Order>Psittaciformes</Order>
+  <Family>Psittacidae</Family>
+  <Genus>Psittacara</Genus>
+  <Species>leucophthalmus</Species>
+  <Sub-species />
+  <VernacularNames>White-eyed Parakeet</VernacularNames>
+</Audio>

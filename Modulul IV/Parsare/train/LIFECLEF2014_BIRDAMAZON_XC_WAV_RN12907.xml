@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>12907</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN12907.wav</FileName>
+  <ClassId>nabmpi</ClassId>
+  <Date>2002-02-08</Date>
+  <Time>08:53</Time>
+  <Locality>Correntina, BA</Locality>
+  <Latitude>-13.3501</Latitude>
+  <Longitude>-44.6334</Longitude>
+  <Elevation>450</Elevation>
+  <Author>Jeremy Minns</Author>
+  <AuthorID>DGVLLRYDXS</AuthorID>
+  <Content>Song</Content>
+  <Comments>Between Correntina and Jaborandi. Beside lake and marsh in farmland.</Comments>
+  <Quality>3</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies>Leptotila verreauxi</BackgroundSpecies>
+  <Order>Passeriformes</Order>
+  <Family>Furnariidae</Family>
+  <Genus>Furnarius</Genus>
+  <Species>rufus</Species>
+  <Sub-species>albogularis</Sub-species>
+  <VernacularNames>Rufous Hornero</VernacularNames>
+</Audio>

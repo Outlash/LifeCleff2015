@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>12895</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN12895.wav</FileName>
+  <ClassId>qldqit</ClassId>
+  <Date>2002-09-11</Date>
+  <Time>14:08</Time>
+  <Locality>Serra dos Órgãos National Park. Guapimirim</Locality>
+  <Latitude>-22.495</Latitude>
+  <Longitude>-43.0005</Longitude>
+  <Elevation>300</Elevation>
+  <Author>Jeremy Minns</Author>
+  <AuthorID>DGVLLRYDXS</AuthorID>
+  <Content>Call</Content>
+  <Comments>Natural scold by a bird which appeared agitated by the presence of an Ochre-breasted Foliage-gleaner, possibly near its nest. This is Call D in our DVD-ROM 'Birds of Brazil'.</Comments>
+  <Quality>1</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Furnariidae</Family>
+  <Genus>Philydor</Genus>
+  <Species>atricapillus</Species>
+  <Sub-species />
+  <VernacularNames>Black-capped Foliage-gleaner</VernacularNames>
+</Audio>

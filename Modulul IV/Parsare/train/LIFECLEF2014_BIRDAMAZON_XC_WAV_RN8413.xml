@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>8413</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN8413.wav</FileName>
+  <ClassId>feohaf</ClassId>
+  <Date>2010-08-23</Date>
+  <Time>08:30</Time>
+  <Locality>Reserva Ecológica de Guapiaçu, RJ</Locality>
+  <Latitude>-22.5001</Latitude>
+  <Longitude>-42.7167</Longitude>
+  <Elevation>50</Elevation>
+  <Author>Ricardo Gagliardi</Author>
+  <AuthorID>YRDADNREOP</AuthorID>
+  <Content>song</Content>
+  <Comments />
+  <Quality>1</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies>Pitangus sulphuratus,Tapera naevia,Cantorchilus longirostris</BackgroundSpecies>
+  <Order>Passeriformes</Order>
+  <Family>Tyrannidae</Family>
+  <Genus>Elaenia</Genus>
+  <Species>flavogaster</Species>
+  <Sub-species />
+  <VernacularNames>Yellow-bellied Elaenia</VernacularNames>
+</Audio>

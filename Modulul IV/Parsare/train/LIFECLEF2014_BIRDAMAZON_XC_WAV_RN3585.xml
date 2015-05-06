@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>3585</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN3585.wav</FileName>
+  <ClassId>bpyrxb</ClassId>
+  <Date>2009-09-16</Date>
+  <Time>07:10</Time>
+  <Locality>Cristalino Jungle Lodge, MT</Locality>
+  <Latitude>-9.5981</Latitude>
+  <Longitude>-55.932</Longitude>
+  <Elevation>250</Elevation>
+  <Author>Andrew Spencer</Author>
+  <AuthorID>CDTGHVBGZP</AuthorID>
+  <Content>call</Content>
+  <Comments>two call types in this cut</Comments>
+  <Quality>1</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Tyrannidae</Family>
+  <Genus>Myiornis</Genus>
+  <Species>ecaudatus</Species>
+  <Sub-species />
+  <VernacularNames>Short-tailed Pygmy Tyrant</VernacularNames>
+</Audio>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>11288</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN11288.wav</FileName>
+  <ClassId>perzmu</ClassId>
+  <Date>2013-09-28</Date>
+  <Time>10:00</Time>
+  <Locality>Instituto Butantan, São Paulo city, São Paulo State</Locality>
+  <Latitude>-23.565</Latitude>
+  <Longitude>-46.728</Longitude>
+  <Elevation>750</Elevation>
+  <Author>Antonio Silveira</Author>
+  <AuthorID>NBJQSQJRYH</AuthorID>
+  <Content>song</Content>
+  <Comments>Adult after play-back.bird-seen:yesplayback-used:yes</Comments>
+  <Quality>2</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Coerebidae</Family>
+  <Genus>Coereba</Genus>
+  <Species>flaveola</Species>
+  <Sub-species />
+  <VernacularNames>Bananaquit</VernacularNames>
+</Audio>

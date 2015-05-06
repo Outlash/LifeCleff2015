@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>17872</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN17872.wav</FileName>
+  <ClassId>vsvcnk</ClassId>
+  <Date>2006-06-17</Date>
+  <Time>?:?</Time>
+  <Locality>Awala-Yalimapo, digue</Locality>
+  <Latitude>5.73778</Latitude>
+  <Longitude>-53.945961</Longitude>
+  <Elevation>2</Elevation>
+  <Author>Alexandre Renaudier</Author>
+  <AuthorID>GKADEITXTH</AuthorID>
+  <Content>call</Content>
+  <Comments>natural recording</Comments>
+  <Quality>2</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies>Crotophaga ani,Hylophilus pectoralis</BackgroundSpecies>
+  <Order>Psittaciformes</Order>
+  <Family>Psittacidae</Family>
+  <Genus>Eupsittula</Genus>
+  <Species>pertinax</Species>
+  <Sub-species>surinama</Sub-species>
+  <VernacularNames>Brown-throated Parakeet</VernacularNames>
+</Audio>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>27432</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN27432.wav</FileName>
+  <ClassId>obvdbc</ClassId>
+  <Date>2010-07-03</Date>
+  <Time>08:04</Time>
+  <Locality>Montagne de Kaw - Roura</Locality>
+  <Latitude>NULL</Latitude>
+  <Longitude>NULL</Longitude>
+  <Elevation>?</Elevation>
+  <Author>Patrick INGREMEAU</Author>
+  <AuthorID>IIVTYSKEYX</AuthorID>
+  <Content>Alarm call</Content>
+  <Comments />
+  <Quality>0</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Piciformes</Order>
+  <Family>Picidae</Family>
+  <Genus>Campephilus</Genus>
+  <Species>rubricollis</Species>
+  <Sub-species />
+  <VernacularNames>Red-necked Woodpecker</VernacularNames>
+</Audio>

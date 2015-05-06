@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>27004</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN27004.wav</FileName>
+  <ClassId>zptkey</ClassId>
+  <Date>2008-09-01</Date>
+  <Time>10:30</Time>
+  <Locality>Achaguas, Apure</Locality>
+  <Latitude>7.4943</Latitude>
+  <Longitude>-67.8362</Longitude>
+  <Elevation>50</Elevation>
+  <Author>Joe Klaiber</Author>
+  <AuthorID>TNPOVFLZMY</AuthorID>
+  <Content>song</Content>
+  <Comments>bird-seen:yes</Comments>
+  <Quality>2</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Tyrannidae</Family>
+  <Genus>Myiarchus</Genus>
+  <Species>tuberculifer</Species>
+  <Sub-species />
+  <VernacularNames>Dusky-capped Flycatcher</VernacularNames>
+</Audio>

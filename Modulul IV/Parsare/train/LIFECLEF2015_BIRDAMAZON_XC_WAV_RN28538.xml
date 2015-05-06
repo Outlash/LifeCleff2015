@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>28538</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN28538.wav</FileName>
+  <ClassId>bjvdzx</ClassId>
+  <Date>1985-04-08</Date>
+  <Time>?</Time>
+  <Locality>San Carlos del Rio Negro, Amazonas</Locality>
+  <Latitude>1.9201</Latitude>
+  <Longitude>-67.0606</Longitude>
+  <Elevation>119</Elevation>
+  <Author>Chris Parrish</Author>
+  <AuthorID>IHIOGGZVQA</AuthorID>
+  <Content>Antiphonal duets.</Content>
+  <Comments />
+  <Quality>3</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Troglodytidae</Family>
+  <Genus>Pheugopedius</Genus>
+  <Species>coraya</Species>
+  <Sub-species>caurensis</Sub-species>
+  <VernacularNames>Coraya Wren</VernacularNames>
+</Audio>

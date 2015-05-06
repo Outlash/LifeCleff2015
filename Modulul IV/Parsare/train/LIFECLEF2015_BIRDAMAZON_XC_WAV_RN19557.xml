@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>19557</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN19557.wav</FileName>
+  <ClassId>ayfewp</ClassId>
+  <Date>2013-05-13</Date>
+  <Time>06:30</Time>
+  <Locality>Altaquer, RN Rio Nambi, Narino</Locality>
+  <Latitude>1.3001</Latitude>
+  <Longitude>-78.0834</Longitude>
+  <Elevation>1400</Elevation>
+  <Author>Oscar Humberto Marin-Gomez</Author>
+  <AuthorID>CSUHASNRSU</AuthorID>
+  <Content>Distress calls, song</Content>
+  <Comments>Llamados de estrés de un individuo capturado en red de niebla. Número de Catalogo OHM 1213bird-seen:yesplayback-used:no</Comments>
+  <Quality>1</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Emberizidae</Family>
+  <Genus>Arremon</Genus>
+  <Species>brunneinucha</Species>
+  <Sub-species />
+  <VernacularNames>Chestnut-capped Brush Finch</VernacularNames>
+</Audio>

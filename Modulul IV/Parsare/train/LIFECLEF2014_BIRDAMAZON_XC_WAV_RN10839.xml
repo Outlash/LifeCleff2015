@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>10839</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN10839.wav</FileName>
+  <ClassId>rstljd</ClassId>
+  <Date>2003-03-30</Date>
+  <Time>09:41</Time>
+  <Locality>Guajará-Mirim, RO</Locality>
+  <Latitude>-10.8814</Latitude>
+  <Longitude>-65.2501</Longitude>
+  <Elevation>130</Elevation>
+  <Author>Jeremy Minns</Author>
+  <AuthorID>DGVLLRYDXS</AuthorID>
+  <Content>call, song</Content>
+  <Comments>Terra firme forest composed of closely spaced trees with thin trunks.</Comments>
+  <Quality>2</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies>Pheugopedius genibarbis</BackgroundSpecies>
+  <Order>Passeriformes</Order>
+  <Family>Tyrannidae</Family>
+  <Genus>Hemitriccus</Genus>
+  <Species>minor</Species>
+  <Sub-species>snethlageae</Sub-species>
+  <VernacularNames>Snethlage's Tody-Tyrant</VernacularNames>
+</Audio>

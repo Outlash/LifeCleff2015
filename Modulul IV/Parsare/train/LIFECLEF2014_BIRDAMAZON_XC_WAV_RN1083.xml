@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>1083</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN1083.wav</FileName>
+  <ClassId>zxtbno</ClassId>
+  <Date>2011-09-12</Date>
+  <Time>05:43</Time>
+  <Locality>Cristalino Jungle Lodge, MT</Locality>
+  <Latitude>-9.5981</Latitude>
+  <Longitude>-55.932</Longitude>
+  <Elevation>260</Elevation>
+  <Author>Eric DeFonso</Author>
+  <AuthorID>KTLCZCRCQX</AuthorID>
+  <Content>song</Content>
+  <Comments>Extended cut of natural song. Terra firme forest.bird-seen:noplayback-used:no</Comments>
+  <Quality>1</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Furnariidae</Family>
+  <Genus>Automolus</Genus>
+  <Species>paraensis</Species>
+  <Sub-species />
+  <VernacularNames>Para Foliage-gleaner</VernacularNames>
+</Audio>

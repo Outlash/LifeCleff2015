@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>13266</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN13266.wav</FileName>
+  <ClassId>inyngh</ClassId>
+  <Date>2006-02-04</Date>
+  <Time>07:30</Time>
+  <Locality>Parque do Zizo, Sao Paulo state</Locality>
+  <Latitude>-24.017146</Latitude>
+  <Longitude>-47.81044</Longitude>
+  <Elevation>650</Elevation>
+  <Author>Jeremy Minns</Author>
+  <AuthorID>DGVLLRYDXS</AuthorID>
+  <Content>Song</Content>
+  <Comments>Open area in humid forest. Male singing on top of a small tree.</Comments>
+  <Quality>1</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies>Phyllomyias burmeisteri,Saltator fuliginosus</BackgroundSpecies>
+  <Order>Passeriformes</Order>
+  <Family>Thraupidae</Family>
+  <Genus>Tachyphonus</Genus>
+  <Species>coronatus</Species>
+  <Sub-species />
+  <VernacularNames>Ruby-crowned Tanager</VernacularNames>
+</Audio>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>26120</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN26120.wav</FileName>
+  <ClassId>cvbpum</ClassId>
+  <Date>2010-06-24</Date>
+  <Time>08:00</Time>
+  <Locality>El 18, Valle del Cauca</Locality>
+  <Latitude>3.4853</Latitude>
+  <Longitude>-76.6178</Longitude>
+  <Elevation>1800</Elevation>
+  <Author>Andrew Spencer</Author>
+  <AuthorID>CDTGHVBGZP</AuthorID>
+  <Content>call</Content>
+  <Comments />
+  <Quality>1</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Furnariidae</Family>
+  <Genus>Thripadectes</Genus>
+  <Species>virgaticeps</Species>
+  <Sub-species>sclateri</Sub-species>
+  <VernacularNames>Streak-capped Treehunter</VernacularNames>
+</Audio>

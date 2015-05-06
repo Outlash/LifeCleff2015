@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>20692</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN20692.wav</FileName>
+  <ClassId>loriov</ClassId>
+  <Date>2007-03-18</Date>
+  <Time>05:30</Time>
+  <Locality>Maturin-La Pica</Locality>
+  <Latitude>9.857</Latitude>
+  <Longitude>-63.035</Longitude>
+  <Elevation>50</Elevation>
+  <Author>Doug Knapp</Author>
+  <AuthorID>BHRXQZEQFL</AuthorID>
+  <Content>Song</Content>
+  <Comments>No playback.</Comments>
+  <Quality>2</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies>Glaucidium brasilianum</BackgroundSpecies>
+  <Order>Strigiformes</Order>
+  <Family>Strigidae</Family>
+  <Genus>Pulsatrix</Genus>
+  <Species>perspicillata</Species>
+  <Sub-species />
+  <VernacularNames>Spectacled Owl</VernacularNames>
+</Audio>

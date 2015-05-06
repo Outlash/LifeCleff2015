@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>12262</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN12262.wav</FileName>
+  <ClassId>uytsig</ClassId>
+  <Date>2001-11-10</Date>
+  <Time>05:10</Time>
+  <Locality>Mata do Crasto, Município de Santa Luzia do Itanhy, Sergipe</Locality>
+  <Latitude>-11.3834</Latitude>
+  <Longitude>-37.4001</Longitude>
+  <Elevation>10</Elevation>
+  <Author>Jeremy Minns</Author>
+  <AuthorID>DGVLLRYDXS</AuthorID>
+  <Content>Call</Content>
+  <Comments>Road between Sta. Luzia do Itanhi and Crasto. Edge of humid forest on white sand. This is Call C in our DVD-ROM 'Birds of Brazil'.</Comments>
+  <Quality>1</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies>Vireo olivaceus,Pheugopedius genibarbis</BackgroundSpecies>
+  <Order>Passeriformes</Order>
+  <Family>Turdidae</Family>
+  <Genus>Turdus</Genus>
+  <Species>leucomelas</Species>
+  <Sub-species>albiventer</Sub-species>
+  <VernacularNames>Pale-breasted Thrush</VernacularNames>
+</Audio>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>9663</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN9663.wav</FileName>
+  <ClassId>dccvuj</ClassId>
+  <Date>2007-09-27</Date>
+  <Time>09:00</Time>
+  <Locality>Fazenda Montanhas do Japí,Serra do Japí,Jundiai,São Paulo State</Locality>
+  <Latitude>-23.245</Latitude>
+  <Longitude>-46.912</Longitude>
+  <Elevation>900</Elevation>
+  <Author>Antonio Silveira</Author>
+  <AuthorID>NBJQSQJRYH</AuthorID>
+  <Content>call, song</Content>
+  <Comments>bird-seen:noplayback-used:no</Comments>
+  <Quality>0</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies />
+  <Order>Gruiformes</Order>
+  <Family>Rallidae</Family>
+  <Genus>Pardirallus</Genus>
+  <Species>nigricans</Species>
+  <Sub-species />
+  <VernacularNames>Blackish Rail</VernacularNames>
+</Audio>

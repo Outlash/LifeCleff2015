@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>14153</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN14153.wav</FileName>
+  <ClassId>yvjvsl</ClassId>
+  <Date>2009-08-27</Date>
+  <Time>16:30</Time>
+  <Locality>Cristalino Jungle Lodge, MT</Locality>
+  <Latitude>-9.5981</Latitude>
+  <Longitude>-55.932</Longitude>
+  <Elevation>250</Elevation>
+  <Author>Andrew Spencer</Author>
+  <AuthorID>CDTGHVBGZP</AuthorID>
+  <Content>call</Content>
+  <Comments />
+  <Quality>1</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Psittaciformes</Order>
+  <Family>Psittacidae</Family>
+  <Genus>Amazona</Genus>
+  <Species>kawalli</Species>
+  <Sub-species />
+  <VernacularNames>Kawall's Amazon</VernacularNames>
+</Audio>

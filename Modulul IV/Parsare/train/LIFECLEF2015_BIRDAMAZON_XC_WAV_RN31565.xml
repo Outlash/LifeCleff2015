@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>31565</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN31565.wav</FileName>
+  <ClassId>buacoa</ClassId>
+  <Date>2013-01-25</Date>
+  <Time>12:00</Time>
+  <Locality>Villavicencio, Meta</Locality>
+  <Latitude>4.1821</Latitude>
+  <Longitude>-73.6489</Longitude>
+  <Elevation>800</Elevation>
+  <Author>Ottavio Janni</Author>
+  <AuthorID>PWMAZXONXH</AuthorID>
+  <Content>song</Content>
+  <Comments>Thanks to Dan Lane for solving the ID on the mystery sounds forumbird-seen:yesplayback-used:yes</Comments>
+  <Quality>2</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Thamnophilidae</Family>
+  <Genus>Cercomacra</Genus>
+  <Species>tyrannina</Species>
+  <Sub-species />
+  <VernacularNames>Dusky Antbird</VernacularNames>
+</Audio>

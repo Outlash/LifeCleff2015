@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>9954</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN9954.wav</FileName>
+  <ClassId>kpfbdp</ClassId>
+  <Date>1997-09-03</Date>
+  <Time>17:15</Time>
+  <Locality>Cristalino Jungle Lodge, MT</Locality>
+  <Latitude>-9.5981</Latitude>
+  <Longitude>-55.932</Longitude>
+  <Elevation>250</Elevation>
+  <Author>Jeremy Minns</Author>
+  <AuthorID>DGVLLRYDXS</AuthorID>
+  <Content>Song</Content>
+  <Comments>Beside lodge. From pontoon.</Comments>
+  <Quality>2</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies />
+  <Order>Cuculiformes</Order>
+  <Family>Cuculidae</Family>
+  <Genus>Dromococcyx</Genus>
+  <Species>phasianellus</Species>
+  <Sub-species />
+  <VernacularNames>Pheasant Cuckoo</VernacularNames>
+</Audio>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>10819</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN10819.wav</FileName>
+  <ClassId>gkpnfs</ClassId>
+  <Date>2009-03-21</Date>
+  <Time>06:40</Time>
+  <Locality>Taquaril - Petrópolis - RJ</Locality>
+  <Latitude>-22.3023</Latitude>
+  <Longitude>-43.077</Longitude>
+  <Elevation>1000</Elevation>
+  <Author>Ricardo Gagliardi</Author>
+  <AuthorID>YRDADNREOP</AuthorID>
+  <Content>song</Content>
+  <Comments>Pousada Paraíso area.  Listen at 2 sec. P. picazuro and at 17 sec. P. cayennensis.</Comments>
+  <Quality>2</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies>Leptotila verreauxi,Patagioenas cayennensis</BackgroundSpecies>
+  <Order>Columbiformes</Order>
+  <Family>Columbidae</Family>
+  <Genus>Patagioenas</Genus>
+  <Species>picazuro</Species>
+  <Sub-species />
+  <VernacularNames>Picazuro Pigeon</VernacularNames>
+</Audio>

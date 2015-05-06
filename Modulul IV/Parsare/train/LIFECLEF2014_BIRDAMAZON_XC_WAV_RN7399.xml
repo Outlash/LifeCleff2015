@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>7399</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN7399.wav</FileName>
+  <ClassId>myvkag</ClassId>
+  <Date>2010-08-07</Date>
+  <Time>07:13</Time>
+  <Locality>Paragominas, PA, Brazil, Bacia 147</Locality>
+  <Latitude>-2.9187</Latitude>
+  <Longitude>-47.177</Longitude>
+  <Elevation>?</Elevation>
+  <Author>Nargila Moura</Author>
+  <AuthorID>CWEIBYBYYD</AuthorID>
+  <Content>call</Content>
+  <Comments>selectively-logged primary forest</Comments>
+  <Quality>3</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies>Cercomacra cinerascens,Pyriglena leuconota,Dixiphia rubrocapilla,Pachyramphus marginatus,Ornithion inerme</BackgroundSpecies>
+  <Order>Falconiformes</Order>
+  <Family>Falconidae</Family>
+  <Genus>Ibycter</Genus>
+  <Species>americanus</Species>
+  <Sub-species />
+  <VernacularNames>Red-throated Caracara</VernacularNames>
+</Audio>

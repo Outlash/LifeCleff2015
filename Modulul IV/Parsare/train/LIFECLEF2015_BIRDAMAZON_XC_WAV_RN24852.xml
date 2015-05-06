@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>24852</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN24852.wav</FileName>
+  <ClassId>bqtilk</ClassId>
+  <Date>2011-12-31</Date>
+  <Time>08:00</Time>
+  <Locality>Laguna de Pedro Palo (Cundinamarca)</Locality>
+  <Latitude>4.098</Latitude>
+  <Longitude>-74.0101</Longitude>
+  <Elevation>2100</Elevation>
+  <Author>Oswaldo Cortes</Author>
+  <AuthorID>VVDRVZCVWW</AuthorID>
+  <Content>song</Content>
+  <Comments />
+  <Quality>2</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Apodiformes</Order>
+  <Family>Trochilidae</Family>
+  <Genus>Amazilia</Genus>
+  <Species>franciae</Species>
+  <Sub-species />
+  <VernacularNames>Andean Emerald</VernacularNames>
+</Audio>

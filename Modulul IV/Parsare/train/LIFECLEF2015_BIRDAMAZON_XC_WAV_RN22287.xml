@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>22287</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN22287.wav</FileName>
+  <ClassId>ipvlig</ClassId>
+  <Date>2010-01-04</Date>
+  <Time>11:00</Time>
+  <Locality>Sonsón, Antioquia, Vereda San Francisco, Cerro de las Palomas, Páramo de Sonsón</Locality>
+  <Latitude>5.716</Latitude>
+  <Longitude>-75.2583</Longitude>
+  <Elevation>3000</Elevation>
+  <Author>Oscar H. Marín-Gómez</Author>
+  <AuthorID>CSUHASNRSU</AuthorID>
+  <Content>song</Content>
+  <Comments>Ref: Tape OHM065B 0236. Secondary forest, trail to Páramo. Natural vocalization. 20m to Mic.bird-seen:yesplayback-used:no</Comments>
+  <Quality>3</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Parulidae</Family>
+  <Genus>Myioborus</Genus>
+  <Species>ornatus</Species>
+  <Sub-species />
+  <VernacularNames>Golden-fronted Whitestart</VernacularNames>
+</Audio>

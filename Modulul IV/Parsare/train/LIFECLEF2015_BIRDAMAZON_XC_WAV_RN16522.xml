@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>16522</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN16522.wav</FileName>
+  <ClassId>uxuaio</ClassId>
+  <Date>2008-08-03</Date>
+  <Time>xx:xx</Time>
+  <Locality>San Bernardo (Cundinamarca)</Locality>
+  <Latitude>4.2001</Latitude>
+  <Longitude>-74.4128</Longitude>
+  <Elevation>2500</Elevation>
+  <Author>Oswaldo Cortes</Author>
+  <AuthorID>VVDRVZCVWW</AuthorID>
+  <Content>song</Content>
+  <Comments />
+  <Quality>2</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies>Scytalopus latrans</BackgroundSpecies>
+  <Order>Passeriformes</Order>
+  <Family>Troglodytidae</Family>
+  <Genus>Pheugopedius</Genus>
+  <Species>mystacalis</Species>
+  <Sub-species />
+  <VernacularNames>Whiskered Wren</VernacularNames>
+</Audio>

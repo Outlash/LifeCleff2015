@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>19368</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN19368.wav</FileName>
+  <ClassId>jxukvv</ClassId>
+  <Date>2002-01-00</Date>
+  <Time>xx:xx</Time>
+  <Locality>Agua de la Virgen, Ocaña, Dpto Norte de Santander</Locality>
+  <Latitude>8.2167</Latitude>
+  <Longitude>-73.4001</Longitude>
+  <Elevation>1500</Elevation>
+  <Author>Thomas Donegan</Author>
+  <AuthorID>OXSIOLJJUP</AuthorID>
+  <Content>Song</Content>
+  <Comments>Note: significant northwards range extension for this species, if confirmed (the timbre and upturned notes are not quite right, but this is the closest match).</Comments>
+  <Quality>3</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Grallariidae</Family>
+  <Genus>Grallaria</Genus>
+  <Species>hypoleuca</Species>
+  <Sub-species />
+  <VernacularNames>White-bellied Antpitta</VernacularNames>
+</Audio>

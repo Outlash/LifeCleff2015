@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>11584</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN11584.wav</FileName>
+  <ClassId>kzvpsl</ClassId>
+  <Date>1998-10-29</Date>
+  <Time>10:30</Time>
+  <Locality>Reserva Biológica de Sooretama, ES</Locality>
+  <Latitude>-19.01</Latitude>
+  <Longitude>-40.01</Longitude>
+  <Elevation>60</Elevation>
+  <Author>Jeremy Minns</Author>
+  <AuthorID>DGVLLRYDXS</AuthorID>
+  <Content>call</Content>
+  <Comments>Humid lowland forest. Calls by a single bird in the canopy.</Comments>
+  <Quality>2</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies>Vireo olivaceus</BackgroundSpecies>
+  <Order>Passeriformes</Order>
+  <Family>Troglodytidae</Family>
+  <Genus>Campylorhynchus</Genus>
+  <Species>turdinus</Species>
+  <Sub-species>turdinus</Sub-species>
+  <VernacularNames>Thrush-like Wren</VernacularNames>
+</Audio>

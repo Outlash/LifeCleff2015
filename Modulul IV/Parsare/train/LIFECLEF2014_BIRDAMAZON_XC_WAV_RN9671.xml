@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>9671</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN9671.wav</FileName>
+  <ClassId>wxviiz</ClassId>
+  <Date>2007-12-16</Date>
+  <Time>14:00</Time>
+  <Locality>Praia do Vargas - Araruama - RJ</Locality>
+  <Latitude>-22.9167</Latitude>
+  <Longitude>-42.3334</Longitude>
+  <Elevation>15</Elevation>
+  <Author>Ricardo Gagliardi</Author>
+  <AuthorID>YRDADNREOP</AuthorID>
+  <Content>alarm call</Content>
+  <Comments />
+  <Quality>3</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies>Ammodramus humeralis,Mimus saturninus,Sturnella superciliaris</BackgroundSpecies>
+  <Order>Strigiformes</Order>
+  <Family>Strigidae</Family>
+  <Genus>Athene</Genus>
+  <Species>cunicularia</Species>
+  <Sub-species />
+  <VernacularNames>Burrowing Owl</VernacularNames>
+</Audio>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>22568</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN22568.wav</FileName>
+  <ClassId>jtzvga</ClassId>
+  <Date>2002-06-25</Date>
+  <Time>18:00</Time>
+  <Locality>Reserva Iguaque (SFF), Villa de Leyva, Boyaca</Locality>
+  <Latitude>NULL</Latitude>
+  <Longitude>NULL</Longitude>
+  <Elevation>2850</Elevation>
+  <Author>Bernabe Lopez-Lanus</Author>
+  <AuthorID>BYLLSJRVDZ</AuthorID>
+  <Content>call</Content>
+  <Comments>Sunset, into a roof gallery used like roost</Comments>
+  <Quality>2</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Hirundinidae</Family>
+  <Genus>Notiochelidon</Genus>
+  <Species>murina</Species>
+  <Sub-species />
+  <VernacularNames>Brown-bellied Swallow</VernacularNames>
+</Audio>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>13773</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN13773.wav</FileName>
+  <ClassId>tovyzm</ClassId>
+  <Date>2010-10-25</Date>
+  <Time>10:04</Time>
+  <Locality>Parque Natural Augusto Rushi, São José dos Campos, SP</Locality>
+  <Latitude>-23.07</Latitude>
+  <Longitude>-45.939</Longitude>
+  <Elevation>870</Elevation>
+  <Author>Bruno Castelo Branco Damiani</Author>
+  <AuthorID>DCUCMMGPDS</AuthorID>
+  <Content>call</Content>
+  <Comments>Territorial called, with display of wing tips</Comments>
+  <Quality>3</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies />
+  <Order>Accipitriformes</Order>
+  <Family>Accipitridae</Family>
+  <Genus>Spizaetus</Genus>
+  <Species>tyrannus</Species>
+  <Sub-species>tyrannus</Sub-species>
+  <VernacularNames>Black Hawk-Eagle</VernacularNames>
+</Audio>

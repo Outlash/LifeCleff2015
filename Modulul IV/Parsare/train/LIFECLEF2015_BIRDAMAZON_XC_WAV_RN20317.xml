@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>20317</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN20317.wav</FileName>
+  <ClassId>dyxufx</ClassId>
+  <Date>2003-01-00</Date>
+  <Time>07:00</Time>
+  <Locality>Cerro de la Paz, nr. Serrania de los Yariguies, mun. Zapatoca Santande</Locality>
+  <Latitude>6.9834</Latitude>
+  <Longitude>-73.4334</Longitude>
+  <Elevation>1000</Elevation>
+  <Author>Thomas Donegan</Author>
+  <AuthorID>OXSIOLJJUP</AuthorID>
+  <Content>Loudsong</Content>
+  <Comments>ref: Donegan TM, Avendaño JE, Briceño ER &amp; Huertas BC. 2007. Bird range extensions with taxonomic and ecological notes from Serranía de los Yariguíes, Colombias new National Park.  Bulletin of the British Ornithologists' Club 127(3): 172-213.</Comments>
+  <Quality>0</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Thamnophilidae</Family>
+  <Genus>Thamnophilus</Genus>
+  <Species>atrinucha</Species>
+  <Sub-species />
+  <VernacularNames>Black-crowned Antshrike</VernacularNames>
+</Audio>

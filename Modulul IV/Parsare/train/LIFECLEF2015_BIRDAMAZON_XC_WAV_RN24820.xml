@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>24820</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN24820.wav</FileName>
+  <ClassId>tkoszd</ClassId>
+  <Date>0000-00-00</Date>
+  <Time>midni</Time>
+  <Locality>Reserva Biológica de Una</Locality>
+  <Latitude>-15.1834</Latitude>
+  <Longitude>-39.0667</Longitude>
+  <Elevation>0</Elevation>
+  <Author>Juan Mazar Barnett</Author>
+  <AuthorID>KVDIDMAVLE</AuthorID>
+  <Content>call</Content>
+  <Comments>approached to playback. Not in humid forest but a type with more sandy soil</Comments>
+  <Quality>2</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Caprimulgiformes</Order>
+  <Family>Nyctibiidae</Family>
+  <Genus>Nyctibius</Genus>
+  <Species>leucopterus</Species>
+  <Sub-species />
+  <VernacularNames>White-winged Potoo</VernacularNames>
+</Audio>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>2821</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN2821.wav</FileName>
+  <ClassId>wmvjdr</ClassId>
+  <Date>2010-04-01</Date>
+  <Time>08:10</Time>
+  <Locality>Reserva Biológica Estadual da Canela Preta, Botuverá Santa Catarina</Locality>
+  <Latitude>-27.27</Latitude>
+  <Longitude>-49.142</Longitude>
+  <Elevation>600</Elevation>
+  <Author>Evair Legal</Author>
+  <AuthorID>SMJXFKLATM</AuthorID>
+  <Content>song</Content>
+  <Comments />
+  <Quality>2</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Grallariidae</Family>
+  <Genus>Hylopezus</Genus>
+  <Species>nattereri</Species>
+  <Sub-species />
+  <VernacularNames>Speckle-breasted Antpitta</VernacularNames>
+</Audio>

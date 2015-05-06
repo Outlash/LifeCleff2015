@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>16535</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN16535.wav</FileName>
+  <ClassId>xzvjkj</ClassId>
+  <Date>2008-04-00</Date>
+  <Time>?:?</Time>
+  <Locality>Caura - Las Trincheras</Locality>
+  <Latitude>6.963</Latitude>
+  <Longitude>-64.899</Longitude>
+  <Elevation>150</Elevation>
+  <Author>Joe Klaiber</Author>
+  <AuthorID>TNPOVFLZMY</AuthorID>
+  <Content>song</Content>
+  <Comments>link:http://www.birds-venezuela.de</Comments>
+  <Quality>3</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Tityridae</Family>
+  <Genus>Schiffornis</Genus>
+  <Species>turdina</Species>
+  <Sub-species />
+  <VernacularNames>Brown-winged Schiffornis</VernacularNames>
+</Audio>

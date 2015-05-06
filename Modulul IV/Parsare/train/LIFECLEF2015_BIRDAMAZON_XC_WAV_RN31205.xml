@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>31205</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN31205.wav</FileName>
+  <ClassId>eghdvj</ClassId>
+  <Date>2011-03-30</Date>
+  <Time>19:00</Time>
+  <Locality>RPPN Estação Veracel, Porto Seguro, Bahia</Locality>
+  <Latitude>-16.3458</Latitude>
+  <Longitude>-39.1395</Longitude>
+  <Elevation>90</Elevation>
+  <Author>Juha Honkala</Author>
+  <AuthorID>UTCLOBFQPH</AuthorID>
+  <Content>song</Content>
+  <Comments>Lowland forest in the Veracel reserve. Low quality recording because the noise of insects and the long distance to the bird. The calls are audible in seconds 0:02, 0:37, 0:61, 0:93.bird-seen:noplayback-used:no</Comments>
+  <Quality>3</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Caprimulgiformes</Order>
+  <Family>Nyctibiidae</Family>
+  <Genus>Nyctibius</Genus>
+  <Species>aethereus</Species>
+  <Sub-species />
+  <VernacularNames>Long-tailed Potoo</VernacularNames>
+</Audio>

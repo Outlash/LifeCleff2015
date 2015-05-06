@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>8695</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN8695.wav</FileName>
+  <ClassId>wenuau</ClassId>
+  <Date>2002-02-01</Date>
+  <Time>09:19</Time>
+  <Locality>Serra dos Carajás. Águas Claras</Locality>
+  <Latitude>-9.5981</Latitude>
+  <Longitude>-55.932</Longitude>
+  <Elevation>390</Elevation>
+  <Author>Jeremy Minns</Author>
+  <AuthorID>DGVLLRYDXS</AuthorID>
+  <Content>call</Content>
+  <Comments>Terra firme forest. Two birds present in thick, low undergrowth beside road.  Probably after playback. Three different calls</Comments>
+  <Quality>1</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Thamnophilidae</Family>
+  <Genus>Myrmoborus</Genus>
+  <Species>leucophrys</Species>
+  <Sub-species>leucophrys</Sub-species>
+  <VernacularNames>White-browed Antbird</VernacularNames>
+</Audio>

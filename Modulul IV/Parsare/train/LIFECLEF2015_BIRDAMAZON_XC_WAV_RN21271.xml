@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>21271</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN21271.wav</FileName>
+  <ClassId>fwrnff</ClassId>
+  <Date>1997-11-01</Date>
+  <Time>?</Time>
+  <Locality>PNN Picachos, San vicente del Caguán, Caquetá</Locality>
+  <Latitude>2.7975</Latitude>
+  <Longitude>-74.855</Longitude>
+  <Elevation>1300-2000</Elevation>
+  <Author>Mauricio Álvarez Rebolledo (Colección de Sonidos Ambientales - Instituto Humboldt)</Author>
+  <AuthorID>XMFDPACYJN</AuthorID>
+  <Content>song</Content>
+  <Comments>BSA 41To obtain a wav file of the original recording, please contact csa@humboldt.org.coplayback-used:no</Comments>
+  <Quality>3</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Apodiformes</Order>
+  <Family>Trochilidae</Family>
+  <Genus>Colibri</Genus>
+  <Species>thalassinus</Species>
+  <Sub-species />
+  <VernacularNames>Green Violetear</VernacularNames>
+</Audio>

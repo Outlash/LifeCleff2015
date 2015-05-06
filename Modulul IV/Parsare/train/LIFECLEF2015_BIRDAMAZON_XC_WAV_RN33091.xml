@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>33091</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN33091.wav</FileName>
+  <ClassId>ygcrlc</ClassId>
+  <Date>0000-00-00</Date>
+  <Time>?</Time>
+  <Locality>Apía, Risaralda</Locality>
+  <Latitude>5.158056</Latitude>
+  <Longitude>-76.01667</Longitude>
+  <Elevation>2200-2360</Elevation>
+  <Author>Sergio Córdoba Córdoba (Colección de Sonidos Ambientales - Instituto Humboldt)</Author>
+  <AuthorID>XMFDPACYJN</AuthorID>
+  <Content>song</Content>
+  <Comments>BSA 15824To obtain a wav file of the original recording, please contact csa@humboldt.org.coplayback-used:no</Comments>
+  <Quality>1</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Troglodytidae</Family>
+  <Genus>Cyphorhinus</Genus>
+  <Species>thoracicus</Species>
+  <Sub-species />
+  <VernacularNames>Chestnut-breasted Wren</VernacularNames>
+</Audio>

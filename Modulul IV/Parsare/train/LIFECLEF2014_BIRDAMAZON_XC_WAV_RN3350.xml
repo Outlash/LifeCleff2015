@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>3350</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN3350.wav</FileName>
+  <ClassId>wyqhet</ClassId>
+  <Date>1998-03-03</Date>
+  <Time>08:12</Time>
+  <Locality>Jacobina</Locality>
+  <Latitude>-11.3167</Latitude>
+  <Longitude>-40.5334</Longitude>
+  <Elevation>600</Elevation>
+  <Author>Jeremy Minns</Author>
+  <AuthorID>DGVLLRYDXS</AuthorID>
+  <Content>Call</Content>
+  <Comments>Near Caen. Dry secondary forest. This is 'Call B' on our DVD-ROM Birds of Brazil.</Comments>
+  <Quality>2</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Thamnophilidae</Family>
+  <Genus>Thamnophilus</Genus>
+  <Species>pelzelni</Species>
+  <Sub-species />
+  <VernacularNames>Planalto Slaty Antshrike</VernacularNames>
+</Audio>

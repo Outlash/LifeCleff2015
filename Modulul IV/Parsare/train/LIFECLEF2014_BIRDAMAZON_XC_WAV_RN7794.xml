@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>7794</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN7794.wav</FileName>
+  <ClassId>cvyifz</ClassId>
+  <Date>2009-04-08</Date>
+  <Time>?</Time>
+  <Locality>Agrião, Parque Nacional da Serra do Itajaí, Presidente Nereu, Santa Catarina</Locality>
+  <Latitude>-27.1737</Latitude>
+  <Longitude>-49.2151</Longitude>
+  <Elevation>440</Elevation>
+  <Author>Adrian Eisen Rupp</Author>
+  <AuthorID>AOPMSCIDIA</AuthorID>
+  <Content>call</Content>
+  <Comments />
+  <Quality>1</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies>Basileuterus culicivorus</BackgroundSpecies>
+  <Order>Passeriformes</Order>
+  <Family>Cardinalidae</Family>
+  <Genus>Habia</Genus>
+  <Species>rubica</Species>
+  <Sub-species />
+  <VernacularNames>Red-crowned Ant Tanager</VernacularNames>
+</Audio>

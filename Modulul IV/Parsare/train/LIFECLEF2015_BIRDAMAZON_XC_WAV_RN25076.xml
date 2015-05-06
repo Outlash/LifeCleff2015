@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>25076</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN25076.wav</FileName>
+  <ClassId>mwocnj</ClassId>
+  <Date>2011-09-18</Date>
+  <Time>14:01</Time>
+  <Locality>Vidal Ramos, Santa Catarina</Locality>
+  <Latitude>-27.3546</Latitude>
+  <Longitude>-49.3459</Longitude>
+  <Elevation>360</Elevation>
+  <Author>Douglas Meyer</Author>
+  <AuthorID>MNENFHYTAE</AuthorID>
+  <Content>male, song</Content>
+  <Comments>bird-seen:yesplayback-used:no</Comments>
+  <Quality>0</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Thamnophilidae</Family>
+  <Genus>Drymophila</Genus>
+  <Species>malura</Species>
+  <Sub-species />
+  <VernacularNames>Dusky-tailed Antbird</VernacularNames>
+</Audio>

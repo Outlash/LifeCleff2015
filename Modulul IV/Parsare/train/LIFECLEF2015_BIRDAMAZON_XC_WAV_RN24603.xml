@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>24603</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN24603.wav</FileName>
+  <ClassId>xzyogt</ClassId>
+  <Date>2013-05-01</Date>
+  <Time>11:00</Time>
+  <Locality>Arcos, Minas Gerais</Locality>
+  <Latitude>-20.2881</Latitude>
+  <Longitude>-45.5402</Longitude>
+  <Elevation>750</Elevation>
+  <Author>João Antônio de B. Vitto</Author>
+  <AuthorID>RIVNLYTULO</AuthorID>
+  <Content>song</Content>
+  <Comments>bird-seen:yesplayback-used:no</Comments>
+  <Quality>1</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Furnariidae</Family>
+  <Genus>Furnarius</Genus>
+  <Species>figulus</Species>
+  <Sub-species />
+  <VernacularNames>Band-tailed Hornero</VernacularNames>
+</Audio>

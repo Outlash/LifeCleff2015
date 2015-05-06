@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>31175</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN31175.wav</FileName>
+  <ClassId>mogrgi</ClassId>
+  <Date>2008-02-07</Date>
+  <Time>09:45</Time>
+  <Locality>Finca Costa Rica, Amalfi, Antioquia</Locality>
+  <Latitude>NULL</Latitude>
+  <Longitude>NULL</Longitude>
+  <Elevation>1800</Elevation>
+  <Author>Herman van Oosten</Author>
+  <AuthorID>SNUDCZVUQK</AuthorID>
+  <Content>call, song</Content>
+  <Comments>Same bird. What we hear here are, I think, the 'gluck' call, a song and the 'aggressive cu-whee' call, but forgive me if I am wrong!</Comments>
+  <Quality>1</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Cotingidae</Family>
+  <Genus>Lipaugus</Genus>
+  <Species>weberi</Species>
+  <Sub-species />
+  <VernacularNames>Chestnut-capped Piha</VernacularNames>
+</Audio>

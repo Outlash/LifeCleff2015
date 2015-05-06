@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>10608</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN10608.wav</FileName>
+  <ClassId>dkinxl</ClassId>
+  <Date>2006-08-00</Date>
+  <Time>pm</Time>
+  <Locality>Hotel Veraneio Hampel, São Francisco de Paula, RS</Locality>
+  <Latitude>-29.4431</Latitude>
+  <Longitude>-50.6117</Longitude>
+  <Elevation>900</Elevation>
+  <Author>Eduardo Patrial</Author>
+  <AuthorID>QEFRRVCRRP</AuthorID>
+  <Content>song</Content>
+  <Comments />
+  <Quality>3</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies />
+  <Order>Psittaciformes</Order>
+  <Family>Psittacidae</Family>
+  <Genus>Amazona</Genus>
+  <Species>vinacea</Species>
+  <Sub-species />
+  <VernacularNames>Vinaceous-breasted Amazon</VernacularNames>
+</Audio>

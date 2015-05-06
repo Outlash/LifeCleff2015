@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>8706</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN8706.wav</FileName>
+  <ClassId>gaggjv</ClassId>
+  <Date>2008-12-07</Date>
+  <Time>09:00</Time>
+  <Locality>Araras/SP</Locality>
+  <Latitude>NULL</Latitude>
+  <Longitude>NULL</Longitude>
+  <Elevation>630</Elevation>
+  <Author>Eduardo Zambianco / Geraldo Gambini Produções</Author>
+  <AuthorID>EFJOEXBHPT</AuthorID>
+  <Content>song</Content>
+  <Comments>IMPERADOR - Trinca-Ferro Canto Clássico Pentacampeão Brasileiro FEBRAPS 2005/2006/2007/2008/2009</Comments>
+  <Quality>1</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Cardinalidae</Family>
+  <Genus>Saltator</Genus>
+  <Species>similis</Species>
+  <Sub-species />
+  <VernacularNames>Green-winged Saltator</VernacularNames>
+</Audio>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>12253</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN12253.wav</FileName>
+  <ClassId>mwocnj</ClassId>
+  <Date>2002-03-00</Date>
+  <Time>?</Time>
+  <Locality>Juquitibia, Sao Paolo State</Locality>
+  <Latitude>-23.9492</Latitude>
+  <Longitude>-47.1778</Longitude>
+  <Elevation>685</Elevation>
+  <Author>Carlos Candia-Gallardo</Author>
+  <AuthorID>CXQSLQJCAG</AuthorID>
+  <Content>song</Content>
+  <Comments />
+  <Quality>0</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Thamnophilidae</Family>
+  <Genus>Drymophila</Genus>
+  <Species>malura</Species>
+  <Sub-species />
+  <VernacularNames>Dusky-tailed Antbird</VernacularNames>
+</Audio>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>19378</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN19378.wav</FileName>
+  <ClassId>qgszhv</ClassId>
+  <Date>2007-08-02</Date>
+  <Time>15:00</Time>
+  <Locality>Pousada Rio Azul, PA</Locality>
+  <Latitude>-9.2456</Latitude>
+  <Longitude>-55.987</Longitude>
+  <Elevation>220</Elevation>
+  <Author>Bradley Davis</Author>
+  <AuthorID>YNXJLOESBB</AuthorID>
+  <Content>call</Content>
+  <Comments>seen from the lodge clearing</Comments>
+  <Quality>2</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Pipridae</Family>
+  <Genus>Machaeropterus</Genus>
+  <Species>pyrocephalus</Species>
+  <Sub-species>pyrocephalus</Sub-species>
+  <VernacularNames>Fiery-capped Manakin</VernacularNames>
+</Audio>

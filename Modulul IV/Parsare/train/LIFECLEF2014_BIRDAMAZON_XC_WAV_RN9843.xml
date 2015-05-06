@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>9843</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN9843.wav</FileName>
+  <ClassId>pscjat</ClassId>
+  <Date>2005-04-10</Date>
+  <Time>10:00</Time>
+  <Locality>Reserva Ecológica de Guapiaçu, RJ</Locality>
+  <Latitude>-22.5001</Latitude>
+  <Longitude>-42.7167</Longitude>
+  <Elevation>35</Elevation>
+  <Author>Nick Athanas</Author>
+  <AuthorID>XRABICUARW</AuthorID>
+  <Content>call</Content>
+  <Comments>Calls from a pair.</Comments>
+  <Quality>1</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Thraupidae</Family>
+  <Genus>Sicalis</Genus>
+  <Species>flaveola</Species>
+  <Sub-species>pelzelni</Sub-species>
+  <VernacularNames>Saffron Finch</VernacularNames>
+</Audio>

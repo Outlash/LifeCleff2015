@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>6857</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN6857.wav</FileName>
+  <ClassId>qdnved</ClassId>
+  <Date>2003-04-04</Date>
+  <Time>07:44</Time>
+  <Locality>Cristalino Jungle Lodge, MT</Locality>
+  <Latitude>-9.5981</Latitude>
+  <Longitude>-55.932</Longitude>
+  <Elevation>260</Elevation>
+  <Author>Jeremy Minns</Author>
+  <AuthorID>DGVLLRYDXS</AuthorID>
+  <Content>call</Content>
+  <Comments>ssp. presumed from location. Terra firme forest. Recorded from tower.bird-seen:yesplayback-used:no</Comments>
+  <Quality>2</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies>Lipaugus vociferans,Trogon melanurus</BackgroundSpecies>
+  <Order>Passeriformes</Order>
+  <Family>Tyrannidae</Family>
+  <Genus>Colonia</Genus>
+  <Species>colonus</Species>
+  <Sub-species>colonus</Sub-species>
+  <VernacularNames>Long-tailed Tyrant</VernacularNames>
+</Audio>

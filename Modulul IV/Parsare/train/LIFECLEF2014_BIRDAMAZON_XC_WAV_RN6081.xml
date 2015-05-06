@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>6081</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN6081.wav</FileName>
+  <ClassId>bumkxs</ClassId>
+  <Date>2004-03-14</Date>
+  <Time>09:05</Time>
+  <Locality>Reserva Natural da Vale - Linhares, Espirito Santo</Locality>
+  <Latitude>-19.1456</Latitude>
+  <Longitude>-40.0645</Longitude>
+  <Elevation>40</Elevation>
+  <Author>Jeremy Minns</Author>
+  <AuthorID>DGVLLRYDXS</AuthorID>
+  <Content>call, song</Content>
+  <Comments>Edge of humid forest.</Comments>
+  <Quality>1</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies>Columbina talpacoti,Galbula ruficauda,Pachyramphus marginatus</BackgroundSpecies>
+  <Order>Passeriformes</Order>
+  <Family>Cardinalidae</Family>
+  <Genus>Saltator</Genus>
+  <Species>maximus</Species>
+  <Sub-species>maximus</Sub-species>
+  <VernacularNames>Buff-throated Saltator</VernacularNames>
+</Audio>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>29262</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN29262.wav</FileName>
+  <ClassId>scqsvb</ClassId>
+  <Date>2014-01-19</Date>
+  <Time>08:30</Time>
+  <Locality>VPNN Isla de Salamanca</Locality>
+  <Latitude>10.981</Latitude>
+  <Longitude>-74.727</Longitude>
+  <Elevation>0</Elevation>
+  <Author>Andrew Spencer</Author>
+  <AuthorID>CDTGHVBGZP</AuthorID>
+  <Content>call</Content>
+  <Comments>natural vocalization, calls from a pair of birds perched on top of a telephone pole adjacent to agricultural land and remnant scrubby forest.bird-seen:yesplayback-used:no</Comments>
+  <Quality>1</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Psittaciformes</Order>
+  <Family>Psittacidae</Family>
+  <Genus>Forpus</Genus>
+  <Species>xanthopterygius</Species>
+  <Sub-species>spengeli</Sub-species>
+  <VernacularNames>Blue-winged Parrotlet</VernacularNames>
+</Audio>

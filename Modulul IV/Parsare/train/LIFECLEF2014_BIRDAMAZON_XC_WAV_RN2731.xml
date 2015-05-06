@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>2731</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN2731.wav</FileName>
+  <ClassId>reoana</ClassId>
+  <Date>2009-08-04</Date>
+  <Time>am</Time>
+  <Locality>Distrito São Luis, Londrina, Paraná</Locality>
+  <Latitude>-23.5176</Latitude>
+  <Longitude>-51.2342</Longitude>
+  <Elevation>560</Elevation>
+  <Author>Eduardo Patrial</Author>
+  <AuthorID>QEFRRVCRRP</AuthorID>
+  <Content>canto territorial' (territorial song)</Content>
+  <Comments>Resposta ao play-back (response to play-back), primeiro registro para o norte do PR, artigo em prepararação (first record for northern PR, preparing article)</Comments>
+  <Quality>1</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Emberizidae</Family>
+  <Genus>Arremon</Genus>
+  <Species>semitorquatus</Species>
+  <Sub-species />
+  <VernacularNames>Half-collared Sparrow</VernacularNames>
+</Audio>

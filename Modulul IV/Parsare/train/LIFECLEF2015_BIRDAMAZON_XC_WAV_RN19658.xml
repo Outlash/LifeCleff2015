@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>19658</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN19658.wav</FileName>
+  <ClassId>nuejcm</ClassId>
+  <Date>2004-04-28</Date>
+  <Time>05:00</Time>
+  <Locality>Itatira, State of Ceará</Locality>
+  <Latitude>-4.5001</Latitude>
+  <Longitude>-39.5667</Longitude>
+  <Elevation>900</Elevation>
+  <Author>Weber Girão</Author>
+  <AuthorID>MXVQPUKGWW</AuthorID>
+  <Content>song</Content>
+  <Comments />
+  <Quality>3</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Strigiformes</Order>
+  <Family>Strigidae</Family>
+  <Genus>Aegolius</Genus>
+  <Species>harrisii</Species>
+  <Sub-species />
+  <VernacularNames>Buff-fronted Owl</VernacularNames>
+</Audio>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>29710</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN29710.wav</FileName>
+  <ClassId>piciap</ClassId>
+  <Date>2012-06-07</Date>
+  <Time>18:00</Time>
+  <Locality>Arauca, Tame, Vda. Sabanas de la Vieja, Predio El Oso</Locality>
+  <Latitude>6.415</Latitude>
+  <Longitude>-71.954</Longitude>
+  <Elevation>1100</Elevation>
+  <Author>Oswaldo Cortes</Author>
+  <AuthorID>VVDRVZCVWW</AuthorID>
+  <Content>begging call</Content>
+  <Comments>JUvenil  begging callbird-seen:yesplayback-used:no</Comments>
+  <Quality>2</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Pelecaniformes</Order>
+  <Family>Ardeidae</Family>
+  <Genus>Ardea</Genus>
+  <Species>cocoi</Species>
+  <Sub-species />
+  <VernacularNames>Cocoi Heron</VernacularNames>
+</Audio>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>16878</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN16878.wav</FileName>
+  <ClassId>jeufbl</ClassId>
+  <Date>2013-12-19</Date>
+  <Time>06:23</Time>
+  <Locality>Iporá, State of Goiás</Locality>
+  <Latitude>-16.4456</Latitude>
+  <Longitude>-51.1201</Longitude>
+  <Elevation>600</Elevation>
+  <Author>Daniel Blamires</Author>
+  <AuthorID>ZLNOGADASD</AuthorID>
+  <Content>call</Content>
+  <Comments>The specimen was recorded in altered riparian forest in Fazenda Macaco. This record is part of the data for Mateus França de Souza's studies.bird-seen:noplayback-used:no""</Comments>
+  <Quality>0</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Tyrannidae</Family>
+  <Genus>Elaenia</Genus>
+  <Species>spectabilis</Species>
+  <Sub-species />
+  <VernacularNames>Large Elaenia</VernacularNames>
+</Audio>

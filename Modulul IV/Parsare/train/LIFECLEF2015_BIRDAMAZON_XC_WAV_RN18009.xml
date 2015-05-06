@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>18009</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN18009.wav</FileName>
+  <ClassId>cpigyt</ClassId>
+  <Date>2004-05-24</Date>
+  <Time>16:30</Time>
+  <Locality>Cordillera de las Minas, Huila</Locality>
+  <Latitude>2.0834</Latitude>
+  <Longitude>-76.0334</Longitude>
+  <Elevation>2300</Elevation>
+  <Author>Eduardo Gallo Cajiao</Author>
+  <AuthorID>SREJRBWUGJ</AuthorID>
+  <Content>call</Content>
+  <Comments>bird-seen:yesplayback-used:no</Comments>
+  <Quality>0</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Piciformes</Order>
+  <Family>Ramphastidae</Family>
+  <Genus>Andigena</Genus>
+  <Species>nigrirostris</Species>
+  <Sub-species />
+  <VernacularNames>Black-billed Mountain Toucan</VernacularNames>
+</Audio>

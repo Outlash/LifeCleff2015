@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>27638</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN27638.wav</FileName>
+  <ClassId>pprfie</ClassId>
+  <Date>2009-10-01</Date>
+  <Time>06:30</Time>
+  <Locality>APA Capivari Monos, São Paulo, SP</Locality>
+  <Latitude>-23.9557</Latitude>
+  <Longitude>-46.6503</Longitude>
+  <Elevation>700</Elevation>
+  <Author>Marcos A. Melo</Author>
+  <AuthorID>MRGDYNJGUJ</AuthorID>
+  <Content>juvenile, song</Content>
+  <Comments>bird-seen:yesplayback-used:no</Comments>
+  <Quality>1</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Vireonidae</Family>
+  <Genus>Cyclarhis</Genus>
+  <Species>gujanensis</Species>
+  <Sub-species />
+  <VernacularNames>Rufous-browed Peppershrike</VernacularNames>
+</Audio>

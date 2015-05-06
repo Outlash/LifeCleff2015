@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>5136</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN5136.wav</FileName>
+  <ClassId>ukfemk</ClassId>
+  <Date>2002-02-10</Date>
+  <Time>09:39</Time>
+  <Locality>Januária, Minas Gerais</Locality>
+  <Latitude>-15.4667</Latitude>
+  <Longitude>-44.3667</Longitude>
+  <Elevation>550</Elevation>
+  <Author>Jeremy Minns</Author>
+  <AuthorID>DGVLLRYDXS</AuthorID>
+  <Content>song</Content>
+  <Comments>Road along left bank of Rio São Francisco. Riparian thickets and farmland.</Comments>
+  <Quality>1</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies>Nystalus maculatus,Columbina squammata,Pachyramphus viridis</BackgroundSpecies>
+  <Order>Passeriformes</Order>
+  <Family>Tyrannidae</Family>
+  <Genus>Tyrannus</Genus>
+  <Species>melancholicus</Species>
+  <Sub-species>melancholicus</Sub-species>
+  <VernacularNames>Tropical Kingbird</VernacularNames>
+</Audio>

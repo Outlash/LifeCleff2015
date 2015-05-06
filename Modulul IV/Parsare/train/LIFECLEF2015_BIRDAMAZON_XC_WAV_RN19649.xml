@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>19649</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN19649.wav</FileName>
+  <ClassId>mnvtfb</ClassId>
+  <Date>2003-11-20</Date>
+  <Time>?</Time>
+  <Locality>PNN Chingaza , San Fransisco, La Calera, Cundinamarca</Locality>
+  <Latitude>4.703611</Latitude>
+  <Longitude>-73.865</Longitude>
+  <Elevation>2970</Elevation>
+  <Author>Sergio Córdoba Córdoba (Colección de Sonidos Ambientales - Instituto Humboldt)</Author>
+  <AuthorID>XMFDPACYJN</AuthorID>
+  <Content>call</Content>
+  <Comments>BSA 15581To obtain a wav file of the original recording, please contact csa@humboldt.org.coplayback-used:no</Comments>
+  <Quality>5</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Tinamiformes</Order>
+  <Family>Tinamidae</Family>
+  <Genus>Nothocercus</Genus>
+  <Species>julius</Species>
+  <Sub-species />
+  <VernacularNames>Tawny-breasted Tinamou</VernacularNames>
+</Audio>

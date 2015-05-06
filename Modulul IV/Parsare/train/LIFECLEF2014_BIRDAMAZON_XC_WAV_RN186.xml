@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>186</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN186.wav</FileName>
+  <ClassId>klojgx</ClassId>
+  <Date>2009-11-14</Date>
+  <Time>17:48</Time>
+  <Locality>Congonhas, Minas Gerais state</Locality>
+  <Latitude>NULL</Latitude>
+  <Longitude>NULL</Longitude>
+  <Elevation>1.140</Elevation>
+  <Author>Helberth Cardoso</Author>
+  <AuthorID>XIRUVWSNEN</AuthorID>
+  <Content>Song</Content>
+  <Comments>forest edge</Comments>
+  <Quality>1</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Emberizidae</Family>
+  <Genus>Arremon</Genus>
+  <Species>flavirostris</Species>
+  <Sub-species />
+  <VernacularNames>Saffron-billed Sparrow</VernacularNames>
+</Audio>

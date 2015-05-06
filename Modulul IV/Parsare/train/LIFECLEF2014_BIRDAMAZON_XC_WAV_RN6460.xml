@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>6460</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN6460.wav</FileName>
+  <ClassId>jirbln</ClassId>
+  <Date>2011-07-11</Date>
+  <Time>13:00</Time>
+  <Locality>Banhado do Maçarico region, Rio Grande, Rio Grande do Sul</Locality>
+  <Latitude>-32.111</Latitude>
+  <Longitude>-52.261</Longitude>
+  <Elevation>2</Elevation>
+  <Author>Rafael Antunes Dias</Author>
+  <AuthorID>XJSWEWQCEC</AuthorID>
+  <Content>call</Content>
+  <Comments>After playback, near eucalyptus grove in wetland-grassland mosaic</Comments>
+  <Quality>3</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies />
+  <Order>Piciformes</Order>
+  <Family>Picidae</Family>
+  <Genus>Melanerpes</Genus>
+  <Species>candidus</Species>
+  <Sub-species />
+  <VernacularNames>White Woodpecker</VernacularNames>
+</Audio>

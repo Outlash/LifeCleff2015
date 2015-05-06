@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>11620</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN11620.wav</FileName>
+  <ClassId>mjpnmn</ClassId>
+  <Date>2007-07-30</Date>
+  <Time>11:23</Time>
+  <Locality>Faz. Sto Antônio, Petrópolis, RJ</Locality>
+  <Latitude>NULL</Latitude>
+  <Longitude>NULL</Longitude>
+  <Elevation>?</Elevation>
+  <Author>Eduardo Gelli</Author>
+  <AuthorID>FANYWVEFDK</AuthorID>
+  <Content>song</Content>
+  <Comments />
+  <Quality>0</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies />
+  <Order>Strigiformes</Order>
+  <Family>Strigidae</Family>
+  <Genus>Glaucidium</Genus>
+  <Species>brasilianum</Species>
+  <Sub-species />
+  <VernacularNames>Ferruginous Pygmy Owl</VernacularNames>
+</Audio>

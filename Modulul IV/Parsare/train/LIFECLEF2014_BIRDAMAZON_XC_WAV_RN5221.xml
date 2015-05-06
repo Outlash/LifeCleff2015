@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>5221</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN5221.wav</FileName>
+  <ClassId>ngukgn</ClassId>
+  <Date>2007-08-04</Date>
+  <Time>07:02</Time>
+  <Locality>Pousada Rio Azul, PA</Locality>
+  <Latitude>-9.2456</Latitude>
+  <Longitude>-55.987</Longitude>
+  <Elevation>230</Elevation>
+  <Author>Bradley Davis</Author>
+  <AuthorID>YNXJLOESBB</AuthorID>
+  <Content>song</Content>
+  <Comments>response to whistled imitation</Comments>
+  <Quality>1</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies>Myrmotherula longipennis</BackgroundSpecies>
+  <Order>Passeriformes</Order>
+  <Family>Troglodytidae</Family>
+  <Genus>Microcerculus</Genus>
+  <Species>marginatus</Species>
+  <Sub-species />
+  <VernacularNames>Southern Nightingale-Wren</VernacularNames>
+</Audio>

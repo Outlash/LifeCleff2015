@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>18304</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN18304.wav</FileName>
+  <ClassId>udwyft</ClassId>
+  <Date>2014-07-04</Date>
+  <Time>17:30</Time>
+  <Locality>Libano, Tolima</Locality>
+  <Latitude>4.9279</Latitude>
+  <Longitude>-75.0851</Longitude>
+  <Elevation>1800</Elevation>
+  <Author>Jeisson Poveda</Author>
+  <AuthorID>CVJNYXJFAW</AuthorID>
+  <Content>male, song</Content>
+  <Comments>bird-seen:yesplayback-used:no</Comments>
+  <Quality>2</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Icteridae</Family>
+  <Genus>Icterus</Genus>
+  <Species>chrysater</Species>
+  <Sub-species />
+  <VernacularNames>Yellow-backed Oriole</VernacularNames>
+</Audio>

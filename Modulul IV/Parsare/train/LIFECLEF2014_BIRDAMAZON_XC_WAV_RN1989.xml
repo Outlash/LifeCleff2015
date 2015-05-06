@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>1989</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN1989.wav</FileName>
+  <ClassId>nipfbr</ClassId>
+  <Date>2010-07-23</Date>
+  <Time>8:33</Time>
+  <Locality>Parque Ecológico da Raposa, Apucarana - PR</Locality>
+  <Latitude>-23.5339</Latitude>
+  <Longitude>-51.4178</Longitude>
+  <Elevation>750</Elevation>
+  <Author>Renan Campos de Oliveira</Author>
+  <AuthorID>SDARDTGGWP</AuthorID>
+  <Content>call</Content>
+  <Comments>Couple response to playback</Comments>
+  <Quality>1</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Furnariidae</Family>
+  <Genus>Synallaxis</Genus>
+  <Species>frontalis</Species>
+  <Sub-species />
+  <VernacularNames>Sooty-fronted Spinetail</VernacularNames>
+</Audio>

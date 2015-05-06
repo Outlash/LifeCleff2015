@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>8481</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN8481.wav</FileName>
+  <ClassId>rndrjp</ClassId>
+  <Date>2005-10-28</Date>
+  <Time>07:25</Time>
+  <Locality>Serra dos Carajás. Grota Funda road</Locality>
+  <Latitude>-5.9642</Latitude>
+  <Longitude>-50.3653</Longitude>
+  <Elevation>240</Elevation>
+  <Author>Jeremy Minns</Author>
+  <AuthorID>DGVLLRYDXS</AuthorID>
+  <Content>Song</Content>
+  <Comments>Terra firme forest. High in emergent. After playback.</Comments>
+  <Quality>2</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies>Campylorhynchus turdinus,Saltator grossus,Formicarius analis</BackgroundSpecies>
+  <Order>Piciformes</Order>
+  <Family>Galbulidae</Family>
+  <Genus>Jacamerops</Genus>
+  <Species>aureus</Species>
+  <Sub-species>ridgwayi</Sub-species>
+  <VernacularNames>Great Jacamar</VernacularNames>
+</Audio>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>22725</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN22725.wav</FileName>
+  <ClassId>oxxgzm</ClassId>
+  <Date>2009-09-06</Date>
+  <Time>07:00</Time>
+  <Locality>Goiânia, Goiás.</Locality>
+  <Latitude>-16.691448</Latitude>
+  <Longitude>-49.266815</Longitude>
+  <Elevation>710</Elevation>
+  <Author>Nunes D´Acosta</Author>
+  <AuthorID>OHHTDSDNBT</AuthorID>
+  <Content>song</Content>
+  <Comments>Um indivíduo nadando no lago, Campus II UFG,Agronomia, córrego Samambaia e outro vocalizando em uma árvore seca da mata  ciliar.</Comments>
+  <Quality>3</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Anseriformes</Order>
+  <Family>Anatidae</Family>
+  <Genus>Cairina</Genus>
+  <Species>moschata</Species>
+  <Sub-species />
+  <VernacularNames>Muscovy Duck</VernacularNames>
+</Audio>

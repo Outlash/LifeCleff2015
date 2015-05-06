@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>25885</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN25885.wav</FileName>
+  <ClassId>rxaqum</ClassId>
+  <Date>1984-04-09</Date>
+  <Time>?</Time>
+  <Locality>Rio Grande, Sierra de Imataca, Bolívar</Locality>
+  <Latitude>8.1101</Latitude>
+  <Longitude>-61.6714</Longitude>
+  <Elevation>290</Elevation>
+  <Author>Chris Parrish</Author>
+  <AuthorID>IHIOGGZVQA</AuthorID>
+  <Content>song</Content>
+  <Comments />
+  <Quality>1</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Grallariidae</Family>
+  <Genus>Myrmothera</Genus>
+  <Species>campanisona</Species>
+  <Sub-species>campanisona</Sub-species>
+  <VernacularNames>Thrush-like Antpitta</VernacularNames>
+</Audio>

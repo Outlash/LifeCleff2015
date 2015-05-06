@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>30402</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN30402.wav</FileName>
+  <ClassId>pswzyj</ClassId>
+  <Date>2014-10-04</Date>
+  <Time>11:30</Time>
+  <Locality>Libano, Tolima</Locality>
+  <Latitude>4.9034</Latitude>
+  <Longitude>-75.0262</Longitude>
+  <Elevation>1300</Elevation>
+  <Author>Jeisson Poveda</Author>
+  <AuthorID>CVJNYXJFAW</AuthorID>
+  <Content>song</Content>
+  <Comments>bird-seen:yesplayback-used:no</Comments>
+  <Quality>1</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Vireonidae</Family>
+  <Genus>Vireo</Genus>
+  <Species>olivaceus</Species>
+  <Sub-species />
+  <VernacularNames>Red-eyed Vireo</VernacularNames>
+</Audio>

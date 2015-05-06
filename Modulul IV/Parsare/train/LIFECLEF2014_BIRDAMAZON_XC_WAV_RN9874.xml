@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>9874</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN9874.wav</FileName>
+  <ClassId>afzbzd</ClassId>
+  <Date>2008-10-23</Date>
+  <Time>xx:xx</Time>
+  <Locality>Poço Verde, Parque Nacional das Araucárias, Ponte Serrada, Santa Catarina</Locality>
+  <Latitude>-26.8131</Latitude>
+  <Longitude>-51.9031</Longitude>
+  <Elevation>890</Elevation>
+  <Author>Adrian Eisen Rupp</Author>
+  <AuthorID>AOPMSCIDIA</AuthorID>
+  <Content>song</Content>
+  <Comments />
+  <Quality>0</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies>Phyllomyias fasciatus,Vireo olivaceus,Troglodytes aedon</BackgroundSpecies>
+  <Order>Cuculiformes</Order>
+  <Family>Cuculidae</Family>
+  <Genus>Tapera</Genus>
+  <Species>naevia</Species>
+  <Sub-species />
+  <VernacularNames>Striped Cuckoo</VernacularNames>
+</Audio>

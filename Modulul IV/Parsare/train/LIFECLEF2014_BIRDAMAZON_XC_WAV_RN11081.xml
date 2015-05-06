@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>11081</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN11081.wav</FileName>
+  <ClassId>ipaxqr</ClassId>
+  <Date>1996-11-02</Date>
+  <Time>06:30</Time>
+  <Locality>Itatiaia National Park. Rio Maromba valley</Locality>
+  <Latitude>-22.4001</Latitude>
+  <Longitude>-44.6667</Longitude>
+  <Elevation>1150</Elevation>
+  <Author>Jeremy Minns</Author>
+  <AuthorID>DGVLLRYDXS</AuthorID>
+  <Content>call</Content>
+  <Comments>At first light in hotel garden.</Comments>
+  <Quality>2</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies />
+  <Order>Galliformes</Order>
+  <Family>Cracidae</Family>
+  <Genus>Penelope</Genus>
+  <Species>obscura</Species>
+  <Sub-species>bronzina</Sub-species>
+  <VernacularNames>Dusky-legged Guan</VernacularNames>
+</Audio>

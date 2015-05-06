@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>29193</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN29193.wav</FileName>
+  <ClassId>lzezgo</ClassId>
+  <Date>2009-09-15</Date>
+  <Time>08:00</Time>
+  <Locality>FARALLON DE MEDINA</Locality>
+  <Latitude>4.5834</Latitude>
+  <Longitude>-73.4834</Longitude>
+  <Elevation>1700</Elevation>
+  <Author>Oswaldo Cortes</Author>
+  <AuthorID>VVDRVZCVWW</AuthorID>
+  <Content>song</Content>
+  <Comments />
+  <Quality>4</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Rhinocryptidae</Family>
+  <Genus>Scytalopus</Genus>
+  <Species>latrans</Species>
+  <Sub-species />
+  <VernacularNames>Blackish Tapaculo</VernacularNames>
+</Audio>

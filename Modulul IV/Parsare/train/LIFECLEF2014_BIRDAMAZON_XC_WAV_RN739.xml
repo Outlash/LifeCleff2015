@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>739</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN739.wav</FileName>
+  <ClassId>gumwit</ClassId>
+  <Date>2009-07-11</Date>
+  <Time>09:00</Time>
+  <Locality>Tupana lodge, Amazonas</Locality>
+  <Latitude>-4.067</Latitude>
+  <Longitude>-60.6598</Longitude>
+  <Elevation>?</Elevation>
+  <Author>Olivier Claessens</Author>
+  <AuthorID>KRQYNRSSDF</AuthorID>
+  <Content>call</Content>
+  <Comments />
+  <Quality>1</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Furnariidae</Family>
+  <Genus>Deconychura</Genus>
+  <Species>longicauda</Species>
+  <Sub-species>pallida</Sub-species>
+  <VernacularNames>Long-tailed Woodcreeper</VernacularNames>
+</Audio>

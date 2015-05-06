@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>21996</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN21996.wav</FileName>
+  <ClassId>vmtbxc</ClassId>
+  <Date>2000-04-15</Date>
+  <Time>pm</Time>
+  <Locality>Laguna de Pedro Palo, Cundinamarca</Locality>
+  <Latitude>4.6834</Latitude>
+  <Longitude>-74.3834</Longitude>
+  <Elevation>?</Elevation>
+  <Author>Bernabe Lopez-Lanus</Author>
+  <AuthorID>BYLLSJRVDZ</AuthorID>
+  <Content>Song</Content>
+  <Comments>Response to playback</Comments>
+  <Quality>2</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Gruiformes</Order>
+  <Family>Rallidae</Family>
+  <Genus>Laterallus</Genus>
+  <Species>albigularis</Species>
+  <Sub-species>albigularis?</Sub-species>
+  <VernacularNames>White-throated Crake</VernacularNames>
+</Audio>

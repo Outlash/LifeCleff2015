@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>21041</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN21041.wav</FileName>
+  <ClassId>bgcpcn</ClassId>
+  <Date>1999-08-08</Date>
+  <Time>07:27</Time>
+  <Locality>Finca La Magnolia, Corregimiento Totumo, Ibague, Tolima</Locality>
+  <Latitude>NULL</Latitude>
+  <Longitude>NULL</Longitude>
+  <Elevation>1000</Elevation>
+  <Author>Bernabe Lopez-Lanus</Author>
+  <AuthorID>BYLLSJRVDZ</AuthorID>
+  <Content>Song</Content>
+  <Comments />
+  <Quality>2</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Troglodytidae</Family>
+  <Genus>Pheugopedius</Genus>
+  <Species>fasciatoventris</Species>
+  <Sub-species>fasciatoventris</Sub-species>
+  <VernacularNames>Black-bellied Wren</VernacularNames>
+</Audio>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>18747</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN18747.wav</FileName>
+  <ClassId>ahuzrk</ClassId>
+  <Date>2013-03-02</Date>
+  <Time>08:30</Time>
+  <Locality>Yacuanquer , Narino</Locality>
+  <Latitude>1.0992</Latitude>
+  <Longitude>-77.4833</Longitude>
+  <Elevation>1817</Elevation>
+  <Author>Alejo Mendoza</Author>
+  <AuthorID>YCIOTBBKWR</AuthorID>
+  <Content>female, male, song</Content>
+  <Comments>La nota tuvo una modificación leve, los intervalos se dejaron intactos.Se observo en bosque seco, a 12 metros del suelo la pareja de la especie.Se registro en un día muy soleado a la hembra y el macho.bird-seen:yesplayback-used:no</Comments>
+  <Quality>1</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Thamnophilidae</Family>
+  <Genus>Thamnophilus</Genus>
+  <Species>multistriatus</Species>
+  <Sub-species />
+  <VernacularNames>Bar-crested Antshrike</VernacularNames>
+</Audio>

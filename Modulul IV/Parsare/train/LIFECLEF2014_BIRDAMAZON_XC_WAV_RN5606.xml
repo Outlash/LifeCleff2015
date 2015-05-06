@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>5606</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN5606.wav</FileName>
+  <ClassId>ntlogv</ClassId>
+  <Date>2008-11-12</Date>
+  <Time>09:31</Time>
+  <Locality>Serra dos Orgaos National Park. Teresopolis</Locality>
+  <Latitude>-22.4667</Latitude>
+  <Longitude>-43.01</Longitude>
+  <Elevation>1850</Elevation>
+  <Author>Jeremy Minns</Author>
+  <AuthorID>DGVLLRYDXS</AuthorID>
+  <Content>Call</Content>
+  <Comments>Pedra do Sino trail. After an imitation of Ferruginous Pygmy-Owl. This is 'Call D' on our DVD-ROM Birds of Brazil.</Comments>
+  <Quality>2</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies>Tijuca atra</BackgroundSpecies>
+  <Order>Passeriformes</Order>
+  <Family>Thamnophilidae</Family>
+  <Genus>Dysithamnus</Genus>
+  <Species>xanthopterus</Species>
+  <Sub-species />
+  <VernacularNames>Rufous-backed Antvireo</VernacularNames>
+</Audio>

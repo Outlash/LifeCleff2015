@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>2512</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN2512.wav</FileName>
+  <ClassId>jiuopg</ClassId>
+  <Date>2010-08-31</Date>
+  <Time>06:12</Time>
+  <Locality>Road just before entrance Itatiaia NP</Locality>
+  <Latitude>-22.4587</Latitude>
+  <Longitude>-44.5901</Longitude>
+  <Elevation>800</Elevation>
+  <Author>Herman van Oosten</Author>
+  <AuthorID>SNUDCZVUQK</AuthorID>
+  <Content>song?</Content>
+  <Comments>Bird not seen, id by Hermann Redies &amp; Nacho Areta</Comments>
+  <Quality>2</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Tyrannidae</Family>
+  <Genus>Sirystes</Genus>
+  <Species>sibilator</Species>
+  <Sub-species />
+  <VernacularNames>Eastern Sirystes</VernacularNames>
+</Audio>

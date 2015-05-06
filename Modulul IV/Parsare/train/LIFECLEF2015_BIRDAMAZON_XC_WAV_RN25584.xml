@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>25584</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN25584.wav</FileName>
+  <ClassId>vvablg</ClassId>
+  <Date>2009-07-10</Date>
+  <Time>17:10</Time>
+  <Locality>Reserva Ecológica de Guapiaçu, RJ</Locality>
+  <Latitude>-22.5001</Latitude>
+  <Longitude>-42.7167</Longitude>
+  <Elevation>400</Elevation>
+  <Author>Ricardo Gagliardi</Author>
+  <AuthorID>YRDADNREOP</AuthorID>
+  <Content>flight call</Content>
+  <Comments />
+  <Quality>3</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Apodiformes</Order>
+  <Family>Apodidae</Family>
+  <Genus>Chaetura</Genus>
+  <Species>cinereiventris</Species>
+  <Sub-species />
+  <VernacularNames>Grey-rumped Swift</VernacularNames>
+</Audio>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>25542</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN25542.wav</FileName>
+  <ClassId>qiltib</ClassId>
+  <Date>1985-04-22</Date>
+  <Time>?</Time>
+  <Locality>San Carlos del Rio Negro, Amazonas</Locality>
+  <Latitude>1.9201</Latitude>
+  <Longitude>-67.0606</Longitude>
+  <Elevation>119</Elevation>
+  <Author>Chris Parrish</Author>
+  <AuthorID>IHIOGGZVQA</AuthorID>
+  <Content>song</Content>
+  <Comments>male's trill and female's chew. score for 'chew'.</Comments>
+  <Quality>2</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Thamnophilidae</Family>
+  <Genus>Myrmotherula</Genus>
+  <Species>cherriei</Species>
+  <Sub-species />
+  <VernacularNames>Cherrie's Antwren</VernacularNames>
+</Audio>

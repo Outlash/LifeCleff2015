@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>14664</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN14664.wav</FileName>
+  <ClassId>qypzpc</ClassId>
+  <Date>2010-02-13</Date>
+  <Time>16:30</Time>
+  <Locality>Saül</Locality>
+  <Latitude>3.6167</Latitude>
+  <Longitude>-53.2001</Longitude>
+  <Elevation>?</Elevation>
+  <Author>Fabrice Schmitt</Author>
+  <AuthorID>FPAGKPAQYO</AuthorID>
+  <Content>contact call</Content>
+  <Comments>contact call between a male and a female</Comments>
+  <Quality>3</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies>Sclerurus mexicanus</BackgroundSpecies>
+  <Order>Passeriformes</Order>
+  <Family>Thamnophilidae</Family>
+  <Genus>Myrmotherula</Genus>
+  <Species>longipennis</Species>
+  <Sub-species>longipennis</Sub-species>
+  <VernacularNames>Long-winged Antwren</VernacularNames>
+</Audio>

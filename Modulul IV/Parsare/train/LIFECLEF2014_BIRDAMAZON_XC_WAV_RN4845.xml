@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>4845</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN4845.wav</FileName>
+  <ClassId>ljczsu</ClassId>
+  <Date>2011-02-15</Date>
+  <Time>11:30</Time>
+  <Locality>Parque Estadual Intervales, SP</Locality>
+  <Latitude>-24.2759</Latitude>
+  <Longitude>-48.4181</Longitude>
+  <Elevation>850</Elevation>
+  <Author>Daniel Lane</Author>
+  <AuthorID>WOEAFQRMUD</AuthorID>
+  <Content>song</Content>
+  <Comments>Natural songs from a bird in broken canopy (15m up) of secondary forest along road.</Comments>
+  <Quality>1</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies>Pyriglena leucoptera,Basileuterus culicivorus</BackgroundSpecies>
+  <Order>Passeriformes</Order>
+  <Family>Thraupidae</Family>
+  <Genus>Trichothraupis</Genus>
+  <Species>melanops</Species>
+  <Sub-species />
+  <VernacularNames>Black-goggled Tanager</VernacularNames>
+</Audio>

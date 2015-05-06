@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>23018</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN23018.wav</FileName>
+  <ClassId>irujdx</ClassId>
+  <Date>2008-08-02</Date>
+  <Time>09:20</Time>
+  <Locality>Parque Natural Gallineral, San Gil, Santander</Locality>
+  <Latitude>NULL</Latitude>
+  <Longitude>NULL</Longitude>
+  <Elevation>?</Elevation>
+  <Author>Andrew Spencer</Author>
+  <AuthorID>CDTGHVBGZP</AuthorID>
+  <Content>song</Content>
+  <Comments />
+  <Quality>1</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Parulidae</Family>
+  <Genus>Basileuterus</Genus>
+  <Species>rufifrons</Species>
+  <Sub-species>mesochrysus</Sub-species>
+  <VernacularNames>Rufous-capped Warbler</VernacularNames>
+</Audio>

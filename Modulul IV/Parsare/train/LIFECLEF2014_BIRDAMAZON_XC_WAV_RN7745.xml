@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>7745</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN7745.wav</FileName>
+  <ClassId>zpvuom</ClassId>
+  <Date>2009-05-13</Date>
+  <Time>07:00</Time>
+  <Locality>Rio  Mimoso, Morrinhos-Goiás</Locality>
+  <Latitude>NULL</Latitude>
+  <Longitude>NULL</Longitude>
+  <Elevation>810</Elevation>
+  <Author>Nunes D´Acosta</Author>
+  <AuthorID>OHHTDSDNBT</AuthorID>
+  <Content>vocalizacao</Content>
+  <Comments>Especie que muitas das vezes faz  seu ninho bem afastado das areas umidas. Vocaliza  quando algum  intruso arpoxima do ninho.</Comments>
+  <Quality>3</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies />
+  <Order>Gruiformes</Order>
+  <Family>Rallidae</Family>
+  <Genus>Aramides</Genus>
+  <Species>cajaneus</Species>
+  <Sub-species />
+  <VernacularNames>Grey-necked Wood Rail</VernacularNames>
+</Audio>

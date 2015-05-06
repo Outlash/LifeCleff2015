@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>22280</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN22280.wav</FileName>
+  <ClassId>bkwfkb</ClassId>
+  <Date>1986-01-05</Date>
+  <Time>05:40</Time>
+  <Locality>Rio Oirá, frontera con Colombia, Apure</Locality>
+  <Latitude>7.3956</Latitude>
+  <Longitude>-72.2767</Longitude>
+  <Elevation>2400</Elevation>
+  <Author>Chris Parrish</Author>
+  <AuthorID>IHIOGGZVQA</AuthorID>
+  <Content>Trills</Content>
+  <Comments />
+  <Quality>1</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies>Pseudotriccus ruficeps</BackgroundSpecies>
+  <Order>Passeriformes</Order>
+  <Family>Rhinocryptidae</Family>
+  <Genus>Scytalopus</Genus>
+  <Species>griseicollis</Species>
+  <Sub-species />
+  <VernacularNames>Pale-bellied Tapaculo</VernacularNames>
+</Audio>

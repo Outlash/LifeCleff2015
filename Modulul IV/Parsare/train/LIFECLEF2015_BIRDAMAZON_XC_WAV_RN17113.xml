@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>17113</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN17113.wav</FileName>
+  <ClassId>ksifri</ClassId>
+  <Date>1996-12-01</Date>
+  <Time>?:?</Time>
+  <Locality>Ruta Transpantaneira, Pantanal, Pocone, MG</Locality>
+  <Latitude>NULL</Latitude>
+  <Longitude>NULL</Longitude>
+  <Elevation>?</Elevation>
+  <Author>Miguel Castelino</Author>
+  <AuthorID>RCJCABZSNP</AuthorID>
+  <Content>call</Content>
+  <Comments>&lt;a href=http://www.xeno-canto.org/graphics/conosur.jpg rel=lightbox&gt;From Bird Sounds of Southern South America by Lopez-Lanus (2008)&lt;/a&gt;</Comments>
+  <Quality>2</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Accipitriformes</Order>
+  <Family>Accipitridae</Family>
+  <Genus>Accipiter</Genus>
+  <Species>bicolor</Species>
+  <Sub-species />
+  <VernacularNames>Bicolored Hawk</VernacularNames>
+</Audio>

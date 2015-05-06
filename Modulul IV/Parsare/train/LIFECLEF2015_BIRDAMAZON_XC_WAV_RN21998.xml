@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>21998</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN21998.wav</FileName>
+  <ClassId>loriov</ClassId>
+  <Date>2011-12-13</Date>
+  <Time>20:30</Time>
+  <Locality>Presidente Figueiredo, Amazonas</Locality>
+  <Latitude>-1.8097</Latitude>
+  <Longitude>-59.6667</Longitude>
+  <Elevation>40</Elevation>
+  <Author>GABRIEL LEITE</Author>
+  <AuthorID>TGBFXDVERJ</AuthorID>
+  <Content>song</Content>
+  <Comments>bird-seen:noplayback-used:no</Comments>
+  <Quality>3</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies>Cercomacra cinerascens</BackgroundSpecies>
+  <Order>Strigiformes</Order>
+  <Family>Strigidae</Family>
+  <Genus>Pulsatrix</Genus>
+  <Species>perspicillata</Species>
+  <Sub-species />
+  <VernacularNames>Spectacled Owl</VernacularNames>
+</Audio>

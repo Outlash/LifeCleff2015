@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>27801</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN27801.wav</FileName>
+  <ClassId>djamod</ClassId>
+  <Date>2011-08-15</Date>
+  <Time>08:00</Time>
+  <Locality>Parque Natural Sumapaz, Laguna de Chisaca</Locality>
+  <Latitude>NULL</Latitude>
+  <Longitude>NULL</Longitude>
+  <Elevation>3800</Elevation>
+  <Author>Oswaldo Cortes</Author>
+  <AuthorID>VVDRVZCVWW</AuthorID>
+  <Content>song</Content>
+  <Comments />
+  <Quality>2</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Gruiformes</Order>
+  <Family>Rallidae</Family>
+  <Genus>Rallus</Genus>
+  <Species>semiplumbeus</Species>
+  <Sub-species />
+  <VernacularNames>Bogota Rail</VernacularNames>
+</Audio>

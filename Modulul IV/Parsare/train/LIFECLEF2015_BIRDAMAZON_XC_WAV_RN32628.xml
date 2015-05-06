@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>32628</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN32628.wav</FileName>
+  <ClassId>ohgmhe</ClassId>
+  <Date>2010-06-06</Date>
+  <Time>10:00</Time>
+  <Locality>Careiro, Amazonas</Locality>
+  <Latitude>-3.4915</Latitude>
+  <Longitude>-59.9304</Longitude>
+  <Elevation>20</Elevation>
+  <Author>GABRIEL LEITE</Author>
+  <AuthorID>TGBFXDVERJ</AuthorID>
+  <Content>call</Content>
+  <Comments>bird-seen:yesplayback-used:no</Comments>
+  <Quality>2</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Furnariidae</Family>
+  <Genus>Philydor</Genus>
+  <Species>erythrocercum</Species>
+  <Sub-species />
+  <VernacularNames>Rufous-rumped Foliage-gleaner</VernacularNames>
+</Audio>

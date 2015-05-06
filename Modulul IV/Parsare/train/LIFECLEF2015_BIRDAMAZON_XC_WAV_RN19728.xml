@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>19728</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN19728.wav</FileName>
+  <ClassId>rojrwf</ClassId>
+  <Date>2002-12-12</Date>
+  <Time>05:00</Time>
+  <Locality>Bogota-Chapinero</Locality>
+  <Latitude>4.6301</Latitude>
+  <Longitude>-74.0626</Longitude>
+  <Elevation>2600</Elevation>
+  <Author>Doug Knapp</Author>
+  <AuthorID>BHRXQZEQFL</AuthorID>
+  <Content>Morning song-call</Content>
+  <Comments>Rooftop recording-mike was connected to my COMPUTER!</Comments>
+  <Quality>1</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Caprimulgiformes</Order>
+  <Family>Caprimulgidae</Family>
+  <Genus>Systellura</Genus>
+  <Species>longirostris</Species>
+  <Sub-species />
+  <VernacularNames>Band-winged Nightjar</VernacularNames>
+</Audio>

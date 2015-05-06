@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>8140</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN8140.wav</FileName>
+  <ClassId>dvcjbu</ClassId>
+  <Date>2007-10-05</Date>
+  <Time>23:30</Time>
+  <Locality>Gleba maior Reserva Biológica Estadual do Sassafrás, Doutor Pedrinho, Santa Catarina</Locality>
+  <Latitude>-26.7117</Latitude>
+  <Longitude>-49.6756</Longitude>
+  <Elevation>920</Elevation>
+  <Author>Adrian Eisen Rupp</Author>
+  <AuthorID>AOPMSCIDIA</AuthorID>
+  <Content>song</Content>
+  <Comments>duet</Comments>
+  <Quality>2</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies />
+  <Order>Strigiformes</Order>
+  <Family>Strigidae</Family>
+  <Genus>Pulsatrix</Genus>
+  <Species>koeniswaldiana</Species>
+  <Sub-species />
+  <VernacularNames>Tawny-browed Owl</VernacularNames>
+</Audio>

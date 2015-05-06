@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>26231</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN26231.wav</FileName>
+  <ClassId>kuggpr</ClassId>
+  <Date>2014-01-16</Date>
+  <Time>10:30</Time>
+  <Locality>Braço do Trombudo, Santa Catarina</Locality>
+  <Latitude>-27.3532</Latitude>
+  <Longitude>-49.9037</Longitude>
+  <Elevation>460</Elevation>
+  <Author>Glauco Kohler</Author>
+  <AuthorID>JDNMEJOJEQ</AuthorID>
+  <Content>song</Content>
+  <Comments>bird-seen:noplayback-used:no</Comments>
+  <Quality>1</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Thamnophilidae</Family>
+  <Genus>Batara</Genus>
+  <Species>cinerea</Species>
+  <Sub-species />
+  <VernacularNames>Giant Antshrike</VernacularNames>
+</Audio>

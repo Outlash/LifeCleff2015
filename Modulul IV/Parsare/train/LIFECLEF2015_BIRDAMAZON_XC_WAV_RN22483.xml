@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>22483</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN22483.wav</FileName>
+  <ClassId>iadzvh</ClassId>
+  <Date>2013-02-04</Date>
+  <Time>07:00</Time>
+  <Locality>La Eme, Urrao, Antioquia</Locality>
+  <Latitude>6.0131</Latitude>
+  <Longitude>-76.1662</Longitude>
+  <Elevation>2680</Elevation>
+  <Author>Diego Calderon-F.</Author>
+  <AuthorID>OGATBVKNAG</AuthorID>
+  <Content>song</Content>
+  <Comments>a couplebird-seen:yesplayback-used:yes</Comments>
+  <Quality>0</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Thraupidae</Family>
+  <Genus>Oreothraupis</Genus>
+  <Species>arremonops</Species>
+  <Sub-species />
+  <VernacularNames>Tanager Finch</VernacularNames>
+</Audio>

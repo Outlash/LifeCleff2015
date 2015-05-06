@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>5851</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN5851.wav</FileName>
+  <ClassId>qnjjng</ClassId>
+  <Date>2006-08-05</Date>
+  <Time>15:15</Time>
+  <Locality>Pakaas Palafitas Lodge, RO</Locality>
+  <Latitude>-10.8576</Latitude>
+  <Longitude>-65.2792</Longitude>
+  <Elevation>135</Elevation>
+  <Author>Bradley Davis</Author>
+  <AuthorID>YNXJLOESBB</AuthorID>
+  <Content>call</Content>
+  <Comments />
+  <Quality>1</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Thamnophilidae</Family>
+  <Genus>Cercomacra</Genus>
+  <Species>nigrescens</Species>
+  <Sub-species />
+  <VernacularNames>Blackish Antbird</VernacularNames>
+</Audio>

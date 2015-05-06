@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>6791</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN6791.wav</FileName>
+  <ClassId>vyxqzu</ClassId>
+  <Date>2007-12-16</Date>
+  <Time>11:00</Time>
+  <Locality>Praia do Vargas - Araruama - RJ</Locality>
+  <Latitude>-22.9167</Latitude>
+  <Longitude>-42.3334</Longitude>
+  <Elevation>15</Elevation>
+  <Author>Ricardo Gagliardi</Author>
+  <AuthorID>YRDADNREOP</AuthorID>
+  <Content>contact call</Content>
+  <Comments />
+  <Quality>1</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies>Troglodytes aedon,Ramphocelus bresilius</BackgroundSpecies>
+  <Order>Passeriformes</Order>
+  <Family>Thamnophilidae</Family>
+  <Genus>Formicivora</Genus>
+  <Species>serrana</Species>
+  <Sub-species>littoralis</Sub-species>
+  <VernacularNames>Serra Antwren</VernacularNames>
+</Audio>

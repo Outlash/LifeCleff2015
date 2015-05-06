@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>2854</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN2854.wav</FileName>
+  <ClassId>nnuubm</ClassId>
+  <Date>2008-12-21</Date>
+  <Time>9,15</Time>
+  <Locality>Carrancas, Minas Gerais</Locality>
+  <Latitude>-21.4706</Latitude>
+  <Longitude>-44.6376</Longitude>
+  <Elevation>1150</Elevation>
+  <Author>Marcos Melo</Author>
+  <AuthorID>MRGDYNJGUJ</AuthorID>
+  <Content>call, song</Content>
+  <Comments>flight above my head</Comments>
+  <Quality>2</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Icteridae</Family>
+  <Genus>Pseudoleistes</Genus>
+  <Species>guirahuro</Species>
+  <Sub-species />
+  <VernacularNames>Yellow-rumped Marshbird</VernacularNames>
+</Audio>

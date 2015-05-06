@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>31511</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN31511.wav</FileName>
+  <ClassId>mwmwbb</ClassId>
+  <Date>2012-05-11</Date>
+  <Time>07:19</Time>
+  <Locality>15 km east of São Jose dos Pinhais, Paraná</Locality>
+  <Latitude>-25.5709</Latitude>
+  <Longitude>-49.0573</Longitude>
+  <Elevation>900</Elevation>
+  <Author>Jon King</Author>
+  <AuthorID>LNEEOOWCQR</AuthorID>
+  <Content>male, song</Content>
+  <Comments>Distance to mic. 9m. Same bird as XC114451. Part of a very long song sequence, first few notes missed.bird-seen:yesplayback-used:yes</Comments>
+  <Quality>2</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Rhinocryptidae</Family>
+  <Genus>Scytalopus</Genus>
+  <Species>iraiensis</Species>
+  <Sub-species />
+  <VernacularNames>Marsh Tapaculo</VernacularNames>
+</Audio>

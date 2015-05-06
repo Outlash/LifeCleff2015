@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>19081</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN19081.wav</FileName>
+  <ClassId>yjatvw</ClassId>
+  <Date>2008-08-10</Date>
+  <Time>?</Time>
+  <Locality>Bolivar, Tumeremo</Locality>
+  <Latitude>7.3</Latitude>
+  <Longitude>-61.5</Longitude>
+  <Elevation>?</Elevation>
+  <Author>Alexandre Renaudier</Author>
+  <AuthorID>GKADEITXTH</AuthorID>
+  <Content>call</Content>
+  <Comments>2 individuals together</Comments>
+  <Quality>3</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Strigiformes</Order>
+  <Family>Strigidae</Family>
+  <Genus>Pseudoscops</Genus>
+  <Species>clamator</Species>
+  <Sub-species />
+  <VernacularNames>Striped Owl</VernacularNames>
+</Audio>

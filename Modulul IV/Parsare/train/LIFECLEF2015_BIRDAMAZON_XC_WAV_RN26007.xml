@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>26007</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN26007.wav</FileName>
+  <ClassId>mgeafu</ClassId>
+  <Date>2000-07-27</Date>
+  <Time>09:50</Time>
+  <Locality>Icononzo (carretera a Melgar), Tolima</Locality>
+  <Latitude>NULL</Latitude>
+  <Longitude>NULL</Longitude>
+  <Elevation>1500</Elevation>
+  <Author>Bernabe Lopez-Lanus</Author>
+  <AuthorID>BYLLSJRVDZ</AuthorID>
+  <Content>Call</Content>
+  <Comments />
+  <Quality>3</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Fringillidae</Family>
+  <Genus>Euphonia</Genus>
+  <Species>concinna</Species>
+  <Sub-species />
+  <VernacularNames>Velvet-fronted Euphonia</VernacularNames>
+</Audio>

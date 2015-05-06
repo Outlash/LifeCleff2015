@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>10412</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN10412.wav</FileName>
+  <ClassId>sjnejm</ClassId>
+  <Date>2011-06-06</Date>
+  <Time>06:25</Time>
+  <Locality>urban area, Cuiaba, Mato Grosso state</Locality>
+  <Latitude>-15.605</Latitude>
+  <Longitude>-56.077</Longitude>
+  <Elevation>200</Elevation>
+  <Author>Marcos Melo</Author>
+  <AuthorID>MRGDYNJGUJ</AuthorID>
+  <Content>call</Content>
+  <Comments>one couple on near nest, response playback of the previous record XC90779, urban area</Comments>
+  <Quality>2</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies>Thraupis sayaca,Passer domesticus</BackgroundSpecies>
+  <Order>Passeriformes</Order>
+  <Family>Polioptilidae</Family>
+  <Genus>Polioptila</Genus>
+  <Species>dumicola</Species>
+  <Sub-species />
+  <VernacularNames>Masked Gnatcatcher</VernacularNames>
+</Audio>

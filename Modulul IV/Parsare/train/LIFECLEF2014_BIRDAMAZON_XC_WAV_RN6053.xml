@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>6053</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN6053.wav</FileName>
+  <ClassId>htgkfv</ClassId>
+  <Date>2008-12-12</Date>
+  <Time>7:30</Time>
+  <Locality>left bank of the Amazon River, Prainha, Pará state</Locality>
+  <Latitude>NULL</Latitude>
+  <Longitude>NULL</Longitude>
+  <Elevation>70</Elevation>
+  <Author>Guilherme R R Brito</Author>
+  <AuthorID>OAYOBWYOOM</AuthorID>
+  <Content>call</Content>
+  <Comments />
+  <Quality>3</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies>Trogon viridis,Crypturellus undulatus</BackgroundSpecies>
+  <Order>Passeriformes</Order>
+  <Family>Tyrannidae</Family>
+  <Genus>Mionectes</Genus>
+  <Species>oleagineus</Species>
+  <Sub-species />
+  <VernacularNames>Ochre-bellied Flycatcher</VernacularNames>
+</Audio>

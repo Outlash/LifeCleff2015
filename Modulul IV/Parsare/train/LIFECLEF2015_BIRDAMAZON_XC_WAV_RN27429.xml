@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>27429</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN27429.wav</FileName>
+  <ClassId>xoqhws</ClassId>
+  <Date>2009-08-21</Date>
+  <Time>16:20</Time>
+  <Locality>Sento Se, state of Bahia</Locality>
+  <Latitude>NULL</Latitude>
+  <Longitude>NULL</Longitude>
+  <Elevation>800</Elevation>
+  <Author>Ciro Albano</Author>
+  <AuthorID>MXVQPUKGWW</AuthorID>
+  <Content>song</Content>
+  <Comments>img:http://farm3.static.flickr.com/2650/3884363675_fa78908043_o.jpg</Comments>
+  <Quality>1</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Furnariidae</Family>
+  <Genus>Megaxenops</Genus>
+  <Species>parnaguae</Species>
+  <Sub-species />
+  <VernacularNames>Great Xenops</VernacularNames>
+</Audio>

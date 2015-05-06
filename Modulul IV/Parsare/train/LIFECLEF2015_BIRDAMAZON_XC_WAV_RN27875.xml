@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>27875</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN27875.wav</FileName>
+  <ClassId>kaivna</ClassId>
+  <Date>2003-05-28</Date>
+  <Time>?</Time>
+  <Locality>Reserva privada Yotoco, Yotoco, Valle del Cauca</Locality>
+  <Latitude>3.8775</Latitude>
+  <Longitude>-76.43195</Longitude>
+  <Elevation>1600</Elevation>
+  <Author>Mauricio Álvarez Rebolledo (Colección de Sonidos Ambientales - Instituto Humboldt)</Author>
+  <AuthorID>XMFDPACYJN</AuthorID>
+  <Content>song</Content>
+  <Comments>BSA 12844To obtain a wav file of the original recording, please contact csa@humboldt.org.coplayback-used:no</Comments>
+  <Quality>1</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies>Myioborus miniatus,Hylophilus semibrunneus</BackgroundSpecies>
+  <Order>Galliformes</Order>
+  <Family>Odontophoridae</Family>
+  <Genus>Odontophorus</Genus>
+  <Species>hyperythrus</Species>
+  <Sub-species />
+  <VernacularNames>Chestnut Wood Quail</VernacularNames>
+</Audio>

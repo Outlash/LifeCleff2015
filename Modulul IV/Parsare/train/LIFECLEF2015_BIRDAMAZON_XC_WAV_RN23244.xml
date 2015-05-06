@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>23244</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN23244.wav</FileName>
+  <ClassId>lpkqoy</ClassId>
+  <Date>2014-01-11</Date>
+  <Time>07:30</Time>
+  <Locality>Area natural el sutu Mistrato, Risaralda</Locality>
+  <Latitude>5.3841</Latitude>
+  <Longitude>-75.8881</Longitude>
+  <Elevation>1800</Elevation>
+  <Author>Oswaldo Cortes</Author>
+  <AuthorID>VVDRVZCVWW</AuthorID>
+  <Content>song</Content>
+  <Comments>bird-seen:yesplayback-used:no</Comments>
+  <Quality>3</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Formicariidae</Family>
+  <Genus>Formicarius</Genus>
+  <Species>rufipectus</Species>
+  <Sub-species />
+  <VernacularNames>Rufous-breasted Antthrush</VernacularNames>
+</Audio>

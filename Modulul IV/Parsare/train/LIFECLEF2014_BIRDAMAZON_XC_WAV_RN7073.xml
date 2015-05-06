@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>7073</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN7073.wav</FileName>
+  <ClassId>wckepf</ClassId>
+  <Date>2010-01-25</Date>
+  <Time>09:00</Time>
+  <Locality>Fazenda Country, Canavieiras, Bahia state</Locality>
+  <Latitude>-15.4173</Latitude>
+  <Longitude>-38.9971</Longitude>
+  <Elevation>50</Elevation>
+  <Author>Antonio Silveira</Author>
+  <AuthorID>NBJQSQJRYH</AuthorID>
+  <Content>male, song</Content>
+  <Comments>bird-seen:yesplayback-used:yes</Comments>
+  <Quality>1</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Tyrannidae</Family>
+  <Genus>Euscarthmus</Genus>
+  <Species>meloryphus</Species>
+  <Sub-species />
+  <VernacularNames>Tawny-crowned Pygmy Tyrant</VernacularNames>
+</Audio>

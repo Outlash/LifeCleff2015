@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>14637</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN14637.wav</FileName>
+  <ClassId>ytwsmv</ClassId>
+  <Date>2008-02-26</Date>
+  <Time>10:07</Time>
+  <Locality>Rancho Grande, Parque Nacional Henri Pittier, Aragua</Locality>
+  <Latitude>10.3492</Latitude>
+  <Longitude>-67.6851</Longitude>
+  <Elevation>1150</Elevation>
+  <Author>Nick Athanas</Author>
+  <AuthorID>XRABICUARW</AuthorID>
+  <Content>song</Content>
+  <Comments />
+  <Quality>0</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies>Glaucidium brasilianum,Euphonia xanthogaster,Vireo leucophrys</BackgroundSpecies>
+  <Order>Piciformes</Order>
+  <Family>Ramphastidae</Family>
+  <Genus>Aulacorhynchus</Genus>
+  <Species>sulcatus</Species>
+  <Sub-species>sulcatus</Sub-species>
+  <VernacularNames>Groove-billed Toucanet</VernacularNames>
+</Audio>

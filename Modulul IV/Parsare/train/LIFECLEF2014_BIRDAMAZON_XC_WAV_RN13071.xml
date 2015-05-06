@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>13071</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN13071.wav</FileName>
+  <ClassId>liclqi</ClassId>
+  <Date>2006-04-08</Date>
+  <Time>07:40</Time>
+  <Locality>Alta Floresta, MT</Locality>
+  <Latitude>-9.8781</Latitude>
+  <Longitude>-56.0981</Longitude>
+  <Elevation>290</Elevation>
+  <Author>Bradley Davis</Author>
+  <AuthorID>YNXJLOESBB</AuthorID>
+  <Content>song</Content>
+  <Comments>3 birds near a nest site</Comments>
+  <Quality>3</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies>Psarocolius decumanus,Lipaugus vociferans</BackgroundSpecies>
+  <Order>Passeriformes</Order>
+  <Family>Furnariidae</Family>
+  <Genus>Dendrexetastes</Genus>
+  <Species>rufigula</Species>
+  <Sub-species>moniliger</Sub-species>
+  <VernacularNames>Cinnamon-throated Woodcreeper</VernacularNames>
+</Audio>

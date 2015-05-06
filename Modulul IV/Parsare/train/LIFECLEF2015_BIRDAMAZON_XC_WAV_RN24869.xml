@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>24869</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN24869.wav</FileName>
+  <ClassId>fqumzc</ClassId>
+  <Date>2009-01-05</Date>
+  <Time>06:30</Time>
+  <Locality>Altamira Edo Barinas</Locality>
+  <Latitude>8.8211</Latitude>
+  <Longitude>-70.5013</Longitude>
+  <Elevation>750</Elevation>
+  <Author>Joe Klaiber</Author>
+  <AuthorID>TNPOVFLZMY</AuthorID>
+  <Content>call</Content>
+  <Comments>bird-seen:yesplayback-used:no</Comments>
+  <Quality>1</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Piciformes</Order>
+  <Family>Picidae</Family>
+  <Genus>Campephilus</Genus>
+  <Species>melanoleucos</Species>
+  <Sub-species />
+  <VernacularNames>Crimson-crested Woodpecker</VernacularNames>
+</Audio>

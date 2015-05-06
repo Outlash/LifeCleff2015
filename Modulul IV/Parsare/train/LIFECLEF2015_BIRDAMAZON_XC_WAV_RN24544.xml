@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>24544</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN24544.wav</FileName>
+  <ClassId>omrceb</ClassId>
+  <Date>2013-05-09</Date>
+  <Time>11:00</Time>
+  <Locality>Paraibuna, São Paulo</Locality>
+  <Latitude>-23.5797</Latitude>
+  <Longitude>-45.5474</Longitude>
+  <Elevation>800</Elevation>
+  <Author>Rodrigo Dela Rosa</Author>
+  <AuthorID>VGXDJMKETZ</AuthorID>
+  <Content>female, male, song</Content>
+  <Comments>bird-seen:yesplayback-used:yes</Comments>
+  <Quality>2</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Furnariidae</Family>
+  <Genus>Anabazenops</Genus>
+  <Species>fuscus</Species>
+  <Sub-species />
+  <VernacularNames>White-collared Foliage-gleaner</VernacularNames>
+</Audio>

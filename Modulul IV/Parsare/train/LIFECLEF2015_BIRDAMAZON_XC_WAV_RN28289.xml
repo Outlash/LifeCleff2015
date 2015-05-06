@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>28289</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN28289.wav</FileName>
+  <ClassId>fyzdky</ClassId>
+  <Date>2002-02-22</Date>
+  <Time>10:30:00</Time>
+  <Locality>La Cristalina, Aranzazu, Caldas</Locality>
+  <Latitude>5.219833</Latitude>
+  <Longitude>-75.40403</Longitude>
+  <Elevation>3100</Elevation>
+  <Author>Mauricio Álvarez Rebolledo (Colección de Sonidos Ambientales - Instituto Humboldt)</Author>
+  <AuthorID>XMFDPACYJN</AuthorID>
+  <Content>call</Content>
+  <Comments>al vueloBSA 10048To obtain a wav file of the original recording, please contact csa@humboldt.org.coplayback-used:no</Comments>
+  <Quality>2</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Apodiformes</Order>
+  <Family>Trochilidae</Family>
+  <Genus>Boissonneaua</Genus>
+  <Species>flavescens</Species>
+  <Sub-species />
+  <VernacularNames>Buff-tailed Coronet</VernacularNames>
+</Audio>

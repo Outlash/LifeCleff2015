@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>10898</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN10898.wav</FileName>
+  <ClassId>ekarsb</ClassId>
+  <Date>2009-04-15</Date>
+  <Time>?:?</Time>
+  <Locality>Tupana</Locality>
+  <Latitude>NULL</Latitude>
+  <Longitude>NULL</Longitude>
+  <Elevation>?</Elevation>
+  <Author>Joseph Tobias and Nathalie Seddon</Author>
+  <AuthorID>IKMWQIXRNV</AuthorID>
+  <Content>song</Content>
+  <Comments>track T2116.</Comments>
+  <Quality>2</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Thamnophilidae</Family>
+  <Genus>Myrmoborus</Genus>
+  <Species>myotherinus</Species>
+  <Sub-species />
+  <VernacularNames>Black-faced Antbird</VernacularNames>
+</Audio>

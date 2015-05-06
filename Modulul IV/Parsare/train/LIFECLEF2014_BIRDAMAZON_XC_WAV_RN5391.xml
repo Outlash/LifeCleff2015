@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>5391</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN5391.wav</FileName>
+  <ClassId>dkxicr</ClassId>
+  <Date>2013-02-05</Date>
+  <Time>07:30</Time>
+  <Locality>Lavrinhas, São Paulo</Locality>
+  <Latitude>-22.5657</Latitude>
+  <Longitude>-44.9217</Longitude>
+  <Elevation>550</Elevation>
+  <Author>Paulo Affonso Fonseca Pires Neto</Author>
+  <AuthorID>QOMWCAGQJX</AuthorID>
+  <Content>song</Content>
+  <Comments>bird-seen:yesplayback-used:no</Comments>
+  <Quality>2</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Thraupidae</Family>
+  <Genus>Sporophila</Genus>
+  <Species>frontalis</Species>
+  <Sub-species />
+  <VernacularNames>Buffy-fronted Seedeater</VernacularNames>
+</Audio>

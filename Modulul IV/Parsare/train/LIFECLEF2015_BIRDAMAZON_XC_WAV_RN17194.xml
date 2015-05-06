@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>17194</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN17194.wav</FileName>
+  <ClassId>ewisum</ClassId>
+  <Date>2003-04-08</Date>
+  <Time>13:58</Time>
+  <Locality>Suaita, Santander</Locality>
+  <Latitude>6.106418</Latitude>
+  <Longitude>-73.45562</Longitude>
+  <Elevation>1400</Elevation>
+  <Author>Oscar Laverde</Author>
+  <AuthorID>WKVKSVMNDZ</AuthorID>
+  <Content>call</Content>
+  <Comments />
+  <Quality>0</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies>Saltator striatipectus</BackgroundSpecies>
+  <Order>Passeriformes</Order>
+  <Family>Parulidae</Family>
+  <Genus>Basileuterus</Genus>
+  <Species>culicivorus</Species>
+  <Sub-species />
+  <VernacularNames>Golden-crowned Warbler</VernacularNames>
+</Audio>

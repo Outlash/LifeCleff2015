@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>9409</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN9409.wav</FileName>
+  <ClassId>vcflij</ClassId>
+  <Date>2011-01-26</Date>
+  <Time>10am</Time>
+  <Locality>Comandatuba Island, Una,Bahia, Brazil</Locality>
+  <Latitude>-15.355</Latitude>
+  <Longitude>-38.982</Longitude>
+  <Elevation>0</Elevation>
+  <Author>Antonio Silveira</Author>
+  <AuthorID>NBJQSQJRYH</AuthorID>
+  <Content>song</Content>
+  <Comments>Several couples lives in this island.bird-seen:yesplayback-used:yes</Comments>
+  <Quality>0</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies />
+  <Order>Gruiformes</Order>
+  <Family>Rallidae</Family>
+  <Genus>Laterallus</Genus>
+  <Species>viridis</Species>
+  <Sub-species />
+  <VernacularNames>Russet-crowned Crake</VernacularNames>
+</Audio>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>21721</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN21721.wav</FileName>
+  <ClassId>qhsdfp</ClassId>
+  <Date>1998-06-20</Date>
+  <Time>18:00</Time>
+  <Locality>Hacienda Las Cruces, area La Ceja-Toche, Mpio Ibague, Tolima</Locality>
+  <Latitude>NULL</Latitude>
+  <Longitude>NULL</Longitude>
+  <Elevation>2500</Elevation>
+  <Author>Bernabe Lopez-Lanus</Author>
+  <AuthorID>BYLLSJRVDZ</AuthorID>
+  <Content>Song</Content>
+  <Comments />
+  <Quality>3</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Grallariidae</Family>
+  <Genus>Grallaricula</Genus>
+  <Species>nana</Species>
+  <Sub-species>nana</Sub-species>
+  <VernacularNames>Slaty-crowned Antpitta</VernacularNames>
+</Audio>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>25892</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN25892.wav</FileName>
+  <ClassId>lmzyer</ClassId>
+  <Date>2005-07-05</Date>
+  <Time>08:00</Time>
+  <Locality>Parque Nacional Natural Macuira</Locality>
+  <Latitude>12.106</Latitude>
+  <Longitude>-71.483</Longitude>
+  <Elevation>500</Elevation>
+  <Author>Oswaldo Cortes</Author>
+  <AuthorID>VVDRVZCVWW</AuthorID>
+  <Content>song</Content>
+  <Comments />
+  <Quality>0</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Thraupidae</Family>
+  <Genus>Sporophila</Genus>
+  <Species>bouvronides</Species>
+  <Sub-species />
+  <VernacularNames>Lesson's Seedeater</VernacularNames>
+</Audio>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>6811</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN6811.wav</FileName>
+  <ClassId>ssjqni</ClassId>
+  <Date>2010-11-30</Date>
+  <Time>6:05</Time>
+  <Locality>Belterra, PA - Bacia 103</Locality>
+  <Latitude>-2.696</Latitude>
+  <Longitude>-54.897</Longitude>
+  <Elevation>?</Elevation>
+  <Author>Christian Borges Andretti</Author>
+  <AuthorID>EZSMXGTXKS</AuthorID>
+  <Content>song</Content>
+  <Comments />
+  <Quality>3</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Thamnophilidae</Family>
+  <Genus>Myrmotherula</Genus>
+  <Species>axillaris</Species>
+  <Sub-species />
+  <VernacularNames>White-flanked Antwren</VernacularNames>
+</Audio>

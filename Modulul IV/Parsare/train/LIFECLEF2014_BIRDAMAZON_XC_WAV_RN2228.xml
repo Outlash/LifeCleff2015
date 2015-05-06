@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>2228</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN2228.wav</FileName>
+  <ClassId>psfsos</ClassId>
+  <Date>2011-05-20</Date>
+  <Time>07:35</Time>
+  <Locality>Paragominas, PA, Brazil, Bacia 549</Locality>
+  <Latitude>-3.8101</Latitude>
+  <Longitude>-48.377</Longitude>
+  <Elevation>?</Elevation>
+  <Author>Nargila Moura</Author>
+  <AuthorID>CWEIBYBYYD</AuthorID>
+  <Content>song</Content>
+  <Comments>primary forest, 'Xingu Scale-backed Antbird'</Comments>
+  <Quality>3</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies>Celeus undatus,Cercomacra cinerascens,Platyrinchus platyrhynchos,Tyranneutes stolzmanni</BackgroundSpecies>
+  <Order>Passeriformes</Order>
+  <Family>Thamnophilidae</Family>
+  <Genus>Willisornis</Genus>
+  <Species>vidua</Species>
+  <Sub-species>vidua</Sub-species>
+  <VernacularNames>Xingu Scale-backed Antbird</VernacularNames>
+</Audio>

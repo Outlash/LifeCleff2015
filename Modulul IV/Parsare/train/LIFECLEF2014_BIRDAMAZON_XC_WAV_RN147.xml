@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>147</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN147.wav</FileName>
+  <ClassId>hoxugq</ClassId>
+  <Date>0000-00-00</Date>
+  <Time>?:?</Time>
+  <Locality>Parque Nacional do Itatiaia</Locality>
+  <Latitude>-22.3</Latitude>
+  <Longitude>-44.6</Longitude>
+  <Elevation>?</Elevation>
+  <Author>Frank Lambert</Author>
+  <AuthorID>YTUXOCTUEM</AuthorID>
+  <Content>call</Content>
+  <Comments>Previously published on AVoCet as &lt;a href=http://avocet.zoology.msu.edu/recordings/7571&gt;AV7571&lt;/a&gt;.  GPS: estimate from GeoHack. presumably alarm  digitized from cassette</Comments>
+  <Quality>3</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies />
+  <Order>Galliformes</Order>
+  <Family>Odontophoridae</Family>
+  <Genus>Odontophorus</Genus>
+  <Species>capueira</Species>
+  <Sub-species>capueira</Sub-species>
+  <VernacularNames>Spot-winged Wood Quail</VernacularNames>
+</Audio>

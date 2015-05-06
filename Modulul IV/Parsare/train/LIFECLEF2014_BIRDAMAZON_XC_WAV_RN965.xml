@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>965</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN965.wav</FileName>
+  <ClassId>zfdlov</ClassId>
+  <Date>2001-10-26</Date>
+  <Time>09:31</Time>
+  <Locality>Serra do Mar State Park. Santa Virgínia</Locality>
+  <Latitude>-23.3834</Latitude>
+  <Longitude>-45.1334</Longitude>
+  <Elevation>900</Elevation>
+  <Author>Jeremy Minns</Author>
+  <AuthorID>DGVLLRYDXS</AuthorID>
+  <Content>call, song</Content>
+  <Comments>Rio Ipiranga trail. Montane forest.</Comments>
+  <Quality>2</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies>Patagioenas plumbea,Myiarchus swainsoni,Vireo olivaceus,Basileuterus culicivorus</BackgroundSpecies>
+  <Order>Passeriformes</Order>
+  <Family>Tyrannidae</Family>
+  <Genus>Phylloscartes</Genus>
+  <Species>oustaleti</Species>
+  <Sub-species />
+  <VernacularNames>Oustalet's Tyrannulet</VernacularNames>
+</Audio>

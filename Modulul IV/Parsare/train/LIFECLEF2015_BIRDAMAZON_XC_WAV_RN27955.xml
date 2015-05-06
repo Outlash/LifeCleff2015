@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>27955</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN27955.wav</FileName>
+  <ClassId>nlvpld</ClassId>
+  <Date>1998-07-20</Date>
+  <Time>10:30</Time>
+  <Locality>Toche, Cajamarca, Tolima</Locality>
+  <Latitude>NULL</Latitude>
+  <Longitude>NULL</Longitude>
+  <Elevation>2000</Elevation>
+  <Author>Bernabe Lopez-Lanus</Author>
+  <AuthorID>BYLLSJRVDZ</AuthorID>
+  <Content>Song</Content>
+  <Comments>Idem</Comments>
+  <Quality>5</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Columbiformes</Order>
+  <Family>Columbidae</Family>
+  <Genus>Leptotila</Genus>
+  <Species>conoveri</Species>
+  <Sub-species />
+  <VernacularNames>Tolima Dove</VernacularNames>
+</Audio>

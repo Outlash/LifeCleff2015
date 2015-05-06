@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>4250</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN4250.wav</FileName>
+  <ClassId>uuvfxv</ClassId>
+  <Date>2002-02-02</Date>
+  <Time>18:17</Time>
+  <Locality>Serra dos Carajás. Road to Salobo</Locality>
+  <Latitude>-6.0501</Latitude>
+  <Longitude>-50.2667</Longitude>
+  <Elevation>660</Elevation>
+  <Author>Jeremy Minns</Author>
+  <AuthorID>DGVLLRYDXS</AuthorID>
+  <Content>call, song</Content>
+  <Comments>Road to Salobo. Canga.</Comments>
+  <Quality>2</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies>Crypturellus soui,Coereba flaveola</BackgroundSpecies>
+  <Order>Passeriformes</Order>
+  <Family>Parulidae</Family>
+  <Genus>Myiothlypis</Genus>
+  <Species>flaveola</Species>
+  <Sub-species />
+  <VernacularNames>Flavescent Warbler</VernacularNames>
+</Audio>

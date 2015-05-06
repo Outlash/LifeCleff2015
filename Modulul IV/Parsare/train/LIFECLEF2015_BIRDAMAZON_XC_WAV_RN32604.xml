@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>32604</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN32604.wav</FileName>
+  <ClassId>sjnejm</ClassId>
+  <Date>2014-10-24</Date>
+  <Time>09:00</Time>
+  <Locality>Lagoa de Sombrio, Balneário Gaivota, State of Santa Catarina</Locality>
+  <Latitude>-29.1757</Latitude>
+  <Longitude>-49.6727</Longitude>
+  <Elevation>0</Elevation>
+  <Author>João Gava Just</Author>
+  <AuthorID>CEKMJEZKSJ</AuthorID>
+  <Content>male, song</Content>
+  <Comments>bird-seen:yesplayback-used:no</Comments>
+  <Quality>3</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Polioptilidae</Family>
+  <Genus>Polioptila</Genus>
+  <Species>dumicola</Species>
+  <Sub-species />
+  <VernacularNames>Masked Gnatcatcher</VernacularNames>
+</Audio>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>30979</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN30979.wav</FileName>
+  <ClassId>mnbfro</ClassId>
+  <Date>2012-07-22</Date>
+  <Time>07:00</Time>
+  <Locality>AICA La Patasola, Vereda Boquía, Salento, Quindio</Locality>
+  <Latitude>4.6861</Latitude>
+  <Longitude>-75.5472</Longitude>
+  <Elevation>2300</Elevation>
+  <Author>Oscar H. Marín-Gómez</Author>
+  <AuthorID>CSUHASNRSU</AuthorID>
+  <Content>song</Content>
+  <Comments>Ref OHM100. A flock of five birds fluttering in the Canopy. Distance to recorder: about 30m. Montane Forest.bird-seen:yesplayback-used:no</Comments>
+  <Quality>3</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Psittaciformes</Order>
+  <Family>Psittacidae</Family>
+  <Genus>Pionus</Genus>
+  <Species>seniloides</Species>
+  <Sub-species />
+  <VernacularNames>White-capped Parrot</VernacularNames>
+</Audio>

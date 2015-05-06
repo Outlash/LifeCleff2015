@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>7423</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN7423.wav</FileName>
+  <ClassId>zwdpnv</ClassId>
+  <Date>2009-06-11</Date>
+  <Time>07:35</Time>
+  <Locality>Left bank of Rio Teles Pires, Paranaita, Mato Grosso</Locality>
+  <Latitude>-9.2373</Latitude>
+  <Longitude>-56.9851</Longitude>
+  <Elevation>190</Elevation>
+  <Author>Guilherme R R Brito</Author>
+  <AuthorID>OAYOBWYOOM</AuthorID>
+  <Content>song</Content>
+  <Comments>two individuals, playback response</Comments>
+  <Quality>1</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Thamnophilidae</Family>
+  <Genus>Myrmotherula</Genus>
+  <Species>menetriesii</Species>
+  <Sub-species />
+  <VernacularNames>Grey Antwren</VernacularNames>
+</Audio>

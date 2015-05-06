@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>330</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN330.wav</FileName>
+  <ClassId>gmeajz</ClassId>
+  <Date>2010-05-24</Date>
+  <Time>8:08</Time>
+  <Locality>Mata de São João, Bahia.</Locality>
+  <Latitude>NULL</Latitude>
+  <Longitude>NULL</Longitude>
+  <Elevation>?</Elevation>
+  <Author>Sidnei S. dos Santos</Author>
+  <AuthorID>BHODJXTHGQ</AuthorID>
+  <Content>lekking</Content>
+  <Comments />
+  <Quality>1</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Pipridae</Family>
+  <Genus>Chiroxiphia</Genus>
+  <Species>pareola</Species>
+  <Sub-species />
+  <VernacularNames>Blue-backed Manakin</VernacularNames>
+</Audio>

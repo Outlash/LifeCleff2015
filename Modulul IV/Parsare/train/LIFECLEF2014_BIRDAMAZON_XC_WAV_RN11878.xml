@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>11878</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN11878.wav</FileName>
+  <ClassId>afzbzd</ClassId>
+  <Date>2008-09-07</Date>
+  <Time>09:00</Time>
+  <Locality>Reserva Osvaldo Timóteo, Fazenda Santa Maria, São José da Laje, Ala</Locality>
+  <Latitude>NULL</Latitude>
+  <Longitude>NULL</Longitude>
+  <Elevation>300</Elevation>
+  <Author>Guilherme S. T. de Lima</Author>
+  <AuthorID>CGOWAWUBWE</AuthorID>
+  <Content>Song</Content>
+  <Comments>Interesting variation</Comments>
+  <Quality>4</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies />
+  <Order>Cuculiformes</Order>
+  <Family>Cuculidae</Family>
+  <Genus>Tapera</Genus>
+  <Species>naevia</Species>
+  <Sub-species />
+  <VernacularNames>Striped Cuckoo</VernacularNames>
+</Audio>

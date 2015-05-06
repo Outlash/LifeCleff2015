@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>26709</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN26709.wav</FileName>
+  <ClassId>xuvusy</ClassId>
+  <Date>2010-12-04</Date>
+  <Time>10:20</Time>
+  <Locality>mitu</Locality>
+  <Latitude>NULL</Latitude>
+  <Longitude>NULL</Longitude>
+  <Elevation>260</Elevation>
+  <Author>Pablo Florez</Author>
+  <AuthorID>ISWBQKPBGS</AuthorID>
+  <Content>?</Content>
+  <Comments />
+  <Quality>0</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Pipridae</Family>
+  <Genus>Dixiphia</Genus>
+  <Species>pipra</Species>
+  <Sub-species />
+  <VernacularNames>White-crowned Manakin</VernacularNames>
+</Audio>

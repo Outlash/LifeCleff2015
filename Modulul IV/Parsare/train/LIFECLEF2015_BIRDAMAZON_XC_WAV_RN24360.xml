@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>24360</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN24360.wav</FileName>
+  <ClassId>vjukoo</ClassId>
+  <Date>2014-08-08</Date>
+  <Time>16:00</Time>
+  <Locality>Siderópolis, Santa Catarina state, Brazil</Locality>
+  <Latitude>-28.6155</Latitude>
+  <Longitude>-49.5164</Longitude>
+  <Elevation>180</Elevation>
+  <Author>João Gava Just</Author>
+  <AuthorID>CEKMJEZKSJ</AuthorID>
+  <Content>song</Content>
+  <Comments>bird-seen:noplayback-used:no</Comments>
+  <Quality>2</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Tyrannidae</Family>
+  <Genus>Attila</Genus>
+  <Species>rufus</Species>
+  <Sub-species />
+  <VernacularNames>Grey-hooded Attila</VernacularNames>
+</Audio>

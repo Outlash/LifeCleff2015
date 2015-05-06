@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>8712</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN8712.wav</FileName>
+  <ClassId>nrzcow</ClassId>
+  <Date>2001-06-19</Date>
+  <Time>16:33</Time>
+  <Locality>Hyacinth Cliffs, Piaui</Locality>
+  <Latitude>-9.45</Latitude>
+  <Longitude>-45.07</Longitude>
+  <Elevation>?</Elevation>
+  <Author>Paul Donahue</Author>
+  <AuthorID>LLRXADGTBA</AuthorID>
+  <Content>song</Content>
+  <Comments />
+  <Quality>1</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies />
+  <Order>Piciformes</Order>
+  <Family>Picidae</Family>
+  <Genus>Colaptes</Genus>
+  <Species>campestris</Species>
+  <Sub-species />
+  <VernacularNames>Campo Flicker</VernacularNames>
+</Audio>

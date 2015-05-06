@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>18637</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN18637.wav</FileName>
+  <ClassId>swoorg</ClassId>
+  <Date>2009-05-10</Date>
+  <Time>?</Time>
+  <Locality>Marambaia, Rio Grande, Rio Grande do Sul</Locality>
+  <Latitude>-31.8001</Latitude>
+  <Longitude>-52.3181</Longitude>
+  <Elevation>2</Elevation>
+  <Author>Cláudio Dias Timm</Author>
+  <AuthorID>PHPDEYUDTQ</AuthorID>
+  <Content>call</Content>
+  <Comments />
+  <Quality>2</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Pelecaniformes</Order>
+  <Family>Ardeidae</Family>
+  <Genus>Syrigma</Genus>
+  <Species>sibilatrix</Species>
+  <Sub-species>sibilatrix</Sub-species>
+  <VernacularNames>Whistling Heron</VernacularNames>
+</Audio>

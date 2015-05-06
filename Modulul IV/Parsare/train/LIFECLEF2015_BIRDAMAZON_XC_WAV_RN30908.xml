@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>30908</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN30908.wav</FileName>
+  <ClassId>zpvuom</ClassId>
+  <Date>2014-01-14</Date>
+  <Time>05:00</Time>
+  <Locality>Canal de Piaçaguera, Cubatão, São Paulo State</Locality>
+  <Latitude>-23.895</Latitude>
+  <Longitude>-46.4253</Longitude>
+  <Elevation>10</Elevation>
+  <Author>Robson Silva e Silva</Author>
+  <AuthorID>WZSVLIHYQF</AuthorID>
+  <Content>female, male, song</Content>
+  <Comments>bird-seen:yesplayback-used:yes</Comments>
+  <Quality>1</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Gruiformes</Order>
+  <Family>Rallidae</Family>
+  <Genus>Aramides</Genus>
+  <Species>cajaneus</Species>
+  <Sub-species>avicenniae</Sub-species>
+  <VernacularNames>Grey-necked Wood Rail</VernacularNames>
+</Audio>

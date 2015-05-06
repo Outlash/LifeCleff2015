@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>18893</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN18893.wav</FileName>
+  <ClassId>maqvgn</ClassId>
+  <Date>1998-10-27</Date>
+  <Time>08:03</Time>
+  <Locality>Reserva Biológica Augusto Ruschi, Santa Teresa, Espirito Santo</Locality>
+  <Latitude>-19.9079</Latitude>
+  <Longitude>-40.5484</Longitude>
+  <Elevation>750</Elevation>
+  <Author>Jeremy Minns</Author>
+  <AuthorID>DGVLLRYDXS</AuthorID>
+  <Content>song</Content>
+  <Comments>first cut natural, second after playbackbird-seen:noplayback-used:yes</Comments>
+  <Quality>3</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies>Philydor atricapillus</BackgroundSpecies>
+  <Order>Passeriformes</Order>
+  <Family>Cardinalidae</Family>
+  <Genus>Caryothraustes</Genus>
+  <Species>canadensis</Species>
+  <Sub-species />
+  <VernacularNames>Yellow-green Grosbeak</VernacularNames>
+</Audio>

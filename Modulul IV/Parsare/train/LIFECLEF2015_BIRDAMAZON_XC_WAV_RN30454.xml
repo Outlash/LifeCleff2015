@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>30454</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN30454.wav</FileName>
+  <ClassId>cwhfyt</ClassId>
+  <Date>2000-01-11</Date>
+  <Time>12:01</Time>
+  <Locality>Finca La Siberia, Roncesvalles, Tolima</Locality>
+  <Latitude>NULL</Latitude>
+  <Longitude>NULL</Longitude>
+  <Elevation>2800</Elevation>
+  <Author>Bernabe Lopez-Lanus</Author>
+  <AuthorID>BYLLSJRVDZ</AuthorID>
+  <Content>Call</Content>
+  <Comments />
+  <Quality>3</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Vireonidae</Family>
+  <Genus>Vireo</Genus>
+  <Species>leucophrys</Species>
+  <Sub-species />
+  <VernacularNames>Brown-capped Vireo</VernacularNames>
+</Audio>

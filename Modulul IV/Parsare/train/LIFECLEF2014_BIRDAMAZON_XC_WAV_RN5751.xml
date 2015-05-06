@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>5751</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN5751.wav</FileName>
+  <ClassId>hkgozq</ClassId>
+  <Date>2009-01-13</Date>
+  <Time>?</Time>
+  <Locality>Morro do Cachorro, Blumenau, Santa Catarina</Locality>
+  <Latitude>-26.7776</Latitude>
+  <Longitude>-49.0401</Longitude>
+  <Elevation>500</Elevation>
+  <Author>Adrian Eisen Rupp</Author>
+  <AuthorID>AOPMSCIDIA</AuthorID>
+  <Content>call</Content>
+  <Comments />
+  <Quality>2</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies>Attila phoenicurus,Vireo olivaceus</BackgroundSpecies>
+  <Order>Apodiformes</Order>
+  <Family>Trochilidae</Family>
+  <Genus>Phaethornis</Genus>
+  <Species>eurynome</Species>
+  <Sub-species />
+  <VernacularNames>Scale-throated Hermit</VernacularNames>
+</Audio>

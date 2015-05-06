@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>12221</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN12221.wav</FileName>
+  <ClassId>jpjrlh</ClassId>
+  <Date>2004-08-29</Date>
+  <Time>09:42</Time>
+  <Locality>Santana da Boa Vista. Rio Camaquan. RS</Locality>
+  <Latitude>-30.9834</Latitude>
+  <Longitude>-53.0501</Longitude>
+  <Elevation>400</Elevation>
+  <Author>Jeremy Minns</Author>
+  <AuthorID>DGVLLRYDXS</AuthorID>
+  <Content>Whistles and calls</Content>
+  <Comments>Gallery forest along Rio Camaquan. Male. After playback.</Comments>
+  <Quality>1</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies>Leptotila verreauxi,Trogon surrucura,Cyclarhis gujanensis,Myiothlypis leucoblephara</BackgroundSpecies>
+  <Order>Passeriformes</Order>
+  <Family>Thamnophilidae</Family>
+  <Genus>Mackenziaena</Genus>
+  <Species>leachii</Species>
+  <Sub-species />
+  <VernacularNames>Large-tailed Antshrike</VernacularNames>
+</Audio>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>31476</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN31476.wav</FileName>
+  <ClassId>dkinxl</ClassId>
+  <Date>2014-03-19</Date>
+  <Time>18:00</Time>
+  <Locality>Belo Oriente, Minas Gerais</Locality>
+  <Latitude>-19.2204</Latitude>
+  <Longitude>-42.4832</Longitude>
+  <Elevation>260</Elevation>
+  <Author>Roney Assis Souza</Author>
+  <AuthorID>AJYSYOLBOF</AuthorID>
+  <Content>song</Content>
+  <Comments>bird-seen:yesplayback-used:no</Comments>
+  <Quality>0</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Psittaciformes</Order>
+  <Family>Psittacidae</Family>
+  <Genus>Amazona</Genus>
+  <Species>vinacea</Species>
+  <Sub-species />
+  <VernacularNames>Vinaceous-breasted Amazon</VernacularNames>
+</Audio>

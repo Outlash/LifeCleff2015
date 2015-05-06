@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>13760</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN13760.wav</FileName>
+  <ClassId>dccvuj</ClassId>
+  <Date>2006-10-16</Date>
+  <Time>07:30</Time>
+  <Locality>Reserva Ecológica de Guapiaçu, RJ</Locality>
+  <Latitude>-22.5001</Latitude>
+  <Longitude>-42.7167</Longitude>
+  <Elevation>30</Elevation>
+  <Author>Frank Lambert</Author>
+  <AuthorID>YTUXOCTUEM</AuthorID>
+  <Content>call</Content>
+  <Comments>natural calls from dense grass in the water</Comments>
+  <Quality>2</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies />
+  <Order>Gruiformes</Order>
+  <Family>Rallidae</Family>
+  <Genus>Pardirallus</Genus>
+  <Species>nigricans</Species>
+  <Sub-species />
+  <VernacularNames>Blackish Rail</VernacularNames>
+</Audio>

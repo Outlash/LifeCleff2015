@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>29606</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN29606.wav</FileName>
+  <ClassId>xzvjkj</ClassId>
+  <Date>2009-08-06</Date>
+  <Time>07:50</Time>
+  <Locality>Ome Ecological Station, Purite River, Amazonas dep. 70 Km N of Leticia</Locality>
+  <Latitude>NULL</Latitude>
+  <Longitude>NULL</Longitude>
+  <Elevation>110</Elevation>
+  <Author>Gabriela Navarrete Forero</Author>
+  <AuthorID>LEHRZWLXDV</AuthorID>
+  <Content>song</Content>
+  <Comments>link:www.ornitologiacolombiana.org/oc9/Resumenes%20Tesis%20OC9.pdf</Comments>
+  <Quality>2</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Tityridae</Family>
+  <Genus>Schiffornis</Genus>
+  <Species>turdina</Species>
+  <Sub-species />
+  <VernacularNames>Brown-winged Schiffornis</VernacularNames>
+</Audio>

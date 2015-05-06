@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>19623</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN19623.wav</FileName>
+  <ClassId>ptfyqz</ClassId>
+  <Date>2013-12-15</Date>
+  <Time>19:00</Time>
+  <Locality>Setor  Samambaia, mata seca, perto da UFG-Agronomia, Goiânia-Goiás</Locality>
+  <Latitude>-16.6003</Latitude>
+  <Longitude>-49.2802</Longitude>
+  <Elevation>750</Elevation>
+  <Author>Nunes D'Acosta</Author>
+  <AuthorID>OHHTDSDNBT</AuthorID>
+  <Content>call, male</Content>
+  <Comments>Ave após se alimentar no comedouro , tomar  água num bebedouro  na  borda  da mata  alta  se  adentrou devagar  e  se pois a vocalizar. Início da noite.bird-seen:yes</Comments>
+  <Quality>3</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Tinamiformes</Order>
+  <Family>Tinamidae</Family>
+  <Genus>Crypturellus</Genus>
+  <Species>undulatus</Species>
+  <Sub-species />
+  <VernacularNames>Undulated Tinamou</VernacularNames>
+</Audio>

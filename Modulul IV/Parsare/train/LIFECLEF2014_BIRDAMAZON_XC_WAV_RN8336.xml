@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>8336</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN8336.wav</FileName>
+  <ClassId>hwjycx</ClassId>
+  <Date>2013-03-05</Date>
+  <Time>19:30</Time>
+  <Locality>Pão de Açúcar, Alagoas</Locality>
+  <Latitude>-9.7326</Latitude>
+  <Longitude>-37.4351</Longitude>
+  <Elevation>90</Elevation>
+  <Author>pedrotêia</Author>
+  <AuthorID>BZVNDWLRSQ</AuthorID>
+  <Content>song</Content>
+  <Comments>bird-seen:yesplayback-used:no</Comments>
+  <Quality>1</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies />
+  <Order>Caprimulgiformes</Order>
+  <Family>Caprimulgidae</Family>
+  <Genus>Setopagis</Genus>
+  <Species>parvula</Species>
+  <Sub-species />
+  <VernacularNames>Little Nightjar</VernacularNames>
+</Audio>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>7713</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN7713.wav</FileName>
+  <ClassId>pscjat</ClassId>
+  <Date>2012-11-04</Date>
+  <Time>16:30</Time>
+  <Locality>Nova Veneza, Santa Catarina, Brazil</Locality>
+  <Latitude>-28.638</Latitude>
+  <Longitude>-49.498</Longitude>
+  <Elevation>90</Elevation>
+  <Author>João Gava</Author>
+  <AuthorID>CEKMJEZKSJ</AuthorID>
+  <Content>call, female</Content>
+  <Comments>bird-seen:yesplayback-used:no</Comments>
+  <Quality>0</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Thraupidae</Family>
+  <Genus>Sicalis</Genus>
+  <Species>flaveola</Species>
+  <Sub-species />
+  <VernacularNames>Saffron Finch</VernacularNames>
+</Audio>

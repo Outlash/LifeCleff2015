@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>24896</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN24896.wav</FileName>
+  <ClassId>cpzzjy</ClassId>
+  <Date>2011-03-24</Date>
+  <Time>?</Time>
+  <Locality>Iracoubo, savane Trou Poissons</Locality>
+  <Latitude>5.327</Latitude>
+  <Longitude>-53.1028</Longitude>
+  <Elevation>5</Elevation>
+  <Author>Alexandre Renaudier</Author>
+  <AuthorID>GKADEITXTH</AuthorID>
+  <Content>song</Content>
+  <Comments />
+  <Quality>1</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies>Todirostrum cinereum,Patagioenas cayennensis,Volatinia jacarina,Elaenia flavogaster,Crypturellus cinereus</BackgroundSpecies>
+  <Order>Passeriformes</Order>
+  <Family>Mimidae</Family>
+  <Genus>Mimus</Genus>
+  <Species>gilvus</Species>
+  <Sub-species />
+  <VernacularNames>Tropical Mockingbird</VernacularNames>
+</Audio>

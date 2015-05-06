@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>13002</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN13002.wav</FileName>
+  <ClassId>zcwqjv</ClassId>
+  <Date>2009-12-27</Date>
+  <Time>07:44</Time>
+  <Locality>Turmalina, SP</Locality>
+  <Latitude>-20.052</Latitude>
+  <Longitude>-50.455</Longitude>
+  <Elevation>?</Elevation>
+  <Author>Ricardo Gagliardi</Author>
+  <AuthorID>YRDADNREOP</AuthorID>
+  <Content>call</Content>
+  <Comments />
+  <Quality>2</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies>Thraupis sayaca,Elaenia flavogaster,Brotogeris chiriri,Lepidocolaptes angustirostris,Guira guira</BackgroundSpecies>
+  <Order>Psittaciformes</Order>
+  <Family>Psittacidae</Family>
+  <Genus>Ara</Genus>
+  <Species>ararauna</Species>
+  <Sub-species />
+  <VernacularNames>Blue-and-yellow Macaw</VernacularNames>
+</Audio>

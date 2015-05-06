@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>17871</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN17871.wav</FileName>
+  <ClassId>yyjrms</ClassId>
+  <Date>2008-02-09</Date>
+  <Time>12:05</Time>
+  <Locality>Jardin, Antioquia</Locality>
+  <Latitude>5.736243</Latitude>
+  <Longitude>-75.86608</Longitude>
+  <Elevation>2900</Elevation>
+  <Author>Herman van Oosten</Author>
+  <AuthorID>SNUDCZVUQK</AuthorID>
+  <Content>song</Content>
+  <Comments>At last this species!</Comments>
+  <Quality>1</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Emberizidae</Family>
+  <Genus>Zonotrichia</Genus>
+  <Species>capensis</Species>
+  <Sub-species />
+  <VernacularNames>Rufous-collared Sparrow</VernacularNames>
+</Audio>

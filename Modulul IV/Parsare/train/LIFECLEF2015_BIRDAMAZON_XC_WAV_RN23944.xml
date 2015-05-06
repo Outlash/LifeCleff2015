@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>23944</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN23944.wav</FileName>
+  <ClassId>tmmseh</ClassId>
+  <Date>2012-08-07</Date>
+  <Time>10.00 am</Time>
+  <Locality>Hacienda Vuelta Larga</Locality>
+  <Latitude>10.6442</Latitude>
+  <Longitude>-62.9839</Longitude>
+  <Elevation>50</Elevation>
+  <Author>Thore Noernberg</Author>
+  <AuthorID>TTSQGWDDGW</AuthorID>
+  <Content>Call</Content>
+  <Comments>birds perching on plant island on a small lake</Comments>
+  <Quality>2</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Opisthocomiformes</Order>
+  <Family>Opisthocomidae</Family>
+  <Genus>Opisthocomus</Genus>
+  <Species>hoazin</Species>
+  <Sub-species />
+  <VernacularNames>Hoatzin</VernacularNames>
+</Audio>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>9743</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN9743.wav</FileName>
+  <ClassId>hrszxx</ClassId>
+  <Date>2002-12-01</Date>
+  <Time>08:41</Time>
+  <Locality>Reserva Volta Velha, Itapoá, SC</Locality>
+  <Latitude>-26.0834</Latitude>
+  <Longitude>-48.6334</Longitude>
+  <Elevation>10</Elevation>
+  <Author>Jeremy Minns</Author>
+  <AuthorID>DGVLLRYDXS</AuthorID>
+  <Content>call</Content>
+  <Comments>Coastal white sand forest. Calls by one of two birds in an emergent.</Comments>
+  <Quality>2</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies>Basileuterus culicivorus</BackgroundSpecies>
+  <Order>Passeriformes</Order>
+  <Family>Corvidae</Family>
+  <Genus>Cyanocorax</Genus>
+  <Species>caeruleus</Species>
+  <Sub-species />
+  <VernacularNames>Azure Jay</VernacularNames>
+</Audio>

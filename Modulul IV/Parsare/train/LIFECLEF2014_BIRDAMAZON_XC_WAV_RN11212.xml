@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>11212</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN11212.wav</FileName>
+  <ClassId>bmiqmk</ClassId>
+  <Date>2013-02-17</Date>
+  <Time>07:00</Time>
+  <Locality>Sao Jose dos Campos, state of Sao Paulo</Locality>
+  <Latitude>-23.0401</Latitude>
+  <Longitude>-46.0328</Longitude>
+  <Elevation>700</Elevation>
+  <Author>GABRIEL LEITE</Author>
+  <AuthorID>TGBFXDVERJ</AuthorID>
+  <Content>call, male</Content>
+  <Comments>bird-seen:yesplayback-used:no</Comments>
+  <Quality>2</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Pipridae</Family>
+  <Genus>Chiroxiphia</Genus>
+  <Species>caudata</Species>
+  <Sub-species />
+  <VernacularNames>Blue Manakin</VernacularNames>
+</Audio>

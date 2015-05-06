@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>19688</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN19688.wav</FileName>
+  <ClassId>htbfro</ClassId>
+  <Date>2000-09-21</Date>
+  <Time>07:40</Time>
+  <Locality>Alto de Boqueron (arriba), Vereda Boqueron, San Cristobal, Medellin, Antioquia</Locality>
+  <Latitude>NULL</Latitude>
+  <Longitude>NULL</Longitude>
+  <Elevation>2200</Elevation>
+  <Author>Bernabe Lopez-Lanus</Author>
+  <AuthorID>BYLLSJRVDZ</AuthorID>
+  <Content>Song</Content>
+  <Comments />
+  <Quality>3</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Thraupidae</Family>
+  <Genus>Thraupis</Genus>
+  <Species>cyanocephala</Species>
+  <Sub-species />
+  <VernacularNames>Blue-capped Tanager</VernacularNames>
+</Audio>

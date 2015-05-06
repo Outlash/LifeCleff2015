@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>15763</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN15763.wav</FileName>
+  <ClassId>uipfam</ClassId>
+  <Date>2005-12-23</Date>
+  <Time>06:00</Time>
+  <Locality>Porteiras, Altinho, Pernambuco</Locality>
+  <Latitude>-8.3</Latitude>
+  <Longitude>-37.75</Longitude>
+  <Elevation>460</Elevation>
+  <Author>Glauco Alves Pereira</Author>
+  <AuthorID>ZWEROGGYVP</AuthorID>
+  <Content>Call</Content>
+  <Comments>Caatinga</Comments>
+  <Quality>1</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies>Pitangus sulphuratus</BackgroundSpecies>
+  <Order>Passeriformes</Order>
+  <Family>Thamnophilidae</Family>
+  <Genus>Formicivora</Genus>
+  <Species>melanogaster</Species>
+  <Sub-species />
+  <VernacularNames>Black-bellied Antwren</VernacularNames>
+</Audio>

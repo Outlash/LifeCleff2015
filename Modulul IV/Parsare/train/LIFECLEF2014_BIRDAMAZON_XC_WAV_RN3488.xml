@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>3488</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN3488.wav</FileName>
+  <ClassId>prpzcg</ClassId>
+  <Date>2009-10-15</Date>
+  <Time>11:29</Time>
+  <Locality>Caetité, state of Bahia, 5 Km south from Brejinho das Ametistas</Locality>
+  <Latitude>-14.3073</Latitude>
+  <Longitude>-42.5406</Longitude>
+  <Elevation>970</Elevation>
+  <Author>Ciro Albano</Author>
+  <AuthorID>MXVQPUKGWW</AuthorID>
+  <Content>song</Content>
+  <Comments />
+  <Quality>1</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Pipridae</Family>
+  <Genus>Antilophia</Genus>
+  <Species>galeata</Species>
+  <Sub-species />
+  <VernacularNames>Helmeted Manakin</VernacularNames>
+</Audio>

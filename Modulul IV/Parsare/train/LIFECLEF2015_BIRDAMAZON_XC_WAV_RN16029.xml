@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>16029</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN16029.wav</FileName>
+  <ClassId>mzajou</ClassId>
+  <Date>2005-10-29</Date>
+  <Time>?</Time>
+  <Locality>Bakhuys mountains</Locality>
+  <Latitude>4.7301</Latitude>
+  <Longitude>-56.7701</Longitude>
+  <Elevation>?</Elevation>
+  <Author>Otte Ottema</Author>
+  <AuthorID>ASEUAUOXZA</AuthorID>
+  <Content>song</Content>
+  <Comments>link:http://www.planktonik.com/birdingsuriname/</Comments>
+  <Quality>2</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Cardinalidae</Family>
+  <Genus>Saltator</Genus>
+  <Species>grossus</Species>
+  <Sub-species />
+  <VernacularNames>Slate-colored Grosbeak</VernacularNames>
+</Audio>

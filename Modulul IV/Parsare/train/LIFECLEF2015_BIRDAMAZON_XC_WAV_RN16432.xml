@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>16432</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN16432.wav</FileName>
+  <ClassId>edqvwi</ClassId>
+  <Date>1998-12-13</Date>
+  <Time>07:21</Time>
+  <Locality>Reserva Acaime, vereda Quindio, Quindio</Locality>
+  <Latitude>NULL</Latitude>
+  <Longitude>NULL</Longitude>
+  <Elevation>2700</Elevation>
+  <Author>Bernabe Lopez-Lanus</Author>
+  <AuthorID>BYLLSJRVDZ</AuthorID>
+  <Content>call, song</Content>
+  <Comments />
+  <Quality>2</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Thraupidae</Family>
+  <Genus>Hemispingus</Genus>
+  <Species>superciliaris</Species>
+  <Sub-species />
+  <VernacularNames>Superciliaried Hemispingus</VernacularNames>
+</Audio>

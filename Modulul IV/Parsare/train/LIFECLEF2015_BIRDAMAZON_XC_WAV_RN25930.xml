@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>25930</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN25930.wav</FileName>
+  <ClassId>ffvgyk</ClassId>
+  <Date>2007-11-03</Date>
+  <Time>06:19</Time>
+  <Locality>Parque Regional Barbas-Bremen, Filandia, Quindio</Locality>
+  <Latitude>4.6717</Latitude>
+  <Longitude>-75.6283</Longitude>
+  <Elevation>1800</Elevation>
+  <Author>Oscar H. Marín-Gómez</Author>
+  <AuthorID>CSUHASNRSU</AuthorID>
+  <Content>Antifonal dueting?, song</Content>
+  <Comments>Ref: Tape OHM000B 1915. An Antifonal dueting? of two birds in mature forest understory, near to Bremen campament. Low Montane Forest. Distance to Mic: 10m. Natural vocalization. Filtering, amplitude.bird-seen:noplayback-used:no</Comments>
+  <Quality>2</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies>Trogon collaris,Colibri thalassinus,Arremon brunneinucha,Myiarchus cephalotes,Syndactyla subalaris</BackgroundSpecies>
+  <Order>Passeriformes</Order>
+  <Family>Troglodytidae</Family>
+  <Genus>Henicorhina</Genus>
+  <Species>leucophrys</Species>
+  <Sub-species />
+  <VernacularNames>Grey-breasted Wood Wren</VernacularNames>
+</Audio>

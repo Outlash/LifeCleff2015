@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>8542</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN8542.wav</FileName>
+  <ClassId>ziirhl</ClassId>
+  <Date>2002-08-30</Date>
+  <Time>07:11</Time>
+  <Locality>Reserva Volta Velha, Itapoá, SC</Locality>
+  <Latitude>-26.0834</Latitude>
+  <Longitude>-48.6334</Longitude>
+  <Elevation>10</Elevation>
+  <Author>Jeremy Minns</Author>
+  <AuthorID>DGVLLRYDXS</AuthorID>
+  <Content>call, song</Content>
+  <Comments>Coastal white sand forest. Single bird perched on a tree overhanging the river, near a nest colony.</Comments>
+  <Quality>2</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies>Odontophorus capueira,Procnias nudicollis,Chiroxiphia caudata,Schiffornis virescens</BackgroundSpecies>
+  <Order>Passeriformes</Order>
+  <Family>Icteridae</Family>
+  <Genus>Cacicus</Genus>
+  <Species>haemorrhous</Species>
+  <Sub-species>affinis</Sub-species>
+  <VernacularNames>Red-rumped Cacique</VernacularNames>
+</Audio>

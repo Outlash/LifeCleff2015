@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>27852</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN27852.wav</FileName>
+  <ClassId>iwssmb</ClassId>
+  <Date>2013-08-14</Date>
+  <Time>05:00</Time>
+  <Locality>Vereda Las Cumbres, PNN Tatamà, Apía, Risaralda</Locality>
+  <Latitude>5.112</Latitude>
+  <Longitude>-76.0029</Longitude>
+  <Elevation>2200</Elevation>
+  <Author>Julian Andres Zuleta Marín</Author>
+  <AuthorID>AMCJKUNQOR</AuthorID>
+  <Content>song</Content>
+  <Comments>bird-seen:yesplayback-used:no</Comments>
+  <Quality>2</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Corvidae</Family>
+  <Genus>Cyanocorax</Genus>
+  <Species>yncas</Species>
+  <Sub-species />
+  <VernacularNames>Inca Jay</VernacularNames>
+</Audio>

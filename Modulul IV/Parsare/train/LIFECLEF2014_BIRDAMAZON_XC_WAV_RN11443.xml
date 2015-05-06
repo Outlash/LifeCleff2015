@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>11443</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN11443.wav</FileName>
+  <ClassId>bgjflj</ClassId>
+  <Date>1997-04-02</Date>
+  <Time>?:?</Time>
+  <Locality>Fazenda Santa Isabel, Transpantaneira</Locality>
+  <Latitude>NULL</Latitude>
+  <Longitude>NULL</Longitude>
+  <Elevation>?</Elevation>
+  <Author>Miguel Castelino</Author>
+  <AuthorID>RCJCABZSNP</AuthorID>
+  <Content>song</Content>
+  <Comments>rpb &lt;a href=http://www.xeno-canto.org/graphics/conosur.jpg rel=lightbox&gt;From Bird Sounds of Southern South America by Lopez-Lanus (2008)&lt;/a&gt;</Comments>
+  <Quality>2</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Troglodytidae</Family>
+  <Genus>Cantorchilus</Genus>
+  <Species>guarayanus</Species>
+  <Sub-species />
+  <VernacularNames>Fawn-breasted Wren</VernacularNames>
+</Audio>

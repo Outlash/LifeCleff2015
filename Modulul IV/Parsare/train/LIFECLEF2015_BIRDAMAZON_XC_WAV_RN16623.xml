@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>16623</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN16623.wav</FileName>
+  <ClassId>bpyrxb</ClassId>
+  <Date>2011-09-23</Date>
+  <Time>06:27</Time>
+  <Locality>Cristalino Jungle Lodge, MT</Locality>
+  <Latitude>-9.5981</Latitude>
+  <Longitude>-55.932</Longitude>
+  <Elevation>260</Elevation>
+  <Author>Eric DeFonso</Author>
+  <AuthorID>KTLCZCRCQX</AuthorID>
+  <Content>call</Content>
+  <Comments>Call notes from a bird perched in a tree overhead. Along the Caja trail at the secret garden in terra firme forest.bird-seen:yesplayback-used:no""</Comments>
+  <Quality>2</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Tyrannidae</Family>
+  <Genus>Myiornis</Genus>
+  <Species>ecaudatus</Species>
+  <Sub-species />
+  <VernacularNames>Short-tailed Pygmy Tyrant</VernacularNames>
+</Audio>

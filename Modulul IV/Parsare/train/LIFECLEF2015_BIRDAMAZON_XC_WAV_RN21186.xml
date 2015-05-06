@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>21186</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN21186.wav</FileName>
+  <ClassId>zvyuyj</ClassId>
+  <Date>2006-08-24</Date>
+  <Time>9:14</Time>
+  <Locality>RNA El Paujil, Serrania de las Quinchas,Santander, Colombia</Locality>
+  <Latitude>5.9334</Latitude>
+  <Longitude>-74.1834</Longitude>
+  <Elevation>250</Elevation>
+  <Author>Charles Hesse</Author>
+  <AuthorID>FMQSRXIRTH</AuthorID>
+  <Content>Flight call</Content>
+  <Comments>link:http://www.geocities.com/fringe_backed_fire_eye/index.html</Comments>
+  <Quality>3</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Psittaciformes</Order>
+  <Family>Psittacidae</Family>
+  <Genus>Pyrilia</Genus>
+  <Species>pyrilia</Species>
+  <Sub-species />
+  <VernacularNames>Saffron-headed Parrot</VernacularNames>
+</Audio>

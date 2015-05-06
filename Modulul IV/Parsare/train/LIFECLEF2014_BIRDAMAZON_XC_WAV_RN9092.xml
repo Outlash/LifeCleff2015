@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>9092</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN9092.wav</FileName>
+  <ClassId>skwawg</ClassId>
+  <Date>2008-11-25</Date>
+  <Time>pm</Time>
+  <Locality>Estância Patrial, Londrina, PR</Locality>
+  <Latitude>NULL</Latitude>
+  <Longitude>NULL</Longitude>
+  <Elevation>577</Elevation>
+  <Author>Eduardo Patrial</Author>
+  <AuthorID>QEFRRVCRRP</AuthorID>
+  <Content>song</Content>
+  <Comments>cicada background noise.</Comments>
+  <Quality>3</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Thraupidae</Family>
+  <Genus>Nemosia</Genus>
+  <Species>pileata</Species>
+  <Sub-species />
+  <VernacularNames>Hooded Tanager</VernacularNames>
+</Audio>

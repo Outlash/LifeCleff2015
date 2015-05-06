@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>4725</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN4725.wav</FileName>
+  <ClassId>szldxi</ClassId>
+  <Date>2013-10-28</Date>
+  <Time>08:00</Time>
+  <Locality>Gramado, Rio Grande do Sul state</Locality>
+  <Latitude>-29.3833</Latitude>
+  <Longitude>-50.8756</Longitude>
+  <Elevation>850</Elevation>
+  <Author>Antonio Silveira</Author>
+  <AuthorID>NBJQSQJRYH</AuthorID>
+  <Content>male, song</Content>
+  <Comments>Male singing on high tree near Varanda das Bromélias hotel.bird-seen:yesplayback-used:yes</Comments>
+  <Quality>0</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Tyrannidae</Family>
+  <Genus>Elaenia</Genus>
+  <Species>mesoleuca</Species>
+  <Sub-species />
+  <VernacularNames>Olivaceous Elaenia</VernacularNames>
+</Audio>

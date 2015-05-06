@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>31822</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN31822.wav</FileName>
+  <ClassId>ftaxwr</ClassId>
+  <Date>1994-07-13</Date>
+  <Time>?</Time>
+  <Locality>La Escalera, Sierra de Lema, Bolívar</Locality>
+  <Latitude>5.9656</Latitude>
+  <Longitude>-61.3917</Longitude>
+  <Elevation>1300</Elevation>
+  <Author>Allen T. Chartier</Author>
+  <AuthorID>AZXTZTQJRO</AuthorID>
+  <Content>Song</Content>
+  <Comments>Responding to playback.</Comments>
+  <Quality>3</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Grallariidae</Family>
+  <Genus>Myrmothera</Genus>
+  <Species>simplex</Species>
+  <Sub-species>simplex</Sub-species>
+  <VernacularNames>Tepui Antpitta</VernacularNames>
+</Audio>

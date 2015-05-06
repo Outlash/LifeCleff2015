@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>24346</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN24346.wav</FileName>
+  <ClassId>twfkxc</ClassId>
+  <Date>2012-05-12</Date>
+  <Time>17:00</Time>
+  <Locality>San Sebastián de La Castellana, municipio El Retiro, departamento de Antioquia</Locality>
+  <Latitude>6.1089</Latitude>
+  <Longitude>-75.5489</Longitude>
+  <Elevation>2800</Elevation>
+  <Author>Diego Calderon-F.</Author>
+  <AuthorID>OGATBVKNAG</AuthorID>
+  <Content>song</Content>
+  <Comments>bird-seen:yesplayback-used:yes</Comments>
+  <Quality>3</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Furnariidae</Family>
+  <Genus>Synallaxis</Genus>
+  <Species>unirufa</Species>
+  <Sub-species>unirufa</Sub-species>
+  <VernacularNames>Rufous Spinetail</VernacularNames>
+</Audio>

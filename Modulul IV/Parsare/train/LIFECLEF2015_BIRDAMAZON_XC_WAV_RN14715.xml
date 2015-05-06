@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>14715</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN14715.wav</FileName>
+  <ClassId>wwdydp</ClassId>
+  <Date>2011-06-06</Date>
+  <Time>11:00</Time>
+  <Locality>Interlagos, São Paulo</Locality>
+  <Latitude>-23.6866</Latitude>
+  <Longitude>-46.7013</Longitude>
+  <Elevation>800</Elevation>
+  <Author>Fernando Igor de Godoy</Author>
+  <AuthorID>CHDHFSVVIN</AuthorID>
+  <Content>wing sounds</Content>
+  <Comments>FNJV 30218bird-seen:yesplayback-used:no</Comments>
+  <Quality>4</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Columbiformes</Order>
+  <Family>Columbidae</Family>
+  <Genus>Columbina</Genus>
+  <Species>talpacoti</Species>
+  <Sub-species />
+  <VernacularNames>Ruddy Ground Dove</VernacularNames>
+</Audio>

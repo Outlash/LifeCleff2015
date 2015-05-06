@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>22108</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN22108.wav</FileName>
+  <ClassId>qvcasw</ClassId>
+  <Date>2012-01-06</Date>
+  <Time>11:00</Time>
+  <Locality>Finca below Santa Cecilia, Serrania de San Lucas</Locality>
+  <Latitude>7.9759</Latitude>
+  <Longitude>-74.2153</Longitude>
+  <Elevation>1300</Elevation>
+  <Author>Thomas Donegan</Author>
+  <AuthorID>OXSIOLJJUP</AuthorID>
+  <Content>Song</Content>
+  <Comments>Birds seen in scrub, 'record' recording only.</Comments>
+  <Quality>4</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Furnariidae</Family>
+  <Genus>Synallaxis</Genus>
+  <Species>albescens</Species>
+  <Sub-species />
+  <VernacularNames>Pale-breasted Spinetail</VernacularNames>
+</Audio>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>16377</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN16377.wav</FileName>
+  <ClassId>flxxiy</ClassId>
+  <Date>1998-06-18</Date>
+  <Time>14:15</Time>
+  <Locality>Hacienda Las Cruces, area La Ceja-Toche, Mpio Ibague, Tolima</Locality>
+  <Latitude>NULL</Latitude>
+  <Longitude>NULL</Longitude>
+  <Elevation>2808</Elevation>
+  <Author>Bernabe Lopez-Lanus</Author>
+  <AuthorID>BYLLSJRVDZ</AuthorID>
+  <Content>call</Content>
+  <Comments>A couple calling from the top of a Wax Palm dead (without leafs = hole) where have an active nest</Comments>
+  <Quality>1</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Psittaciformes</Order>
+  <Family>Psittacidae</Family>
+  <Genus>Leptosittaca</Genus>
+  <Species>branickii</Species>
+  <Sub-species />
+  <VernacularNames>Golden-plumed Parakeet</VernacularNames>
+</Audio>

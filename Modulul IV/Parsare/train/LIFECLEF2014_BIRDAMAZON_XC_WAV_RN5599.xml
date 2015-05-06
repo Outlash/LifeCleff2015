@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>5599</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN5599.wav</FileName>
+  <ClassId>slsqhp</ClassId>
+  <Date>2003-00-00</Date>
+  <Time>?</Time>
+  <Locality>Serra do Mar National Park - Santa Virginia - Sao Paulo State</Locality>
+  <Latitude>-23.3933</Latitude>
+  <Longitude>-45.1503</Longitude>
+  <Elevation>1000</Elevation>
+  <Author>Guilherme R R Brito</Author>
+  <AuthorID>OAYOBWYOOM</AuthorID>
+  <Content>song</Content>
+  <Comments>espontaneus vocalization</Comments>
+  <Quality>2</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Tyrannidae</Family>
+  <Genus>Poecilotriccus</Genus>
+  <Species>plumbeiceps</Species>
+  <Sub-species />
+  <VernacularNames>Ochre-faced Tody-Flycatcher</VernacularNames>
+</Audio>

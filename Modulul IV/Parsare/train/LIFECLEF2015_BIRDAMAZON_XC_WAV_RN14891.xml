@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>14891</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN14891.wav</FileName>
+  <ClassId>ykwtqk</ClassId>
+  <Date>2010-06-11</Date>
+  <Time>07:30</Time>
+  <Locality>Manaus, Amazonas</Locality>
+  <Latitude>-2.8086</Latitude>
+  <Longitude>-59.8727</Longitude>
+  <Elevation>40</Elevation>
+  <Author>GABRIEL LEITE</Author>
+  <AuthorID>TGBFXDVERJ</AuthorID>
+  <Content>song</Content>
+  <Comments>bird-seen:yesplayback-used:yes</Comments>
+  <Quality>2</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Falconiformes</Order>
+  <Family>Falconidae</Family>
+  <Genus>Micrastur</Genus>
+  <Species>gilvicollis</Species>
+  <Sub-species />
+  <VernacularNames>Lined Forest Falcon</VernacularNames>
+</Audio>

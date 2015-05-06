@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>14730</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN14730.wav</FileName>
+  <ClassId>oozajf</ClassId>
+  <Date>2014-08-09</Date>
+  <Time>09:30</Time>
+  <Locality>Siderópolis, Santa Catarina state, Brazil</Locality>
+  <Latitude>-28.6155</Latitude>
+  <Longitude>-49.5164</Longitude>
+  <Elevation>180</Elevation>
+  <Author>João Gava Just</Author>
+  <AuthorID>CEKMJEZKSJ</AuthorID>
+  <Content>call, song</Content>
+  <Comments>bird-seen:noplayback-used:no</Comments>
+  <Quality>2</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Tinamiformes</Order>
+  <Family>Tinamidae</Family>
+  <Genus>Crypturellus</Genus>
+  <Species>obsoletus</Species>
+  <Sub-species />
+  <VernacularNames>Brown Tinamou</VernacularNames>
+</Audio>

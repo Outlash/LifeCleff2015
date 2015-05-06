@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>2993</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN2993.wav</FileName>
+  <ClassId>ltmght</ClassId>
+  <Date>2011-10-14</Date>
+  <Time>09:00</Time>
+  <Locality>São José dos Campos-SP</Locality>
+  <Latitude>NULL</Latitude>
+  <Longitude>NULL</Longitude>
+  <Elevation>700</Elevation>
+  <Author>Rodrigo Dela Rosa</Author>
+  <AuthorID>VGXDJMKETZ</AuthorID>
+  <Content>Song</Content>
+  <Comments />
+  <Quality>0</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies>Pachyramphus castaneus,Hylopezus nattereri,Chamaeza meruloides,Batara cinerea,Drymophila ferruginea</BackgroundSpecies>
+  <Order>Passeriformes</Order>
+  <Family>Rhinocryptidae</Family>
+  <Genus>Eleoscytalopus</Genus>
+  <Species>indigoticus</Species>
+  <Sub-species />
+  <VernacularNames>White-breasted Tapaculo</VernacularNames>
+</Audio>

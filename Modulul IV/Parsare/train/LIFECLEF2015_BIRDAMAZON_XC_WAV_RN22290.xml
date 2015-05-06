@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>22290</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN22290.wav</FileName>
+  <ClassId>myvkag</ClassId>
+  <Date>2010-03-13</Date>
+  <Time>17:00</Time>
+  <Locality>Iwokrama Road, 15km SW Iwokrama International Center</Locality>
+  <Latitude>NULL</Latitude>
+  <Longitude>NULL</Longitude>
+  <Elevation>100</Elevation>
+  <Author>Charlie Vogt</Author>
+  <AuthorID>NYTXYAQSTH</AuthorID>
+  <Content>song</Content>
+  <Comments>natural vocalization</Comments>
+  <Quality>2</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies>Ramphastos tucanus</BackgroundSpecies>
+  <Order>Falconiformes</Order>
+  <Family>Falconidae</Family>
+  <Genus>Ibycter</Genus>
+  <Species>americanus</Species>
+  <Sub-species />
+  <VernacularNames>Red-throated Caracara</VernacularNames>
+</Audio>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>16606</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN16606.wav</FileName>
+  <ClassId>njtncg</ClassId>
+  <Date>2005-10-01</Date>
+  <Time>?</Time>
+  <Locality>Soata, Cerca de la Quebrada Municipal, Santander</Locality>
+  <Latitude>6.3334</Latitude>
+  <Longitude>-72.6667</Longitude>
+  <Elevation>1800-1900</Elevation>
+  <Author>Oscar Laverde</Author>
+  <AuthorID>WKVKSVMNDZ</AuthorID>
+  <Content>song</Content>
+  <Comments />
+  <Quality>2</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies>Thryophilus nicefori</BackgroundSpecies>
+  <Order>Passeriformes</Order>
+  <Family>Cardinalidae</Family>
+  <Genus>Saltator</Genus>
+  <Species>striatipectus</Species>
+  <Sub-species />
+  <VernacularNames>Streaked Saltator</VernacularNames>
+</Audio>

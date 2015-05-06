@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>21760</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN21760.wav</FileName>
+  <ClassId>ohgmhe</ClassId>
+  <Date>2011-02-02</Date>
+  <Time>10:35</Time>
+  <Locality>Bacia 157, Santarém, PA</Locality>
+  <Latitude>-2.8328</Latitude>
+  <Longitude>-54.4928</Longitude>
+  <Elevation>?</Elevation>
+  <Author>Alexander Lees</Author>
+  <AuthorID>INDDBZAFJL</AuthorID>
+  <Content>call</Content>
+  <Comments>undisturbed primary forest</Comments>
+  <Quality>0</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies>Myrmotherula menetriesii</BackgroundSpecies>
+  <Order>Passeriformes</Order>
+  <Family>Furnariidae</Family>
+  <Genus>Philydor</Genus>
+  <Species>erythrocercum</Species>
+  <Sub-species>lyra</Sub-species>
+  <VernacularNames>Rufous-rumped Foliage-gleaner</VernacularNames>
+</Audio>

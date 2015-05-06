@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>14596</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN14596.wav</FileName>
+  <ClassId>gmeajz</ClassId>
+  <Date>2009-11-26</Date>
+  <Time>09:20</Time>
+  <Locality>La Carapa, Macouria</Locality>
+  <Latitude>4.911</Latitude>
+  <Longitude>-52.46</Longitude>
+  <Elevation>10</Elevation>
+  <Author>Olivier Claessens</Author>
+  <AuthorID>KRQYNRSSDF</AuthorID>
+  <Content>call of M</Content>
+  <Comments />
+  <Quality>1</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Pipridae</Family>
+  <Genus>Chiroxiphia</Genus>
+  <Species>pareola</Species>
+  <Sub-species>pareola</Sub-species>
+  <VernacularNames>Blue-backed Manakin</VernacularNames>
+</Audio>

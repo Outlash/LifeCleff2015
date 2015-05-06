@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>26453</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN26453.wav</FileName>
+  <ClassId>ukfemk</ClassId>
+  <Date>1992-11-01</Date>
+  <Time>?</Time>
+  <Locality>Apure, Hato el Cedral</Locality>
+  <Latitude>7.4334</Latitude>
+  <Longitude>-69.3167</Longitude>
+  <Elevation>80</Elevation>
+  <Author>Allen T. Chartier</Author>
+  <AuthorID>AZXTZTQJRO</AuthorID>
+  <Content>Song</Content>
+  <Comments />
+  <Quality>2</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies>Ammodramus aurifrons</BackgroundSpecies>
+  <Order>Passeriformes</Order>
+  <Family>Tyrannidae</Family>
+  <Genus>Tyrannus</Genus>
+  <Species>melancholicus</Species>
+  <Sub-species />
+  <VernacularNames>Tropical Kingbird</VernacularNames>
+</Audio>

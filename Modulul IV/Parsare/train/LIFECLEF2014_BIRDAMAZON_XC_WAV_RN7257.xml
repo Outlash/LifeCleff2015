@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>7257</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN7257.wav</FileName>
+  <ClassId>reoana</ClassId>
+  <Date>2006-09-10</Date>
+  <Time>8:30</Time>
+  <Locality>Perequê - Angra dos Reis - RJ</Locality>
+  <Latitude>-23.012</Latitude>
+  <Longitude>-44.5351</Longitude>
+  <Elevation>50</Elevation>
+  <Author>Ricardo Gagliardi</Author>
+  <AuthorID>YRDADNREOP</AuthorID>
+  <Content>song</Content>
+  <Comments />
+  <Quality>2</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies>Coereba flaveola,Synallaxis ruficapilla</BackgroundSpecies>
+  <Order>Passeriformes</Order>
+  <Family>Emberizidae</Family>
+  <Genus>Arremon</Genus>
+  <Species>semitorquatus</Species>
+  <Sub-species />
+  <VernacularNames>Half-collared Sparrow</VernacularNames>
+</Audio>

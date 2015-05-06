@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>18638</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN18638.wav</FileName>
+  <ClassId>asvgnp</ClassId>
+  <Date>1991-05-26</Date>
+  <Time>?</Time>
+  <Locality>Arauca, Arauca, Caño Limón</Locality>
+  <Latitude>6.95</Latitude>
+  <Longitude>-71</Longitude>
+  <Elevation />
+  <Author>Gary Stiles (Colección de Sonidos Ambientales - Instituto Humboldt)</Author>
+  <AuthorID>XMFDPACYJN</AuthorID>
+  <Content>call</Content>
+  <Comments>BSA 10678To obtain a wav file of the original recording, please contact csa@humboldt.org.cobird-seen:noplayback-used:no</Comments>
+  <Quality>2</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies>Cantorchilus leucotis,Pitangus sulphuratus</BackgroundSpecies>
+  <Order>Falconiformes</Order>
+  <Family>Falconidae</Family>
+  <Genus>Milvago</Genus>
+  <Species>chimachima</Species>
+  <Sub-species />
+  <VernacularNames>Yellow-headed Caracara</VernacularNames>
+</Audio>

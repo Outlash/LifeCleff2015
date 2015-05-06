@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>16291</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN16291.wav</FileName>
+  <ClassId>waknsi</ClassId>
+  <Date>2011-09-03</Date>
+  <Time>05:00</Time>
+  <Locality>Araranguá, Araranguá, Santa Catarina</Locality>
+  <Latitude>-28.9361</Latitude>
+  <Longitude>-49.4923</Longitude>
+  <Elevation>10</Elevation>
+  <Author>João Antônio de B. Vitto</Author>
+  <AuthorID>RIVNLYTULO</AuthorID>
+  <Content>call</Content>
+  <Comments>bird-seen:yesplayback-used:no</Comments>
+  <Quality>0</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Caprimulgiformes</Order>
+  <Family>Caprimulgidae</Family>
+  <Genus>Nyctidromus</Genus>
+  <Species>albicollis</Species>
+  <Sub-species />
+  <VernacularNames>Pauraque</VernacularNames>
+</Audio>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>28533</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN28533.wav</FileName>
+  <ClassId>nnxjdw</ClassId>
+  <Date>2007-01-02</Date>
+  <Time>16:45</Time>
+  <Locality>Capuchinbird Road, Bolivar</Locality>
+  <Latitude>NULL</Latitude>
+  <Longitude>NULL</Longitude>
+  <Elevation>?</Elevation>
+  <Author>Andrew Spencer</Author>
+  <AuthorID>CDTGHVBGZP</AuthorID>
+  <Content>song</Content>
+  <Comments>This bird was sallying out from a single perch, but only gave this call for about a minute of the half-hour observation.</Comments>
+  <Quality>1</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies>Myiozetetes cayanensis</BackgroundSpecies>
+  <Order>Piciformes</Order>
+  <Family>Bucconidae</Family>
+  <Genus>Chelidoptera</Genus>
+  <Species>tenebrosa</Species>
+  <Sub-species />
+  <VernacularNames>Swallow-winged Puffbird</VernacularNames>
+</Audio>

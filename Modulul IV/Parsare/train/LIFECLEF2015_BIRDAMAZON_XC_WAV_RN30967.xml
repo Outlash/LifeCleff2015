@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>30967</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN30967.wav</FileName>
+  <ClassId>ytwasa</ClassId>
+  <Date>2012-07-21</Date>
+  <Time>08:07</Time>
+  <Locality>Quinchia, Departamento de Risaralda</Locality>
+  <Latitude>5.3448</Latitude>
+  <Longitude>-75.67</Longitude>
+  <Elevation>1650</Elevation>
+  <Author>Oswaldo Cortes</Author>
+  <AuthorID>VVDRVZCVWW</AuthorID>
+  <Content>call</Content>
+  <Comments />
+  <Quality>3</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Troglodytidae</Family>
+  <Genus>Henicorhina</Genus>
+  <Species>leucosticta</Species>
+  <Sub-species />
+  <VernacularNames>White-breasted Wood Wren</VernacularNames>
+</Audio>

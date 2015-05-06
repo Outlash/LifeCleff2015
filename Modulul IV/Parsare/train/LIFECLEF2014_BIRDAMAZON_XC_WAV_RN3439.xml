@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>3439</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN3439.wav</FileName>
+  <ClassId>gncrmz</ClassId>
+  <Date>2009-04-25</Date>
+  <Time>11:15</Time>
+  <Locality>Parque do Zizo, Sao Paulo State</Locality>
+  <Latitude>-24.017146</Latitude>
+  <Longitude>-47.81044</Longitude>
+  <Elevation>630</Elevation>
+  <Author>Arthur Macarrão</Author>
+  <AuthorID>GRFTMRXMPV</AuthorID>
+  <Content>call</Content>
+  <Comments />
+  <Quality>3</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Thamnophilidae</Family>
+  <Genus>Pyriglena</Genus>
+  <Species>leucoptera</Species>
+  <Sub-species />
+  <VernacularNames>White-shouldered Fire-eye</VernacularNames>
+</Audio>

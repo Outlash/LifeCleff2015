@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>9586</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN9586.wav</FileName>
+  <ClassId>qjwwgt</ClassId>
+  <Date>2006-05-18</Date>
+  <Time>08:30</Time>
+  <Locality>Tucuruí dam, right margin of the lake, state of Pará</Locality>
+  <Latitude>-4.2327</Latitude>
+  <Longitude>-49.41194</Longitude>
+  <Elevation>50</Elevation>
+  <Author>Sidnei Dantas &amp; Nívia Carmo</Author>
+  <AuthorID>NNCKQMBGPH</AuthorID>
+  <Content>call</Content>
+  <Comments>canopy, close to water. Not seen. interval of about 30 s between sequences</Comments>
+  <Quality>2</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies />
+  <Order>Accipitriformes</Order>
+  <Family>Accipitridae</Family>
+  <Genus>Buteogallus</Genus>
+  <Species>urubitinga</Species>
+  <Sub-species />
+  <VernacularNames>Great Black Hawk</VernacularNames>
+</Audio>

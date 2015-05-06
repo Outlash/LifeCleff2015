@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>24853</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN24853.wav</FileName>
+  <ClassId>rbdxus</ClassId>
+  <Date>2010-05-19</Date>
+  <Time>10:51</Time>
+  <Locality>Pantanal do Miranda - MS</Locality>
+  <Latitude>-19.5512</Latitude>
+  <Longitude>-57.012</Longitude>
+  <Elevation>100</Elevation>
+  <Author>Renan Campos de Oliveira</Author>
+  <AuthorID>SDARDTGGWP</AuthorID>
+  <Content>call</Content>
+  <Comments />
+  <Quality>1</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Thraupidae</Family>
+  <Genus>Ramphocelus</Genus>
+  <Species>carbo</Species>
+  <Sub-species />
+  <VernacularNames>Silver-beaked Tanager</VernacularNames>
+</Audio>

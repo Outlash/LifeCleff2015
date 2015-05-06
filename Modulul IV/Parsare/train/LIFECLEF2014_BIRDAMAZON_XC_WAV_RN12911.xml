@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>12911</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN12911.wav</FileName>
+  <ClassId>rhijnm</ClassId>
+  <Date>2011-12-03</Date>
+  <Time>08:45</Time>
+  <Locality>Reserva Ecológica de Guapi Açu (REGUA), RJ</Locality>
+  <Latitude>-22.4508</Latitude>
+  <Longitude>-42.7735</Longitude>
+  <Elevation>30</Elevation>
+  <Author>Eric DeFonso</Author>
+  <AuthorID>KTLCZCRCQX</AuthorID>
+  <Content>call, song</Content>
+  <Comments>Songs and calls from a male perched atop a cattail in the wetlands. Recorded from footpaths that encircle the wetlands on the main lodge grounds.bird-seen:yesplayback-used:no</Comments>
+  <Quality>1</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies>Thamnophilus palliatus,Vanellus chilensis,Porphyrio martinicus</BackgroundSpecies>
+  <Order>Passeriformes</Order>
+  <Family>Icteridae</Family>
+  <Genus>Chrysomus</Genus>
+  <Species>ruficapillus</Species>
+  <Sub-species />
+  <VernacularNames>Chestnut-capped Blackbird</VernacularNames>
+</Audio>

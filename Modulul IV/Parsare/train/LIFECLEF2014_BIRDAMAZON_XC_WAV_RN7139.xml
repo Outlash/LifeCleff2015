@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>7139</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN7139.wav</FileName>
+  <ClassId>bafzon</ClassId>
+  <Date>2003-04-11</Date>
+  <Time>07:19</Time>
+  <Locality>Pousada Thaimaçu. Rio São Benedito</Locality>
+  <Latitude>-9.0501</Latitude>
+  <Longitude>-56.5834</Longitude>
+  <Elevation>250</Elevation>
+  <Author>Jeremy Minns</Author>
+  <AuthorID>DGVLLRYDXS</AuthorID>
+  <Content>call, song</Content>
+  <Comments>Terra firme forest. Natural call and unusal song, without rise at end.</Comments>
+  <Quality>3</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Formicariidae</Family>
+  <Genus>Formicarius</Genus>
+  <Species>colma</Species>
+  <Sub-species>amazonicus</Sub-species>
+  <VernacularNames>Rufous-capped Antthrush</VernacularNames>
+</Audio>

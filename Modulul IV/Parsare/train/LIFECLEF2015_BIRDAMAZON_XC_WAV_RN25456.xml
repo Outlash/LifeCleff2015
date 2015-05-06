@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>25456</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN25456.wav</FileName>
+  <ClassId>rdnizg</ClassId>
+  <Date>2012-02-08</Date>
+  <Time>07:52</Time>
+  <Locality>Soata (Reserva de Aves para Amazilia castaneiventris y Macroagelaius)</Locality>
+  <Latitude>6.3001</Latitude>
+  <Longitude>-72.7167</Longitude>
+  <Elevation>1900</Elevation>
+  <Author>Oswaldo Cortes</Author>
+  <AuthorID>VVDRVZCVWW</AuthorID>
+  <Content>song</Content>
+  <Comments />
+  <Quality>3</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Troglodytidae</Family>
+  <Genus>Cinnycerthia</Genus>
+  <Species>unirufa</Species>
+  <Sub-species />
+  <VernacularNames>Rufous Wren</VernacularNames>
+</Audio>

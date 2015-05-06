@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>17841</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN17841.wav</FileName>
+  <ClassId>vnkcgy</ClassId>
+  <Date>2007-06-01</Date>
+  <Time>07:22</Time>
+  <Locality>R. N. Rio Blanco, Caldas</Locality>
+  <Latitude>5.0834</Latitude>
+  <Longitude>-75.5001</Longitude>
+  <Elevation>2480</Elevation>
+  <Author>Bradley Davis</Author>
+  <AuthorID>YNXJLOESBB</AuthorID>
+  <Content>call</Content>
+  <Comments>Los Besitos trail</Comments>
+  <Quality>1</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Corvidae</Family>
+  <Genus>Cyanolyca</Genus>
+  <Species>armillata</Species>
+  <Sub-species />
+  <VernacularNames>Black-collared Jay</VernacularNames>
+</Audio>

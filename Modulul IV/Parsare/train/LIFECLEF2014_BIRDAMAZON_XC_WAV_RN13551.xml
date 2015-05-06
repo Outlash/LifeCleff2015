@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>13551</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN13551.wav</FileName>
+  <ClassId>dfegpk</ClassId>
+  <Date>2009-08-04</Date>
+  <Time>06:40</Time>
+  <Locality>Raso da Catarina Ecological Station, Jeremoabo, Bahia.</Locality>
+  <Latitude>-9.872</Latitude>
+  <Longitude>-38.6445</Longitude>
+  <Elevation>463</Elevation>
+  <Author>Fernando Fávaro</Author>
+  <AuthorID>QTNGUZTTQM</AuthorID>
+  <Content>call</Content>
+  <Comments />
+  <Quality>4</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies />
+  <Order>Psittaciformes</Order>
+  <Family>Psittacidae</Family>
+  <Genus>Amazona</Genus>
+  <Species>aestiva</Species>
+  <Sub-species />
+  <VernacularNames>Turquoise-fronted Amazon</VernacularNames>
+</Audio>

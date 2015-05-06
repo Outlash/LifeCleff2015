@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>17144</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN17144.wav</FileName>
+  <ClassId>uwcrre</ClassId>
+  <Date>2007-07-30</Date>
+  <Time>?</Time>
+  <Locality>Merida, Pico Humboldt trail</Locality>
+  <Latitude>NULL</Latitude>
+  <Longitude>NULL</Longitude>
+  <Elevation>3000</Elevation>
+  <Author>Alexandre Renaudier</Author>
+  <AuthorID>GKADEITXTH</AuthorID>
+  <Content>call</Content>
+  <Comments>2 birds calling</Comments>
+  <Quality>2</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Tyrannidae</Family>
+  <Genus>Uromyias</Genus>
+  <Species>agilis</Species>
+  <Sub-species />
+  <VernacularNames>Agile Tit-Tyrant</VernacularNames>
+</Audio>

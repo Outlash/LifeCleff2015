@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>29271</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN29271.wav</FileName>
+  <ClassId>ukfemk</ClassId>
+  <Date>2014-01-06</Date>
+  <Time>7:52</Time>
+  <Locality>Guatapé, Antioquia</Locality>
+  <Latitude>6.2138</Latitude>
+  <Longitude>-75.2219</Longitude>
+  <Elevation>1900</Elevation>
+  <Author>Danny Zapata-Henao</Author>
+  <AuthorID>AHYWLCEJLP</AuthorID>
+  <Content>song</Content>
+  <Comments>bird-seen:noplayback-used:no</Comments>
+  <Quality>0</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies>Elaenia flavogaster,Pitangus sulphuratus,Troglodytes aedon</BackgroundSpecies>
+  <Order>Passeriformes</Order>
+  <Family>Tyrannidae</Family>
+  <Genus>Tyrannus</Genus>
+  <Species>melancholicus</Species>
+  <Sub-species />
+  <VernacularNames>Tropical Kingbird</VernacularNames>
+</Audio>

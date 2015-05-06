@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>1781</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN1781.wav</FileName>
+  <ClassId>eldoju</ClassId>
+  <Date>2000-08-14</Date>
+  <Time>9:53</Time>
+  <Locality>Caraguatatuba, São Paulo state. 'Hípica as Gaivotas'</Locality>
+  <Latitude>-23.5667</Latitude>
+  <Longitude>-45.3167</Longitude>
+  <Elevation>10</Elevation>
+  <Author>Jeremy Minns</Author>
+  <AuthorID>DGVLLRYDXS</AuthorID>
+  <Content>song A</Content>
+  <Comments>Lowland forest on sandy soil. Near but not in bamboo.</Comments>
+  <Quality>3</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies>Ramphocaenus melanurus</BackgroundSpecies>
+  <Order>Passeriformes</Order>
+  <Family>Tyrannidae</Family>
+  <Genus>Ramphotrigon</Genus>
+  <Species>megacephalum</Species>
+  <Sub-species />
+  <VernacularNames>Large-headed Flatbill</VernacularNames>
+</Audio>

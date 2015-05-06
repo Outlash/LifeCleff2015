@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>8082</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN8082.wav</FileName>
+  <ClassId>oxhigs</ClassId>
+  <Date>2003-07-05</Date>
+  <Time>10:00</Time>
+  <Locality>Praia do Gamela, Sirinhaém, Pernambuco</Locality>
+  <Latitude>-8.6114</Latitude>
+  <Longitude>-35.0392</Longitude>
+  <Elevation>0</Elevation>
+  <Author>Mauricio Cabral Periquito</Author>
+  <AuthorID>HERKCTHDZI</AuthorID>
+  <Content>alarm call</Content>
+  <Comments />
+  <Quality>3</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies />
+  <Order>Cuculiformes</Order>
+  <Family>Cuculidae</Family>
+  <Genus>Crotophaga</Genus>
+  <Species>ani</Species>
+  <Sub-species />
+  <VernacularNames>Smooth-billed Ani</VernacularNames>
+</Audio>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>13467</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN13467.wav</FileName>
+  <ClassId>kwwbda</ClassId>
+  <Date>2001-03-14</Date>
+  <Time>14:26</Time>
+  <Locality>Conceicao de Ibitipoca</Locality>
+  <Latitude>-21.7001</Latitude>
+  <Longitude>-43.8834</Longitude>
+  <Elevation>1200</Elevation>
+  <Author>Jeremy Minns</Author>
+  <AuthorID>DGVLLRYDXS</AuthorID>
+  <Content>Call</Content>
+  <Comments>Call C. Classification as in our DVD-ROM 'Birds of Brazil' Montane secondary forest. Male.</Comments>
+  <Quality>1</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Thamnophilidae</Family>
+  <Genus>Thamnophilus</Genus>
+  <Species>caerulescens</Species>
+  <Sub-species>caerulescens</Sub-species>
+  <VernacularNames>Variable Antshrike</VernacularNames>
+</Audio>

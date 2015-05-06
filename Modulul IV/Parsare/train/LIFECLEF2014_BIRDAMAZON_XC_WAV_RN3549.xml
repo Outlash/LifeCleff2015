@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>3549</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN3549.wav</FileName>
+  <ClassId>nnoipz</ClassId>
+  <Date>2005-04-19</Date>
+  <Time>09:15</Time>
+  <Locality>Reserva Ecológica de Guapiaçu, RJ</Locality>
+  <Latitude>-22.5001</Latitude>
+  <Longitude>-42.7167</Longitude>
+  <Elevation>30</Elevation>
+  <Author>Nick Athanas</Author>
+  <AuthorID>XRABICUARW</AuthorID>
+  <Content>song</Content>
+  <Comments>Song from a bird perched on a wire.</Comments>
+  <Quality>1</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies>Columbina talpacoti,Sporophila caerulescens,Troglodytes aedon,Guira guira</BackgroundSpecies>
+  <Order>Passeriformes</Order>
+  <Family>Hirundinidae</Family>
+  <Genus>Progne</Genus>
+  <Species>tapera</Species>
+  <Sub-species>fusca</Sub-species>
+  <VernacularNames>Brown-chested Martin</VernacularNames>
+</Audio>

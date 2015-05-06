@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>17116</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN17116.wav</FileName>
+  <ClassId>fgfalp</ClassId>
+  <Date>2013-08-02</Date>
+  <Time>11:00</Time>
+  <Locality>Reserva Natural la playita Apia, Risaralda</Locality>
+  <Latitude>5.1311</Latitude>
+  <Longitude>-75.9492</Longitude>
+  <Elevation>1500</Elevation>
+  <Author>Julian Andres Zuleta Marín</Author>
+  <AuthorID>AMCJKUNQOR</AuthorID>
+  <Content>male, song</Content>
+  <Comments>bird-seen:yesplayback-used:no</Comments>
+  <Quality>3</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Thraupidae</Family>
+  <Genus>Dacnis</Genus>
+  <Species>hartlaubi</Species>
+  <Sub-species />
+  <VernacularNames>Turquoise Dacnis</VernacularNames>
+</Audio>

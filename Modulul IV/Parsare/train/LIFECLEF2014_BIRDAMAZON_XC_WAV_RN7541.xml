@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>7541</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN7541.wav</FileName>
+  <ClassId>wwgoay</ClassId>
+  <Date>2007-09-25</Date>
+  <Time>14:59</Time>
+  <Locality>RPPN Serra Bonita, Camacan, BA</Locality>
+  <Latitude>-15.3851</Latitude>
+  <Longitude>-39.5709</Longitude>
+  <Elevation>850</Elevation>
+  <Author>Nick Athanas</Author>
+  <AuthorID>XRABICUARW</AuthorID>
+  <Content>call</Content>
+  <Comments>Several birds feeding in a low fruiting bush. img:http://www.antpitta.com/images/photos/tanagers/Red-necked-Tanager.jpg</Comments>
+  <Quality>1</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies>Hemitriccus diops</BackgroundSpecies>
+  <Order>Passeriformes</Order>
+  <Family>Thraupidae</Family>
+  <Genus>Tangara</Genus>
+  <Species>cyanocephala</Species>
+  <Sub-species>cyanocephala</Sub-species>
+  <VernacularNames>Red-necked Tanager</VernacularNames>
+</Audio>

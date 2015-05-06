@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>21857</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN21857.wav</FileName>
+  <ClassId>smoutd</ClassId>
+  <Date>1998-11-21</Date>
+  <Time>08:10</Time>
+  <Locality>El Bosque, Reserva Zona Alta Rio Quindio, Quindio</Locality>
+  <Latitude>NULL</Latitude>
+  <Longitude>NULL</Longitude>
+  <Elevation>3400</Elevation>
+  <Author>Bernabe Lopez-Lanus</Author>
+  <AuthorID>BYLLSJRVDZ</AuthorID>
+  <Content>Alarm call</Content>
+  <Comments />
+  <Quality>2</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Grallariidae</Family>
+  <Genus>Grallaria</Genus>
+  <Species>quitensis</Species>
+  <Sub-species>quitensis</Sub-species>
+  <VernacularNames>Tawny Antpitta</VernacularNames>
+</Audio>

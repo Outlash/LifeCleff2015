@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>7992</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN7992.wav</FileName>
+  <ClassId>orktkw</ClassId>
+  <Date>2013-02-02</Date>
+  <Time>15:00</Time>
+  <Locality>Santa Teresa, Espirito Santo</Locality>
+  <Latitude>-19.934</Latitude>
+  <Longitude>-40.5962</Longitude>
+  <Elevation>650</Elevation>
+  <Author>Noé Eiterer</Author>
+  <AuthorID>TWSKITNQOV</AuthorID>
+  <Content>call, flight call</Content>
+  <Comments>bird-seen:yesplayback-used:no</Comments>
+  <Quality>2</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies />
+  <Order>Apodiformes</Order>
+  <Family>Trochilidae</Family>
+  <Genus>Leucochloris</Genus>
+  <Species>albicollis</Species>
+  <Sub-species />
+  <VernacularNames>White-throated Hummingbird</VernacularNames>
+</Audio>

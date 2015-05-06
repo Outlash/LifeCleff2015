@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>14815</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN14815.wav</FileName>
+  <ClassId>wplnms</ClassId>
+  <Date>2009-05-13</Date>
+  <Time>06:20:00</Time>
+  <Locality>Montaña de los Navas, Tolú, Sucre</Locality>
+  <Latitude>9.5775</Latitude>
+  <Longitude>-75.46111</Longitude>
+  <Elevation>40</Elevation>
+  <Author>Mauricio Álvarez Rebolledo (Colección de Sonidos Ambientales - Instituto Humboldt)</Author>
+  <AuthorID>XMFDPACYJN</AuthorID>
+  <Content>song</Content>
+  <Comments>BSA 31601To obtain a wav file of the original recording, please contact csa@humboldt.org.coplayback-used:no</Comments>
+  <Quality>3</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Trogoniformes</Order>
+  <Family>Trogonidae</Family>
+  <Genus>Trogon</Genus>
+  <Species>melanurus</Species>
+  <Sub-species />
+  <VernacularNames>Black-tailed Trogon</VernacularNames>
+</Audio>

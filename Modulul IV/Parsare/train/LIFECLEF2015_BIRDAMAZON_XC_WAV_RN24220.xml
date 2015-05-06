@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>24220</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN24220.wav</FileName>
+  <ClassId>iqvfgo</ClassId>
+  <Date>2007-12-00</Date>
+  <Time>?:?</Time>
+  <Locality>Llanos - Hato El Cedral</Locality>
+  <Latitude>7.058986</Latitude>
+  <Longitude>-69.494019</Longitude>
+  <Elevation>50</Elevation>
+  <Author>Joe Klaiber</Author>
+  <AuthorID>TNPOVFLZMY</AuthorID>
+  <Content>call</Content>
+  <Comments>link:http://www.birds-venezuela.de</Comments>
+  <Quality>3</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Accipitriformes</Order>
+  <Family>Accipitridae</Family>
+  <Genus>Buteogallus</Genus>
+  <Species>meridionalis</Species>
+  <Sub-species />
+  <VernacularNames>Savanna Hawk</VernacularNames>
+</Audio>

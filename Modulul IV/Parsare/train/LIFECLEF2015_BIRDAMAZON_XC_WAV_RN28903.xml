@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>28903</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN28903.wav</FileName>
+  <ClassId>aziqpv</ClassId>
+  <Date>2014-01-19</Date>
+  <Time>16:30</Time>
+  <Locality>Mucugê, Bahia</Locality>
+  <Latitude>-13.0057</Latitude>
+  <Longitude>-41.3706</Longitude>
+  <Elevation>1000</Elevation>
+  <Author>Niels Poul Dreyer</Author>
+  <AuthorID>YIQSVPAMDQ</AuthorID>
+  <Content>song</Content>
+  <Comments>bird-seen:yes</Comments>
+  <Quality>0</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Thraupidae</Family>
+  <Genus>Sicalis</Genus>
+  <Species>luteola</Species>
+  <Sub-species>luteiventris</Sub-species>
+  <VernacularNames>Grassland Yellow Finch</VernacularNames>
+</Audio>

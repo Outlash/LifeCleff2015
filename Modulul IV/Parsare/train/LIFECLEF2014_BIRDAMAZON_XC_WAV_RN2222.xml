@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>2222</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN2222.wav</FileName>
+  <ClassId>ssdpyu</ClassId>
+  <Date>2006-03-11</Date>
+  <Time>07:44</Time>
+  <Locality>Ubatuba, SP. Folha Seca.</Locality>
+  <Latitude>-23.5001</Latitude>
+  <Longitude>-45.2167</Longitude>
+  <Elevation>30</Elevation>
+  <Author>Jeremy Minns</Author>
+  <AuthorID>DGVLLRYDXS</AuthorID>
+  <Content>Song</Content>
+  <Comments>Same place. Pair singing, one bird on each side of track.</Comments>
+  <Quality>1</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Troglodytidae</Family>
+  <Genus>Cantorchilus</Genus>
+  <Species>longirostris</Species>
+  <Sub-species>longirostris</Sub-species>
+  <VernacularNames>Long-billed Wren</VernacularNames>
+</Audio>

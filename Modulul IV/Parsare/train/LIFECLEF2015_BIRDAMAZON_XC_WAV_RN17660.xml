@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>17660</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN17660.wav</FileName>
+  <ClassId>asvgnp</ClassId>
+  <Date>2014-08-09</Date>
+  <Time>14:30</Time>
+  <Locality>Siderópolis, Santa Catarina state, Brazil</Locality>
+  <Latitude>-28.6155</Latitude>
+  <Longitude>-49.5164</Longitude>
+  <Elevation>180</Elevation>
+  <Author>João Gava Just</Author>
+  <AuthorID>CEKMJEZKSJ</AuthorID>
+  <Content>call</Content>
+  <Comments>Recorder: Panasonic RR-US300.bird-seen:yesplayback-used:no</Comments>
+  <Quality>2</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies>Ramphastos dicolorus</BackgroundSpecies>
+  <Order>Falconiformes</Order>
+  <Family>Falconidae</Family>
+  <Genus>Milvago</Genus>
+  <Species>chimachima</Species>
+  <Sub-species />
+  <VernacularNames>Yellow-headed Caracara</VernacularNames>
+</Audio>

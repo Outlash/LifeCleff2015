@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>17971</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN17971.wav</FileName>
+  <ClassId>xpclwf</ClassId>
+  <Date>0000-00-00</Date>
+  <Time>?</Time>
+  <Locality>Rio Aguapeí, SP</Locality>
+  <Latitude>NULL</Latitude>
+  <Longitude>NULL</Longitude>
+  <Elevation>675</Elevation>
+  <Author>Luiz Fernando Figueiredo</Author>
+  <AuthorID>EYYKGDWADQ</AuthorID>
+  <Content>song</Content>
+  <Comments />
+  <Quality>0</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Icteridae</Family>
+  <Genus>Icterus</Genus>
+  <Species>cayanensis</Species>
+  <Sub-species />
+  <VernacularNames>Epaulet Oriole</VernacularNames>
+</Audio>

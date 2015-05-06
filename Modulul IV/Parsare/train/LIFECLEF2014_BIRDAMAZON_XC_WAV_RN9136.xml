@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>9136</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN9136.wav</FileName>
+  <ClassId>jorqun</ClassId>
+  <Date>2009-09-30</Date>
+  <Time>?</Time>
+  <Locality>Camping Dal Piva, Guatambu, Santa Catarina</Locality>
+  <Latitude>-27.1231</Latitude>
+  <Longitude>-52.762</Longitude>
+  <Elevation>560</Elevation>
+  <Author>Adrian Eisen Rupp</Author>
+  <AuthorID>AOPMSCIDIA</AuthorID>
+  <Content>song</Content>
+  <Comments />
+  <Quality>1</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies>Vanellus chilensis,Sporophila caerulescens,Troglodytes aedon</BackgroundSpecies>
+  <Order>Passeriformes</Order>
+  <Family>Thraupidae</Family>
+  <Genus>Volatinia</Genus>
+  <Species>jacarina</Species>
+  <Sub-species />
+  <VernacularNames>Blue-black Grassquit</VernacularNames>
+</Audio>

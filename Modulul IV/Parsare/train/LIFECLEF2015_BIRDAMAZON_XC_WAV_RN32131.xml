@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>32131</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN32131.wav</FileName>
+  <ClassId>wdmans</ClassId>
+  <Date>2012-09-06</Date>
+  <Time>16:40</Time>
+  <Locality>Reserve Naturelle Regionale Tresor, Roura</Locality>
+  <Latitude>4.6105</Latitude>
+  <Longitude>-52.2793</Longitude>
+  <Elevation>240</Elevation>
+  <Author>Jon King</Author>
+  <AuthorID>LNEEOOWCQR</AuthorID>
+  <Content>male, song</Content>
+  <Comments>Distance to mic. 6m. Three metres above ground in open understorey of forest along Sentier Botanique.bird-seen:yesplayback-used:yes</Comments>
+  <Quality>2</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Pipridae</Family>
+  <Genus>Lepidothrix</Genus>
+  <Species>serena</Species>
+  <Sub-species />
+  <VernacularNames>White-fronted Manakin</VernacularNames>
+</Audio>

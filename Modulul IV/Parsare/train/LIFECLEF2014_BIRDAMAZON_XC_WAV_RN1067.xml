@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>1067</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN1067.wav</FileName>
+  <ClassId>tsbdow</ClassId>
+  <Date>2010-05-01</Date>
+  <Time>08:30</Time>
+  <Locality>Lagoa da Confusão, Tocantins</Locality>
+  <Latitude>-10.7342</Latitude>
+  <Longitude>-49.8559</Longitude>
+  <Elevation>180</Elevation>
+  <Author>GABRIEL LEITE</Author>
+  <AuthorID>TGBFXDVERJ</AuthorID>
+  <Content>call</Content>
+  <Comments>bird-seen:yesplayback-used:no</Comments>
+  <Quality>3</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies>Vanellus chilensis</BackgroundSpecies>
+  <Order>Gruiformes</Order>
+  <Family>Aramidae</Family>
+  <Genus>Aramus</Genus>
+  <Species>guarauna</Species>
+  <Sub-species />
+  <VernacularNames>Limpkin</VernacularNames>
+</Audio>

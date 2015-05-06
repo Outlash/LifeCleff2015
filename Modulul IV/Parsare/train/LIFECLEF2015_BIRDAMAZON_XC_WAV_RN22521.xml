@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>22521</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN22521.wav</FileName>
+  <ClassId>mzajou</ClassId>
+  <Date>2013-10-10</Date>
+  <Time>12:00</Time>
+  <Locality>Acailandia, Maranhao state</Locality>
+  <Latitude>-4.7656</Latitude>
+  <Longitude>-48.137</Longitude>
+  <Elevation>150</Elevation>
+  <Author>Bruno Lima</Author>
+  <AuthorID>DVJCMXOTVL</AuthorID>
+  <Content>call, song</Content>
+  <Comments>bird-seen:noplayback-used:no</Comments>
+  <Quality>1</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Cardinalidae</Family>
+  <Genus>Saltator</Genus>
+  <Species>grossus</Species>
+  <Sub-species />
+  <VernacularNames>Slate-colored Grosbeak</VernacularNames>
+</Audio>

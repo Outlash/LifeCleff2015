@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>11807</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN11807.wav</FileName>
+  <ClassId>ppearp</ClassId>
+  <Date>2001-07-11</Date>
+  <Time>08:30</Time>
+  <Locality>Boa Vista. Ilha São José</Locality>
+  <Latitude>2.9501</Latitude>
+  <Longitude>-60.5167</Longitude>
+  <Elevation>70</Elevation>
+  <Author>Jeremy Minns</Author>
+  <AuthorID>DGVLLRYDXS</AuthorID>
+  <Content>Song</Content>
+  <Comments>Degraded  vegetation on river island.</Comments>
+  <Quality>3</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies>Pitangus sulphuratus,Butorides striata</BackgroundSpecies>
+  <Order>Passeriformes</Order>
+  <Family>Tyrannidae</Family>
+  <Genus>Tolmomyias</Genus>
+  <Species>flaviventris</Species>
+  <Sub-species>aurulentus</Sub-species>
+  <VernacularNames>Ochre-lored Flatbill</VernacularNames>
+</Audio>

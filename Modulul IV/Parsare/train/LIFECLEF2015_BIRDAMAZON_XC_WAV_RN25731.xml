@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>25731</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN25731.wav</FileName>
+  <ClassId>ovfpsf</ClassId>
+  <Date>2012-01-28</Date>
+  <Time>07:05</Time>
+  <Locality>Farallones de Medina (Cundinamarca)</Locality>
+  <Latitude>4.502</Latitude>
+  <Longitude>-73.4628</Longitude>
+  <Elevation>1800</Elevation>
+  <Author>Oswaldo Cortes</Author>
+  <AuthorID>VVDRVZCVWW</AuthorID>
+  <Content>song</Content>
+  <Comments />
+  <Quality>3</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies>Colibri thalassinus</BackgroundSpecies>
+  <Order>Psittaciformes</Order>
+  <Family>Psittacidae</Family>
+  <Genus>Ognorhynchus</Genus>
+  <Species>icterotis</Species>
+  <Sub-species />
+  <VernacularNames>Yellow-eared Parrot</VernacularNames>
+</Audio>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>13486</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN13486.wav</FileName>
+  <ClassId>breyju</ClassId>
+  <Date>2002-02-09</Date>
+  <Time>09:50</Time>
+  <Locality>Cavernas do Peruaçu National Park</Locality>
+  <Latitude>-15.0334</Latitude>
+  <Longitude>-44.2501</Longitude>
+  <Elevation>750</Elevation>
+  <Author>Jeremy Minns</Author>
+  <AuthorID>DGVLLRYDXS</AuthorID>
+  <Content>Song</Content>
+  <Comments>Semi-deciduous forest, near caatinga.</Comments>
+  <Quality>2</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies>Leptotila rufaxilla,Trogon surrucura,Hylopezus ochroleucus,Cyclarhis gujanensis</BackgroundSpecies>
+  <Order>Passeriformes</Order>
+  <Family>Emberizidae</Family>
+  <Genus>Arremon</Genus>
+  <Species>franciscanus</Species>
+  <Sub-species />
+  <VernacularNames>Sao Francisco Sparrow</VernacularNames>
+</Audio>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>15294</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN15294.wav</FileName>
+  <ClassId>tadaeg</ClassId>
+  <Date>2007-08-17</Date>
+  <Time>17:20</Time>
+  <Locality>Colombia, Tolima, Ibague, Ambala parte alta, Bosque andino</Locality>
+  <Latitude>4.4928</Latitude>
+  <Longitude>-75.2223</Longitude>
+  <Elevation>2150</Elevation>
+  <Author>Yair G Molina - Martínez</Author>
+  <AuthorID>UQUOPFIYYQ</AuthorID>
+  <Content>Song</Content>
+  <Comments />
+  <Quality>5</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Rhinocryptidae</Family>
+  <Genus>Scytalopus</Genus>
+  <Species>spillmanni</Species>
+  <Sub-species />
+  <VernacularNames>Spillmann's Tapaculo</VernacularNames>
+</Audio>

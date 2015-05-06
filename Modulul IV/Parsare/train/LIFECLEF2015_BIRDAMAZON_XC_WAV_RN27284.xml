@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>27284</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN27284.wav</FileName>
+  <ClassId>zwxknm</ClassId>
+  <Date>2013-02-17</Date>
+  <Time>08:00</Time>
+  <Locality>Erechim, Rio Grande do Sul</Locality>
+  <Latitude>-27.6061</Latitude>
+  <Longitude>-52.2735</Longitude>
+  <Elevation>700</Elevation>
+  <Author>João Antônio de B. Vitto</Author>
+  <AuthorID>RIVNLYTULO</AuthorID>
+  <Content>song</Content>
+  <Comments>bird-seen:yesplayback-used:yes</Comments>
+  <Quality>3</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Tyrannidae</Family>
+  <Genus>Phyllomyias</Genus>
+  <Species>burmeisteri</Species>
+  <Sub-species />
+  <VernacularNames>Rough-legged Tyrannulet</VernacularNames>
+</Audio>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>6344</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN6344.wav</FileName>
+  <ClassId>ypmevr</ClassId>
+  <Date>1997-09-13</Date>
+  <Time>?</Time>
+  <Locality>Ubatuba, Corcovado</Locality>
+  <Latitude>-23.5</Latitude>
+  <Longitude>-45.131</Longitude>
+  <Elevation>?</Elevation>
+  <Author>Don Jones</Author>
+  <AuthorID>BCWZQTGMSO</AuthorID>
+  <Content>song</Content>
+  <Comments />
+  <Quality>5</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Conopophagidae</Family>
+  <Genus>Conopophaga</Genus>
+  <Species>melanops</Species>
+  <Sub-species />
+  <VernacularNames>Black-cheeked Gnateater</VernacularNames>
+</Audio>

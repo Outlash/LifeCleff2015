@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>3820</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN3820.wav</FileName>
+  <ClassId>izpyuo</ClassId>
+  <Date>2002-09-12</Date>
+  <Time>11:36</Time>
+  <Locality>Serra dos Orgaos National Park. Teresopolis</Locality>
+  <Latitude>-22.4667</Latitude>
+  <Longitude>-43.01</Longitude>
+  <Elevation>1400</Elevation>
+  <Author>Jeremy Minns</Author>
+  <AuthorID>DGVLLRYDXS</AuthorID>
+  <Content>call</Content>
+  <Comments>Pedra do Sino trail. Montane forest.</Comments>
+  <Quality>2</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies>Tijuca atra</BackgroundSpecies>
+  <Order>Passeriformes</Order>
+  <Family>Thraupidae</Family>
+  <Genus>Thraupis</Genus>
+  <Species>ornata</Species>
+  <Sub-species />
+  <VernacularNames>Golden-chevroned Tanager</VernacularNames>
+</Audio>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>32867</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN32867.wav</FileName>
+  <ClassId>msddpb</ClassId>
+  <Date>2009-03-06</Date>
+  <Time>17:20</Time>
+  <Locality>RN Río Blanco.Manizales. Caldas</Locality>
+  <Latitude>NULL</Latitude>
+  <Longitude>NULL</Longitude>
+  <Elevation>2680</Elevation>
+  <Author>Pablo Florez</Author>
+  <AuthorID>ISWBQKPBGS</AuthorID>
+  <Content>?</Content>
+  <Comments />
+  <Quality>2</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Grallariidae</Family>
+  <Genus>Grallaria</Genus>
+  <Species>milleri</Species>
+  <Sub-species />
+  <VernacularNames>Brown-banded Antpitta</VernacularNames>
+</Audio>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>5212</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN5212.wav</FileName>
+  <ClassId>hwjycx</ClassId>
+  <Date>2013-10-15</Date>
+  <Time>22:30</Time>
+  <Locality>Campo Mourao, Paraná.</Locality>
+  <Latitude>-24.0458</Latitude>
+  <Longitude>-52.3828</Longitude>
+  <Elevation>600</Elevation>
+  <Author>Luiz C.  Silva</Author>
+  <AuthorID>ORPKXJRFDZ</AuthorID>
+  <Content>song</Content>
+  <Comments>bird-seen:noplayback-used:no</Comments>
+  <Quality>1</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies />
+  <Order>Caprimulgiformes</Order>
+  <Family>Caprimulgidae</Family>
+  <Genus>Setopagis</Genus>
+  <Species>parvula</Species>
+  <Sub-species />
+  <VernacularNames>Little Nightjar</VernacularNames>
+</Audio>

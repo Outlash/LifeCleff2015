@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>10862</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN10862.wav</FileName>
+  <ClassId>bgjflj</ClassId>
+  <Date>2005-06-01</Date>
+  <Time>09:00</Time>
+  <Locality>Pantanal do Miranda - MS</Locality>
+  <Latitude>-19.5512</Latitude>
+  <Longitude>-57.012</Longitude>
+  <Elevation>90</Elevation>
+  <Author>Antonio Silveira</Author>
+  <AuthorID>NBJQSQJRYH</AuthorID>
+  <Content>male, song</Content>
+  <Comments>First calls and in the end song.bird-seen:yesplayback-used:yes</Comments>
+  <Quality>0</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Troglodytidae</Family>
+  <Genus>Cantorchilus</Genus>
+  <Species>guarayanus</Species>
+  <Sub-species />
+  <VernacularNames>Fawn-breasted Wren</VernacularNames>
+</Audio>

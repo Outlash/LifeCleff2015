@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>31429</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN31429.wav</FileName>
+  <ClassId>busuhu</ClassId>
+  <Date>1994-07-09</Date>
+  <Time>?</Time>
+  <Locality>Bolivar, Guasipati</Locality>
+  <Latitude>7.4695</Latitude>
+  <Longitude>-61.8917</Longitude>
+  <Elevation>200</Elevation>
+  <Author>Allen T. Chartier</Author>
+  <AuthorID>AZXTZTQJRO</AuthorID>
+  <Content>Song</Content>
+  <Comments />
+  <Quality>0</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies>Vireo olivaceus</BackgroundSpecies>
+  <Order>Passeriformes</Order>
+  <Family>Tyrannidae</Family>
+  <Genus>Atalotriccus</Genus>
+  <Species>pilaris</Species>
+  <Sub-species>venezuelensis</Sub-species>
+  <VernacularNames>Pale-eyed Pygmy Tyrant</VernacularNames>
+</Audio>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>12042</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN12042.wav</FileName>
+  <ClassId>ioaqnm</ClassId>
+  <Date>2010-09-30</Date>
+  <Time>07:24</Time>
+  <Locality>Paragominas, PA, Brazil, Bacia 443</Locality>
+  <Latitude>-3.4614</Latitude>
+  <Longitude>-47.0648</Longitude>
+  <Elevation>?</Elevation>
+  <Author>Nargila Moura</Author>
+  <AuthorID>CWEIBYBYYD</AuthorID>
+  <Content>song</Content>
+  <Comments>selectively-logged primary forest</Comments>
+  <Quality>3</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies>Aratinga jandaya,Coereba flaveola</BackgroundSpecies>
+  <Order>Cuculiformes</Order>
+  <Family>Cuculidae</Family>
+  <Genus>Piaya</Genus>
+  <Species>cayana</Species>
+  <Sub-species>hellmayri</Sub-species>
+  <VernacularNames>Squirrel Cuckoo</VernacularNames>
+</Audio>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>9322</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN9322.wav</FileName>
+  <ClassId>gzfudv</ClassId>
+  <Date>2001-07-05</Date>
+  <Time>06:10</Time>
+  <Locality>Presidente Figueiredo. Lages Ecological Park</Locality>
+  <Latitude>-2.01</Latitude>
+  <Longitude>-60.0334</Longitude>
+  <Elevation>122</Elevation>
+  <Author>Jeremy Minns</Author>
+  <AuthorID>DGVLLRYDXS</AuthorID>
+  <Content>flight call</Content>
+  <Comments>Fly over by c.12 birds.</Comments>
+  <Quality>2</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies />
+  <Order>Psittaciformes</Order>
+  <Family>Psittacidae</Family>
+  <Genus>Orthopsittaca</Genus>
+  <Species>manilatus</Species>
+  <Sub-species />
+  <VernacularNames>Red-bellied Macaw</VernacularNames>
+</Audio>

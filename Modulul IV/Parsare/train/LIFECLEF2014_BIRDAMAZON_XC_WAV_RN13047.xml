@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>13047</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN13047.wav</FileName>
+  <ClassId>pprfie</ClassId>
+  <Date>2009-04-21</Date>
+  <Time>07:30</Time>
+  <Locality>Tocantins</Locality>
+  <Latitude>-6.0832</Latitude>
+  <Longitude>-48.186</Longitude>
+  <Elevation>150</Elevation>
+  <Author>GABRIEL LEITE</Author>
+  <AuthorID>TGBFXDVERJ</AuthorID>
+  <Content>song</Content>
+  <Comments>bird-seen:yesplayback-used:no</Comments>
+  <Quality>3</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Vireonidae</Family>
+  <Genus>Cyclarhis</Genus>
+  <Species>gujanensis</Species>
+  <Sub-species />
+  <VernacularNames>Rufous-browed Peppershrike</VernacularNames>
+</Audio>

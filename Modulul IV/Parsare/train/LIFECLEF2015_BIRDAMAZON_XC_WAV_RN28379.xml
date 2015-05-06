@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>28379</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN28379.wav</FileName>
+  <ClassId>yegkua</ClassId>
+  <Date>2010-01-05</Date>
+  <Time>08:00</Time>
+  <Locality>San Pedro Frio, Serrania de San Lucas</Locality>
+  <Latitude>8.1562</Latitude>
+  <Longitude>-74.2825</Longitude>
+  <Elevation>1650</Elevation>
+  <Author>Thomas Donegan</Author>
+  <AuthorID>OXSIOLJJUP</AuthorID>
+  <Content>Song</Content>
+  <Comments>In scrub</Comments>
+  <Quality>4</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies>Ramphocelus icteronotus</BackgroundSpecies>
+  <Order>Passeriformes</Order>
+  <Family>Troglodytidae</Family>
+  <Genus>Pheugopedius</Genus>
+  <Species>spadix</Species>
+  <Sub-species />
+  <VernacularNames>Sooty-headed Wren</VernacularNames>
+</Audio>

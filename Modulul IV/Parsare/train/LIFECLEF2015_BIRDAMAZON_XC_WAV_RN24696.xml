@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>24696</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN24696.wav</FileName>
+  <ClassId>iiwvue</ClassId>
+  <Date>2000-07-03</Date>
+  <Time>10:00</Time>
+  <Locality>Barrio El Poblado (alrededores de San Gil), Vereda Buenos Aires, municipio San Gil, Santander</Locality>
+  <Latitude>NULL</Latitude>
+  <Longitude>NULL</Longitude>
+  <Elevation>1100</Elevation>
+  <Author>Bernabe Lopez-Lanus</Author>
+  <AuthorID>BYLLSJRVDZ</AuthorID>
+  <Content>Song</Content>
+  <Comments />
+  <Quality>3</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Troglodytidae</Family>
+  <Genus>Campylorhynchus</Genus>
+  <Species>griseus</Species>
+  <Sub-species>bicolor</Sub-species>
+  <VernacularNames>Bicolored Wren</VernacularNames>
+</Audio>

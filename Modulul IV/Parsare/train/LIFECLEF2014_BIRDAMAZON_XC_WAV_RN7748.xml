@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>7748</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN7748.wav</FileName>
+  <ClassId>ppdwrk</ClassId>
+  <Date>2002-09-27</Date>
+  <Time>15:00</Time>
+  <Locality>Rio Caurés, AM</Locality>
+  <Latitude>-1.2667</Latitude>
+  <Longitude>-62.2167</Longitude>
+  <Elevation>21</Elevation>
+  <Author>Jeremy Minns</Author>
+  <AuthorID>DGVLLRYDXS</AuthorID>
+  <Content>call, song</Content>
+  <Comments>Rio Urupendiaú, at mouth of Rio Caurés. Flooded black water ('igapó') forest.</Comments>
+  <Quality>2</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies />
+  <Order>Coraciiformes</Order>
+  <Family>Alcedinidae</Family>
+  <Genus>Chloroceryle</Genus>
+  <Species>amazona</Species>
+  <Sub-species />
+  <VernacularNames>Amazon Kingfisher</VernacularNames>
+</Audio>

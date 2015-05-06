@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>27143</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN27143.wav</FileName>
+  <ClassId>gekxwa</ClassId>
+  <Date>2013-03-02</Date>
+  <Time>10:00</Time>
+  <Locality>Puerto Lopez, Meta</Locality>
+  <Latitude>4.1809</Latitude>
+  <Longitude>-72.9136</Longitude>
+  <Elevation>170</Elevation>
+  <Author>Oswaldo Cortes</Author>
+  <AuthorID>VVDRVZCVWW</AuthorID>
+  <Content>call, song</Content>
+  <Comments>bird-seen:yesplayback-used:no</Comments>
+  <Quality>1</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Tyrannidae</Family>
+  <Genus>Myiarchus</Genus>
+  <Species>ferox</Species>
+  <Sub-species />
+  <VernacularNames>Short-crested Flycatcher</VernacularNames>
+</Audio>

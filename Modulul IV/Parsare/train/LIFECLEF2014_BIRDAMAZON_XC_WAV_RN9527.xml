@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>9527</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN9527.wav</FileName>
+  <ClassId>ljczsu</ClassId>
+  <Date>1997-05-29</Date>
+  <Time>08:16</Time>
+  <Locality>Ubatuba, SP. Folha Seca.</Locality>
+  <Latitude>-23.5001</Latitude>
+  <Longitude>-45.2167</Longitude>
+  <Elevation>30</Elevation>
+  <Author>Jeremy Minns</Author>
+  <AuthorID>DGVLLRYDXS</AuthorID>
+  <Content>call</Content>
+  <Comments>Humid forest on the foothills of the coastal escarpment. These are Calls A and B in our DVD-ROM 'Birds of Brazil'.</Comments>
+  <Quality>3</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies>Automolus leucophthalmus</BackgroundSpecies>
+  <Order>Passeriformes</Order>
+  <Family>Thraupidae</Family>
+  <Genus>Trichothraupis</Genus>
+  <Species>melanops</Species>
+  <Sub-species />
+  <VernacularNames>Black-goggled Tanager</VernacularNames>
+</Audio>

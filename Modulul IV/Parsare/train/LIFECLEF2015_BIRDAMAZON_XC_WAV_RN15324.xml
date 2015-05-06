@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>15324</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN15324.wav</FileName>
+  <ClassId>brsyrr</ClassId>
+  <Date>2014-07-12</Date>
+  <Time>15:30</Time>
+  <Locality>Nova Veneza, Santa Catarina, Santa Catarina</Locality>
+  <Latitude>-28.6431</Latitude>
+  <Longitude>-49.471</Longitude>
+  <Elevation>160</Elevation>
+  <Author>João Gava</Author>
+  <AuthorID>CEKMJEZKSJ</AuthorID>
+  <Content>song</Content>
+  <Comments>bird-seen:yesplayback-used:yes</Comments>
+  <Quality>2</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Vireonidae</Family>
+  <Genus>Hylophilus</Genus>
+  <Species>poicilotis</Species>
+  <Sub-species />
+  <VernacularNames>Rufous-crowned Greenlet</VernacularNames>
+</Audio>

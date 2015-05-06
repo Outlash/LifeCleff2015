@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>10489</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN10489.wav</FileName>
+  <ClassId>ltmght</ClassId>
+  <Date>2012-02-06</Date>
+  <Time>11:30</Time>
+  <Locality>RPPN Aves Gerais, Morro do Pilar, Minas Gerais</Locality>
+  <Latitude>-19.2173</Latitude>
+  <Longitude>-43.4942</Longitude>
+  <Elevation>1300</Elevation>
+  <Author>Lucas Aguiar Carrara de Melo</Author>
+  <AuthorID>QRQQEOIEIA</AuthorID>
+  <Content>song</Content>
+  <Comments>bird-seen:noplayback-used:no</Comments>
+  <Quality>3</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies>Saltator similis</BackgroundSpecies>
+  <Order>Passeriformes</Order>
+  <Family>Rhinocryptidae</Family>
+  <Genus>Eleoscytalopus</Genus>
+  <Species>indigoticus</Species>
+  <Sub-species />
+  <VernacularNames>White-breasted Tapaculo</VernacularNames>
+</Audio>

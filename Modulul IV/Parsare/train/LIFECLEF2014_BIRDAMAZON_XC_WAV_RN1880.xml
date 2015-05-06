@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>1880</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN1880.wav</FileName>
+  <ClassId>qqkpms</ClassId>
+  <Date>2006-10-29</Date>
+  <Time>06:30</Time>
+  <Locality>Reserva Linhares, Espirito Santo</Locality>
+  <Latitude>-19.138</Latitude>
+  <Longitude>-40.047</Longitude>
+  <Elevation>100</Elevation>
+  <Author>Daniel Lane</Author>
+  <AuthorID>WOEAFQRMUD</AuthorID>
+  <Content>song</Content>
+  <Comments>Natural song from male at edge of clearing around fire tower.</Comments>
+  <Quality>3</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies>Vireo olivaceus,Cacicus haemorrhous</BackgroundSpecies>
+  <Order>Piciformes</Order>
+  <Family>Picidae</Family>
+  <Genus>Celeus</Genus>
+  <Species>torquatus</Species>
+  <Sub-species />
+  <VernacularNames>Ringed Woodpecker</VernacularNames>
+</Audio>

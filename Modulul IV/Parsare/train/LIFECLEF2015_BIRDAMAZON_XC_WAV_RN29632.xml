@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>29632</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN29632.wav</FileName>
+  <ClassId>wkjlrj</ClassId>
+  <Date>2007-06-01</Date>
+  <Time>10:20</Time>
+  <Locality>Rio Caura south of Maripa, Bolivar</Locality>
+  <Latitude>7.1167</Latitude>
+  <Longitude>-64.9667</Longitude>
+  <Elevation>?</Elevation>
+  <Author>Andrew Spencer</Author>
+  <AuthorID>CDTGHVBGZP</AuthorID>
+  <Content>lekking</Content>
+  <Comments />
+  <Quality>1</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Pipridae</Family>
+  <Genus>Manacus</Genus>
+  <Species>manacus</Species>
+  <Sub-species />
+  <VernacularNames>White-bearded Manakin</VernacularNames>
+</Audio>

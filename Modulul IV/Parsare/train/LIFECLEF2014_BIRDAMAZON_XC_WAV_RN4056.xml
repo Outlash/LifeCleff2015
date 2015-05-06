@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>4056</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN4056.wav</FileName>
+  <ClassId>wckepf</ClassId>
+  <Date>2008-10-25</Date>
+  <Time>?:?</Time>
+  <Locality>Iguacu NP, Parana</Locality>
+  <Latitude>NULL</Latitude>
+  <Longitude>NULL</Longitude>
+  <Elevation>?</Elevation>
+  <Author>Frank Lambert</Author>
+  <AuthorID>YTUXOCTUEM</AuthorID>
+  <Content>song</Content>
+  <Comments />
+  <Quality>1</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Tyrannidae</Family>
+  <Genus>Euscarthmus</Genus>
+  <Species>meloryphus</Species>
+  <Sub-species />
+  <VernacularNames>Tawny-crowned Pygmy Tyrant</VernacularNames>
+</Audio>

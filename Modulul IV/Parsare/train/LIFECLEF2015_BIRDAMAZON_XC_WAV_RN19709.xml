@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>19709</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN19709.wav</FileName>
+  <ClassId>kleweo</ClassId>
+  <Date>2011-09-16</Date>
+  <Time>16:42</Time>
+  <Locality>Cristalino Jungle Lodge, MT</Locality>
+  <Latitude>-9.5981</Latitude>
+  <Longitude>-55.932</Longitude>
+  <Elevation>260</Elevation>
+  <Author>Eric DeFonso</Author>
+  <AuthorID>KTLCZCRCQX</AuthorID>
+  <Content>song</Content>
+  <Comments>Brief sample from bird about ~50m away. Recorded from atop the old tower. Habitat is terra firme forest.bird-seen:yesplayback-used:no</Comments>
+  <Quality>2</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies>Tyranneutes stolzmanni,Ramphastos vitellinus</BackgroundSpecies>
+  <Order>Passeriformes</Order>
+  <Family>Icteridae</Family>
+  <Genus>Psarocolius</Genus>
+  <Species>bifasciatus</Species>
+  <Sub-species />
+  <VernacularNames>Olive Oropendola</VernacularNames>
+</Audio>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>22834</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN22834.wav</FileName>
+  <ClassId>bcmlba</ClassId>
+  <Date>2000-03-04</Date>
+  <Time>am</Time>
+  <Locality>Humedal de La Conejera (Bogota), Cundinamarca</Locality>
+  <Latitude>NULL</Latitude>
+  <Longitude>NULL</Longitude>
+  <Elevation>2600</Elevation>
+  <Author>Bernabe Lopez-Lanus</Author>
+  <AuthorID>BYLLSJRVDZ</AuthorID>
+  <Content>Alarm call</Content>
+  <Comments>Original cut</Comments>
+  <Quality>1</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Charadriiformes</Order>
+  <Family>Scolopacidae</Family>
+  <Genus>Tringa</Genus>
+  <Species>flavipes</Species>
+  <Sub-species />
+  <VernacularNames>Lesser Yellowlegs</VernacularNames>
+</Audio>

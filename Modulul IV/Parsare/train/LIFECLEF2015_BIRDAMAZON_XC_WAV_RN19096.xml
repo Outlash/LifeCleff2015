@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>19096</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN19096.wav</FileName>
+  <ClassId>rvpusq</ClassId>
+  <Date>2010-02-10</Date>
+  <Time>09:30</Time>
+  <Locality>Lençois, BA</Locality>
+  <Latitude>-12.5501</Latitude>
+  <Longitude>-41.3667</Longitude>
+  <Elevation>550</Elevation>
+  <Author>GABRIEL LEITE</Author>
+  <AuthorID>TGBFXDVERJ</AuthorID>
+  <Content>call</Content>
+  <Comments>bird-seen:yesplayback-used:no</Comments>
+  <Quality>2</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies>Columbina squammata</BackgroundSpecies>
+  <Order>Passeriformes</Order>
+  <Family>Icteridae</Family>
+  <Genus>Icterus</Genus>
+  <Species>jamacaii</Species>
+  <Sub-species />
+  <VernacularNames>Campo Troupial</VernacularNames>
+</Audio>

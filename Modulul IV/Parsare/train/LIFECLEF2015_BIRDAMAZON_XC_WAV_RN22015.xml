@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>22015</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN22015.wav</FileName>
+  <ClassId>budxsv</ClassId>
+  <Date>2005-07-06</Date>
+  <Time>7:46</Time>
+  <Locality>PNN Chingaza, sector Palacio</Locality>
+  <Latitude>4.5167</Latitude>
+  <Longitude>-73.7501</Longitude>
+  <Elevation>?</Elevation>
+  <Author>Oscar Laverde</Author>
+  <AuthorID>WKVKSVMNDZ</AuthorID>
+  <Content>call</Content>
+  <Comments>reclamos de un grupo de 3</Comments>
+  <Quality>1</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Parulidae</Family>
+  <Genus>Myiothlypis</Genus>
+  <Species>nigrocristata</Species>
+  <Sub-species />
+  <VernacularNames>Black-crested Warbler</VernacularNames>
+</Audio>

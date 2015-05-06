@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>5270</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN5270.wav</FileName>
+  <ClassId>yyjrms</ClassId>
+  <Date>2006-11-18</Date>
+  <Time>10:35</Time>
+  <Locality>Pico Caledônia, RJ</Locality>
+  <Latitude>-22.3501</Latitude>
+  <Longitude>-42.5834</Longitude>
+  <Elevation>1800</Elevation>
+  <Author>Daniel Lane</Author>
+  <AuthorID>WOEAFQRMUD</AuthorID>
+  <Content>song</Content>
+  <Comments>Singing in response to playback in background of another recording. Recording edited to remove most of competing Stephanophorus song.</Comments>
+  <Quality>1</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies>Stephanophorus diadematus,Scytalopus speluncae</BackgroundSpecies>
+  <Order>Passeriformes</Order>
+  <Family>Emberizidae</Family>
+  <Genus>Zonotrichia</Genus>
+  <Species>capensis</Species>
+  <Sub-species />
+  <VernacularNames>Rufous-collared Sparrow</VernacularNames>
+</Audio>

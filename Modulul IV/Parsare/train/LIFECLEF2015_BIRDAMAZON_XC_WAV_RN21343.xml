@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>21343</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN21343.wav</FileName>
+  <ClassId>vifxpb</ClassId>
+  <Date>2010-05-05</Date>
+  <Time>07:03</Time>
+  <Locality>Route de Kaw - Roura</Locality>
+  <Latitude>NULL</Latitude>
+  <Longitude>NULL</Longitude>
+  <Elevation>?</Elevation>
+  <Author>Patrick INGREMEAU</Author>
+  <AuthorID>IIVTYSKEYX</AuthorID>
+  <Content>call ?</Content>
+  <Comments />
+  <Quality>2</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies>Pionus fuscus</BackgroundSpecies>
+  <Order>Falconiformes</Order>
+  <Family>Falconidae</Family>
+  <Genus>Micrastur</Genus>
+  <Species>ruficollis</Species>
+  <Sub-species />
+  <VernacularNames>Barred Forest Falcon</VernacularNames>
+</Audio>

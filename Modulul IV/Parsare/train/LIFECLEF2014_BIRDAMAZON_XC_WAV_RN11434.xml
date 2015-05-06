@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>11434</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN11434.wav</FileName>
+  <ClassId>igcivw</ClassId>
+  <Date>1993-06-03</Date>
+  <Time>?:?</Time>
+  <Locality>Porto Jofre, Pantanal, MG</Locality>
+  <Latitude>NULL</Latitude>
+  <Longitude>NULL</Longitude>
+  <Elevation>?</Elevation>
+  <Author>Miguel Castelino</Author>
+  <AuthorID>RCJCABZSNP</AuthorID>
+  <Content>call</Content>
+  <Comments>&lt;a href=http://www.xeno-canto.org/graphics/conosur.jpg rel=lightbox&gt;From Bird Sounds of Southern South America by Lopez-Lanus (2008)&lt;/a&gt;</Comments>
+  <Quality>1</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies />
+  <Order>Pelecaniformes</Order>
+  <Family>Threskiornithidae</Family>
+  <Genus>Theristicus</Genus>
+  <Species>caudatus</Species>
+  <Sub-species />
+  <VernacularNames>Buff-necked Ibis</VernacularNames>
+</Audio>

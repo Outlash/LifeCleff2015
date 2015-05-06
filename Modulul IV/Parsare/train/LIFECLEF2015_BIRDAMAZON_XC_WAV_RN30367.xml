@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>30367</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN30367.wav</FileName>
+  <ClassId>cvnsao</ClassId>
+  <Date>2010-09-20</Date>
+  <Time>07:00</Time>
+  <Locality>APA Capivari Monos, São Paulo, SP</Locality>
+  <Latitude>-23.9557</Latitude>
+  <Longitude>-46.6503</Longitude>
+  <Elevation>700</Elevation>
+  <Author>Fernando Igor de Godoy</Author>
+  <AuthorID>CHDHFSVVIN</AuthorID>
+  <Content>song</Content>
+  <Comments>FNJV 30273</Comments>
+  <Quality>4</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies>Drymophila ochropyga</BackgroundSpecies>
+  <Order>Passeriformes</Order>
+  <Family>Thamnophilidae</Family>
+  <Genus>Drymophila</Genus>
+  <Species>rubricollis</Species>
+  <Sub-species />
+  <VernacularNames>Bertoni's Antbird</VernacularNames>
+</Audio>
