@@ -1,0 +1,31 @@
+[Modul I]
+Grupa noastra a reusit sa proceseze fisierele de training(
+recapitulez: pe baza acestor fisiere se va face indexarea si compararea cu fisierele de test(run/submit).
+).
+
+Din ~24000 de fisiere de training, si 999 de specii (dublu fata de cat era anul trecut task-ul) am extras fisierele
+care au cea mai buna calitate, ~9000 de fisiere (~25Gb). Am ales sa extragem cate 10 sample-uri pe specie(clasa),
+acolo unde au existat 10, altfel - nr. total (< 10).
+
+Din cate am inteles de aici, calitatea e : 1 - best, 5 - worst(am gasit si drujba pe fundal), 0 - unknown.
+http://www.imageclef.org/node/180   (BirdCLEF #2014)
+
+Am folosit Java pentru a rezolva task-urile de mai sus.
+
+
+Ce mai urmeaza:
+Intre timp ce, celelate Grupe au material pentru a incepe indexarea, si procesul de Machine Learning -
+[
+ La Machine Learning sugeram ca dupa indexare, sa testam algoritmul astfel:
+ Pentru un tip de pasare, cu cantecul/proprietatile audio indexate se compara cu cele mai slabe inregistrari
+ cunoscute(de la aceeasi pasare)[le furnizam la cerere :D] pentru a observa rezultatele(probabilitatile).
+].
+- noi vom optimiza fisierele de test. Pentru a facilita indexarea si compararea mai tarziu, cand va trebui sa
+trimitem "run_format"-ul.
+
+Fisierele de mai sus le gasiti intr-un torrent. Momentan va sta doar Daniel(D) la seed, deoarece
+pe Laptopt-ul lui am prelucrat datele.
+
+A durat mai mult decat ne asteptam deoarece fisierele initiale au(~90 Gb * 2(arhiva + dezarhivare))
+...si nimeni din grupa nu are SSD.
+
