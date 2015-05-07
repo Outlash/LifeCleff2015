@@ -54,7 +54,7 @@ public class Operations {
         for (int i = 0; i < totalFrames; i++) {
             double[] tmp = allFeaturesList.get(i);
             for(int j=0;j<tmp.length;j++)
-                Output+=j+":"+tmp[j]+" ";
+                Output+=(j+1)+":"+tmp[j]+" ";
             Output+="%n";
             allFeatures[i] = tmp;
         }

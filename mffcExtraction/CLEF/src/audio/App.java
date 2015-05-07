@@ -25,6 +25,8 @@ public class App {
                     wavFile = wavFiles[i];
                     buffer = op.generateLines(wavFile);
                     save_output(buffer, wavFile);
+                    System.out.println(Integer.toString(i)+"/"+Integer.toString(wavFiles.length));
+
 
             }
 
