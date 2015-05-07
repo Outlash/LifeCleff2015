@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>28632</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN28632.wav</FileName>
+  <ClassId>ttmtic</ClassId>
+  <Date>2011-03-16</Date>
+  <Time>18:55</Time>
+  <Locality>Brownsberg</Locality>
+  <Latitude>4.9301</Latitude>
+  <Longitude>-55.2101</Longitude>
+  <Elevation>460</Elevation>
+  <Author>Daniel Lane</Author>
+  <AuthorID>WOEAFQRMUD</AuthorID>
+  <Content>song</Content>
+  <Comments>Possibly response to whistled imitation. Song at dusk from ground inside tall terra firme forest edge by compound. Bird seen flying up to branch, then flying back to another branch, presumably to roost, shortly after giving this song.</Comments>
+  <Quality>3</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Tinamiformes</Order>
+  <Family>Tinamidae</Family>
+  <Genus>Tinamus</Genus>
+  <Species>major</Species>
+  <Sub-species />
+  <VernacularNames>Great Tinamou</VernacularNames>
+</Audio>

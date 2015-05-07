@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>16140</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN16140.wav</FileName>
+  <ClassId>otkgij</ClassId>
+  <Date>2008-01-00</Date>
+  <Time>?:?</Time>
+  <Locality>Azulita road to Cano Sancudo</Locality>
+  <Latitude>NULL</Latitude>
+  <Longitude>NULL</Longitude>
+  <Elevation>700</Elevation>
+  <Author>Joe Klaiber</Author>
+  <AuthorID>TNPOVFLZMY</AuthorID>
+  <Content>song</Content>
+  <Comments>link:http://www.birds-venezuela.de</Comments>
+  <Quality>3</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Corvidae</Family>
+  <Genus>Cyanocorax</Genus>
+  <Species>affinis</Species>
+  <Sub-species />
+  <VernacularNames>Black-chested Jay</VernacularNames>
+</Audio>

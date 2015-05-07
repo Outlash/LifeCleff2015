@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>2140</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN2140.wav</FileName>
+  <ClassId>ryckte</ClassId>
+  <Date>2009-01-04</Date>
+  <Time>07:18</Time>
+  <Locality>Curucutu Nucleus, State Park of the Serra do Mar -City: Itanhaém, São Paulo State</Locality>
+  <Latitude>-24.0398</Latitude>
+  <Longitude>-46.7762</Longitude>
+  <Elevation>200</Elevation>
+  <Author>Marcos Melo</Author>
+  <AuthorID>MRGDYNJGUJ</AuthorID>
+  <Content>alarm call</Content>
+  <Comments />
+  <Quality>2</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies>Chiroxiphia caudata</BackgroundSpecies>
+  <Order>Passeriformes</Order>
+  <Family>Thamnophilidae</Family>
+  <Genus>Drymophila</Genus>
+  <Species>squamata</Species>
+  <Sub-species />
+  <VernacularNames>Scaled Antbird</VernacularNames>
+</Audio>

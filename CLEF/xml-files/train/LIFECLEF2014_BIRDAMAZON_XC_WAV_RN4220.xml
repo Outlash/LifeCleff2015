@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>4220</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN4220.wav</FileName>
+  <ClassId>gshgib</ClassId>
+  <Date>2010-11-27</Date>
+  <Time>09:30</Time>
+  <Locality>Serra dos Órgãos National Park - RJ</Locality>
+  <Latitude>-22.448</Latitude>
+  <Longitude>-43.01</Longitude>
+  <Elevation>1920</Elevation>
+  <Author>Odirlei Vieira da Fonseca</Author>
+  <AuthorID>PHUJYQLGTN</AuthorID>
+  <Content>song</Content>
+  <Comments>Was foraging in cloud forest near to Campos and attracted to playback.bird-seen:yesplayback-used:yes</Comments>
+  <Quality>1</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Furnariidae</Family>
+  <Genus>Asthenes</Genus>
+  <Species>moreirae</Species>
+  <Sub-species />
+  <VernacularNames>Itatiaia Spinetail</VernacularNames>
+</Audio>

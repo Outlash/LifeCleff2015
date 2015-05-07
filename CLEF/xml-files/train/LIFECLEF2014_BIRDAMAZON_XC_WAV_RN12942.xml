@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>12942</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN12942.wav</FileName>
+  <ClassId>ltmght</ClassId>
+  <Date>2009-09-20</Date>
+  <Time>18:10</Time>
+  <Locality>Sitio Veravinha, Juquitiba, São Paulo</Locality>
+  <Latitude>-23.9492</Latitude>
+  <Longitude>-47.1778</Longitude>
+  <Elevation>575</Elevation>
+  <Author>Marcos Melo</Author>
+  <AuthorID>MRGDYNJGUJ</AuthorID>
+  <Content>song</Content>
+  <Comments>After the two event above, emitted characteristic sound</Comments>
+  <Quality>2</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Rhinocryptidae</Family>
+  <Genus>Eleoscytalopus</Genus>
+  <Species>indigoticus</Species>
+  <Sub-species />
+  <VernacularNames>White-breasted Tapaculo</VernacularNames>
+</Audio>

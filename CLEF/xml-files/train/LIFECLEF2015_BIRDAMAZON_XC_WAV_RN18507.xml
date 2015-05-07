@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>18507</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN18507.wav</FileName>
+  <ClassId>bkwfkb</ClassId>
+  <Date>2012-10-23</Date>
+  <Time>07:00</Time>
+  <Locality>Santander, Municipio de Vetas, Paramo de Santurban</Locality>
+  <Latitude>7.332</Latitude>
+  <Longitude>-72.8584</Longitude>
+  <Elevation>3500</Elevation>
+  <Author>Oswaldo Cortes</Author>
+  <AuthorID>VVDRVZCVWW</AuthorID>
+  <Content>song</Content>
+  <Comments>bird-seen:yesplayback-used:no</Comments>
+  <Quality>2</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Rhinocryptidae</Family>
+  <Genus>Scytalopus</Genus>
+  <Species>griseicollis</Species>
+  <Sub-species />
+  <VernacularNames>Pale-bellied Tapaculo</VernacularNames>
+</Audio>

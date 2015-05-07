@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>16520</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN16520.wav</FileName>
+  <ClassId>ebxlim</ClassId>
+  <Date>1991-01-28</Date>
+  <Time>?</Time>
+  <Locality>Arauca, Arauca, Caño Limón</Locality>
+  <Latitude>6.95</Latitude>
+  <Longitude>-71</Longitude>
+  <Elevation />
+  <Author>Gary Stiles (Colección de Sonidos Ambientales - Instituto Humboldt)</Author>
+  <AuthorID>XMFDPACYJN</AuthorID>
+  <Content>call</Content>
+  <Comments>BSA 10685To obtain a wav file of the original recording, please contact csa@humboldt.org.cobird-seen:noplayback-used:no</Comments>
+  <Quality>1</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Thamnophilidae</Family>
+  <Genus>Taraba</Genus>
+  <Species>major</Species>
+  <Sub-species />
+  <VernacularNames>Great Antshrike</VernacularNames>
+</Audio>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>20204</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN20204.wav</FileName>
+  <ClassId>nzulxx</ClassId>
+  <Date>2007-02-23</Date>
+  <Time>?</Time>
+  <Locality>Lagoa da Precabura, Fortaleza, state of Ceará</Locality>
+  <Latitude>-3.8195</Latitude>
+  <Longitude>-38.4453</Longitude>
+  <Elevation>10</Elevation>
+  <Author>Ciro Albano</Author>
+  <AuthorID>MXVQPUKGWW</AuthorID>
+  <Content>song lekking</Content>
+  <Comments>A group of three birds displaying</Comments>
+  <Quality>2</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Podicipediformes</Order>
+  <Family>Podicipedidae</Family>
+  <Genus>Podilymbus</Genus>
+  <Species>podiceps</Species>
+  <Sub-species />
+  <VernacularNames>Pied-billed Grebe</VernacularNames>
+</Audio>

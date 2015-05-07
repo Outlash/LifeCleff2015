@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>25404</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN25404.wav</FileName>
+  <ClassId>fvftkw</ClassId>
+  <Date>2008-08-07</Date>
+  <Time>?</Time>
+  <Locality>Paramo de Tama, Betania (Tachira)</Locality>
+  <Latitude>NULL</Latitude>
+  <Longitude>NULL</Longitude>
+  <Elevation>?</Elevation>
+  <Author>Alexandre Renaudier</Author>
+  <AuthorID>GKADEITXTH</AuthorID>
+  <Content>dawn song</Content>
+  <Comments />
+  <Quality>1</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies>Tyrannus melancholicus</BackgroundSpecies>
+  <Order>Passeriformes</Order>
+  <Family>Tyrannidae</Family>
+  <Genus>Elaenia</Genus>
+  <Species>frantzii</Species>
+  <Sub-species />
+  <VernacularNames>Mountain Elaenia</VernacularNames>
+</Audio>

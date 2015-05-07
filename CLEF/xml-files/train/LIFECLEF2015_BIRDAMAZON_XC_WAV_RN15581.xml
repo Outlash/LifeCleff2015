@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>15581</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN15581.wav</FileName>
+  <ClassId>iqvfgo</ClassId>
+  <Date>2005-04-07</Date>
+  <Time>15:15</Time>
+  <Locality>Reserva Ecológica de Guapiaçu, RJ</Locality>
+  <Latitude>-22.5001</Latitude>
+  <Longitude>-42.7167</Longitude>
+  <Elevation>30</Elevation>
+  <Author>Nick Athanas</Author>
+  <AuthorID>XRABICUARW</AuthorID>
+  <Content>call</Content>
+  <Comments />
+  <Quality>1</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Accipitriformes</Order>
+  <Family>Accipitridae</Family>
+  <Genus>Buteogallus</Genus>
+  <Species>meridionalis</Species>
+  <Sub-species />
+  <VernacularNames>Savanna Hawk</VernacularNames>
+</Audio>

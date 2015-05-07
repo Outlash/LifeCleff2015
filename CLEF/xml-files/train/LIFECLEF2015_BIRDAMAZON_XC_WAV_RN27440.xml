@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>27440</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN27440.wav</FileName>
+  <ClassId>bxuwzu</ClassId>
+  <Date>2003-03-28</Date>
+  <Time>08:20</Time>
+  <Locality>Guajará-Mirim, RO</Locality>
+  <Latitude>-10.8814</Latitude>
+  <Longitude>-65.2501</Longitude>
+  <Elevation>130</Elevation>
+  <Author>Jeremy Minns</Author>
+  <AuthorID>DGVLLRYDXS</AuthorID>
+  <Content>Song</Content>
+  <Comments>Terra firme forest.</Comments>
+  <Quality>2</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies>Hylophilus muscicapinus,Cercomacra cinerascens,Crypturellus cinereus</BackgroundSpecies>
+  <Order>Passeriformes</Order>
+  <Family>Thamnophilidae</Family>
+  <Genus>Myrmotherula</Genus>
+  <Species>sclateri</Species>
+  <Sub-species />
+  <VernacularNames>Sclater's Antwren</VernacularNames>
+</Audio>

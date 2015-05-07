@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>8525</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN8525.wav</FileName>
+  <ClassId>dngkxz</ClassId>
+  <Date>2000-09-06</Date>
+  <Time>06:29</Time>
+  <Locality>Parque Nacional da Amazônia</Locality>
+  <Latitude>-4.5167</Latitude>
+  <Longitude>-56.3001</Longitude>
+  <Elevation>50</Elevation>
+  <Author>Jeremy Minns</Author>
+  <AuthorID>DGVLLRYDXS</AuthorID>
+  <Content>Song</Content>
+  <Comments>Terra firme forest edge.</Comments>
+  <Quality>1</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Tyrannidae</Family>
+  <Genus>Tolmomyias</Genus>
+  <Species>poliocephalus</Species>
+  <Sub-species>sclateri</Sub-species>
+  <VernacularNames>Grey-crowned Flatbill</VernacularNames>
+</Audio>

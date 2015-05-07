@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>21529</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN21529.wav</FileName>
+  <ClassId>ipzbhi</ClassId>
+  <Date>2008-08-04</Date>
+  <Time>08:00</Time>
+  <Locality>Serra dos Carajás, PA</Locality>
+  <Latitude>-6.1603</Latitude>
+  <Longitude>-50.3459</Longitude>
+  <Elevation>100</Elevation>
+  <Author>Sidnei Dantas</Author>
+  <AuthorID>NNCKQMBGPH</AuthorID>
+  <Content>song</Content>
+  <Comments>land forest, not seen</Comments>
+  <Quality>3</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies>Schiffornis turdina,Thamnophilus schistaceus,Lipaugus vociferans</BackgroundSpecies>
+  <Order>Passeriformes</Order>
+  <Family>Turdidae</Family>
+  <Genus>Turdus</Genus>
+  <Species>fumigatus</Species>
+  <Sub-species />
+  <VernacularNames>Cocoa Thrush</VernacularNames>
+</Audio>

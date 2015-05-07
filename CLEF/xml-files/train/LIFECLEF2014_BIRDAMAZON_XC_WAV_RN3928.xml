@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>3928</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN3928.wav</FileName>
+  <ClassId>uwehqf</ClassId>
+  <Date>2008-08-12</Date>
+  <Time>07:30</Time>
+  <Locality>Serra dos Carajás, PA</Locality>
+  <Latitude>-6.1603</Latitude>
+  <Longitude>-50.3459</Longitude>
+  <Elevation>100</Elevation>
+  <Author>Sidnei Dantas</Author>
+  <AuthorID>NNCKQMBGPH</AuthorID>
+  <Content>calls, rattles</Content>
+  <Comments>A group of c. five, chasing each other on the canopy.</Comments>
+  <Quality>3</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies>Lipaugus vociferans</BackgroundSpecies>
+  <Order>Piciformes</Order>
+  <Family>Ramphastidae</Family>
+  <Genus>Pteroglossus</Genus>
+  <Species>aracari</Species>
+  <Sub-species />
+  <VernacularNames>Black-necked Aracari</VernacularNames>
+</Audio>

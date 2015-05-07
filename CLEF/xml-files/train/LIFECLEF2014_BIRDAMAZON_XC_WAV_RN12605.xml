@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>12605</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN12605.wav</FileName>
+  <ClassId>cxxjnh</ClassId>
+  <Date>2006-07-05</Date>
+  <Time>9:26</Time>
+  <Locality>Reserva Ecológica de Guapiaçu, RJ</Locality>
+  <Latitude>-22.5001</Latitude>
+  <Longitude>-42.7167</Longitude>
+  <Elevation>?</Elevation>
+  <Author>Leonardo Pimentel</Author>
+  <AuthorID>JHBOHGJALL</AuthorID>
+  <Content>song</Content>
+  <Comments>Gravação feita na trilha preta da Reserva</Comments>
+  <Quality>4</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Tityridae</Family>
+  <Genus>Pachyramphus</Genus>
+  <Species>marginatus</Species>
+  <Sub-species />
+  <VernacularNames>Black-capped Becard</VernacularNames>
+</Audio>

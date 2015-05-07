@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>16139</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN16139.wav</FileName>
+  <ClassId>jslgyy</ClassId>
+  <Date>2000-06-19</Date>
+  <Time>10:00</Time>
+  <Locality>Estacion La Pradera (parte alta), Municipio Don Matias, Antioquia</Locality>
+  <Latitude>NULL</Latitude>
+  <Longitude>NULL</Longitude>
+  <Elevation>1550</Elevation>
+  <Author>Bernabe Lopez-Lanus</Author>
+  <AuthorID>BYLLSJRVDZ</AuthorID>
+  <Content>Call</Content>
+  <Comments />
+  <Quality>2</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Pipridae</Family>
+  <Genus>Machaeropterus</Genus>
+  <Species>striolatus</Species>
+  <Sub-species />
+  <VernacularNames>Western Striped Manakin</VernacularNames>
+</Audio>

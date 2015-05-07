@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>30923</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN30923.wav</FileName>
+  <ClassId>fcjizc</ClassId>
+  <Date>2007-11-18</Date>
+  <Time>15:25</Time>
+  <Locality>Parque Regional Barbas-Bremen, Filandia, Quindio. Sector Barbas</Locality>
+  <Latitude>4.6717</Latitude>
+  <Longitude>-75.6283</Longitude>
+  <Elevation>1800</Elevation>
+  <Author>Oscar Humberto Marin-Gomez</Author>
+  <AuthorID>CSUHASNRSU</AuthorID>
+  <Content>call, male</Content>
+  <Comments>Ref: OHM007B. 0938.  Male perched in tree 6m above the ground. Low Montane Forest. 30m to Mic. Natural Vocalization.bird-seen:noplayback-used:no</Comments>
+  <Quality>3</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies>Myadestes ralloides,Dendrocolaptes picumnus</BackgroundSpecies>
+  <Order>Passeriformes</Order>
+  <Family>Parulidae</Family>
+  <Genus>Myiothlypis</Genus>
+  <Species>coronata</Species>
+  <Sub-species />
+  <VernacularNames>Russet-crowned Warbler</VernacularNames>
+</Audio>

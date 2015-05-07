@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>16575</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN16575.wav</FileName>
+  <ClassId>uxuaio</ClassId>
+  <Date>2011-03-01</Date>
+  <Time>08:00</Time>
+  <Locality>Santa maria_Boyaca</Locality>
+  <Latitude>4.865</Latitude>
+  <Longitude>-73.231</Longitude>
+  <Elevation>1100</Elevation>
+  <Author>Oswaldo Cortes</Author>
+  <AuthorID>VVDRVZCVWW</AuthorID>
+  <Content>call</Content>
+  <Comments />
+  <Quality>2</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Troglodytidae</Family>
+  <Genus>Pheugopedius</Genus>
+  <Species>mystacalis</Species>
+  <Sub-species />
+  <VernacularNames>Whiskered Wren</VernacularNames>
+</Audio>

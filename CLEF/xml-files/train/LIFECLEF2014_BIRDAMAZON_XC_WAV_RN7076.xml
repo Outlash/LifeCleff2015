@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>7076</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN7076.wav</FileName>
+  <ClassId>bsewbt</ClassId>
+  <Date>2001-07-07</Date>
+  <Time>08:15</Time>
+  <Locality>Manaus. INPA tower on ZF-2</Locality>
+  <Latitude>-2.5834</Latitude>
+  <Longitude>-60.1167</Longitude>
+  <Elevation>110</Elevation>
+  <Author>Jeremy Minns</Author>
+  <AuthorID>DGVLLRYDXS</AuthorID>
+  <Content>call</Content>
+  <Comments>Terra firme forest.  Two note calls. Two birds present but uncertain whether this vocalisation was a double call given by a single bird or consisted of a single note calls by each bird.bird-seen:yesplayback-used:no</Comments>
+  <Quality>2</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies>Myrmotherula brachyura</BackgroundSpecies>
+  <Order>Passeriformes</Order>
+  <Family>Tyrannidae</Family>
+  <Genus>Zimmerius</Genus>
+  <Species>acer</Species>
+  <Sub-species />
+  <VernacularNames>Guianan Tyrannulet</VernacularNames>
+</Audio>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>7820</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN7820.wav</FileName>
+  <ClassId>wsyiro</ClassId>
+  <Date>1997-09-06</Date>
+  <Time>?</Time>
+  <Locality>Boraceia Biological Station, SP state</Locality>
+  <Latitude>-23.6334</Latitude>
+  <Longitude>-45.8667</Longitude>
+  <Elevation>?</Elevation>
+  <Author>Don Jones</Author>
+  <AuthorID>BCWZQTGMSO</AuthorID>
+  <Content>song</Content>
+  <Comments>Song</Comments>
+  <Quality>1</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Turdidae</Family>
+  <Genus>Turdus</Genus>
+  <Species>flavipes</Species>
+  <Sub-species />
+  <VernacularNames>Yellow-legged Thrush</VernacularNames>
+</Audio>

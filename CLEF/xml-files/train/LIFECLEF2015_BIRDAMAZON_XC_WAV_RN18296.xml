@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>18296</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN18296.wav</FileName>
+  <ClassId>nasscm</ClassId>
+  <Date>2002-07-23</Date>
+  <Time>16:02</Time>
+  <Locality>Boa Nova, Wet Forest, state of Bahia</Locality>
+  <Latitude>-14.3834</Latitude>
+  <Longitude>-40.1001</Longitude>
+  <Elevation>825</Elevation>
+  <Author>Jeremy Minns</Author>
+  <AuthorID>DGVLLRYDXS</AuthorID>
+  <Content>Song</Content>
+  <Comments>Undergrowth beside track near humid forest. This is Song A in our DVD-ROM 'Birds of Brazil'.</Comments>
+  <Quality>2</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies>Cyclarhis gujanensis</BackgroundSpecies>
+  <Order>Passeriformes</Order>
+  <Family>Furnariidae</Family>
+  <Genus>Synallaxis</Genus>
+  <Species>whitneyi</Species>
+  <Sub-species />
+  <VernacularNames>Bahia Spinetail</VernacularNames>
+</Audio>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>28406</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN28406.wav</FileName>
+  <ClassId>tadaeg</ClassId>
+  <Date>2004-08-13</Date>
+  <Time>05:55</Time>
+  <Locality>Páramo de Frontino</Locality>
+  <Latitude>6.4334</Latitude>
+  <Longitude>-76.0834</Longitude>
+  <Elevation>3150</Elevation>
+  <Author>Niels Krabbe</Author>
+  <AuthorID>XTVEPHMPPJ</AuthorID>
+  <Content>song</Content>
+  <Comments>Tape ref. A 167-169, 196-198</Comments>
+  <Quality>2</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies>Melanerpes formicivorus,Ochthoeca rufipectoralis,Pyrrhomyias cinnamomeus</BackgroundSpecies>
+  <Order>Passeriformes</Order>
+  <Family>Rhinocryptidae</Family>
+  <Genus>Scytalopus</Genus>
+  <Species>spillmanni</Species>
+  <Sub-species />
+  <VernacularNames>Spillmann's Tapaculo</VernacularNames>
+</Audio>

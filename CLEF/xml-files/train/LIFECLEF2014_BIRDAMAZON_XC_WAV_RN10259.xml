@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>10259</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN10259.wav</FileName>
+  <ClassId>jocatj</ClassId>
+  <Date>2009-08-17</Date>
+  <Time>am</Time>
+  <Locality>Floresta Nacional de Carajás, PA</Locality>
+  <Latitude>NULL</Latitude>
+  <Longitude>NULL</Longitude>
+  <Elevation>?</Elevation>
+  <Author>Eduardo Patrial</Author>
+  <AuthorID>QEFRRVCRRP</AuthorID>
+  <Content>song</Content>
+  <Comments>Águas Claras.</Comments>
+  <Quality>2</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Thamnophilidae</Family>
+  <Genus>Schistocichla</Genus>
+  <Species>rufifacies</Species>
+  <Sub-species />
+  <VernacularNames>Rufous-faced Antbird</VernacularNames>
+</Audio>

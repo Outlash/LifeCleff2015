@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>12630</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN12630.wav</FileName>
+  <ClassId>kzvpsl</ClassId>
+  <Date>2005-05-12</Date>
+  <Time>09:00</Time>
+  <Locality>Reserva Natural da Vale do Rio Doce, ES</Locality>
+  <Latitude>-19.1167</Latitude>
+  <Longitude>-39.9501</Longitude>
+  <Elevation>50</Elevation>
+  <Author>Nick Athanas</Author>
+  <AuthorID>XRABICUARW</AuthorID>
+  <Content>call</Content>
+  <Comments />
+  <Quality>2</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Troglodytidae</Family>
+  <Genus>Campylorhynchus</Genus>
+  <Species>turdinus</Species>
+  <Sub-species>turdinus</Sub-species>
+  <VernacularNames>Thrush-like Wren</VernacularNames>
+</Audio>

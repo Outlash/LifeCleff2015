@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>5267</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN5267.wav</FileName>
+  <ClassId>jfkqxa</ClassId>
+  <Date>2011-05-28</Date>
+  <Time>06:13</Time>
+  <Locality>Paragominas, PA, Brazil, Bacia 274</Locality>
+  <Latitude>-3.2348</Latitude>
+  <Longitude>-47.3714</Longitude>
+  <Elevation>?</Elevation>
+  <Author>Alexander Lees</Author>
+  <AuthorID>INDDBZAFJL</AuthorID>
+  <Content>call</Content>
+  <Comments>secondary forest</Comments>
+  <Quality>3</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies>Thamnophilus aethiops,Attila spadiceus,Coereba flaveola</BackgroundSpecies>
+  <Order>Piciformes</Order>
+  <Family>Picidae</Family>
+  <Genus>Dryocopus</Genus>
+  <Species>lineatus</Species>
+  <Sub-species>lineatus</Sub-species>
+  <VernacularNames>Lineated Woodpecker</VernacularNames>
+</Audio>

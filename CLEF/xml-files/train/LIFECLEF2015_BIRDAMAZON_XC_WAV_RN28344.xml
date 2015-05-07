@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>28344</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN28344.wav</FileName>
+  <ClassId>ipaxqr</ClassId>
+  <Date>2014-01-08</Date>
+  <Time>11:00</Time>
+  <Locality>Hotel Donati, Itatiaia NP, Rio de Janeiro state</Locality>
+  <Latitude>-22.4334</Latitude>
+  <Longitude>-44.6334</Longitude>
+  <Elevation>950</Elevation>
+  <Author>Antonio Silveira</Author>
+  <AuthorID>NBJQSQJRYH</AuthorID>
+  <Content>call, song</Content>
+  <Comments>Unusual call. And singing at the end. Birding with biol. Bruno Lima invited to collaborate with my project Birds of Itatiaia NP.bird-seen:yesplayback-used:no""</Comments>
+  <Quality>0</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Galliformes</Order>
+  <Family>Cracidae</Family>
+  <Genus>Penelope</Genus>
+  <Species>obscura</Species>
+  <Sub-species>bronzina</Sub-species>
+  <VernacularNames>Dusky-legged Guan</VernacularNames>
+</Audio>

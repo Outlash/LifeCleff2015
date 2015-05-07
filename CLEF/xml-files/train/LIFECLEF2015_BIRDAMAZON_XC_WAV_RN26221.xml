@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>26221</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN26221.wav</FileName>
+  <ClassId>ephxxx</ClassId>
+  <Date>2014-09-13</Date>
+  <Time>09:30</Time>
+  <Locality>Capanema, Capanema, Parana</Locality>
+  <Latitude>-25.6919</Latitude>
+  <Longitude>-53.8499</Longitude>
+  <Elevation>240</Elevation>
+  <Author>André J. Pieri</Author>
+  <AuthorID>MQVGMZQRIN</AuthorID>
+  <Content>call</Content>
+  <Comments>bird-seen:yesplayback-used:no</Comments>
+  <Quality>2</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Tyrannidae</Family>
+  <Genus>Legatus</Genus>
+  <Species>leucophaius</Species>
+  <Sub-species>leucophaius</Sub-species>
+  <VernacularNames>Piratic Flycatcher</VernacularNames>
+</Audio>

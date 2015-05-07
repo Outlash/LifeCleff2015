@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>8028</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN8028.wav</FileName>
+  <ClassId>bmiqmk</ClassId>
+  <Date>2006-08-23</Date>
+  <Time>11:00</Time>
+  <Locality>Reserva Ecológica de Guapiaçu, RJ</Locality>
+  <Latitude>-22.5001</Latitude>
+  <Longitude>-42.7167</Longitude>
+  <Elevation>300</Elevation>
+  <Author>Frank Lambert</Author>
+  <AuthorID>YTUXOCTUEM</AuthorID>
+  <Content>call, display</Content>
+  <Comments>altitude is approx</Comments>
+  <Quality>2</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Pipridae</Family>
+  <Genus>Chiroxiphia</Genus>
+  <Species>caudata</Species>
+  <Sub-species />
+  <VernacularNames>Blue Manakin</VernacularNames>
+</Audio>

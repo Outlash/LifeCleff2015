@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>32452</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN32452.wav</FileName>
+  <ClassId>qvcasw</ClassId>
+  <Date>2008-02-01</Date>
+  <Time>16:30</Time>
+  <Locality>Sierra Nevada de Santa Marta, Magdalena</Locality>
+  <Latitude>10.898042</Latitude>
+  <Longitude>-73.7677</Longitude>
+  <Elevation>1400</Elevation>
+  <Author>Herman van Oosten</Author>
+  <AuthorID>SNUDCZVUQK</AuthorID>
+  <Content>Song?</Content>
+  <Comments>For the collection.</Comments>
+  <Quality>2</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Furnariidae</Family>
+  <Genus>Synallaxis</Genus>
+  <Species>albescens</Species>
+  <Sub-species />
+  <VernacularNames>Pale-breasted Spinetail</VernacularNames>
+</Audio>

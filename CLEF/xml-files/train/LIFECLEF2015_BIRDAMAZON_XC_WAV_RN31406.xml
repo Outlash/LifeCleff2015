@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>31406</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN31406.wav</FileName>
+  <ClassId>pzlgrh</ClassId>
+  <Date>2014-01-28</Date>
+  <Time>09:00</Time>
+  <Locality>Una, Bahia</Locality>
+  <Latitude>-15.2799</Latitude>
+  <Longitude>-39.0907</Longitude>
+  <Elevation>70</Elevation>
+  <Author>Antonio Silveira</Author>
+  <AuthorID>NBJQSQJRYH</AuthorID>
+  <Content>female, male, song</Content>
+  <Comments>a small flock singing in flying.bird-seen:yesplayback-used:no</Comments>
+  <Quality>0</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Psittaciformes</Order>
+  <Family>Psittacidae</Family>
+  <Genus>Brotogeris</Genus>
+  <Species>tirica</Species>
+  <Sub-species />
+  <VernacularNames>Plain Parakeet</VernacularNames>
+</Audio>

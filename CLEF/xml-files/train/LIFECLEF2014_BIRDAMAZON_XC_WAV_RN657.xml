@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>657</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN657.wav</FileName>
+  <ClassId>oozajf</ClassId>
+  <Date>2012-09-01</Date>
+  <Time>?</Time>
+  <Locality>Parque Estadual Lago Azul, campo mourao, paraná</Locality>
+  <Latitude>-24.331</Latitude>
+  <Longitude>-52.387</Longitude>
+  <Elevation>630</Elevation>
+  <Author>Luiz C.Silva</Author>
+  <AuthorID>ORPKXJRFDZ</AuthorID>
+  <Content>chamados/calls</Content>
+  <Comments>Não avistada/unseen</Comments>
+  <Quality>2</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies />
+  <Order>Tinamiformes</Order>
+  <Family>Tinamidae</Family>
+  <Genus>Crypturellus</Genus>
+  <Species>obsoletus</Species>
+  <Sub-species />
+  <VernacularNames>Brown Tinamou</VernacularNames>
+</Audio>

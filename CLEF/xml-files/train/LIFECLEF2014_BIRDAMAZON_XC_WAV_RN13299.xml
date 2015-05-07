@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>13299</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN13299.wav</FileName>
+  <ClassId>yudfzp</ClassId>
+  <Date>2012-10-07</Date>
+  <Time>16:30</Time>
+  <Locality>Ribeiro Gonçalves, state of Piauí</Locality>
+  <Latitude>-7.5834</Latitude>
+  <Longitude>-45.1167</Longitude>
+  <Elevation>400</Elevation>
+  <Author>Eduardo D. Schultz</Author>
+  <AuthorID>QYOZQITVAC</AuthorID>
+  <Content>call, song</Content>
+  <Comments>bird-seen:yesplayback-used:yes</Comments>
+  <Quality>0</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Troglodytidae</Family>
+  <Genus>Pheugopedius</Genus>
+  <Species>genibarbis</Species>
+  <Sub-species />
+  <VernacularNames>Moustached Wren</VernacularNames>
+</Audio>

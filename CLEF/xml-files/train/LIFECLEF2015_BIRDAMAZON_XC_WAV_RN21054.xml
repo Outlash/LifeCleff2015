@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>21054</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN21054.wav</FileName>
+  <ClassId>baleaf</ClassId>
+  <Date>2013-07-15</Date>
+  <Time>11:30</Time>
+  <Locality>Senador Guiomard, Acre</Locality>
+  <Latitude>-10.1453</Latitude>
+  <Longitude>-67.7537</Longitude>
+  <Elevation>180</Elevation>
+  <Author>Rodrigo Dela Rosa</Author>
+  <AuthorID>VGXDJMKETZ</AuthorID>
+  <Content>call, male</Content>
+  <Comments>bird-seen:yesplayback-used:no</Comments>
+  <Quality>3</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Thraupidae</Family>
+  <Genus>Tangara</Genus>
+  <Species>chilensis</Species>
+  <Sub-species />
+  <VernacularNames>Paradise Tanager</VernacularNames>
+</Audio>

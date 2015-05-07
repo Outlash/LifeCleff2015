@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>21123</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN21123.wav</FileName>
+  <ClassId>dptlek</ClassId>
+  <Date>2009-06-28</Date>
+  <Time>09:20</Time>
+  <Locality>Ribeirão Cristal, Cristalina-Goiás</Locality>
+  <Latitude>-16.857284</Latitude>
+  <Longitude>-47.381287</Longitude>
+  <Elevation>1.010</Elevation>
+  <Author>Nunes D´Acosta</Author>
+  <AuthorID>OHHTDSDNBT</AuthorID>
+  <Content>Song</Content>
+  <Comments>Buritizal( Mauritia flexuosa) denso na  nascente  de uma vereda do Ribeirão Cristal - Ave construindo ninho na palma da palmeira.</Comments>
+  <Quality>2</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Furnariidae</Family>
+  <Genus>Berlepschia</Genus>
+  <Species>rikeri</Species>
+  <Sub-species />
+  <VernacularNames>Point-tailed Palmcreeper</VernacularNames>
+</Audio>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>2882</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN2882.wav</FileName>
+  <ClassId>aiiwiu</ClassId>
+  <Date>2009-04-09</Date>
+  <Time>08:30</Time>
+  <Locality>São José dos Campos, São Paulo</Locality>
+  <Latitude>-23.2119</Latitude>
+  <Longitude>-45.9613</Longitude>
+  <Elevation>550</Elevation>
+  <Author>GABRIEL LEITE</Author>
+  <AuthorID>TGBFXDVERJ</AuthorID>
+  <Content>call, flight call</Content>
+  <Comments>bird-seen:yesplayback-used:no</Comments>
+  <Quality>3</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies />
+  <Order>Psittaciformes</Order>
+  <Family>Psittacidae</Family>
+  <Genus>Psittacara</Genus>
+  <Species>leucophthalmus</Species>
+  <Sub-species />
+  <VernacularNames>White-eyed Parakeet</VernacularNames>
+</Audio>

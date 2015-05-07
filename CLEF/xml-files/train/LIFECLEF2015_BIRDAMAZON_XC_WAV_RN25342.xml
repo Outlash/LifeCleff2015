@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>25342</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN25342.wav</FileName>
+  <ClassId>azysgp</ClassId>
+  <Date>2012-04-22</Date>
+  <Time>09:36</Time>
+  <Locality>Montezuma Peak Road, Pueblo Rico, Risaralda, W Andes - Tatama National Park</Locality>
+  <Latitude>5.2431</Latitude>
+  <Longitude>-76.0964</Longitude>
+  <Elevation>2350</Elevation>
+  <Author>Jeremy Minns</Author>
+  <AuthorID>DGVLLRYDXS</AuthorID>
+  <Content>Call</Content>
+  <Comments>Montane forest.</Comments>
+  <Quality>1</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Corvidae</Family>
+  <Genus>Cyanolyca</Genus>
+  <Species>pulchra</Species>
+  <Sub-species />
+  <VernacularNames>Beautiful Jay</VernacularNames>
+</Audio>

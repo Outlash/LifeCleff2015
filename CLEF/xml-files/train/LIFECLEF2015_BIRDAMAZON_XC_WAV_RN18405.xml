@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>18405</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN18405.wav</FileName>
+  <ClassId>qqgfak</ClassId>
+  <Date>2010-02-01</Date>
+  <Time>09:00</Time>
+  <Locality>APA Capivari Monos, São Paulo, SP</Locality>
+  <Latitude>-23.9557</Latitude>
+  <Longitude>-46.6503</Longitude>
+  <Elevation>700</Elevation>
+  <Author>Marcos A. Melo</Author>
+  <AuthorID>MRGDYNJGUJ</AuthorID>
+  <Content>male, song</Content>
+  <Comments>bird-seen:yesplayback-used:no</Comments>
+  <Quality>2</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Parulidae</Family>
+  <Genus>Geothlypis</Genus>
+  <Species>aequinoctialis</Species>
+  <Sub-species />
+  <VernacularNames>Masked Yellowthroat</VernacularNames>
+</Audio>

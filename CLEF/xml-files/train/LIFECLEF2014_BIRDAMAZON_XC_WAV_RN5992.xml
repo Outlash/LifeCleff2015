@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>5992</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN5992.wav</FileName>
+  <ClassId>viluoh</ClassId>
+  <Date>2013-09-17</Date>
+  <Time>7:50</Time>
+  <Locality>Alto Paraiso, Goias</Locality>
+  <Latitude>-14.161877</Latitude>
+  <Longitude>-47.526169</Longitude>
+  <Elevation />
+  <Author>Marcelo Araya-Salas</Author>
+  <AuthorID>EMCWQLLKEW</AuthorID>
+  <Content>call</Content>
+  <Comments>Recording equipment: iphone/tascam adaptor+senheisser ME67. Comments: one individual, rec at 20 m of distance, Cerrado Forest, Road to Sao Jorge. To access original .WAV file contact marceloa27(at)gmail.combird-seen:yesplayback-used:no</Comments>
+  <Quality>2</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Tyrannidae</Family>
+  <Genus>Pitangus</Genus>
+  <Species>sulphuratus</Species>
+  <Sub-species />
+  <VernacularNames>Great Kiskadee</VernacularNames>
+</Audio>

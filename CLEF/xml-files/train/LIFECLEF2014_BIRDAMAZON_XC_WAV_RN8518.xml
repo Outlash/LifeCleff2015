@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>8518</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN8518.wav</FileName>
+  <ClassId>bvpcer</ClassId>
+  <Date>2008-04-06</Date>
+  <Time>17:00</Time>
+  <Locality>Boa Nova, Wet Forest, state of Bahia</Locality>
+  <Latitude>-14.3834</Latitude>
+  <Longitude>-40.1001</Longitude>
+  <Elevation>750</Elevation>
+  <Author>Ciro Albano</Author>
+  <AuthorID>MXVQPUKGWW</AuthorID>
+  <Content>song</Content>
+  <Comments>img:http://www.flickr.com/photos/ciroalbanofotos/2418693105/</Comments>
+  <Quality>3</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Pipridae</Family>
+  <Genus>Ilicura</Genus>
+  <Species>militaris</Species>
+  <Sub-species />
+  <VernacularNames>Pin-tailed Manakin</VernacularNames>
+</Audio>

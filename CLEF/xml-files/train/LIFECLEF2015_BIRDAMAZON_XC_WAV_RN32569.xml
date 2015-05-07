@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>32569</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN32569.wav</FileName>
+  <ClassId>ovipyl</ClassId>
+  <Date>2001-03-04</Date>
+  <Time>xx:xx</Time>
+  <Locality>Tolima: 10 km NW Roncesvalles</Locality>
+  <Latitude>4.0167</Latitude>
+  <Longitude>-75.6334</Longitude>
+  <Elevation>3000</Elevation>
+  <Author>Niels Krabbe</Author>
+  <AuthorID>XTVEPHMPPJ</AuthorID>
+  <Content>call/alternate song</Content>
+  <Comments>Tape ref. B 86-99</Comments>
+  <Quality>1</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Grallariidae</Family>
+  <Genus>Grallaria</Genus>
+  <Species>rufula</Species>
+  <Sub-species />
+  <VernacularNames>Rufous Antpitta</VernacularNames>
+</Audio>

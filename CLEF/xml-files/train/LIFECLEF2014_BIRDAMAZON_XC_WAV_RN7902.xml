@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>7902</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN7902.wav</FileName>
+  <ClassId>fpnmqt</ClassId>
+  <Date>2008-07-23</Date>
+  <Time>?</Time>
+  <Locality>Gleba maior Reserva Biológica Estadual do Sassafrás, Doutor Pedrinho, Santa Catarina</Locality>
+  <Latitude>-26.7117</Latitude>
+  <Longitude>-49.6756</Longitude>
+  <Elevation>920</Elevation>
+  <Author>Adrian Eisen Rupp</Author>
+  <AuthorID>AOPMSCIDIA</AuthorID>
+  <Content>song</Content>
+  <Comments />
+  <Quality>1</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies>Myiothlypis leucoblephara</BackgroundSpecies>
+  <Order>Passeriformes</Order>
+  <Family>Rhinocryptidae</Family>
+  <Genus>Scytalopus</Genus>
+  <Species>speluncae</Species>
+  <Sub-species />
+  <VernacularNames>Mouse-colored Tapaculo</VernacularNames>
+</Audio>

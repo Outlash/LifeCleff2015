@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>2747</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN2747.wav</FileName>
+  <ClassId>vjukoo</ClassId>
+  <Date>2010-08-30</Date>
+  <Time>07:14</Time>
+  <Locality>Road just before entrance Itatiaia NP</Locality>
+  <Latitude>-22.4587</Latitude>
+  <Longitude>-44.5901</Longitude>
+  <Elevation>700</Elevation>
+  <Author>Herman van Oosten</Author>
+  <AuthorID>SNUDCZVUQK</AuthorID>
+  <Content>song</Content>
+  <Comments>Bird not seen</Comments>
+  <Quality>2</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Tyrannidae</Family>
+  <Genus>Attila</Genus>
+  <Species>rufus</Species>
+  <Sub-species />
+  <VernacularNames>Grey-hooded Attila</VernacularNames>
+</Audio>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>9608</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN9608.wav</FileName>
+  <ClassId>kwpuds</ClassId>
+  <Date>2013-07-10</Date>
+  <Time>09:00</Time>
+  <Locality>Reserva Biologica do Gurupi</Locality>
+  <Latitude>-3.8141</Latitude>
+  <Longitude>-46.8045</Longitude>
+  <Elevation>190</Elevation>
+  <Author>Josh Engel</Author>
+  <AuthorID>AHACCPDBSA</AuthorID>
+  <Content>song</Content>
+  <Comments>Two individuals singing. Habitat: disturbed forest.bird-seen:yesplayback-used:no</Comments>
+  <Quality>2</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies />
+  <Order>Piciformes</Order>
+  <Family>Galbulidae</Family>
+  <Genus>Galbula</Genus>
+  <Species>cyanicollis</Species>
+  <Sub-species />
+  <VernacularNames>Blue-necked Jacamar</VernacularNames>
+</Audio>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>3370</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN3370.wav</FileName>
+  <ClassId>vumzkv</ClassId>
+  <Date>2008-08-08</Date>
+  <Time>11:37</Time>
+  <Locality>Reserva Volta Velha, Itapoá, SC</Locality>
+  <Latitude>-26.0834</Latitude>
+  <Longitude>-48.6334</Longitude>
+  <Elevation>5</Elevation>
+  <Author>Nick Athanas</Author>
+  <AuthorID>XRABICUARW</AuthorID>
+  <Content>call</Content>
+  <Comments />
+  <Quality>1</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies>Procnias nudicollis</BackgroundSpecies>
+  <Order>Passeriformes</Order>
+  <Family>Furnariidae</Family>
+  <Genus>Cichlocolaptes</Genus>
+  <Species>leucophrus</Species>
+  <Sub-species>holti</Sub-species>
+  <VernacularNames>Pale-browed Treehunter</VernacularNames>
+</Audio>

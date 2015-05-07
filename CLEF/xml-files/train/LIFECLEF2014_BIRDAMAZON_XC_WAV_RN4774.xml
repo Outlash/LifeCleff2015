@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>4774</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN4774.wav</FileName>
+  <ClassId>ffwvot</ClassId>
+  <Date>2008-08-07</Date>
+  <Time>09:00</Time>
+  <Locality>Dianópolis, Tocantins State</Locality>
+  <Latitude>-11.6278</Latitude>
+  <Longitude>-46.8206</Longitude>
+  <Elevation>600</Elevation>
+  <Author>Advaldo D. Prado</Author>
+  <AuthorID>LUMSAVGFDA</AuthorID>
+  <Content>Song</Content>
+  <Comments />
+  <Quality>0</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies>Crotophaga ani</BackgroundSpecies>
+  <Order>Passeriformes</Order>
+  <Family>Furnariidae</Family>
+  <Genus>Certhiaxis</Genus>
+  <Species>cinnamomeus</Species>
+  <Sub-species />
+  <VernacularNames>Yellow-chinned Spinetail</VernacularNames>
+</Audio>

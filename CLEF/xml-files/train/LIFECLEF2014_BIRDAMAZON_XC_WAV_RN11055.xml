@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>11055</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN11055.wav</FileName>
+  <ClassId>yilzpe</ClassId>
+  <Date>2002-08-11</Date>
+  <Time>12:35</Time>
+  <Locality>Intervales State Park. Carmo road</Locality>
+  <Latitude>-24.2834</Latitude>
+  <Longitude>-48.4334</Longitude>
+  <Elevation>600</Elevation>
+  <Author>Jeremy Minns</Author>
+  <AuthorID>DGVLLRYDXS</AuthorID>
+  <Content>call, song</Content>
+  <Comments>Humid forest.</Comments>
+  <Quality>2</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Tyrannidae</Family>
+  <Genus>Leptopogon</Genus>
+  <Species>amaurocephalus</Species>
+  <Sub-species>amaurocephalus</Sub-species>
+  <VernacularNames>Sepia-capped Flycatcher</VernacularNames>
+</Audio>

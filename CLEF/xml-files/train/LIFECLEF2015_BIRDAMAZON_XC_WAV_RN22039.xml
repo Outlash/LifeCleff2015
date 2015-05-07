@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>22039</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN22039.wav</FileName>
+  <ClassId>iyshfg</ClassId>
+  <Date>2003-03-31</Date>
+  <Time>11:47</Time>
+  <Locality>Humaitá, AM. Sítio Boa Fé</Locality>
+  <Latitude>-7.7167</Latitude>
+  <Longitude>-63.0834</Longitude>
+  <Elevation>60</Elevation>
+  <Author>Jeremy Minns</Author>
+  <AuthorID>DGVLLRYDXS</AuthorID>
+  <Content>song</Content>
+  <Comments>terra firme forestbird-seen:noplayback-used:no</Comments>
+  <Quality>4</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Pipridae</Family>
+  <Genus>Tyranneutes</Genus>
+  <Species>stolzmanni</Species>
+  <Sub-species />
+  <VernacularNames>Dwarf Tyrant-Manakin</VernacularNames>
+</Audio>

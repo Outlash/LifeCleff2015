@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>14871</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN14871.wav</FileName>
+  <ClassId>bgcpcn</ClassId>
+  <Date>2011-04-28</Date>
+  <Time>06:30</Time>
+  <Locality>Samaná, Caldas</Locality>
+  <Latitude>5.6071</Latitude>
+  <Longitude>-74.9457</Longitude>
+  <Elevation>750</Elevation>
+  <Author>Daniel Moreno López</Author>
+  <AuthorID>JPXUMPFYEW</AuthorID>
+  <Content>song</Content>
+  <Comments>bird-seen:yesplayback-used:no</Comments>
+  <Quality>0</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Troglodytidae</Family>
+  <Genus>Pheugopedius</Genus>
+  <Species>fasciatoventris</Species>
+  <Sub-species />
+  <VernacularNames>Black-bellied Wren</VernacularNames>
+</Audio>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>33031</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN33031.wav</FileName>
+  <ClassId>xxmngp</ClassId>
+  <Date>2009-09-06</Date>
+  <Time>08:00</Time>
+  <Locality>Leopoldo de Bulhões, Goiás.</Locality>
+  <Latitude>NULL</Latitude>
+  <Longitude>NULL</Longitude>
+  <Elevation>1.010</Elevation>
+  <Author>Nunes D´Acosta</Author>
+  <AuthorID>OHHTDSDNBT</AuthorID>
+  <Content>song</Content>
+  <Comments>Espécie vocalizando dentro de touceira de coqueirinho-do-campo(Butia archeri) reserva de cerrado próximo ao lixão da cidade de Leopoldo de Bulhões (vergonhoso procedimento de administração pública)</Comments>
+  <Quality>1</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Melanopareiidae</Family>
+  <Genus>Melanopareia</Genus>
+  <Species>torquata</Species>
+  <Sub-species />
+  <VernacularNames>Collared Crescentchest</VernacularNames>
+</Audio>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>33022</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN33022.wav</FileName>
+  <ClassId>sjimuc</ClassId>
+  <Date>2009-04-04</Date>
+  <Time>?:?</Time>
+  <Locality>?</Locality>
+  <Latitude>NULL</Latitude>
+  <Longitude>NULL</Longitude>
+  <Elevation>?</Elevation>
+  <Author>Joseph Tobias and Nathalie Seddon</Author>
+  <AuthorID>IKMWQIXRNV</AuthorID>
+  <Content>song</Content>
+  <Comments>track T1877.</Comments>
+  <Quality>2</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Thamnophilidae</Family>
+  <Genus>Hypocnemoides</Genus>
+  <Species>melanopogon</Species>
+  <Sub-species />
+  <VernacularNames>Black-chinned Antbird</VernacularNames>
+</Audio>

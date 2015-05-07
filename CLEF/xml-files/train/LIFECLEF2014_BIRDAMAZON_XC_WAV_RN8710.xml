@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>8710</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN8710.wav</FileName>
+  <ClassId>xsdgpb</ClassId>
+  <Date>2013-06-06</Date>
+  <Time>14:30</Time>
+  <Locality>Palma Sola, Santa Catarina</Locality>
+  <Latitude>-26.3247</Latitude>
+  <Longitude>-53.2885</Longitude>
+  <Elevation>850</Elevation>
+  <Author>Paulo Affonso Fonseca Pires Neto</Author>
+  <AuthorID>QOMWCAGQJX</AuthorID>
+  <Content>call</Content>
+  <Comments>bird-seen:yesplayback-used:no</Comments>
+  <Quality>1</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Furnariidae</Family>
+  <Genus>Dendrocolaptes</Genus>
+  <Species>platyrostris</Species>
+  <Sub-species />
+  <VernacularNames>Planalto Woodcreeper</VernacularNames>
+</Audio>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>15526</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN15526.wav</FileName>
+  <ClassId>uwehqf</ClassId>
+  <Date>2010-05-05</Date>
+  <Time>06:46</Time>
+  <Locality>Point de vue route de Kaw - Roura</Locality>
+  <Latitude>NULL</Latitude>
+  <Longitude>NULL</Longitude>
+  <Elevation>?</Elevation>
+  <Author>Patrick INGREMEAU</Author>
+  <AuthorID>IIVTYSKEYX</AuthorID>
+  <Content>song</Content>
+  <Comments />
+  <Quality>2</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies>Ramphocelus carbo,Percnostola rufifrons,Saltator grossus</BackgroundSpecies>
+  <Order>Piciformes</Order>
+  <Family>Ramphastidae</Family>
+  <Genus>Pteroglossus</Genus>
+  <Species>aracari</Species>
+  <Sub-species />
+  <VernacularNames>Black-necked Aracari</VernacularNames>
+</Audio>

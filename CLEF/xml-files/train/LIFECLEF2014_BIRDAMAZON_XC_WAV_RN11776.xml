@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>11776</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN11776.wav</FileName>
+  <ClassId>szldxi</ClassId>
+  <Date>2008-11-16</Date>
+  <Time>06:55</Time>
+  <Locality>APA Capivari Monos, São Paulo, SP</Locality>
+  <Latitude>-23.955667</Latitude>
+  <Longitude>-46.650334</Longitude>
+  <Elevation>?</Elevation>
+  <Author>Marcos Melo</Author>
+  <AuthorID>MRGDYNJGUJ</AuthorID>
+  <Content>song</Content>
+  <Comments />
+  <Quality>2</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies>Zonotrichia capensis,Turdus rufiventris</BackgroundSpecies>
+  <Order>Passeriformes</Order>
+  <Family>Tyrannidae</Family>
+  <Genus>Elaenia</Genus>
+  <Species>mesoleuca</Species>
+  <Sub-species />
+  <VernacularNames>Olivaceous Elaenia</VernacularNames>
+</Audio>

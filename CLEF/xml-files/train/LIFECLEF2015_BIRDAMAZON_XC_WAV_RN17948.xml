@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>17948</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN17948.wav</FileName>
+  <ClassId>brsyrr</ClassId>
+  <Date>2014-09-13</Date>
+  <Time>08:30</Time>
+  <Locality>Capanema, Capanema, Parana</Locality>
+  <Latitude>-25.691</Latitude>
+  <Longitude>-53.8468</Longitude>
+  <Elevation>240</Elevation>
+  <Author>André J. Pieri</Author>
+  <AuthorID>MQVGMZQRIN</AuthorID>
+  <Content>call</Content>
+  <Comments>bird-seen:yesplayback-used:yes</Comments>
+  <Quality>2</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Vireonidae</Family>
+  <Genus>Hylophilus</Genus>
+  <Species>poicilotis</Species>
+  <Sub-species />
+  <VernacularNames>Rufous-crowned Greenlet</VernacularNames>
+</Audio>

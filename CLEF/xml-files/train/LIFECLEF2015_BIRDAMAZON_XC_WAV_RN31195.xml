@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>31195</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN31195.wav</FileName>
+  <ClassId>vrurmm</ClassId>
+  <Date>2008-09-14</Date>
+  <Time>17:26</Time>
+  <Locality>Reserva Biológica do Mato Grande - Arroio Grande, Rio Grande do Sul</Locality>
+  <Latitude>-32.1503</Latitude>
+  <Longitude>-52.7364</Longitude>
+  <Elevation>0</Elevation>
+  <Author>Fernando Jacobs</Author>
+  <AuthorID>MHHPJBCUXC</AuthorID>
+  <Content>song</Content>
+  <Comments>after playback.</Comments>
+  <Quality>3</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Strigiformes</Order>
+  <Family>Strigidae</Family>
+  <Genus>Bubo</Genus>
+  <Species>virginianus</Species>
+  <Sub-species />
+  <VernacularNames>Great Horned Owl</VernacularNames>
+</Audio>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>25143</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN25143.wav</FileName>
+  <ClassId>qhsdfp</ClassId>
+  <Date>2007-01-12</Date>
+  <Time>08:30</Time>
+  <Locality>Pico Humboldt Trail, Parque Nacional Sierra Nevada, Mérida</Locality>
+  <Latitude>8.6209</Latitude>
+  <Longitude>-71.0331</Longitude>
+  <Elevation>?</Elevation>
+  <Author>Andrew Spencer</Author>
+  <AuthorID>CDTGHVBGZP</AuthorID>
+  <Content>song</Content>
+  <Comments />
+  <Quality>1</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Grallariidae</Family>
+  <Genus>Grallaricula</Genus>
+  <Species>nana</Species>
+  <Sub-species>nanitaea</Sub-species>
+  <VernacularNames>Slaty-crowned Antpitta</VernacularNames>
+</Audio>

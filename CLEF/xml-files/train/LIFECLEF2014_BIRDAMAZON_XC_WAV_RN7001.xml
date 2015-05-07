@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>7001</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN7001.wav</FileName>
+  <ClassId>erszyt</ClassId>
+  <Date>2011-02-01</Date>
+  <Time>08:05</Time>
+  <Locality>Bacia 157, Santarém, PA</Locality>
+  <Latitude>-2.8328</Latitude>
+  <Longitude>-54.4928</Longitude>
+  <Elevation>?</Elevation>
+  <Author>Bradley Davis</Author>
+  <AuthorID>YNXJLOESBB</AuthorID>
+  <Content>song</Content>
+  <Comments />
+  <Quality>2</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies>Pheugopedius coraya,Leptotila rufaxilla,Saltator grossus</BackgroundSpecies>
+  <Order>Passeriformes</Order>
+  <Family>Vireonidae</Family>
+  <Genus>Hylophilus</Genus>
+  <Species>semicinereus</Species>
+  <Sub-species />
+  <VernacularNames>Grey-chested Greenlet</VernacularNames>
+</Audio>

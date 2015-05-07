@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>9197</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN9197.wav</FileName>
+  <ClassId>perzmu</ClassId>
+  <Date>2012-04-21</Date>
+  <Time>10:00</Time>
+  <Locality>Timbaúba, Pernambuco</Locality>
+  <Latitude>-7.6096</Latitude>
+  <Longitude>-35.3952</Longitude>
+  <Elevation>440</Elevation>
+  <Author>Marcus Braun</Author>
+  <AuthorID>EICLYDGEKS</AuthorID>
+  <Content>song</Content>
+  <Comments>Mata do Engenho Xixa. Macaparanaplayback-used:no</Comments>
+  <Quality>3</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Coerebidae</Family>
+  <Genus>Coereba</Genus>
+  <Species>flaveola</Species>
+  <Sub-species />
+  <VernacularNames>Bananaquit</VernacularNames>
+</Audio>

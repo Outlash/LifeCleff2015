@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>4728</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN4728.wav</FileName>
+  <ClassId>rlbfhk</ClassId>
+  <Date>2010-02-19</Date>
+  <Time>18:30</Time>
+  <Locality>Centro, Angelina, Santa Catarina</Locality>
+  <Latitude>-27.585</Latitude>
+  <Longitude>-48.988</Longitude>
+  <Elevation>550</Elevation>
+  <Author>Evair Legal</Author>
+  <AuthorID>SMJXFKLATM</AuthorID>
+  <Content>call</Content>
+  <Comments />
+  <Quality>2</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies />
+  <Order>Piciformes</Order>
+  <Family>Picidae</Family>
+  <Genus>Piculus</Genus>
+  <Species>aurulentus</Species>
+  <Sub-species />
+  <VernacularNames>Yellow-browed Woodpecker</VernacularNames>
+</Audio>

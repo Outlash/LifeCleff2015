@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>7526</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN7526.wav</FileName>
+  <ClassId>doafbd</ClassId>
+  <Date>2003-04-13</Date>
+  <Time>08:40</Time>
+  <Locality>Pousada Thaimaçu. Rio São Benedito</Locality>
+  <Latitude>-9.0501</Latitude>
+  <Longitude>-56.5834</Longitude>
+  <Elevation>250</Elevation>
+  <Author>Jeremy Minns</Author>
+  <AuthorID>DGVLLRYDXS</AuthorID>
+  <Content>duet, song</Content>
+  <Comments>Terra firme forest.</Comments>
+  <Quality>1</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Thamnophilidae</Family>
+  <Genus>Hypocnemis</Genus>
+  <Species>striata</Species>
+  <Sub-species>striata</Sub-species>
+  <VernacularNames>Spix's Warbling Antbird</VernacularNames>
+</Audio>

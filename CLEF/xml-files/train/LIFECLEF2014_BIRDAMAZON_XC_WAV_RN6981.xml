@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>6981</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN6981.wav</FileName>
+  <ClassId>scjydk</ClassId>
+  <Date>2008-06-15</Date>
+  <Time>17:45</Time>
+  <Locality>Goiatins,  Cartucho, Tocantins</Locality>
+  <Latitude>-8.3356</Latitude>
+  <Longitude>-47.7303</Longitude>
+  <Elevation>190</Elevation>
+  <Author>Advaldo D. Prado</Author>
+  <AuthorID>LUMSAVGFDA</AuthorID>
+  <Content>Call</Content>
+  <Comments />
+  <Quality>3</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies />
+  <Order>Psittaciformes</Order>
+  <Family>Psittacidae</Family>
+  <Genus>Anodorhynchus</Genus>
+  <Species>hyacinthinus</Species>
+  <Sub-species />
+  <VernacularNames>Hyacinth Macaw</VernacularNames>
+</Audio>

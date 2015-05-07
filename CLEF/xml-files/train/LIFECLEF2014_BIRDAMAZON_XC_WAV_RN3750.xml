@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>3750</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN3750.wav</FileName>
+  <ClassId>rhijnm</ClassId>
+  <Date>2008-02-01</Date>
+  <Time>08:30</Time>
+  <Locality>Birigui, Sao Paulo state</Locality>
+  <Latitude>-21.2451</Latitude>
+  <Longitude>-50.3734</Longitude>
+  <Elevation>390</Elevation>
+  <Author>Joao Menezes</Author>
+  <AuthorID>BEYMZHZHIB</AuthorID>
+  <Content>call</Content>
+  <Comments />
+  <Quality>2</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies>Emberizoides herbicola,Brotogeris chiriri,Crotophaga ani</BackgroundSpecies>
+  <Order>Passeriformes</Order>
+  <Family>Icteridae</Family>
+  <Genus>Chrysomus</Genus>
+  <Species>ruficapillus</Species>
+  <Sub-species />
+  <VernacularNames>Chestnut-capped Blackbird</VernacularNames>
+</Audio>

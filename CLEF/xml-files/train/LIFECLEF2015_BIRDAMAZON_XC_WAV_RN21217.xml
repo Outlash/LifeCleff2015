@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>21217</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN21217.wav</FileName>
+  <ClassId>zmpixx</ClassId>
+  <Date>2013-06-02</Date>
+  <Time>07:29</Time>
+  <Locality>Fusagasuga, Cundinamarca</Locality>
+  <Latitude>4.3062</Latitude>
+  <Longitude>-74.4279</Longitude>
+  <Elevation>1200</Elevation>
+  <Author>cesar villamil</Author>
+  <AuthorID>NOMTIJJIKR</AuthorID>
+  <Content>alarm call</Content>
+  <Comments>bird-seen:yesplayback-used:yes</Comments>
+  <Quality>1</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Furnariidae</Family>
+  <Genus>Cranioleuca</Genus>
+  <Species>curtata</Species>
+  <Sub-species />
+  <VernacularNames>Ash-browed Spinetail</VernacularNames>
+</Audio>

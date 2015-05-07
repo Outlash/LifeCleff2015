@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>23072</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN23072.wav</FileName>
+  <ClassId>nkotzb</ClassId>
+  <Date>2003-11-29</Date>
+  <Time>14:54</Time>
+  <Locality>Cristalino Jungle Lodge, MT</Locality>
+  <Latitude>-9.5981</Latitude>
+  <Longitude>-55.932</Longitude>
+  <Elevation>260</Elevation>
+  <Author>Jeremy Minns</Author>
+  <AuthorID>DGVLLRYDXS</AuthorID>
+  <Content>call</Content>
+  <Comments>Forest edge by lodgebird-seen:yesplayback-used:no</Comments>
+  <Quality>1</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies>Patagioenas subvinacea</BackgroundSpecies>
+  <Order>Passeriformes</Order>
+  <Family>Tyrannidae</Family>
+  <Genus>Attila</Genus>
+  <Species>cinnamomeus</Species>
+  <Sub-species />
+  <VernacularNames>Cinnamon Attila</VernacularNames>
+</Audio>

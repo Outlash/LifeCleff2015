@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>30117</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN30117.wav</FileName>
+  <ClassId>emiowy</ClassId>
+  <Date>2010-11-27</Date>
+  <Time>?</Time>
+  <Locality>cerro Roraima base camp, Bolivar</Locality>
+  <Latitude>NULL</Latitude>
+  <Longitude>NULL</Longitude>
+  <Elevation>?</Elevation>
+  <Author>Alexandre Renaudier</Author>
+  <AuthorID>GKADEITXTH</AuthorID>
+  <Content>song</Content>
+  <Comments>incomplete song by a male in response to playback</Comments>
+  <Quality>1</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Piciformes</Order>
+  <Family>Picidae</Family>
+  <Genus>Picumnus</Genus>
+  <Species>exilis</Species>
+  <Sub-species />
+  <VernacularNames>Golden-spangled Piculet</VernacularNames>
+</Audio>

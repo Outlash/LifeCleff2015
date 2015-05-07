@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>12156</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN12156.wav</FileName>
+  <ClassId>ghwdea</ClassId>
+  <Date>2002-12-02</Date>
+  <Time>09:17</Time>
+  <Locality>Estrada da Graciosa, Paraná state</Locality>
+  <Latitude>-25.3334</Latitude>
+  <Longitude>-48.9001</Longitude>
+  <Elevation>875</Elevation>
+  <Author>Jeremy Minns</Author>
+  <AuthorID>DGVLLRYDXS</AuthorID>
+  <Content>Song</Content>
+  <Comments>Montane forest. Not seen.</Comments>
+  <Quality>2</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies>Synallaxis ruficapilla,Attila phoenicurus,Cyclarhis gujanensis,Vireo olivaceus,Basileuterus culicivorus</BackgroundSpecies>
+  <Order>Passeriformes</Order>
+  <Family>Cardinalidae</Family>
+  <Genus>Amaurospiza</Genus>
+  <Species>moesta</Species>
+  <Sub-species />
+  <VernacularNames>Blackish-blue Seedeater</VernacularNames>
+</Audio>

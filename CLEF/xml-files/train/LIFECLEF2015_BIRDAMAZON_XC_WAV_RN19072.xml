@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>19072</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN19072.wav</FileName>
+  <ClassId>prjknv</ClassId>
+  <Date>2014-05-26</Date>
+  <Time>08:30</Time>
+  <Locality>Candiota, Rio Grande do Sul</Locality>
+  <Latitude>-31.6832</Latitude>
+  <Longitude>-53.7472</Longitude>
+  <Elevation>130</Elevation>
+  <Author>Roberto Buss Stringari</Author>
+  <AuthorID>TLLUGZINYM</AuthorID>
+  <Content>song</Content>
+  <Comments>bird-seen:yesplayback-used:no</Comments>
+  <Quality>0</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Furnariidae</Family>
+  <Genus>Schoeniophylax</Genus>
+  <Species>phryganophilus</Species>
+  <Sub-species />
+  <VernacularNames>Chotoy Spinetail</VernacularNames>
+</Audio>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>10073</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN10073.wav</FileName>
+  <ClassId>bzmmfv</ClassId>
+  <Date>2007-07-27</Date>
+  <Time>08:52</Time>
+  <Locality>Parque Barigui, Curitiba (PR)</Locality>
+  <Latitude>NULL</Latitude>
+  <Longitude>NULL</Longitude>
+  <Elevation>930</Elevation>
+  <Author>Urben-Filho, Deconto &amp; Sbalqueiro</Author>
+  <AuthorID>DHIILUWGHD</AuthorID>
+  <Content>call</Content>
+  <Comments />
+  <Quality>0</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Furnariidae</Family>
+  <Genus>Clibanornis</Genus>
+  <Species>dendrocolaptoides</Species>
+  <Sub-species />
+  <VernacularNames>Canebrake Groundcreeper</VernacularNames>
+</Audio>

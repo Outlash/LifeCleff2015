@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>2919</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN2919.wav</FileName>
+  <ClassId>fakmli</ClassId>
+  <Date>2010-10-24</Date>
+  <Time>06:40</Time>
+  <Locality>Itatiaia National Park - Donati Hotel</Locality>
+  <Latitude>-22.3798</Latitude>
+  <Longitude>-44.6301</Longitude>
+  <Elevation>950</Elevation>
+  <Author>Ricardo Gagliardi</Author>
+  <AuthorID>YRDADNREOP</AuthorID>
+  <Content>call</Content>
+  <Comments />
+  <Quality>0</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies>Basileuterus culicivorus,Turdus rufiventris,Cyclarhis gujanensis,Drymophila ferruginea,Grallaria varia,Sittasomus griseicapillus,Chiroxiphia caudata</BackgroundSpecies>
+  <Order>Passeriformes</Order>
+  <Family>Tyrannidae</Family>
+  <Genus>Platyrinchus</Genus>
+  <Species>mystaceus</Species>
+  <Sub-species />
+  <VernacularNames>White-throated Spadebill</VernacularNames>
+</Audio>

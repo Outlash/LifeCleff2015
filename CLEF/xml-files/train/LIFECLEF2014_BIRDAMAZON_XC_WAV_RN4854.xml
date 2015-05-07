@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>4854</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN4854.wav</FileName>
+  <ClassId>ziirhl</ClassId>
+  <Date>2010-10-24</Date>
+  <Time>11:51</Time>
+  <Locality>Itatiaia National Park - Simon Hotel</Locality>
+  <Latitude>-22.3798</Latitude>
+  <Longitude>-44.6301</Longitude>
+  <Elevation>1250</Elevation>
+  <Author>Ricardo Gagliardi</Author>
+  <AuthorID>YRDADNREOP</AuthorID>
+  <Content>song</Content>
+  <Comments />
+  <Quality>0</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies>Legatus leucophaius,Thraupis ornata,Lepidocolaptes squamatus,Myiarchus ferox,Cyclarhis gujanensis,Pyrrhura frontalis</BackgroundSpecies>
+  <Order>Passeriformes</Order>
+  <Family>Icteridae</Family>
+  <Genus>Cacicus</Genus>
+  <Species>haemorrhous</Species>
+  <Sub-species />
+  <VernacularNames>Red-rumped Cacique</VernacularNames>
+</Audio>

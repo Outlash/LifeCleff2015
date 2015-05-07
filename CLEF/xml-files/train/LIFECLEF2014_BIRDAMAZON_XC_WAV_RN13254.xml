@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>13254</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN13254.wav</FileName>
+  <ClassId>upfjhp</ClassId>
+  <Date>2006-11-05</Date>
+  <Time>18:15</Time>
+  <Locality>Vila Velha State Park, Paraná state</Locality>
+  <Latitude>-25.1389</Latitude>
+  <Longitude>-50.081</Longitude>
+  <Elevation>815</Elevation>
+  <Author>Daniel Lane</Author>
+  <AuthorID>WOEAFQRMUD</AuthorID>
+  <Content>song</Content>
+  <Comments>Response to playback near edge of marsh, at edge of brushy grassland. About 1m up.</Comments>
+  <Quality>2</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies>Vanellus chilensis,Thamnophilus ruficapillus,Troglodytes aedon</BackgroundSpecies>
+  <Order>Passeriformes</Order>
+  <Family>Troglodytidae</Family>
+  <Genus>Cistothorus</Genus>
+  <Species>platensis</Species>
+  <Sub-species>polyglottus</Sub-species>
+  <VernacularNames>Sedge Wren</VernacularNames>
+</Audio>

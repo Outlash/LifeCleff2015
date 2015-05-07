@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>7626</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN7626.wav</FileName>
+  <ClassId>nhvrzu</ClassId>
+  <Date>2002-02-01</Date>
+  <Time>17:42</Time>
+  <Locality>Serra dos Carajás. Near airport</Locality>
+  <Latitude>-6.1001</Latitude>
+  <Longitude>-50.01</Longitude>
+  <Elevation>630</Elevation>
+  <Author>Jeremy Minns</Author>
+  <AuthorID>DGVLLRYDXS</AuthorID>
+  <Content>call</Content>
+  <Comments>Terra firme secondary forest.</Comments>
+  <Quality>2</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies>Ramphocaenus melanurus</BackgroundSpecies>
+  <Order>Passeriformes</Order>
+  <Family>Thamnophilidae</Family>
+  <Genus>Thamnophilus</Genus>
+  <Species>stictocephalus</Species>
+  <Sub-species>stictocephalus</Sub-species>
+  <VernacularNames>Natterer's Slaty Antshrike</VernacularNames>
+</Audio>

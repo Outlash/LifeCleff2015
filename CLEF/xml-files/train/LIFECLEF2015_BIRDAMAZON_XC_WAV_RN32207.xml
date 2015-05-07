@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>32207</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN32207.wav</FileName>
+  <ClassId>mudtcy</ClassId>
+  <Date>2012-04-23</Date>
+  <Time>10:34</Time>
+  <Locality>Montezuma Peak Road, Pueblo Rico, Risaralda, W Andes - Tatama National Park</Locality>
+  <Latitude>5.2431</Latitude>
+  <Longitude>-76.0964</Longitude>
+  <Elevation>1750</Elevation>
+  <Author>Jeremy Minns</Author>
+  <AuthorID>DGVLLRYDXS</AuthorID>
+  <Content>Call A</Content>
+  <Comments>Montane forest edge. Perched on top of an emergent.</Comments>
+  <Quality>1</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies>Herpsilochmus axillaris</BackgroundSpecies>
+  <Order>Passeriformes</Order>
+  <Family>Tyrannidae</Family>
+  <Genus>Contopus</Genus>
+  <Species>fumigatus</Species>
+  <Sub-species>ardosiacus</Sub-species>
+  <VernacularNames>Smoke-colored Pewee</VernacularNames>
+</Audio>

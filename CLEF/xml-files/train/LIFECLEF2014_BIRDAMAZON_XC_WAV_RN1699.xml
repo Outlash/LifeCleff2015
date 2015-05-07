@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>1699</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN1699.wav</FileName>
+  <ClassId>fotnep</ClassId>
+  <Date>2000-08-14</Date>
+  <Time>11:46</Time>
+  <Locality>Ubatuba, SP. Praia Vermelha do Sul.</Locality>
+  <Latitude>-23.5167</Latitude>
+  <Longitude>-45.1667</Longitude>
+  <Elevation>5</Elevation>
+  <Author>Jeremy Minns</Author>
+  <AuthorID>DGVLLRYDXS</AuthorID>
+  <Content>call</Content>
+  <Comments>Same place. 5-6 pairs at and around a hummingbird feeder.</Comments>
+  <Quality>2</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies>Aphantochroa cirrochloris,Coereba flaveola</BackgroundSpecies>
+  <Order>Passeriformes</Order>
+  <Family>Thraupidae</Family>
+  <Genus>Dacnis</Genus>
+  <Species>cayana</Species>
+  <Sub-species>paraguayensis</Sub-species>
+  <VernacularNames>Blue Dacnis</VernacularNames>
+</Audio>

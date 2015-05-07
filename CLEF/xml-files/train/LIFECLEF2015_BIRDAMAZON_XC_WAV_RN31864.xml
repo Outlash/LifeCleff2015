@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>31864</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN31864.wav</FileName>
+  <ClassId>ezprzx</ClassId>
+  <Date>2010-10-12</Date>
+  <Time>07:54</Time>
+  <Locality>Puerto Lopez, Rio Humea (meta)</Locality>
+  <Latitude>4.1551</Latitude>
+  <Longitude>-72.9228</Longitude>
+  <Elevation>100</Elevation>
+  <Author>Oswaldo Cortes</Author>
+  <AuthorID>VVDRVZCVWW</AuthorID>
+  <Content>song</Content>
+  <Comments />
+  <Quality>3</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Tinamiformes</Order>
+  <Family>Tinamidae</Family>
+  <Genus>Crypturellus</Genus>
+  <Species>soui</Species>
+  <Sub-species />
+  <VernacularNames>Little Tinamou</VernacularNames>
+</Audio>

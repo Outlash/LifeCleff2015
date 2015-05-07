@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>21391</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN21391.wav</FileName>
+  <ClassId>kvowbh</ClassId>
+  <Date>2004-08-15</Date>
+  <Time>06:40</Time>
+  <Locality>Borba, Amazonas</Locality>
+  <Latitude>-4.388175</Latitude>
+  <Longitude>-59.593406</Longitude>
+  <Elevation>30</Elevation>
+  <Author>Jeremy Minns</Author>
+  <AuthorID>DGVLLRYDXS</AuthorID>
+  <Content>Song</Content>
+  <Comments>Terra firme forest. Originally identified by me as Hylophylax naevius. ID corrected thanks to Thiago Costa.</Comments>
+  <Quality>0</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies>Hypocnemis striata</BackgroundSpecies>
+  <Order>Passeriformes</Order>
+  <Family>Thamnophilidae</Family>
+  <Genus>Myrmeciza</Genus>
+  <Species>ferruginea</Species>
+  <Sub-species>eluta</Sub-species>
+  <VernacularNames>Ferruginous-backed Antbird</VernacularNames>
+</Audio>

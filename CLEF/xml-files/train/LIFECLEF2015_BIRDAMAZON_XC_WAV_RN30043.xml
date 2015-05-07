@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>30043</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN30043.wav</FileName>
+  <ClassId>qeptbc</ClassId>
+  <Date>2012-09-04</Date>
+  <Time>13:30</Time>
+  <Locality>El canon del Rio Claro, Antioquia</Locality>
+  <Latitude>5.8334</Latitude>
+  <Longitude>-74.8667</Longitude>
+  <Elevation>440</Elevation>
+  <Author>Oscar Humberto Marin-Gomez</Author>
+  <AuthorID>CSUHASNRSU</AuthorID>
+  <Content>song</Content>
+  <Comments>bird-seen:yesplayback-used:yes</Comments>
+  <Quality>3</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Tyrannidae</Family>
+  <Genus>Pogonotriccus</Genus>
+  <Species>lanyoni</Species>
+  <Sub-species />
+  <VernacularNames>Antioquia Bristle Tyrant</VernacularNames>
+</Audio>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>16062</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN16062.wav</FileName>
+  <ClassId>wdzykr</ClassId>
+  <Date>2005-03-22</Date>
+  <Time>11:28</Time>
+  <Locality>Ibague, Finca Los Molinos, Corregimiento de Dantas, Tolima</Locality>
+  <Latitude>4.440719</Latitude>
+  <Longitude>-75.240211</Longitude>
+  <Elevation>2000-2200</Elevation>
+  <Author>Oscar Laverde</Author>
+  <AuthorID>WKVKSVMNDZ</AuthorID>
+  <Content>call</Content>
+  <Comments>Certainty: 95%</Comments>
+  <Quality>0</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies>Phyllomyias nigrocapillus</BackgroundSpecies>
+  <Order>Passeriformes</Order>
+  <Family>Tyrannidae</Family>
+  <Genus>Myiophobus</Genus>
+  <Species>flavicans</Species>
+  <Sub-species />
+  <VernacularNames>Flavescent Flycatcher</VernacularNames>
+</Audio>

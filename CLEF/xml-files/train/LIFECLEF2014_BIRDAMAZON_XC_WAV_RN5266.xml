@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>5266</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN5266.wav</FileName>
+  <ClassId>nntytu</ClassId>
+  <Date>2001-11-11</Date>
+  <Time>13:40</Time>
+  <Locality>Estação Ecológica de Murici, Alagoas</Locality>
+  <Latitude>-9.3001</Latitude>
+  <Longitude>-35.9334</Longitude>
+  <Elevation>550</Elevation>
+  <Author>Jeremy Minns</Author>
+  <AuthorID>DGVLLRYDXS</AuthorID>
+  <Content>call</Content>
+  <Comments>Humid forest. Natural sounds of about 6 birds (more males than females) at an ant swarm.</Comments>
+  <Quality>1</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies>Dixiphia rubrocapilla</BackgroundSpecies>
+  <Order>Passeriformes</Order>
+  <Family>Thamnophilidae</Family>
+  <Genus>Pyriglena</Genus>
+  <Species>leuconota</Species>
+  <Sub-species>pernambucensis</Sub-species>
+  <VernacularNames>White-backed Fire-eye</VernacularNames>
+</Audio>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>28762</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN28762.wav</FileName>
+  <ClassId>igtfqw</ClassId>
+  <Date>2009-12-28</Date>
+  <Time>16:00</Time>
+  <Locality>Águas Claras, Brusque, Santa Catarina</Locality>
+  <Latitude>-27.144</Latitude>
+  <Longitude>-48.908</Longitude>
+  <Elevation>45</Elevation>
+  <Author>Evair Legal</Author>
+  <AuthorID>SMJXFKLATM</AuthorID>
+  <Content>call</Content>
+  <Comments />
+  <Quality>2</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Apodiformes</Order>
+  <Family>Apodidae</Family>
+  <Genus>Chaetura</Genus>
+  <Species>meridionalis</Species>
+  <Sub-species />
+  <VernacularNames>Sick's Swift</VernacularNames>
+</Audio>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>2219</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN2219.wav</FileName>
+  <ClassId>iutawf</ClassId>
+  <Date>2006-02-12</Date>
+  <Time>07:50</Time>
+  <Locality>Chapada dos Guimarães, north of Cuiabá, MT</Locality>
+  <Latitude>-15.4239</Latitude>
+  <Longitude>-55.7778</Longitude>
+  <Elevation>720</Elevation>
+  <Author>Nick Athanas</Author>
+  <AuthorID>XRABICUARW</AuthorID>
+  <Content>call</Content>
+  <Comments>Male. Stunted cerrado on Agua Fria road.</Comments>
+  <Quality>2</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies>Saltator atricollis,Volatinia jacarina,Rhynchotus rufescens</BackgroundSpecies>
+  <Order>Passeriformes</Order>
+  <Family>Thamnophilidae</Family>
+  <Genus>Formicivora</Genus>
+  <Species>rufa</Species>
+  <Sub-species>rufa</Sub-species>
+  <VernacularNames>Rusty-backed Antwren</VernacularNames>
+</Audio>

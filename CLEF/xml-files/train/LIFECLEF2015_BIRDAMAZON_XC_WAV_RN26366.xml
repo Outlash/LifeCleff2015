@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>26366</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN26366.wav</FileName>
+  <ClassId>dxtjbh</ClassId>
+  <Date>2007-12-17</Date>
+  <Time>09:49</Time>
+  <Locality>Clarita Botero, Ibagué, Tolima</Locality>
+  <Latitude>4.4689</Latitude>
+  <Longitude>-75.2281</Longitude>
+  <Elevation>1700</Elevation>
+  <Author>Nick Athanas</Author>
+  <AuthorID>XRABICUARW</AuthorID>
+  <Content>song</Content>
+  <Comments />
+  <Quality>2</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Emberizidae</Family>
+  <Genus>Atlapetes</Genus>
+  <Species>flaviceps</Species>
+  <Sub-species />
+  <VernacularNames>Yellow-headed Brush Finch</VernacularNames>
+</Audio>

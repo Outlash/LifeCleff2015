@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>5280</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN5280.wav</FileName>
+  <ClassId>mbwjzf</ClassId>
+  <Date>2002-09-12</Date>
+  <Time>08:59</Time>
+  <Locality>Serra dos Orgaos National Park. Teresopolis</Locality>
+  <Latitude>-22.4667</Latitude>
+  <Longitude>-43.01</Longitude>
+  <Elevation>1600</Elevation>
+  <Author>Jeremy Minns</Author>
+  <AuthorID>DGVLLRYDXS</AuthorID>
+  <Content>Call</Content>
+  <Comments>Pedra do Sino trail. Montane forest. Almost certainly the same birds recorded in #2. This is Call C in our DVD-ROM 'Birds of Brazil'.</Comments>
+  <Quality>2</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies>Pyrrhura frontalis,Dysithamnus xanthopterus,Tijuca atra,Hylophilus poicilotis,Saltator similis</BackgroundSpecies>
+  <Order>Passeriformes</Order>
+  <Family>Fringillidae</Family>
+  <Genus>Chlorophonia</Genus>
+  <Species>cyanea</Species>
+  <Sub-species>cyanea</Sub-species>
+  <VernacularNames>Blue-naped Chlorophonia</VernacularNames>
+</Audio>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>11763</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN11763.wav</FileName>
+  <ClassId>vjavkh</ClassId>
+  <Date>2006-06-12</Date>
+  <Time>08:20</Time>
+  <Locality>Itatiaia NP, RJ</Locality>
+  <Latitude>-22.38</Latitude>
+  <Longitude>-44.63</Longitude>
+  <Elevation>600</Elevation>
+  <Author>Ricardo Gagliardi</Author>
+  <AuthorID>YRDADNREOP</AuthorID>
+  <Content>call</Content>
+  <Comments />
+  <Quality>3</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Thamnophilidae</Family>
+  <Genus>Rhopias</Genus>
+  <Species>gularis</Species>
+  <Sub-species />
+  <VernacularNames>Star-throated Antwren</VernacularNames>
+</Audio>

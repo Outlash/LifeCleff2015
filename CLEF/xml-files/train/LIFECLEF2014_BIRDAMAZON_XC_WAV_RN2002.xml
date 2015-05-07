@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>2002</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN2002.wav</FileName>
+  <ClassId>sgfjyn</ClassId>
+  <Date>1993-11-20</Date>
+  <Time>?</Time>
+  <Locality>Bridalveil Falls, Chapada dos Guimaraes NP, Mato Grosso</Locality>
+  <Latitude>-15.4089</Latitude>
+  <Longitude>-55.832</Longitude>
+  <Elevation>590</Elevation>
+  <Author>Allen T. Chartier</Author>
+  <AuthorID>AZXTZTQJRO</AuthorID>
+  <Content>duet, song</Content>
+  <Comments>Responding to playback</Comments>
+  <Quality>5</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies>Myiothlypis flaveola,Psittacara leucophthalmus</BackgroundSpecies>
+  <Order>Passeriformes</Order>
+  <Family>Thamnophilidae</Family>
+  <Genus>Herpsilochmus</Genus>
+  <Species>longirostris</Species>
+  <Sub-species />
+  <VernacularNames>Large-billed Antwren</VernacularNames>
+</Audio>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>32837</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN32837.wav</FileName>
+  <ClassId>pswzyj</ClassId>
+  <Date>1995-11-00</Date>
+  <Time>09:00</Time>
+  <Locality>Itapecerica da Serra,SP, Brazil</Locality>
+  <Latitude>-23.786</Latitude>
+  <Longitude>-46.871</Longitude>
+  <Elevation>900</Elevation>
+  <Author>Antonio Silveira</Author>
+  <AuthorID>NBJQSQJRYH</AuthorID>
+  <Content>male, song</Content>
+  <Comments>perhaps a male singing in the forest.  background cicadas.bird-seen:yesplayback-used:no</Comments>
+  <Quality>3</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Vireonidae</Family>
+  <Genus>Vireo</Genus>
+  <Species>olivaceus</Species>
+  <Sub-species />
+  <VernacularNames>Red-eyed Vireo</VernacularNames>
+</Audio>

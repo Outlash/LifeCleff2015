@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>2964</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN2964.wav</FileName>
+  <ClassId>prpzcg</ClassId>
+  <Date>2011-07-07</Date>
+  <Time>10:07</Time>
+  <Locality>1Brasília National Park, Brasília/DF.</Locality>
+  <Latitude>-15.6626</Latitude>
+  <Longitude>-48.017</Longitude>
+  <Elevation>1086</Elevation>
+  <Author>Fernando Fávaro</Author>
+  <AuthorID>QTNGUZTTQM</AuthorID>
+  <Content>Song</Content>
+  <Comments>Gallery forest. Milho Cozido stream. After playback.</Comments>
+  <Quality>1</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies>Cariama cristata,Camptostoma obsoletum,Troglodytes aedon,Myiothlypis flaveola</BackgroundSpecies>
+  <Order>Passeriformes</Order>
+  <Family>Pipridae</Family>
+  <Genus>Antilophia</Genus>
+  <Species>galeata</Species>
+  <Sub-species />
+  <VernacularNames>Helmeted Manakin</VernacularNames>
+</Audio>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>1296</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN1296.wav</FileName>
+  <ClassId>sjrtzw</ClassId>
+  <Date>2012-04-06</Date>
+  <Time>19:30</Time>
+  <Locality>Santo Antonio do Pinhal, São Paulo State</Locality>
+  <Latitude>-22.8893</Latitude>
+  <Longitude>-45.6861</Longitude>
+  <Elevation>1300</Elevation>
+  <Author>Rodrigo Dela Rosa de Souza</Author>
+  <AuthorID>VGXDJMKETZ</AuthorID>
+  <Content>female, male, song</Content>
+  <Comments>bird-seen:yesplayback-used:yes</Comments>
+  <Quality>3</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies />
+  <Order>Strigiformes</Order>
+  <Family>Strigidae</Family>
+  <Genus>Strix</Genus>
+  <Species>hylophila</Species>
+  <Sub-species />
+  <VernacularNames>Rusty-barred Owl</VernacularNames>
+</Audio>

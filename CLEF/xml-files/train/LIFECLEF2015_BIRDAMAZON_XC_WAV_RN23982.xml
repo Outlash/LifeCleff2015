@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>23982</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN23982.wav</FileName>
+  <ClassId>qwmkxk</ClassId>
+  <Date>2008-09-21</Date>
+  <Time>10:05</Time>
+  <Locality>Banhado do Pontal da Barra - Pelotas, Rio Grande do Sul</Locality>
+  <Latitude>NULL</Latitude>
+  <Longitude>NULL</Longitude>
+  <Elevation>0</Elevation>
+  <Author>Fernando Jacobs</Author>
+  <AuthorID>MHHPJBCUXC</AuthorID>
+  <Content>call</Content>
+  <Comments />
+  <Quality>2</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Gruiformes</Order>
+  <Family>Rallidae</Family>
+  <Genus>Laterallus</Genus>
+  <Species>leucopyrrhus</Species>
+  <Sub-species />
+  <VernacularNames>Red-and-white Crake</VernacularNames>
+</Audio>

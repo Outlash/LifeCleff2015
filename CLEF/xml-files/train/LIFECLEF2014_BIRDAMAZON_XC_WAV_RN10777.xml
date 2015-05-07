@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>10777</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN10777.wav</FileName>
+  <ClassId>armfvy</ClassId>
+  <Date>2007-10-06</Date>
+  <Time>14:50</Time>
+  <Locality>Horto Florestal, Cantareira, Sao Paulo city, Sao Paulo state</Locality>
+  <Latitude>-23.46</Latitude>
+  <Longitude>-46.638</Longitude>
+  <Elevation>830</Elevation>
+  <Author>Daniel Lane</Author>
+  <AuthorID>WOEAFQRMUD</AuthorID>
+  <Content>call</Content>
+  <Comments>Natural call from unseen bird in canopy of tall humid forest.</Comments>
+  <Quality>2</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies>Chiroxiphia caudata,Myiothlypis leucoblephara</BackgroundSpecies>
+  <Order>Passeriformes</Order>
+  <Family>Tyrannidae</Family>
+  <Genus>Camptostoma</Genus>
+  <Species>obsoletum</Species>
+  <Sub-species>obsoletum</Sub-species>
+  <VernacularNames>Southern Beardless Tyrannulet</VernacularNames>
+</Audio>

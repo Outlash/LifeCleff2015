@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>14553</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN14553.wav</FileName>
+  <ClassId>gcyzcu</ClassId>
+  <Date>2011-03-15</Date>
+  <Time>10:25</Time>
+  <Locality>Sabakoe Rd</Locality>
+  <Latitude>5.405</Latitude>
+  <Longitude>-55.171</Longitude>
+  <Elevation>20</Elevation>
+  <Author>Daniel Lane</Author>
+  <AuthorID>WOEAFQRMUD</AuthorID>
+  <Content>flight call</Content>
+  <Comments>Alarm calls in flight from about 10 birds flushed from crowns of taller trees on white sand.</Comments>
+  <Quality>1</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Psittaciformes</Order>
+  <Family>Psittacidae</Family>
+  <Genus>Diopsittaca</Genus>
+  <Species>nobilis</Species>
+  <Sub-species />
+  <VernacularNames>Red-shouldered Macaw</VernacularNames>
+</Audio>

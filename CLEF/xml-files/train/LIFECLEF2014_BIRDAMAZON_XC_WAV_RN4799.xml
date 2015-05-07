@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>4799</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN4799.wav</FileName>
+  <ClassId>pscjat</ClassId>
+  <Date>2002-11-27</Date>
+  <Time>13:12</Time>
+  <Locality>Sao Francisco de Paula National Forest</Locality>
+  <Latitude>-29.4334</Latitude>
+  <Longitude>-50.4667</Longitude>
+  <Elevation>900</Elevation>
+  <Author>Jeremy Minns</Author>
+  <AuthorID>DGVLLRYDXS</AuthorID>
+  <Content>call, song</Content>
+  <Comments>Edge of disturbed forest. Female plumaged bird on top of a small araucaria.</Comments>
+  <Quality>1</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies>Elaenia mesoleuca,Procnias nudicollis,Saltator similis,Zonotrichia capensis</BackgroundSpecies>
+  <Order>Passeriformes</Order>
+  <Family>Thraupidae</Family>
+  <Genus>Sicalis</Genus>
+  <Species>flaveola</Species>
+  <Sub-species>pelzelni</Sub-species>
+  <VernacularNames>Saffron Finch</VernacularNames>
+</Audio>

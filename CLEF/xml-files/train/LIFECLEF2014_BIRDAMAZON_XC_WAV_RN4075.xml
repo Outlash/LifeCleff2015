@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>4075</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN4075.wav</FileName>
+  <ClassId>fofjao</ClassId>
+  <Date>2009-09-13</Date>
+  <Time>18:00</Time>
+  <Locality>Cristalina, Goiás</Locality>
+  <Latitude>-16.770686</Latitude>
+  <Longitude>-47.612</Longitude>
+  <Elevation>980</Elevation>
+  <Author>Nunes D´Acosta</Author>
+  <AuthorID>OHHTDSDNBT</AuthorID>
+  <Content>song</Content>
+  <Comments>Filhote de Asio  flammeus emplumado escondido entre  moitas de capim á espera dos pais para alimenta-lo</Comments>
+  <Quality>3</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies />
+  <Order>Strigiformes</Order>
+  <Family>Strigidae</Family>
+  <Genus>Asio</Genus>
+  <Species>flammeus</Species>
+  <Sub-species />
+  <VernacularNames>Short-eared Owl</VernacularNames>
+</Audio>

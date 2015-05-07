@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>5926</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN5926.wav</FileName>
+  <ClassId>fhlbln</ClassId>
+  <Date>2008-08-19</Date>
+  <Time>09:12</Time>
+  <Locality>Goiânia, Goiás. Setor Samambaia,  Clube de Roma.</Locality>
+  <Latitude>NULL</Latitude>
+  <Longitude>NULL</Longitude>
+  <Elevation>610</Elevation>
+  <Author>Nunes D'Acosta</Author>
+  <AuthorID>OHHTDSDNBT</AuthorID>
+  <Content>song</Content>
+  <Comments>Tres indivíduos  subindo  em  espiral pelo caule de um pau-terra ( Qualea multiflora)</Comments>
+  <Quality>3</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies />
+  <Order>Piciformes</Order>
+  <Family>Picidae</Family>
+  <Genus>Melanerpes</Genus>
+  <Species>flavifrons</Species>
+  <Sub-species />
+  <VernacularNames>Yellow-fronted Woodpecker</VernacularNames>
+</Audio>

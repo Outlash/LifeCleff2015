@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>27941</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN27941.wav</FileName>
+  <ClassId>ebdshm</ClassId>
+  <Date>2011-02-14</Date>
+  <Time>07:00</Time>
+  <Locality>Reserva Forestal_Victoria Caldas</Locality>
+  <Latitude>5.431</Latitude>
+  <Longitude>-74.916</Longitude>
+  <Elevation>950</Elevation>
+  <Author>Oswaldo Cortes</Author>
+  <AuthorID>VVDRVZCVWW</AuthorID>
+  <Content>song</Content>
+  <Comments />
+  <Quality>1</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Turdidae</Family>
+  <Genus>Turdus</Genus>
+  <Species>ignobilis</Species>
+  <Sub-species />
+  <VernacularNames>Black-billed Thrush</VernacularNames>
+</Audio>

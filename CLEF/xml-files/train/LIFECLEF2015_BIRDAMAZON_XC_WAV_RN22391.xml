@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>22391</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN22391.wav</FileName>
+  <ClassId>fmdsaj</ClassId>
+  <Date>2014-02-01</Date>
+  <Time>09:00</Time>
+  <Locality>Floresta Estadual Rio Preto-Jacundá, Machadinho d'Oeste, Rondônia</Locality>
+  <Latitude>-8.9244</Latitude>
+  <Longitude>-62.0836</Longitude>
+  <Elevation>80</Elevation>
+  <Author>GABRIEL LEITE</Author>
+  <AuthorID>TGBFXDVERJ</AuthorID>
+  <Content>song</Content>
+  <Comments>bird-seen:noplayback-used:no</Comments>
+  <Quality>3</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Tyrannidae</Family>
+  <Genus>Piprites</Genus>
+  <Species>chloris</Species>
+  <Sub-species />
+  <VernacularNames>Wing-barred Piprites</VernacularNames>
+</Audio>

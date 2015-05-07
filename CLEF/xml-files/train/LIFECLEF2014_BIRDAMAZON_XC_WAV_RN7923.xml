@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>7923</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN7923.wav</FileName>
+  <ClassId>uphahj</ClassId>
+  <Date>2012-04-05</Date>
+  <Time>10:59</Time>
+  <Locality>riacho da Onça-Pão de Açúcar-Alagoas-Brasil</Locality>
+  <Latitude>-9.725</Latitude>
+  <Longitude>-37.45</Longitude>
+  <Elevation>300</Elevation>
+  <Author>pedroteia</Author>
+  <AuthorID>BZVNDWLRSQ</AuthorID>
+  <Content>song/alarm</Content>
+  <Comments>carijÃ³. dois individuos gritavam naquele momento .</Comments>
+  <Quality>2</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies />
+  <Order>Accipitriformes</Order>
+  <Family>Accipitridae</Family>
+  <Genus>Rupornis</Genus>
+  <Species>magnirostris</Species>
+  <Sub-species />
+  <VernacularNames>Roadside Hawk</VernacularNames>
+</Audio>

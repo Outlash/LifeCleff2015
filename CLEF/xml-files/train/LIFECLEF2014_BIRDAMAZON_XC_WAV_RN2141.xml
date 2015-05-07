@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>2141</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN2141.wav</FileName>
+  <ClassId>tpwgoq</ClassId>
+  <Date>2010-09-04</Date>
+  <Time>16:40</Time>
+  <Locality>São Luís do Paraitinga, SP</Locality>
+  <Latitude>-23.3283852854769</Latitude>
+  <Longitude>-45.2832412719727</Longitude>
+  <Elevation>1100</Elevation>
+  <Author>Ricardo Gagliardi</Author>
+  <AuthorID>YRDADNREOP</AuthorID>
+  <Content>song</Content>
+  <Comments>Reserva Guainumbi area</Comments>
+  <Quality>1</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies>Cyclarhis gujanensis,Leucochloris albicollis</BackgroundSpecies>
+  <Order>Passeriformes</Order>
+  <Family>Icteridae</Family>
+  <Genus>Gnorimopsar</Genus>
+  <Species>chopi</Species>
+  <Sub-species />
+  <VernacularNames>Chopi Blackbird</VernacularNames>
+</Audio>

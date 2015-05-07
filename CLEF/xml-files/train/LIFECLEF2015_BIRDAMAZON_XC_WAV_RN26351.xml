@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>26351</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN26351.wav</FileName>
+  <ClassId>ipzbhi</ClassId>
+  <Date>2008-07-24</Date>
+  <Time>08:00</Time>
+  <Locality>Novo Progresso, Pará</Locality>
+  <Latitude>-7.1501</Latitude>
+  <Longitude>-55.4834</Longitude>
+  <Elevation>100</Elevation>
+  <Author>Sidnei Dantas</Author>
+  <AuthorID>NNCKQMBGPH</AuthorID>
+  <Content>song</Content>
+  <Comments>in varzea forest.</Comments>
+  <Quality>2</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies>Trogon curucui,Crypturellus cinereus,Trogon melanurus</BackgroundSpecies>
+  <Order>Passeriformes</Order>
+  <Family>Turdidae</Family>
+  <Genus>Turdus</Genus>
+  <Species>fumigatus</Species>
+  <Sub-species />
+  <VernacularNames>Cocoa Thrush</VernacularNames>
+</Audio>

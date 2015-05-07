@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>19143</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN19143.wav</FileName>
+  <ClassId>iydjte</ClassId>
+  <Date>2011-06-06</Date>
+  <Time>09:30</Time>
+  <Locality>Parque Nacional Natural Chingaza, Cundinamarca</Locality>
+  <Latitude>4.747</Latitude>
+  <Longitude>-73.856</Longitude>
+  <Elevation>3400</Elevation>
+  <Author>Andrew Spencer</Author>
+  <AuthorID>CDTGHVBGZP</AuthorID>
+  <Content>song</Content>
+  <Comments>in response to playback</Comments>
+  <Quality>1</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Furnariidae</Family>
+  <Genus>Asthenes</Genus>
+  <Species>fuliginosa</Species>
+  <Sub-species>fuliginosa</Sub-species>
+  <VernacularNames>White-chinned Thistletail</VernacularNames>
+</Audio>

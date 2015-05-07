@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>6283</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN6283.wav</FileName>
+  <ClassId>wxviiz</ClassId>
+  <Date>2009-11-02</Date>
+  <Time>08:00</Time>
+  <Locality>Tocantins</Locality>
+  <Latitude>-10.0906</Latitude>
+  <Longitude>-46.8155</Longitude>
+  <Elevation>340</Elevation>
+  <Author>GABRIEL LEITE</Author>
+  <AuthorID>TGBFXDVERJ</AuthorID>
+  <Content>song</Content>
+  <Comments>bird-seen:yesplayback-used:no</Comments>
+  <Quality>2</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies />
+  <Order>Strigiformes</Order>
+  <Family>Strigidae</Family>
+  <Genus>Athene</Genus>
+  <Species>cunicularia</Species>
+  <Sub-species />
+  <VernacularNames>Burrowing Owl</VernacularNames>
+</Audio>

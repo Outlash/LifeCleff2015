@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>8211</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN8211.wav</FileName>
+  <ClassId>friwfr</ClassId>
+  <Date>2011-02-15</Date>
+  <Time>14:20</Time>
+  <Locality>Parque Estadual Intervales, SP</Locality>
+  <Latitude>-24.2759</Latitude>
+  <Longitude>-48.4181</Longitude>
+  <Elevation>850</Elevation>
+  <Author>Daniel Lane</Author>
+  <AuthorID>WOEAFQRMUD</AuthorID>
+  <Content>call, song</Content>
+  <Comments>Calls and song given during territorial defense by pair towards third individual. Perched about 2m up in small trees in grass and scrub under scattered trees. Crown feathers flared.</Comments>
+  <Quality>2</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies>Sporophila caerulescens,Hemitriccus nidipendulus</BackgroundSpecies>
+  <Order>Piciformes</Order>
+  <Family>Picidae</Family>
+  <Genus>Picumnus</Genus>
+  <Species>temminckii</Species>
+  <Sub-species />
+  <VernacularNames>Ochre-collared Piculet</VernacularNames>
+</Audio>

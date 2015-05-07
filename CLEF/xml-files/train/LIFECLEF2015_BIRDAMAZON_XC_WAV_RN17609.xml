@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>17609</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN17609.wav</FileName>
+  <ClassId>xkktdr</ClassId>
+  <Date>2007-11-12</Date>
+  <Time>06:50</Time>
+  <Locality>Parque Regional Barbas-Bremen, Filandia, Quindio. Sector Bremen-La Popa</Locality>
+  <Latitude>4.6717</Latitude>
+  <Longitude>-75.6283</Longitude>
+  <Elevation>1800</Elevation>
+  <Author>Oscar Humberto Marin-Gomez</Author>
+  <AuthorID>CSUHASNRSU</AuthorID>
+  <Content>Dawn song, call</Content>
+  <Comments>Ref: OHM005B 1942. Low Montane Forest. 15m distace to Mic. Natural Vocalization.bird-seen:yesplayback-used:no</Comments>
+  <Quality>2</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Thraupidae</Family>
+  <Genus>Tangara</Genus>
+  <Species>arthus</Species>
+  <Sub-species />
+  <VernacularNames>Golden Tanager</VernacularNames>
+</Audio>

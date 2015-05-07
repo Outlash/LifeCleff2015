@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>21037</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN21037.wav</FileName>
+  <ClassId>qalmsn</ClassId>
+  <Date>2011-03-16</Date>
+  <Time>15:50</Time>
+  <Locality>Brownsberg</Locality>
+  <Latitude>4.9301</Latitude>
+  <Longitude>-55.2101</Longitude>
+  <Elevation>460</Elevation>
+  <Author>Daniel Lane</Author>
+  <AuthorID>WOEAFQRMUD</AuthorID>
+  <Content>call</Content>
+  <Comments>Response to playback from a pair (not seen) on forest floor in dense understory of terra firme.</Comments>
+  <Quality>2</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies>Cyanocompsa cyanoides</BackgroundSpecies>
+  <Order>Galliformes</Order>
+  <Family>Odontophoridae</Family>
+  <Genus>Odontophorus</Genus>
+  <Species>gujanensis</Species>
+  <Sub-species />
+  <VernacularNames>Marbled Wood Quail</VernacularNames>
+</Audio>

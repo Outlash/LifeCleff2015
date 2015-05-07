@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>24902</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN24902.wav</FileName>
+  <ClassId>kvowbh</ClassId>
+  <Date>2010-06-11</Date>
+  <Time>07:30</Time>
+  <Locality>Manaus, Amazonas</Locality>
+  <Latitude>-2.8086</Latitude>
+  <Longitude>-59.8727</Longitude>
+  <Elevation>40</Elevation>
+  <Author>GABRIEL LEITE</Author>
+  <AuthorID>TGBFXDVERJ</AuthorID>
+  <Content>male, song</Content>
+  <Comments>bird-seen:yesplayback-used:yes</Comments>
+  <Quality>2</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies>Ramphastos tucanus</BackgroundSpecies>
+  <Order>Passeriformes</Order>
+  <Family>Thamnophilidae</Family>
+  <Genus>Myrmeciza</Genus>
+  <Species>ferruginea</Species>
+  <Sub-species />
+  <VernacularNames>Ferruginous-backed Antbird</VernacularNames>
+</Audio>

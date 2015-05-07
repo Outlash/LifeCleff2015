@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>11539</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN11539.wav</FileName>
+  <ClassId>hctcgx</ClassId>
+  <Date>2001-01-22</Date>
+  <Time>06:30</Time>
+  <Locality>Maraú, BA</Locality>
+  <Latitude>-14.1334</Latitude>
+  <Longitude>-39.0501</Longitude>
+  <Elevation>50</Elevation>
+  <Author>Jeremy Minns</Author>
+  <AuthorID>DGVLLRYDXS</AuthorID>
+  <Content>Alternative song</Content>
+  <Comments>Road to Campinho. Open grassland and scrub. Male.</Comments>
+  <Quality>2</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies>Vireo olivaceus,Turdus leucomelas</BackgroundSpecies>
+  <Order>Passeriformes</Order>
+  <Family>Parulidae</Family>
+  <Genus>Geothlypis</Genus>
+  <Species>velata</Species>
+  <Sub-species>velata</Sub-species>
+  <VernacularNames>Southern Yellowthroat</VernacularNames>
+</Audio>

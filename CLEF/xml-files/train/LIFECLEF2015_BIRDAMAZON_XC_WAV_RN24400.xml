@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>24400</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN24400.wav</FileName>
+  <ClassId>dfegpk</ClassId>
+  <Date>2014-03-28</Date>
+  <Time>07:30</Time>
+  <Locality>Nossa Senhora do Livramento, Mato Grosso</Locality>
+  <Latitude>-16.3811</Latitude>
+  <Longitude>-56.3503</Longitude>
+  <Elevation>130</Elevation>
+  <Author>GABRIEL LEITE</Author>
+  <AuthorID>TGBFXDVERJ</AuthorID>
+  <Content>flight call, male</Content>
+  <Comments>bird-seen:yesplayback-used:no</Comments>
+  <Quality>1</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Psittaciformes</Order>
+  <Family>Psittacidae</Family>
+  <Genus>Amazona</Genus>
+  <Species>aestiva</Species>
+  <Sub-species />
+  <VernacularNames>Turquoise-fronted Amazon</VernacularNames>
+</Audio>

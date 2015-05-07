@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>28541</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN28541.wav</FileName>
+  <ClassId>cpzzjy</ClassId>
+  <Date>2006-12-18</Date>
+  <Time>08:30</Time>
+  <Locality>Reserva Montecano, Falcon</Locality>
+  <Latitude>11.9167</Latitude>
+  <Longitude>-69.9667</Longitude>
+  <Elevation>50</Elevation>
+  <Author>Andrew Spencer</Author>
+  <AuthorID>CDTGHVBGZP</AuthorID>
+  <Content>song</Content>
+  <Comments />
+  <Quality>2</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Mimidae</Family>
+  <Genus>Mimus</Genus>
+  <Species>gilvus</Species>
+  <Sub-species />
+  <VernacularNames>Tropical Mockingbird</VernacularNames>
+</Audio>

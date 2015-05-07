@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>28759</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN28759.wav</FileName>
+  <ClassId>qhhmch</ClassId>
+  <Date>2013-06-13</Date>
+  <Time>07:00</Time>
+  <Locality>El Dorado Lodge, Santa Marta, Magdalena</Locality>
+  <Latitude>11.1006</Latitude>
+  <Longitude>-74.0724</Longitude>
+  <Elevation>1900</Elevation>
+  <Author>Oswaldo Cortes</Author>
+  <AuthorID>VVDRVZCVWW</AuthorID>
+  <Content>call</Content>
+  <Comments>bird-seen:yesplayback-used:no</Comments>
+  <Quality>3</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Furnariidae</Family>
+  <Genus>Cranioleuca</Genus>
+  <Species>hellmayri</Species>
+  <Sub-species />
+  <VernacularNames>Streak-capped Spinetail</VernacularNames>
+</Audio>

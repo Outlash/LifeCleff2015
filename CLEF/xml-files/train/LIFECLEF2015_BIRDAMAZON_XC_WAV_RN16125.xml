@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>16125</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN16125.wav</FileName>
+  <ClassId>fvftkw</ClassId>
+  <Date>1998-08-15</Date>
+  <Time>12:37</Time>
+  <Locality>Finca La Selva (Quebrada San Jose), sobre Toche, Cajamarca, Tolima</Locality>
+  <Latitude>NULL</Latitude>
+  <Longitude>NULL</Longitude>
+  <Elevation>2000</Elevation>
+  <Author>Bernabe Lopez-Lanus</Author>
+  <AuthorID>BYLLSJRVDZ</AuthorID>
+  <Content>Call</Content>
+  <Comments />
+  <Quality>3</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Tyrannidae</Family>
+  <Genus>Elaenia</Genus>
+  <Species>frantzii</Species>
+  <Sub-species />
+  <VernacularNames>Mountain Elaenia</VernacularNames>
+</Audio>

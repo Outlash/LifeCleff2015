@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>32380</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN32380.wav</FileName>
+  <ClassId>qlwaes</ClassId>
+  <Date>2014-09-13</Date>
+  <Time>10:00</Time>
+  <Locality>Capanema, Capanema, Parana</Locality>
+  <Latitude>-25.691</Latitude>
+  <Longitude>-53.8468</Longitude>
+  <Elevation>240</Elevation>
+  <Author>André J. Pieri</Author>
+  <AuthorID>MQVGMZQRIN</AuthorID>
+  <Content>song</Content>
+  <Comments>bird-seen:yesplayback-used:yes</Comments>
+  <Quality>2</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Furnariidae</Family>
+  <Genus>Xiphorhynchus</Genus>
+  <Species>fuscus</Species>
+  <Sub-species>fuscus</Sub-species>
+  <VernacularNames>Lesser Woodcreeper</VernacularNames>
+</Audio>

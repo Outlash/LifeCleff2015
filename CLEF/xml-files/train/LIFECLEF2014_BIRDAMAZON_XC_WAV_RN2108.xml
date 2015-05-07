@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>2108</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN2108.wav</FileName>
+  <ClassId>aeqwqe</ClassId>
+  <Date>2004-03-12</Date>
+  <Time>?</Time>
+  <Locality>Araripe National Forest, Crato, Ceará State</Locality>
+  <Latitude>-7.2501</Latitude>
+  <Longitude>-39.5834</Longitude>
+  <Elevation>760</Elevation>
+  <Author>Thieres Pinto</Author>
+  <AuthorID>MXVQPUKGWW</AuthorID>
+  <Content>song</Content>
+  <Comments />
+  <Quality>2</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies>Hylopezus ochroleucus</BackgroundSpecies>
+  <Order>Passeriformes</Order>
+  <Family>Thamnophilidae</Family>
+  <Genus>Herpsilochmus</Genus>
+  <Species>atricapillus</Species>
+  <Sub-species />
+  <VernacularNames>Black-capped Antwren</VernacularNames>
+</Audio>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>13360</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN13360.wav</FileName>
+  <ClassId>vcflij</ClassId>
+  <Date>2009-07-23</Date>
+  <Time>07:15</Time>
+  <Locality>Setor Jaó - Goiânia, Goiás</Locality>
+  <Latitude>-16.645402</Latitude>
+  <Longitude>-49.226604</Longitude>
+  <Elevation>740</Elevation>
+  <Author>Nunes D´Acosta</Author>
+  <AuthorID>OHHTDSDNBT</AuthorID>
+  <Content>song</Content>
+  <Comments>Filhote  chamando pelos pais em uma área antropizada e úmida no centro  do Setor  Jaó (bairro residencial). Margem esquerda  do Rio Meia -Ponte</Comments>
+  <Quality>2</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies />
+  <Order>Gruiformes</Order>
+  <Family>Rallidae</Family>
+  <Genus>Laterallus</Genus>
+  <Species>viridis</Species>
+  <Sub-species />
+  <VernacularNames>Russet-crowned Crake</VernacularNames>
+</Audio>

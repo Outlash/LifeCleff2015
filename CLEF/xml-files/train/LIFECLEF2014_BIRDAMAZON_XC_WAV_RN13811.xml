@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>13811</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN13811.wav</FileName>
+  <ClassId>ssdpyu</ClassId>
+  <Date>2006-05-25</Date>
+  <Time>?</Time>
+  <Locality>Moji valley, Cubatão, Sao Paulo state</Locality>
+  <Latitude>-23.8334</Latitude>
+  <Longitude>-46.3834</Longitude>
+  <Elevation>20</Elevation>
+  <Author>Carlos Candia-Gallardo</Author>
+  <AuthorID>CXQSLQJCAG</AuthorID>
+  <Content>song</Content>
+  <Comments />
+  <Quality>1</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Troglodytidae</Family>
+  <Genus>Cantorchilus</Genus>
+  <Species>longirostris</Species>
+  <Sub-species />
+  <VernacularNames>Long-billed Wren</VernacularNames>
+</Audio>

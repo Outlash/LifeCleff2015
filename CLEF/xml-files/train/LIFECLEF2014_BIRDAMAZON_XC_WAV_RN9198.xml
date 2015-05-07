@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>9198</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN9198.wav</FileName>
+  <ClassId>tmlmmx</ClassId>
+  <Date>2001-08-28</Date>
+  <Time>09:38</Time>
+  <Locality>Serra do Mar State Park. Santa Virgínia</Locality>
+  <Latitude>-23.3834</Latitude>
+  <Longitude>-45.1334</Longitude>
+  <Elevation>900</Elevation>
+  <Author>Jeremy Minns</Author>
+  <AuthorID>DGVLLRYDXS</AuthorID>
+  <Content>Song</Content>
+  <Comments>Rio Ipiranga trail. Montane forest.</Comments>
+  <Quality>2</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies>Ramphastos dicolorus,Procnias nudicollis</BackgroundSpecies>
+  <Order>Piciformes</Order>
+  <Family>Picidae</Family>
+  <Genus>Colaptes</Genus>
+  <Species>melanochloros</Species>
+  <Sub-species>melanochloros</Sub-species>
+  <VernacularNames>Green-barred Woodpecker</VernacularNames>
+</Audio>

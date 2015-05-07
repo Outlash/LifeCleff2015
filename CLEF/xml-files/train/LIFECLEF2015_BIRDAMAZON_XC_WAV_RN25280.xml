@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>25280</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN25280.wav</FileName>
+  <ClassId>ntdenx</ClassId>
+  <Date>2009-10-09</Date>
+  <Time>09:00</Time>
+  <Locality>Tocantins</Locality>
+  <Latitude>-12.6162</Latitude>
+  <Longitude>-47.8836</Longitude>
+  <Elevation>280</Elevation>
+  <Author>GABRIEL LEITE</Author>
+  <AuthorID>TGBFXDVERJ</AuthorID>
+  <Content>song</Content>
+  <Comments>bird-seen:yesplayback-used:no</Comments>
+  <Quality>1</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Tyrannidae</Family>
+  <Genus>Hemitriccus</Genus>
+  <Species>striaticollis</Species>
+  <Sub-species />
+  <VernacularNames>Stripe-necked Tody-Tyrant</VernacularNames>
+</Audio>

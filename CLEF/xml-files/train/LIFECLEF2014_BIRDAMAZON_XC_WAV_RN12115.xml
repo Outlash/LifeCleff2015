@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>12115</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN12115.wav</FileName>
+  <ClassId>cmlkob</ClassId>
+  <Date>2011-11-06</Date>
+  <Time>14.50</Time>
+  <Locality>Intervales State Park. Residential area</Locality>
+  <Latitude>-24.2667</Latitude>
+  <Longitude>-48.4167</Longitude>
+  <Elevation>800</Elevation>
+  <Author>Juha Honkala</Author>
+  <AuthorID>UTCLOBFQPH</AuthorID>
+  <Content>song</Content>
+  <Comments />
+  <Quality>2</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Tityridae</Family>
+  <Genus>Pachyramphus</Genus>
+  <Species>viridis</Species>
+  <Sub-species />
+  <VernacularNames>Green-backed Becard</VernacularNames>
+</Audio>

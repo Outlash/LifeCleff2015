@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>10003</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN10003.wav</FileName>
+  <ClassId>lksjxc</ClassId>
+  <Date>2011-02-17</Date>
+  <Time>11:05</Time>
+  <Locality>Poço Preto trail, Iguaçu NP, Parana state</Locality>
+  <Latitude>-25.6084</Latitude>
+  <Longitude>-54.4326</Longitude>
+  <Elevation>200</Elevation>
+  <Author>Daniel Lane</Author>
+  <AuthorID>WOEAFQRMUD</AuthorID>
+  <Content>call</Content>
+  <Comments>Natural calls from a pair about 10m up in subcanopy, with mixed-species flock. Both members of pair appeared to be white-bellied.</Comments>
+  <Quality>2</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies>Herpsilochmus rufimarginatus</BackgroundSpecies>
+  <Order>Passeriformes</Order>
+  <Family>Tyrannidae</Family>
+  <Genus>Myiopagis</Genus>
+  <Species>caniceps</Species>
+  <Sub-species>caniceps</Sub-species>
+  <VernacularNames>Grey Elaenia</VernacularNames>
+</Audio>

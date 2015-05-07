@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>3290</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN3290.wav</FileName>
+  <ClassId>nrlglm</ClassId>
+  <Date>2008-08-09</Date>
+  <Time>08:23</Time>
+  <Locality>07018 Lagoa dos Patos - Pelotas, Rio Grande do Sul</Locality>
+  <Latitude>NULL</Latitude>
+  <Longitude>NULL</Longitude>
+  <Elevation>0</Elevation>
+  <Author>Fernando Jacobs</Author>
+  <AuthorID>MHHPJBCUXC</AuthorID>
+  <Content>song?</Content>
+  <Comments />
+  <Quality>2</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies />
+  <Order>Falconiformes</Order>
+  <Family>Falconidae</Family>
+  <Genus>Caracara</Genus>
+  <Species>plancus</Species>
+  <Sub-species />
+  <VernacularNames>Southern Crested Caracara</VernacularNames>
+</Audio>

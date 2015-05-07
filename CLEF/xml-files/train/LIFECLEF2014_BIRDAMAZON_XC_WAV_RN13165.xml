@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>13165</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN13165.wav</FileName>
+  <ClassId>nahjxx</ClassId>
+  <Date>2011-12-03</Date>
+  <Time>10:00</Time>
+  <Locality>Itaituba, Para</Locality>
+  <Latitude>-5.8483</Latitude>
+  <Longitude>-55.8298</Longitude>
+  <Elevation>180</Elevation>
+  <Author>GABRIEL LEITE</Author>
+  <AuthorID>TGBFXDVERJ</AuthorID>
+  <Content>male, song</Content>
+  <Comments>bird-seen:yesplayback-used:no</Comments>
+  <Quality>3</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies>Synallaxis gujanensis</BackgroundSpecies>
+  <Order>Passeriformes</Order>
+  <Family>Thamnophilidae</Family>
+  <Genus>Thamnophilus</Genus>
+  <Species>palliatus</Species>
+  <Sub-species />
+  <VernacularNames>Chestnut-backed Antshrike</VernacularNames>
+</Audio>

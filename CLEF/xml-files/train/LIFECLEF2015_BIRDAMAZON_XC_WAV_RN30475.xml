@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>30475</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN30475.wav</FileName>
+  <ClassId>ijpmji</ClassId>
+  <Date>2011-03-24</Date>
+  <Time>8-30</Time>
+  <Locality>Puerto Ajacucho</Locality>
+  <Latitude>5.6709</Latitude>
+  <Longitude>-67.5551</Longitude>
+  <Elevation>250</Elevation>
+  <Author>Albert Lastukhin</Author>
+  <AuthorID>LELYWQKUZX</AuthorID>
+  <Content>call</Content>
+  <Comments />
+  <Quality>4</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Psittaciformes</Order>
+  <Family>Psittacidae</Family>
+  <Genus>Amazona</Genus>
+  <Species>farinosa</Species>
+  <Sub-species />
+  <VernacularNames>Mealy Amazon</VernacularNames>
+</Audio>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>4202</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN4202.wav</FileName>
+  <ClassId>ukfemk</ClassId>
+  <Date>2005-12-18</Date>
+  <Time>9:00</Time>
+  <Locality>Mucugê</Locality>
+  <Latitude>-12.998</Latitude>
+  <Longitude>-41.34</Longitude>
+  <Elevation>?</Elevation>
+  <Author>Sidnei S. dos Santos</Author>
+  <AuthorID>BHODJXTHGQ</AuthorID>
+  <Content>Song</Content>
+  <Comments />
+  <Quality>2</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Tyrannidae</Family>
+  <Genus>Tyrannus</Genus>
+  <Species>melancholicus</Species>
+  <Sub-species />
+  <VernacularNames>Tropical Kingbird</VernacularNames>
+</Audio>

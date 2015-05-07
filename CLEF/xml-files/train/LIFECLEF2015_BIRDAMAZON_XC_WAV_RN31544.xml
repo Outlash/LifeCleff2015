@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>31544</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN31544.wav</FileName>
+  <ClassId>zptkey</ClassId>
+  <Date>2006-01-28</Date>
+  <Time>10:00</Time>
+  <Locality>Engenho Cachoeira Linda, Barreiros, Pernambuco</Locality>
+  <Latitude>-8.8173</Latitude>
+  <Longitude>-35.4773</Longitude>
+  <Elevation>80</Elevation>
+  <Author>Glauco Alves Pereira</Author>
+  <AuthorID>ZWEROGGYVP</AuthorID>
+  <Content>song</Content>
+  <Comments>Canopy of forest</Comments>
+  <Quality>3</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Tyrannidae</Family>
+  <Genus>Myiarchus</Genus>
+  <Species>tuberculifer</Species>
+  <Sub-species />
+  <VernacularNames>Dusky-capped Flycatcher</VernacularNames>
+</Audio>

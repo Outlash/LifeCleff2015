@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>26382</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN26382.wav</FileName>
+  <ClassId>ffvgyk</ClassId>
+  <Date>2000-11-02</Date>
+  <Time>pm</Time>
+  <Locality>Sector minado en las antenas (PNN Sierra Nevada de Santa Marta), Vereda San Lorenzo, Mpio San Lorenzo, Magdalena</Locality>
+  <Latitude>NULL</Latitude>
+  <Longitude>NULL</Longitude>
+  <Elevation>2600</Elevation>
+  <Author>Bernabe Lopez-Lanus</Author>
+  <AuthorID>BYLLSJRVDZ</AuthorID>
+  <Content>duet, song</Content>
+  <Comments />
+  <Quality>2</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Troglodytidae</Family>
+  <Genus>Henicorhina</Genus>
+  <Species>leucophrys</Species>
+  <Sub-species>anachoreta</Sub-species>
+  <VernacularNames>Grey-breasted Wood Wren</VernacularNames>
+</Audio>

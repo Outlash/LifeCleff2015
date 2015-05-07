@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>14443</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN14443.wav</FileName>
+  <ClassId>bjsvvq</ClassId>
+  <Date>2007-01-14</Date>
+  <Time>07:00</Time>
+  <Locality>Parque Nacional Yacambú, Lara</Locality>
+  <Latitude>9.7031</Latitude>
+  <Longitude>-69.6048</Longitude>
+  <Elevation>?</Elevation>
+  <Author>Andrew Spencer</Author>
+  <AuthorID>CDTGHVBGZP</AuthorID>
+  <Content>song</Content>
+  <Comments />
+  <Quality>1</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Furnariidae</Family>
+  <Genus>Synallaxis</Genus>
+  <Species>cinnamomea</Species>
+  <Sub-species />
+  <VernacularNames>Stripe-breasted Spinetail</VernacularNames>
+</Audio>

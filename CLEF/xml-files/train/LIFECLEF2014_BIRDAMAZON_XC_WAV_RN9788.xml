@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>9788</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN9788.wav</FileName>
+  <ClassId>wkjlrj</ClassId>
+  <Date>2013-01-24</Date>
+  <Time>10:00</Time>
+  <Locality>São José dos Campos, São Paulo</Locality>
+  <Latitude>-23.1986</Latitude>
+  <Longitude>-45.9714</Longitude>
+  <Elevation>600</Elevation>
+  <Author>GABRIEL LEITE</Author>
+  <AuthorID>TGBFXDVERJ</AuthorID>
+  <Content>call, male</Content>
+  <Comments>bird-seen:yesplayback-used:yes</Comments>
+  <Quality>1</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Pipridae</Family>
+  <Genus>Manacus</Genus>
+  <Species>manacus</Species>
+  <Sub-species />
+  <VernacularNames>White-bearded Manakin</VernacularNames>
+</Audio>

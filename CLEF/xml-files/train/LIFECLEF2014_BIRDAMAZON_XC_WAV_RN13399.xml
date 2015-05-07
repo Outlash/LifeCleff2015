@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>13399</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN13399.wav</FileName>
+  <ClassId>qpxgvo</ClassId>
+  <Date>2012-06-13</Date>
+  <Time>04:00</Time>
+  <Locality>Gravado no Olho Dagua Mago-Pão de Açúcar-Alagoas-Brasil</Locality>
+  <Latitude>-9.73</Latitude>
+  <Longitude>-37.439</Longitude>
+  <Elevation>100</Elevation>
+  <Author>pedroteia</Author>
+  <AuthorID>BZVNDWLRSQ</AuthorID>
+  <Content>song</Content>
+  <Comments>Soava um som  extranho depois dos pipilares.</Comments>
+  <Quality>2</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Tyrannidae</Family>
+  <Genus>Hemitriccus</Genus>
+  <Species>margaritaceiventer</Species>
+  <Sub-species />
+  <VernacularNames>Pearly-vented Tody-Tyrant</VernacularNames>
+</Audio>

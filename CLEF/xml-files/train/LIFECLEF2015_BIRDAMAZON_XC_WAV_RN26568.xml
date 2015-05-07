@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>26568</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN26568.wav</FileName>
+  <ClassId>cpdfzn</ClassId>
+  <Date>2005-10-01</Date>
+  <Time>9:21</Time>
+  <Locality>Soata, Cerca de la Quebrada Municipal, Santander</Locality>
+  <Latitude>6.3334</Latitude>
+  <Longitude>-72.6667</Longitude>
+  <Elevation>1800-1900</Elevation>
+  <Author>Oscar Laverde</Author>
+  <AuthorID>WKVKSVMNDZ</AuthorID>
+  <Content>call</Content>
+  <Comments>Reclamos de un juvenil solitario</Comments>
+  <Quality>2</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Troglodytidae</Family>
+  <Genus>Thryophilus</Genus>
+  <Species>nicefori</Species>
+  <Sub-species />
+  <VernacularNames>Niceforo's Wren</VernacularNames>
+</Audio>

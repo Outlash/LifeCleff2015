@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>18512</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN18512.wav</FileName>
+  <ClassId>ezprzx</ClassId>
+  <Date>2006-12-16</Date>
+  <Time>18:00</Time>
+  <Locality>San Isidro-Cerro Turimiquire</Locality>
+  <Latitude>10.1045</Latitude>
+  <Longitude>-63.7926</Longitude>
+  <Elevation>800</Elevation>
+  <Author>Doug Knapp</Author>
+  <AuthorID>BHRXQZEQFL</AuthorID>
+  <Content>Song</Content>
+  <Comments />
+  <Quality>1</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Tinamiformes</Order>
+  <Family>Tinamidae</Family>
+  <Genus>Crypturellus</Genus>
+  <Species>soui</Species>
+  <Sub-species />
+  <VernacularNames>Little Tinamou</VernacularNames>
+</Audio>

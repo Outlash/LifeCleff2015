@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>27037</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN27037.wav</FileName>
+  <ClassId>wenuau</ClassId>
+  <Date>1985-12-29</Date>
+  <Time>?</Time>
+  <Locality>Cerro El Teteo, Apure</Locality>
+  <Latitude>7.3342</Latitude>
+  <Longitude>-72.059</Longitude>
+  <Elevation>350</Elevation>
+  <Author>Chris Parrish</Author>
+  <AuthorID>IHIOGGZVQA</AuthorID>
+  <Content>song</Content>
+  <Comments />
+  <Quality>1</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Thamnophilidae</Family>
+  <Genus>Myrmoborus</Genus>
+  <Species>leucophrys</Species>
+  <Sub-species>erythrophrys</Sub-species>
+  <VernacularNames>White-browed Antbird</VernacularNames>
+</Audio>

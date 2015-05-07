@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>24873</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN24873.wav</FileName>
+  <ClassId>ummihq</ClassId>
+  <Date>2012-11-04</Date>
+  <Time>10:00</Time>
+  <Locality>Poconé, Mato Grosso</Locality>
+  <Latitude>-16.4277</Latitude>
+  <Longitude>-56.3132</Longitude>
+  <Elevation>130</Elevation>
+  <Author>Paulo Affonso Fonseca Pires Neto</Author>
+  <AuthorID>QOMWCAGQJX</AuthorID>
+  <Content>song</Content>
+  <Comments>bird-seen:noplayback-used:no</Comments>
+  <Quality>2</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Tyrannidae</Family>
+  <Genus>Myiozetetes</Genus>
+  <Species>cayanensis</Species>
+  <Sub-species>cayanensis</Sub-species>
+  <VernacularNames>Rusty-margined Flycatcher</VernacularNames>
+</Audio>

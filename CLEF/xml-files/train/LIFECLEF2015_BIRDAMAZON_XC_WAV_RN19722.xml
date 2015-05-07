@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>19722</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN19722.wav</FileName>
+  <ClassId>uytsig</ClassId>
+  <Date>2010-03-13</Date>
+  <Time>13:15</Time>
+  <Locality>Rock View Lodge, Annai, Guyana</Locality>
+  <Latitude>NULL</Latitude>
+  <Longitude>NULL</Longitude>
+  <Elevation>100</Elevation>
+  <Author>Charlie Vogt</Author>
+  <AuthorID>NYTXYAQSTH</AuthorID>
+  <Content>call</Content>
+  <Comments>individual perched</Comments>
+  <Quality>3</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Turdidae</Family>
+  <Genus>Turdus</Genus>
+  <Species>leucomelas</Species>
+  <Sub-species />
+  <VernacularNames>Pale-breasted Thrush</VernacularNames>
+</Audio>

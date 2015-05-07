@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>18963</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN18963.wav</FileName>
+  <ClassId>tmcoyg</ClassId>
+  <Date>2011-03-16</Date>
+  <Time>08:00</Time>
+  <Locality>Serrania de las Quinchas, Municipio de Otanche (Boyaca)</Locality>
+  <Latitude>5.888</Latitude>
+  <Longitude>-74.261</Longitude>
+  <Elevation>500</Elevation>
+  <Author>Oswaldo Cortes</Author>
+  <AuthorID>VVDRVZCVWW</AuthorID>
+  <Content>call</Content>
+  <Comments />
+  <Quality>3</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Cotingidae</Family>
+  <Genus>Querula</Genus>
+  <Species>purpurata</Species>
+  <Sub-species />
+  <VernacularNames>Purple-throated Fruitcrow</VernacularNames>
+</Audio>

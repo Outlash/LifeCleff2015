@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>2000</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN2000.wav</FileName>
+  <ClassId>pcfxys</ClassId>
+  <Date>1999-09-29</Date>
+  <Time>16:34</Time>
+  <Locality>Reserva Extrativista Alto Juruá. Foz do Tejo</Locality>
+  <Latitude>-8.9826</Latitude>
+  <Longitude>-72.7148</Longitude>
+  <Elevation>220</Elevation>
+  <Author>Jeremy Minns</Author>
+  <AuthorID>DGVLLRYDXS</AuthorID>
+  <Content>Song</Content>
+  <Comments>Várzea  forest. Single bird.</Comments>
+  <Quality>2</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies />
+  <Order>Piciformes</Order>
+  <Family>Ramphastidae</Family>
+  <Genus>Ramphastos</Genus>
+  <Species>tucanus</Species>
+  <Sub-species>cuvieri</Sub-species>
+  <VernacularNames>White-throated Toucan</VernacularNames>
+</Audio>

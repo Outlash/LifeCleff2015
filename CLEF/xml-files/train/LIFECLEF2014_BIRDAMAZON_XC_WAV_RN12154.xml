@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>12154</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN12154.wav</FileName>
+  <ClassId>fcojdk</ClassId>
+  <Date>2006-11-05</Date>
+  <Time>10:50</Time>
+  <Locality>Estrada da Graciosa, Paraná state</Locality>
+  <Latitude>-25.3334</Latitude>
+  <Longitude>-48.9001</Longitude>
+  <Elevation>900</Elevation>
+  <Author>Daniel Lane</Author>
+  <AuthorID>WOEAFQRMUD</AuthorID>
+  <Content>short and long songs</Content>
+  <Comments>Natural songs from several birds. The one on mic was about 20m up in canopy. Open bill shortly before 'bok!' In multi-note song, the bill is opened wider still and maintained open for series.</Comments>
+  <Quality>2</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies>Chiroxiphia caudata,Phaethornis eurynome,Phylloscartes ventralis,Patagioenas plumbea</BackgroundSpecies>
+  <Order>Passeriformes</Order>
+  <Family>Cotingidae</Family>
+  <Genus>Procnias</Genus>
+  <Species>nudicollis</Species>
+  <Sub-species />
+  <VernacularNames>Bare-throated Bellbird</VernacularNames>
+</Audio>

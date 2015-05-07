@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>17741</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN17741.wav</FileName>
+  <ClassId>ggcbtt</ClassId>
+  <Date>1992-08-09</Date>
+  <Time>09:00</Time>
+  <Locality>Rio Salobra,Miranda,Mato Grosso do Sul State</Locality>
+  <Latitude>-20.216</Latitude>
+  <Longitude>-56.494</Longitude>
+  <Elevation>120</Elevation>
+  <Author>Antonio Silveira</Author>
+  <AuthorID>NBJQSQJRYH</AuthorID>
+  <Content>alarm call, call, female, male</Content>
+  <Comments>birds in a small flock with about 4 or 5 individuals.bird-seen:yesplayback-used:no</Comments>
+  <Quality>0</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Corvidae</Family>
+  <Genus>Cyanocorax</Genus>
+  <Species>chrysops</Species>
+  <Sub-species />
+  <VernacularNames>Plush-crested Jay</VernacularNames>
+</Audio>

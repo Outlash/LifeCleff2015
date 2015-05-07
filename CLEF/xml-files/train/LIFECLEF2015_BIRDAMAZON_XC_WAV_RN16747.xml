@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>16747</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN16747.wav</FileName>
+  <ClassId>fxwyhh</ClassId>
+  <Date>2011-09-29</Date>
+  <Time>?</Time>
+  <Locality>Maripasoula, Grand Inini</Locality>
+  <Latitude>NULL</Latitude>
+  <Longitude>NULL</Longitude>
+  <Elevation>90</Elevation>
+  <Author>Alexandre Renaudier</Author>
+  <AuthorID>GKADEITXTH</AuthorID>
+  <Content>call, song</Content>
+  <Comments>In response to playback</Comments>
+  <Quality>1</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies>Lipaugus vociferans,Ara chloropterus,Trogon violaceus</BackgroundSpecies>
+  <Order>Passeriformes</Order>
+  <Family>Tyrannidae</Family>
+  <Genus>Platyrinchus</Genus>
+  <Species>platyrhynchos</Species>
+  <Sub-species />
+  <VernacularNames>White-crested Spadebill</VernacularNames>
+</Audio>

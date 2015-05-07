@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>22050</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN22050.wav</FileName>
+  <ClassId>bbhech</ClassId>
+  <Date>2000-10-14</Date>
+  <Time>09:32</Time>
+  <Locality>Finca Contreras, Quebrada Minas, Minas, Encino, Santander</Locality>
+  <Latitude>NULL</Latitude>
+  <Longitude>NULL</Longitude>
+  <Elevation>2600</Elevation>
+  <Author>Bernabe Lopez-Lanus</Author>
+  <AuthorID>BYLLSJRVDZ</AuthorID>
+  <Content>call</Content>
+  <Comments />
+  <Quality>3</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Icteridae</Family>
+  <Genus>Macroagelaius</Genus>
+  <Species>subalaris</Species>
+  <Sub-species />
+  <VernacularNames>Colombian Mountain Grackle</VernacularNames>
+</Audio>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>32745</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN32745.wav</FileName>
+  <ClassId>cpdfzn</ClassId>
+  <Date>2006-01-20</Date>
+  <Time>07:03</Time>
+  <Locality>Soata (Reserva de Aves para Amazilia castaneiventris y Macroagelaius)</Locality>
+  <Latitude>6.3001</Latitude>
+  <Longitude>-72.7167</Longitude>
+  <Elevation>1800</Elevation>
+  <Author>Oswaldo Cortes</Author>
+  <AuthorID>VVDRVZCVWW</AuthorID>
+  <Content>song</Content>
+  <Comments />
+  <Quality>2</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Troglodytidae</Family>
+  <Genus>Thryophilus</Genus>
+  <Species>nicefori</Species>
+  <Sub-species />
+  <VernacularNames>Niceforo's Wren</VernacularNames>
+</Audio>

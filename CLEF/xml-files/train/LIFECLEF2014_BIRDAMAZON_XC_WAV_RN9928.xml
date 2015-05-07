@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>9928</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN9928.wav</FileName>
+  <ClassId>noifdi</ClassId>
+  <Date>2009-06-29</Date>
+  <Time>14:30</Time>
+  <Locality>PETAR, Núcleo Caboclos, São Paulo</Locality>
+  <Latitude>NULL</Latitude>
+  <Longitude>NULL</Longitude>
+  <Elevation>900</Elevation>
+  <Author>Marcelo Villegas</Author>
+  <AuthorID>YWTZVKKHKP</AuthorID>
+  <Content>song</Content>
+  <Comments />
+  <Quality>2</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies />
+  <Order>Psittaciformes</Order>
+  <Family>Psittacidae</Family>
+  <Genus>Triclaria</Genus>
+  <Species>malachitacea</Species>
+  <Sub-species />
+  <VernacularNames>Blue-bellied Parrot</VernacularNames>
+</Audio>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>28758</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN28758.wav</FileName>
+  <ClassId>loavzh</ClassId>
+  <Date>2001-07-14</Date>
+  <Time>15:20</Time>
+  <Locality>Rodovia RR-319, Roraima</Locality>
+  <Latitude>3.9501</Latitude>
+  <Longitude>-60.1334</Longitude>
+  <Elevation>95</Elevation>
+  <Author>Jeremy Minns</Author>
+  <AuthorID>DGVLLRYDXS</AuthorID>
+  <Content>Song</Content>
+  <Comments>Thick bushy vegetation along an igarapé running through open savanna</Comments>
+  <Quality>1</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Galliformes</Order>
+  <Family>Odontophoridae</Family>
+  <Genus>Colinus</Genus>
+  <Species>cristatus</Species>
+  <Sub-species />
+  <VernacularNames>Crested Bobwhite</VernacularNames>
+</Audio>

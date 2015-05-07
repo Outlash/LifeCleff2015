@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>8837</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN8837.wav</FileName>
+  <ClassId>uphahj</ClassId>
+  <Date>2001-11-21</Date>
+  <Time>08:08</Time>
+  <Locality>Palmeiras, Chapada Diamantina, Bahia.</Locality>
+  <Latitude>-12.530434</Latitude>
+  <Longitude>-41.575699</Longitude>
+  <Elevation>800</Elevation>
+  <Author>Jeremy Minns</Author>
+  <AuthorID>DGVLLRYDXS</AuthorID>
+  <Content>Song and calls in flight</Content>
+  <Comments>Valley of Rio Preto. Caatinga. Two birds soaring very high,</Comments>
+  <Quality>2</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies>Columbina squammata,Hylophilus amaurocephalus,Troglodytes aedon,Saltator similis,Zonotrichia capensis</BackgroundSpecies>
+  <Order>Accipitriformes</Order>
+  <Family>Accipitridae</Family>
+  <Genus>Rupornis</Genus>
+  <Species>magnirostris</Species>
+  <Sub-species>nattereri</Sub-species>
+  <VernacularNames>Roadside Hawk</VernacularNames>
+</Audio>

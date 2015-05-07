@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>18205</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN18205.wav</FileName>
+  <ClassId>oublby</ClassId>
+  <Date>2009-07-18</Date>
+  <Time>08:00</Time>
+  <Locality>La Vega, inmediaciones Laguna del Tabacal</Locality>
+  <Latitude>5.020922</Latitude>
+  <Longitude>-74.302082</Longitude>
+  <Elevation>1500</Elevation>
+  <Author>Oswaldo Cortes</Author>
+  <AuthorID>VVDRVZCVWW</AuthorID>
+  <Content>call</Content>
+  <Comments />
+  <Quality>3</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Coraciiformes</Order>
+  <Family>Alcedinidae</Family>
+  <Genus>Megaceryle</Genus>
+  <Species>torquata</Species>
+  <Sub-species />
+  <VernacularNames>Ringed Kingfisher</VernacularNames>
+</Audio>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>10060</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN10060.wav</FileName>
+  <ClassId>vxjqml</ClassId>
+  <Date>2006-01-16</Date>
+  <Time>08:00</Time>
+  <Locality>Tiradentes,Minas Gerais State</Locality>
+  <Latitude>-21.096</Latitude>
+  <Longitude>-44.162</Longitude>
+  <Elevation>950</Elevation>
+  <Author>Antonio Silveira</Author>
+  <AuthorID>NBJQSQJRYH</AuthorID>
+  <Content>song</Content>
+  <Comments>bird-seen:yesplayback-used:yes</Comments>
+  <Quality>2</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Tyrannidae</Family>
+  <Genus>Corythopis</Genus>
+  <Species>delalandi</Species>
+  <Sub-species />
+  <VernacularNames>Southern Antpipit</VernacularNames>
+</Audio>

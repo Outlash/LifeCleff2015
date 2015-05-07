@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>10046</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN10046.wav</FileName>
+  <ClassId>zsociq</ClassId>
+  <Date>2003-12-04</Date>
+  <Time>08:52</Time>
+  <Locality>Pousada Araras, Pantanal, MT</Locality>
+  <Latitude>-16.5167</Latitude>
+  <Longitude>-56.7167</Longitude>
+  <Elevation>120</Elevation>
+  <Author>Jeremy Minns</Author>
+  <AuthorID>DGVLLRYDXS</AuthorID>
+  <Content>Song</Content>
+  <Comments>Araras Eco Lodge. Seasonally flooded cerrado converted to pasture and gallery forest. In the background Yacare Caiman (Caiman yacare).</Comments>
+  <Quality>2</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies>Hylophilus pectoralis,Ramphocelus carbo</BackgroundSpecies>
+  <Order>Galliformes</Order>
+  <Family>Cracidae</Family>
+  <Genus>Ortalis</Genus>
+  <Species>canicollis</Species>
+  <Sub-species>pantanalensis</Sub-species>
+  <VernacularNames>Chaco Chachalaca</VernacularNames>
+</Audio>

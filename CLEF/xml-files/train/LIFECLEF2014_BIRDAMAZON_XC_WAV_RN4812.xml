@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>4812</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN4812.wav</FileName>
+  <ClassId>ksvanv</ClassId>
+  <Date>2005-07-11</Date>
+  <Time>10:00</Time>
+  <Locality>Tucuruí dam, right bank of the lake</Locality>
+  <Latitude>-4.2326</Latitude>
+  <Longitude>-49.4117</Longitude>
+  <Elevation>70</Elevation>
+  <Author>Sidnei Dantas</Author>
+  <AuthorID>NNCKQMBGPH</AuthorID>
+  <Content>song</Content>
+  <Comments>answer to playback</Comments>
+  <Quality>1</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Thamnophilidae</Family>
+  <Genus>Pygiptila</Genus>
+  <Species>stellaris</Species>
+  <Sub-species />
+  <VernacularNames>Spot-winged Antshrike</VernacularNames>
+</Audio>

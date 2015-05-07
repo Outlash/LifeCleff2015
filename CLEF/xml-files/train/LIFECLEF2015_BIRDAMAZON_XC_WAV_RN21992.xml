@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>21992</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN21992.wav</FileName>
+  <ClassId>zhxbyo</ClassId>
+  <Date>2014-10-10</Date>
+  <Time>08:28</Time>
+  <Locality>Londrina State University (near  Londrina), Londrina, Parana</Locality>
+  <Latitude>-23.3254</Latitude>
+  <Longitude>-51.1996</Longitude>
+  <Elevation>600</Elevation>
+  <Author>Gabriel Rosa</Author>
+  <AuthorID>GXMOPUMWMA</AuthorID>
+  <Content>song</Content>
+  <Comments>original: GMR_20141010_082842bird-seen:yesplayback-used:yes</Comments>
+  <Quality>1</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Tyrannidae</Family>
+  <Genus>Serpophaga</Genus>
+  <Species>subcristata</Species>
+  <Sub-species />
+  <VernacularNames>White-crested Tyrannulet</VernacularNames>
+</Audio>

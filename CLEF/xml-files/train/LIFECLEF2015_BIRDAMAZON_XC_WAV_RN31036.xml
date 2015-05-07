@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>31036</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN31036.wav</FileName>
+  <ClassId>nrzcow</ClassId>
+  <Date>2013-12-21</Date>
+  <Time>09:30</Time>
+  <Locality>Santana do Riacho, Minas Gerais</Locality>
+  <Latitude>-19.164</Latitude>
+  <Longitude>-43.7213</Longitude>
+  <Elevation>800</Elevation>
+  <Author>GABRIEL LEITE</Author>
+  <AuthorID>TGBFXDVERJ</AuthorID>
+  <Content>call, female, male, song</Content>
+  <Comments>bird-seen:yesplayback-used:no</Comments>
+  <Quality>2</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Piciformes</Order>
+  <Family>Picidae</Family>
+  <Genus>Colaptes</Genus>
+  <Species>campestris</Species>
+  <Sub-species />
+  <VernacularNames>Campo Flicker</VernacularNames>
+</Audio>

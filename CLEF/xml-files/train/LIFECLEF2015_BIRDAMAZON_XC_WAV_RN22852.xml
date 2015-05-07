@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>22852</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN22852.wav</FileName>
+  <ClassId>prpzcg</ClassId>
+  <Date>2011-06-25</Date>
+  <Time>17:00</Time>
+  <Locality>Cafelândia, São Paulo</Locality>
+  <Latitude>-21.8625</Latitude>
+  <Longitude>-49.643</Longitude>
+  <Elevation>480</Elevation>
+  <Author>Fernando Igor de Godoy</Author>
+  <AuthorID>CHDHFSVVIN</AuthorID>
+  <Content>call, male, song</Content>
+  <Comments>bird-seen:yesplayback-used:yes</Comments>
+  <Quality>0</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Pipridae</Family>
+  <Genus>Antilophia</Genus>
+  <Species>galeata</Species>
+  <Sub-species />
+  <VernacularNames>Helmeted Manakin</VernacularNames>
+</Audio>

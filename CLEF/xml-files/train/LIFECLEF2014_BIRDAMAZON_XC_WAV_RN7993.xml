@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>7993</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN7993.wav</FileName>
+  <ClassId>enwiay</ClassId>
+  <Date>2001-09-10</Date>
+  <Time>10:03</Time>
+  <Locality>Perequê - Angra dos Reis - RJ</Locality>
+  <Latitude>-23.012</Latitude>
+  <Longitude>-44.5351</Longitude>
+  <Elevation>50</Elevation>
+  <Author>Jeremy Minns</Author>
+  <AuthorID>DGVLLRYDXS</AuthorID>
+  <Content>Song</Content>
+  <Comments>Overgrown banana plantation.</Comments>
+  <Quality>2</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies />
+  <Order>Tinamiformes</Order>
+  <Family>Tinamidae</Family>
+  <Genus>Crypturellus</Genus>
+  <Species>tataupa</Species>
+  <Sub-species>tataupa</Sub-species>
+  <VernacularNames>Tataupa Tinamou</VernacularNames>
+</Audio>

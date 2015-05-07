@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>7231</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN7231.wav</FileName>
+  <ClassId>qlwaes</ClassId>
+  <Date>2001-09-24</Date>
+  <Time>05:50</Time>
+  <Locality>Paratí. Patrimônio</Locality>
+  <Latitude>-23.3501</Latitude>
+  <Longitude>-44.7167</Longitude>
+  <Elevation>50</Elevation>
+  <Author>Jeremy Minns</Author>
+  <AuthorID>DGVLLRYDXS</AuthorID>
+  <Content>Song</Content>
+  <Comments>Lowland forest. Two birds</Comments>
+  <Quality>2</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies>Leptotila rufaxilla,Drymophila squamata,Chamaeza campanisona,Xiphocolaptes albicollis</BackgroundSpecies>
+  <Order>Passeriformes</Order>
+  <Family>Furnariidae</Family>
+  <Genus>Xiphorhynchus</Genus>
+  <Species>fuscus</Species>
+  <Sub-species>fuscus</Sub-species>
+  <VernacularNames>Lesser Woodcreeper</VernacularNames>
+</Audio>

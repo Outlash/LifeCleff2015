@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>23411</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN23411.wav</FileName>
+  <ClassId>ltmvlu</ClassId>
+  <Date>2011-03-09</Date>
+  <Time>15:50</Time>
+  <Locality>Voltzberg, Raleighvallen National Park</Locality>
+  <Latitude>4.68333</Latitude>
+  <Longitude>-56.16667</Longitude>
+  <Elevation>170</Elevation>
+  <Author>Daniel Lane</Author>
+  <AuthorID>WOEAFQRMUD</AuthorID>
+  <Content>song</Content>
+  <Comments>Natural songs from an unseen bird about 15m up in subcanopy of tall canopy forest with moderate understory.</Comments>
+  <Quality>2</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies>Lipaugus vociferans,Cercomacra cinerascens,Piaya cayana</BackgroundSpecies>
+  <Order>Passeriformes</Order>
+  <Family>Furnariidae</Family>
+  <Genus>Xiphorhynchus</Genus>
+  <Species>guttatus</Species>
+  <Sub-species>polystictus</Sub-species>
+  <VernacularNames>Buff-throated Woodcreeper</VernacularNames>
+</Audio>

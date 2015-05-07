@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>1984</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN1984.wav</FileName>
+  <ClassId>kzvpsl</ClassId>
+  <Date>2011-09-01</Date>
+  <Time>07:40</Time>
+  <Locality>Pantanal Wildlife Center, MT</Locality>
+  <Latitude>-16.7581</Latitude>
+  <Longitude>-56.8764</Longitude>
+  <Elevation>110</Elevation>
+  <Author>Eric DeFonso</Author>
+  <AuthorID>KTLCZCRCQX</AuthorID>
+  <Content>song</Content>
+  <Comments>A few sporadic bursts of song. Habitat is tropical deciduous woodland in dry season.bird-seen:noplayback-used:no</Comments>
+  <Quality>2</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies>Patagioenas picazuro</BackgroundSpecies>
+  <Order>Passeriformes</Order>
+  <Family>Troglodytidae</Family>
+  <Genus>Campylorhynchus</Genus>
+  <Species>turdinus</Species>
+  <Sub-species />
+  <VernacularNames>Thrush-like Wren</VernacularNames>
+</Audio>

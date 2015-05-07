@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>16239</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN16239.wav</FileName>
+  <ClassId>nuejcm</ClassId>
+  <Date>2007-09-05</Date>
+  <Time>20:30</Time>
+  <Locality>Mandirituba, PR</Locality>
+  <Latitude>-25.7801</Latitude>
+  <Longitude>-49.3264</Longitude>
+  <Elevation>925</Elevation>
+  <Author>Raphael E. F. Santos</Author>
+  <AuthorID>TXWLKRXOWP</AuthorID>
+  <Content>song</Content>
+  <Comments>Song, picures and videos were obtained.</Comments>
+  <Quality>2</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Strigiformes</Order>
+  <Family>Strigidae</Family>
+  <Genus>Aegolius</Genus>
+  <Species>harrisii</Species>
+  <Sub-species>iheringi</Sub-species>
+  <VernacularNames>Buff-fronted Owl</VernacularNames>
+</Audio>

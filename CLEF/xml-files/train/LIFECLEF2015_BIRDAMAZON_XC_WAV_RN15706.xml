@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>15706</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN15706.wav</FileName>
+  <ClassId>zszaux</ClassId>
+  <Date>2008-01-04</Date>
+  <Time>16:20</Time>
+  <Locality>Clarita Botero, Ibagué, Tolima</Locality>
+  <Latitude>4.4689</Latitude>
+  <Longitude>-75.2281</Longitude>
+  <Elevation>1500</Elevation>
+  <Author>Hernan Arias</Author>
+  <AuthorID>FGHNKBQURB</AuthorID>
+  <Content>call</Content>
+  <Comments />
+  <Quality>3</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Cardinalidae</Family>
+  <Genus>Habia</Genus>
+  <Species>cristata</Species>
+  <Sub-species />
+  <VernacularNames>Crested Ant Tanager</VernacularNames>
+</Audio>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>3021</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN3021.wav</FileName>
+  <ClassId>ppearp</ClassId>
+  <Date>2007-08-05</Date>
+  <Time>06:13</Time>
+  <Locality>Pousada Rio Azul, PA</Locality>
+  <Latitude>-9.2456</Latitude>
+  <Longitude>-55.987</Longitude>
+  <Elevation>240</Elevation>
+  <Author>Bradley Davis</Author>
+  <AuthorID>YNXJLOESBB</AuthorID>
+  <Content>call</Content>
+  <Comments />
+  <Quality>0</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies>Orthopsittaca manilatus,Ramphocelus carbo,Pionus menstruus</BackgroundSpecies>
+  <Order>Passeriformes</Order>
+  <Family>Tyrannidae</Family>
+  <Genus>Tolmomyias</Genus>
+  <Species>flaviventris</Species>
+  <Sub-species>flaviventris?</Sub-species>
+  <VernacularNames>Ochre-lored Flatbill</VernacularNames>
+</Audio>

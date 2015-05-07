@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>31704</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN31704.wav</FileName>
+  <ClassId>vnhvbs</ClassId>
+  <Date>2001-06-07</Date>
+  <Time>08:00</Time>
+  <Locality>Tapajós National Forest</Locality>
+  <Latitude>-3.4834</Latitude>
+  <Longitude>-54.9167</Longitude>
+  <Elevation>70</Elevation>
+  <Author>Sidnei de Melo Dantas</Author>
+  <AuthorID>NNCKQMBGPH</AuthorID>
+  <Content>song</Content>
+  <Comments>canopy, in a mixed flock</Comments>
+  <Quality>0</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies>Myrmothera campanisona,Lipaugus vociferans,Myiozetetes luteiventris,Pachyramphus castaneus</BackgroundSpecies>
+  <Order>Passeriformes</Order>
+  <Family>Vireonidae</Family>
+  <Genus>Hylophilus</Genus>
+  <Species>hypoxanthus</Species>
+  <Sub-species />
+  <VernacularNames>Dusky-capped Greenlet</VernacularNames>
+</Audio>

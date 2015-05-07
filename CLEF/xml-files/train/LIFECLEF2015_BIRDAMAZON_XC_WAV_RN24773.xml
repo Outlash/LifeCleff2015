@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>24773</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN24773.wav</FileName>
+  <ClassId>fvftkw</ClassId>
+  <Date>2013-03-23</Date>
+  <Time>14:16</Time>
+  <Locality>Cajamarca, Tolima</Locality>
+  <Latitude>4.4837</Latitude>
+  <Longitude>-75.4797</Longitude>
+  <Elevation>2800</Elevation>
+  <Author>Oscar H. Marín-Gómez</Author>
+  <AuthorID>CSUHASNRSU</AuthorID>
+  <Content>song</Content>
+  <Comments>bird-seen:noplayback-used:no</Comments>
+  <Quality>2</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Tyrannidae</Family>
+  <Genus>Elaenia</Genus>
+  <Species>frantzii</Species>
+  <Sub-species />
+  <VernacularNames>Mountain Elaenia</VernacularNames>
+</Audio>

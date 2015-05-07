@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>27733</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN27733.wav</FileName>
+  <ClassId>sogsbs</ClassId>
+  <Date>2011-09-03</Date>
+  <Time>05:40</Time>
+  <Locality>Pantanal Wildlife Center, MT</Locality>
+  <Latitude>-16.7581</Latitude>
+  <Longitude>-56.8764</Longitude>
+  <Elevation>110</Elevation>
+  <Author>Eric DeFonso</Author>
+  <AuthorID>KTLCZCRCQX</AuthorID>
+  <Content>call</Content>
+  <Comments>Bird flew into tree above me while I was recording voice notes. Growls and grunts from one, and then later 2 birds. 2 brief pauses representing about 30 seconds of silence each. Habitat is tropical deciduous woodland.bird-seen:yesplayback-used:no</Comments>
+  <Quality>1</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies>Patagioenas picazuro,Campylorhynchus turdinus,Crypturellus undulatus,Ortalis canicollis,Furnarius rufus</BackgroundSpecies>
+  <Order>Accipitriformes</Order>
+  <Family>Accipitridae</Family>
+  <Genus>Busarellus</Genus>
+  <Species>nigricollis</Species>
+  <Sub-species />
+  <VernacularNames>Black-collared Hawk</VernacularNames>
+</Audio>

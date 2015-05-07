@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>29050</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN29050.wav</FileName>
+  <ClassId>skjryu</ClassId>
+  <Date>2007-11-07</Date>
+  <Time>10:40</Time>
+  <Locality>Parque Regional Barbas-Bremen, Filandia, Quindio. Sector Bremen-La Popa</Locality>
+  <Latitude>4.6717</Latitude>
+  <Longitude>-75.6283</Longitude>
+  <Elevation>1800</Elevation>
+  <Author>Oscar Humberto Marin-Gomez</Author>
+  <AuthorID>CSUHASNRSU</AuthorID>
+  <Content>song</Content>
+  <Comments>OHM 004B 0151. Escuchado en dosel. En Borde de bosque. 30m del Mic. Vocalización Natural. Cerca al campamento Bremenbird-seen:noplayback-used:no</Comments>
+  <Quality>2</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Tyrannidae</Family>
+  <Genus>Zimmerius</Genus>
+  <Species>chrysops</Species>
+  <Sub-species />
+  <VernacularNames>Golden-faced Tyrannulet</VernacularNames>
+</Audio>

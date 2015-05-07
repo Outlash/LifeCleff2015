@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>13263</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN13263.wav</FileName>
+  <ClassId>kcjurp</ClassId>
+  <Date>1991-12-00</Date>
+  <Time>morning</Time>
+  <Locality>Hotel Donati, Itatiaia NP, Rio de Janeiro state</Locality>
+  <Latitude>-22.443</Latitude>
+  <Longitude>-44.6</Longitude>
+  <Elevation>950</Elevation>
+  <Author>Antonio Silveira</Author>
+  <AuthorID>NBJQSQJRYH</AuthorID>
+  <Content>song</Content>
+  <Comments>bird-seen:yesplayback-used:no</Comments>
+  <Quality>2</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Thraupidae</Family>
+  <Genus>Cissopis</Genus>
+  <Species>leverianus</Species>
+  <Sub-species />
+  <VernacularNames>Magpie Tanager</VernacularNames>
+</Audio>

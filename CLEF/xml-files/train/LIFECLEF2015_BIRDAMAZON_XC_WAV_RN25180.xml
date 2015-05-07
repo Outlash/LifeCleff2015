@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>25180</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN25180.wav</FileName>
+  <ClassId>yjsier</ClassId>
+  <Date>2011-04-22</Date>
+  <Time>07:00</Time>
+  <Locality>Los Salias, Miranda</Locality>
+  <Latitude>10.4012</Latitude>
+  <Longitude>-66.978</Longitude>
+  <Elevation>1700</Elevation>
+  <Author>Galo Buitrón-Jurado</Author>
+  <AuthorID>XUAITKZGSQ</AuthorID>
+  <Content>song</Content>
+  <Comments>Bird singing in forest border, on the top of a tree.bird-seen:yesplayback-used:no</Comments>
+  <Quality>2</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Turdidae</Family>
+  <Genus>Turdus</Genus>
+  <Species>serranus</Species>
+  <Sub-species />
+  <VernacularNames>Glossy-black Thrush</VernacularNames>
+</Audio>

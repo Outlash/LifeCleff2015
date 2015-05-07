@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>16573</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN16573.wav</FileName>
+  <ClassId>rfdfsw</ClassId>
+  <Date>2010-01-15</Date>
+  <Time>?:?</Time>
+  <Locality>Awala-Yalimapo, Coswine</Locality>
+  <Latitude>5.7334</Latitude>
+  <Longitude>-53.9001</Longitude>
+  <Elevation>9</Elevation>
+  <Author>Alexandre Renaudier</Author>
+  <AuthorID>GKADEITXTH</AuthorID>
+  <Content>song</Content>
+  <Comments>natural recording</Comments>
+  <Quality>1</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies>Pachyramphus marginatus,Xiphorhynchus guttatus,Cacicus cela,Myiopagis gaimardii</BackgroundSpecies>
+  <Order>Passeriformes</Order>
+  <Family>Vireonidae</Family>
+  <Genus>Hylophilus</Genus>
+  <Species>thoracicus</Species>
+  <Sub-species>griseiventris</Sub-species>
+  <VernacularNames>Lemon-chested Greenlet</VernacularNames>
+</Audio>

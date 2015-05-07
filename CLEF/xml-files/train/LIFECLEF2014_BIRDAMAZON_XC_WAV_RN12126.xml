@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>12126</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN12126.wav</FileName>
+  <ClassId>jiuopg</ClassId>
+  <Date>2006-08-21</Date>
+  <Time>?:?</Time>
+  <Locality>Sao Jose dos Campos, state of Sao Paulo</Locality>
+  <Latitude>-23.0401</Latitude>
+  <Longitude>-46.0328</Longitude>
+  <Elevation>800</Elevation>
+  <Author>Carlos Candia-Gallardo</Author>
+  <AuthorID>CXQSLQJCAG</AuthorID>
+  <Content>song</Content>
+  <Comments>Montane forest with large stands of bamboo in the understory</Comments>
+  <Quality>1</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Tyrannidae</Family>
+  <Genus>Sirystes</Genus>
+  <Species>sibilator</Species>
+  <Sub-species />
+  <VernacularNames>Eastern Sirystes</VernacularNames>
+</Audio>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>15132</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN15132.wav</FileName>
+  <ClassId>qtegfa</ClassId>
+  <Date>2011-07-23</Date>
+  <Time>17:00</Time>
+  <Locality>Almeirim/Pará</Locality>
+  <Latitude>-1.095</Latitude>
+  <Longitude>-52.653</Longitude>
+  <Elevation>80</Elevation>
+  <Author>Christian B. Andretti</Author>
+  <AuthorID>EZSMXGTXKS</AuthorID>
+  <Content>call</Content>
+  <Comments>Bituba - Selective Logging</Comments>
+  <Quality>3</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Apodiformes</Order>
+  <Family>Trochilidae</Family>
+  <Genus>Phaethornis</Genus>
+  <Species>superciliosus</Species>
+  <Sub-species>superciliosus</Sub-species>
+  <VernacularNames>Long-tailed Hermit</VernacularNames>
+</Audio>

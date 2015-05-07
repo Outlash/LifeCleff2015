@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>4024</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN4024.wav</FileName>
+  <ClassId>zrckxj</ClassId>
+  <Date>2005-09-26</Date>
+  <Time>7:45</Time>
+  <Locality>Ilha Anavilhanas, west of Manaus</Locality>
+  <Latitude>-2.9426</Latitude>
+  <Longitude>-60.4834</Longitude>
+  <Elevation>6</Elevation>
+  <Author>Richard C. Hoyer</Author>
+  <AuthorID>SRRRBQPENI</AuthorID>
+  <Content>duet, song</Content>
+  <Comments>in response to playback</Comments>
+  <Quality>1</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Furnariidae</Family>
+  <Genus>Cranioleuca</Genus>
+  <Species>vulpina</Species>
+  <Sub-species />
+  <VernacularNames>Rusty-backed Spinetail</VernacularNames>
+</Audio>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>5765</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN5765.wav</FileName>
+  <ClassId>arlrfh</ClassId>
+  <Date>2001-07-11</Date>
+  <Time>09:45</Time>
+  <Locality>Boa Vista, Roraima</Locality>
+  <Latitude>2.8501</Latitude>
+  <Longitude>-60.0667</Longitude>
+  <Elevation>75</Elevation>
+  <Author>Jeremy Minns</Author>
+  <AuthorID>DGVLLRYDXS</AuthorID>
+  <Content>call, song in chorus</Content>
+  <Comments>Ilha S‹o JosŽ, 20 km upstream from Boa Vista on Rio Branco. Beside flooded area.</Comments>
+  <Quality>2</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies>Lepidocolaptes souleyetii</BackgroundSpecies>
+  <Order>Cuculiformes</Order>
+  <Family>Cuculidae</Family>
+  <Genus>Crotophaga</Genus>
+  <Species>major</Species>
+  <Sub-species />
+  <VernacularNames>Greater Ani</VernacularNames>
+</Audio>

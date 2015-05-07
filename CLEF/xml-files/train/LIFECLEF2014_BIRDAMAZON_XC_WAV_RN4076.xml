@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>4076</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN4076.wav</FileName>
+  <ClassId>pprfie</ClassId>
+  <Date>2012-06-10</Date>
+  <Time>09:19</Time>
+  <Locality>Gravado no Olho Dagua Mago-Pão de Açúcar-Alagoas-Brasil</Locality>
+  <Latitude>-9.73</Latitude>
+  <Longitude>-37.439</Longitude>
+  <Elevation>700</Elevation>
+  <Author>pedroteia</Author>
+  <AuthorID>BZVNDWLRSQ</AuthorID>
+  <Content>song</Content>
+  <Comments>cantava em uma craibeira</Comments>
+  <Quality>1</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Vireonidae</Family>
+  <Genus>Cyclarhis</Genus>
+  <Species>gujanensis</Species>
+  <Sub-species />
+  <VernacularNames>Rufous-browed Peppershrike</VernacularNames>
+</Audio>

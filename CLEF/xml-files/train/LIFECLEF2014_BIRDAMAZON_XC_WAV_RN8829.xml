@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>8829</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN8829.wav</FileName>
+  <ClassId>btsawy</ClassId>
+  <Date>2006-11-28</Date>
+  <Time>07:00</Time>
+  <Locality>Tucuruí dam, right bank of the lake</Locality>
+  <Latitude>-4.2326</Latitude>
+  <Longitude>-49.4117</Longitude>
+  <Elevation>100</Elevation>
+  <Author>Sidnei Dantas</Author>
+  <AuthorID>NNCKQMBGPH</AuthorID>
+  <Content>call, song</Content>
+  <Comments>land forest</Comments>
+  <Quality>2</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies>Arremon taciturnus,Cyclarhis gujanensis,Lepidocolaptes albolineatus</BackgroundSpecies>
+  <Order>Passeriformes</Order>
+  <Family>Thamnophilidae</Family>
+  <Genus>Cercomacra</Genus>
+  <Species>cinerascens</Species>
+  <Sub-species />
+  <VernacularNames>Grey Antbird</VernacularNames>
+</Audio>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>8245</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN8245.wav</FileName>
+  <ClassId>aiigbg</ClassId>
+  <Date>2001-09-25</Date>
+  <Time>07:59</Time>
+  <Locality>Ubatuba, SP. Fazenda Angelim</Locality>
+  <Latitude>-23.4334</Latitude>
+  <Longitude>-45.1167</Longitude>
+  <Elevation>30</Elevation>
+  <Author>Jeremy Minns</Author>
+  <AuthorID>DGVLLRYDXS</AuthorID>
+  <Content>Song A</Content>
+  <Comments>Lowland forest</Comments>
+  <Quality>0</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies>Turdus albicollis</BackgroundSpecies>
+  <Order>Passeriformes</Order>
+  <Family>Furnariidae</Family>
+  <Genus>Sittasomus</Genus>
+  <Species>griseicapillus</Species>
+  <Sub-species>sylviellus</Sub-species>
+  <VernacularNames>Olivaceous Woodcreeper</VernacularNames>
+</Audio>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>8146</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN8146.wav</FileName>
+  <ClassId>ltjfqv</ClassId>
+  <Date>2009-09-26</Date>
+  <Time>05:50</Time>
+  <Locality>Itu, São Paulo</Locality>
+  <Latitude>-23.270681</Latitude>
+  <Longitude>-47.298889</Longitude>
+  <Elevation>590</Elevation>
+  <Author>Marcos Melo</Author>
+  <AuthorID>MRGDYNJGUJ</AuthorID>
+  <Content>call</Content>
+  <Comments />
+  <Quality>3</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies>Cyclarhis gujanensis</BackgroundSpecies>
+  <Order>Passeriformes</Order>
+  <Family>Tyrannidae</Family>
+  <Genus>Myiarchus</Genus>
+  <Species>tyrannulus</Species>
+  <Sub-species />
+  <VernacularNames>Brown-crested Flycatcher</VernacularNames>
+</Audio>

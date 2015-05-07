@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>14588</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN14588.wav</FileName>
+  <ClassId>ltmvlu</ClassId>
+  <Date>2011-03-24</Date>
+  <Time>8-00</Time>
+  <Locality>Puerto Ajacucho</Locality>
+  <Latitude>5.6709</Latitude>
+  <Longitude>-67.5551</Longitude>
+  <Elevation>250</Elevation>
+  <Author>Albert Lastukhin</Author>
+  <AuthorID>LELYWQKUZX</AuthorID>
+  <Content>Song</Content>
+  <Comments />
+  <Quality>3</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Furnariidae</Family>
+  <Genus>Xiphorhynchus</Genus>
+  <Species>guttatus</Species>
+  <Sub-species />
+  <VernacularNames>Buff-throated Woodcreeper</VernacularNames>
+</Audio>

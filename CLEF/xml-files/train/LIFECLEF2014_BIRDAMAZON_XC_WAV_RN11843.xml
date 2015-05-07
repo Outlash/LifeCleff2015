@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>11843</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN11843.wav</FileName>
+  <ClassId>gcyzcu</ClassId>
+  <Date>2011-08-07</Date>
+  <Time>6:54</Time>
+  <Locality>Mata de São João, Bahia.</Locality>
+  <Latitude>NULL</Latitude>
+  <Longitude>NULL</Longitude>
+  <Elevation>?</Elevation>
+  <Author>Sidnei S. dos Santos</Author>
+  <AuthorID>BHODJXTHGQ</AuthorID>
+  <Content>Flight call</Content>
+  <Comments />
+  <Quality>2</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies />
+  <Order>Psittaciformes</Order>
+  <Family>Psittacidae</Family>
+  <Genus>Diopsittaca</Genus>
+  <Species>nobilis</Species>
+  <Sub-species />
+  <VernacularNames>Red-shouldered Macaw</VernacularNames>
+</Audio>

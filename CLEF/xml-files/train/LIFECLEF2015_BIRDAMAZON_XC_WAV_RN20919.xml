@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>20919</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN20919.wav</FileName>
+  <ClassId>tqvdsy</ClassId>
+  <Date>2012-09-08</Date>
+  <Time>05:44</Time>
+  <Locality>Reserve Naturelle Regionale Tresor, Roura</Locality>
+  <Latitude>4.6105</Latitude>
+  <Longitude>-52.2793</Longitude>
+  <Elevation>240</Elevation>
+  <Author>Jon King</Author>
+  <AuthorID>LNEEOOWCQR</AuthorID>
+  <Content>female, song</Content>
+  <Comments>Distance to mic. 20m. Presumed female and presumed same individual as XC114433, based on observations from previous evening.bird-seen:noplayback-used:no</Comments>
+  <Quality>3</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Strigiformes</Order>
+  <Family>Strigidae</Family>
+  <Genus>Lophostrix</Genus>
+  <Species>cristata</Species>
+  <Sub-species />
+  <VernacularNames>Crested Owl</VernacularNames>
+</Audio>

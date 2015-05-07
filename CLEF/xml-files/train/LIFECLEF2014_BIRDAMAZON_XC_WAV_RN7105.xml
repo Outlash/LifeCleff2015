@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>7105</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN7105.wav</FileName>
+  <ClassId>ypmevr</ClassId>
+  <Date>2012-11-18</Date>
+  <Time>08:00</Time>
+  <Locality>RPPN Frei Caneca, Jaqueira, Pernambuco</Locality>
+  <Latitude>-8.7212</Latitude>
+  <Longitude>-35.8323</Longitude>
+  <Elevation>400</Elevation>
+  <Author>Alex Lees</Author>
+  <AuthorID>INDDBZAFJL</AuthorID>
+  <Content>alarm call</Content>
+  <Comments>Hill top forestbird-seen:yesplayback-used:no</Comments>
+  <Quality>2</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies>Myrmotherula axillaris,Herpsilochmus rufimarginatus,Dixiphia rubrocapilla,Chiroxiphia pareola</BackgroundSpecies>
+  <Order>Passeriformes</Order>
+  <Family>Conopophagidae</Family>
+  <Genus>Conopophaga</Genus>
+  <Species>melanops</Species>
+  <Sub-species>nigrifrons</Sub-species>
+  <VernacularNames>Black-cheeked Gnateater</VernacularNames>
+</Audio>

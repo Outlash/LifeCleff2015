@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>13671</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN13671.wav</FileName>
+  <ClassId>zhxbyo</ClassId>
+  <Date>2009-04-04</Date>
+  <Time>10:00</Time>
+  <Locality>Serra do Mar State Park. Cunha</Locality>
+  <Latitude>-23.267</Latitude>
+  <Longitude>-45.028</Longitude>
+  <Elevation>1100</Elevation>
+  <Author>Antonio Silveira</Author>
+  <AuthorID>NBJQSQJRYH</AuthorID>
+  <Content>call</Content>
+  <Comments>bird-seen:yesplayback-used:no</Comments>
+  <Quality>2</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Tyrannidae</Family>
+  <Genus>Serpophaga</Genus>
+  <Species>subcristata</Species>
+  <Sub-species />
+  <VernacularNames>White-crested Tyrannulet</VernacularNames>
+</Audio>

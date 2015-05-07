@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>684</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN684.wav</FileName>
+  <ClassId>jgbztp</ClassId>
+  <Date>2009-12-29</Date>
+  <Time>08:06</Time>
+  <Locality>Tapiraí, São Paulo State</Locality>
+  <Latitude>NULL</Latitude>
+  <Longitude>NULL</Longitude>
+  <Elevation>380</Elevation>
+  <Author>Robson Silva e Silva</Author>
+  <AuthorID>WZSVLIHYQF</AuthorID>
+  <Content>?</Content>
+  <Comments />
+  <Quality>1</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Thraupidae</Family>
+  <Genus>Tiaris</Genus>
+  <Species>fuliginosus</Species>
+  <Sub-species />
+  <VernacularNames>Sooty Grassquit</VernacularNames>
+</Audio>

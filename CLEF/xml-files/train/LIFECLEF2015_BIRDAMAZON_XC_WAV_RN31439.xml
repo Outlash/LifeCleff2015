@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>31439</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN31439.wav</FileName>
+  <ClassId>dtjwwt</ClassId>
+  <Date>2007-12-30</Date>
+  <Time>06:48</Time>
+  <Locality>R. N. Rio Blanco, Caldas</Locality>
+  <Latitude>5.0834</Latitude>
+  <Longitude>-75.5001</Longitude>
+  <Elevation>2600</Elevation>
+  <Author>David Bradley</Author>
+  <AuthorID>MCNTDLDTOO</AuthorID>
+  <Content>call</Content>
+  <Comments>after playback</Comments>
+  <Quality>1</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Rhinocryptidae</Family>
+  <Genus>Acropternis</Genus>
+  <Species>orthonyx</Species>
+  <Sub-species>orthonyx</Sub-species>
+  <VernacularNames>Ocellated Tapaculo</VernacularNames>
+</Audio>

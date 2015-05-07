@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>21929</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN21929.wav</FileName>
+  <ClassId>jatqgd</ClassId>
+  <Date>1997-10-08</Date>
+  <Time>00:00</Time>
+  <Locality>R. N. Rio Blanco, Caldas</Locality>
+  <Latitude>5.0834</Latitude>
+  <Longitude>-75.5001</Longitude>
+  <Elevation>?</Elevation>
+  <Author>Todd Mark</Author>
+  <AuthorID>CLKPHLYUHA</AuthorID>
+  <Content>call, song</Content>
+  <Comments>scores for song. link:http://www.birdlife.org/datazone/sites/index.html?action=SitHTMDetails.asp&amp;sid=14416&amp;m=0</Comments>
+  <Quality>1</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Rhinocryptidae</Family>
+  <Genus>Myornis</Genus>
+  <Species>senilis</Species>
+  <Sub-species />
+  <VernacularNames>Ash-colored Tapaculo</VernacularNames>
+</Audio>

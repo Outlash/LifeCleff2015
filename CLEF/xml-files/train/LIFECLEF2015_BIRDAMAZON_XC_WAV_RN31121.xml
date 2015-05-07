@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>31121</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN31121.wav</FileName>
+  <ClassId>qiltib</ClassId>
+  <Date>1992-11-23</Date>
+  <Time>?</Time>
+  <Locality>Caquetá, San José del Guaviare, PNN Chiribiquete, 45 km W Miraflores (Guaviare)</Locality>
+  <Latitude>1.5</Latitude>
+  <Longitude>NULL</Longitude>
+  <Elevation>350</Elevation>
+  <Author>Gary Stiles (Colección de Sonidos Ambientales - Instituto Humboldt)</Author>
+  <AuthorID>XMFDPACYJN</AuthorID>
+  <Content>song</Content>
+  <Comments>BSA 10977To obtain a wav file of the original recording, please contact csa@humboldt.org.cobird-seen:noplayback-used:no</Comments>
+  <Quality>2</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Thamnophilidae</Family>
+  <Genus>Myrmotherula</Genus>
+  <Species>cherriei</Species>
+  <Sub-species />
+  <VernacularNames>Cherrie's Antwren</VernacularNames>
+</Audio>

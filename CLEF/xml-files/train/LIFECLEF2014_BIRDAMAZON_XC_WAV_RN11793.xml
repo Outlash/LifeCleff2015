@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>11793</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN11793.wav</FileName>
+  <ClassId>ojdrck</ClassId>
+  <Date>2012-01-23</Date>
+  <Time>14:00</Time>
+  <Locality>Pousada dos Anões, Alto Paraiso do Goias (planalto)</Locality>
+  <Latitude>-14.326</Latitude>
+  <Longitude>-47.487</Longitude>
+  <Elevation>?</Elevation>
+  <Author>Alexander Lees</Author>
+  <AuthorID>INDDBZAFJL</AuthorID>
+  <Content>call</Content>
+  <Comments>open cerrado</Comments>
+  <Quality>2</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Furnariidae</Family>
+  <Genus>Phacellodomus</Genus>
+  <Species>rufifrons</Species>
+  <Sub-species>rufifrons</Sub-species>
+  <VernacularNames>Rufous-fronted Thornbird</VernacularNames>
+</Audio>

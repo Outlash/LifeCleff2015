@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>32776</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN32776.wav</FileName>
+  <ClassId>hejxxz</ClassId>
+  <Date>2009-02-12</Date>
+  <Time>?</Time>
+  <Locality>Hato El Cedral, Los Llanos</Locality>
+  <Latitude>7.4277</Latitude>
+  <Longitude>-69.328</Longitude>
+  <Elevation>90</Elevation>
+  <Author>Hans Matheve</Author>
+  <AuthorID>VROUALCTKG</AuthorID>
+  <Content>call</Content>
+  <Comments>bird-seen:yes</Comments>
+  <Quality>1</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Charadriiformes</Order>
+  <Family>Laridae</Family>
+  <Genus>Phaetusa</Genus>
+  <Species>simplex</Species>
+  <Sub-species />
+  <VernacularNames>Large-billed Tern</VernacularNames>
+</Audio>

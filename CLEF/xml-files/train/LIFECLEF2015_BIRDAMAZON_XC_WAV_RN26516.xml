@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>26516</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN26516.wav</FileName>
+  <ClassId>nzulxx</ClassId>
+  <Date>2000-03-18</Date>
+  <Time>13:31</Time>
+  <Locality>Laguna de Pedro Palo, Tena, Cundinamarca</Locality>
+  <Latitude>NULL</Latitude>
+  <Longitude>NULL</Longitude>
+  <Elevation>2200</Elevation>
+  <Author>Bernabe Lopez-Lanus</Author>
+  <AuthorID>BYLLSJRVDZ</AuthorID>
+  <Content>call</Content>
+  <Comments />
+  <Quality>3</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Podicipediformes</Order>
+  <Family>Podicipedidae</Family>
+  <Genus>Podilymbus</Genus>
+  <Species>podiceps</Species>
+  <Sub-species />
+  <VernacularNames>Pied-billed Grebe</VernacularNames>
+</Audio>

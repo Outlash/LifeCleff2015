@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>30467</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN30467.wav</FileName>
+  <ClassId>ktgebu</ClassId>
+  <Date>2013-02-26</Date>
+  <Time>07:00</Time>
+  <Locality>Cotiporã, Rio Grande do Sul</Locality>
+  <Latitude>-28.9896</Latitude>
+  <Longitude>-51.6976</Longitude>
+  <Elevation>600</Elevation>
+  <Author>João Antônio de B. Vitto</Author>
+  <AuthorID>RIVNLYTULO</AuthorID>
+  <Content>song</Content>
+  <Comments>bird-seen:noplayback-used:no</Comments>
+  <Quality>2</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Formicariidae</Family>
+  <Genus>Chamaeza</Genus>
+  <Species>ruficauda</Species>
+  <Sub-species />
+  <VernacularNames>Rufous-tailed Antthrush</VernacularNames>
+</Audio>

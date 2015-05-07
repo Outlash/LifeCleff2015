@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>6586</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN6586.wav</FileName>
+  <ClassId>vjavkh</ClassId>
+  <Date>2005-09-00</Date>
+  <Time>07:00</Time>
+  <Locality>Piedade, São Paulo state</Locality>
+  <Latitude>NULL</Latitude>
+  <Longitude>NULL</Longitude>
+  <Elevation>781</Elevation>
+  <Author>Guilherme R R Brito</Author>
+  <AuthorID>OAYOBWYOOM</AuthorID>
+  <Content>song</Content>
+  <Comments>espontaneous vocalization</Comments>
+  <Quality>3</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Thamnophilidae</Family>
+  <Genus>Rhopias</Genus>
+  <Species>gularis</Species>
+  <Sub-species />
+  <VernacularNames>Star-throated Antwren</VernacularNames>
+</Audio>

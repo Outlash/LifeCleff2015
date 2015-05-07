@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>10004</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN10004.wav</FileName>
+  <ClassId>ypmevr</ClassId>
+  <Date>2005-11-27</Date>
+  <Time>8:10</Time>
+  <Locality>Parque do Zizo, Sao Paulo State</Locality>
+  <Latitude>-24.017146</Latitude>
+  <Longitude>-47.81044</Longitude>
+  <Elevation>630</Elevation>
+  <Author>Bob Planqué</Author>
+  <AuthorID>OH38YHKJBS</AuthorID>
+  <Content>song</Content>
+  <Comments>a very active male, calling and singing, flicking its wings, raising crest.</Comments>
+  <Quality>1</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies>Basileuterus culicivorus,Habia rubica</BackgroundSpecies>
+  <Order>Passeriformes</Order>
+  <Family>Conopophagidae</Family>
+  <Genus>Conopophaga</Genus>
+  <Species>melanops</Species>
+  <Sub-species />
+  <VernacularNames>Black-cheeked Gnateater</VernacularNames>
+</Audio>

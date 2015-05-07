@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>1583</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN1583.wav</FileName>
+  <ClassId>eldoju</ClassId>
+  <Date>2009-01-13</Date>
+  <Time>?</Time>
+  <Locality>Morro do Cachorro, Blumenau, Santa Catarina</Locality>
+  <Latitude>-26.7776</Latitude>
+  <Longitude>-49.0401</Longitude>
+  <Elevation>500</Elevation>
+  <Author>Adrian Eisen Rupp</Author>
+  <AuthorID>AOPMSCIDIA</AuthorID>
+  <Content>song</Content>
+  <Comments>Like calls of the Swainson's Flycatcher Myiarchus swainsoni</Comments>
+  <Quality>0</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies>Vireo olivaceus</BackgroundSpecies>
+  <Order>Passeriformes</Order>
+  <Family>Tyrannidae</Family>
+  <Genus>Ramphotrigon</Genus>
+  <Species>megacephalum</Species>
+  <Sub-species />
+  <VernacularNames>Large-headed Flatbill</VernacularNames>
+</Audio>

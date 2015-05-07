@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>9643</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN9643.wav</FileName>
+  <ClassId>zsqhks</ClassId>
+  <Date>2009-01-17</Date>
+  <Time>?</Time>
+  <Locality>Parque Ecológico Dom Bosco - Brasília-DF</Locality>
+  <Latitude>NULL</Latitude>
+  <Longitude>NULL</Longitude>
+  <Elevation>1000</Elevation>
+  <Author>Marcelo Pontes Monteiro</Author>
+  <AuthorID>VFBVMACCPD</AuthorID>
+  <Content>Song</Content>
+  <Comments />
+  <Quality>2</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies />
+  <Order>Columbiformes</Order>
+  <Family>Columbidae</Family>
+  <Genus>Columbina</Genus>
+  <Species>squammata</Species>
+  <Sub-species />
+  <VernacularNames>Scaled Dove</VernacularNames>
+</Audio>

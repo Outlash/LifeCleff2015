@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>7327</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN7327.wav</FileName>
+  <ClassId>ptfyqz</ClassId>
+  <Date>2007-10-08</Date>
+  <Time>17:34</Time>
+  <Locality>Pousada Rio Azul, PA</Locality>
+  <Latitude>-9.2456</Latitude>
+  <Longitude>-55.987</Longitude>
+  <Elevation>220</Elevation>
+  <Author>Bradley Davis</Author>
+  <AuthorID>YNXJLOESBB</AuthorID>
+  <Content>song</Content>
+  <Comments />
+  <Quality>2</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies />
+  <Order>Tinamiformes</Order>
+  <Family>Tinamidae</Family>
+  <Genus>Crypturellus</Genus>
+  <Species>undulatus</Species>
+  <Sub-species />
+  <VernacularNames>Undulated Tinamou</VernacularNames>
+</Audio>

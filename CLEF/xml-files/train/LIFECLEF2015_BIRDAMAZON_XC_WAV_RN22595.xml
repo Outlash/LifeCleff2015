@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>22595</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN22595.wav</FileName>
+  <ClassId>oprcxm</ClassId>
+  <Date>1998-11-07</Date>
+  <Time>11:12</Time>
+  <Locality>Finca La Carbonera (canon del rio Toche), Tolima</Locality>
+  <Latitude>NULL</Latitude>
+  <Longitude>NULL</Longitude>
+  <Elevation>2900</Elevation>
+  <Author>Bernabe Lopez-Lanus</Author>
+  <AuthorID>BYLLSJRVDZ</AuthorID>
+  <Content>Song</Content>
+  <Comments>Record first included in G. polyosoma (I must study my notes, but by precaution , by now,  I prefer nominate this record like G. albicaudatus, toghether with the other albicaudatus record, at the same place: Finca La Carbonera).</Comments>
+  <Quality>0</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Accipitriformes</Order>
+  <Family>Accipitridae</Family>
+  <Genus>Geranoaetus</Genus>
+  <Species>albicaudatus</Species>
+  <Sub-species />
+  <VernacularNames>White-tailed Hawk</VernacularNames>
+</Audio>

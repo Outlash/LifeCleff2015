@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>10827</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN10827.wav</FileName>
+  <ClassId>muhjso</ClassId>
+  <Date>2000-09-13</Date>
+  <Time>05:50</Time>
+  <Locality>Cristalino Jungle Lodge, MT</Locality>
+  <Latitude>-9.5981</Latitude>
+  <Longitude>-55.932</Longitude>
+  <Elevation>260</Elevation>
+  <Author>Jeremy Minns</Author>
+  <AuthorID>DGVLLRYDXS</AuthorID>
+  <Content>song</Content>
+  <Comments>Terra firme forest.bird-seen:yesplayback-used:no</Comments>
+  <Quality>1</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Tyrannidae</Family>
+  <Genus>Lathrotriccus</Genus>
+  <Species>euleri</Species>
+  <Sub-species />
+  <VernacularNames>Euler's Flycatcher</VernacularNames>
+</Audio>

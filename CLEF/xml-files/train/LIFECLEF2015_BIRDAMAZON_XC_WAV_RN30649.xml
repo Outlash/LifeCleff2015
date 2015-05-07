@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>30649</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN30649.wav</FileName>
+  <ClassId>ssjqni</ClassId>
+  <Date>2011-03-08</Date>
+  <Time>11:15</Time>
+  <Locality>Voltzberg, Raleighvallen National Park</Locality>
+  <Latitude>4.68333</Latitude>
+  <Longitude>-56.16667</Longitude>
+  <Elevation>60</Elevation>
+  <Author>Daniel Lane</Author>
+  <AuthorID>WOEAFQRMUD</AuthorID>
+  <Content>call, song</Content>
+  <Comments>Natural song from unseen pair (male on mic?) in understory mixed-species flock in tall forest.</Comments>
+  <Quality>2</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies>Lipaugus vociferans,Ramphocaenus melanurus,Thamnomanes caesius,Microrhopias quixensis</BackgroundSpecies>
+  <Order>Passeriformes</Order>
+  <Family>Thamnophilidae</Family>
+  <Genus>Myrmotherula</Genus>
+  <Species>axillaris</Species>
+  <Sub-species>axillaris</Sub-species>
+  <VernacularNames>White-flanked Antwren</VernacularNames>
+</Audio>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>8170</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN8170.wav</FileName>
+  <ClassId>wmvjdr</ClassId>
+  <Date>2012-02-01</Date>
+  <Time>07:32</Time>
+  <Locality>Reserva Biologica Estadual Sassafras, near Dr. Pedrinho, Santa Catarina</Locality>
+  <Latitude>NULL</Latitude>
+  <Longitude>NULL</Longitude>
+  <Elevation>960</Elevation>
+  <Author>Jon King</Author>
+  <AuthorID>LNEEOOWCQR</AuthorID>
+  <Content>song</Content>
+  <Comments>After playback. Distance to mic. 7m. Missed first song phrase. Song phrases lengthen and strengthen over time.</Comments>
+  <Quality>2</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Grallariidae</Family>
+  <Genus>Hylopezus</Genus>
+  <Species>nattereri</Species>
+  <Sub-species />
+  <VernacularNames>Speckle-breasted Antpitta</VernacularNames>
+</Audio>

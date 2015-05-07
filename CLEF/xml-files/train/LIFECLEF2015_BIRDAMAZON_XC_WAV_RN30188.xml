@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>30188</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN30188.wav</FileName>
+  <ClassId>obfbve</ClassId>
+  <Date>2010-03-12</Date>
+  <Time>?</Time>
+  <Locality>Ouanary aircraft and digue</Locality>
+  <Latitude>4.215</Latitude>
+  <Longitude>-51.665</Longitude>
+  <Elevation>2</Elevation>
+  <Author>Renaudier Alexandre</Author>
+  <AuthorID>GKADEITXTH</AuthorID>
+  <Content>song</Content>
+  <Comments>at dawn</Comments>
+  <Quality>2</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Pelecaniformes</Order>
+  <Family>Ardeidae</Family>
+  <Genus>Zebrilus</Genus>
+  <Species>undulatus</Species>
+  <Sub-species />
+  <VernacularNames>Zigzag Heron</VernacularNames>
+</Audio>

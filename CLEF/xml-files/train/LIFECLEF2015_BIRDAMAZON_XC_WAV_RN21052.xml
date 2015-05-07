@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>21052</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN21052.wav</FileName>
+  <ClassId>ijpmji</ClassId>
+  <Date>2010-01-08</Date>
+  <Time>15:00</Time>
+  <Locality>Santa Cecilia, Serrania de San Lucas</Locality>
+  <Latitude>7.9759</Latitude>
+  <Longitude>-74.2153</Longitude>
+  <Elevation>1550</Elevation>
+  <Author>Thomas Donegan</Author>
+  <AuthorID>OXSIOLJJUP</AuthorID>
+  <Content>Dusk song of a pair</Content>
+  <Comments>Presumably the same birds as other recordings at this locality, calls came from same place each evening.</Comments>
+  <Quality>5</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies>Lophotriccus pileatus</BackgroundSpecies>
+  <Order>Psittaciformes</Order>
+  <Family>Psittacidae</Family>
+  <Genus>Amazona</Genus>
+  <Species>farinosa</Species>
+  <Sub-species />
+  <VernacularNames>Mealy Amazon</VernacularNames>
+</Audio>

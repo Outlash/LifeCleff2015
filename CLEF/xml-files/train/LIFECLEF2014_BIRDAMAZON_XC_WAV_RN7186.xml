@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>7186</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN7186.wav</FileName>
+  <ClassId>jefgxc</ClassId>
+  <Date>2009-01-27</Date>
+  <Time>10:35</Time>
+  <Locality>Ilha Paraíso, Jaguaripe, Bahia</Locality>
+  <Latitude>-13.1242</Latitude>
+  <Longitude>-38.8637</Longitude>
+  <Elevation>?</Elevation>
+  <Author>Sidnei S. dos Santos</Author>
+  <AuthorID>BHODJXTHGQ</AuthorID>
+  <Content>Call</Content>
+  <Comments />
+  <Quality>0</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies />
+  <Order>Piciformes</Order>
+  <Family>Galbulidae</Family>
+  <Genus>Galbula</Genus>
+  <Species>ruficauda</Species>
+  <Sub-species />
+  <VernacularNames>Rufous-tailed Jacamar</VernacularNames>
+</Audio>

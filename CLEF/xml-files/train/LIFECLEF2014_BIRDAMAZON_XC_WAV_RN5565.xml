@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>5565</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN5565.wav</FileName>
+  <ClassId>lksjxc</ClassId>
+  <Date>2008-10-18</Date>
+  <Time>xx:xx</Time>
+  <Locality>Caratuva, Parque Nacional das Araucárias, Ponte serrada, Santa Catarina</Locality>
+  <Latitude>-26.8359</Latitude>
+  <Longitude>-51.9912</Longitude>
+  <Elevation>1000</Elevation>
+  <Author>Adrian Eisen rupp</Author>
+  <AuthorID>AOPMSCIDIA</AuthorID>
+  <Content>song</Content>
+  <Comments />
+  <Quality>1</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Tyrannidae</Family>
+  <Genus>Myiopagis</Genus>
+  <Species>caniceps</Species>
+  <Sub-species />
+  <VernacularNames>Grey Elaenia</VernacularNames>
+</Audio>

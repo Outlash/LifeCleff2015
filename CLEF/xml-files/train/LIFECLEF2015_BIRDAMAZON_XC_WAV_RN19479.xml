@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>19479</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN19479.wav</FileName>
+  <ClassId>dxrogt</ClassId>
+  <Date>2010-04-25</Date>
+  <Time>08:30</Time>
+  <Locality>Reserva Natural La Montaña del Ocaso, Quimbaya, Quindío</Locality>
+  <Latitude>4.6197</Latitude>
+  <Longitude>-75.851</Longitude>
+  <Elevation>1000</Elevation>
+  <Author>Oscar H. Marín-Gómez</Author>
+  <AuthorID>CSUHASNRSU</AuthorID>
+  <Content>male, song</Content>
+  <Comments>Macho posado en copa de árbol en potrerobird-seen:yesplayback-used:no</Comments>
+  <Quality>3</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Fringillidae</Family>
+  <Genus>Spinus</Genus>
+  <Species>psaltria</Species>
+  <Sub-species />
+  <VernacularNames>Lesser Goldfinch</VernacularNames>
+</Audio>

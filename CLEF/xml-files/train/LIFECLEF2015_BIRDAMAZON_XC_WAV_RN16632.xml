@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>16632</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN16632.wav</FileName>
+  <ClassId>yjatvw</ClassId>
+  <Date>2014-08-20</Date>
+  <Time>22:10</Time>
+  <Locality>Bogota, Cundinamarca</Locality>
+  <Latitude>4.7408</Latitude>
+  <Longitude>-74.0608</Longitude>
+  <Elevation>2620</Elevation>
+  <Author>Carlos Abel Morales Álvarez</Author>
+  <AuthorID>XSFRKTKWAD</AuthorID>
+  <Content>call</Content>
+  <Comments>Recorded with audacity. Real time diference between the two calls: 24 s. Started calling since 22:00, 23:12 and still calling. Low vegetation, urban zone. Little square with aproximately 8hm x 10hm size with small amount of trees on it, and one tree near place of notification, around 40hm x 20hm of low grass camp. Bird not seen, high illumination, low influx of cars. Maybe 2 birds.bird-seen:noplayback-used:no</Comments>
+  <Quality>3</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Strigiformes</Order>
+  <Family>Strigidae</Family>
+  <Genus>Pseudoscops</Genus>
+  <Species>clamator</Species>
+  <Sub-species />
+  <VernacularNames>Striped Owl</VernacularNames>
+</Audio>

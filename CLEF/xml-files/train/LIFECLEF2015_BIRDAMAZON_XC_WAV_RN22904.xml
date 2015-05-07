@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>22904</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN22904.wav</FileName>
+  <ClassId>apnhqx</ClassId>
+  <Date>2013-01-29</Date>
+  <Time>08:00</Time>
+  <Locality>El Paujil ProAves Reserve, Santander</Locality>
+  <Latitude>6.0498</Latitude>
+  <Longitude>-74.2614</Longitude>
+  <Elevation>190</Elevation>
+  <Author>Ottavio Janni</Author>
+  <AuthorID>PWMAZXONXH</AuthorID>
+  <Content>song</Content>
+  <Comments>Very faint low boomingbird-seen:yesplayback-used:no</Comments>
+  <Quality>3</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Galliformes</Order>
+  <Family>Cracidae</Family>
+  <Genus>Crax</Genus>
+  <Species>alberti</Species>
+  <Sub-species />
+  <VernacularNames>Blue-billed Curassow</VernacularNames>
+</Audio>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>3443</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN3443.wav</FileName>
+  <ClassId>pswzyj</ClassId>
+  <Date>1999-04-27</Date>
+  <Time>06:55</Time>
+  <Locality>Reserva Biológica de Sooretama, ES</Locality>
+  <Latitude>-19.01</Latitude>
+  <Longitude>-40.01</Longitude>
+  <Elevation>60</Elevation>
+  <Author>Jeremy Minns</Author>
+  <AuthorID>DGVLLRYDXS</AuthorID>
+  <Content>call</Content>
+  <Comments />
+  <Quality>2</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies>Tolmomyias poliocephalus,Sirystes sibilator,Campylorhynchus turdinus</BackgroundSpecies>
+  <Order>Passeriformes</Order>
+  <Family>Vireonidae</Family>
+  <Genus>Vireo</Genus>
+  <Species>olivaceus</Species>
+  <Sub-species>chivi</Sub-species>
+  <VernacularNames>Red-eyed Vireo</VernacularNames>
+</Audio>

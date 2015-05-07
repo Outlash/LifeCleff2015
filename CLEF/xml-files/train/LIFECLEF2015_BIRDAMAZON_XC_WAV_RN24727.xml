@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>24727</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN24727.wav</FileName>
+  <ClassId>glymsz</ClassId>
+  <Date>2011-11-08</Date>
+  <Time>12:48</Time>
+  <Locality>Montezuma Peak Road, Pueblo Rico, Risaralda, W Andes - Tatama National Park</Locality>
+  <Latitude>5.2431</Latitude>
+  <Longitude>-76.0964</Longitude>
+  <Elevation>1595</Elevation>
+  <Author>Diego Calderon-F.</Author>
+  <AuthorID>OGATBVKNAG</AuthorID>
+  <Content>Song</Content>
+  <Comments>Response to playback</Comments>
+  <Quality>2</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Thamnophilidae</Family>
+  <Genus>Dysithamnus</Genus>
+  <Species>occidentalis</Species>
+  <Sub-species />
+  <VernacularNames>Bicolored Antvireo</VernacularNames>
+</Audio>

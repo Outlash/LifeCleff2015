@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>4656</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN4656.wav</FileName>
+  <ClassId>kuggpr</ClassId>
+  <Date>2007-11-00</Date>
+  <Time>am</Time>
+  <Locality>Parque Estadual Intervales, SP</Locality>
+  <Latitude>-24.2759</Latitude>
+  <Longitude>-48.4181</Longitude>
+  <Elevation>900</Elevation>
+  <Author>Eduardo Patrial</Author>
+  <AuthorID>QEFRRVCRRP</AuthorID>
+  <Content>song</Content>
+  <Comments />
+  <Quality>0</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies>Attila phoenicurus,Tinamus solitarius</BackgroundSpecies>
+  <Order>Passeriformes</Order>
+  <Family>Thamnophilidae</Family>
+  <Genus>Batara</Genus>
+  <Species>cinerea</Species>
+  <Sub-species />
+  <VernacularNames>Giant Antshrike</VernacularNames>
+</Audio>

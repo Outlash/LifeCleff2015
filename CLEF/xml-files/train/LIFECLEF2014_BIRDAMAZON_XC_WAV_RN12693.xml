@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>12693</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN12693.wav</FileName>
+  <ClassId>cvnsao</ClassId>
+  <Date>2007-09-29</Date>
+  <Time>9:00</Time>
+  <Locality>Parque Nacional da Serra do Itajaí</Locality>
+  <Latitude>NULL</Latitude>
+  <Longitude>NULL</Longitude>
+  <Elevation>350</Elevation>
+  <Author>Glauco Kohler</Author>
+  <AuthorID>JDNMEJOJEQ</AuthorID>
+  <Content>call</Content>
+  <Comments />
+  <Quality>5</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Thamnophilidae</Family>
+  <Genus>Drymophila</Genus>
+  <Species>rubricollis</Species>
+  <Sub-species />
+  <VernacularNames>Bertoni's Antbird</VernacularNames>
+</Audio>

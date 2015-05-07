@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>14931</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN14931.wav</FileName>
+  <ClassId>rtygpf</ClassId>
+  <Date>2012-06-05</Date>
+  <Time>06:00</Time>
+  <Locality>ZF2 km 34, 80km north of Manaus</Locality>
+  <Latitude>-2.609</Latitude>
+  <Longitude>-60.2091</Longitude>
+  <Elevation>110</Elevation>
+  <Author>GABRIEL LEITE</Author>
+  <AuthorID>TGBFXDVERJ</AuthorID>
+  <Content>song</Content>
+  <Comments>bird-seen:yesplayback-used:no</Comments>
+  <Quality>1</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies>Nyctibius griseus</BackgroundSpecies>
+  <Order>Piciformes</Order>
+  <Family>Bucconidae</Family>
+  <Genus>Bucco</Genus>
+  <Species>tamatia</Species>
+  <Sub-species />
+  <VernacularNames>Spotted Puffbird</VernacularNames>
+</Audio>

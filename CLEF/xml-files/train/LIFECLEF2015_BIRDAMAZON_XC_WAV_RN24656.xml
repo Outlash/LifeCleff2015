@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>24656</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN24656.wav</FileName>
+  <ClassId>snbgvb</ClassId>
+  <Date>2014-05-14</Date>
+  <Time>07:30</Time>
+  <Locality>Finca La Huerfana, Tachira State - Venezuela</Locality>
+  <Latitude>8.0047</Latitude>
+  <Longitude>-72.0643</Longitude>
+  <Elevation>2200</Elevation>
+  <Author>Thore Noernberg</Author>
+  <AuthorID>TTSQGWDDGW</AuthorID>
+  <Content>call, song</Content>
+  <Comments>adult calling and singing close to the feeders of Posada Finca La Huerfana bird-seen:yesplayback-used:no</Comments>
+  <Quality>1</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Apodiformes</Order>
+  <Family>Trochilidae</Family>
+  <Genus>Colibri</Genus>
+  <Species>coruscans</Species>
+  <Sub-species />
+  <VernacularNames>Sparkling Violetear</VernacularNames>
+</Audio>

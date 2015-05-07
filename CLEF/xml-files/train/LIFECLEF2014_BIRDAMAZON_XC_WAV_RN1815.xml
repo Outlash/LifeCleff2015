@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>1815</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN1815.wav</FileName>
+  <ClassId>bvpcer</ClassId>
+  <Date>2002-08-12</Date>
+  <Time>09:41</Time>
+  <Locality>Parque Estadual Intervales. Barra Grande</Locality>
+  <Latitude>-24.2667</Latitude>
+  <Longitude>-48.3834</Longitude>
+  <Elevation>800</Elevation>
+  <Author>Jeremy Minns</Author>
+  <AuthorID>DGVLLRYDXS</AuthorID>
+  <Content>Song and wing snapping</Content>
+  <Comments>Montane forest. Two adult males and one female plumaged bird, displaying on a log just inside the forest. Three natural takes.</Comments>
+  <Quality>2</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies>Philydor atricapillus,Piprites chloris,Carpornis cucullata</BackgroundSpecies>
+  <Order>Passeriformes</Order>
+  <Family>Pipridae</Family>
+  <Genus>Ilicura</Genus>
+  <Species>militaris</Species>
+  <Sub-species />
+  <VernacularNames>Pin-tailed Manakin</VernacularNames>
+</Audio>

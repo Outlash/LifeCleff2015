@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>30797</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN30797.wav</FileName>
+  <ClassId>sjjpbk</ClassId>
+  <Date>2013-01-26</Date>
+  <Time>13:00</Time>
+  <Locality>Boa Nova, Wet Forest, state of Bahia</Locality>
+  <Latitude>-14.3834</Latitude>
+  <Longitude>-40.1001</Longitude>
+  <Elevation>700</Elevation>
+  <Author>Dan Lane</Author>
+  <AuthorID>WOEAFQRMUD</AuthorID>
+  <Content>song</Content>
+  <Comments>Response to playback from a bird about 4m up in low ornamental trees near creek in disturbed mata atlantica.bird-seen:yesplayback-used:yes</Comments>
+  <Quality>1</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies>Compsothraupis loricata</BackgroundSpecies>
+  <Order>Passeriformes</Order>
+  <Family>Thraupidae</Family>
+  <Genus>Thlypopsis</Genus>
+  <Species>sordida</Species>
+  <Sub-species />
+  <VernacularNames>Orange-headed Tanager</VernacularNames>
+</Audio>

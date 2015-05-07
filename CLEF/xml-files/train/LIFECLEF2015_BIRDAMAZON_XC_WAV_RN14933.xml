@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>14933</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN14933.wav</FileName>
+  <ClassId>txbnxk</ClassId>
+  <Date>2007-11-07</Date>
+  <Time>07:30</Time>
+  <Locality>Universidad del Quindío, Armenia, Quindio</Locality>
+  <Latitude>4.5538</Latitude>
+  <Longitude>-75.6604</Longitude>
+  <Elevation>1500</Elevation>
+  <Author>Oscar Humberto Marin-Gomez</Author>
+  <AuthorID>CSUHASNRSU</AuthorID>
+  <Content>song</Content>
+  <Comments>Ref OHM003A 1651. Regrabacion del individuo XC129724</Comments>
+  <Quality>1</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Troglodytidae</Family>
+  <Genus>Pheugopedius</Genus>
+  <Species>sclateri</Species>
+  <Sub-species />
+  <VernacularNames>Speckle-breasted Wren</VernacularNames>
+</Audio>

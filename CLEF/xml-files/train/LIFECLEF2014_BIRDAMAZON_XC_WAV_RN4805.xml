@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>4805</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN4805.wav</FileName>
+  <ClassId>pnosvx</ClassId>
+  <Date>2012-02-07</Date>
+  <Time>16:28</Time>
+  <Locality>Timbaúba, Pernambuco</Locality>
+  <Latitude>-7.6096</Latitude>
+  <Longitude>-35.3952</Longitude>
+  <Elevation>440</Elevation>
+  <Author>Marcus Braun</Author>
+  <AuthorID>EICLYDGEKS</AuthorID>
+  <Content>song</Content>
+  <Comments>Mata do Engenho Xixa. Macaparanabird-seen:noplayback-used:no</Comments>
+  <Quality>4</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies />
+  <Order>Columbiformes</Order>
+  <Family>Columbidae</Family>
+  <Genus>Geotrygon</Genus>
+  <Species>montana</Species>
+  <Sub-species />
+  <VernacularNames>Ruddy Quail-Dove</VernacularNames>
+</Audio>

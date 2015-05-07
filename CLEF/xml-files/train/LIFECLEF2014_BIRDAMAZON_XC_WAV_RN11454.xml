@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>11454</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN11454.wav</FileName>
+  <ClassId>zieccy</ClassId>
+  <Date>2006-10-24</Date>
+  <Time>14:00</Time>
+  <Locality>Reserva Ecológica de Guapiaçu, RJ</Locality>
+  <Latitude>-22.5001</Latitude>
+  <Longitude>-42.7167</Longitude>
+  <Elevation>?</Elevation>
+  <Author>Leonardo Pimentel</Author>
+  <AuthorID>JHBOHGJALL</AuthorID>
+  <Content>Song</Content>
+  <Comments />
+  <Quality>2</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Formicariidae</Family>
+  <Genus>Chamaeza</Genus>
+  <Species>meruloides</Species>
+  <Sub-species />
+  <VernacularNames>Cryptic Antthrush</VernacularNames>
+</Audio>

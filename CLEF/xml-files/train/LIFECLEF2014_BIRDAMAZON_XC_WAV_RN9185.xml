@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>9185</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN9185.wav</FileName>
+  <ClassId>rstljd</ClassId>
+  <Date>2003-03-31</Date>
+  <Time>10:49</Time>
+  <Locality>Humaitá, AM. Sítio Boa Fé</Locality>
+  <Latitude>-7.7167</Latitude>
+  <Longitude>-63.0834</Longitude>
+  <Elevation>80</Elevation>
+  <Author>Jeremy Minns</Author>
+  <AuthorID>DGVLLRYDXS</AuthorID>
+  <Content>call, song</Content>
+  <Comments>Low flooded woodland on sandy soil in an open marshy area in terra firme forest. 30 min after playback. This vocalisation is quite different from that of pallens north of Amazon.</Comments>
+  <Quality>1</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Tyrannidae</Family>
+  <Genus>Hemitriccus</Genus>
+  <Species>minor</Species>
+  <Sub-species>pallens (presumably, by location)</Sub-species>
+  <VernacularNames>Snethlage's Tody-Tyrant</VernacularNames>
+</Audio>

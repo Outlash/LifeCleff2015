@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>28281</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN28281.wav</FileName>
+  <ClassId>igtfqw</ClassId>
+  <Date>2009-09-26</Date>
+  <Time>?</Time>
+  <Locality>Centro, Pomerode, Santa Catarina</Locality>
+  <Latitude>-26.7356</Latitude>
+  <Longitude>-49.1767</Longitude>
+  <Elevation>50</Elevation>
+  <Author>Adrian Eisen Rupp</Author>
+  <AuthorID>AOPMSCIDIA</AuthorID>
+  <Content>song</Content>
+  <Comments />
+  <Quality>3</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Apodiformes</Order>
+  <Family>Apodidae</Family>
+  <Genus>Chaetura</Genus>
+  <Species>meridionalis</Species>
+  <Sub-species />
+  <VernacularNames>Sick's Swift</VernacularNames>
+</Audio>

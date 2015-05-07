@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>19227</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN19227.wav</FileName>
+  <ClassId>flxxiy</ClassId>
+  <Date>2008-02-10</Date>
+  <Time>17:50</Time>
+  <Locality>R. N. Rio Blanco, Caldas</Locality>
+  <Latitude>5.0834</Latitude>
+  <Longitude>-75.5001</Longitude>
+  <Elevation>2800</Elevation>
+  <Author>Herman van Oosten</Author>
+  <AuthorID>SNUDCZVUQK</AuthorID>
+  <Content>Birds taking off, with wing-whirring</Content>
+  <Comments>At last! Again, wonderful birds (for the so-called 'Wonderful Birds', Rio Blanco seems to be a hotspot ,-))</Comments>
+  <Quality>4</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Psittaciformes</Order>
+  <Family>Psittacidae</Family>
+  <Genus>Leptosittaca</Genus>
+  <Species>branickii</Species>
+  <Sub-species />
+  <VernacularNames>Golden-plumed Parakeet</VernacularNames>
+</Audio>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>24512</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN24512.wav</FileName>
+  <ClassId>abyhkz</ClassId>
+  <Date>2012-10-04</Date>
+  <Time>16:50</Time>
+  <Locality>Pousada Penhasco, Chapada dos Guimarães, Mato Grosso</Locality>
+  <Latitude>-15.4776</Latitude>
+  <Longitude>-55.7585</Longitude>
+  <Elevation>800</Elevation>
+  <Author>Andrew Spencer</Author>
+  <AuthorID>CDTGHVBGZP</AuthorID>
+  <Content>call</Content>
+  <Comments>natural vocalizations, calls from a large swirling flock directly overhead.bird-seen:yesplayback-used:no</Comments>
+  <Quality>1</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Apodiformes</Order>
+  <Family>Apodidae</Family>
+  <Genus>Streptoprocne</Genus>
+  <Species>zonaris</Species>
+  <Sub-species>zonaris</Sub-species>
+  <VernacularNames>White-collared Swift</VernacularNames>
+</Audio>

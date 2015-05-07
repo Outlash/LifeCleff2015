@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>25447</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN25447.wav</FileName>
+  <ClassId>xohbun</ClassId>
+  <Date>2012-04-05</Date>
+  <Time>09:30</Time>
+  <Locality>Parauapebas, Para</Locality>
+  <Latitude>-5.9794</Latitude>
+  <Longitude>-50.1801</Longitude>
+  <Elevation>240</Elevation>
+  <Author>GABRIEL LEITE</Author>
+  <AuthorID>TGBFXDVERJ</AuthorID>
+  <Content>call, male</Content>
+  <Comments>bird-seen:yesplayback-used:no</Comments>
+  <Quality>3</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Fringillidae</Family>
+  <Genus>Euphonia</Genus>
+  <Species>chrysopasta</Species>
+  <Sub-species />
+  <VernacularNames>White-lored Euphonia</VernacularNames>
+</Audio>

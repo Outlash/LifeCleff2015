@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>21496</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN21496.wav</FileName>
+  <ClassId>cnlalq</ClassId>
+  <Date>2013-03-27</Date>
+  <Time>14:00</Time>
+  <Locality>Parque Natural Tatama</Locality>
+  <Latitude>5.113</Latitude>
+  <Longitude>-76.165</Longitude>
+  <Elevation>1800</Elevation>
+  <Author>Oswaldo Cortes</Author>
+  <AuthorID>VVDRVZCVWW</AuthorID>
+  <Content>call</Content>
+  <Comments>bird-seen:noplayback-used:no</Comments>
+  <Quality>1</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Thamnophilidae</Family>
+  <Genus>Cercomacra</Genus>
+  <Species>parkeri</Species>
+  <Sub-species />
+  <VernacularNames>Parker's Antbird</VernacularNames>
+</Audio>

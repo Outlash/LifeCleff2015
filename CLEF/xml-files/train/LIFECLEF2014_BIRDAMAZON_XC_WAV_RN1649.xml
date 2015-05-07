@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>1649</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN1649.wav</FileName>
+  <ClassId>zwxknm</ClassId>
+  <Date>2010-10-23</Date>
+  <Time>11:29</Time>
+  <Locality>Itatiaia National Park - Caminho dos Esquilos</Locality>
+  <Latitude>-22.3798</Latitude>
+  <Longitude>-44.6301</Longitude>
+  <Elevation>1000</Elevation>
+  <Author>Ricardo Gagliardi</Author>
+  <AuthorID>YRDADNREOP</AuthorID>
+  <Content>call</Content>
+  <Comments />
+  <Quality>2</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies>Turdus rufiventris,Myiodynastes maculatus,Cranioleuca pallida</BackgroundSpecies>
+  <Order>Passeriformes</Order>
+  <Family>Tyrannidae</Family>
+  <Genus>Phyllomyias</Genus>
+  <Species>burmeisteri</Species>
+  <Sub-species />
+  <VernacularNames>Rough-legged Tyrannulet</VernacularNames>
+</Audio>

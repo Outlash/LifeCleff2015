@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>28181</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN28181.wav</FileName>
+  <ClassId>vtxzdv</ClassId>
+  <Date>2004-08-21</Date>
+  <Time>21:20</Time>
+  <Locality>Mesenia, Antioquia</Locality>
+  <Latitude>5.4834</Latitude>
+  <Longitude>-75.9001</Longitude>
+  <Elevation>2200</Elevation>
+  <Author>Niels Krabbe</Author>
+  <AuthorID>XTVEPHMPPJ</AuthorID>
+  <Content>call, song</Content>
+  <Comments>Tape ref. B 147-151</Comments>
+  <Quality>0</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Strigiformes</Order>
+  <Family>Strigidae</Family>
+  <Genus>Strix</Genus>
+  <Species>albitarsis</Species>
+  <Sub-species />
+  <VernacularNames>Rufous-banded Owl</VernacularNames>
+</Audio>

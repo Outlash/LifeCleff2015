@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>907</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN907.wav</FileName>
+  <ClassId>dawwtj</ClassId>
+  <Date>2001-11-07</Date>
+  <Time>09:55</Time>
+  <Locality>Boa Nova, Wet Forest, state of Bahia</Locality>
+  <Latitude>-14.3834</Latitude>
+  <Longitude>-40.1001</Longitude>
+  <Elevation>825</Elevation>
+  <Author>Jeremy Minns</Author>
+  <AuthorID>DGVLLRYDXS</AuthorID>
+  <Content>Song</Content>
+  <Comments>Humid forest. Not seen. 90% certain of ID.</Comments>
+  <Quality>2</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies>Mackenziaena severa,Chamaeza meruloides,Lipaugus lanioides,Saltator fuliginosus</BackgroundSpecies>
+  <Order>Trogoniformes</Order>
+  <Family>Trogonidae</Family>
+  <Genus>Trogon</Genus>
+  <Species>surrucura</Species>
+  <Sub-species>aurantius</Sub-species>
+  <VernacularNames>Surucua Trogon</VernacularNames>
+</Audio>

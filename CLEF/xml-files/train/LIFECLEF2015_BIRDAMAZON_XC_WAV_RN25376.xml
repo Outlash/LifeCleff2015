@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>25376</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN25376.wav</FileName>
+  <ClassId>tpwgoq</ClassId>
+  <Date>2011-09-18</Date>
+  <Time>16:13</Time>
+  <Locality>Vidal Ramos, Santa Catarina</Locality>
+  <Latitude>-27.3546</Latitude>
+  <Longitude>-49.3459</Longitude>
+  <Elevation>360</Elevation>
+  <Author>Douglas Meyer</Author>
+  <AuthorID>MNENFHYTAE</AuthorID>
+  <Content>song</Content>
+  <Comments>bird-seen:yesplayback-used:no</Comments>
+  <Quality>0</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Icteridae</Family>
+  <Genus>Gnorimopsar</Genus>
+  <Species>chopi</Species>
+  <Sub-species />
+  <VernacularNames>Chopi Blackbird</VernacularNames>
+</Audio>

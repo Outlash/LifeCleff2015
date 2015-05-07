@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>29475</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN29475.wav</FileName>
+  <ClassId>etnvbo</ClassId>
+  <Date>2000-04-15</Date>
+  <Time>07:36</Time>
+  <Locality>Laguna de Pedro Palo, Tena, Cundinamarca</Locality>
+  <Latitude>NULL</Latitude>
+  <Longitude>NULL</Longitude>
+  <Elevation>2100</Elevation>
+  <Author>Bernabe Lopez-Lanus</Author>
+  <AuthorID>BYLLSJRVDZ</AuthorID>
+  <Content>Song</Content>
+  <Comments />
+  <Quality>3</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Thraupidae</Family>
+  <Genus>Tangara</Genus>
+  <Species>heinei</Species>
+  <Sub-species />
+  <VernacularNames>Black-capped Tanager</VernacularNames>
+</Audio>

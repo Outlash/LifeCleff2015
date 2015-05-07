@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>8348</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN8348.wav</FileName>
+  <ClassId>yyjrms</ClassId>
+  <Date>2001-03-14</Date>
+  <Time>12:55</Time>
+  <Locality>Conceicao de Ibitipoca</Locality>
+  <Latitude>-21.7001</Latitude>
+  <Longitude>-43.8834</Longitude>
+  <Elevation>1200</Elevation>
+  <Author>Jeremy Minns</Author>
+  <AuthorID>DGVLLRYDXS</AuthorID>
+  <Content>call</Content>
+  <Comments>Near entrance to the state park. Single bird perched on top of bracken in an open area.</Comments>
+  <Quality>2</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies>Lepidocolaptes squamatus,Troglodytes aedon,Hemithraupis ruficapilla</BackgroundSpecies>
+  <Order>Passeriformes</Order>
+  <Family>Emberizidae</Family>
+  <Genus>Zonotrichia</Genus>
+  <Species>capensis</Species>
+  <Sub-species>subtorquata</Sub-species>
+  <VernacularNames>Rufous-collared Sparrow</VernacularNames>
+</Audio>

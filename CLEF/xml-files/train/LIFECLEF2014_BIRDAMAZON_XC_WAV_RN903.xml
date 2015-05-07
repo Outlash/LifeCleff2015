@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>903</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN903.wav</FileName>
+  <ClassId>ntlogv</ClassId>
+  <Date>2004-04-23</Date>
+  <Time>10:00</Time>
+  <Locality>Serra dos Órgãos National Park - RJ</Locality>
+  <Latitude>-22.448</Latitude>
+  <Longitude>-43.01</Longitude>
+  <Elevation>1300</Elevation>
+  <Author>Ricardo Gagliardi</Author>
+  <AuthorID>YRDADNREOP</AuthorID>
+  <Content>song</Content>
+  <Comments />
+  <Quality>1</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Thamnophilidae</Family>
+  <Genus>Dysithamnus</Genus>
+  <Species>xanthopterus</Species>
+  <Sub-species />
+  <VernacularNames>Rufous-backed Antvireo</VernacularNames>
+</Audio>

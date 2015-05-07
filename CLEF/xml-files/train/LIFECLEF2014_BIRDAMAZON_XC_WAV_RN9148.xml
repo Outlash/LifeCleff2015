@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>9148</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN9148.wav</FileName>
+  <ClassId>obpowj</ClassId>
+  <Date>2010-06-02</Date>
+  <Time>10:31</Time>
+  <Locality>Parque Estadual Mata dos Godoy, Londrina, Parana</Locality>
+  <Latitude>-23.4501</Latitude>
+  <Longitude>-51.2334</Longitude>
+  <Elevation>600</Elevation>
+  <Author>Renan Campos de Oliveira</Author>
+  <AuthorID>SDARDTGGWP</AuthorID>
+  <Content>call, Songs</Content>
+  <Comments />
+  <Quality>1</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Tityridae</Family>
+  <Genus>Schiffornis</Genus>
+  <Species>virescens</Species>
+  <Sub-species />
+  <VernacularNames>Greenish Schiffornis</VernacularNames>
+</Audio>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>6195</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN6195.wav</FileName>
+  <ClassId>vvhcgg</ClassId>
+  <Date>2012-08-25</Date>
+  <Time>10:00</Time>
+  <Locality>Francisco Beltrão, Parana</Locality>
+  <Latitude>-26.0474</Latitude>
+  <Longitude>-53.0388</Longitude>
+  <Elevation>550</Elevation>
+  <Author>Vanderlei Lopes Ferreira</Author>
+  <AuthorID>TZODMTJUQU</AuthorID>
+  <Content>song</Content>
+  <Comments>bird-seen:yesplayback-used:no</Comments>
+  <Quality>0</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Thraupidae</Family>
+  <Genus>Poospiza</Genus>
+  <Species>cabanisi</Species>
+  <Sub-species />
+  <VernacularNames>Grey-throated Warbling Finch</VernacularNames>
+</Audio>

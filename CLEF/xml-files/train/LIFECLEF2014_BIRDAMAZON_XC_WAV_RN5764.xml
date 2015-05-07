@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>5764</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN5764.wav</FileName>
+  <ClassId>hkqgia</ClassId>
+  <Date>2002-12-31</Date>
+  <Time>05:39</Time>
+  <Locality>Cunha. Sítio Paraitinga</Locality>
+  <Latitude>-23.0501</Latitude>
+  <Longitude>-45.1167</Longitude>
+  <Elevation>780</Elevation>
+  <Author>Jeremy Minns</Author>
+  <AuthorID>DGVLLRYDXS</AuthorID>
+  <Content>call</Content>
+  <Comments>Natural calls of one of a pair in a small tree in a field beside gallery forest.</Comments>
+  <Quality>1</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies>Tyrannus savana,Zonotrichia capensis,Sporophila lineola,Sporophila leucoptera</BackgroundSpecies>
+  <Order>Passeriformes</Order>
+  <Family>Tyrannidae</Family>
+  <Genus>Todirostrum</Genus>
+  <Species>poliocephalum</Species>
+  <Sub-species />
+  <VernacularNames>Yellow-lored Tody-Flycatcher</VernacularNames>
+</Audio>

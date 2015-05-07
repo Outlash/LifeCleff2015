@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>14890</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN14890.wav</FileName>
+  <ClassId>pcxdjf</ClassId>
+  <Date>2005-01-29</Date>
+  <Time>08:40</Time>
+  <Locality>Araripe National Forest, Crato, Ceará State</Locality>
+  <Latitude>-7.2501</Latitude>
+  <Longitude>-39.5834</Longitude>
+  <Elevation>600</Elevation>
+  <Author>Ciro Albano</Author>
+  <AuthorID>MXVQPUKGWW</AuthorID>
+  <Content>song</Content>
+  <Comments />
+  <Quality>1</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Cotingidae</Family>
+  <Genus>Procnias</Genus>
+  <Species>averano</Species>
+  <Sub-species>averano</Sub-species>
+  <VernacularNames>Bearded Bellbird</VernacularNames>
+</Audio>

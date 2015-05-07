@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>7278</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN7278.wav</FileName>
+  <ClassId>fanvnq</ClassId>
+  <Date>2005-06-20</Date>
+  <Time>08:00</Time>
+  <Locality>Serra do Cipó, MG</Locality>
+  <Latitude>-19.3001</Latitude>
+  <Longitude>-43.5917</Longitude>
+  <Elevation>1500</Elevation>
+  <Author>Nick Athanas</Author>
+  <AuthorID>XRABICUARW</AuthorID>
+  <Content>call?</Content>
+  <Comments>img:http://www.antpitta.com/images/photos/tyrants/Plain-crested-Elaenia-guimar.jpg</Comments>
+  <Quality>2</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Tyrannidae</Family>
+  <Genus>Elaenia</Genus>
+  <Species>cristata</Species>
+  <Sub-species>cristata</Sub-species>
+  <VernacularNames>Plain-crested Elaenia</VernacularNames>
+</Audio>

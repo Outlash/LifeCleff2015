@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>23468</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN23468.wav</FileName>
+  <ClassId>gupfgh</ClassId>
+  <Date>2011-06-09</Date>
+  <Time>10:50</Time>
+  <Locality>Mitu, Vaupes</Locality>
+  <Latitude>1.2598</Latitude>
+  <Longitude>-70.2367</Longitude>
+  <Elevation>190</Elevation>
+  <Author>Andrew Spencer</Author>
+  <AuthorID>CDTGHVBGZP</AuthorID>
+  <Content>song</Content>
+  <Comments>natural vocalization, from a female bird in a large mixed flock.</Comments>
+  <Quality>1</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Thamnophilidae</Family>
+  <Genus>Thamnomanes</Genus>
+  <Species>caesius</Species>
+  <Sub-species>glaucus</Sub-species>
+  <VernacularNames>Cinereous Antshrike</VernacularNames>
+</Audio>

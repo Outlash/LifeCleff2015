@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>18308</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN18308.wav</FileName>
+  <ClassId>mnbfro</ClassId>
+  <Date>2007-12-16</Date>
+  <Time>06:10</Time>
+  <Locality>Parque Regional Barbas-Bremen, Filandia, Quindio. Sector Barbas</Locality>
+  <Latitude>4.6717</Latitude>
+  <Longitude>-75.6283</Longitude>
+  <Elevation>1900</Elevation>
+  <Author>Oscar Humberto Marin-Gomez</Author>
+  <AuthorID>CSUHASNRSU</AuthorID>
+  <Content>flight call</Content>
+  <Comments>Ref: OHM14B 1509bird-seen:noplayback-used:no</Comments>
+  <Quality>3</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Psittaciformes</Order>
+  <Family>Psittacidae</Family>
+  <Genus>Pionus</Genus>
+  <Species>seniloides</Species>
+  <Sub-species />
+  <VernacularNames>White-capped Parrot</VernacularNames>
+</Audio>

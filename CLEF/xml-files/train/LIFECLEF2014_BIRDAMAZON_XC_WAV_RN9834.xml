@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>9834</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN9834.wav</FileName>
+  <ClassId>dfegpk</ClassId>
+  <Date>2011-09-02</Date>
+  <Time>17:35</Time>
+  <Locality>Pantanal Wildlife Center, MT</Locality>
+  <Latitude>-16.7581</Latitude>
+  <Longitude>-56.8764</Longitude>
+  <Elevation>110</Elevation>
+  <Author>Eric DeFonso</Author>
+  <AuthorID>KTLCZCRCQX</AuthorID>
+  <Content>flight call</Content>
+  <Comments>Flight calls from a somewhat distant flock. Habitat is tropical deciduous woodland.bird-seen:yesplayback-used:no</Comments>
+  <Quality>3</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies>Leptotila verreauxi,Crypturellus undulatus</BackgroundSpecies>
+  <Order>Psittaciformes</Order>
+  <Family>Psittacidae</Family>
+  <Genus>Amazona</Genus>
+  <Species>aestiva</Species>
+  <Sub-species />
+  <VernacularNames>Turquoise-fronted Amazon</VernacularNames>
+</Audio>

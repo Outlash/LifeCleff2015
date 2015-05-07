@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>18018</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN18018.wav</FileName>
+  <ClassId>cnlalq</ClassId>
+  <Date>2013-03-18</Date>
+  <Time>?</Time>
+  <Locality>RNA Arrierito Anioqueño</Locality>
+  <Latitude>6.9851</Latitude>
+  <Longitude>-75.1116</Longitude>
+  <Elevation>1600</Elevation>
+  <Author>Hans Matheve</Author>
+  <AuthorID>VROUALCTKG</AuthorID>
+  <Content>call, song</Content>
+  <Comments>bird-seen:yes</Comments>
+  <Quality>0</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Thamnophilidae</Family>
+  <Genus>Cercomacra</Genus>
+  <Species>parkeri</Species>
+  <Sub-species />
+  <VernacularNames>Parker's Antbird</VernacularNames>
+</Audio>

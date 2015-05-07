@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>19912</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN19912.wav</FileName>
+  <ClassId>uvjypi</ClassId>
+  <Date>2007-11-03</Date>
+  <Time>06:40</Time>
+  <Locality>Parque Regional Barbas-Bremen, Filandia, Quindio</Locality>
+  <Latitude>4.6717</Latitude>
+  <Longitude>-75.6283</Longitude>
+  <Elevation>1800</Elevation>
+  <Author>Oscar H. Marín-Gómez</Author>
+  <AuthorID>CSUHASNRSU</AuthorID>
+  <Content>song</Content>
+  <Comments>Ref: Tape OHM000B 2300. One bird singing in secondary forest near to Bremen campament. Low Montane Forest. Distance to Mic: 20m. Natural vocalization.bird-seen:noplayback-used:no</Comments>
+  <Quality>2</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Turdidae</Family>
+  <Genus>Myadestes</Genus>
+  <Species>ralloides</Species>
+  <Sub-species />
+  <VernacularNames>Andean Solitaire</VernacularNames>
+</Audio>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>7649</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN7649.wav</FileName>
+  <ClassId>ekarsb</ClassId>
+  <Date>2011-11-28</Date>
+  <Time>07:00</Time>
+  <Locality>Flona do Tapajos, Santarem</Locality>
+  <Latitude>-3.036</Latitude>
+  <Longitude>-54.94</Longitude>
+  <Elevation>?</Elevation>
+  <Author>Alexander Lees</Author>
+  <AuthorID>INDDBZAFJL</AuthorID>
+  <Content>song</Content>
+  <Comments>primary forest (logged)</Comments>
+  <Quality>2</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies>Myrmotherula axillaris</BackgroundSpecies>
+  <Order>Passeriformes</Order>
+  <Family>Thamnophilidae</Family>
+  <Genus>Myrmoborus</Genus>
+  <Species>myotherinus</Species>
+  <Sub-species>ochrolaemus</Sub-species>
+  <VernacularNames>Black-faced Antbird</VernacularNames>
+</Audio>

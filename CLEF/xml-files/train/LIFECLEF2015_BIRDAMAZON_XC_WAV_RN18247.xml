@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>18247</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN18247.wav</FileName>
+  <ClassId>sogsbs</ClassId>
+  <Date>2012-07-12</Date>
+  <Time>14:43</Time>
+  <Locality>Eldorado, Mato Grosso do Sul state</Locality>
+  <Latitude>-23.8501</Latitude>
+  <Longitude>-54.2537</Longitude>
+  <Elevation>340</Elevation>
+  <Author>Joao Menezes</Author>
+  <AuthorID>BEYMZHZHIB</AuthorID>
+  <Content>flight call</Content>
+  <Comments />
+  <Quality>2</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Accipitriformes</Order>
+  <Family>Accipitridae</Family>
+  <Genus>Busarellus</Genus>
+  <Species>nigricollis</Species>
+  <Sub-species />
+  <VernacularNames>Black-collared Hawk</VernacularNames>
+</Audio>

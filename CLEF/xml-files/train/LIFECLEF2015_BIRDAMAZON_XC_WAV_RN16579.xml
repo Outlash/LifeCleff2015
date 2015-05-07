@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>16579</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN16579.wav</FileName>
+  <ClassId>yegkua</ClassId>
+  <Date>2006-01-07</Date>
+  <Time>7:37</Time>
+  <Locality>Otanche, Boyacá, Otanche, La Ye, Serranía de las Quinchas</Locality>
+  <Latitude>5.8167</Latitude>
+  <Longitude>-74.3001</Longitude>
+  <Elevation>1450</Elevation>
+  <Author>Oscar Laverde</Author>
+  <AuthorID>WKVKSVMNDZ</AuthorID>
+  <Content>song</Content>
+  <Comments />
+  <Quality>1</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Troglodytidae</Family>
+  <Genus>Pheugopedius</Genus>
+  <Species>spadix</Species>
+  <Sub-species />
+  <VernacularNames>Sooty-headed Wren</VernacularNames>
+</Audio>

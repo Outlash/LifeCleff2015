@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>18221</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN18221.wav</FileName>
+  <ClassId>rxaqum</ClassId>
+  <Date>2011-03-16</Date>
+  <Time>15:35</Time>
+  <Locality>Brownsberg</Locality>
+  <Latitude>4.9301</Latitude>
+  <Longitude>-55.2101</Longitude>
+  <Elevation>460</Elevation>
+  <Author>Daniel Lane</Author>
+  <AuthorID>WOEAFQRMUD</AuthorID>
+  <Content>song</Content>
+  <Comments>Probably natural song from unseen bird about 1m up in dense understory of humid terra firme forest. Different individual from previous cut.</Comments>
+  <Quality>2</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Grallariidae</Family>
+  <Genus>Myrmothera</Genus>
+  <Species>campanisona</Species>
+  <Sub-species />
+  <VernacularNames>Thrush-like Antpitta</VernacularNames>
+</Audio>

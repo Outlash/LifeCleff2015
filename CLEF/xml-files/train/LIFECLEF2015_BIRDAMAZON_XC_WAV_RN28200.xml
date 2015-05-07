@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>28200</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN28200.wav</FileName>
+  <ClassId>ggcbtt</ClassId>
+  <Date>2010-11-30</Date>
+  <Time>17:00</Time>
+  <Locality>Cafelândia, São Paulo</Locality>
+  <Latitude>-21.8625</Latitude>
+  <Longitude>-49.643</Longitude>
+  <Elevation>480</Elevation>
+  <Author>Fernando Igor de Godoy</Author>
+  <AuthorID>CHDHFSVVIN</AuthorID>
+  <Content>song</Content>
+  <Comments>FNJV 30240bird-seen:yesplayback-used:no</Comments>
+  <Quality>0</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Corvidae</Family>
+  <Genus>Cyanocorax</Genus>
+  <Species>chrysops</Species>
+  <Sub-species />
+  <VernacularNames>Plush-crested Jay</VernacularNames>
+</Audio>

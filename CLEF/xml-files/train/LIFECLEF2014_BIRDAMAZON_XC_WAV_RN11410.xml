@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>11410</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN11410.wav</FileName>
+  <ClassId>onkywx</ClassId>
+  <Date>2006-02-18</Date>
+  <Time>10:30</Time>
+  <Locality>Cristalino Jungle Lodge, MT</Locality>
+  <Latitude>-9.5981</Latitude>
+  <Longitude>-55.932</Longitude>
+  <Elevation>240</Elevation>
+  <Author>Nick Athanas</Author>
+  <AuthorID>XRABICUARW</AuthorID>
+  <Content>song</Content>
+  <Comments>Song from pair, male lower pitched</Comments>
+  <Quality>1</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies>Cercomacra cinerascens,Dixiphia rubrocapilla,Psarocolius bifasciatus</BackgroundSpecies>
+  <Order>Passeriformes</Order>
+  <Family>Thamnophilidae</Family>
+  <Genus>Cercomacra</Genus>
+  <Species>manu</Species>
+  <Sub-species />
+  <VernacularNames>Manu Antbird</VernacularNames>
+</Audio>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>23065</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN23065.wav</FileName>
+  <ClassId>pzlpoj</ClassId>
+  <Date>2011-10-01</Date>
+  <Time>?</Time>
+  <Locality>Maripasoula, Grand Inini</Locality>
+  <Latitude>NULL</Latitude>
+  <Longitude>NULL</Longitude>
+  <Elevation>90</Elevation>
+  <Author>Alexandre Renaudier</Author>
+  <AuthorID>GKADEITXTH</AuthorID>
+  <Content>Song</Content>
+  <Comments>In response to playback</Comments>
+  <Quality>1</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Furnariidae</Family>
+  <Genus>Xenops</Genus>
+  <Species>minutus</Species>
+  <Sub-species />
+  <VernacularNames>Plain Xenops</VernacularNames>
+</Audio>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>19175</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN19175.wav</FileName>
+  <ClassId>fcjizc</ClassId>
+  <Date>2009-06-09</Date>
+  <Time>10:30</Time>
+  <Locality>Paramo Belmira</Locality>
+  <Latitude>6.62</Latitude>
+  <Longitude>-75.638</Longitude>
+  <Elevation>2600</Elevation>
+  <Author>Pablo Florez</Author>
+  <AuthorID>ISWBQKPBGS</AuthorID>
+  <Content>?</Content>
+  <Comments />
+  <Quality>2</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Parulidae</Family>
+  <Genus>Myiothlypis</Genus>
+  <Species>coronata</Species>
+  <Sub-species />
+  <VernacularNames>Russet-crowned Warbler</VernacularNames>
+</Audio>

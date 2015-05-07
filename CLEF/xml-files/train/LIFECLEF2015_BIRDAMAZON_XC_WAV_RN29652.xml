@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>29652</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN29652.wav</FileName>
+  <ClassId>pazlce</ClassId>
+  <Date>2008-07-29</Date>
+  <Time>8:30</Time>
+  <Locality>Iwokrama Forest</Locality>
+  <Latitude>4.2448</Latitude>
+  <Longitude>-58.9056</Longitude>
+  <Elevation>80</Elevation>
+  <Author>Ken Allaire</Author>
+  <AuthorID>AEWPPXBBYE</AuthorID>
+  <Content>call</Content>
+  <Comments>My life bird.</Comments>
+  <Quality>0</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Tyrannidae</Family>
+  <Genus>Lophotriccus</Genus>
+  <Species>galeatus</Species>
+  <Sub-species />
+  <VernacularNames>Helmeted Pygmy Tyrant</VernacularNames>
+</Audio>

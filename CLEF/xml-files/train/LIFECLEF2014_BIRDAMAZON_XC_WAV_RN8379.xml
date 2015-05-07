@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>8379</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN8379.wav</FileName>
+  <ClassId>fdvjzj</ClassId>
+  <Date>2009-12-28</Date>
+  <Time>09:25</Time>
+  <Locality>Santa Vitória, MG</Locality>
+  <Latitude>-18.849</Latitude>
+  <Longitude>-50.12</Longitude>
+  <Elevation>?</Elevation>
+  <Author>Ricardo Gagliardi</Author>
+  <AuthorID>YRDADNREOP</AuthorID>
+  <Content>song</Content>
+  <Comments>regular song</Comments>
+  <Quality>2</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Cardinalidae</Family>
+  <Genus>Saltator</Genus>
+  <Species>atricollis</Species>
+  <Sub-species />
+  <VernacularNames>Black-throated Saltator</VernacularNames>
+</Audio>

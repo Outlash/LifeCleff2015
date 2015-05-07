@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>20922</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN20922.wav</FileName>
+  <ClassId>dcwqzi</ClassId>
+  <Date>2008-01-27</Date>
+  <Time>06:30</Time>
+  <Locality>Belo Monte, right bank of Rio Xingu, Pará</Locality>
+  <Latitude>-3.081209</Latitude>
+  <Longitude>-51.774101</Longitude>
+  <Elevation>70</Elevation>
+  <Author>Sidnei Dantas</Author>
+  <AuthorID>NNCKQMBGPH</AuthorID>
+  <Content>song</Content>
+  <Comments>land forest</Comments>
+  <Quality>4</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Tinamiformes</Order>
+  <Family>Tinamidae</Family>
+  <Genus>Tinamus</Genus>
+  <Species>guttatus</Species>
+  <Sub-species />
+  <VernacularNames>White-throated Tinamou</VernacularNames>
+</Audio>

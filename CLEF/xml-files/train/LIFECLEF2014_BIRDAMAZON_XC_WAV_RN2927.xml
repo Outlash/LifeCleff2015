@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>2927</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN2927.wav</FileName>
+  <ClassId>wkjlrj</ClassId>
+  <Date>2007-11-16</Date>
+  <Time>07:05</Time>
+  <Locality>Serra do Navio, AP</Locality>
+  <Latitude>0.8926</Latitude>
+  <Longitude>-52.056</Longitude>
+  <Elevation>140</Elevation>
+  <Author>Bradley Davis</Author>
+  <AuthorID>YNXJLOESBB</AuthorID>
+  <Content>call</Content>
+  <Comments />
+  <Quality>1</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies>Cercomacra tyrannina</BackgroundSpecies>
+  <Order>Passeriformes</Order>
+  <Family>Pipridae</Family>
+  <Genus>Manacus</Genus>
+  <Species>manacus</Species>
+  <Sub-species />
+  <VernacularNames>White-bearded Manakin</VernacularNames>
+</Audio>

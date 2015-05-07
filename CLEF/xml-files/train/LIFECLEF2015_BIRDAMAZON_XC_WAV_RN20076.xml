@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>20076</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN20076.wav</FileName>
+  <ClassId>anfvsy</ClassId>
+  <Date>2007-11-18</Date>
+  <Time>07:55</Time>
+  <Locality>Parque Regional Barbas-Bremen, Filandia, Quindio. Sector Barbas</Locality>
+  <Latitude>4.6717</Latitude>
+  <Longitude>-75.6283</Longitude>
+  <Elevation>1800</Elevation>
+  <Author>Oscar Humberto Marin-Gomez</Author>
+  <AuthorID>CSUHASNRSU</AuthorID>
+  <Content>song</Content>
+  <Comments>Ref: OHM007A 0928. Two birds in Canopy. Low Montane Forest. 30m distace to Mic. Natural Vocalization.bird-seen:yesplayback-used:no</Comments>
+  <Quality>3</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies>Arremon brunneinucha,Myadestes ralloides,Myiothlypis coronata,Cercomacra parkeri</BackgroundSpecies>
+  <Order>Psittaciformes</Order>
+  <Family>Psittacidae</Family>
+  <Genus>Psittacara</Genus>
+  <Species>wagleri</Species>
+  <Sub-species />
+  <VernacularNames>Scarlet-fronted Parakeet</VernacularNames>
+</Audio>

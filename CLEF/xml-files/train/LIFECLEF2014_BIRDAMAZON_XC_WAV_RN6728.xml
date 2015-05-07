@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>6728</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN6728.wav</FileName>
+  <ClassId>aiwvzm</ClassId>
+  <Date>2011-06-22</Date>
+  <Time>10:30</Time>
+  <Locality>Sao Jose dos Campos, state of Sao Paulo</Locality>
+  <Latitude>-23.0401</Latitude>
+  <Longitude>-46.0328</Longitude>
+  <Elevation>700</Elevation>
+  <Author>GABRIEL LEITE</Author>
+  <AuthorID>TGBFXDVERJ</AuthorID>
+  <Content>call, female, male</Content>
+  <Comments>bird-seen:yesplayback-used:yes</Comments>
+  <Quality>3</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Furnariidae</Family>
+  <Genus>Cranioleuca</Genus>
+  <Species>pallida</Species>
+  <Sub-species />
+  <VernacularNames>Pallid Spinetail</VernacularNames>
+</Audio>

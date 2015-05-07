@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>4821</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN4821.wav</FileName>
+  <ClassId>btsawy</ClassId>
+  <Date>2012-11-06</Date>
+  <Time>16:30</Time>
+  <Locality>Estrada do Portão, Parque Nacional do Viruá, Caracaraí, Roraima</Locality>
+  <Latitude>1.4851</Latitude>
+  <Longitude>-60.9921</Longitude>
+  <Elevation>90</Elevation>
+  <Author>Thiago Orsi Laranjeiras</Author>
+  <AuthorID>PMYLTPLTLT</AuthorID>
+  <Content>song</Content>
+  <Comments>bird-seen:yesplayback-used:yes</Comments>
+  <Quality>3</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies>Cacicus haemorrhous</BackgroundSpecies>
+  <Order>Passeriformes</Order>
+  <Family>Thamnophilidae</Family>
+  <Genus>Cercomacra</Genus>
+  <Species>cinerascens</Species>
+  <Sub-species>cinerascens</Sub-species>
+  <VernacularNames>Grey Antbird</VernacularNames>
+</Audio>

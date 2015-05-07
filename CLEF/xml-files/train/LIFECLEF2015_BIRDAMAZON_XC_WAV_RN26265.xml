@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>26265</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN26265.wav</FileName>
+  <ClassId>ibivsq</ClassId>
+  <Date>2007-02-02</Date>
+  <Time>06:28</Time>
+  <Locality>San Lorenzo Ridge</Locality>
+  <Latitude>11.1167</Latitude>
+  <Longitude>-74.0834</Longitude>
+  <Elevation>1950</Elevation>
+  <Author>Niels Krabbe</Author>
+  <AuthorID>XTVEPHMPPJ</AuthorID>
+  <Content>call, contact calls</Content>
+  <Comments>bird-seen:yesplayback-used:no</Comments>
+  <Quality>3</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies>Synallaxis fuscorufa,Xiphocolaptes promeropirhynchus,Geotrygon linearis</BackgroundSpecies>
+  <Order>Passeriformes</Order>
+  <Family>Emberizidae</Family>
+  <Genus>Atlapetes</Genus>
+  <Species>melanocephalus</Species>
+  <Sub-species />
+  <VernacularNames>Santa Marta Brush Finch</VernacularNames>
+</Audio>

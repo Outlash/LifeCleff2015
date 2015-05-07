@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>29533</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN29533.wav</FileName>
+  <ClassId>xkvxmc</ClassId>
+  <Date>2008-01-30</Date>
+  <Time>18:00</Time>
+  <Locality>Limon, Maracay, Aragua</Locality>
+  <Latitude>10.304</Latitude>
+  <Longitude>-67.633</Longitude>
+  <Elevation>540</Elevation>
+  <Author>Daniel Lane</Author>
+  <AuthorID>WOEAFQRMUD</AuthorID>
+  <Content>call</Content>
+  <Comments>Calls from a pair in response to playback of T. maculirostris song. Urban neighborhood. Dusk.</Comments>
+  <Quality>1</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Turdidae</Family>
+  <Genus>Turdus</Genus>
+  <Species>nudigenis</Species>
+  <Sub-species />
+  <VernacularNames>Spectacled Thrush</VernacularNames>
+</Audio>

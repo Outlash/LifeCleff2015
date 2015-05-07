@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>22255</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN22255.wav</FileName>
+  <ClassId>tnidef</ClassId>
+  <Date>2008-05-23</Date>
+  <Time>15:42</Time>
+  <Locality>RPPN Chácara Edith, Brusque, Santa Catarina</Locality>
+  <Latitude>-27.1017</Latitude>
+  <Longitude>-48.8887</Longitude>
+  <Elevation>53</Elevation>
+  <Author>Gregory Thom e Silva</Author>
+  <AuthorID>AOPMSCIDIA</AuthorID>
+  <Content>call, song</Content>
+  <Comments />
+  <Quality>0</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Tyrannidae</Family>
+  <Genus>Platyrinchus</Genus>
+  <Species>leucoryphus</Species>
+  <Sub-species />
+  <VernacularNames>Russet-winged Spadebill</VernacularNames>
+</Audio>

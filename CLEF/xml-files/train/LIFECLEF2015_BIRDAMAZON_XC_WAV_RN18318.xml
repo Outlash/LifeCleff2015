@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>18318</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN18318.wav</FileName>
+  <ClassId>plhrrz</ClassId>
+  <Date>2007-07-14</Date>
+  <Time>16:00</Time>
+  <Locality>Patrocínio, Minas Gerais state</Locality>
+  <Latitude>-18.94389</Latitude>
+  <Longitude>-46.9925</Longitude>
+  <Elevation>900</Elevation>
+  <Author>Robson Silva e Silva</Author>
+  <AuthorID>WZSVLIHYQF</AuthorID>
+  <Content>?</Content>
+  <Comments>a male near the nest</Comments>
+  <Quality>2</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Accipitriformes</Order>
+  <Family>Accipitridae</Family>
+  <Genus>Geranoaetus</Genus>
+  <Species>melanoleucus</Species>
+  <Sub-species />
+  <VernacularNames>Black-chested Buzzard-Eagle</VernacularNames>
+</Audio>

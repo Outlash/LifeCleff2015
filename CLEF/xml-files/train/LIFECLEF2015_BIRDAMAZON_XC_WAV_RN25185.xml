@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>25185</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN25185.wav</FileName>
+  <ClassId>zptkey</ClassId>
+  <Date>2012-07-24</Date>
+  <Time>10:22</Time>
+  <Locality>Apia, Reserva Forestal de AguaBonita (Risaralda)</Locality>
+  <Latitude>5.11</Latitude>
+  <Longitude>-75.94</Longitude>
+  <Elevation>1780</Elevation>
+  <Author>Oswaldo Cortes</Author>
+  <AuthorID>VVDRVZCVWW</AuthorID>
+  <Content>song</Content>
+  <Comments />
+  <Quality>3</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Tyrannidae</Family>
+  <Genus>Myiarchus</Genus>
+  <Species>tuberculifer</Species>
+  <Sub-species />
+  <VernacularNames>Dusky-capped Flycatcher</VernacularNames>
+</Audio>

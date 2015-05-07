@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>5703</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN5703.wav</FileName>
+  <ClassId>oublby</ClassId>
+  <Date>2003-06-22</Date>
+  <Time>10:30</Time>
+  <Locality>Ituguaçu, Altinho, Pernambuco</Locality>
+  <Latitude>-8.494317</Latitude>
+  <Longitude>-36.167078</Longitude>
+  <Elevation>460</Elevation>
+  <Author>Glauco Alves Pereira</Author>
+  <AuthorID>ZWEROGGYVP</AuthorID>
+  <Content>flight call</Content>
+  <Comments />
+  <Quality>2</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies />
+  <Order>Coraciiformes</Order>
+  <Family>Alcedinidae</Family>
+  <Genus>Megaceryle</Genus>
+  <Species>torquata</Species>
+  <Sub-species />
+  <VernacularNames>Ringed Kingfisher</VernacularNames>
+</Audio>

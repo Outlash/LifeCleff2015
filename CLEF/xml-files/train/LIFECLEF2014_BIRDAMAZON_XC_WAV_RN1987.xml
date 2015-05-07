@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>1987</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN1987.wav</FileName>
+  <ClassId>uwehqf</ClassId>
+  <Date>2010-07-23</Date>
+  <Time>10:50</Time>
+  <Locality>Presidente Figueiredo, Amazonas</Locality>
+  <Latitude>-2.028</Latitude>
+  <Longitude>-59.997</Longitude>
+  <Elevation>50</Elevation>
+  <Author>Marcos Melo</Author>
+  <AuthorID>MRGDYNJGUJ</AuthorID>
+  <Content>flight call</Content>
+  <Comments>6 indiv.</Comments>
+  <Quality>3</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies />
+  <Order>Piciformes</Order>
+  <Family>Ramphastidae</Family>
+  <Genus>Pteroglossus</Genus>
+  <Species>aracari</Species>
+  <Sub-species />
+  <VernacularNames>Black-necked Aracari</VernacularNames>
+</Audio>

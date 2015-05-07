@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>22604</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN22604.wav</FileName>
+  <ClassId>uaciky</ClassId>
+  <Date>2010-04-11</Date>
+  <Time>17:10</Time>
+  <Locality>NP Tatama, Pueblo Rico. Risaralda department.</Locality>
+  <Latitude>NULL</Latitude>
+  <Longitude>NULL</Longitude>
+  <Elevation>1490</Elevation>
+  <Author>Pablo Florez</Author>
+  <AuthorID>ISWBQKPBGS</AuthorID>
+  <Content>?</Content>
+  <Comments />
+  <Quality>3</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Rhinocryptidae</Family>
+  <Genus>Scytalopus</Genus>
+  <Species>sp.nov.Alto_Pisones</Species>
+  <Sub-species />
+  <VernacularNames>Alto Pisones' Tapaculo</VernacularNames>
+</Audio>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>10800</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN10800.wav</FileName>
+  <ClassId>cvyifz</ClassId>
+  <Date>1999-09-00</Date>
+  <Time>10am</Time>
+  <Locality>Estação Ecológica Juréia-Itatins, Peruíbe,São Paulo -SP</Locality>
+  <Latitude>-24.406</Latitude>
+  <Longitude>-47.067</Longitude>
+  <Elevation>10</Elevation>
+  <Author>Antonio Silveira</Author>
+  <AuthorID>NBJQSQJRYH</AuthorID>
+  <Content>song</Content>
+  <Comments />
+  <Quality>3</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Cardinalidae</Family>
+  <Genus>Habia</Genus>
+  <Species>rubica</Species>
+  <Sub-species />
+  <VernacularNames>Red-crowned Ant Tanager</VernacularNames>
+</Audio>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>28495</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN28495.wav</FileName>
+  <ClassId>kaivna</ClassId>
+  <Date>2001-08-19</Date>
+  <Time>?</Time>
+  <Locality>Reserva Bremen, Buenavista, Quindío</Locality>
+  <Latitude>4.341389</Latitude>
+  <Longitude>-75.73333</Longitude>
+  <Elevation>1750</Elevation>
+  <Author>Mauricio Álvarez Rebolledo (Colección de Sonidos Ambientales - Instituto Humboldt)</Author>
+  <AuthorID>XMFDPACYJN</AuthorID>
+  <Content>song</Content>
+  <Comments>BSA 7261To obtain a wav file of the original recording, please contact csa@humboldt.org.coplayback-used:no</Comments>
+  <Quality>3</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Galliformes</Order>
+  <Family>Odontophoridae</Family>
+  <Genus>Odontophorus</Genus>
+  <Species>hyperythrus</Species>
+  <Sub-species />
+  <VernacularNames>Chestnut Wood Quail</VernacularNames>
+</Audio>

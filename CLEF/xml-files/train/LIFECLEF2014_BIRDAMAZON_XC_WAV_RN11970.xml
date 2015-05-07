@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>11970</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN11970.wav</FileName>
+  <ClassId>muhjso</ClassId>
+  <Date>2010-01-20</Date>
+  <Time>?</Time>
+  <Locality>RPPN Prima Luna, Nova Trento, Santa Catarina</Locality>
+  <Latitude>-27.258</Latitude>
+  <Longitude>-49.02</Longitude>
+  <Elevation>500</Elevation>
+  <Author>Evair Legal</Author>
+  <AuthorID>SMJXFKLATM</AuthorID>
+  <Content>song</Content>
+  <Comments />
+  <Quality>1</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies>Carpornis cucullata,Vireo olivaceus</BackgroundSpecies>
+  <Order>Passeriformes</Order>
+  <Family>Tyrannidae</Family>
+  <Genus>Lathrotriccus</Genus>
+  <Species>euleri</Species>
+  <Sub-species />
+  <VernacularNames>Euler's Flycatcher</VernacularNames>
+</Audio>

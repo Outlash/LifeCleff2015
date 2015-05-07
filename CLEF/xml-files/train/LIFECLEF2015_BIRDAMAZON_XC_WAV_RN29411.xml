@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>29411</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN29411.wav</FileName>
+  <ClassId>busuhu</ClassId>
+  <Date>2011-06-12</Date>
+  <Time>08:00</Time>
+  <Locality>Trinidad, Casanare</Locality>
+  <Latitude>5.408</Latitude>
+  <Longitude>-71.672</Longitude>
+  <Elevation>300</Elevation>
+  <Author>Oswaldo Cortes</Author>
+  <AuthorID>VVDRVZCVWW</AuthorID>
+  <Content>song</Content>
+  <Comments />
+  <Quality>0</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Tyrannidae</Family>
+  <Genus>Atalotriccus</Genus>
+  <Species>pilaris</Species>
+  <Sub-species />
+  <VernacularNames>Pale-eyed Pygmy Tyrant</VernacularNames>
+</Audio>

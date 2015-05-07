@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>21348</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN21348.wav</FileName>
+  <ClassId>uvjypi</ClassId>
+  <Date>2000-10-01</Date>
+  <Time>06:30</Time>
+  <Locality>Bosque El Roble (Jardin Botanico de la Fundacion Universitaria de Popayan), Sachacoco, Timbio, Popayan, Cauca</Locality>
+  <Latitude>NULL</Latitude>
+  <Longitude>NULL</Longitude>
+  <Elevation>1900</Elevation>
+  <Author>Bernabe Lopez-Lanus</Author>
+  <AuthorID>BYLLSJRVDZ</AuthorID>
+  <Content>Song</Content>
+  <Comments />
+  <Quality>2</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Turdidae</Family>
+  <Genus>Myadestes</Genus>
+  <Species>ralloides</Species>
+  <Sub-species>plumbeiceps</Sub-species>
+  <VernacularNames>Andean Solitaire</VernacularNames>
+</Audio>

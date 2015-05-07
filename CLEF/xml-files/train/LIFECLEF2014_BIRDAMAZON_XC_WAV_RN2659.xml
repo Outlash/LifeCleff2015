@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>2659</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN2659.wav</FileName>
+  <ClassId>hctcgx</ClassId>
+  <Date>2001-01-15</Date>
+  <Time>08:00</Time>
+  <Locality>Reserva Natural da Vale - Linhares, Espirito Santo</Locality>
+  <Latitude>-19.1456</Latitude>
+  <Longitude>-40.0645</Longitude>
+  <Elevation>40</Elevation>
+  <Author>Jeremy Minns</Author>
+  <AuthorID>DGVLLRYDXS</AuthorID>
+  <Content>Alternative song</Content>
+  <Comments>Marsh in lowland forest. Male.</Comments>
+  <Quality>2</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies>Crotophaga major,Campylorhynchus turdinus,Saltator maximus</BackgroundSpecies>
+  <Order>Passeriformes</Order>
+  <Family>Parulidae</Family>
+  <Genus>Geothlypis</Genus>
+  <Species>velata</Species>
+  <Sub-species>velata</Sub-species>
+  <VernacularNames>Southern Yellowthroat</VernacularNames>
+</Audio>

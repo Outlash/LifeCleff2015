@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>17866</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN17866.wav</FileName>
+  <ClassId>oxhigs</ClassId>
+  <Date>2010-08-07</Date>
+  <Time>?</Time>
+  <Locality>awala-Yalimapo, digue</Locality>
+  <Latitude>5.73778</Latitude>
+  <Longitude>-53.945961</Longitude>
+  <Elevation>1</Elevation>
+  <Author>Alexandre Renaudier</Author>
+  <AuthorID>GKADEITXTH</AuthorID>
+  <Content>call</Content>
+  <Comments />
+  <Quality>1</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies>Saltator coerulescens</BackgroundSpecies>
+  <Order>Cuculiformes</Order>
+  <Family>Cuculidae</Family>
+  <Genus>Crotophaga</Genus>
+  <Species>ani</Species>
+  <Sub-species />
+  <VernacularNames>Smooth-billed Ani</VernacularNames>
+</Audio>

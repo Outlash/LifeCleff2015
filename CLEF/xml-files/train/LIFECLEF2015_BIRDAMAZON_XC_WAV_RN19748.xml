@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>19748</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN19748.wav</FileName>
+  <ClassId>nsmtcj</ClassId>
+  <Date>1999-04-30</Date>
+  <Time>07:45</Time>
+  <Locality>RPPN Serra Bonita, Camacan, BA</Locality>
+  <Latitude>-15.3851</Latitude>
+  <Longitude>-39.5709</Longitude>
+  <Elevation>650</Elevation>
+  <Author>Jeremy Minns</Author>
+  <AuthorID>DGVLLRYDXS</AuthorID>
+  <Content>Song</Content>
+  <Comments>Scrub on edge of secondary humid forest.  Two birds, joined by third. After playback.</Comments>
+  <Quality>2</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies>Thamnophilus palliatus,Tolmomyias flaviventris</BackgroundSpecies>
+  <Order>Piciformes</Order>
+  <Family>Picidae</Family>
+  <Genus>Veniliornis</Genus>
+  <Species>affinis</Species>
+  <Sub-species>affinis</Sub-species>
+  <VernacularNames>Red-stained Woodpecker</VernacularNames>
+</Audio>

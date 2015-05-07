@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>13554</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN13554.wav</FileName>
+  <ClassId>afzbzd</ClassId>
+  <Date>1999-12-20</Date>
+  <Time>09:19</Time>
+  <Locality>Mocambinho, MG</Locality>
+  <Latitude>-15.1334</Latitude>
+  <Longitude>-44.01</Longitude>
+  <Elevation>550</Elevation>
+  <Author>Jeremy Minns</Author>
+  <AuthorID>DGVLLRYDXS</AuthorID>
+  <Content>Simple and complex songs</Content>
+  <Comments>Two cuts of the natural song of a single bird, perched on a power line.</Comments>
+  <Quality>2</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies>Leptotila verreauxi,Eupsittula cactorum,Lepidocolaptes angustirostris,Turdus leucomelas,Saltator coerulescens</BackgroundSpecies>
+  <Order>Cuculiformes</Order>
+  <Family>Cuculidae</Family>
+  <Genus>Tapera</Genus>
+  <Species>naevia</Species>
+  <Sub-species>naevia</Sub-species>
+  <VernacularNames>Striped Cuckoo</VernacularNames>
+</Audio>

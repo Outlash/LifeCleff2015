@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>33071</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN33071.wav</FileName>
+  <ClassId>yyjrms</ClassId>
+  <Date>2003-05-25</Date>
+  <Time>Dawn</Time>
+  <Locality>Humedal Laguna del Neuta, Soacha, Cundinamarca</Locality>
+  <Latitude>NULL</Latitude>
+  <Longitude>NULL</Longitude>
+  <Elevation>2600</Elevation>
+  <Author>Bernabe Lopez-Lanus</Author>
+  <AuthorID>BYLLSJRVDZ</AuthorID>
+  <Content>Song</Content>
+  <Comments>Several birds</Comments>
+  <Quality>3</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Emberizidae</Family>
+  <Genus>Zonotrichia</Genus>
+  <Species>capensis</Species>
+  <Sub-species />
+  <VernacularNames>Rufous-collared Sparrow</VernacularNames>
+</Audio>

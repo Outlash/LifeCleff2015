@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>877</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN877.wav</FileName>
+  <ClassId>acvtjw</ClassId>
+  <Date>2000-12-01</Date>
+  <Time>09:41</Time>
+  <Locality>Serra do Navio, AP</Locality>
+  <Latitude>0.8926</Latitude>
+  <Longitude>-52.0559</Longitude>
+  <Elevation>125</Elevation>
+  <Author>Jeremy Minns</Author>
+  <AuthorID>DGVLLRYDXS</AuthorID>
+  <Content>Song</Content>
+  <Comments>Terra firme forest edge.</Comments>
+  <Quality>1</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies>Saltator grossus</BackgroundSpecies>
+  <Order>Passeriformes</Order>
+  <Family>Thamnophilidae</Family>
+  <Genus>Myrmotherula</Genus>
+  <Species>brachyura</Species>
+  <Sub-species />
+  <VernacularNames>Pygmy Antwren</VernacularNames>
+</Audio>

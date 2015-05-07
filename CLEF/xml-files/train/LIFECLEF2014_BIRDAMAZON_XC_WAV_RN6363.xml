@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>6363</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN6363.wav</FileName>
+  <ClassId>ktgebu</ClassId>
+  <Date>2010-03-25</Date>
+  <Time>12:30</Time>
+  <Locality>RPPN Prima Luna, Nova Trento, Santa Catarina</Locality>
+  <Latitude>-27.258</Latitude>
+  <Longitude>-49.02</Longitude>
+  <Elevation>900</Elevation>
+  <Author>Evair Legal</Author>
+  <AuthorID>SMJXFKLATM</AuthorID>
+  <Content>call</Content>
+  <Comments />
+  <Quality>3</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Formicariidae</Family>
+  <Genus>Chamaeza</Genus>
+  <Species>ruficauda</Species>
+  <Sub-species />
+  <VernacularNames>Rufous-tailed Antthrush</VernacularNames>
+</Audio>

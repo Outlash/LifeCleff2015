@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>21705</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN21705.wav</FileName>
+  <ClassId>ffvgyk</ClassId>
+  <Date>2000-02-19</Date>
+  <Time>13:30</Time>
+  <Locality>PN Sierra Nevada (La Mucuy), Merida</Locality>
+  <Latitude>NULL</Latitude>
+  <Longitude>NULL</Longitude>
+  <Elevation>2555</Elevation>
+  <Author>Bernabe Lopez-Lanus</Author>
+  <AuthorID>BYLLSJRVDZ</AuthorID>
+  <Content>Song</Content>
+  <Comments>One individual. Short song.</Comments>
+  <Quality>3</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Troglodytidae</Family>
+  <Genus>Henicorhina</Genus>
+  <Species>leucophrys</Species>
+  <Sub-species>meridana</Sub-species>
+  <VernacularNames>Grey-breasted Wood Wren</VernacularNames>
+</Audio>

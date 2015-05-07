@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>24898</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN24898.wav</FileName>
+  <ClassId>szaokc</ClassId>
+  <Date>2011-07-08</Date>
+  <Time>11:30</Time>
+  <Locality>Alto Alegre do Pindaré, Maranhao</Locality>
+  <Latitude>-3.6668</Latitude>
+  <Longitude>-45.8465</Longitude>
+  <Elevation>20</Elevation>
+  <Author>GABRIEL LEITE</Author>
+  <AuthorID>TGBFXDVERJ</AuthorID>
+  <Content>song</Content>
+  <Comments>bird-seen:yesplayback-used:yes</Comments>
+  <Quality>2</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Vireonidae</Family>
+  <Genus>Hylophilus</Genus>
+  <Species>pectoralis</Species>
+  <Sub-species />
+  <VernacularNames>Ashy-headed Greenlet</VernacularNames>
+</Audio>

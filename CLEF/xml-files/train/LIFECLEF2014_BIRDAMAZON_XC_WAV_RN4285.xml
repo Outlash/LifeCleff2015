@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>4285</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN4285.wav</FileName>
+  <ClassId>kipzod</ClassId>
+  <Date>2009-12-11</Date>
+  <Time>15:55</Time>
+  <Locality>Jaguariaíva - PR</Locality>
+  <Latitude>NULL</Latitude>
+  <Longitude>NULL</Longitude>
+  <Elevation>820</Elevation>
+  <Author>Leonardo R. Deconto e Marcelo A. V. Vallejos</Author>
+  <AuthorID>VPUQSZGRCI</AuthorID>
+  <Content>Call</Content>
+  <Comments />
+  <Quality>2</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Thraupidae</Family>
+  <Genus>Coryphaspiza</Genus>
+  <Species>melanotis</Species>
+  <Sub-species />
+  <VernacularNames>Black-masked Finch</VernacularNames>
+</Audio>

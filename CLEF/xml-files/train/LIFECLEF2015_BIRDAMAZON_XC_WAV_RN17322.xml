@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>17322</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN17322.wav</FileName>
+  <ClassId>mogrgi</ClassId>
+  <Date>2007-06-12</Date>
+  <Time>?:?</Time>
+  <Locality>RNA Arrierito Antioqueño, Anorí, Antioquia</Locality>
+  <Latitude>6.9862</Latitude>
+  <Longitude>-75.1251</Longitude>
+  <Elevation>1750</Elevation>
+  <Author>Frank Lambert</Author>
+  <AuthorID>YTUXOCTUEM</AuthorID>
+  <Content>song</Content>
+  <Comments>The reserve manager claimed this was Dusky Piha, but I don't think so. Compare XC4981</Comments>
+  <Quality>0</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Cotingidae</Family>
+  <Genus>Lipaugus</Genus>
+  <Species>weberi</Species>
+  <Sub-species />
+  <VernacularNames>Chestnut-capped Piha</VernacularNames>
+</Audio>

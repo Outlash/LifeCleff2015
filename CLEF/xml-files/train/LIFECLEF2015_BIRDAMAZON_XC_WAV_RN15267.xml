@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>15267</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN15267.wav</FileName>
+  <ClassId>glepph</ClassId>
+  <Date>2008-08-27</Date>
+  <Time>11:00</Time>
+  <Locality>Reserva Ecológica de Guapiaçu, RJ</Locality>
+  <Latitude>-22.5001</Latitude>
+  <Longitude>-42.7167</Longitude>
+  <Elevation>50</Elevation>
+  <Author>Ricardo Gagliardi</Author>
+  <AuthorID>YRDADNREOP</AuthorID>
+  <Content>flight call</Content>
+  <Comments>Closer cut</Comments>
+  <Quality>0</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies>Saltator fuliginosus</BackgroundSpecies>
+  <Order>Psittaciformes</Order>
+  <Family>Psittacidae</Family>
+  <Genus>Pionopsitta</Genus>
+  <Species>pileata</Species>
+  <Sub-species />
+  <VernacularNames>Pileated Parrot</VernacularNames>
+</Audio>

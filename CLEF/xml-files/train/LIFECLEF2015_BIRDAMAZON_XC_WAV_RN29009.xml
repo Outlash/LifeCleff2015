@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>29009</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN29009.wav</FileName>
+  <ClassId>ygcrlc</ClassId>
+  <Date>2012-02-15</Date>
+  <Time>07:03</Time>
+  <Locality>Reserva Natural Mesenia - Paramillo</Locality>
+  <Latitude>5.4828</Latitude>
+  <Longitude>-75.8959</Longitude>
+  <Elevation>2200</Elevation>
+  <Author>Oswaldo Cortes</Author>
+  <AuthorID>VVDRVZCVWW</AuthorID>
+  <Content>song</Content>
+  <Comments />
+  <Quality>3</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Troglodytidae</Family>
+  <Genus>Cyphorhinus</Genus>
+  <Species>thoracicus</Species>
+  <Sub-species />
+  <VernacularNames>Chestnut-breasted Wren</VernacularNames>
+</Audio>

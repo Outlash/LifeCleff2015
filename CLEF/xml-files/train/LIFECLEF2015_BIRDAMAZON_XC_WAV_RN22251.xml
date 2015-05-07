@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>22251</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN22251.wav</FileName>
+  <ClassId>yvjvsl</ClassId>
+  <Date>2005-07-27</Date>
+  <Time>10:00</Time>
+  <Locality>Cristalino Jungle Lodge, MT</Locality>
+  <Latitude>-9.5981</Latitude>
+  <Longitude>-55.932</Longitude>
+  <Elevation>?</Elevation>
+  <Author>Alexander Lees</Author>
+  <AuthorID>INDDBZAFJL</AuthorID>
+  <Content>flight call</Content>
+  <Comments>very loud!</Comments>
+  <Quality>3</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies>Ramphastos vitellinus</BackgroundSpecies>
+  <Order>Psittaciformes</Order>
+  <Family>Psittacidae</Family>
+  <Genus>Amazona</Genus>
+  <Species>kawalli</Species>
+  <Sub-species />
+  <VernacularNames>Kawall's Amazon</VernacularNames>
+</Audio>

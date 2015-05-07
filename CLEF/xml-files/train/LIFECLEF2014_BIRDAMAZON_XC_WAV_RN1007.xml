@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>1007</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN1007.wav</FileName>
+  <ClassId>tkfjdd</ClassId>
+  <Date>2009-10-23</Date>
+  <Time>06:00</Time>
+  <Locality>Almeirim/Pará</Locality>
+  <Latitude>-1.095</Latitude>
+  <Longitude>-52.653</Longitude>
+  <Elevation>80</Elevation>
+  <Author>Christian B. Andretti</Author>
+  <AuthorID>EZSMXGTXKS</AuthorID>
+  <Content>song</Content>
+  <Comments>bird-seen:yesplayback-used:no</Comments>
+  <Quality>1</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies>Nyctidromus albicollis</BackgroundSpecies>
+  <Order>Caprimulgiformes</Order>
+  <Family>Caprimulgidae</Family>
+  <Genus>Lurocalis</Genus>
+  <Species>semitorquatus</Species>
+  <Sub-species>semitorquatus</Sub-species>
+  <VernacularNames>Short-tailed Nighthawk</VernacularNames>
+</Audio>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>11354</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN11354.wav</FileName>
+  <ClassId>qwxjxm</ClassId>
+  <Date>2001-10-03</Date>
+  <Time>08:11</Time>
+  <Locality>Itanhaem. Chacaras Bopiranga</Locality>
+  <Latitude>-24.1834</Latitude>
+  <Longitude>-46.9001</Longitude>
+  <Elevation>10</Elevation>
+  <Author>Jeremy Minns</Author>
+  <AuthorID>DGVLLRYDXS</AuthorID>
+  <Content>Call</Content>
+  <Comments>Dense scrub on the edge of coastal white sand forest. This is Call A in our DVD-ROM 'Birds of Brazil'.</Comments>
+  <Quality>2</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies>Procnias nudicollis,Setophaga pitiayumi</BackgroundSpecies>
+  <Order>Passeriformes</Order>
+  <Family>Tyrannidae</Family>
+  <Genus>Cnemotriccus</Genus>
+  <Species>fuscatus</Species>
+  <Sub-species>fuscatus</Sub-species>
+  <VernacularNames>Fuscous Flycatcher</VernacularNames>
+</Audio>

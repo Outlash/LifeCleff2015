@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>25312</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN25312.wav</FileName>
+  <ClassId>cwhfyt</ClassId>
+  <Date>2007-05-28</Date>
+  <Time>09:07</Time>
+  <Locality>R. N. Rio Blanco, Caldas</Locality>
+  <Latitude>5.0834</Latitude>
+  <Longitude>-75.5001</Longitude>
+  <Elevation>2450</Elevation>
+  <Author>Bradley Davis</Author>
+  <AuthorID>YNXJLOESBB</AuthorID>
+  <Content>song</Content>
+  <Comments />
+  <Quality>2</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies>Cyclarhis nigrirostris</BackgroundSpecies>
+  <Order>Passeriformes</Order>
+  <Family>Vireonidae</Family>
+  <Genus>Vireo</Genus>
+  <Species>leucophrys</Species>
+  <Sub-species />
+  <VernacularNames>Brown-capped Vireo</VernacularNames>
+</Audio>

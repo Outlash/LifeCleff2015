@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>14620</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN14620.wav</FileName>
+  <ClassId>bqdjwn</ClassId>
+  <Date>2010-11-22</Date>
+  <Time>4:20</Time>
+  <Locality>Cuchilla San Lorenzo. Sierra Santa Marta</Locality>
+  <Latitude>11.11</Latitude>
+  <Longitude>-74.035</Longitude>
+  <Elevation>2200</Elevation>
+  <Author>Pablo Florez</Author>
+  <AuthorID>ISWBQKPBGS</AuthorID>
+  <Content>?</Content>
+  <Comments />
+  <Quality>2</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Trogoniformes</Order>
+  <Family>Trogonidae</Family>
+  <Genus>Pharomachrus</Genus>
+  <Species>fulgidus</Species>
+  <Sub-species />
+  <VernacularNames>White-tipped Quetzal</VernacularNames>
+</Audio>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>27737</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN27737.wav</FileName>
+  <ClassId>wyhvpw</ClassId>
+  <Date>2010-01-05</Date>
+  <Time>17:10</Time>
+  <Locality>Aguas da Prata, SP</Locality>
+  <Latitude>-21.932</Latitude>
+  <Longitude>-46.715</Longitude>
+  <Elevation>?</Elevation>
+  <Author>Marcos Melo</Author>
+  <AuthorID>MRGDYNJGUJ</AuthorID>
+  <Content>call</Content>
+  <Comments />
+  <Quality>2</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies>Turdus rufiventris,Zonotrichia capensis</BackgroundSpecies>
+  <Order>Psittaciformes</Order>
+  <Family>Psittacidae</Family>
+  <Genus>Aratinga</Genus>
+  <Species>auricapillus</Species>
+  <Sub-species>aurifrons</Sub-species>
+  <VernacularNames>Golden-capped Parakeet</VernacularNames>
+</Audio>

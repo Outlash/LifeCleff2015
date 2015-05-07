@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>29329</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN29329.wav</FileName>
+  <ClassId>ezprzx</ClassId>
+  <Date>2012-11-22</Date>
+  <Time>07:00</Time>
+  <Locality>Bahía Solano, Choco</Locality>
+  <Latitude>6.0539</Latitude>
+  <Longitude>-77.3528</Longitude>
+  <Elevation>70</Elevation>
+  <Author>Oswaldo Cortes</Author>
+  <AuthorID>VVDRVZCVWW</AuthorID>
+  <Content>song</Content>
+  <Comments>bird-seen:yesplayback-used:no</Comments>
+  <Quality>2</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Tinamiformes</Order>
+  <Family>Tinamidae</Family>
+  <Genus>Crypturellus</Genus>
+  <Species>soui</Species>
+  <Sub-species />
+  <VernacularNames>Little Tinamou</VernacularNames>
+</Audio>

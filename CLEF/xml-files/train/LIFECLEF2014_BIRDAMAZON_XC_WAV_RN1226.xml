@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>1226</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN1226.wav</FileName>
+  <ClassId>fofjao</ClassId>
+  <Date>2010-03-24</Date>
+  <Time>22:00</Time>
+  <Locality>Cristalina, Goi´´as - Córrego Cristal.</Locality>
+  <Latitude>NULL</Latitude>
+  <Longitude>NULL</Longitude>
+  <Elevation>990</Elevation>
+  <Author>Nunes D´Acosta</Author>
+  <AuthorID>OHHTDSDNBT</AuthorID>
+  <Content>song</Content>
+  <Comments>Vocalização  dos filhotes  durante disputa de um rato trazido por um  dos pais.</Comments>
+  <Quality>2</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies />
+  <Order>Strigiformes</Order>
+  <Family>Strigidae</Family>
+  <Genus>Asio</Genus>
+  <Species>flammeus</Species>
+  <Sub-species />
+  <VernacularNames>Short-eared Owl</VernacularNames>
+</Audio>

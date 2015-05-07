@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>7108</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN7108.wav</FileName>
+  <ClassId>vzrhzv</ClassId>
+  <Date>2004-08-11</Date>
+  <Time>11:23</Time>
+  <Locality>Borba, Amazonas</Locality>
+  <Latitude>-4.388175</Latitude>
+  <Longitude>-59.593406</Longitude>
+  <Elevation>30</Elevation>
+  <Author>Jeremy Minns</Author>
+  <AuthorID>DGVLLRYDXS</AuthorID>
+  <Content>Call</Content>
+  <Comments>Terra firme forest.</Comments>
+  <Quality>2</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Thamnophilidae</Family>
+  <Genus>Thamnophilus</Genus>
+  <Species>aethiops</Species>
+  <Sub-species>punctuliger</Sub-species>
+  <VernacularNames>White-shouldered Antshrike</VernacularNames>
+</Audio>

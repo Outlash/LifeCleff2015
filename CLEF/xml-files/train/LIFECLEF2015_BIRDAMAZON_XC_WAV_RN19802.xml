@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>19802</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN19802.wav</FileName>
+  <ClassId>uydzcv</ClassId>
+  <Date>1994-07-16</Date>
+  <Time>?</Time>
+  <Locality>Rio Grande, Sierra de Imataca, Bolivar</Locality>
+  <Latitude>8.1101</Latitude>
+  <Longitude>-61.6714</Longitude>
+  <Elevation>320</Elevation>
+  <Author>Allen T. Chartier</Author>
+  <AuthorID>AZXTZTQJRO</AuthorID>
+  <Content>Song</Content>
+  <Comments />
+  <Quality>3</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Tyrannidae</Family>
+  <Genus>Tolmomyias</Genus>
+  <Species>assimilis</Species>
+  <Sub-species>examinatus</Sub-species>
+  <VernacularNames>Zimmer's Flatbill</VernacularNames>
+</Audio>

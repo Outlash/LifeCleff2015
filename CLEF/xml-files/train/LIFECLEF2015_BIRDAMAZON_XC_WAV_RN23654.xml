@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>23654</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN23654.wav</FileName>
+  <ClassId>vcflij</ClassId>
+  <Date>2008-06-28</Date>
+  <Time>?:?</Time>
+  <Locality>Awala-Yalimapo, digue</Locality>
+  <Latitude>5.73778</Latitude>
+  <Longitude>-53.945961</Longitude>
+  <Elevation>2</Elevation>
+  <Author>Alexandre Renaudier</Author>
+  <AuthorID>GKADEITXTH</AuthorID>
+  <Content>alarm call</Content>
+  <Comments>natural recording</Comments>
+  <Quality>1</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies>Troglodytes aedon</BackgroundSpecies>
+  <Order>Gruiformes</Order>
+  <Family>Rallidae</Family>
+  <Genus>Laterallus</Genus>
+  <Species>viridis</Species>
+  <Sub-species>viridis</Sub-species>
+  <VernacularNames>Russet-crowned Crake</VernacularNames>
+</Audio>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>29763</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN29763.wav</FileName>
+  <ClassId>flxxiy</ClassId>
+  <Date>0000-00-00</Date>
+  <Time>00:00</Time>
+  <Locality>R. N. Rio Blanco, Caldas</Locality>
+  <Latitude>5.0834</Latitude>
+  <Longitude>-75.5001</Longitude>
+  <Elevation>2500</Elevation>
+  <Author>Todd Mark</Author>
+  <AuthorID>CLKPHLYUHA</AuthorID>
+  <Content>call</Content>
+  <Comments>link:http://www.birdlife.org/datazone/sites/index.html?action=SitHTMDetails.asp&amp;sid=14416&amp;m=0</Comments>
+  <Quality>1</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Psittaciformes</Order>
+  <Family>Psittacidae</Family>
+  <Genus>Leptosittaca</Genus>
+  <Species>branickii</Species>
+  <Sub-species />
+  <VernacularNames>Golden-plumed Parakeet</VernacularNames>
+</Audio>

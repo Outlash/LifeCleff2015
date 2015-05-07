@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>22338</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN22338.wav</FileName>
+  <ClassId>yugnvo</ClassId>
+  <Date>1991-02-07</Date>
+  <Time>?</Time>
+  <Locality>Chocó, Bahía Solano, PNN Ensenada de Utría, a ridge above Morro negro</Locality>
+  <Latitude>6.066667</Latitude>
+  <Longitude>-77.38333</Longitude>
+  <Elevation />
+  <Author>Gary Stiles (Colección de Sonidos Ambientales - Instituto Humboldt)</Author>
+  <AuthorID>XMFDPACYJN</AuthorID>
+  <Content>song</Content>
+  <Comments>BSA 10724To obtain a wav file of the original recording, please contact csa@humboldt.org.cobird-seen:noplayback-used:no</Comments>
+  <Quality>2</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Coraciiformes</Order>
+  <Family>Alcedinidae</Family>
+  <Genus>Chloroceryle</Genus>
+  <Species>americana</Species>
+  <Sub-species />
+  <VernacularNames>Green Kingfisher</VernacularNames>
+</Audio>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>30107</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN30107.wav</FileName>
+  <ClassId>jgbztp</ClassId>
+  <Date>2012-07-24</Date>
+  <Time>10:45</Time>
+  <Locality>Apia, Reserva Forestal de AguaBonita (Risaralda)</Locality>
+  <Latitude>5.11</Latitude>
+  <Longitude>-75.94</Longitude>
+  <Elevation>1780</Elevation>
+  <Author>Oswaldo Cortes</Author>
+  <AuthorID>VVDRVZCVWW</AuthorID>
+  <Content>song</Content>
+  <Comments />
+  <Quality>4</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Thraupidae</Family>
+  <Genus>Tiaris</Genus>
+  <Species>fuliginosus</Species>
+  <Sub-species />
+  <VernacularNames>Sooty Grassquit</VernacularNames>
+</Audio>

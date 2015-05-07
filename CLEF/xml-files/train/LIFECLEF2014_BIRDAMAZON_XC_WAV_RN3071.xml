@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>3071</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN3071.wav</FileName>
+  <ClassId>waknsi</ClassId>
+  <Date>2012-01-07</Date>
+  <Time>20:30</Time>
+  <Locality>Viçosa, Minas Gerais</Locality>
+  <Latitude>-20.8004</Latitude>
+  <Longitude>-42.8884</Longitude>
+  <Elevation>800</Elevation>
+  <Author>Noé Eiterer</Author>
+  <AuthorID>TWSKITNQOV</AuthorID>
+  <Content>song</Content>
+  <Comments>bird-seen:yesplayback-used:yes</Comments>
+  <Quality>2</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies />
+  <Order>Caprimulgiformes</Order>
+  <Family>Caprimulgidae</Family>
+  <Genus>Nyctidromus</Genus>
+  <Species>albicollis</Species>
+  <Sub-species />
+  <VernacularNames>Pauraque</VernacularNames>
+</Audio>

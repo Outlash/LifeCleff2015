@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>7393</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN7393.wav</FileName>
+  <ClassId>vrciyl</ClassId>
+  <Date>1998-01-11</Date>
+  <Time>08:52</Time>
+  <Locality>Ubatuba. Fazenda Cambucá</Locality>
+  <Latitude>-23.4001</Latitude>
+  <Longitude>-45.01</Longitude>
+  <Elevation>30</Elevation>
+  <Author>Jeremy Minns</Author>
+  <AuthorID>DGVLLRYDXS</AuthorID>
+  <Content>Song</Content>
+  <Comments>Pastureland. Two birds in tree beside river.</Comments>
+  <Quality>2</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies>Tapera naevia,Certhiaxis cinnamomeus</BackgroundSpecies>
+  <Order>Passeriformes</Order>
+  <Family>Donacobiidae</Family>
+  <Genus>Donacobius</Genus>
+  <Species>atricapilla</Species>
+  <Sub-species>atricapilla</Sub-species>
+  <VernacularNames>Black-capped Donacobius</VernacularNames>
+</Audio>

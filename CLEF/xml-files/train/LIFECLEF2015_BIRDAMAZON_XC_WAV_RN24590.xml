@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>24590</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN24590.wav</FileName>
+  <ClassId>xywqxu</ClassId>
+  <Date>0000-00-00</Date>
+  <Time>?</Time>
+  <Locality>Montaña de los Navas, Tolú, Sucre</Locality>
+  <Latitude>9.5775</Latitude>
+  <Longitude>-75.46111</Longitude>
+  <Elevation>40</Elevation>
+  <Author>Fernando Forero (Colección de Sonidos Ambientales - Instituto Humboldt)</Author>
+  <AuthorID>XMFDPACYJN</AuthorID>
+  <Content>call</Content>
+  <Comments>BSA 31628To obtain a wav file of the original recording, please contact csa@humboldt.org.coplayback-used:no</Comments>
+  <Quality>1</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Falconiformes</Order>
+  <Family>Falconidae</Family>
+  <Genus>Herpetotheres</Genus>
+  <Species>cachinnans</Species>
+  <Sub-species />
+  <VernacularNames>Laughing Falcon</VernacularNames>
+</Audio>

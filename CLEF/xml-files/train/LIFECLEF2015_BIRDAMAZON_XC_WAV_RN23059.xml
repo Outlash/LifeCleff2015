@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>23059</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN23059.wav</FileName>
+  <ClassId>uytsig</ClassId>
+  <Date>2009-02-09</Date>
+  <Time>06:30</Time>
+  <Locality>Limon, Maracay, Aragua</Locality>
+  <Latitude>10.304</Latitude>
+  <Longitude>-67.633</Longitude>
+  <Elevation>480</Elevation>
+  <Author>Fernand DEROUSSEN</Author>
+  <AuthorID>UXGZWVYDFE</AuthorID>
+  <Content>alarm call</Content>
+  <Comments>bird-seen:yesplayback-used:no</Comments>
+  <Quality>2</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Turdidae</Family>
+  <Genus>Turdus</Genus>
+  <Species>leucomelas</Species>
+  <Sub-species />
+  <VernacularNames>Pale-breasted Thrush</VernacularNames>
+</Audio>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>15047</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN15047.wav</FileName>
+  <ClassId>buacoa</ClassId>
+  <Date>2006-04-29</Date>
+  <Time>?:?</Time>
+  <Locality>Bakhuys mountains</Locality>
+  <Latitude>4.7301</Latitude>
+  <Longitude>-56.7701</Longitude>
+  <Elevation>?</Elevation>
+  <Author>Otte Ottema</Author>
+  <AuthorID>ASEUAUOXZA</AuthorID>
+  <Content>loudsong, duet</Content>
+  <Comments>duet, scores for third vocalisation</Comments>
+  <Quality>0</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Thamnophilidae</Family>
+  <Genus>Cercomacra</Genus>
+  <Species>tyrannina</Species>
+  <Sub-species />
+  <VernacularNames>Dusky Antbird</VernacularNames>
+</Audio>

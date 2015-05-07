@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>23397</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN23397.wav</FileName>
+  <ClassId>zufgrw</ClassId>
+  <Date>2011-08-10</Date>
+  <Time>10:20</Time>
+  <Locality>Cristalino Jungle Lodge, MT</Locality>
+  <Latitude>-9.5981</Latitude>
+  <Longitude>-55.932</Longitude>
+  <Elevation>200</Elevation>
+  <Author>Tayler Brooks</Author>
+  <AuthorID>ARFGONJCBJ</AuthorID>
+  <Content>song</Content>
+  <Comments>Natural vocalization. In dry hilltop forest. LOTS of mimicry with Red-billed Pied-Tanager and Yellow-bellied Dacnis its favorite subjects.</Comments>
+  <Quality>1</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Fringillidae</Family>
+  <Genus>Euphonia</Genus>
+  <Species>laniirostris</Species>
+  <Sub-species />
+  <VernacularNames>Thick-billed Euphonia</VernacularNames>
+</Audio>

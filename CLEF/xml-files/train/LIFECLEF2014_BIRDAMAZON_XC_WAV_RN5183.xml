@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>5183</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN5183.wav</FileName>
+  <ClassId>erszyt</ClassId>
+  <Date>2011-10-16</Date>
+  <Time>15:54</Time>
+  <Locality>Cristalino Jungle Lodge, MT</Locality>
+  <Latitude>-9.5981</Latitude>
+  <Longitude>-55.932</Longitude>
+  <Elevation>260</Elevation>
+  <Author>Eric DeFonso</Author>
+  <AuthorID>KTLCZCRCQX</AuthorID>
+  <Content>call</Content>
+  <Comments>Burry scolding call notes and sporadic whines. Score refers to the loudest notes recorded. Along the Caja trail, during a developing thunderstorm. Habitat is gallery/igapo forest.bird-seen:yesplayback-used:no</Comments>
+  <Quality>1</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Vireonidae</Family>
+  <Genus>Hylophilus</Genus>
+  <Species>semicinereus</Species>
+  <Sub-species />
+  <VernacularNames>Grey-chested Greenlet</VernacularNames>
+</Audio>

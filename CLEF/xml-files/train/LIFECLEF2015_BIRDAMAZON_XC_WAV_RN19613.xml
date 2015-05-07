@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>19613</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN19613.wav</FileName>
+  <ClassId>vllfph</ClassId>
+  <Date>2005-06-20</Date>
+  <Time>6:15</Time>
+  <Locality>PNN Chingaza, sector Palacio</Locality>
+  <Latitude>4.5167</Latitude>
+  <Longitude>-73.7501</Longitude>
+  <Elevation>?</Elevation>
+  <Author>Oscar Laverde</Author>
+  <AuthorID>WKVKSVMNDZ</AuthorID>
+  <Content>song</Content>
+  <Comments />
+  <Quality>3</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Grallariidae</Family>
+  <Genus>Grallaria</Genus>
+  <Species>squamigera</Species>
+  <Sub-species />
+  <VernacularNames>Undulated Antpitta</VernacularNames>
+</Audio>

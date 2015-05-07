@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>20790</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN20790.wav</FileName>
+  <ClassId>olrklp</ClassId>
+  <Date>2013-05-16</Date>
+  <Time>06:00</Time>
+  <Locality>Corralito, San Jeronimo, Cauca Valley, Antioquia</Locality>
+  <Latitude>6.4632</Latitude>
+  <Longitude>-75.7628</Longitude>
+  <Elevation>550</Elevation>
+  <Author>Diego Calderon-F.</Author>
+  <AuthorID>OGATBVKNAG</AuthorID>
+  <Content>Duet calls, call</Content>
+  <Comments>bird-seen:yesplayback-used:no</Comments>
+  <Quality>2</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies>Thamnophilus atrinucha,Cyanocorax affinis,Poecilotriccus sylvia,Xiphorhynchus susurrans</BackgroundSpecies>
+  <Order>Passeriformes</Order>
+  <Family>Troglodytidae</Family>
+  <Genus>Thryophilus</Genus>
+  <Species>sernai</Species>
+  <Sub-species />
+  <VernacularNames>Antioquia Wren</VernacularNames>
+</Audio>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>3184</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN3184.wav</FileName>
+  <ClassId>zxtbno</ClassId>
+  <Date>2010-10-30</Date>
+  <Time>6:25</Time>
+  <Locality>Belterra, PA- Bacia 261</Locality>
+  <Latitude>-3.371</Latitude>
+  <Longitude>-54.976</Longitude>
+  <Elevation>?</Elevation>
+  <Author>Christian Borges Andretti</Author>
+  <AuthorID>EZSMXGTXKS</AuthorID>
+  <Content>call</Content>
+  <Comments />
+  <Quality>2</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies>Pionus menstruus</BackgroundSpecies>
+  <Order>Passeriformes</Order>
+  <Family>Furnariidae</Family>
+  <Genus>Automolus</Genus>
+  <Species>paraensis</Species>
+  <Sub-species />
+  <VernacularNames>Para Foliage-gleaner</VernacularNames>
+</Audio>

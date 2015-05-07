@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>29620</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN29620.wav</FileName>
+  <ClassId>vqpvft</ClassId>
+  <Date>2002-06-09</Date>
+  <Time>xx:xx</Time>
+  <Locality>Finca El Emporio (represa), Villa de Leyva, Boyaca</Locality>
+  <Latitude>NULL</Latitude>
+  <Longitude>NULL</Longitude>
+  <Elevation>2000</Elevation>
+  <Author>Bernabe Lopez-Lanus</Author>
+  <AuthorID>BYLLSJRVDZ</AuthorID>
+  <Content>Song</Content>
+  <Comments />
+  <Quality>4</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Icteridae</Family>
+  <Genus>Sturnella</Genus>
+  <Species>magna</Species>
+  <Sub-species />
+  <VernacularNames>Eastern Meadowlark</VernacularNames>
+</Audio>

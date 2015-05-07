@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>16251</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN16251.wav</FileName>
+  <ClassId>runaut</ClassId>
+  <Date>0000-00-00</Date>
+  <Time>08:00</Time>
+  <Locality>San Luis de Gaceno_Cuchilla de San Agustin</Locality>
+  <Latitude>4.856</Latitude>
+  <Longitude>-73.187</Longitude>
+  <Elevation>1200</Elevation>
+  <Author>Oswaldo Cortes</Author>
+  <AuthorID>VVDRVZCVWW</AuthorID>
+  <Content>song</Content>
+  <Comments />
+  <Quality>2</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Furnariidae</Family>
+  <Genus>Synallaxis</Genus>
+  <Species>azarae</Species>
+  <Sub-species />
+  <VernacularNames>Azara's Spinetail</VernacularNames>
+</Audio>

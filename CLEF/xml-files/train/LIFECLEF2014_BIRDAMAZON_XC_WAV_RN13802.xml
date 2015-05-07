@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>13802</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN13802.wav</FileName>
+  <ClassId>cqbqgt</ClassId>
+  <Date>2006-01-30</Date>
+  <Time>08:30</Time>
+  <Locality>Ilha Marchantaria, south of Manaus</Locality>
+  <Latitude>-3.2251</Latitude>
+  <Longitude>-59.9317</Longitude>
+  <Elevation>20</Elevation>
+  <Author>Nick Athanas</Author>
+  <AuthorID>XRABICUARW</AuthorID>
+  <Content>song</Content>
+  <Comments>According to HBW it is still uncertain which ssp. occurs here.</Comments>
+  <Quality>2</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies>Attila spadiceus,Todirostrum maculatum</BackgroundSpecies>
+  <Order>Passeriformes</Order>
+  <Family>Furnariidae</Family>
+  <Genus>Dendroplex</Genus>
+  <Species>picus</Species>
+  <Sub-species />
+  <VernacularNames>Straight-billed Woodcreeper</VernacularNames>
+</Audio>

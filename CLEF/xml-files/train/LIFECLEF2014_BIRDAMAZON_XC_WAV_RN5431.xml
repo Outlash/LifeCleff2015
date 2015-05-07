@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>5431</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN5431.wav</FileName>
+  <ClassId>xyvbwf</ClassId>
+  <Date>2010-12-06</Date>
+  <Time>08:30</Time>
+  <Locality>Bacia 260, Santarem PA</Locality>
+  <Latitude>-3.0128</Latitude>
+  <Longitude>-54.8828</Longitude>
+  <Elevation>?</Elevation>
+  <Author>Alexander Lees</Author>
+  <AuthorID>INDDBZAFJL</AuthorID>
+  <Content>call</Content>
+  <Comments>secondary forest. single call.</Comments>
+  <Quality>2</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies>Leucopternis kuhli,Patagioenas plumbea,Thamnomanes caesius,Pheugopedius coraya</BackgroundSpecies>
+  <Order>Passeriformes</Order>
+  <Family>Thamnophilidae</Family>
+  <Genus>Microrhopias</Genus>
+  <Species>quixensis</Species>
+  <Sub-species>emiliae</Sub-species>
+  <VernacularNames>Dot-winged Antwren</VernacularNames>
+</Audio>

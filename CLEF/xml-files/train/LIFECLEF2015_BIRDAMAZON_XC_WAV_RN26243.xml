@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>26243</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN26243.wav</FileName>
+  <ClassId>ahuzrk</ClassId>
+  <Date>2013-01-10</Date>
+  <Time>11:30</Time>
+  <Locality>Reserva Natural La Montaña del Ocaso, Quimbaya, Quindío</Locality>
+  <Latitude>4.6197</Latitude>
+  <Longitude>-75.851</Longitude>
+  <Elevation>1000</Elevation>
+  <Author>Oscar H. Marín-Gómez</Author>
+  <AuthorID>CSUHASNRSU</AuthorID>
+  <Content>male, song</Content>
+  <Comments>Macho observado en arbustos al borde de carretera.bird-seen:yes</Comments>
+  <Quality>1</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Thamnophilidae</Family>
+  <Genus>Thamnophilus</Genus>
+  <Species>multistriatus</Species>
+  <Sub-species />
+  <VernacularNames>Bar-crested Antshrike</VernacularNames>
+</Audio>

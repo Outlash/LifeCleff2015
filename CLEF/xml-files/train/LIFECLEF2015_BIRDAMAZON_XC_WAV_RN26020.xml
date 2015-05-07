@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>26020</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN26020.wav</FileName>
+  <ClassId>yrrqto</ClassId>
+  <Date>2008-07-31</Date>
+  <Time>12:45</Time>
+  <Locality>Road to San Jose del Palmar, Serrania de las Paraguas, Choco</Locality>
+  <Latitude>4.8412</Latitude>
+  <Longitude>-76.2153</Longitude>
+  <Elevation>1780</Elevation>
+  <Author>Andrew Spencer</Author>
+  <AuthorID>CDTGHVBGZP</AuthorID>
+  <Content>song</Content>
+  <Comments>song from the male of a pair leading around an older juvenile: this song given from the top of a medium sized tree.  Contra the information in Restall (2006), I believe this vocalization to be the song, and the vocalization in XC 22117 to be the call.</Comments>
+  <Quality>1</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Thraupidae</Family>
+  <Genus>Bangsia</Genus>
+  <Species>aureocincta</Species>
+  <Sub-species />
+  <VernacularNames>Gold-ringed Tanager</VernacularNames>
+</Audio>

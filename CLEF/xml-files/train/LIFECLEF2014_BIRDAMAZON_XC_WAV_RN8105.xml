@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>8105</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN8105.wav</FileName>
+  <ClassId>ssjqni</ClassId>
+  <Date>2000-09-11</Date>
+  <Time>07:08</Time>
+  <Locality>Alta Floresta, Mato Grosso. Near Hotel Floresta Amazônica</Locality>
+  <Latitude>-8.385</Latitude>
+  <Longitude>-52.031</Longitude>
+  <Elevation>300</Elevation>
+  <Author>Jeremy Minns</Author>
+  <AuthorID>DGVLLRYDXS</AuthorID>
+  <Content>Song</Content>
+  <Comments>Várzea forest. After playback.</Comments>
+  <Quality>1</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies>Myrmeciza hemimelaena,Granatellus pelzelni</BackgroundSpecies>
+  <Order>Passeriformes</Order>
+  <Family>Thamnophilidae</Family>
+  <Genus>Myrmotherula</Genus>
+  <Species>axillaris</Species>
+  <Sub-species>axillaris</Sub-species>
+  <VernacularNames>White-flanked Antwren</VernacularNames>
+</Audio>

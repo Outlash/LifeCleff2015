@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>15777</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN15777.wav</FileName>
+  <ClassId>nlvpld</ClassId>
+  <Date>2007-05-19</Date>
+  <Time>??:??</Time>
+  <Locality>Ibague, Tolima</Locality>
+  <Latitude>4.43889</Latitude>
+  <Longitude>-75.23222</Longitude>
+  <Elevation>1950</Elevation>
+  <Author>Frank Lambert</Author>
+  <AuthorID>YTUXOCTUEM</AuthorID>
+  <Content>call</Content>
+  <Comments>just north of town</Comments>
+  <Quality>1</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Columbiformes</Order>
+  <Family>Columbidae</Family>
+  <Genus>Leptotila</Genus>
+  <Species>conoveri</Species>
+  <Sub-species />
+  <VernacularNames>Tolima Dove</VernacularNames>
+</Audio>

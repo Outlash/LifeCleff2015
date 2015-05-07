@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>6392</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN6392.wav</FileName>
+  <ClassId>aiigbg</ClassId>
+  <Date>2008-11-09</Date>
+  <Time>5:35</Time>
+  <Locality>Fazenda Boa Sorte, Murici, Alagoas.</Locality>
+  <Latitude>NULL</Latitude>
+  <Longitude>NULL</Longitude>
+  <Elevation>100</Elevation>
+  <Author>Guilherme S. T. de Lima</Author>
+  <AuthorID>CGOWAWUBWE</AuthorID>
+  <Content>song</Content>
+  <Comments />
+  <Quality>1</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Furnariidae</Family>
+  <Genus>Sittasomus</Genus>
+  <Species>griseicapillus</Species>
+  <Sub-species />
+  <VernacularNames>Olivaceous Woodcreeper</VernacularNames>
+</Audio>

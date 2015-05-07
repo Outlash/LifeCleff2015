@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>7385</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN7385.wav</FileName>
+  <ClassId>fuspfo</ClassId>
+  <Date>2011-08-31</Date>
+  <Time>09:20</Time>
+  <Locality>Pantanal Wildlife Center, MT</Locality>
+  <Latitude>-16.7581</Latitude>
+  <Longitude>-56.8764</Longitude>
+  <Elevation>110</Elevation>
+  <Author>Eric DeFonso</Author>
+  <AuthorID>KTLCZCRCQX</AuthorID>
+  <Content>song</Content>
+  <Comments>Singing from a tree near the lodge grounds.</Comments>
+  <Quality>2</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Icteridae</Family>
+  <Genus>Molothrus</Genus>
+  <Species>bonariensis</Species>
+  <Sub-species />
+  <VernacularNames>Shiny Cowbird</VernacularNames>
+</Audio>

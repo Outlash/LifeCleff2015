@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>29656</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN29656.wav</FileName>
+  <ClassId>xcmybb</ClassId>
+  <Date>2013-10-02</Date>
+  <Time>09:30</Time>
+  <Locality>La Macarena, Meta</Locality>
+  <Latitude>2.0529</Latitude>
+  <Longitude>-73.9476</Longitude>
+  <Elevation>280</Elevation>
+  <Author>Oswaldo Cortes</Author>
+  <AuthorID>VVDRVZCVWW</AuthorID>
+  <Content>song</Content>
+  <Comments>bird-seen:yesplayback-used:no</Comments>
+  <Quality>5</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Columbiformes</Order>
+  <Family>Columbidae</Family>
+  <Genus>Patagioenas</Genus>
+  <Species>cayennensis</Species>
+  <Sub-species />
+  <VernacularNames>Pale-vented Pigeon</VernacularNames>
+</Audio>

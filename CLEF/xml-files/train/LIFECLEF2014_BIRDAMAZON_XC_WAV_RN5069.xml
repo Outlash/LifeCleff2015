@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>5069</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN5069.wav</FileName>
+  <ClassId>jlumfv</ClassId>
+  <Date>2003-09-13</Date>
+  <Time>06:03</Time>
+  <Locality>Tiradentes, MG</Locality>
+  <Latitude>-21.1167</Latitude>
+  <Longitude>-44.1501</Longitude>
+  <Elevation>900</Elevation>
+  <Author>Jeremy Minns</Author>
+  <AuthorID>DGVLLRYDXS</AuthorID>
+  <Content>Call</Content>
+  <Comments>Trail up Serra de Sao Jose. Scrub. This is Call B in our DVD-ROM 'Birds of Brazil'.</Comments>
+  <Quality>1</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies>Thamnophilus caerulescens,Synallaxis spixi,Lochmias nematura,Saltator similis,Zonotrichia capensis</BackgroundSpecies>
+  <Order>Passeriformes</Order>
+  <Family>Tyrannidae</Family>
+  <Genus>Elaenia</Genus>
+  <Species>obscura</Species>
+  <Sub-species>sordida</Sub-species>
+  <VernacularNames>Highland Elaenia</VernacularNames>
+</Audio>

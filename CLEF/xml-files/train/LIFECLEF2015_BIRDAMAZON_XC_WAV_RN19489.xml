@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>19489</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN19489.wav</FileName>
+  <ClassId>yxenbt</ClassId>
+  <Date>2011-01-23</Date>
+  <Time>06:28</Time>
+  <Locality>Tapajos National Forest, Bacia 363, Santarem</Locality>
+  <Latitude>-3.294</Latitude>
+  <Longitude>-54.998</Longitude>
+  <Elevation>100</Elevation>
+  <Author>Alexander Lees</Author>
+  <AuthorID>INDDBZAFJL</AuthorID>
+  <Content>song</Content>
+  <Comments>distant, nearly drowned out by anurans. in primary forest (selectively logged)</Comments>
+  <Quality>3</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies>Hylexetastes uniformis,Hylopezus macularius</BackgroundSpecies>
+  <Order>Tinamiformes</Order>
+  <Family>Tinamidae</Family>
+  <Genus>Crypturellus</Genus>
+  <Species>variegatus</Species>
+  <Sub-species />
+  <VernacularNames>Variegated Tinamou</VernacularNames>
+</Audio>

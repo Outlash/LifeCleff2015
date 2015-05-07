@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>22811</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN22811.wav</FileName>
+  <ClassId>armfvy</ClassId>
+  <Date>2010-09-11</Date>
+  <Time>?</Time>
+  <Locality>Awala-Yalimapo, digue</Locality>
+  <Latitude>5.73778</Latitude>
+  <Longitude>-53.945961</Longitude>
+  <Elevation>2</Elevation>
+  <Author>Alexandre Renaudier</Author>
+  <AuthorID>GKADEITXTH</AuthorID>
+  <Content>excited calls and song</Content>
+  <Comments />
+  <Quality>1</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies>Leptotila verreauxi,Hylophilus pectoralis</BackgroundSpecies>
+  <Order>Passeriformes</Order>
+  <Family>Tyrannidae</Family>
+  <Genus>Camptostoma</Genus>
+  <Species>obsoletum</Species>
+  <Sub-species />
+  <VernacularNames>Southern Beardless Tyrannulet</VernacularNames>
+</Audio>

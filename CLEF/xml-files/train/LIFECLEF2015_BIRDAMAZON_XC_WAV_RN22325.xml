@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>22325</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN22325.wav</FileName>
+  <ClassId>wvxyjw</ClassId>
+  <Date>2008-11-27</Date>
+  <Time>07:58</Time>
+  <Locality>Bosque de San Antonio, Municipio Cali, Valle del Cauca</Locality>
+  <Latitude>NULL</Latitude>
+  <Longitude>NULL</Longitude>
+  <Elevation>2160</Elevation>
+  <Author>Carolina Montealegre</Author>
+  <AuthorID>FSYQBUZRLN</AuthorID>
+  <Content>call, song</Content>
+  <Comments />
+  <Quality>3</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Fringillidae</Family>
+  <Genus>Euphonia</Genus>
+  <Species>xanthogaster</Species>
+  <Sub-species />
+  <VernacularNames>Orange-bellied Euphonia</VernacularNames>
+</Audio>

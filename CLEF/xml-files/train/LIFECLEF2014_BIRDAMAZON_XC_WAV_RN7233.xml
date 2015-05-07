@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>7233</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN7233.wav</FileName>
+  <ClassId>bhxqpi</ClassId>
+  <Date>1998-12-07</Date>
+  <Time>16:01</Time>
+  <Locality>Itatiaia National Park - Agulhas Negras road</Locality>
+  <Latitude>-22.3667</Latitude>
+  <Longitude>-44.7334</Longitude>
+  <Elevation>1750</Elevation>
+  <Author>Rolf A. de By</Author>
+  <AuthorID>PTYTXQRLSZ</AuthorID>
+  <Content>call</Content>
+  <Comments>from a male</Comments>
+  <Quality>4</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Thamnophilidae</Family>
+  <Genus>Myrmeciza</Genus>
+  <Species>loricata</Species>
+  <Sub-species />
+  <VernacularNames>White-bibbed Antbird</VernacularNames>
+</Audio>

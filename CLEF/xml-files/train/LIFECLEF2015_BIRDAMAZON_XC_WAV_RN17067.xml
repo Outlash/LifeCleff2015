@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>17067</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN17067.wav</FileName>
+  <ClassId>mgeafu</ClassId>
+  <Date>2000-07-27</Date>
+  <Time>13:30</Time>
+  <Locality>Boqueron (rio Sumapaz), Cundinamarca</Locality>
+  <Latitude>NULL</Latitude>
+  <Longitude>NULL</Longitude>
+  <Elevation>?</Elevation>
+  <Author>Bernabe Lopez-Lanus</Author>
+  <AuthorID>BYLLSJRVDZ</AuthorID>
+  <Content>Call</Content>
+  <Comments>Female plumage</Comments>
+  <Quality>1</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Fringillidae</Family>
+  <Genus>Euphonia</Genus>
+  <Species>concinna</Species>
+  <Sub-species />
+  <VernacularNames>Velvet-fronted Euphonia</VernacularNames>
+</Audio>

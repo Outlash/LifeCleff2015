@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>745</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN745.wav</FileName>
+  <ClassId>tpwgoq</ClassId>
+  <Date>2011-06-08</Date>
+  <Time>10:40</Time>
+  <Locality>Parque Nacional Chapada dos Guimarães, Mato Grosso state</Locality>
+  <Latitude>NULL</Latitude>
+  <Longitude>NULL</Longitude>
+  <Elevation>?</Elevation>
+  <Author>Marcos  Melo</Author>
+  <AuthorID>MRGDYNJGUJ</AuthorID>
+  <Content>song</Content>
+  <Comments />
+  <Quality>2</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies>Saltator atricollis</BackgroundSpecies>
+  <Order>Passeriformes</Order>
+  <Family>Icteridae</Family>
+  <Genus>Gnorimopsar</Genus>
+  <Species>chopi</Species>
+  <Sub-species />
+  <VernacularNames>Chopi Blackbird</VernacularNames>
+</Audio>

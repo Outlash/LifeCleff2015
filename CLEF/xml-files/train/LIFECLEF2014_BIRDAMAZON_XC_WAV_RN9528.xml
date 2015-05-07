@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>9528</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN9528.wav</FileName>
+  <ClassId>enwiay</ClassId>
+  <Date>2007-09-01</Date>
+  <Time>09:00</Time>
+  <Locality>Fazenda Montanhas do Japí,Serra do Japí,Jundiai,São Paulo State</Locality>
+  <Latitude>-23.245</Latitude>
+  <Longitude>-46.912</Longitude>
+  <Elevation>900</Elevation>
+  <Author>Antonio Silveira</Author>
+  <AuthorID>NBJQSQJRYH</AuthorID>
+  <Content>male, song</Content>
+  <Comments>bird-seen:yesplayback-used:no</Comments>
+  <Quality>3</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies />
+  <Order>Tinamiformes</Order>
+  <Family>Tinamidae</Family>
+  <Genus>Crypturellus</Genus>
+  <Species>tataupa</Species>
+  <Sub-species />
+  <VernacularNames>Tataupa Tinamou</VernacularNames>
+</Audio>

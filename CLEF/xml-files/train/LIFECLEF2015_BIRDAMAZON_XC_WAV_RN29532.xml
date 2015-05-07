@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>29532</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN29532.wav</FileName>
+  <ClassId>oxhigs</ClassId>
+  <Date>2007-03-00</Date>
+  <Time>?:?</Time>
+  <Locality>Altamira Edo Barinas</Locality>
+  <Latitude>8.821126</Latitude>
+  <Longitude>-70.501328</Longitude>
+  <Elevation>850</Elevation>
+  <Author>Joe Klaiber</Author>
+  <AuthorID>TNPOVFLZMY</AuthorID>
+  <Content>song</Content>
+  <Comments>link:http://www.birds-venezuela.de</Comments>
+  <Quality>3</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Cuculiformes</Order>
+  <Family>Cuculidae</Family>
+  <Genus>Crotophaga</Genus>
+  <Species>ani</Species>
+  <Sub-species />
+  <VernacularNames>Smooth-billed Ani</VernacularNames>
+</Audio>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>17199</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN17199.wav</FileName>
+  <ClassId>rirjnh</ClassId>
+  <Date>2014-06-24</Date>
+  <Time>09:30</Time>
+  <Locality>Libano, Tolima</Locality>
+  <Latitude>4.9097</Latitude>
+  <Longitude>-75.0791</Longitude>
+  <Elevation>1800</Elevation>
+  <Author>Jeisson Poveda</Author>
+  <AuthorID>CVJNYXJFAW</AuthorID>
+  <Content>song</Content>
+  <Comments>bird-seen:yesplayback-used:no</Comments>
+  <Quality>2</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies>Thamnophilus multistriatus,Vireo leucophrys,Tangara gyrola</BackgroundSpecies>
+  <Order>Passeriformes</Order>
+  <Family>Cardinalidae</Family>
+  <Genus>Saltator</Genus>
+  <Species>atripennis</Species>
+  <Sub-species />
+  <VernacularNames>Black-winged Saltator</VernacularNames>
+</Audio>

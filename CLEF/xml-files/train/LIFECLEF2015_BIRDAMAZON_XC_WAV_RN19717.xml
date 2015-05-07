@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>19717</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN19717.wav</FileName>
+  <ClassId>rxaqum</ClassId>
+  <Date>2011-06-10</Date>
+  <Time>10:40</Time>
+  <Locality>Mitu, Vaupes</Locality>
+  <Latitude>1.2598</Latitude>
+  <Longitude>-70.2367</Longitude>
+  <Elevation>190</Elevation>
+  <Author>Andrew Spencer</Author>
+  <AuthorID>CDTGHVBGZP</AuthorID>
+  <Content>call</Content>
+  <Comments>natural vocalization, calls from a bird on the ground in a dense tangle.</Comments>
+  <Quality>1</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Grallariidae</Family>
+  <Genus>Myrmothera</Genus>
+  <Species>campanisona</Species>
+  <Sub-species>dissors</Sub-species>
+  <VernacularNames>Thrush-like Antpitta</VernacularNames>
+</Audio>

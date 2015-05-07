@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>13411</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN13411.wav</FileName>
+  <ClassId>moggkf</ClassId>
+  <Date>2004-03-21</Date>
+  <Time>07:04</Time>
+  <Locality>Estação Ecológica de Murici, Alagoas</Locality>
+  <Latitude>-9.3001</Latitude>
+  <Longitude>-35.9334</Longitude>
+  <Elevation>550</Elevation>
+  <Author>Jeremy Minns</Author>
+  <AuthorID>DGVLLRYDXS</AuthorID>
+  <Content>call, song</Content>
+  <Comments>Humid forest. Song by male followed by loud calls by female and one or two quiet calls by male. This is Call A in our DVD-ROM 'Birds of Brazil'.</Comments>
+  <Quality>1</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies>Patagioenas speciosa,Herpsilochmus rufimarginatus,Lipaugus vociferans,Ramphocaenus melanurus</BackgroundSpecies>
+  <Order>Passeriformes</Order>
+  <Family>Thamnophilidae</Family>
+  <Genus>Myrmotherula</Genus>
+  <Species>luctuosa</Species>
+  <Sub-species />
+  <VernacularNames>Silvery-flanked Antwren</VernacularNames>
+</Audio>

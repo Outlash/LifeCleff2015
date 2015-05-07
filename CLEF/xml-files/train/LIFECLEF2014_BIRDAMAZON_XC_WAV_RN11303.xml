@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>11303</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN11303.wav</FileName>
+  <ClassId>xunfjj</ClassId>
+  <Date>2012-05-15</Date>
+  <Time>17:37</Time>
+  <Locality>Lençóis, Bahia</Locality>
+  <Latitude>-12.5517</Latitude>
+  <Longitude>-41.3984</Longitude>
+  <Elevation>600</Elevation>
+  <Author>Marcus Braun</Author>
+  <AuthorID>EICLYDGEKS</AuthorID>
+  <Content>call</Content>
+  <Comments>Close to town.bird-seen:noplayback-used:no</Comments>
+  <Quality>4</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Turdidae</Family>
+  <Genus>Turdus</Genus>
+  <Species>rufiventris</Species>
+  <Sub-species />
+  <VernacularNames>Rufous-bellied Thrush</VernacularNames>
+</Audio>

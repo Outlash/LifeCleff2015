@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>13843</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN13843.wav</FileName>
+  <ClassId>xiyuxl</ClassId>
+  <Date>2008-08-26</Date>
+  <Time>am</Time>
+  <Locality>Fazenda Cerro das Flores, Bocaiúva do Sul, PR</Locality>
+  <Latitude>NULL</Latitude>
+  <Longitude>NULL</Longitude>
+  <Elevation>?</Elevation>
+  <Author>Eduardo Patrial</Author>
+  <AuthorID>QEFRRVCRRP</AuthorID>
+  <Content>call</Content>
+  <Comments />
+  <Quality>1</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Furnariidae</Family>
+  <Genus>Syndactyla</Genus>
+  <Species>rufosuperciliata</Species>
+  <Sub-species />
+  <VernacularNames>Buff-browed Foliage-gleaner</VernacularNames>
+</Audio>

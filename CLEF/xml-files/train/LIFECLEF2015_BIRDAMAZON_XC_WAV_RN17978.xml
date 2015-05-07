@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>17978</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN17978.wav</FileName>
+  <ClassId>kqjbfy</ClassId>
+  <Date>2009-12-30</Date>
+  <Time>18:10</Time>
+  <Locality>Fazenda Rancho Grande, Rondonia</Locality>
+  <Latitude>-10.3167</Latitude>
+  <Longitude>-62.8667</Longitude>
+  <Elevation>?</Elevation>
+  <Author>Luiz Gabriel Mazzoni</Author>
+  <AuthorID>MPOKMOFDDX</AuthorID>
+  <Content>duet, song</Content>
+  <Comments>At the end Duet Song. After playback.</Comments>
+  <Quality>1</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Tyrannidae</Family>
+  <Genus>Tyrannopsis</Genus>
+  <Species>sulphurea</Species>
+  <Sub-species />
+  <VernacularNames>Sulphury Flycatcher</VernacularNames>
+</Audio>

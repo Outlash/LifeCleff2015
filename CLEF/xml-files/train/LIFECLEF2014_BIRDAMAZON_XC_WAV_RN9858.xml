@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>9858</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN9858.wav</FileName>
+  <ClassId>mwbtii</ClassId>
+  <Date>2005-05-20</Date>
+  <Time>10:30</Time>
+  <Locality>Parque Estadual Intervales, SP</Locality>
+  <Latitude>-24.2759</Latitude>
+  <Longitude>-48.4181</Longitude>
+  <Elevation>850</Elevation>
+  <Author>Nick Athanas</Author>
+  <AuthorID>XRABICUARW</AuthorID>
+  <Content>song</Content>
+  <Comments>Song from at least two individuals.</Comments>
+  <Quality>2</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies>Mackenziaena severa,Melanerpes flavifrons,Drymophila ferruginea</BackgroundSpecies>
+  <Order>Passeriformes</Order>
+  <Family>Furnariidae</Family>
+  <Genus>Philydor</Genus>
+  <Species>rufum</Species>
+  <Sub-species>rufum</Sub-species>
+  <VernacularNames>Buff-fronted Foliage-gleaner</VernacularNames>
+</Audio>

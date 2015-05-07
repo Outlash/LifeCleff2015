@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>11946</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN11946.wav</FileName>
+  <ClassId>ynqtrh</ClassId>
+  <Date>2011-08-12</Date>
+  <Time>12:00</Time>
+  <Locality>Microregion of Caraguatatuba, São Paulo</Locality>
+  <Latitude>-23.5428</Latitude>
+  <Longitude>-45.2969</Longitude>
+  <Elevation>50</Elevation>
+  <Author>Rodrigo Dela Rosa de Souza</Author>
+  <AuthorID>VGXDJMKETZ</AuthorID>
+  <Content>female, male, song</Content>
+  <Comments>bird-seen:yesplayback-used:yes</Comments>
+  <Quality>3</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Thraupidae</Family>
+  <Genus>Orthogonys</Genus>
+  <Species>chloricterus</Species>
+  <Sub-species />
+  <VernacularNames>Olive-green Tanager</VernacularNames>
+</Audio>

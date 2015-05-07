@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>11547</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN11547.wav</FileName>
+  <ClassId>fdggbs</ClassId>
+  <Date>2002-06-11</Date>
+  <Time>08:30</Time>
+  <Locality>Ubatuba, SP. Folha Seca.</Locality>
+  <Latitude>-23.5001</Latitude>
+  <Longitude>-45.2167</Longitude>
+  <Elevation>30</Elevation>
+  <Author>Jeremy Minns</Author>
+  <AuthorID>DGVLLRYDXS</AuthorID>
+  <Content>Song</Content>
+  <Comments />
+  <Quality>1</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies>Dysithamnus mentalis,Ramphodon naevius,Drymophila ferruginea,Formicarius colma,Habia rubica</BackgroundSpecies>
+  <Order>Passeriformes</Order>
+  <Family>Thamnophilidae</Family>
+  <Genus>Dysithamnus</Genus>
+  <Species>stictothorax</Species>
+  <Sub-species />
+  <VernacularNames>Spot-breasted Antvireo</VernacularNames>
+</Audio>

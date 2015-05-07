@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>11309</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN11309.wav</FileName>
+  <ClassId>cqbqgt</ClassId>
+  <Date>2007-01-30</Date>
+  <Time>05:40</Time>
+  <Locality>Iranduba, Amazonas</Locality>
+  <Latitude>-3.206333</Latitude>
+  <Longitude>-60.178299</Longitude>
+  <Elevation>?</Elevation>
+  <Author>Thiago Vernaschi V. Costa</Author>
+  <AuthorID>FPHQAPNAFU</AuthorID>
+  <Content>song</Content>
+  <Comments />
+  <Quality>5</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Furnariidae</Family>
+  <Genus>Dendroplex</Genus>
+  <Species>picus</Species>
+  <Sub-species>picus</Sub-species>
+  <VernacularNames>Straight-billed Woodcreeper</VernacularNames>
+</Audio>

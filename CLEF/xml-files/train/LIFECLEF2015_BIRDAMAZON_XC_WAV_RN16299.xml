@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>16299</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN16299.wav</FileName>
+  <ClassId>wkjlrj</ClassId>
+  <Date>2014-01-10</Date>
+  <Time>07:00</Time>
+  <Locality>Hotel Donati, Itatiaia NP, Rio de Janeiro state</Locality>
+  <Latitude>-22.4334</Latitude>
+  <Longitude>-44.6334</Longitude>
+  <Elevation>950</Elevation>
+  <Author>Antonio Silveira</Author>
+  <AuthorID>NBJQSQJRYH</AuthorID>
+  <Content>male, song</Content>
+  <Comments>Birds in display in forest. Birding with biol. Bruno Lima invited to collaborate with my project Birds of Itatiaia NP.bird-seen:yesplayback-used:no""</Comments>
+  <Quality>2</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Pipridae</Family>
+  <Genus>Manacus</Genus>
+  <Species>manacus</Species>
+  <Sub-species />
+  <VernacularNames>White-bearded Manakin</VernacularNames>
+</Audio>

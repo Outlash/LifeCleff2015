@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>91</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN91.wav</FileName>
+  <ClassId>qfjwpy</ClassId>
+  <Date>2002-11-27</Date>
+  <Time>10:27</Time>
+  <Locality>Sao Francisco de Paula</Locality>
+  <Latitude>-29.4501</Latitude>
+  <Longitude>-50.5667</Longitude>
+  <Elevation>960</Elevation>
+  <Author>Jeremy Minns</Author>
+  <AuthorID>DGVLLRYDXS</AuthorID>
+  <Content>flight call</Content>
+  <Comments>Several birds in flight over the Hotel Veraneio Hampel.</Comments>
+  <Quality>2</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies>Veniliornis spilogaster</BackgroundSpecies>
+  <Order>Charadriiformes</Order>
+  <Family>Charadriidae</Family>
+  <Genus>Vanellus</Genus>
+  <Species>chilensis</Species>
+  <Sub-species>lampronotus</Sub-species>
+  <VernacularNames>Southern Lapwing</VernacularNames>
+</Audio>

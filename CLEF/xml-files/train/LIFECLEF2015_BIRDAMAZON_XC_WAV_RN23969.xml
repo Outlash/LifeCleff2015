@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>23969</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN23969.wav</FileName>
+  <ClassId>atrqbr</ClassId>
+  <Date>2014-07-30</Date>
+  <Time>11:00</Time>
+  <Locality>Faxinal Preto, São José dos Ausentes, Rio Grande do Sul</Locality>
+  <Latitude>-28.5376</Latitude>
+  <Longitude>-49.8688</Longitude>
+  <Elevation>1200</Elevation>
+  <Author>João Gava Just</Author>
+  <AuthorID>CEKMJEZKSJ</AuthorID>
+  <Content>flight call</Content>
+  <Comments>bird-seen:noplayback-used:no</Comments>
+  <Quality>3</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Psittaciformes</Order>
+  <Family>Psittacidae</Family>
+  <Genus>Pionus</Genus>
+  <Species>maximiliani</Species>
+  <Sub-species />
+  <VernacularNames>Scaly-headed Parrot</VernacularNames>
+</Audio>

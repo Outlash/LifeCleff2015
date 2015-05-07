@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>13675</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN13675.wav</FileName>
+  <ClassId>osqzxt</ClassId>
+  <Date>2010-09-07</Date>
+  <Time>10:24</Time>
+  <Locality>São Luís do Paraitinga, SP</Locality>
+  <Latitude>-23.3283852854769</Latitude>
+  <Longitude>-45.2832412719727</Longitude>
+  <Elevation>1100</Elevation>
+  <Author>Ricardo Gagliardi</Author>
+  <AuthorID>YRDADNREOP</AuthorID>
+  <Content>contact call</Content>
+  <Comments>Serra do Mar State Park area</Comments>
+  <Quality>2</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies>Phyllomyias griseocapilla</BackgroundSpecies>
+  <Order>Passeriformes</Order>
+  <Family>Furnariidae</Family>
+  <Genus>Phacellodomus</Genus>
+  <Species>ferrugineigula</Species>
+  <Sub-species />
+  <VernacularNames>Orange-breasted Thornbird</VernacularNames>
+</Audio>

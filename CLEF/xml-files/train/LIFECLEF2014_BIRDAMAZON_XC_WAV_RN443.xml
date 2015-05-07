@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>443</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN443.wav</FileName>
+  <ClassId>lsoxmb</ClassId>
+  <Date>2005-04-20</Date>
+  <Time>11:30</Time>
+  <Locality>Morro do Governo, Araruama, RJ</Locality>
+  <Latitude>-22.8528</Latitude>
+  <Longitude>-42.1981</Longitude>
+  <Elevation>10</Elevation>
+  <Author>Nick Athanas</Author>
+  <AuthorID>XRABICUARW</AuthorID>
+  <Content>song</Content>
+  <Comments>Response to playback.</Comments>
+  <Quality>1</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies>Troglodytes aedon</BackgroundSpecies>
+  <Order>Passeriformes</Order>
+  <Family>Mimidae</Family>
+  <Genus>Mimus</Genus>
+  <Species>saturninus</Species>
+  <Sub-species>modulator</Sub-species>
+  <VernacularNames>Chalk-browed Mockingbird</VernacularNames>
+</Audio>

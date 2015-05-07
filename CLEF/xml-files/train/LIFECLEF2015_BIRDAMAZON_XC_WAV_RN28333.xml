@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>28333</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN28333.wav</FileName>
+  <ClassId>unqfdn</ClassId>
+  <Date>2010-01-08</Date>
+  <Time>07:00</Time>
+  <Locality>Santa Cecilia, Serrania de San Lucas</Locality>
+  <Latitude>NULL</Latitude>
+  <Longitude>NULL</Longitude>
+  <Elevation>1550</Elevation>
+  <Author>Thomas Donegan</Author>
+  <AuthorID>OXSIOLJJUP</AuthorID>
+  <Content>flight call</Content>
+  <Comments>Bird in natural conditions flying across a trailbird-seen:yesplayback-used:no</Comments>
+  <Quality>1</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Parulidae</Family>
+  <Genus>Basileuterus</Genus>
+  <Species>tristriatus</Species>
+  <Sub-species />
+  <VernacularNames>Three-striped Warbler</VernacularNames>
+</Audio>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>19537</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN19537.wav</FileName>
+  <ClassId>jirbln</ClassId>
+  <Date>2014-01-04</Date>
+  <Time>20:00</Time>
+  <Locality>Rio Bonito de Cima - Nova Friburgo - RJ</Locality>
+  <Latitude>-22.3917</Latitude>
+  <Longitude>-42.3751</Longitude>
+  <Elevation>850</Elevation>
+  <Author>Ricardo José Mitidieri</Author>
+  <AuthorID>CFRYARSVHN</AuthorID>
+  <Content>call</Content>
+  <Comments>bird-seen:yesplayback-used:no</Comments>
+  <Quality>0</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Piciformes</Order>
+  <Family>Picidae</Family>
+  <Genus>Melanerpes</Genus>
+  <Species>candidus</Species>
+  <Sub-species />
+  <VernacularNames>White Woodpecker</VernacularNames>
+</Audio>

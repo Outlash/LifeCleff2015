@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>29885</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN29885.wav</FileName>
+  <ClassId>zwdpnv</ClassId>
+  <Date>2007-01-02</Date>
+  <Time>13:30</Time>
+  <Locality>Guyana Trail, Bolívar</Locality>
+  <Latitude>6.2854</Latitude>
+  <Longitude>-61.3149</Longitude>
+  <Elevation>170</Elevation>
+  <Author>Nathan Pieplow</Author>
+  <AuthorID>EKKJJJRDJY</AuthorID>
+  <Content>call</Content>
+  <Comments>The repeated song squee-squee-squee-squee pew. ID probable, per Dan Lane.bird-seen:noplayback-used:no""</Comments>
+  <Quality>3</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies>Thamnomanes caesius,Cercomacra cinerascens</BackgroundSpecies>
+  <Order>Passeriformes</Order>
+  <Family>Thamnophilidae</Family>
+  <Genus>Myrmotherula</Genus>
+  <Species>menetriesii</Species>
+  <Sub-species />
+  <VernacularNames>Grey Antwren</VernacularNames>
+</Audio>

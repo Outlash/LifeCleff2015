@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>24044</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN24044.wav</FileName>
+  <ClassId>jpotro</ClassId>
+  <Date>2004-04-28</Date>
+  <Time>?:?</Time>
+  <Locality>Mato Grosso, Rio Cristalino, near Cristalino Jungle Lodge, Secret Garden</Locality>
+  <Latitude>-9.6</Latitude>
+  <Longitude>-55.93</Longitude>
+  <Elevation>240</Elevation>
+  <Author>Frank Lambert</Author>
+  <AuthorID>YTUXOCTUEM</AuthorID>
+  <Content>song</Content>
+  <Comments>Previously published on AVoCet as &lt;a href=http://avocet.zoology.msu.edu/recordings/10058&gt;AV10058&lt;/a&gt;.  Certainty: slightly less than 100%.  ID determined by: seen, field ID provisional. Similar to some XC cuts but confirmation needed. GPS: Google Earth.</Comments>
+  <Quality>3</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Apodiformes</Order>
+  <Family>Trochilidae</Family>
+  <Genus>Amazilia</Genus>
+  <Species>versicolor</Species>
+  <Sub-species />
+  <VernacularNames>Versicolored Emerald</VernacularNames>
+</Audio>

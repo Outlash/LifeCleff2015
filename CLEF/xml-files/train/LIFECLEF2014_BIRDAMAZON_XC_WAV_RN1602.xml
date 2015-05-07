@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>1602</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN1602.wav</FileName>
+  <ClassId>vqsusq</ClassId>
+  <Date>2006-06-10</Date>
+  <Time>18:40</Time>
+  <Locality>Itatiaia NP, Tres Picos trail, RJ</Locality>
+  <Latitude>-22.4167</Latitude>
+  <Longitude>-44.6001</Longitude>
+  <Elevation>1300</Elevation>
+  <Author>Ricardo Gagliardi</Author>
+  <AuthorID>YRDADNREOP</AuthorID>
+  <Content>song</Content>
+  <Comments />
+  <Quality>1</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Furnariidae</Family>
+  <Genus>Campylorhamphus</Genus>
+  <Species>falcularius</Species>
+  <Sub-species />
+  <VernacularNames>Black-billed Scythebill</VernacularNames>
+</Audio>

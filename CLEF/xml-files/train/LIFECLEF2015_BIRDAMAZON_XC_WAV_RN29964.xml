@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>29964</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN29964.wav</FileName>
+  <ClassId>vvhcgg</ClassId>
+  <Date>2014-01-24</Date>
+  <Time>17:30</Time>
+  <Locality>Pinhão, Parana</Locality>
+  <Latitude>-25.9926</Latitude>
+  <Longitude>-51.65</Longitude>
+  <Elevation>850</Elevation>
+  <Author>Luiz C.  Silva</Author>
+  <AuthorID>ORPKXJRFDZ</AuthorID>
+  <Content>song</Content>
+  <Comments>bird-seen:noplayback-used:no</Comments>
+  <Quality>2</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Thraupidae</Family>
+  <Genus>Poospiza</Genus>
+  <Species>cabanisi</Species>
+  <Sub-species />
+  <VernacularNames>Grey-throated Warbling Finch</VernacularNames>
+</Audio>

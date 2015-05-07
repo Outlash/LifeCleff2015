@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>5458</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN5458.wav</FileName>
+  <ClassId>cvyifz</ClassId>
+  <Date>2011-02-17</Date>
+  <Time>08:50</Time>
+  <Locality>Poço Preto trail, Iguaçu NP, Parana state</Locality>
+  <Latitude>-25.6084</Latitude>
+  <Longitude>-54.4326</Longitude>
+  <Elevation>200</Elevation>
+  <Author>Daniel Lane</Author>
+  <AuthorID>WOEAFQRMUD</AuthorID>
+  <Content>call</Content>
+  <Comments>Response to playback from male about 4m up in understory of primary temperate forest. Part of a mixed-species flock.</Comments>
+  <Quality>1</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Cardinalidae</Family>
+  <Genus>Habia</Genus>
+  <Species>rubica</Species>
+  <Sub-species />
+  <VernacularNames>Red-crowned Ant Tanager</VernacularNames>
+</Audio>

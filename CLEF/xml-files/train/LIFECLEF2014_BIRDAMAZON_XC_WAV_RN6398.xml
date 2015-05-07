@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>6398</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN6398.wav</FileName>
+  <ClassId>inyngh</ClassId>
+  <Date>1998-10-23</Date>
+  <Time>07:30</Time>
+  <Locality>Casca d'Anta, Parque Nacional da Serra da Canastra, SW Minas Gerais</Locality>
+  <Latitude>-20.2503</Latitude>
+  <Longitude>-46.3667</Longitude>
+  <Elevation>900</Elevation>
+  <Author>Jeremy Minns</Author>
+  <AuthorID>DGVLLRYDXS</AuthorID>
+  <Content>call</Content>
+  <Comments>Casca d'Anta. Gallery forest. Male on telephone wire. In the distance Masked Titi Monkey (Callicebus personatus).</Comments>
+  <Quality>3</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Thraupidae</Family>
+  <Genus>Tachyphonus</Genus>
+  <Species>coronatus</Species>
+  <Sub-species />
+  <VernacularNames>Ruby-crowned Tanager</VernacularNames>
+</Audio>

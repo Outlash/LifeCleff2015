@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>21353</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN21353.wav</FileName>
+  <ClassId>dykocx</ClassId>
+  <Date>2012-02-10</Date>
+  <Time>10:30</Time>
+  <Locality>Araranguá, Araranguá, Santa Catarina</Locality>
+  <Latitude>-28.9361</Latitude>
+  <Longitude>-49.4923</Longitude>
+  <Elevation>10</Elevation>
+  <Author>João Antônio de B. Vitto</Author>
+  <AuthorID>RIVNLYTULO</AuthorID>
+  <Content>call</Content>
+  <Comments>bird-seen:yesplayback-used:yes</Comments>
+  <Quality>3</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Gruiformes</Order>
+  <Family>Rallidae</Family>
+  <Genus>Laterallus</Genus>
+  <Species>melanophaius</Species>
+  <Sub-species />
+  <VernacularNames>Rufous-sided Crake</VernacularNames>
+</Audio>

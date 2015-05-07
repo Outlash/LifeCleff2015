@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>24598</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN24598.wav</FileName>
+  <ClassId>zmtiwk</ClassId>
+  <Date>2010-01-09</Date>
+  <Time>08:00</Time>
+  <Locality>Santa Cecilia, Serrania de San Lucas</Locality>
+  <Latitude>7.9759</Latitude>
+  <Longitude>-74.2153</Longitude>
+  <Elevation>1550</Elevation>
+  <Author>Thomas Donegan</Author>
+  <AuthorID>OXSIOLJJUP</AuthorID>
+  <Content>Song</Content>
+  <Comments>Same bird as in background to previous Nystalus recordings</Comments>
+  <Quality>5</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies>Nystalus radiatus</BackgroundSpecies>
+  <Order>Columbiformes</Order>
+  <Family>Columbidae</Family>
+  <Genus>Patagioenas</Genus>
+  <Species>speciosa</Species>
+  <Sub-species />
+  <VernacularNames>Scaled Pigeon</VernacularNames>
+</Audio>

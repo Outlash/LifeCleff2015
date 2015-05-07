@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>16696</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN16696.wav</FileName>
+  <ClassId>lxpfyd</ClassId>
+  <Date>2012-09-12</Date>
+  <Time>18:03</Time>
+  <Locality>Saul, St Laurent Du Maroni</Locality>
+  <Latitude>3.6217</Latitude>
+  <Longitude>-53.2088</Longitude>
+  <Elevation>210</Elevation>
+  <Author>Jon King</Author>
+  <AuthorID>LNEEOOWCQR</AuthorID>
+  <Content>song</Content>
+  <Comments>Distance to mic. 10m. Natural vocalisation of two birds countersinging at dusk, only 1m from ground in thick vine tangles.bird-seen:yesplayback-used:no</Comments>
+  <Quality>2</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Furnariidae</Family>
+  <Genus>Automolus</Genus>
+  <Species>rufipileatus</Species>
+  <Sub-species />
+  <VernacularNames>Chestnut-crowned Foliage-gleaner</VernacularNames>
+</Audio>

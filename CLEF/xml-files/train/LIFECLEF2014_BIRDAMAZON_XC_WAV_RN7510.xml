@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>7510</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN7510.wav</FileName>
+  <ClassId>fiennj</ClassId>
+  <Date>2009-09-22</Date>
+  <Time>07:10</Time>
+  <Locality>Cristalino Jungle Lodge, MT</Locality>
+  <Latitude>-9.5981</Latitude>
+  <Longitude>-55.932</Longitude>
+  <Elevation>250</Elevation>
+  <Author>Andrew Spencer</Author>
+  <AuthorID>CDTGHVBGZP</AuthorID>
+  <Content>call</Content>
+  <Comments />
+  <Quality>1</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Emberizidae</Family>
+  <Genus>Arremon</Genus>
+  <Species>taciturnus</Species>
+  <Sub-species />
+  <VernacularNames>Pectoral Sparrow</VernacularNames>
+</Audio>

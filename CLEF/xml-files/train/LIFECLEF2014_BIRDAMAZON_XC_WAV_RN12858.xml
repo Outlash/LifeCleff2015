@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>12858</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN12858.wav</FileName>
+  <ClassId>qldqit</ClassId>
+  <Date>2008-05-05</Date>
+  <Time>6:42</Time>
+  <Locality>RPPN Serra Bonita, Camacan, Bahia.</Locality>
+  <Latitude>-15.3851</Latitude>
+  <Longitude>-39.5709</Longitude>
+  <Elevation>?</Elevation>
+  <Author>Sidnei S. dos Santos</Author>
+  <AuthorID>BHODJXTHGQ</AuthorID>
+  <Content>call, song</Content>
+  <Comments />
+  <Quality>2</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Furnariidae</Family>
+  <Genus>Philydor</Genus>
+  <Species>atricapillus</Species>
+  <Sub-species />
+  <VernacularNames>Black-capped Foliage-gleaner</VernacularNames>
+</Audio>

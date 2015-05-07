@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>953</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN953.wav</FileName>
+  <ClassId>xiuiqd</ClassId>
+  <Date>2005-12-27</Date>
+  <Time>?</Time>
+  <Locality>Araripe National Forest, Crato, Ceará State</Locality>
+  <Latitude>-7.2501</Latitude>
+  <Longitude>-39.5834</Longitude>
+  <Elevation>750</Elevation>
+  <Author>Ciro Albano</Author>
+  <AuthorID>MXVQPUKGWW</AuthorID>
+  <Content>call</Content>
+  <Comments />
+  <Quality>0</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies>Hylopezus ochroleucus,Hylophilus amaurocephalus,Myiophobus fasciatus</BackgroundSpecies>
+  <Order>Passeriformes</Order>
+  <Family>Thraupidae</Family>
+  <Genus>Coryphospingus</Genus>
+  <Species>pileatus</Species>
+  <Sub-species />
+  <VernacularNames>Grey Pileated Finch</VernacularNames>
+</Audio>

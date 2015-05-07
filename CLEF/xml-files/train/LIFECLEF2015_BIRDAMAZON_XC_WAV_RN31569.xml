@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>31569</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN31569.wav</FileName>
+  <ClassId>mrzhnn</ClassId>
+  <Date>2001-07-09</Date>
+  <Time>08:25</Time>
+  <Locality>Manaus. BR174 km 45</Locality>
+  <Latitude>-2.6001</Latitude>
+  <Longitude>-60.0167</Longitude>
+  <Elevation>80</Elevation>
+  <Author>Jeremy Minns</Author>
+  <AuthorID>DGVLLRYDXS</AuthorID>
+  <Content>call, song</Content>
+  <Comments>campinaranabird-seen:yesplayback-used:no</Comments>
+  <Quality>2</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Pipridae</Family>
+  <Genus>Neopelma</Genus>
+  <Species>chrysocephalum</Species>
+  <Sub-species />
+  <VernacularNames>Saffron-crested Tyrant-Manakin</VernacularNames>
+</Audio>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>4585</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN4585.wav</FileName>
+  <ClassId>xbszpg</ClassId>
+  <Date>2002-10-31</Date>
+  <Time>17:31</Time>
+  <Locality>Parque Nacional Serra da Canastra, São Roque de Minas, MG</Locality>
+  <Latitude>-20.24528</Latitude>
+  <Longitude>-46.36583</Longitude>
+  <Elevation>1350</Elevation>
+  <Author>Jeremy Minns</Author>
+  <AuthorID>DGVLLRYDXS</AuthorID>
+  <Content>Song</Content>
+  <Comments>Campo rupestre.</Comments>
+  <Quality>1</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies>Rhynchotus rufescens,Nothura maculosa</BackgroundSpecies>
+  <Order>Passeriformes</Order>
+  <Family>Thraupidae</Family>
+  <Genus>Sicalis</Genus>
+  <Species>citrina</Species>
+  <Sub-species>citrina</Sub-species>
+  <VernacularNames>Stripe-tailed Yellow Finch</VernacularNames>
+</Audio>

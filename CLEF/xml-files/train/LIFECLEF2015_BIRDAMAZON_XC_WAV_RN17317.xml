@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>17317</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN17317.wav</FileName>
+  <ClassId>zptkey</ClassId>
+  <Date>2004-03-14</Date>
+  <Time>09:15</Time>
+  <Locality>Reserva Natural da Vale - Linhares, Espirito Santo</Locality>
+  <Latitude>-19.1456</Latitude>
+  <Longitude>-40.0645</Longitude>
+  <Elevation>40</Elevation>
+  <Author>Jeremy Minns</Author>
+  <AuthorID>DGVLLRYDXS</AuthorID>
+  <Content>Call</Content>
+  <Comments>Open area with small, scattered trees between humid forest and marsh. 3-4 birds, low down. This is Call B in our DVD-ROM 'Birds of Brazil'.</Comments>
+  <Quality>2</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies>Columbina talpacoti,Brotogeris tirica,Ramphastos vitellinus,Tolmomyias poliocephalus,Megarynchus pitangua,Pachyramphus marginatus</BackgroundSpecies>
+  <Order>Passeriformes</Order>
+  <Family>Tyrannidae</Family>
+  <Genus>Myiarchus</Genus>
+  <Species>tuberculifer</Species>
+  <Sub-species>tuberculifer</Sub-species>
+  <VernacularNames>Dusky-capped Flycatcher</VernacularNames>
+</Audio>

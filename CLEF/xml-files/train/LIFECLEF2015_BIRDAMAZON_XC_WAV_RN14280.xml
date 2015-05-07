@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>14280</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN14280.wav</FileName>
+  <ClassId>pjuaxh</ClassId>
+  <Date>2012-08-07</Date>
+  <Time>08.00</Time>
+  <Locality>Hacienda Vuelta Larga</Locality>
+  <Latitude>10.6442</Latitude>
+  <Longitude>-62.9839</Longitude>
+  <Elevation>50</Elevation>
+  <Author>Thore Noernberg</Author>
+  <AuthorID>TTSQGWDDGW</AuthorID>
+  <Content>Call</Content>
+  <Comments>2 birds calling from the same tree</Comments>
+  <Quality>2</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Trogoniformes</Order>
+  <Family>Trogonidae</Family>
+  <Genus>Trogon</Genus>
+  <Species>viridis</Species>
+  <Sub-species />
+  <VernacularNames>Green-backed Trogon</VernacularNames>
+</Audio>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>32080</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN32080.wav</FileName>
+  <ClassId>pfbymd</ClassId>
+  <Date>2012-02-08</Date>
+  <Time>07:52</Time>
+  <Locality>Soata (Reserva de Aves para Amazilia castaneiventris y Macroagelaius)</Locality>
+  <Latitude>6.3001</Latitude>
+  <Longitude>-72.7167</Longitude>
+  <Elevation>2000</Elevation>
+  <Author>Oswaldo Cortes</Author>
+  <AuthorID>VVDRVZCVWW</AuthorID>
+  <Content>call</Content>
+  <Comments />
+  <Quality>0</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Apodiformes</Order>
+  <Family>Trochilidae</Family>
+  <Genus>Heliangelus</Genus>
+  <Species>amethysticollis</Species>
+  <Sub-species />
+  <VernacularNames>Amethyst-throated Sunangel</VernacularNames>
+</Audio>

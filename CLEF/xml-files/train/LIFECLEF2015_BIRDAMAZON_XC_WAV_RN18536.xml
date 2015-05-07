@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>18536</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN18536.wav</FileName>
+  <ClassId>iwssmb</ClassId>
+  <Date>2010-11-11</Date>
+  <Time>09:00</Time>
+  <Locality>San Luis de Gaceno_Cuchilla de San Agustin</Locality>
+  <Latitude>4.856</Latitude>
+  <Longitude>-73.187</Longitude>
+  <Elevation>1600</Elevation>
+  <Author>Angela Caguazango y Oswaldo Cortes</Author>
+  <AuthorID>VVDRVZCVWW</AuthorID>
+  <Content>song</Content>
+  <Comments />
+  <Quality>3</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Corvidae</Family>
+  <Genus>Cyanocorax</Genus>
+  <Species>yncas</Species>
+  <Sub-species />
+  <VernacularNames>Inca Jay</VernacularNames>
+</Audio>

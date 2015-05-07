@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>11480</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN11480.wav</FileName>
+  <ClassId>onmuhx</ClassId>
+  <Date>2004-05-22</Date>
+  <Time>07:30</Time>
+  <Locality>Parque Estadual Intervales, SP</Locality>
+  <Latitude>-24.2759</Latitude>
+  <Longitude>-48.4181</Longitude>
+  <Elevation>850</Elevation>
+  <Author>Nick Athanas</Author>
+  <AuthorID>XRABICUARW</AuthorID>
+  <Content>song</Content>
+  <Comments />
+  <Quality>2</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Thraupidae</Family>
+  <Genus>Sporophila</Genus>
+  <Species>falcirostris</Species>
+  <Sub-species />
+  <VernacularNames>Temminck's Seedeater</VernacularNames>
+</Audio>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>528</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN528.wav</FileName>
+  <ClassId>hendyi</ClassId>
+  <Date>2001-03-14</Date>
+  <Time>07:13</Time>
+  <Locality>Conceicao de Ibitipoca</Locality>
+  <Latitude>-21.7001</Latitude>
+  <Longitude>-43.8834</Longitude>
+  <Elevation>1200</Elevation>
+  <Author>Jeremy Minns</Author>
+  <AuthorID>DGVLLRYDXS</AuthorID>
+  <Content>call</Content>
+  <Comments>Road to State Park. Open farmland near forest edge. Single bird on power line.</Comments>
+  <Quality>2</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies>Pyriglena leucoptera</BackgroundSpecies>
+  <Order>Passeriformes</Order>
+  <Family>Tyrannidae</Family>
+  <Genus>Empidonomus</Genus>
+  <Species>varius</Species>
+  <Sub-species>varius</Sub-species>
+  <VernacularNames>Variegated Flycatcher</VernacularNames>
+</Audio>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>26376</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN26376.wav</FileName>
+  <ClassId>xpclwf</ClassId>
+  <Date>2006-07-15</Date>
+  <Time>12:00</Time>
+  <Locality>Serra dos Caiabis, Alta Floresta - MT</Locality>
+  <Latitude>-10.7501</Latitude>
+  <Longitude>-56.7501</Longitude>
+  <Elevation>310</Elevation>
+  <Author>Bradley Davis</Author>
+  <AuthorID>YNXJLOESBB</AuthorID>
+  <Content>call</Content>
+  <Comments />
+  <Quality>2</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies>Lipaugus vociferans,Patagioenas speciosa,Machaeropterus pyrocephalus</BackgroundSpecies>
+  <Order>Passeriformes</Order>
+  <Family>Icteridae</Family>
+  <Genus>Icterus</Genus>
+  <Species>cayanensis</Species>
+  <Sub-species />
+  <VernacularNames>Epaulet Oriole</VernacularNames>
+</Audio>

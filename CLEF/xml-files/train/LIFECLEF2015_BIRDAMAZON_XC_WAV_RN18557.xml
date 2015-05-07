@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>18557</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN18557.wav</FileName>
+  <ClassId>wixeie</ClassId>
+  <Date>2009-07-25</Date>
+  <Time>09:53</Time>
+  <Locality>Riacho dos Machados - MG</Locality>
+  <Latitude>NULL</Latitude>
+  <Longitude>NULL</Longitude>
+  <Elevation>800</Elevation>
+  <Author>Luiz Gabriel Mazzoni</Author>
+  <AuthorID>MPOKMOFDDX</AuthorID>
+  <Content>Call</Content>
+  <Comments>A couple, two perched individuals. The response call from the other can be heard right after the first call.</Comments>
+  <Quality>1</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Accipitriformes</Order>
+  <Family>Accipitridae</Family>
+  <Genus>Buteo</Genus>
+  <Species>brachyurus</Species>
+  <Sub-species />
+  <VernacularNames>Short-tailed Hawk</VernacularNames>
+</Audio>

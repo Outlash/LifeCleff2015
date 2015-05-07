@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>7104</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN7104.wav</FileName>
+  <ClassId>fcojdk</ClassId>
+  <Date>2012-09-30</Date>
+  <Time>16:00</Time>
+  <Locality>Estrada da Graciosa, near Curitiba, Paraná</Locality>
+  <Latitude>-25.339</Latitude>
+  <Longitude>-48.93</Longitude>
+  <Elevation>1100</Elevation>
+  <Author>Ben Tavener</Author>
+  <AuthorID>ZXIEZTHEPH</AuthorID>
+  <Content>Call</Content>
+  <Comments />
+  <Quality>2</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Cotingidae</Family>
+  <Genus>Procnias</Genus>
+  <Species>nudicollis</Species>
+  <Sub-species />
+  <VernacularNames>Bare-throated Bellbird</VernacularNames>
+</Audio>

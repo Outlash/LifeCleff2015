@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>4684</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN4684.wav</FileName>
+  <ClassId>bskejq</ClassId>
+  <Date>2012-11-14</Date>
+  <Time>22:00</Time>
+  <Locality>Manaus, Amazonas</Locality>
+  <Latitude>-2.6007</Latitude>
+  <Longitude>-59.9242</Longitude>
+  <Elevation>130</Elevation>
+  <Author>Glauco Kohler</Author>
+  <AuthorID>JDNMEJOJEQ</AuthorID>
+  <Content>call</Content>
+  <Comments>bird-seen:noplayback-used:yes</Comments>
+  <Quality>1</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies />
+  <Order>Strigiformes</Order>
+  <Family>Strigidae</Family>
+  <Genus>Megascops</Genus>
+  <Species>watsonii</Species>
+  <Sub-species />
+  <VernacularNames>Tawny-bellied Screech Owl</VernacularNames>
+</Audio>

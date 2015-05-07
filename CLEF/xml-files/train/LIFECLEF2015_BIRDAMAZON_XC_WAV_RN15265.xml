@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>15265</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN15265.wav</FileName>
+  <ClassId>dfxend</ClassId>
+  <Date>2010-12-07</Date>
+  <Time>7:36</Time>
+  <Locality>Belterra, PA - Bacia 260</Locality>
+  <Latitude>-2.896</Latitude>
+  <Longitude>-54.937</Longitude>
+  <Elevation>?</Elevation>
+  <Author>Christian Borges Andretti</Author>
+  <AuthorID>EZSMXGTXKS</AuthorID>
+  <Content>song</Content>
+  <Comments />
+  <Quality>3</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies>Trogon viridis</BackgroundSpecies>
+  <Order>Piciformes</Order>
+  <Family>Bucconidae</Family>
+  <Genus>Monasa</Genus>
+  <Species>morphoeus</Species>
+  <Sub-species />
+  <VernacularNames>White-fronted Nunbird</VernacularNames>
+</Audio>

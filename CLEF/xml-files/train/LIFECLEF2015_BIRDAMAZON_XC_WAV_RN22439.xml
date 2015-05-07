@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>22439</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN22439.wav</FileName>
+  <ClassId>nieuqt</ClassId>
+  <Date>2001-05-28</Date>
+  <Time>06:30</Time>
+  <Locality>Reserva Los Besotes_Vereda Los Besotes (Cerro Los Besotes), municipio Valledupar, Cesar</Locality>
+  <Latitude>NULL</Latitude>
+  <Longitude>NULL</Longitude>
+  <Elevation>800</Elevation>
+  <Author>Bernabe Lopez-Lanus</Author>
+  <AuthorID>BYLLSJRVDZ</AuthorID>
+  <Content>song</Content>
+  <Comments />
+  <Quality>3</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Falconiformes</Order>
+  <Family>Falconidae</Family>
+  <Genus>Falco</Genus>
+  <Species>rufigularis</Species>
+  <Sub-species>petoensis  ?</Sub-species>
+  <VernacularNames>Bat Falcon</VernacularNames>
+</Audio>

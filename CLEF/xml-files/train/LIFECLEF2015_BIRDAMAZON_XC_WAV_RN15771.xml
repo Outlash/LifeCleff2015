@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>15771</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN15771.wav</FileName>
+  <ClassId>qtzsvy</ClassId>
+  <Date>2010-09-07</Date>
+  <Time>?</Time>
+  <Locality>Régina, Montagne tortue</Locality>
+  <Latitude>4.31667</Latitude>
+  <Longitude>-52.1333</Longitude>
+  <Elevation>50</Elevation>
+  <Author>Alexandre Renaudier</Author>
+  <AuthorID>GKADEITXTH</AuthorID>
+  <Content>Song</Content>
+  <Comments>Response to playback</Comments>
+  <Quality>1</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies>Percnostola rufifrons</BackgroundSpecies>
+  <Order>Passeriformes</Order>
+  <Family>Furnariidae</Family>
+  <Genus>Automolus</Genus>
+  <Species>infuscatus</Species>
+  <Sub-species />
+  <VernacularNames>Olive-backed Foliage-gleaner</VernacularNames>
+</Audio>

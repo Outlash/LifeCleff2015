@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>30346</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN30346.wav</FileName>
+  <ClassId>zqzulo</ClassId>
+  <Date>2011-02-02</Date>
+  <Time>08:12</Time>
+  <Locality>Reserva Ecológica de Guapiaçu, RJ</Locality>
+  <Latitude>-22.5001</Latitude>
+  <Longitude>-42.7167</Longitude>
+  <Elevation>30</Elevation>
+  <Author>Leonardo Pimentel</Author>
+  <AuthorID>JHBOHGJALL</AuthorID>
+  <Content>Song</Content>
+  <Comments />
+  <Quality>1</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Gruiformes</Order>
+  <Family>Rallidae</Family>
+  <Genus>Amaurolimnas</Genus>
+  <Species>concolor</Species>
+  <Sub-species />
+  <VernacularNames>Uniform Crake</VernacularNames>
+</Audio>

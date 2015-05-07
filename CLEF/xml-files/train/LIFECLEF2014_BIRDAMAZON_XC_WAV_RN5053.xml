@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>5053</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN5053.wav</FileName>
+  <ClassId>iangvt</ClassId>
+  <Date>2004-03-25</Date>
+  <Time>06:50</Time>
+  <Locality>Jeremoabo</Locality>
+  <Latitude>-10.063769</Latitude>
+  <Longitude>-38.339453</Longitude>
+  <Elevation>300</Elevation>
+  <Author>Jeremy Minns</Author>
+  <AuthorID>DGVLLRYDXS</AuthorID>
+  <Content>call</Content>
+  <Comments>Road to Canudos. Caatinga. These are calls A and C in our DVD-ROM 'Birds of Brazil'.</Comments>
+  <Quality>2</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies>Columbina talpacoti,Columbina squammata,Leptotila verreauxi,Herpsilochmus pectoralis,Pitangus sulphuratus,Troglodytes aedon</BackgroundSpecies>
+  <Order>Passeriformes</Order>
+  <Family>Polioptilidae</Family>
+  <Genus>Polioptila</Genus>
+  <Species>plumbea</Species>
+  <Sub-species>atricapilla</Sub-species>
+  <VernacularNames>Tropical Gnatcatcher</VernacularNames>
+</Audio>

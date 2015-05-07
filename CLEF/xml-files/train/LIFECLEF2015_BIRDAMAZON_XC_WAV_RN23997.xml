@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>23997</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN23997.wav</FileName>
+  <ClassId>khvgmu</ClassId>
+  <Date>2010-01-07</Date>
+  <Time>17:00</Time>
+  <Locality>Santa Cecilia, Serrania de San Lucas</Locality>
+  <Latitude>7.9759</Latitude>
+  <Longitude>-74.2153</Longitude>
+  <Elevation>1550</Elevation>
+  <Author>Thomas Donegan</Author>
+  <AuthorID>OXSIOLJJUP</AuthorID>
+  <Content>Scolds</Content>
+  <Comments>Scolds of immature male paratype (showing female plumage) in the hand having been mist-netted.  Some noise removed by silencing part of track.</Comments>
+  <Quality>1</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies>Patagioenas speciosa</BackgroundSpecies>
+  <Order>Passeriformes</Order>
+  <Family>Thamnophilidae</Family>
+  <Genus>Myrmeciza</Genus>
+  <Species>immaculata</Species>
+  <Sub-species>concepcion</Sub-species>
+  <VernacularNames>Blue-lored Antbird</VernacularNames>
+</Audio>

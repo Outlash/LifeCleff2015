@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>11085</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN11085.wav</FileName>
+  <ClassId>mjpnmn</ClassId>
+  <Date>2013-09-11</Date>
+  <Time>06:00</Time>
+  <Locality>Pirenópolis, Goiás</Locality>
+  <Latitude>-15.8456</Latitude>
+  <Longitude>-48.9582</Longitude>
+  <Elevation>800</Elevation>
+  <Author>Krzysztof Deoniziak</Author>
+  <AuthorID>VCROLXMVLX</AuthorID>
+  <Content>call</Content>
+  <Comments>Bird hiding in tree during day time in urban area.Lower frequency cut off (0-1000kHz)bird-seen:yesplayback-used:no</Comments>
+  <Quality>1</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies />
+  <Order>Strigiformes</Order>
+  <Family>Strigidae</Family>
+  <Genus>Glaucidium</Genus>
+  <Species>brasilianum</Species>
+  <Sub-species />
+  <VernacularNames>Ferruginous Pygmy Owl</VernacularNames>
+</Audio>

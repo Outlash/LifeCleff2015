@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>17280</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN17280.wav</FileName>
+  <ClassId>cqqgho</ClassId>
+  <Date>2006-11-00</Date>
+  <Time>?:?</Time>
+  <Locality>Sierra de San Luis</Locality>
+  <Latitude>11.21222</Latitude>
+  <Longitude>-69.72556</Longitude>
+  <Elevation>1500</Elevation>
+  <Author>David Edwards</Author>
+  <AuthorID>AFEHYCAHZR</AuthorID>
+  <Content>song</Content>
+  <Comments />
+  <Quality>1</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Troglodytidae</Family>
+  <Genus>Thryophilus</Genus>
+  <Species>rufalbus</Species>
+  <Sub-species />
+  <VernacularNames>Rufous-and-white Wren</VernacularNames>
+</Audio>

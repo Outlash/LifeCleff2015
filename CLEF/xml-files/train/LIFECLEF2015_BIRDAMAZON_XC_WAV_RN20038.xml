@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>20038</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN20038.wav</FileName>
+  <ClassId>qjmcsl</ClassId>
+  <Date>2001-03-04</Date>
+  <Time>xx:xx</Time>
+  <Locality>Tolima: 10 km NW Roncesvalles</Locality>
+  <Latitude>4.0167</Latitude>
+  <Longitude>-75.6334</Longitude>
+  <Elevation>3000</Elevation>
+  <Author>Niels Krabbe</Author>
+  <AuthorID>XTVEPHMPPJ</AuthorID>
+  <Content>natural song and display wing? sound after playback</Content>
+  <Comments>Tape ref. B 65, 69</Comments>
+  <Quality>1</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Tyrannidae</Family>
+  <Genus>Hemitriccus</Genus>
+  <Species>granadensis</Species>
+  <Sub-species />
+  <VernacularNames>Black-throated Tody-Tyrant</VernacularNames>
+</Audio>

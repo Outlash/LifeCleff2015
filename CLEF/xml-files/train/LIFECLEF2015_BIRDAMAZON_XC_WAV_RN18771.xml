@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>18771</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN18771.wav</FileName>
+  <ClassId>iofesp</ClassId>
+  <Date>2007-12-09</Date>
+  <Time>07:00</Time>
+  <Locality>right bank medio Rio Jurua, near Bauana</Locality>
+  <Latitude>-5.423</Latitude>
+  <Longitude>-67.28</Longitude>
+  <Elevation>?</Elevation>
+  <Author>Alexander Lees</Author>
+  <AuthorID>INDDBZAFJL</AuthorID>
+  <Content>song</Content>
+  <Comments />
+  <Quality>0</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Tyrannidae</Family>
+  <Genus>Rhynchocyclus</Genus>
+  <Species>olivaceus</Species>
+  <Sub-species>aequinoctialis</Sub-species>
+  <VernacularNames>Olivaceous Flatbill</VernacularNames>
+</Audio>

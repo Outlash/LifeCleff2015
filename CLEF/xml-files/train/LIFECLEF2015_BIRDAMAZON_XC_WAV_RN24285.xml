@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>24285</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN24285.wav</FileName>
+  <ClassId>xdszwe</ClassId>
+  <Date>1992-11-01</Date>
+  <Time>?</Time>
+  <Locality>Apure, Hato el Cedral</Locality>
+  <Latitude>7.4334</Latitude>
+  <Longitude>-69.3167</Longitude>
+  <Elevation>80</Elevation>
+  <Author>Allen T. Chartier</Author>
+  <AuthorID>AZXTZTQJRO</AuthorID>
+  <Content>flight call</Content>
+  <Comments>Two birds. Capybara and human voices in background</Comments>
+  <Quality>2</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies>Theristicus caudatus,Tyrannus melancholicus,Ammodramus aurifrons</BackgroundSpecies>
+  <Order>Psittaciformes</Order>
+  <Family>Psittacidae</Family>
+  <Genus>Ara</Genus>
+  <Species>severus</Species>
+  <Sub-species />
+  <VernacularNames>Chestnut-fronted Macaw</VernacularNames>
+</Audio>

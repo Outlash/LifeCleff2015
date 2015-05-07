@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>21274</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN21274.wav</FileName>
+  <ClassId>fqumzc</ClassId>
+  <Date>2013-12-07</Date>
+  <Time>08:30</Time>
+  <Locality>Conde, Paraiba</Locality>
+  <Latitude>-7.2363</Latitude>
+  <Longitude>-34.9014</Longitude>
+  <Elevation>26</Elevation>
+  <Author>Iubatã Paula de Faria</Author>
+  <AuthorID>OFYBIMFHQR</AuthorID>
+  <Content>song</Content>
+  <Comments>First, the bird was heard and subsequently observed in a canopy (5 m high) of a riparian forest (on Rio Água Boa), and then flew far been recorded. Equipment: recorder (Marantz PMD660) with microphone (ME Sennheise 66).bird-seen:yesplayback-used:no</Comments>
+  <Quality>0</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Piciformes</Order>
+  <Family>Picidae</Family>
+  <Genus>Campephilus</Genus>
+  <Species>melanoleucos</Species>
+  <Sub-species />
+  <VernacularNames>Crimson-crested Woodpecker</VernacularNames>
+</Audio>

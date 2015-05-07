@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>7422</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN7422.wav</FileName>
+  <ClassId>wvgogb</ClassId>
+  <Date>2005-12-24</Date>
+  <Time>05:02</Time>
+  <Locality>Porteiras, Altinho, Pernambuco</Locality>
+  <Latitude>-8.3</Latitude>
+  <Longitude>-37.75</Longitude>
+  <Elevation>360</Elevation>
+  <Author>Glauco Alves Pereira</Author>
+  <AuthorID>ZWEROGGYVP</AuthorID>
+  <Content>song</Content>
+  <Comments>arboreal caatinga</Comments>
+  <Quality>3</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies>Paroaria dominicana,Zonotrichia capensis,Agelaioides badius,Sporophila albogularis</BackgroundSpecies>
+  <Order>Cariamiformes</Order>
+  <Family>Cariamidae</Family>
+  <Genus>Cariama</Genus>
+  <Species>cristata</Species>
+  <Sub-species />
+  <VernacularNames>Red-legged Seriema</VernacularNames>
+</Audio>

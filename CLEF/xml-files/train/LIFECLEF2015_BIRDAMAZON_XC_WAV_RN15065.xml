@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>15065</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN15065.wav</FileName>
+  <ClassId>tyqwsc</ClassId>
+  <Date>2011-10-09</Date>
+  <Time>07:02</Time>
+  <Locality>Cristalino Jungle Lodge, MT</Locality>
+  <Latitude>-9.5981</Latitude>
+  <Longitude>-55.932</Longitude>
+  <Elevation>260</Elevation>
+  <Author>Eric DeFonso</Author>
+  <AuthorID>KTLCZCRCQX</AuthorID>
+  <Content>song</Content>
+  <Comments>The slower trill song. Recorded from the 50m tower.bird-seen:yesplayback-used:no""</Comments>
+  <Quality>1</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Troglodytidae</Family>
+  <Genus>Odontorchilus</Genus>
+  <Species>cinereus</Species>
+  <Sub-species />
+  <VernacularNames>Tooth-billed Wren</VernacularNames>
+</Audio>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>26745</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN26745.wav</FileName>
+  <ClassId>maqvgn</ClassId>
+  <Date>2007-01-02</Date>
+  <Time>16:00</Time>
+  <Locality>Capuchinbird Road, Bolivar</Locality>
+  <Latitude>NULL</Latitude>
+  <Longitude>NULL</Longitude>
+  <Elevation>?</Elevation>
+  <Author>Andrew Spencer</Author>
+  <AuthorID>CDTGHVBGZP</AuthorID>
+  <Content>call</Content>
+  <Comments />
+  <Quality>1</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Cardinalidae</Family>
+  <Genus>Caryothraustes</Genus>
+  <Species>canadensis</Species>
+  <Sub-species />
+  <VernacularNames>Yellow-green Grosbeak</VernacularNames>
+</Audio>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>25653</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN25653.wav</FileName>
+  <ClassId>flxxiy</ClassId>
+  <Date>1998-06-18</Date>
+  <Time>16:35</Time>
+  <Locality>Hacienda Las Cruces (Area La Ceja), Toche, Municipio Ibague, Tolima</Locality>
+  <Latitude>NULL</Latitude>
+  <Longitude>NULL</Longitude>
+  <Elevation>2500</Elevation>
+  <Author>Bernabe Lopez-Lanus</Author>
+  <AuthorID>BYLLSJRVDZ</AuthorID>
+  <Content>Call</Content>
+  <Comments />
+  <Quality>2</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Psittaciformes</Order>
+  <Family>Psittacidae</Family>
+  <Genus>Leptosittaca</Genus>
+  <Species>branickii</Species>
+  <Sub-species />
+  <VernacularNames>Golden-plumed Parakeet</VernacularNames>
+</Audio>

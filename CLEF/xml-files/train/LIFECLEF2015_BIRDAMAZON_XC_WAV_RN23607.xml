@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>23607</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN23607.wav</FileName>
+  <ClassId>wyhvpw</ClassId>
+  <Date>2013-04-27</Date>
+  <Time>11:00</Time>
+  <Locality>Cláudio, Minas Gerais</Locality>
+  <Latitude>-20.4442</Latitude>
+  <Longitude>-44.7678</Longitude>
+  <Elevation>850</Elevation>
+  <Author>João Antônio de B. Vitto</Author>
+  <AuthorID>RIVNLYTULO</AuthorID>
+  <Content>flight call</Content>
+  <Comments>bird-seen:yesplayback-used:no</Comments>
+  <Quality>0</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Psittaciformes</Order>
+  <Family>Psittacidae</Family>
+  <Genus>Aratinga</Genus>
+  <Species>auricapillus</Species>
+  <Sub-species />
+  <VernacularNames>Golden-capped Parakeet</VernacularNames>
+</Audio>

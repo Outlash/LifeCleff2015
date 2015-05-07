@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>25350</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN25350.wav</FileName>
+  <ClassId>ipzbhi</ClassId>
+  <Date>2005-09-27</Date>
+  <Time>17:35</Time>
+  <Locality>Vila Arara, Amazonas</Locality>
+  <Latitude>-3.0151</Latitude>
+  <Longitude>-60.3998</Longitude>
+  <Elevation>30</Elevation>
+  <Author>Richard C. Hoyer</Author>
+  <AuthorID>SRRRBQPENI</AuthorID>
+  <Content>song</Content>
+  <Comments />
+  <Quality>3</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies>Tyranneutes virescens</BackgroundSpecies>
+  <Order>Passeriformes</Order>
+  <Family>Turdidae</Family>
+  <Genus>Turdus</Genus>
+  <Species>fumigatus</Species>
+  <Sub-species />
+  <VernacularNames>Cocoa Thrush</VernacularNames>
+</Audio>

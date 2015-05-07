@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>28692</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN28692.wav</FileName>
+  <ClassId>udwyft</ClassId>
+  <Date>2008-02-21</Date>
+  <Time>11:05</Time>
+  <Locality>Rogitama (Reserva Principe de Arcabuco)</Locality>
+  <Latitude>5.779625</Latitude>
+  <Longitude>-73.44635</Longitude>
+  <Elevation>2500</Elevation>
+  <Author>Herman van Oosten</Author>
+  <AuthorID>SNUDCZVUQK</AuthorID>
+  <Content>song</Content>
+  <Comments>What a marvellous song!</Comments>
+  <Quality>2</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Icteridae</Family>
+  <Genus>Icterus</Genus>
+  <Species>chrysater</Species>
+  <Sub-species />
+  <VernacularNames>Yellow-backed Oriole</VernacularNames>
+</Audio>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>15176</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN15176.wav</FileName>
+  <ClassId>nxdkxx</ClassId>
+  <Date>2013-09-02</Date>
+  <Time>11:09</Time>
+  <Locality>Parque deportivo, Ibague, Tolima</Locality>
+  <Latitude>4.4269</Latitude>
+  <Longitude>-75.1832</Longitude>
+  <Elevation>1100</Elevation>
+  <Author>Yair G. Molina M. &amp; Nicolas E. Molina V.</Author>
+  <AuthorID>UQUOPFIYYQ</AuthorID>
+  <Content>song</Content>
+  <Comments>bird-seen:yesplayback-used:no</Comments>
+  <Quality>2</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Thraupidae</Family>
+  <Genus>Thraupis</Genus>
+  <Species>episcopus</Species>
+  <Sub-species />
+  <VernacularNames>Blue-grey Tanager</VernacularNames>
+</Audio>

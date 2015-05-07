@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>25090</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN25090.wav</FileName>
+  <ClassId>jfkqxa</ClassId>
+  <Date>2007-04-29</Date>
+  <Time>09:00</Time>
+  <Locality>El Rio Morichal Largo</Locality>
+  <Latitude>9.447</Latitude>
+  <Longitude>-62.4056</Longitude>
+  <Elevation>100</Elevation>
+  <Author>Doug Knapp</Author>
+  <AuthorID>BHRXQZEQFL</AuthorID>
+  <Content>Drumming</Content>
+  <Comments>Several individuals at various distances.  Not seen but species viewed clearly nearby.</Comments>
+  <Quality>1</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies>Cantorchilus leucotis</BackgroundSpecies>
+  <Order>Piciformes</Order>
+  <Family>Picidae</Family>
+  <Genus>Dryocopus</Genus>
+  <Species>lineatus</Species>
+  <Sub-species />
+  <VernacularNames>Lineated Woodpecker</VernacularNames>
+</Audio>

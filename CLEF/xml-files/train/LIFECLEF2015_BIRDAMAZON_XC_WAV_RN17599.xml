@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>17599</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN17599.wav</FileName>
+  <ClassId>pprfie</ClassId>
+  <Date>1993-03-00</Date>
+  <Time>?</Time>
+  <Locality>Murici, Alagoas</Locality>
+  <Latitude>-9.3001</Latitude>
+  <Longitude>-35.9334</Longitude>
+  <Elevation>110</Elevation>
+  <Author>Frank Lambert</Author>
+  <AuthorID>YTUXOCTUEM</AuthorID>
+  <Content>song</Content>
+  <Comments>bird-seen:yes</Comments>
+  <Quality>3</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Vireonidae</Family>
+  <Genus>Cyclarhis</Genus>
+  <Species>gujanensis</Species>
+  <Sub-species>cearensis</Sub-species>
+  <VernacularNames>Rufous-browed Peppershrike</VernacularNames>
+</Audio>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>25041</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN25041.wav</FileName>
+  <ClassId>yilzpe</ClassId>
+  <Date>2000-04-17</Date>
+  <Time>07:00</Time>
+  <Locality>Finca La Pradera, Parroquia Remolinos, Municipio Puerto Lopez, Meta</Locality>
+  <Latitude>NULL</Latitude>
+  <Longitude>NULL</Longitude>
+  <Elevation>400</Elevation>
+  <Author>Bernabe Lopez-Lanus</Author>
+  <AuthorID>BYLLSJRVDZ</AuthorID>
+  <Content>?</Content>
+  <Comments />
+  <Quality>2</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Tyrannidae</Family>
+  <Genus>Leptopogon</Genus>
+  <Species>amaurocephalus</Species>
+  <Sub-species>peruvianus</Sub-species>
+  <VernacularNames>Sepia-capped Flycatcher</VernacularNames>
+</Audio>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>1973</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN1973.wav</FileName>
+  <ClassId>hctcgx</ClassId>
+  <Date>2009-08-18</Date>
+  <Time>8:45</Time>
+  <Locality>Morada da Ganja, Barra Mansa, Rio de janeiro, Brazil</Locality>
+  <Latitude>-22.5387</Latitude>
+  <Longitude>-44.1214</Longitude>
+  <Elevation>427</Elevation>
+  <Author>Marco Barbosa</Author>
+  <AuthorID>EXQUYJZGCS</AuthorID>
+  <Content>song</Content>
+  <Comments>Adult Male</Comments>
+  <Quality>2</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies>Tapera naevia</BackgroundSpecies>
+  <Order>Passeriformes</Order>
+  <Family>Parulidae</Family>
+  <Genus>Geothlypis</Genus>
+  <Species>velata</Species>
+  <Sub-species />
+  <VernacularNames>Southern Yellowthroat</VernacularNames>
+</Audio>

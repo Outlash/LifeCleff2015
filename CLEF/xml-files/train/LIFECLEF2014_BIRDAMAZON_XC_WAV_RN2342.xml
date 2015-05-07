@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>2342</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN2342.wav</FileName>
+  <ClassId>thrclx</ClassId>
+  <Date>2010-11-01</Date>
+  <Time>05:32</Time>
+  <Locality>Paragominas, PA, Brazil, Bacia 423</Locality>
+  <Latitude>-3.4678</Latitude>
+  <Longitude>-47.4628</Longitude>
+  <Elevation>?</Elevation>
+  <Author>Nargila Moura</Author>
+  <AuthorID>CWEIBYBYYD</AuthorID>
+  <Content>song</Content>
+  <Comments />
+  <Quality>3</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies>Synallaxis gujanensis,Poecilotriccus sylvia,Pheugopedius genibarbis</BackgroundSpecies>
+  <Order>Passeriformes</Order>
+  <Family>Thamnophilidae</Family>
+  <Genus>Formicivora</Genus>
+  <Species>grisea</Species>
+  <Sub-species>grisea</Sub-species>
+  <VernacularNames>Southern White-fringed Antwren</VernacularNames>
+</Audio>

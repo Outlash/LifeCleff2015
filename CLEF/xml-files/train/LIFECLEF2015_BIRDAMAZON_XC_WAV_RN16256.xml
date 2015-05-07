@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>16256</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN16256.wav</FileName>
+  <ClassId>lzezgo</ClassId>
+  <Date>2010-01-05</Date>
+  <Time>07:00</Time>
+  <Locality>Sonsón, Antioquia, Vereda San Francisco, Cerro de las Palomas, Páramo de Sonsón</Locality>
+  <Latitude>5.716</Latitude>
+  <Longitude>-75.2583</Longitude>
+  <Elevation>3000</Elevation>
+  <Author>Oscar H. Marín-Gómez</Author>
+  <AuthorID>CSUHASNRSU</AuthorID>
+  <Content>alarm call</Content>
+  <Comments>Ref Tape OHM66A 16:10. Un individuo escuchado en interior de bosque, en sotobosque dominado por chusque. No observado. A 10 m del micrófono. Vocalización natural.bird-seen:noplayback-used:no</Comments>
+  <Quality>3</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Rhinocryptidae</Family>
+  <Genus>Scytalopus</Genus>
+  <Species>latrans</Species>
+  <Sub-species />
+  <VernacularNames>Blackish Tapaculo</VernacularNames>
+</Audio>

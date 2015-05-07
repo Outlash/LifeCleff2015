@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>14628</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN14628.wav</FileName>
+  <ClassId>ikydur</ClassId>
+  <Date>2008-02-21</Date>
+  <Time>12:00</Time>
+  <Locality>Rogitama (Reserva Principe de Arcabuco)</Locality>
+  <Latitude>5.779625</Latitude>
+  <Longitude>-73.44635</Longitude>
+  <Elevation>2500</Elevation>
+  <Author>Herman van Oosten</Author>
+  <AuthorID>SNUDCZVUQK</AuthorID>
+  <Content>fast song</Content>
+  <Comments>What a bird, a full adult male! This is the faster, more jumbled song, compare to the other recs of the same bird.</Comments>
+  <Quality>2</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies>Chaetocercus mulsant</BackgroundSpecies>
+  <Order>Apodiformes</Order>
+  <Family>Trochilidae</Family>
+  <Genus>Campylopterus</Genus>
+  <Species>falcatus</Species>
+  <Sub-species />
+  <VernacularNames>Lazuline Sabrewing</VernacularNames>
+</Audio>

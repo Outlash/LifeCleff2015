@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>11558</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN11558.wav</FileName>
+  <ClassId>ssjqni</ClassId>
+  <Date>2009-04-05</Date>
+  <Time>?:?</Time>
+  <Locality>Anavilhanas Archipelago</Locality>
+  <Latitude>-2.6834</Latitude>
+  <Longitude>-60.7501</Longitude>
+  <Elevation>?</Elevation>
+  <Author>Joseph Tobias and Nathalie Seddon</Author>
+  <AuthorID>IKMWQIXRNV</AuthorID>
+  <Content>song</Content>
+  <Comments>track T1931.</Comments>
+  <Quality>2</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Thamnophilidae</Family>
+  <Genus>Myrmotherula</Genus>
+  <Species>axillaris</Species>
+  <Sub-species />
+  <VernacularNames>White-flanked Antwren</VernacularNames>
+</Audio>

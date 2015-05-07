@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>23133</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN23133.wav</FileName>
+  <ClassId>smulfl</ClassId>
+  <Date>2010-01-31</Date>
+  <Time>08:00</Time>
+  <Locality>Alto Galapagos</Locality>
+  <Latitude>NULL</Latitude>
+  <Longitude>NULL</Longitude>
+  <Elevation>1800</Elevation>
+  <Author>Frank Lambert</Author>
+  <AuthorID>YTUXOCTUEM</AuthorID>
+  <Content>song</Content>
+  <Comments />
+  <Quality>2</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Furnariidae</Family>
+  <Genus>Cranioleuca</Genus>
+  <Species>erythrops</Species>
+  <Sub-species />
+  <VernacularNames>Red-faced Spinetail</VernacularNames>
+</Audio>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>29097</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN29097.wav</FileName>
+  <ClassId>uhwmky</ClassId>
+  <Date>2014-10-03</Date>
+  <Time>09:00</Time>
+  <Locality>Libano, Tolima</Locality>
+  <Latitude>4.9054</Latitude>
+  <Longitude>-75.0279</Longitude>
+  <Elevation>1400</Elevation>
+  <Author>Jeisson Poveda</Author>
+  <AuthorID>CVJNYXJFAW</AuthorID>
+  <Content>song</Content>
+  <Comments>Individuo vocalizando sobre la parte alta de un bosque subtropical.Individual vocalizing on top of a subtropical forest.bird-seen:yesplayback-used:no</Comments>
+  <Quality>1</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies>Mionectes oleagineus</BackgroundSpecies>
+  <Order>Passeriformes</Order>
+  <Family>Tyrannidae</Family>
+  <Genus>Lophotriccus</Genus>
+  <Species>pileatus</Species>
+  <Sub-species />
+  <VernacularNames>Scale-crested Pygmy Tyrant</VernacularNames>
+</Audio>

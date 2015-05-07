@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>29442</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN29442.wav</FileName>
+  <ClassId>hijhrx</ClassId>
+  <Date>2006-12-19</Date>
+  <Time>21:00</Time>
+  <Locality>Caripe</Locality>
+  <Latitude>10.2056</Latitude>
+  <Longitude>-63.5173</Longitude>
+  <Elevation>1100</Elevation>
+  <Author>Doug Knapp</Author>
+  <AuthorID>BHRXQZEQFL</AuthorID>
+  <Content>Song</Content>
+  <Comments />
+  <Quality>0</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Strigiformes</Order>
+  <Family>Strigidae</Family>
+  <Genus>Megascops</Genus>
+  <Species>choliba</Species>
+  <Sub-species />
+  <VernacularNames>Tropical Screech Owl</VernacularNames>
+</Audio>

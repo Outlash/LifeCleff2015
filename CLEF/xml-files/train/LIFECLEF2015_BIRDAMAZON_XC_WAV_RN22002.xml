@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>22002</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN22002.wav</FileName>
+  <ClassId>dgocsv</ClassId>
+  <Date>2006-08-31</Date>
+  <Time>8:43</Time>
+  <Locality>San Gil, Santander</Locality>
+  <Latitude>6.549676</Latitude>
+  <Longitude>-73.143196</Longitude>
+  <Elevation>1110</Elevation>
+  <Author>Charles Hesse</Author>
+  <AuthorID>FMQSRXIRTH</AuthorID>
+  <Content>call</Content>
+  <Comments>link:http://www.geocities.com/fringe_backed_fire_eye/index.html               Perched</Comments>
+  <Quality>2</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Psittaciformes</Order>
+  <Family>Psittacidae</Family>
+  <Genus>Forpus</Genus>
+  <Species>conspicillatus</Species>
+  <Sub-species>metae</Sub-species>
+  <VernacularNames>Spectacled Parrotlet</VernacularNames>
+</Audio>

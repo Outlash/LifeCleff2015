@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>19777</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN19777.wav</FileName>
+  <ClassId>cpdfzn</ClassId>
+  <Date>2005-10-05</Date>
+  <Time>7:54</Time>
+  <Locality>Soata, Cerca de la Quebrada Municipal, Santander</Locality>
+  <Latitude>6.3334</Latitude>
+  <Longitude>-72.6667</Longitude>
+  <Elevation>1800-1900</Elevation>
+  <Author>Oscar Laverde</Author>
+  <AuthorID>WKVKSVMNDZ</AuthorID>
+  <Content>call</Content>
+  <Comments>reclamos de acoso, despues de playback, individuo juvenil y solitario...</Comments>
+  <Quality>2</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies>Setophaga pitiayumi</BackgroundSpecies>
+  <Order>Passeriformes</Order>
+  <Family>Troglodytidae</Family>
+  <Genus>Thryophilus</Genus>
+  <Species>nicefori</Species>
+  <Sub-species />
+  <VernacularNames>Niceforo's Wren</VernacularNames>
+</Audio>

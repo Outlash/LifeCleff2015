@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>26300</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN26300.wav</FileName>
+  <ClassId>zxedcd</ClassId>
+  <Date>2011-03-02</Date>
+  <Time>08:30</Time>
+  <Locality>Barinitas, Bolivar, Barinas</Locality>
+  <Latitude>8.8128</Latitude>
+  <Longitude>-70.5066</Longitude>
+  <Elevation>800</Elevation>
+  <Author>Albert Lastukhin</Author>
+  <AuthorID>LELYWQKUZX</AuthorID>
+  <Content>call, song</Content>
+  <Comments>Det D. Lane.bird-seen:noplayback-used:no</Comments>
+  <Quality>3</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies>Psarocolius decumanus,Turdus leucomelas</BackgroundSpecies>
+  <Order>Passeriformes</Order>
+  <Family>Troglodytidae</Family>
+  <Genus>Pheugopedius</Genus>
+  <Species>rutilus</Species>
+  <Sub-species>rutilus</Sub-species>
+  <VernacularNames>Rufous-breasted Wren</VernacularNames>
+</Audio>

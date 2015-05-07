@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>2922</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN2922.wav</FileName>
+  <ClassId>jttuic</ClassId>
+  <Date>2009-09-16</Date>
+  <Time>04:35</Time>
+  <Locality>Riacho dos Machados - MG</Locality>
+  <Latitude>NULL</Latitude>
+  <Longitude>NULL</Longitude>
+  <Elevation>800</Elevation>
+  <Author>Luiz Gabriel Mazzoni</Author>
+  <AuthorID>MPOKMOFDDX</AuthorID>
+  <Content>Song</Content>
+  <Comments />
+  <Quality>2</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies>Compsothraupis loricata,Phaeomyias murina,Gallus gallus</BackgroundSpecies>
+  <Order>Caprimulgiformes</Order>
+  <Family>Nyctibiidae</Family>
+  <Genus>Nyctibius</Genus>
+  <Species>griseus</Species>
+  <Sub-species />
+  <VernacularNames>Common Potoo</VernacularNames>
+</Audio>

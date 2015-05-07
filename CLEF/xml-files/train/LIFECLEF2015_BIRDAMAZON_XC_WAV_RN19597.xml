@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>19597</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN19597.wav</FileName>
+  <ClassId>bogxos</ClassId>
+  <Date>2005-11-18</Date>
+  <Time>11:23</Time>
+  <Locality>Laguna de Pedro Palo (Cundinamarca)</Locality>
+  <Latitude>4.01</Latitude>
+  <Longitude>-74.01</Longitude>
+  <Elevation>1950</Elevation>
+  <Author>Oswaldo Cortes</Author>
+  <AuthorID>VVDRVZCVWW</AuthorID>
+  <Content>call</Content>
+  <Comments>reclamos de agresion hacia otro P. sulphuratus</Comments>
+  <Quality>5</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Tyrannidae</Family>
+  <Genus>Megarynchus</Genus>
+  <Species>pitangua</Species>
+  <Sub-species />
+  <VernacularNames>Boat-billed Flycatcher</VernacularNames>
+</Audio>

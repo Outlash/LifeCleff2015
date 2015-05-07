@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>27604</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN27604.wav</FileName>
+  <ClassId>efzmgo</ClassId>
+  <Date>2000-06-03</Date>
+  <Time>Sunset</Time>
+  <Locality>Reserva La Forzosa (Vereda Roble arriba), Anori, Antioquia</Locality>
+  <Latitude>NULL</Latitude>
+  <Longitude>NULL</Longitude>
+  <Elevation>1800</Elevation>
+  <Author>Bernabe Lopez-Lanus</Author>
+  <AuthorID>BYLLSJRVDZ</AuthorID>
+  <Content>song</Content>
+  <Comments>At dusk</Comments>
+  <Quality>3</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Galliformes</Order>
+  <Family>Cracidae</Family>
+  <Genus>Aburria</Genus>
+  <Species>aburri</Species>
+  <Sub-species />
+  <VernacularNames>Wattled Guan</VernacularNames>
+</Audio>

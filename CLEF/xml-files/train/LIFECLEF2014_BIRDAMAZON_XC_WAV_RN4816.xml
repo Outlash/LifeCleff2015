@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>4816</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN4816.wav</FileName>
+  <ClassId>kaobjf</ClassId>
+  <Date>2006-05-27</Date>
+  <Time>10:40</Time>
+  <Locality>ReBio Tinguá - Petrópolis - RJ</Locality>
+  <Latitude>-22.506531</Latitude>
+  <Longitude>-43.186569</Longitude>
+  <Elevation>1200</Elevation>
+  <Author>Ricardo Gagliardi</Author>
+  <AuthorID>YRDADNREOP</AuthorID>
+  <Content>call</Content>
+  <Comments />
+  <Quality>2</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Tyrannidae</Family>
+  <Genus>Hemitriccus</Genus>
+  <Species>diops</Species>
+  <Sub-species />
+  <VernacularNames>Drab-breasted Bamboo Tyrant</VernacularNames>
+</Audio>

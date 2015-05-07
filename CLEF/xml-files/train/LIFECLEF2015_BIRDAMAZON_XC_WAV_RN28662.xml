@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>28662</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN28662.wav</FileName>
+  <ClassId>cqqnge</ClassId>
+  <Date>2010-06-11</Date>
+  <Time>07:30</Time>
+  <Locality>Manaus, Amazonas</Locality>
+  <Latitude>-2.8086</Latitude>
+  <Longitude>-59.8727</Longitude>
+  <Elevation>40</Elevation>
+  <Author>GABRIEL LEITE</Author>
+  <AuthorID>TGBFXDVERJ</AuthorID>
+  <Content>call</Content>
+  <Comments>bird-seen:yesplayback-used:no</Comments>
+  <Quality>4</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Furnariidae</Family>
+  <Genus>Dendrocincla</Genus>
+  <Species>fuliginosa</Species>
+  <Sub-species />
+  <VernacularNames>Plain-brown Woodcreeper</VernacularNames>
+</Audio>

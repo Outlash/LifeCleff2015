@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>16654</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN16654.wav</FileName>
+  <ClassId>tmmseh</ClassId>
+  <Date>2008-01-27</Date>
+  <Time>08:00</Time>
+  <Locality>Hato Pinero, Cojedes</Locality>
+  <Latitude>8.9498</Latitude>
+  <Longitude>-68.0831</Longitude>
+  <Elevation>70</Elevation>
+  <Author>Daniel Lane</Author>
+  <AuthorID>WOEAFQRMUD</AuthorID>
+  <Content>call</Content>
+  <Comments>Calls of several along bank of creek.</Comments>
+  <Quality>1</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies>Parkesia noveboracensis,Eurypyga helias</BackgroundSpecies>
+  <Order>Opisthocomiformes</Order>
+  <Family>Opisthocomidae</Family>
+  <Genus>Opisthocomus</Genus>
+  <Species>hoazin</Species>
+  <Sub-species />
+  <VernacularNames>Hoatzin</VernacularNames>
+</Audio>

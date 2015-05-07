@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>4705</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN4705.wav</FileName>
+  <ClassId>zieccy</ClassId>
+  <Date>2009-01-23</Date>
+  <Time>7:13</Time>
+  <Locality>RPPN Serra Bonita, Camacan, Bahia.</Locality>
+  <Latitude>-15.3851</Latitude>
+  <Longitude>-39.5709</Longitude>
+  <Elevation>750</Elevation>
+  <Author>Sidnei S. dos Santos</Author>
+  <AuthorID>BHODJXTHGQ</AuthorID>
+  <Content>Song</Content>
+  <Comments />
+  <Quality>3</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Formicariidae</Family>
+  <Genus>Chamaeza</Genus>
+  <Species>meruloides</Species>
+  <Sub-species />
+  <VernacularNames>Cryptic Antthrush</VernacularNames>
+</Audio>

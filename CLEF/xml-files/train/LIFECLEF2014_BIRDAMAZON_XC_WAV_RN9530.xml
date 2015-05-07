@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>9530</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN9530.wav</FileName>
+  <ClassId>nrzcow</ClassId>
+  <Date>2006-12-30</Date>
+  <Time>14:40</Time>
+  <Locality>Birigui, Sao Paulo state</Locality>
+  <Latitude>-21.2451</Latitude>
+  <Longitude>-50.3734</Longitude>
+  <Elevation>390</Elevation>
+  <Author>Joao Menezes</Author>
+  <AuthorID>BEYMZHZHIB</AuthorID>
+  <Content>call</Content>
+  <Comments />
+  <Quality>2</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies />
+  <Order>Piciformes</Order>
+  <Family>Picidae</Family>
+  <Genus>Colaptes</Genus>
+  <Species>campestris</Species>
+  <Sub-species>campestris</Sub-species>
+  <VernacularNames>Campo Flicker</VernacularNames>
+</Audio>

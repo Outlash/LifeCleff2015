@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>15515</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN15515.wav</FileName>
+  <ClassId>zqzulo</ClassId>
+  <Date>2010-08-23</Date>
+  <Time>17:45</Time>
+  <Locality>Reserva Ecológica de Guapiaçu, RJ</Locality>
+  <Latitude>-22.5001</Latitude>
+  <Longitude>-42.7167</Longitude>
+  <Elevation>50</Elevation>
+  <Author>Ricardo Gagliardi</Author>
+  <AuthorID>YRDADNREOP</AuthorID>
+  <Content>song</Content>
+  <Comments />
+  <Quality>2</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Gruiformes</Order>
+  <Family>Rallidae</Family>
+  <Genus>Amaurolimnas</Genus>
+  <Species>concolor</Species>
+  <Sub-species />
+  <VernacularNames>Uniform Crake</VernacularNames>
+</Audio>

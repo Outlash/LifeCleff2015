@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>26652</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN26652.wav</FileName>
+  <ClassId>qjmcsl</ClassId>
+  <Date>2000-09-27</Date>
+  <Time>07:29</Time>
+  <Locality>Entre La Romelia y El Planchon (PNN Munchique), Charguayaco, Vereda La Romelia, Mpio El Tambo, Cauca</Locality>
+  <Latitude>NULL</Latitude>
+  <Longitude>NULL</Longitude>
+  <Elevation>2300</Elevation>
+  <Author>Bernabe Lopez-Lanus</Author>
+  <AuthorID>BYLLSJRVDZ</AuthorID>
+  <Content>Call</Content>
+  <Comments />
+  <Quality>3</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Tyrannidae</Family>
+  <Genus>Hemitriccus</Genus>
+  <Species>granadensis</Species>
+  <Sub-species>granadensis</Sub-species>
+  <VernacularNames>Black-throated Tody-Tyrant</VernacularNames>
+</Audio>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>13247</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN13247.wav</FileName>
+  <ClassId>ifsjcq</ClassId>
+  <Date>2009-09-20</Date>
+  <Time>14:40</Time>
+  <Locality>Mucugê, Bahia.</Locality>
+  <Latitude>NULL</Latitude>
+  <Longitude>NULL</Longitude>
+  <Elevation>?</Elevation>
+  <Author>Sidnei S. dos Santos</Author>
+  <AuthorID>BHODJXTHGQ</AuthorID>
+  <Content>Song</Content>
+  <Comments />
+  <Quality>2</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Emberizidae</Family>
+  <Genus>Ammodramus</Genus>
+  <Species>humeralis</Species>
+  <Sub-species />
+  <VernacularNames>Grassland Sparrow</VernacularNames>
+</Audio>

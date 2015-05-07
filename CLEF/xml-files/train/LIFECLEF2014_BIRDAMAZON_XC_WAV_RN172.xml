@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>172</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN172.wav</FileName>
+  <ClassId>gevshc</ClassId>
+  <Date>2009-12-20</Date>
+  <Time>12:00</Time>
+  <Locality>Santo Antônio do Pinhal, São Paulo</Locality>
+  <Latitude>-22.7876</Latitude>
+  <Longitude>-45.6842</Longitude>
+  <Elevation>1000</Elevation>
+  <Author>GABRIEL LEITE</Author>
+  <AuthorID>TGBFXDVERJ</AuthorID>
+  <Content>flight call</Content>
+  <Comments>bird-seen:yesplayback-used:no</Comments>
+  <Quality>3</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies>Cyclarhis gujanensis,Pachyramphus validus</BackgroundSpecies>
+  <Order>Passeriformes</Order>
+  <Family>Thraupidae</Family>
+  <Genus>Tangara</Genus>
+  <Species>desmaresti</Species>
+  <Sub-species />
+  <VernacularNames>Brassy-breasted Tanager</VernacularNames>
+</Audio>

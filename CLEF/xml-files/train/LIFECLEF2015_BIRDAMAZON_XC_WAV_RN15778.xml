@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>15778</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN15778.wav</FileName>
+  <ClassId>veelze</ClassId>
+  <Date>2009-05-13</Date>
+  <Time>?</Time>
+  <Locality>Montaña de los Navas, Tolú, Sucre</Locality>
+  <Latitude>9.5775</Latitude>
+  <Longitude>-75.46111</Longitude>
+  <Elevation>40</Elevation>
+  <Author>Fernando Forero (Colección de Sonidos Ambientales - Instituto Humboldt)</Author>
+  <AuthorID>XMFDPACYJN</AuthorID>
+  <Content>song</Content>
+  <Comments>BSA 31617To obtain a wav file of the original recording, please contact csa@humboldt.org.coplayback-used:no</Comments>
+  <Quality>2</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Furnariidae</Family>
+  <Genus>Xiphorhynchus</Genus>
+  <Species>susurrans</Species>
+  <Sub-species />
+  <VernacularNames>Cocoa Woodcreeper</VernacularNames>
+</Audio>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>27503</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN27503.wav</FileName>
+  <ClassId>ohblxz</ClassId>
+  <Date>2010-01-04</Date>
+  <Time>09:40</Time>
+  <Locality>Sonsón, Antioquia, Vereda San Francisco, Cerro de las Palomas, Páramo de Sonsón</Locality>
+  <Latitude>5.716</Latitude>
+  <Longitude>-75.2583</Longitude>
+  <Elevation>3000</Elevation>
+  <Author>Oscar H. Marín-Gómez</Author>
+  <AuthorID>CSUHASNRSU</AuthorID>
+  <Content>call, song</Content>
+  <Comments>Ref: Tape OHM065A 2200. Group (three birds) foraging in middle strata inside the forest. Natural vocalization. Distance to mic: 20m. Natural vocalization bird-seen:yesplayback-used:no</Comments>
+  <Quality>3</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Thraupidae</Family>
+  <Genus>Anisognathus</Genus>
+  <Species>lacrymosus</Species>
+  <Sub-species />
+  <VernacularNames>Lacrimose Mountain Tanager</VernacularNames>
+</Audio>

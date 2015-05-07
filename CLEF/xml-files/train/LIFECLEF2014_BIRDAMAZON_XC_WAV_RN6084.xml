@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>6084</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN6084.wav</FileName>
+  <ClassId>vzrhzv</ClassId>
+  <Date>2000-09-11</Date>
+  <Time>06:40</Time>
+  <Locality>Alta Floresta, Mato Grosso. Near Hotel Floresta Amazônica</Locality>
+  <Latitude>-9.8834</Latitude>
+  <Longitude>-56.1001</Longitude>
+  <Elevation>260</Elevation>
+  <Author>Jeremy Minns</Author>
+  <AuthorID>DGVLLRYDXS</AuthorID>
+  <Content>Song</Content>
+  <Comments>Terra firme forest fragment. After playback.</Comments>
+  <Quality>2</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies>Microrhopias quixensis</BackgroundSpecies>
+  <Order>Passeriformes</Order>
+  <Family>Thamnophilidae</Family>
+  <Genus>Thamnophilus</Genus>
+  <Species>aethiops</Species>
+  <Sub-species>punctuliger</Sub-species>
+  <VernacularNames>White-shouldered Antshrike</VernacularNames>
+</Audio>

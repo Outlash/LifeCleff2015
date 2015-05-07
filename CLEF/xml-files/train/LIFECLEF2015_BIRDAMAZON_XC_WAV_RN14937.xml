@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>14937</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN14937.wav</FileName>
+  <ClassId>cvyifz</ClassId>
+  <Date>2012-09-21</Date>
+  <Time>09:30</Time>
+  <Locality>Nova Veneza, Santa Catarina state, Brazil</Locality>
+  <Latitude>-28.6301</Latitude>
+  <Longitude>-49.5073</Longitude>
+  <Elevation>80</Elevation>
+  <Author>João Gava</Author>
+  <AuthorID>CEKMJEZKSJ</AuthorID>
+  <Content>song</Content>
+  <Comments>bird-seen:yesplayback-used:no</Comments>
+  <Quality>3</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Cardinalidae</Family>
+  <Genus>Habia</Genus>
+  <Species>rubica</Species>
+  <Sub-species />
+  <VernacularNames>Red-crowned Ant Tanager</VernacularNames>
+</Audio>

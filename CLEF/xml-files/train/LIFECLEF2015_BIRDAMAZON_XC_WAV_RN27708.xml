@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>27708</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN27708.wav</FileName>
+  <ClassId>glepph</ClassId>
+  <Date>2007-06-07</Date>
+  <Time>?:?</Time>
+  <Locality>Sao Francisco de Paula, Rio Grande do Sul</Locality>
+  <Latitude>-29.454</Latitude>
+  <Longitude>-50.58</Longitude>
+  <Elevation>?</Elevation>
+  <Author>Bernabe Lopez-Lanus</Author>
+  <AuthorID>BYLLSJRVDZ</AuthorID>
+  <Content>call</Content>
+  <Comments>&lt;a href=http://www.xeno-canto.org/graphics/conosur.jpg rel=lightbox&gt;From Bird Sounds of Southern South America by Lopez-Lanus (2008)&lt;/a&gt;</Comments>
+  <Quality>3</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Psittaciformes</Order>
+  <Family>Psittacidae</Family>
+  <Genus>Pionopsitta</Genus>
+  <Species>pileata</Species>
+  <Sub-species />
+  <VernacularNames>Pileated Parrot</VernacularNames>
+</Audio>

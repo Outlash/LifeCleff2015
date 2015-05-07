@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>32900</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN32900.wav</FileName>
+  <ClassId>njtncg</ClassId>
+  <Date>2012-12-04</Date>
+  <Time>07:40</Time>
+  <Locality>Barichara, Santander</Locality>
+  <Latitude>6.6339</Latitude>
+  <Longitude>-73.2494</Longitude>
+  <Elevation>750</Elevation>
+  <Author>Oswaldo Cortes</Author>
+  <AuthorID>VVDRVZCVWW</AuthorID>
+  <Content>song</Content>
+  <Comments>Dry forest habitatbird-seen:yesplayback-used:no</Comments>
+  <Quality>4</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Cardinalidae</Family>
+  <Genus>Saltator</Genus>
+  <Species>striatipectus</Species>
+  <Sub-species />
+  <VernacularNames>Streaked Saltator</VernacularNames>
+</Audio>

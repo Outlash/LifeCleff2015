@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>6293</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN6293.wav</FileName>
+  <ClassId>dykocx</ClassId>
+  <Date>2009-01-04</Date>
+  <Time>20:10</Time>
+  <Locality>Ponto da Jaqueira (road to Vila da Glória), Itapoá, SC</Locality>
+  <Latitude>NULL</Latitude>
+  <Longitude>NULL</Longitude>
+  <Elevation>8</Elevation>
+  <Author>Eduardo Patrial</Author>
+  <AuthorID>QEFRRVCRRP</AuthorID>
+  <Content>song</Content>
+  <Comments />
+  <Quality>1</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies />
+  <Order>Gruiformes</Order>
+  <Family>Rallidae</Family>
+  <Genus>Laterallus</Genus>
+  <Species>melanophaius</Species>
+  <Sub-species />
+  <VernacularNames>Rufous-sided Crake</VernacularNames>
+</Audio>

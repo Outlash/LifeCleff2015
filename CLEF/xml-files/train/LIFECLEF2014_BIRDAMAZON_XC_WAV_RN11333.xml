@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>11333</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN11333.wav</FileName>
+  <ClassId>kwwbda</ClassId>
+  <Date>2004-07-04</Date>
+  <Time>09:29</Time>
+  <Locality>Itatiaia National Park - Agulhas Negras road</Locality>
+  <Latitude>-22.3667</Latitude>
+  <Longitude>-44.7334</Longitude>
+  <Elevation>1800</Elevation>
+  <Author>Jeremy Minns</Author>
+  <AuthorID>DGVLLRYDXS</AuthorID>
+  <Content>Call</Content>
+  <Comments>Call C. Classification as in our DVD-ROM 'Birds of Brazil' High altitude montane forest. Female.</Comments>
+  <Quality>1</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies>Tijuca atra,Cyclarhis gujanensis</BackgroundSpecies>
+  <Order>Passeriformes</Order>
+  <Family>Thamnophilidae</Family>
+  <Genus>Thamnophilus</Genus>
+  <Species>caerulescens</Species>
+  <Sub-species>caerulescens</Sub-species>
+  <VernacularNames>Variable Antshrike</VernacularNames>
+</Audio>

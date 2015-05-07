@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>13028</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN13028.wav</FileName>
+  <ClassId>ewytof</ClassId>
+  <Date>2002-08-01</Date>
+  <Time>09:44</Time>
+  <Locality>Perequê - Angra dos Reis - RJ</Locality>
+  <Latitude>-23.012</Latitude>
+  <Longitude>-44.5351</Longitude>
+  <Elevation>50</Elevation>
+  <Author>Jeremy Minns</Author>
+  <AuthorID>DGVLLRYDXS</AuthorID>
+  <Content>Song</Content>
+  <Comments>Lowland secondary growth and overgrown plantations.</Comments>
+  <Quality>1</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies>Drymophila ferruginea,Terenura maculata,Pachyramphus polychopterus</BackgroundSpecies>
+  <Order>Passeriformes</Order>
+  <Family>Thamnophilidae</Family>
+  <Genus>Mackenziaena</Genus>
+  <Species>severa</Species>
+  <Sub-species />
+  <VernacularNames>Tufted Antshrike</VernacularNames>
+</Audio>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>21926</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN21926.wav</FileName>
+  <ClassId>gwzyoa</ClassId>
+  <Date>2011-03-08</Date>
+  <Time>08:00</Time>
+  <Locality>Voltzberg, Raleighvallen National Park</Locality>
+  <Latitude>4.6831</Latitude>
+  <Longitude>-56.1667</Longitude>
+  <Elevation>60</Elevation>
+  <Author>Daniel Lane</Author>
+  <AuthorID>WOEAFQRMUD</AuthorID>
+  <Content>song</Content>
+  <Comments>Response to playback from male (female in background) in understory &lt;1m up in dense palm-dominated understory of tall forest. Same bird as in previous cut.</Comments>
+  <Quality>1</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Thamnophilidae</Family>
+  <Genus>Hylophylax</Genus>
+  <Species>naevius</Species>
+  <Sub-species>naevius</Sub-species>
+  <VernacularNames>Spot-backed Antbird</VernacularNames>
+</Audio>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>14517</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN14517.wav</FileName>
+  <ClassId>qerdnh</ClassId>
+  <Date>2011-06-11</Date>
+  <Time>16:40</Time>
+  <Locality>Mitu, Vaupes</Locality>
+  <Latitude>1.2598</Latitude>
+  <Longitude>-70.2367</Longitude>
+  <Elevation>190</Elevation>
+  <Author>Andrew Spencer</Author>
+  <AuthorID>CDTGHVBGZP</AuthorID>
+  <Content>call</Content>
+  <Comments>natural vocalization, calls from a female plumaged bird.</Comments>
+  <Quality>2</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Thamnophilidae</Family>
+  <Genus>Thamnophilus</Genus>
+  <Species>murinus</Species>
+  <Sub-species>murinus</Sub-species>
+  <VernacularNames>Mouse-colored Antshrike</VernacularNames>
+</Audio>

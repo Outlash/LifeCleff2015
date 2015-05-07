@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>28403</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN28403.wav</FileName>
+  <ClassId>lzezgo</ClassId>
+  <Date>2007-12-15</Date>
+  <Time>07:03</Time>
+  <Locality>silvania</Locality>
+  <Latitude>4.01</Latitude>
+  <Longitude>-74.01</Longitude>
+  <Elevation>2140</Elevation>
+  <Author>Oswaldo Cortes</Author>
+  <AuthorID>VVDRVZCVWW</AuthorID>
+  <Content>song</Content>
+  <Comments>Respuesta a Playback</Comments>
+  <Quality>5</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Rhinocryptidae</Family>
+  <Genus>Scytalopus</Genus>
+  <Species>latrans</Species>
+  <Sub-species />
+  <VernacularNames>Blackish Tapaculo</VernacularNames>
+</Audio>

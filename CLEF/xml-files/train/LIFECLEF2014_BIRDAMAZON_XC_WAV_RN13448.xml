@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>13448</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN13448.wav</FileName>
+  <ClassId>leuotc</ClassId>
+  <Date>2006-08-23</Date>
+  <Time>06:15</Time>
+  <Locality>Tucuruí dam, right margin of the lake, state of Pará</Locality>
+  <Latitude>-4.2327</Latitude>
+  <Longitude>-49.41194</Longitude>
+  <Elevation>50</Elevation>
+  <Author>Sidnei Dantas</Author>
+  <AuthorID>NNCKQMBGPH</AuthorID>
+  <Content>song</Content>
+  <Comments>Three individuals, in undergrowth</Comments>
+  <Quality>2</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies>Hemithraupis guira,Lepidocolaptes albolineatus,Myrmotherula axillaris,Hemithraupis guira</BackgroundSpecies>
+  <Order>Passeriformes</Order>
+  <Family>Furnariidae</Family>
+  <Genus>Dendrocolaptes</Genus>
+  <Species>certhia</Species>
+  <Sub-species>medius</Sub-species>
+  <VernacularNames>Amazonian Barred Woodcreeper</VernacularNames>
+</Audio>

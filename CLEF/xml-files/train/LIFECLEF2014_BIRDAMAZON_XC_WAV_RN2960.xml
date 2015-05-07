@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>2960</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN2960.wav</FileName>
+  <ClassId>aiigbg</ClassId>
+  <Date>2001-08-27</Date>
+  <Time>09:40</Time>
+  <Locality>Serra do Mar State Park. Santa Virgínia</Locality>
+  <Latitude>-23.3834</Latitude>
+  <Longitude>-45.1334</Longitude>
+  <Elevation>900</Elevation>
+  <Author>Jeremy Minns</Author>
+  <AuthorID>DGVLLRYDXS</AuthorID>
+  <Content>Call</Content>
+  <Comments>Montane forest</Comments>
+  <Quality>0</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies>Procnias nudicollis</BackgroundSpecies>
+  <Order>Passeriformes</Order>
+  <Family>Furnariidae</Family>
+  <Genus>Sittasomus</Genus>
+  <Species>griseicapillus</Species>
+  <Sub-species>sylviellus</Sub-species>
+  <VernacularNames>Olivaceous Woodcreeper</VernacularNames>
+</Audio>

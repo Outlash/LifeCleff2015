@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>7244</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN7244.wav</FileName>
+  <ClassId>xychdo</ClassId>
+  <Date>1991-07-00</Date>
+  <Time>8am</Time>
+  <Locality>Hotel Donati, Itatiaia NP, Rio de Janeiro state</Locality>
+  <Latitude>-22.443</Latitude>
+  <Longitude>-44.6</Longitude>
+  <Elevation>950</Elevation>
+  <Author>Antonio Silveira</Author>
+  <AuthorID>NBJQSQJRYH</AuthorID>
+  <Content>song</Content>
+  <Comments>bird-seen:yesplayback-used:no</Comments>
+  <Quality>2</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Troglodytidae</Family>
+  <Genus>Troglodytes</Genus>
+  <Species>aedon</Species>
+  <Sub-species />
+  <VernacularNames>House Wren</VernacularNames>
+</Audio>

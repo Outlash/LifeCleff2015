@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>5867</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN5867.wav</FileName>
+  <ClassId>qoqtfu</ClassId>
+  <Date>2011-08-27</Date>
+  <Time>11:30</Time>
+  <Locality>Parauapebas, Para</Locality>
+  <Latitude>-6.1802</Latitude>
+  <Longitude>-50.2968</Longitude>
+  <Elevation>440</Elevation>
+  <Author>GABRIEL LEITE</Author>
+  <AuthorID>TGBFXDVERJ</AuthorID>
+  <Content>flight call</Content>
+  <Comments>bird-seen:yesplayback-used:no</Comments>
+  <Quality>2</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Hirundinidae</Family>
+  <Genus>Stelgidopteryx</Genus>
+  <Species>ruficollis</Species>
+  <Sub-species />
+  <VernacularNames>Southern Rough-winged Swallow</VernacularNames>
+</Audio>

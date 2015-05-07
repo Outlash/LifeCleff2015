@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>2294</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN2294.wav</FileName>
+  <ClassId>bmiqmk</ClassId>
+  <Date>2009-10-04</Date>
+  <Time>06:30</Time>
+  <Locality>Fazenda Castanheiras (APA -Bororé - Colonia) São Paulo, SP</Locality>
+  <Latitude>-23.8081</Latitude>
+  <Longitude>-46.6498</Longitude>
+  <Elevation>760</Elevation>
+  <Author>Marcos Melo</Author>
+  <AuthorID>MRGDYNJGUJ</AuthorID>
+  <Content>different song</Content>
+  <Comments />
+  <Quality>2</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Pipridae</Family>
+  <Genus>Chiroxiphia</Genus>
+  <Species>caudata</Species>
+  <Sub-species />
+  <VernacularNames>Blue Manakin</VernacularNames>
+</Audio>

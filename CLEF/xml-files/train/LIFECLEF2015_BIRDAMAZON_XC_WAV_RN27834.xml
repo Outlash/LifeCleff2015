@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>27834</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN27834.wav</FileName>
+  <ClassId>hdcvoa</ClassId>
+  <Date>2007-12-09</Date>
+  <Time>?:?</Time>
+  <Locality>Mana, rice fields</Locality>
+  <Latitude>NULL</Latitude>
+  <Longitude>NULL</Longitude>
+  <Elevation>2</Elevation>
+  <Author>Alexandre Renaudier</Author>
+  <AuthorID>GKADEITXTH</AuthorID>
+  <Content>call</Content>
+  <Comments>natural recording</Comments>
+  <Quality>1</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Charadriiformes</Order>
+  <Family>Scolopacidae</Family>
+  <Genus>Tringa</Genus>
+  <Species>solitaria</Species>
+  <Sub-species />
+  <VernacularNames>Solitary Sandpiper</VernacularNames>
+</Audio>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>6835</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN6835.wav</FileName>
+  <ClassId>aufwve</ClassId>
+  <Date>2012-01-05</Date>
+  <Time>21:30</Time>
+  <Locality>São José dos Campos, São Paulo</Locality>
+  <Latitude>-23.0726</Latitude>
+  <Longitude>-45.9388</Longitude>
+  <Elevation>700</Elevation>
+  <Author>Rodrigo Dela Rosa de Souza</Author>
+  <AuthorID>VGXDJMKETZ</AuthorID>
+  <Content>song</Content>
+  <Comments>bird-seen:yesplayback-used:yes</Comments>
+  <Quality>1</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies />
+  <Order>Strigiformes</Order>
+  <Family>Strigidae</Family>
+  <Genus>Megascops</Genus>
+  <Species>atricapilla</Species>
+  <Sub-species />
+  <VernacularNames>Black-capped Screech Owl</VernacularNames>
+</Audio>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>19333</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN19333.wav</FileName>
+  <ClassId>xxmngp</ClassId>
+  <Date>2010-09-16</Date>
+  <Time>06:25</Time>
+  <Locality>Chapada dos Guimaraes, MT</Locality>
+  <Latitude>-15.4562</Latitude>
+  <Longitude>-55.7748</Longitude>
+  <Elevation>?</Elevation>
+  <Author>Dennis Murphy</Author>
+  <AuthorID>NHQFUOWSPW</AuthorID>
+  <Content>song</Content>
+  <Comments />
+  <Quality>2</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Melanopareiidae</Family>
+  <Genus>Melanopareia</Genus>
+  <Species>torquata</Species>
+  <Sub-species />
+  <VernacularNames>Collared Crescentchest</VernacularNames>
+</Audio>

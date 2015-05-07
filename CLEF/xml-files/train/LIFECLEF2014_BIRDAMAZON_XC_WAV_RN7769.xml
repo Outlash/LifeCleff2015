@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>7769</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN7769.wav</FileName>
+  <ClassId>qrhwnu</ClassId>
+  <Date>2012-11-23</Date>
+  <Time>09:00</Time>
+  <Locality>Rio Preto,Itanhaém, São Paulo State</Locality>
+  <Latitude>-24.178</Latitude>
+  <Longitude>-46.947</Longitude>
+  <Elevation>10</Elevation>
+  <Author>Robson Silva e Silva</Author>
+  <AuthorID>WZSVLIHYQF</AuthorID>
+  <Content>song</Content>
+  <Comments>bird-seen:yesplayback-used:no</Comments>
+  <Quality>1</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies />
+  <Order>Piciformes</Order>
+  <Family>Ramphastidae</Family>
+  <Genus>Ramphastos</Genus>
+  <Species>vitellinus</Species>
+  <Sub-species>ariel</Sub-species>
+  <VernacularNames>Channel-billed Toucan</VernacularNames>
+</Audio>

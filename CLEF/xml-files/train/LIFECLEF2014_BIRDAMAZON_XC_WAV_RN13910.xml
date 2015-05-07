@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>13910</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN13910.wav</FileName>
+  <ClassId>fpnmqt</ClassId>
+  <Date>2009-04-15</Date>
+  <Time>10:05</Time>
+  <Locality>Carlos Botelho State Park, Sao Paulo state</Locality>
+  <Latitude>-24.1937</Latitude>
+  <Longitude>-47.9185</Longitude>
+  <Elevation>690</Elevation>
+  <Author>Robson Silva e Silva</Author>
+  <AuthorID>WZSVLIHYQF</AuthorID>
+  <Content>call</Content>
+  <Comments>Respose to playback</Comments>
+  <Quality>2</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Rhinocryptidae</Family>
+  <Genus>Scytalopus</Genus>
+  <Species>speluncae</Species>
+  <Sub-species />
+  <VernacularNames>Mouse-colored Tapaculo</VernacularNames>
+</Audio>

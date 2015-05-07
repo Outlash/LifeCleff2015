@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>24248</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN24248.wav</FileName>
+  <ClassId>omrceb</ClassId>
+  <Date>2011-02-17</Date>
+  <Time>17:30</Time>
+  <Locality>Salete, Santa Catarina</Locality>
+  <Latitude>-26.9981</Latitude>
+  <Longitude>-50.0117</Longitude>
+  <Elevation>550</Elevation>
+  <Author>Douglas Meyer</Author>
+  <AuthorID>MNENFHYTAE</AuthorID>
+  <Content>call, song</Content>
+  <Comments>bird-seen:yesplayback-used:yes</Comments>
+  <Quality>1</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Furnariidae</Family>
+  <Genus>Anabazenops</Genus>
+  <Species>fuscus</Species>
+  <Sub-species />
+  <VernacularNames>White-collared Foliage-gleaner</VernacularNames>
+</Audio>

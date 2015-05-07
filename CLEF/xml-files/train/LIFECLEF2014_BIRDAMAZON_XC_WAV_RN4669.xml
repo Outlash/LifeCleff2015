@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>4669</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN4669.wav</FileName>
+  <ClassId>inyngh</ClassId>
+  <Date>0000-00-00</Date>
+  <Time>?</Time>
+  <Locality>?</Locality>
+  <Latitude>NULL</Latitude>
+  <Longitude>NULL</Longitude>
+  <Elevation>?</Elevation>
+  <Author>Ronald van den Berg</Author>
+  <AuthorID>PGBFDFRXVW</AuthorID>
+  <Content>song</Content>
+  <Comments />
+  <Quality>3</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Thraupidae</Family>
+  <Genus>Tachyphonus</Genus>
+  <Species>coronatus</Species>
+  <Sub-species />
+  <VernacularNames>Ruby-crowned Tanager</VernacularNames>
+</Audio>

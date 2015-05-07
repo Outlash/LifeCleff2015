@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>9006</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN9006.wav</FileName>
+  <ClassId>qiauol</ClassId>
+  <Date>2012-12-07</Date>
+  <Time>07:30</Time>
+  <Locality>Serra do Itapeti, Mogi das Cruzes, São Paulo State</Locality>
+  <Latitude>NULL</Latitude>
+  <Longitude>NULL</Longitude>
+  <Elevation>750</Elevation>
+  <Author>Robson Silva e Silva</Author>
+  <AuthorID>WZSVLIHYQF</AuthorID>
+  <Content>female, male, song</Content>
+  <Comments>bird-seen:yesplayback-used:yes</Comments>
+  <Quality>1</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies />
+  <Order>Piciformes</Order>
+  <Family>Ramphastidae</Family>
+  <Genus>Ramphastos</Genus>
+  <Species>dicolorus</Species>
+  <Sub-species />
+  <VernacularNames>Green-billed Toucan</VernacularNames>
+</Audio>

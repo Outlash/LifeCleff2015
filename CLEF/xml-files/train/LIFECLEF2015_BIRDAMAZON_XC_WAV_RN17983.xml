@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>17983</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN17983.wav</FileName>
+  <ClassId>xplaij</ClassId>
+  <Date>2003-12-04</Date>
+  <Time>05:45</Time>
+  <Locality>Pousada Araras, Pantanal, MT</Locality>
+  <Latitude>-16.5167</Latitude>
+  <Longitude>-56.7167</Longitude>
+  <Elevation>120</Elevation>
+  <Author>Jeremy Minns</Author>
+  <AuthorID>DGVLLRYDXS</AuthorID>
+  <Content>song</Content>
+  <Comments>seasonally flooded pasture and gallery woodlandbird-seen:noplayback-used:no</Comments>
+  <Quality>2</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies>Crypturellus undulatus</BackgroundSpecies>
+  <Order>Passeriformes</Order>
+  <Family>Tyrannidae</Family>
+  <Genus>Attila</Genus>
+  <Species>bolivianus</Species>
+  <Sub-species>bolivianus (ssp assumed from locality)</Sub-species>
+  <VernacularNames>White-eyed Attila</VernacularNames>
+</Audio>

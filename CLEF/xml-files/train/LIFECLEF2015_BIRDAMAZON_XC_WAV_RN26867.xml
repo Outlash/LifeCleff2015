@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>26867</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN26867.wav</FileName>
+  <ClassId>hzcyvm</ClassId>
+  <Date>2011-03-03</Date>
+  <Time>17-00</Time>
+  <Locality>Hotel Moruco, Santo Domingo, Merida</Locality>
+  <Latitude>8.8439</Latitude>
+  <Longitude>-70.7278</Longitude>
+  <Elevation>1600</Elevation>
+  <Author>Albert Lastukhin</Author>
+  <AuthorID>LELYWQKUZX</AuthorID>
+  <Content>tok-tok' call</Content>
+  <Comments />
+  <Quality>4</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Turdidae</Family>
+  <Genus>Turdus</Genus>
+  <Species>fuscater</Species>
+  <Sub-species />
+  <VernacularNames>Great Thrush</VernacularNames>
+</Audio>

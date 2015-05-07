@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>12500</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN12500.wav</FileName>
+  <ClassId>nabmpi</ClassId>
+  <Date>2010-01-05</Date>
+  <Time>5:24</Time>
+  <Locality>São Desidério, Bahia.</Locality>
+  <Latitude>NULL</Latitude>
+  <Longitude>NULL</Longitude>
+  <Elevation>?</Elevation>
+  <Author>Sidnei S. dos Santos</Author>
+  <AuthorID>BHODJXTHGQ</AuthorID>
+  <Content>Song</Content>
+  <Comments />
+  <Quality>2</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Furnariidae</Family>
+  <Genus>Furnarius</Genus>
+  <Species>rufus</Species>
+  <Sub-species />
+  <VernacularNames>Rufous Hornero</VernacularNames>
+</Audio>

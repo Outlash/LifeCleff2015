@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>9282</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN9282.wav</FileName>
+  <ClassId>obpowj</ClassId>
+  <Date>2009-01-22</Date>
+  <Time>11:36</Time>
+  <Locality>Cerros de Santa Silvana - Pelotas, Rio Grande do Sul</Locality>
+  <Latitude>NULL</Latitude>
+  <Longitude>NULL</Longitude>
+  <Elevation>200</Elevation>
+  <Author>Fernando Jacobs</Author>
+  <AuthorID>MHHPJBCUXC</AuthorID>
+  <Content>song</Content>
+  <Comments />
+  <Quality>1</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Tityridae</Family>
+  <Genus>Schiffornis</Genus>
+  <Species>virescens</Species>
+  <Sub-species />
+  <VernacularNames>Greenish Schiffornis</VernacularNames>
+</Audio>

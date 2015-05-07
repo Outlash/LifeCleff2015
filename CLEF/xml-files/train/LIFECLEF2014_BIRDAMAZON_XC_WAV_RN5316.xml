@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>5316</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN5316.wav</FileName>
+  <ClassId>scjydk</ClassId>
+  <Date>2008-08-08</Date>
+  <Time>pm</Time>
+  <Locality>Serra dos Carajás, PA</Locality>
+  <Latitude>-6.1603</Latitude>
+  <Longitude>-50.3459</Longitude>
+  <Elevation>525</Elevation>
+  <Author>Eduardo Patrial</Author>
+  <AuthorID>QEFRRVCRRP</AuthorID>
+  <Content>call</Content>
+  <Comments>calls on perch from 1 bird at 'barragem estéril sul'</Comments>
+  <Quality>2</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies />
+  <Order>Psittaciformes</Order>
+  <Family>Psittacidae</Family>
+  <Genus>Anodorhynchus</Genus>
+  <Species>hyacinthinus</Species>
+  <Sub-species />
+  <VernacularNames>Hyacinth Macaw</VernacularNames>
+</Audio>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>32552</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN32552.wav</FileName>
+  <ClassId>kzadgq</ClassId>
+  <Date>2011-10-21</Date>
+  <Time>08:00</Time>
+  <Locality>FARALLON DE MEDINA</Locality>
+  <Latitude>4.5834</Latitude>
+  <Longitude>-73.4834</Longitude>
+  <Elevation>2000</Elevation>
+  <Author>Oswaldo Cortes</Author>
+  <AuthorID>VVDRVZCVWW</AuthorID>
+  <Content>call</Content>
+  <Comments />
+  <Quality>2</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Emberizidae</Family>
+  <Genus>Chlorospingus</Genus>
+  <Species>flavopectus</Species>
+  <Sub-species />
+  <VernacularNames>Common Bush Tanager</VernacularNames>
+</Audio>

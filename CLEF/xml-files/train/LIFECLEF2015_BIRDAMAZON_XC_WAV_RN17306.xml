@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>17306</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN17306.wav</FileName>
+  <ClassId>ysorjs</ClassId>
+  <Date>2007-11-30</Date>
+  <Time>07:30</Time>
+  <Locality>Jaqueira Private Reserve, State of Pernambuco</Locality>
+  <Latitude>-8.72667</Latitude>
+  <Longitude>-35.79333</Longitude>
+  <Elevation>600</Elevation>
+  <Author>Ciro Albano</Author>
+  <AuthorID>MXVQPUKGWW</AuthorID>
+  <Content>song</Content>
+  <Comments>img:http://farm3.static.flickr.com/2278/2100706908_5400a4d455_o.jpg</Comments>
+  <Quality>1</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Furnariidae</Family>
+  <Genus>Philydor</Genus>
+  <Species>novaesi</Species>
+  <Sub-species />
+  <VernacularNames>Alagoas Foliage-gleaner</VernacularNames>
+</Audio>

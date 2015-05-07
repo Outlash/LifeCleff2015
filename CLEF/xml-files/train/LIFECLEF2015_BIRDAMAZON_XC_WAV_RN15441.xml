@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>15441</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN15441.wav</FileName>
+  <ClassId>loavzh</ClassId>
+  <Date>2011-03-18</Date>
+  <Time>9-10</Time>
+  <Locality>16 km w Barquisimeto</Locality>
+  <Latitude>10.0339</Latitude>
+  <Longitude>-69.5648</Longitude>
+  <Elevation>680</Elevation>
+  <Author>Albert Lastukhin</Author>
+  <AuthorID>LELYWQKUZX</AuthorID>
+  <Content>Alarm cal when taking flight</Content>
+  <Comments />
+  <Quality>3</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Galliformes</Order>
+  <Family>Odontophoridae</Family>
+  <Genus>Colinus</Genus>
+  <Species>cristatus</Species>
+  <Sub-species />
+  <VernacularNames>Crested Bobwhite</VernacularNames>
+</Audio>

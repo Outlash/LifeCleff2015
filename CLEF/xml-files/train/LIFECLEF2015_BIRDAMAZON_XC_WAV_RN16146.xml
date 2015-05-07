@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>16146</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN16146.wav</FileName>
+  <ClassId>xsdgpb</ClassId>
+  <Date>2014-01-12</Date>
+  <Time>10:00</Time>
+  <Locality>RPPN Serra Bonita, Camacan, Bahia.</Locality>
+  <Latitude>-15.3851</Latitude>
+  <Longitude>-39.5709</Longitude>
+  <Elevation>850</Elevation>
+  <Author>Niels Poul Dreyer</Author>
+  <AuthorID>YIQSVPAMDQ</AuthorID>
+  <Content>song</Content>
+  <Comments>bird-seen:yes</Comments>
+  <Quality>0</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Furnariidae</Family>
+  <Genus>Dendrocolaptes</Genus>
+  <Species>platyrostris</Species>
+  <Sub-species />
+  <VernacularNames>Planalto Woodcreeper</VernacularNames>
+</Audio>

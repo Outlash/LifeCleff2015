@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>27328</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN27328.wav</FileName>
+  <ClassId>tvizgf</ClassId>
+  <Date>2013-01-11</Date>
+  <Time>11:00</Time>
+  <Locality>RPPN Frei Caneca, Jaqueira, Pernambuco</Locality>
+  <Latitude>-8.7212</Latitude>
+  <Longitude>-35.8323</Longitude>
+  <Elevation>400</Elevation>
+  <Author>Dan Lane</Author>
+  <AuthorID>WOEAFQRMUD</AuthorID>
+  <Content>song</Content>
+  <Comments>Response to playback from a bird about 1-4m up in edge of humid scrub along grassy slope. Approached to about 3 m of mic, showing well. Possibly a young bird, as some yellow seemed to be at the base of the mandible.bird-seen:yesplayback-used:yes</Comments>
+  <Quality>1</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies>Hylocharis cyanus,Turdus leucomelas,Legatus leucophaius</BackgroundSpecies>
+  <Order>Passeriformes</Order>
+  <Family>Furnariidae</Family>
+  <Genus>Synallaxis</Genus>
+  <Species>infuscata</Species>
+  <Sub-species />
+  <VernacularNames>Pinto's Spinetail</VernacularNames>
+</Audio>

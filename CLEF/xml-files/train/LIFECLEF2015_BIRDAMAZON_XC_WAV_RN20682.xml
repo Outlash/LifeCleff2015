@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>20682</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN20682.wav</FileName>
+  <ClassId>ptfyqz</ClassId>
+  <Date>1994-09-20</Date>
+  <Time>?</Time>
+  <Locality>Meta, Guamal, Hacienda Mozambique</Locality>
+  <Latitude>3.950556</Latitude>
+  <Longitude>-73.96667</Longitude>
+  <Elevation />
+  <Author>Gary Stiles (Colección de Sonidos Ambientales - Instituto Humboldt)</Author>
+  <AuthorID>XMFDPACYJN</AuthorID>
+  <Content>song</Content>
+  <Comments>BSA 11156To obtain a wav file of the original recording, please contact csa@humboldt.org.cobird-seen:noplayback-used:no</Comments>
+  <Quality>1</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Tinamiformes</Order>
+  <Family>Tinamidae</Family>
+  <Genus>Crypturellus</Genus>
+  <Species>undulatus</Species>
+  <Sub-species />
+  <VernacularNames>Undulated Tinamou</VernacularNames>
+</Audio>

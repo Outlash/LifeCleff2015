@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>19650</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN19650.wav</FileName>
+  <ClassId>mdgxvm</ClassId>
+  <Date>2010-01-25</Date>
+  <Time>17:50</Time>
+  <Locality>RNA Arrierito Antioqueño, Anorí, Antioquia</Locality>
+  <Latitude>6.9862</Latitude>
+  <Longitude>-75.1251</Longitude>
+  <Elevation>1400</Elevation>
+  <Author>Pablo Florez</Author>
+  <AuthorID>ISWBQKPBGS</AuthorID>
+  <Content>?</Content>
+  <Comments />
+  <Quality>2</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Cuculiformes</Order>
+  <Family>Cuculidae</Family>
+  <Genus>Dromococcyx</Genus>
+  <Species>pavoninus</Species>
+  <Sub-species />
+  <VernacularNames>Pavonine Cuckoo</VernacularNames>
+</Audio>

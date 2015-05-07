@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>22420</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN22420.wav</FileName>
+  <ClassId>lgmaaa</ClassId>
+  <Date>2012-07-22</Date>
+  <Time>07:30</Time>
+  <Locality>AICA La Patasola, Vereda Boquía, Salento, Quindio</Locality>
+  <Latitude>4.6861</Latitude>
+  <Longitude>-75.5472</Longitude>
+  <Elevation>2300</Elevation>
+  <Author>Oscar H. Marín-Gómez</Author>
+  <AuthorID>CSUHASNRSU</AuthorID>
+  <Content>song</Content>
+  <Comments>Ref OHM100e. Response to playback. Rewritten to  XC128588. One Singing along the edge forest. 20m to mic. Montane Forest.bird-seen:yesplayback-used:yes</Comments>
+  <Quality>2</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Piciformes</Order>
+  <Family>Ramphastidae</Family>
+  <Genus>Aulacorhynchus</Genus>
+  <Species>griseigularis</Species>
+  <Sub-species />
+  <VernacularNames>Grey-throated Toucanet</VernacularNames>
+</Audio>

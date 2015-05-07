@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>12220</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN12220.wav</FileName>
+  <ClassId>reoana</ClassId>
+  <Date>2010-08-13</Date>
+  <Time>7:38</Time>
+  <Locality>Parque Estadual Mata dos Godoy, Londrina, Parana</Locality>
+  <Latitude>-23.4501</Latitude>
+  <Longitude>-51.2334</Longitude>
+  <Elevation>600</Elevation>
+  <Author>Renan Campos de Oliveira</Author>
+  <AuthorID>SDARDTGGWP</AuthorID>
+  <Content>call, Songs</Content>
+  <Comments>Response to playback (First Record of A. semitorquatus in the Parque Estadual Mata dos Godoy)</Comments>
+  <Quality>1</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Emberizidae</Family>
+  <Genus>Arremon</Genus>
+  <Species>semitorquatus</Species>
+  <Sub-species />
+  <VernacularNames>Half-collared Sparrow</VernacularNames>
+</Audio>

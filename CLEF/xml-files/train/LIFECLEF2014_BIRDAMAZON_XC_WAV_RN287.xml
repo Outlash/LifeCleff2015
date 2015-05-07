@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>287</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN287.wav</FileName>
+  <ClassId>kbnuar</ClassId>
+  <Date>2003-03-27</Date>
+  <Time>08:48</Time>
+  <Locality>Guajará-Mirim, RO</Locality>
+  <Latitude>-10.8814</Latitude>
+  <Longitude>-65.2501</Longitude>
+  <Elevation>130</Elevation>
+  <Author>Jeremy Minns</Author>
+  <AuthorID>DGVLLRYDXS</AuthorID>
+  <Content>Song</Content>
+  <Comments />
+  <Quality>2</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies />
+  <Order>Psittaciformes</Order>
+  <Family>Psittacidae</Family>
+  <Genus>Pionites</Genus>
+  <Species>leucogaster</Species>
+  <Sub-species />
+  <VernacularNames>White-bellied Parrot</VernacularNames>
+</Audio>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>20014</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN20014.wav</FileName>
+  <ClassId>mddteh</ClassId>
+  <Date>2010-09-08</Date>
+  <Time>06:40</Time>
+  <Locality>Paragominas, PA, Brazil, Bacia 100</Locality>
+  <Latitude>-2.742</Latitude>
+  <Longitude>-47.8681</Longitude>
+  <Elevation>?</Elevation>
+  <Author>Nargila Moura</Author>
+  <AuthorID>CWEIBYBYYD</AuthorID>
+  <Content>song</Content>
+  <Comments>second growth</Comments>
+  <Quality>3</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies>Cercomacra laeta,Lipaugus vociferans</BackgroundSpecies>
+  <Order>Passeriformes</Order>
+  <Family>Tyrannidae</Family>
+  <Genus>Myiopagis</Genus>
+  <Species>gaimardii</Species>
+  <Sub-species>gaimardii</Sub-species>
+  <VernacularNames>Forest Elaenia</VernacularNames>
+</Audio>

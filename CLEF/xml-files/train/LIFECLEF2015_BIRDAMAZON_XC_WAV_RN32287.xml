@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>32287</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN32287.wav</FileName>
+  <ClassId>xkktdr</ClassId>
+  <Date>2007-05-15</Date>
+  <Time>??:??</Time>
+  <Locality>RNA Hormiguero de Torcoroma, Ocaña, Norte de Santander</Locality>
+  <Latitude>8.2031</Latitude>
+  <Longitude>-73.3798</Longitude>
+  <Elevation>1750</Elevation>
+  <Author>Frank Lambert</Author>
+  <AuthorID>YTUXOCTUEM</AuthorID>
+  <Content>?</Content>
+  <Comments>just north of reserve.</Comments>
+  <Quality>2</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Thraupidae</Family>
+  <Genus>Tangara</Genus>
+  <Species>arthus</Species>
+  <Sub-species />
+  <VernacularNames>Golden Tanager</VernacularNames>
+</Audio>

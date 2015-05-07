@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>18924</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN18924.wav</FileName>
+  <ClassId>czoixh</ClassId>
+  <Date>2013-05-27</Date>
+  <Time>23:00</Time>
+  <Locality>Wayabo</Locality>
+  <Latitude>5.0169</Latitude>
+  <Longitude>-52.6376</Longitude>
+  <Elevation>0</Elevation>
+  <Author>Michel Giraud-Audine</Author>
+  <AuthorID>WLMNCMVQIR</AuthorID>
+  <Content>call</Content>
+  <Comments>Two shortened intervals. Interpreted as calls from one adult and two juveniles or immatures. Comments or correction welcome.bird-seen:noplayback-used:no</Comments>
+  <Quality>2</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Strigiformes</Order>
+  <Family>Strigidae</Family>
+  <Genus>Strix</Genus>
+  <Species>huhula</Species>
+  <Sub-species>huhula</Sub-species>
+  <VernacularNames>Black-banded Owl</VernacularNames>
+</Audio>

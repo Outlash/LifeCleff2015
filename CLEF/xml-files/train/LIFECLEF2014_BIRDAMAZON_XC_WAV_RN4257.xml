@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>4257</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN4257.wav</FileName>
+  <ClassId>xxjaog</ClassId>
+  <Date>2009-10-09</Date>
+  <Time>09:00</Time>
+  <Locality>Tocantins</Locality>
+  <Latitude>-12.6162</Latitude>
+  <Longitude>-47.8836</Longitude>
+  <Elevation>280</Elevation>
+  <Author>GABRIEL LEITE</Author>
+  <AuthorID>TGBFXDVERJ</AuthorID>
+  <Content>call, female, male, song</Content>
+  <Comments>bird-seen:yesplayback-used:no</Comments>
+  <Quality>2</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Thraupidae</Family>
+  <Genus>Hemithraupis</Genus>
+  <Species>guira</Species>
+  <Sub-species />
+  <VernacularNames>Guira Tanager</VernacularNames>
+</Audio>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>9630</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN9630.wav</FileName>
+  <ClassId>cllknv</ClassId>
+  <Date>2005-11-08</Date>
+  <Time>05:48</Time>
+  <Locality>Caxiuanã Scientific Station</Locality>
+  <Latitude>-1.7375</Latitude>
+  <Longitude>-51.4556</Longitude>
+  <Elevation>12</Elevation>
+  <Author>Jeremy Minns</Author>
+  <AuthorID>DGVLLRYDXS</AuthorID>
+  <Content>Song</Content>
+  <Comments>Terra firme forest.</Comments>
+  <Quality>2</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies>Cymbilaimus lineatus,Attila spadiceus,Myrmotherula menetriesii</BackgroundSpecies>
+  <Order>Passeriformes</Order>
+  <Family>Furnariidae</Family>
+  <Genus>Xiphorhynchus</Genus>
+  <Species>spixii</Species>
+  <Sub-species />
+  <VernacularNames>Spix's Woodcreeper</VernacularNames>
+</Audio>

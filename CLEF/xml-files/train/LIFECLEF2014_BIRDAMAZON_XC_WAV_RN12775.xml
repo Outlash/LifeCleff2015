@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>12775</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN12775.wav</FileName>
+  <ClassId>kazyby</ClassId>
+  <Date>2000-09-20</Date>
+  <Time>05:40</Time>
+  <Locality>Transpantaneira south of Pixaim, MT</Locality>
+  <Latitude>-16.8248</Latitude>
+  <Longitude>-56.8448</Longitude>
+  <Elevation>110</Elevation>
+  <Author>Jeremy Minns</Author>
+  <AuthorID>DGVLLRYDXS</AuthorID>
+  <Content>Song</Content>
+  <Comments>Two birds in thick vegetation beside road.</Comments>
+  <Quality>2</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies>Crypturellus undulatus,Ortalis canicollis,Tapera naevia,Cranioleuca vulpina</BackgroundSpecies>
+  <Order>Passeriformes</Order>
+  <Family>Furnariidae</Family>
+  <Genus>Synallaxis</Genus>
+  <Species>albilora</Species>
+  <Sub-species />
+  <VernacularNames>White-lored Spinetail</VernacularNames>
+</Audio>

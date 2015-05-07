@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>1937</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN1937.wav</FileName>
+  <ClassId>inrkmj</ClassId>
+  <Date>2008-07-18</Date>
+  <Time>10:15</Time>
+  <Locality>Parque Ambiental Alcoa-Poços, Poços de Caldas, Minas Gerais state</Locality>
+  <Latitude>NULL</Latitude>
+  <Longitude>NULL</Longitude>
+  <Elevation>1300</Elevation>
+  <Author>Guilherme R R Brito</Author>
+  <AuthorID>OAYOBWYOOM</AuthorID>
+  <Content>song</Content>
+  <Comments>playback response</Comments>
+  <Quality>3</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Furnariidae</Family>
+  <Genus>Synallaxis</Genus>
+  <Species>spixi</Species>
+  <Sub-species />
+  <VernacularNames>Spix's Spinetail</VernacularNames>
+</Audio>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>4668</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN4668.wav</FileName>
+  <ClassId>arhvxn</ClassId>
+  <Date>2003-11-27</Date>
+  <Time>05:00</Time>
+  <Locality>Cristalino Jungle Lodge, MT</Locality>
+  <Latitude>-9.5981</Latitude>
+  <Longitude>-55.932</Longitude>
+  <Elevation>250</Elevation>
+  <Author>Jeremy Minns</Author>
+  <AuthorID>DGVLLRYDXS</AuthorID>
+  <Content>Song</Content>
+  <Comments>Terra firme forest.</Comments>
+  <Quality>2</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Furnariidae</Family>
+  <Genus>Campylorhamphus</Genus>
+  <Species>procurvoides</Species>
+  <Sub-species>multostriatus</Sub-species>
+  <VernacularNames>Curve-billed Scythebill</VernacularNames>
+</Audio>

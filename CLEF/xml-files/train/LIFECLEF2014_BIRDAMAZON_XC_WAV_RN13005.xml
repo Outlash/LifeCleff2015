@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>13005</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN13005.wav</FileName>
+  <ClassId>dkxicr</ClassId>
+  <Date>2006-11-02</Date>
+  <Time>09:25</Time>
+  <Locality>Parque Estatal Carlos Botelho, Sao Paulo state</Locality>
+  <Latitude>-24.175</Latitude>
+  <Longitude>-47.961</Longitude>
+  <Elevation>700</Elevation>
+  <Author>Daniel Lane</Author>
+  <AuthorID>WOEAFQRMUD</AuthorID>
+  <Content>call</Content>
+  <Comments>The loud 'tchit!' note. Mobbing a Glaucidium minutissimum with many other birds.</Comments>
+  <Quality>3</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies>Glaucidium minutissimum,Trogon surrucura</BackgroundSpecies>
+  <Order>Passeriformes</Order>
+  <Family>Thraupidae</Family>
+  <Genus>Sporophila</Genus>
+  <Species>frontalis</Species>
+  <Sub-species />
+  <VernacularNames>Buffy-fronted Seedeater</VernacularNames>
+</Audio>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>10075</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN10075.wav</FileName>
+  <ClassId>cmcyuw</ClassId>
+  <Date>2011-10-08</Date>
+  <Time>08:26</Time>
+  <Locality>Cristalino Jungle Lodge, MT</Locality>
+  <Latitude>-9.5981</Latitude>
+  <Longitude>-55.932</Longitude>
+  <Elevation>260</Elevation>
+  <Author>Eric DeFonso</Author>
+  <AuthorID>KTLCZCRCQX</AuthorID>
+  <Content>call</Content>
+  <Comments>Likely same bird as in XC130321. Close but obscured bird, vocalizing naturally off the trail in heavy brush at the Ilha research station and dormitory, near the Cristalino/Teles Pires river junction.bird-seen:noplayback-used:no</Comments>
+  <Quality>1</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies>Ramphastos tucanus,Hylophilus semicinereus</BackgroundSpecies>
+  <Order>Passeriformes</Order>
+  <Family>Troglodytidae</Family>
+  <Genus>Cantorchilus</Genus>
+  <Species>leucotis</Species>
+  <Sub-species />
+  <VernacularNames>Buff-breasted Wren</VernacularNames>
+</Audio>

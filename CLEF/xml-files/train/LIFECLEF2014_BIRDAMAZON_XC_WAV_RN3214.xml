@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>3214</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN3214.wav</FileName>
+  <ClassId>aeqwqe</ClassId>
+  <Date>2013-01-14</Date>
+  <Time>15:30</Time>
+  <Locality>Serra de Baturité, Ceará</Locality>
+  <Latitude>-4.2334</Latitude>
+  <Longitude>-38.9167</Longitude>
+  <Elevation>800</Elevation>
+  <Author>Dan Lane</Author>
+  <AuthorID>WOEAFQRMUD</AuthorID>
+  <Content>call, song</Content>
+  <Comments>Song and calls from same trio as in XC121912. Perched about 15m up in small tree at edge. Male was a gray-breasted type, female did not seem particularly strongly tawny on face. Female seems to have a lower-pitched voice than the other two, the highest voice probably from young. Recorded well after playback. img:http://www.flickr.com/photos/8013969@N03/8443246886/bird-seen:yesplayback-used:yes</Comments>
+  <Quality>2</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies>Turdus leucomelas,Coereba flaveola,Cyclarhis gujanensis,Thraupis palmarum</BackgroundSpecies>
+  <Order>Passeriformes</Order>
+  <Family>Thamnophilidae</Family>
+  <Genus>Herpsilochmus</Genus>
+  <Species>atricapillus</Species>
+  <Sub-species />
+  <VernacularNames>Black-capped Antwren</VernacularNames>
+</Audio>

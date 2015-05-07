@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>31268</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN31268.wav</FileName>
+  <ClassId>vrurmm</ClassId>
+  <Date>1992-08-00</Date>
+  <Time>19:00</Time>
+  <Locality>Abobral river, Mato Grosso do Sul State</Locality>
+  <Latitude>-19.4788</Latitude>
+  <Longitude>-56.9868</Longitude>
+  <Elevation>90</Elevation>
+  <Author>Antonio Silveira</Author>
+  <AuthorID>NBJQSQJRYH</AuthorID>
+  <Content>song</Content>
+  <Comments>bird-seen:yesplayback-used:no</Comments>
+  <Quality>2</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Strigiformes</Order>
+  <Family>Strigidae</Family>
+  <Genus>Bubo</Genus>
+  <Species>virginianus</Species>
+  <Sub-species />
+  <VernacularNames>Great Horned Owl</VernacularNames>
+</Audio>

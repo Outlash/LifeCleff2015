@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>20280</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN20280.wav</FileName>
+  <ClassId>qtegfa</ClassId>
+  <Date>1990-12-18</Date>
+  <Time>?</Time>
+  <Locality>Huila, San Agustin</Locality>
+  <Latitude>NULL</Latitude>
+  <Longitude>NULL</Longitude>
+  <Elevation />
+  <Author>Gary Stiles (Colección de Sonidos Ambientales - Instituto Humboldt)</Author>
+  <AuthorID>XMFDPACYJN</AuthorID>
+  <Content>song</Content>
+  <Comments>BSA 11395To obtain a wav file of the original recording, please contact csa@humboldt.org.cobird-seen:noplayback-used:no</Comments>
+  <Quality>1</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Apodiformes</Order>
+  <Family>Trochilidae</Family>
+  <Genus>Phaethornis</Genus>
+  <Species>superciliosus</Species>
+  <Sub-species />
+  <VernacularNames>Long-tailed Hermit</VernacularNames>
+</Audio>

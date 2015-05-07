@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>6877</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN6877.wav</FileName>
+  <ClassId>ifsjcq</ClassId>
+  <Date>2009-02-20</Date>
+  <Time>?</Time>
+  <Locality>Campo Grande, Itaiópolis, Santa Catarina</Locality>
+  <Latitude>-26.6501</Latitude>
+  <Longitude>-49.7001</Longitude>
+  <Elevation>908</Elevation>
+  <Author>Adrian Eisen Rupp</Author>
+  <AuthorID>AOPMSCIDIA</AuthorID>
+  <Content>song</Content>
+  <Comments />
+  <Quality>2</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies>Rhynchotus rufescens</BackgroundSpecies>
+  <Order>Passeriformes</Order>
+  <Family>Emberizidae</Family>
+  <Genus>Ammodramus</Genus>
+  <Species>humeralis</Species>
+  <Sub-species />
+  <VernacularNames>Grassland Sparrow</VernacularNames>
+</Audio>

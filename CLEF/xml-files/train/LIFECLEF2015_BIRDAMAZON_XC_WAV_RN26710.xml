@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>26710</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN26710.wav</FileName>
+  <ClassId>rdnizg</ClassId>
+  <Date>2011-01-31</Date>
+  <Time>16:57</Time>
+  <Locality>FUNDEGAR ('Rio Blanco'), Manizales, Caldas</Locality>
+  <Latitude>5.074</Latitude>
+  <Longitude>-75.435</Longitude>
+  <Elevation>2750</Elevation>
+  <Author>Eric DeFonso</Author>
+  <AuthorID>KTLCZCRCQX</AuthorID>
+  <Content>call</Content>
+  <Comments>strange chattery calls from a group of 6-8 birds roving through dense understory. Occasionally you can hear the more familiar contact call.</Comments>
+  <Quality>1</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Troglodytidae</Family>
+  <Genus>Cinnycerthia</Genus>
+  <Species>unirufa</Species>
+  <Sub-species />
+  <VernacularNames>Rufous Wren</VernacularNames>
+</Audio>

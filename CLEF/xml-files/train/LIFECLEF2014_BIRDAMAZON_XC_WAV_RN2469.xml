@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>2469</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN2469.wav</FileName>
+  <ClassId>lssubf</ClassId>
+  <Date>2009-01-22</Date>
+  <Time>5:30</Time>
+  <Locality>RPPN Serra Bonita, Camacan, Bahia.</Locality>
+  <Latitude>-15.3851</Latitude>
+  <Longitude>-39.5709</Longitude>
+  <Elevation>700</Elevation>
+  <Author>Sidnei S. dos Santos</Author>
+  <AuthorID>BHODJXTHGQ</AuthorID>
+  <Content>Song</Content>
+  <Comments />
+  <Quality>3</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Thamnophilidae</Family>
+  <Genus>Drymophila</Genus>
+  <Species>ferruginea</Species>
+  <Sub-species />
+  <VernacularNames>Ferruginous Antbird</VernacularNames>
+</Audio>

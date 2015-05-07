@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>21995</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN21995.wav</FileName>
+  <ClassId>cchgxy</ClassId>
+  <Date>2009-02-02</Date>
+  <Time>10:00</Time>
+  <Locality>Rangel, Mérida</Locality>
+  <Latitude>8.7551</Latitude>
+  <Longitude>-70.7646</Longitude>
+  <Elevation>3600</Elevation>
+  <Author>Joe Klaiber</Author>
+  <AuthorID>TNPOVFLZMY</AuthorID>
+  <Content>call</Content>
+  <Comments>bird-seen:yesplayback-used:no</Comments>
+  <Quality>1</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Hirundinidae</Family>
+  <Genus>Notiochelidon</Genus>
+  <Species>cyanoleuca</Species>
+  <Sub-species />
+  <VernacularNames>Blue-and-white Swallow</VernacularNames>
+</Audio>

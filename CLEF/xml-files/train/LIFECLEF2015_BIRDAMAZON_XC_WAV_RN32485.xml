@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>32485</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN32485.wav</FileName>
+  <ClassId>sjjpbk</ClassId>
+  <Date>2009-11-01</Date>
+  <Time>08:20</Time>
+  <Locality>Parque Municipal Nove de Julho, São Paulo, SP</Locality>
+  <Latitude>-23.7192</Latitude>
+  <Longitude>-46.717</Longitude>
+  <Elevation>760</Elevation>
+  <Author>Marcos Melo</Author>
+  <AuthorID>MRGDYNJGUJ</AuthorID>
+  <Content>call</Content>
+  <Comments>four individuous, hunting insects in foliage</Comments>
+  <Quality>2</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies>Pitangus sulphuratus,Brotogeris tirica,Rostrhamus sociabilis,Rostrhamus sociabilis,Coereba flaveola</BackgroundSpecies>
+  <Order>Passeriformes</Order>
+  <Family>Thraupidae</Family>
+  <Genus>Thlypopsis</Genus>
+  <Species>sordida</Species>
+  <Sub-species />
+  <VernacularNames>Orange-headed Tanager</VernacularNames>
+</Audio>

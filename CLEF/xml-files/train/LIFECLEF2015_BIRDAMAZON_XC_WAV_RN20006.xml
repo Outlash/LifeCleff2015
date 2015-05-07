@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>20006</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN20006.wav</FileName>
+  <ClassId>cchgxy</ClassId>
+  <Date>1992-11-06</Date>
+  <Time>?</Time>
+  <Locality>Barinas, San Isidro Tunnel Road</Locality>
+  <Latitude>8.8501</Latitude>
+  <Longitude>-70.5667</Longitude>
+  <Elevation>1600</Elevation>
+  <Author>Allen T. Chartier</Author>
+  <AuthorID>AZXTZTQJRO</AuthorID>
+  <Content>call</Content>
+  <Comments>About 20 birds roosting in treetop</Comments>
+  <Quality>2</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Hirundinidae</Family>
+  <Genus>Notiochelidon</Genus>
+  <Species>cyanoleuca</Species>
+  <Sub-species />
+  <VernacularNames>Blue-and-white Swallow</VernacularNames>
+</Audio>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>17544</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN17544.wav</FileName>
+  <ClassId>edquox</ClassId>
+  <Date>2013-03-22</Date>
+  <Time>10:00</Time>
+  <Locality>Cajamarca, Tolima</Locality>
+  <Latitude>4.4837</Latitude>
+  <Longitude>-75.4797</Longitude>
+  <Elevation>2550</Elevation>
+  <Author>Oscar H. Marín-Gómez</Author>
+  <AuthorID>CSUHASNRSU</AuthorID>
+  <Content>call</Content>
+  <Comments>Ref OHM356. Un individuo vocalizando en sotobosque en Cañadabird-seen:yesplayback-used:no</Comments>
+  <Quality>3</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Tyrannidae</Family>
+  <Genus>Ochthoeca</Genus>
+  <Species>cinnamomeiventris</Species>
+  <Sub-species />
+  <VernacularNames>Slaty-backed Chat-Tyrant</VernacularNames>
+</Audio>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>12796</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN12796.wav</FileName>
+  <ClassId>tkfjdd</ClassId>
+  <Date>2008-10-30</Date>
+  <Time>19:00</Time>
+  <Locality>Alto Ribeira State Park (PETAR),São Paulo State,Brazil</Locality>
+  <Latitude>-24.541</Latitude>
+  <Longitude>-48.713</Longitude>
+  <Elevation>500</Elevation>
+  <Author>Antonio Silveira</Author>
+  <AuthorID>NBJQSQJRYH</AuthorID>
+  <Content>call</Content>
+  <Comments>Bird flying and call over the forest. bird-seen:yesplayback-used:no</Comments>
+  <Quality>0</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies />
+  <Order>Caprimulgiformes</Order>
+  <Family>Caprimulgidae</Family>
+  <Genus>Lurocalis</Genus>
+  <Species>semitorquatus</Species>
+  <Sub-species />
+  <VernacularNames>Short-tailed Nighthawk</VernacularNames>
+</Audio>

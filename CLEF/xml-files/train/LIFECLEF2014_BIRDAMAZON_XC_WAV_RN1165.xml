@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>1165</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN1165.wav</FileName>
+  <ClassId>jeidcr</ClassId>
+  <Date>2007-06-30</Date>
+  <Time>09:30</Time>
+  <Locality>Caldazinha, Goiás</Locality>
+  <Latitude>NULL</Latitude>
+  <Longitude>NULL</Longitude>
+  <Elevation>790</Elevation>
+  <Author>Nunes D'Acosta</Author>
+  <AuthorID>OHHTDSDNBT</AuthorID>
+  <Content>Vocalizacao</Content>
+  <Comments>Casal vocalizando no quintal de uma fazenda, aninhados numa palmeira ás margens do Rio Caldas.</Comments>
+  <Quality>0</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Thraupidae</Family>
+  <Genus>Thraupis</Genus>
+  <Species>palmarum</Species>
+  <Sub-species />
+  <VernacularNames>Palm Tanager</VernacularNames>
+</Audio>

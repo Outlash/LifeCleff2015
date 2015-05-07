@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>31885</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN31885.wav</FileName>
+  <ClassId>muhjso</ClassId>
+  <Date>2007-11-13</Date>
+  <Time>10:00</Time>
+  <Locality>crique Limonade amont, Saül</Locality>
+  <Latitude>3.5834</Latitude>
+  <Longitude>-53.2167</Longitude>
+  <Elevation>200</Elevation>
+  <Author>Olivier Claessens</Author>
+  <AuthorID>KRQYNRSSDF</AuthorID>
+  <Content>song</Content>
+  <Comments />
+  <Quality>2</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Tyrannidae</Family>
+  <Genus>Lathrotriccus</Genus>
+  <Species>euleri</Species>
+  <Sub-species>lawrencei</Sub-species>
+  <VernacularNames>Euler's Flycatcher</VernacularNames>
+</Audio>

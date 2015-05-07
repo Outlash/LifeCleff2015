@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>28584</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN28584.wav</FileName>
+  <ClassId>ziirhl</ClassId>
+  <Date>2014-10-15</Date>
+  <Time>11:16</Time>
+  <Locality>Parque Estadual Mata dos Godoy, Londrina - PR</Locality>
+  <Latitude>-23.445</Latitude>
+  <Longitude>-51.253</Longitude>
+  <Elevation>650</Elevation>
+  <Author>Gabriel Rosa</Author>
+  <AuthorID>GXMOPUMWMA</AuthorID>
+  <Content>song</Content>
+  <Comments>original: GMR_20141015_111616bird-seen:yesplayback-used:no</Comments>
+  <Quality>1</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Icteridae</Family>
+  <Genus>Cacicus</Genus>
+  <Species>haemorrhous</Species>
+  <Sub-species />
+  <VernacularNames>Red-rumped Cacique</VernacularNames>
+</Audio>

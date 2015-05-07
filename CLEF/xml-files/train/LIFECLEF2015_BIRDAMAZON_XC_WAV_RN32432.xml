@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>32432</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN32432.wav</FileName>
+  <ClassId>ehpgkp</ClassId>
+  <Date>2014-04-27</Date>
+  <Time>07:00</Time>
+  <Locality>ZF3,Km 41, Manaus</Locality>
+  <Latitude>-2.4512</Latitude>
+  <Longitude>-59.7523</Longitude>
+  <Elevation>130</Elevation>
+  <Author>Eduardo D. Schultz</Author>
+  <AuthorID>QYOZQITVAC</AuthorID>
+  <Content>song</Content>
+  <Comments>bird-seen:noplayback-used:no</Comments>
+  <Quality>0</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies>Attila spadiceus</BackgroundSpecies>
+  <Order>Passeriformes</Order>
+  <Family>Formicariidae</Family>
+  <Genus>Formicarius</Genus>
+  <Species>analis</Species>
+  <Sub-species />
+  <VernacularNames>Black-faced Antthrush</VernacularNames>
+</Audio>

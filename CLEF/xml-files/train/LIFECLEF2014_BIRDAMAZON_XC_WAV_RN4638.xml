@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>4638</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN4638.wav</FileName>
+  <ClassId>xunfjj</ClassId>
+  <Date>2013-10-21</Date>
+  <Time>16:30</Time>
+  <Locality>São Miguel Arcanjo, São Paulo</Locality>
+  <Latitude>-24.0557</Latitude>
+  <Longitude>-47.9947</Longitude>
+  <Elevation>800</Elevation>
+  <Author>Carlos Humberto Biagolini Junior</Author>
+  <AuthorID>HUQZBPUWJP</AuthorID>
+  <Content>song</Content>
+  <Comments>Aves observada na portaria do Parque Estadual Carlos Botelho, no município de São Miguel Arcanjo, estado de São Paulo.bird-seen:yesplayback-used:no</Comments>
+  <Quality>2</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Turdidae</Family>
+  <Genus>Turdus</Genus>
+  <Species>rufiventris</Species>
+  <Sub-species />
+  <VernacularNames>Rufous-bellied Thrush</VernacularNames>
+</Audio>

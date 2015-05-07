@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>27227</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN27227.wav</FileName>
+  <ClassId>cvbpum</ClassId>
+  <Date>2011-12-07</Date>
+  <Time>10:00</Time>
+  <Locality>Vereda La Linea, Apia, Risaralda, Colombia</Locality>
+  <Latitude>5.172</Latitude>
+  <Longitude>-75.9739</Longitude>
+  <Elevation>1985</Elevation>
+  <Author>Diego Calderon-F.</Author>
+  <AuthorID>OGATBVKNAG</AuthorID>
+  <Content>song</Content>
+  <Comments>Response to playbackbird-seen:yesplayback-used:yes</Comments>
+  <Quality>1</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Furnariidae</Family>
+  <Genus>Thripadectes</Genus>
+  <Species>virgaticeps</Species>
+  <Sub-species />
+  <VernacularNames>Streak-capped Treehunter</VernacularNames>
+</Audio>

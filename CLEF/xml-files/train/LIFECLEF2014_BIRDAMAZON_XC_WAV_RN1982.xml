@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>1982</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN1982.wav</FileName>
+  <ClassId>djwmdw</ClassId>
+  <Date>2001-04-17</Date>
+  <Time>05:50</Time>
+  <Locality>Serra da Canastra, Minas Gerais</Locality>
+  <Latitude>-20.2551</Latitude>
+  <Longitude>-46.4101</Longitude>
+  <Elevation>1350</Elevation>
+  <Author>Jeremy Minns</Author>
+  <AuthorID>DGVLLRYDXS</AuthorID>
+  <Content>call, song</Content>
+  <Comments>Gallery forest in cerrado. Two birds. Response to pre-recorded tape of song.</Comments>
+  <Quality>2</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies>Patagioenas cayennensis</BackgroundSpecies>
+  <Order>Passeriformes</Order>
+  <Family>Rhinocryptidae</Family>
+  <Genus>Scytalopus</Genus>
+  <Species>novacapitalis</Species>
+  <Sub-species />
+  <VernacularNames>Brasilia Tapaculo</VernacularNames>
+</Audio>

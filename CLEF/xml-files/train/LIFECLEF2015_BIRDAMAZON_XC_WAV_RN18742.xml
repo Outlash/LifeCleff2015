@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>18742</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN18742.wav</FileName>
+  <ClassId>gaigws</ClassId>
+  <Date>2014-02-01</Date>
+  <Time>07:30</Time>
+  <Locality>Matraca trail, Inirida, Guainia</Locality>
+  <Latitude>3.8627</Latitude>
+  <Longitude>-67.9688</Longitude>
+  <Elevation>100</Elevation>
+  <Author>Ottavio Janni</Author>
+  <AuthorID>PWMAZXONXH</AuthorID>
+  <Content>male, song</Content>
+  <Comments>Natural vocalization of presumably the same individual as in XC166936 and XC166939 (same territory). This song type is similar to that of XC166939, after playback of XC37968, the bird came closer and switched to a song type more similar to that of XC166936.bird-seen:yesplayback-used:no</Comments>
+  <Quality>2</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Cardinalidae</Family>
+  <Genus>Granatellus</Genus>
+  <Species>pelzelni</Species>
+  <Sub-species />
+  <VernacularNames>Rose-breasted Chat</VernacularNames>
+</Audio>

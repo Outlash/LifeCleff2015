@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>27759</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN27759.wav</FileName>
+  <ClassId>mnbfro</ClassId>
+  <Date>1998-07-13</Date>
+  <Time>17:30</Time>
+  <Locality>Finca La Selva (Quebrada San Jose), sobre Toche, Cajamarca, Tolima</Locality>
+  <Latitude>NULL</Latitude>
+  <Longitude>NULL</Longitude>
+  <Elevation>2600</Elevation>
+  <Author>Bernabe Lopez-Lanus</Author>
+  <AuthorID>BYLLSJRVDZ</AuthorID>
+  <Content>Call</Content>
+  <Comments />
+  <Quality>3</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Psittaciformes</Order>
+  <Family>Psittacidae</Family>
+  <Genus>Pionus</Genus>
+  <Species>seniloides</Species>
+  <Sub-species />
+  <VernacularNames>White-capped Parrot</VernacularNames>
+</Audio>

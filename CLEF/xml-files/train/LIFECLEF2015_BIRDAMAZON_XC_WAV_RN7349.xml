@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>7349</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN7349.wav</FileName>
+  <ClassId>qjwwgt</ClassId>
+  <Date>2004-11-06</Date>
+  <Time>?</Time>
+  <Locality>Saint-Eugène, Petit Saut lake</Locality>
+  <Latitude>4.8503</Latitude>
+  <Longitude>-53.0609</Longitude>
+  <Elevation>50</Elevation>
+  <Author>Olivier Claessens</Author>
+  <AuthorID>KRQYNRSSDF</AuthorID>
+  <Content>calls of juvenile</Content>
+  <Comments>fledging juvenile was perched on forest edge</Comments>
+  <Quality>1</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Accipitriformes</Order>
+  <Family>Accipitridae</Family>
+  <Genus>Buteogallus</Genus>
+  <Species>urubitinga</Species>
+  <Sub-species />
+  <VernacularNames>Great Black Hawk</VernacularNames>
+</Audio>

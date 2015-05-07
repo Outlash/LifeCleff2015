@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>27195</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN27195.wav</FileName>
+  <ClassId>yvbyyb</ClassId>
+  <Date>2011-01-11</Date>
+  <Time>10:30</Time>
+  <Locality>Jaú, São Paulo</Locality>
+  <Latitude>-22.1943</Latitude>
+  <Longitude>-48.6536</Longitude>
+  <Elevation>500</Elevation>
+  <Author>Paulo Guerra</Author>
+  <AuthorID>NLROPBPDRI</AuthorID>
+  <Content>song</Content>
+  <Comments>bird-seen:yesplayback-used:no</Comments>
+  <Quality>3</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Anseriformes</Order>
+  <Family>Anatidae</Family>
+  <Genus>Dendrocygna</Genus>
+  <Species>autumnalis</Species>
+  <Sub-species />
+  <VernacularNames>Black-bellied Whistling Duck</VernacularNames>
+</Audio>

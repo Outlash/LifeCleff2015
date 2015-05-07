@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>837</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN837.wav</FileName>
+  <ClassId>nrlglm</ClassId>
+  <Date>2006-01-28</Date>
+  <Time>17:30</Time>
+  <Locality>Engenho Cachoeira Linda, Barreiros, Pernambuco</Locality>
+  <Latitude>-8.8173</Latitude>
+  <Longitude>-35.4773</Longitude>
+  <Elevation>0</Elevation>
+  <Author>Sidnei Dantas</Author>
+  <AuthorID>NNCKQMBGPH</AuthorID>
+  <Content>fllight calls</Content>
+  <Comments />
+  <Quality>2</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies />
+  <Order>Falconiformes</Order>
+  <Family>Falconidae</Family>
+  <Genus>Caracara</Genus>
+  <Species>plancus</Species>
+  <Sub-species />
+  <VernacularNames>Southern Crested Caracara</VernacularNames>
+</Audio>

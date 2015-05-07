@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>22755</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN22755.wav</FileName>
+  <ClassId>yruddd</ClassId>
+  <Date>1993-03-00</Date>
+  <Time>?</Time>
+  <Locality>Murici, Alagoas</Locality>
+  <Latitude>-9.3001</Latitude>
+  <Longitude>-35.9334</Longitude>
+  <Elevation>110</Elevation>
+  <Author>Frank Lambert</Author>
+  <AuthorID>YTUXOCTUEM</AuthorID>
+  <Content>call</Content>
+  <Comments>bird-seen:noplayback-used:no</Comments>
+  <Quality>2</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Piciformes</Order>
+  <Family>Picidae</Family>
+  <Genus>Piculus</Genus>
+  <Species>flavigula</Species>
+  <Sub-species>erythropis</Sub-species>
+  <VernacularNames>Yellow-throated Woodpecker</VernacularNames>
+</Audio>

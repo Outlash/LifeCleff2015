@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>12385</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN12385.wav</FileName>
+  <ClassId>dkxicr</ClassId>
+  <Date>2008-07-26</Date>
+  <Time>?</Time>
+  <Locality>Morro da Turquia, Pomerode, Santa Catarina</Locality>
+  <Latitude>-26.7395</Latitude>
+  <Longitude>-49.1881</Longitude>
+  <Elevation>400</Elevation>
+  <Author>Adrian Eisen Rupp</Author>
+  <AuthorID>AOPMSCIDIA</AuthorID>
+  <Content>song</Content>
+  <Comments>response to playback</Comments>
+  <Quality>1</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies>Drymophila ferruginea</BackgroundSpecies>
+  <Order>Passeriformes</Order>
+  <Family>Thraupidae</Family>
+  <Genus>Sporophila</Genus>
+  <Species>frontalis</Species>
+  <Sub-species />
+  <VernacularNames>Buffy-fronted Seedeater</VernacularNames>
+</Audio>

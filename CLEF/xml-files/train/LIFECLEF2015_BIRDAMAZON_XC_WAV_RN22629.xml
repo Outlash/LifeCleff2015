@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>22629</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN22629.wav</FileName>
+  <ClassId>dvddwa</ClassId>
+  <Date>1996-09-17</Date>
+  <Time>?:?</Time>
+  <Locality>Chapada Guimaraes-Porton de Fe, Mato Grosso</Locality>
+  <Latitude>NULL</Latitude>
+  <Longitude>NULL</Longitude>
+  <Elevation>?</Elevation>
+  <Author>Miguel Castelino</Author>
+  <AuthorID>RCJCABZSNP</AuthorID>
+  <Content>song</Content>
+  <Comments>&lt;a href=http://www.xeno-canto.org/graphics/conosur.jpg rel=lightbox&gt;From Bird Sounds of Southern South America by Lopez-Lanus (2008)&lt;/a&gt;</Comments>
+  <Quality>2</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Accipitriformes</Order>
+  <Family>Accipitridae</Family>
+  <Genus>Leptodon</Genus>
+  <Species>cayanensis</Species>
+  <Sub-species />
+  <VernacularNames>Grey-headed Kite</VernacularNames>
+</Audio>

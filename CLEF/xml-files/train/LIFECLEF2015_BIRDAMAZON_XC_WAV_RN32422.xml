@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>32422</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN32422.wav</FileName>
+  <ClassId>pcfxys</ClassId>
+  <Date>2006-12-00</Date>
+  <Time>?:?</Time>
+  <Locality>5km west of San Isidro, Bolivar</Locality>
+  <Latitude>6.1501</Latitude>
+  <Longitude>-61.4706</Longitude>
+  <Elevation>170</Elevation>
+  <Author>David Edwards</Author>
+  <AuthorID>AFEHYCAHZR</AuthorID>
+  <Content>song</Content>
+  <Comments />
+  <Quality>1</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Piciformes</Order>
+  <Family>Ramphastidae</Family>
+  <Genus>Ramphastos</Genus>
+  <Species>tucanus</Species>
+  <Sub-species />
+  <VernacularNames>White-throated Toucan</VernacularNames>
+</Audio>

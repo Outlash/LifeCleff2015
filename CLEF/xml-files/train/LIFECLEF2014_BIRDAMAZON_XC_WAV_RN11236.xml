@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>11236</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN11236.wav</FileName>
+  <ClassId>lgdqns</ClassId>
+  <Date>2009-03-23</Date>
+  <Time>07:00</Time>
+  <Locality>Monte Alegre, State of Pará</Locality>
+  <Latitude>-2.0375</Latitude>
+  <Longitude>-54.1131</Longitude>
+  <Elevation>70</Elevation>
+  <Author>Sidnei Dantas</Author>
+  <AuthorID>NNCKQMBGPH</AuthorID>
+  <Content>perched calls</Content>
+  <Comments>varzea forest.</Comments>
+  <Quality>2</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies>Heliornis fulica,Cantorchilus leucotis,Polioptila plumbea,Pitangus sulphuratus</BackgroundSpecies>
+  <Order>Psittaciformes</Order>
+  <Family>Psittacidae</Family>
+  <Genus>Amazona</Genus>
+  <Species>amazonica</Species>
+  <Sub-species />
+  <VernacularNames>Orange-winged Amazon</VernacularNames>
+</Audio>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>3553</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN3553.wav</FileName>
+  <ClassId>zpvuom</ClassId>
+  <Date>2005-12-20</Date>
+  <Time>06:26</Time>
+  <Locality>07017 Praia do Laranjal - Pelotas, Rio Grande do Sul</Locality>
+  <Latitude>-31.12887</Latitude>
+  <Longitude>-52.5737</Longitude>
+  <Elevation>0</Elevation>
+  <Author>Fernando Jacobs</Author>
+  <AuthorID>MHHPJBCUXC</AuthorID>
+  <Content>serie calls</Content>
+  <Comments />
+  <Quality>4</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies>Elaenia mesoleuca,Myiopsitta monachus</BackgroundSpecies>
+  <Order>Gruiformes</Order>
+  <Family>Rallidae</Family>
+  <Genus>Aramides</Genus>
+  <Species>cajaneus</Species>
+  <Sub-species />
+  <VernacularNames>Grey-necked Wood Rail</VernacularNames>
+</Audio>

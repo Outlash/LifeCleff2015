@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>22580</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN22580.wav</FileName>
+  <ClassId>vxjqml</ClassId>
+  <Date>2013-12-19</Date>
+  <Time>08:30</Time>
+  <Locality>Ouro Preto, Minas Gerais</Locality>
+  <Latitude>-20.3755</Latitude>
+  <Longitude>-43.558</Longitude>
+  <Elevation>1300</Elevation>
+  <Author>GABRIEL LEITE</Author>
+  <AuthorID>TGBFXDVERJ</AuthorID>
+  <Content>male, song</Content>
+  <Comments>bird-seen:yesplayback-used:yes</Comments>
+  <Quality>2</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Tyrannidae</Family>
+  <Genus>Corythopis</Genus>
+  <Species>delalandi</Species>
+  <Sub-species />
+  <VernacularNames>Southern Antpipit</VernacularNames>
+</Audio>

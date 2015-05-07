@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>15365</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN15365.wav</FileName>
+  <ClassId>nxdkxx</ClassId>
+  <Date>2011-11-03</Date>
+  <Time>11:10</Time>
+  <Locality>Macapa,AP</Locality>
+  <Latitude>0.034</Latitude>
+  <Longitude>-51.086</Longitude>
+  <Elevation>60</Elevation>
+  <Author>Lia Nahomi Kajiki</Author>
+  <AuthorID>PVVQTVACLV</AuthorID>
+  <Content>call</Content>
+  <Comments>a group of 4 singing on a cashew (A. occidentale) tree, in the middle of the city</Comments>
+  <Quality>2</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Thraupidae</Family>
+  <Genus>Thraupis</Genus>
+  <Species>episcopus</Species>
+  <Sub-species />
+  <VernacularNames>Blue-grey Tanager</VernacularNames>
+</Audio>

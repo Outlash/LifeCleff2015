@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>11119</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN11119.wav</FileName>
+  <ClassId>asvgnp</ClassId>
+  <Date>2009-09-18</Date>
+  <Time>?</Time>
+  <Locality>Linha Emília, Dois Lajeados, Rio Grande do Sul</Locality>
+  <Latitude>-28.9403</Latitude>
+  <Longitude>-51.7806</Longitude>
+  <Elevation>200</Elevation>
+  <Author>Adrian Eisen Rupp</Author>
+  <AuthorID>AOPMSCIDIA</AuthorID>
+  <Content>call</Content>
+  <Comments />
+  <Quality>3</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies>Troglodytes aedon</BackgroundSpecies>
+  <Order>Falconiformes</Order>
+  <Family>Falconidae</Family>
+  <Genus>Milvago</Genus>
+  <Species>chimachima</Species>
+  <Sub-species />
+  <VernacularNames>Yellow-headed Caracara</VernacularNames>
+</Audio>

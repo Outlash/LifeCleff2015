@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>15202</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN15202.wav</FileName>
+  <ClassId>njtncg</ClassId>
+  <Date>1999-08-08</Date>
+  <Time>09:00</Time>
+  <Locality>Finca La Magnolia, Corregimiento Totumo, Ibague, Tolima</Locality>
+  <Latitude>NULL</Latitude>
+  <Longitude>NULL</Longitude>
+  <Elevation>1000</Elevation>
+  <Author>Bernabe Lopez-Lanus</Author>
+  <AuthorID>BYLLSJRVDZ</AuthorID>
+  <Content>Song</Content>
+  <Comments>Also manacus manacus</Comments>
+  <Quality>1</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies>Manacus manacus</BackgroundSpecies>
+  <Order>Passeriformes</Order>
+  <Family>Cardinalidae</Family>
+  <Genus>Saltator</Genus>
+  <Species>striatipectus</Species>
+  <Sub-species />
+  <VernacularNames>Streaked Saltator</VernacularNames>
+</Audio>

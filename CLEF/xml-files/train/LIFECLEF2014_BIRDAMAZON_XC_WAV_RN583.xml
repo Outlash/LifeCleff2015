@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>583</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN583.wav</FileName>
+  <ClassId>dkxicr</ClassId>
+  <Date>2010-01-10</Date>
+  <Time>?</Time>
+  <Locality>RPPN Alto da Boa Vista, Descoberto, MG</Locality>
+  <Latitude>-21.423</Latitude>
+  <Longitude>-42.953</Longitude>
+  <Elevation>750</Elevation>
+  <Author>Marco Manhães</Author>
+  <AuthorID>ZLBYQGJAJN</AuthorID>
+  <Content>song</Content>
+  <Comments />
+  <Quality>1</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Thraupidae</Family>
+  <Genus>Sporophila</Genus>
+  <Species>frontalis</Species>
+  <Sub-species />
+  <VernacularNames>Buffy-fronted Seedeater</VernacularNames>
+</Audio>

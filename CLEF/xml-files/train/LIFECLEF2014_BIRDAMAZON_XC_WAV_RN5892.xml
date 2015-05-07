@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>5892</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN5892.wav</FileName>
+  <ClassId>vrciyl</ClassId>
+  <Date>2009-11-11</Date>
+  <Time>8:00h</Time>
+  <Locality>rio Ponte Alta, Chapada do Guimarães municipality, Mato Grosso, MT</Locality>
+  <Latitude>-15.3578</Latitude>
+  <Longitude>-55.4051</Longitude>
+  <Elevation>480</Elevation>
+  <Author>Tulio Dornas</Author>
+  <AuthorID>MTUQGBMRNC</AuthorID>
+  <Content>?</Content>
+  <Comments>Individuals visualized</Comments>
+  <Quality>3</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Donacobiidae</Family>
+  <Genus>Donacobius</Genus>
+  <Species>atricapilla</Species>
+  <Sub-species />
+  <VernacularNames>Black-capped Donacobius</VernacularNames>
+</Audio>

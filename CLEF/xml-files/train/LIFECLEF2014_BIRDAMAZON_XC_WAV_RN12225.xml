@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>12225</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN12225.wav</FileName>
+  <ClassId>bskumd</ClassId>
+  <Date>2011-04-17</Date>
+  <Time>15:35</Time>
+  <Locality>RPPN Chácara Edith, Brusque, Santa Catarina</Locality>
+  <Latitude>-27.1017</Latitude>
+  <Longitude>-48.8887</Longitude>
+  <Elevation>30</Elevation>
+  <Author>Glauco Kohler</Author>
+  <AuthorID>JDNMEJOJEQ</AuthorID>
+  <Content>fight calls</Content>
+  <Comments />
+  <Quality>1</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Thamnophilidae</Family>
+  <Genus>Hypoedaleus</Genus>
+  <Species>guttatus</Species>
+  <Sub-species />
+  <VernacularNames>Spot-backed Antshrike</VernacularNames>
+</Audio>

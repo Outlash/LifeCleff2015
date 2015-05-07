@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>31635</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN31635.wav</FileName>
+  <ClassId>tmmseh</ClassId>
+  <Date>2002-01-26</Date>
+  <Time>08:43</Time>
+  <Locality>Rio Araguaia. Caseara</Locality>
+  <Latitude>-9.2667</Latitude>
+  <Longitude>-49.9334</Longitude>
+  <Elevation>170</Elevation>
+  <Author>Jeremy Minns</Author>
+  <AuthorID>DGVLLRYDXS</AuthorID>
+  <Content>call</Content>
+  <Comments />
+  <Quality>2</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Opisthocomiformes</Order>
+  <Family>Opisthocomidae</Family>
+  <Genus>Opisthocomus</Genus>
+  <Species>hoazin</Species>
+  <Sub-species />
+  <VernacularNames>Hoatzin</VernacularNames>
+</Audio>

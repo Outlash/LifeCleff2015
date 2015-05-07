@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>14086</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN14086.wav</FileName>
+  <ClassId>ovipyl</ClassId>
+  <Date>2013-03-20</Date>
+  <Time>16:30</Time>
+  <Locality>Cajamarca, Tolima</Locality>
+  <Latitude>4.4837</Latitude>
+  <Longitude>-75.4797</Longitude>
+  <Elevation>3400</Elevation>
+  <Author>Oscar H. Marín-Gómez</Author>
+  <AuthorID>CSUHASNRSU</AuthorID>
+  <Content>song</Content>
+  <Comments>OHM299. One bird singing in highland forest dominated by Chusquea sp at 3200m. Bird not seen.bird-seen:noplayback-used:no</Comments>
+  <Quality>3</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Grallariidae</Family>
+  <Genus>Grallaria</Genus>
+  <Species>rufula</Species>
+  <Sub-species />
+  <VernacularNames>Rufous Antpitta</VernacularNames>
+</Audio>

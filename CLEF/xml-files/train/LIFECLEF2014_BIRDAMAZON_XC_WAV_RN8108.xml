@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>8108</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN8108.wav</FileName>
+  <ClassId>fupfmw</ClassId>
+  <Date>2009-06-04</Date>
+  <Time>07:00</Time>
+  <Locality>Right bank of Rio Teles Pires, Jacareacanga, Para</Locality>
+  <Latitude>-9.3109</Latitude>
+  <Longitude>-56.7781</Longitude>
+  <Elevation>190</Elevation>
+  <Author>Guilherme R R Brito</Author>
+  <AuthorID>OAYOBWYOOM</AuthorID>
+  <Content>song</Content>
+  <Comments>espontaneous vocalization, two birds</Comments>
+  <Quality>0</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Thamnophilidae</Family>
+  <Genus>Hylophylax</Genus>
+  <Species>punctulatus</Species>
+  <Sub-species />
+  <VernacularNames>Dot-backed Antbird</VernacularNames>
+</Audio>

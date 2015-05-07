@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>19095</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN19095.wav</FileName>
+  <ClassId>fpfbua</ClassId>
+  <Date>2001-11-22</Date>
+  <Time>09:29</Time>
+  <Locality>Road to Remanso, Lençóis, Chapada Diamantina, BA</Locality>
+  <Latitude>-12.5834</Latitude>
+  <Longitude>-41.3667</Longitude>
+  <Elevation>400</Elevation>
+  <Author>Jeremy Minns</Author>
+  <AuthorID>DGVLLRYDXS</AuthorID>
+  <Content>Song</Content>
+  <Comments>Humid  forest.</Comments>
+  <Quality>1</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies>Sittasomus griseicapillus,Setophaga pitiayumi</BackgroundSpecies>
+  <Order>Passeriformes</Order>
+  <Family>Furnariidae</Family>
+  <Genus>Synallaxis</Genus>
+  <Species>scutata</Species>
+  <Sub-species>scutata</Sub-species>
+  <VernacularNames>Ochre-cheeked Spinetail</VernacularNames>
+</Audio>

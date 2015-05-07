@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>17799</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN17799.wav</FileName>
+  <ClassId>uhwmky</ClassId>
+  <Date>2013-04-26</Date>
+  <Time>07:15</Time>
+  <Locality>Antioquia, Municipio de Yarumal, Vereda Corcovado, carretera entre el Alto de Ventanas y el Cedro, Finca Villa Nueva.</Locality>
+  <Latitude>7.055</Latitude>
+  <Longitude>-75.4482</Longitude>
+  <Elevation>2100</Elevation>
+  <Author>Oscar Humberto Marin-Gomez</Author>
+  <AuthorID>CSUHASNRSU</AuthorID>
+  <Content>male, song</Content>
+  <Comments>Ref: OHMYA 605bird-seen:noplayback-used:no</Comments>
+  <Quality>2</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Tyrannidae</Family>
+  <Genus>Lophotriccus</Genus>
+  <Species>pileatus</Species>
+  <Sub-species />
+  <VernacularNames>Scale-crested Pygmy Tyrant</VernacularNames>
+</Audio>

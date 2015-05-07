@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>21895</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN21895.wav</FileName>
+  <ClassId>mnbzkx</ClassId>
+  <Date>2011-06-10</Date>
+  <Time>08:30</Time>
+  <Locality>Mitu, Vaupes</Locality>
+  <Latitude>1.2598</Latitude>
+  <Longitude>-70.2367</Longitude>
+  <Elevation>190</Elevation>
+  <Author>Andrew Spencer</Author>
+  <AuthorID>CDTGHVBGZP</AuthorID>
+  <Content>song</Content>
+  <Comments>response to playback</Comments>
+  <Quality>2</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Trogoniformes</Order>
+  <Family>Trogonidae</Family>
+  <Genus>Pharomachrus</Genus>
+  <Species>pavoninus</Species>
+  <Sub-species>pavoninus</Sub-species>
+  <VernacularNames>Pavonine Quetzal</VernacularNames>
+</Audio>

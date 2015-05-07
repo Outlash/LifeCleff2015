@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>13377</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN13377.wav</FileName>
+  <ClassId>slsqhp</ClassId>
+  <Date>1998-12-18</Date>
+  <Time>16:26</Time>
+  <Locality>Fazenda Capricornio, Ubatuba</Locality>
+  <Latitude>-23.3953</Latitude>
+  <Longitude>-45.0709</Longitude>
+  <Elevation>100</Elevation>
+  <Author>Rolf A. de By</Author>
+  <AuthorID>PTYTXQRLSZ</AuthorID>
+  <Content>call</Content>
+  <Comments>original time gap between calls was 25s</Comments>
+  <Quality>3</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies>Chiroxiphia caudata</BackgroundSpecies>
+  <Order>Passeriformes</Order>
+  <Family>Tyrannidae</Family>
+  <Genus>Poecilotriccus</Genus>
+  <Species>plumbeiceps</Species>
+  <Sub-species />
+  <VernacularNames>Ochre-faced Tody-Flycatcher</VernacularNames>
+</Audio>

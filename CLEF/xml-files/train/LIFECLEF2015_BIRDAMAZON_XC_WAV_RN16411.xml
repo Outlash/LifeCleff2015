@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>16411</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN16411.wav</FileName>
+  <ClassId>kqavhy</ClassId>
+  <Date>2005-07-00</Date>
+  <Time>06:00</Time>
+  <Locality>La Aurora, Serrania de los Yariguies, Galan, Santander, Colombia</Locality>
+  <Latitude>6.6389</Latitude>
+  <Longitude>-73.3892</Longitude>
+  <Elevation>2700</Elevation>
+  <Author>Thomas Donegan</Author>
+  <AuthorID>OXSIOLJJUP</AuthorID>
+  <Content>drumming</Content>
+  <Comments />
+  <Quality>3</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Piciformes</Order>
+  <Family>Picidae</Family>
+  <Genus>Campephilus</Genus>
+  <Species>pollens</Species>
+  <Sub-species />
+  <VernacularNames>Powerful Woodpecker</VernacularNames>
+</Audio>

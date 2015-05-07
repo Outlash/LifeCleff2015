@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>3426</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN3426.wav</FileName>
+  <ClassId>vqsusq</ClassId>
+  <Date>2002-07-24</Date>
+  <Time>08:03</Time>
+  <Locality>Boa Nova, Wet Forest, state of Bahia</Locality>
+  <Latitude>-14.3834</Latitude>
+  <Longitude>-40.1001</Longitude>
+  <Elevation>825</Elevation>
+  <Author>Jeremy Minns</Author>
+  <AuthorID>DGVLLRYDXS</AuthorID>
+  <Content>Song</Content>
+  <Comments>Humid forest.</Comments>
+  <Quality>2</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies>Trogon surrucura,Drymophila squamata</BackgroundSpecies>
+  <Order>Passeriformes</Order>
+  <Family>Furnariidae</Family>
+  <Genus>Campylorhamphus</Genus>
+  <Species>falcularius</Species>
+  <Sub-species />
+  <VernacularNames>Black-billed Scythebill</VernacularNames>
+</Audio>

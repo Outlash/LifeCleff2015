@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>22774</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN22774.wav</FileName>
+  <ClassId>fwrnff</ClassId>
+  <Date>2005-08-18</Date>
+  <Time>06:04:00</Time>
+  <Locality>Zona Amortiguación PNN Cueva de los Guacharos, El Diviso, Acevedo, Huila</Locality>
+  <Latitude>1.674444</Latitude>
+  <Longitude>-76.07389</Longitude>
+  <Elevation>1950</Elevation>
+  <Author>Jorge Enrique Parra (Colección de Sonidos Ambientales - Instituto Humboldt)</Author>
+  <AuthorID>XMFDPACYJN</AuthorID>
+  <Content>song</Content>
+  <Comments>BSA 16118To obtain a wav file of the original recording, please contact csa@humboldt.org.coplayback-used:no</Comments>
+  <Quality>3</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies>Henicorhina leucophrys,Vireo leucophrys,Basileuterus tristriatus</BackgroundSpecies>
+  <Order>Apodiformes</Order>
+  <Family>Trochilidae</Family>
+  <Genus>Colibri</Genus>
+  <Species>thalassinus</Species>
+  <Sub-species />
+  <VernacularNames>Green Violetear</VernacularNames>
+</Audio>

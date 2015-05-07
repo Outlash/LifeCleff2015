@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>19084</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN19084.wav</FileName>
+  <ClassId>amsvta</ClassId>
+  <Date>1998-12-13</Date>
+  <Time>07:32</Time>
+  <Locality>Reserva Acaime, vereda Quindio, Quindio</Locality>
+  <Latitude>NULL</Latitude>
+  <Longitude>NULL</Longitude>
+  <Elevation>2700</Elevation>
+  <Author>Bernabe Lopez-Lanus</Author>
+  <AuthorID>BYLLSJRVDZ</AuthorID>
+  <Content>Flight call</Content>
+  <Comments />
+  <Quality>3</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Psittaciformes</Order>
+  <Family>Psittacidae</Family>
+  <Genus>Amazona</Genus>
+  <Species>mercenarius</Species>
+  <Sub-species>canipalliata</Sub-species>
+  <VernacularNames>Scaly-naped Amazon</VernacularNames>
+</Audio>

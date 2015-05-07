@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>10579</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN10579.wav</FileName>
+  <ClassId>esguzq</ClassId>
+  <Date>2008-09-10</Date>
+  <Time>06:45</Time>
+  <Locality>Fazenda Irani, Irani - SC</Locality>
+  <Latitude>NULL</Latitude>
+  <Longitude>NULL</Longitude>
+  <Elevation>940</Elevation>
+  <Author>Leonardo R. Deconto</Author>
+  <AuthorID>VPUQSZGRCI</AuthorID>
+  <Content>song</Content>
+  <Comments />
+  <Quality>2</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Formicariidae</Family>
+  <Genus>Chamaeza</Genus>
+  <Species>campanisona</Species>
+  <Sub-species />
+  <VernacularNames>Short-tailed Antthrush</VernacularNames>
+</Audio>

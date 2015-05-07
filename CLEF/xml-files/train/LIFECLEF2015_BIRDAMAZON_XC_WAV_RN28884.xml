@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>28884</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN28884.wav</FileName>
+  <ClassId>espdgz</ClassId>
+  <Date>2010-01-25</Date>
+  <Time>?</Time>
+  <Locality>Apa do Rio São Bartolomeu, DF</Locality>
+  <Latitude>-15.666</Latitude>
+  <Longitude>-47.73</Longitude>
+  <Elevation>1120</Elevation>
+  <Author>Pedro Diniz</Author>
+  <AuthorID>ASCUKOCOCY</AuthorID>
+  <Content>Song</Content>
+  <Comments />
+  <Quality>2</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies>Phacellodomus rufifrons</BackgroundSpecies>
+  <Order>Passeriformes</Order>
+  <Family>Thraupidae</Family>
+  <Genus>Charitospiza</Genus>
+  <Species>eucosma</Species>
+  <Sub-species />
+  <VernacularNames>Coal-crested Finch</VernacularNames>
+</Audio>

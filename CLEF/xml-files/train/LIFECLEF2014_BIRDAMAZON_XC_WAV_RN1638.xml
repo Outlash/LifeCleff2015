@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>1638</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN1638.wav</FileName>
+  <ClassId>boyvjk</ClassId>
+  <Date>1997-12-20</Date>
+  <Time>?:?</Time>
+  <Locality>Sao Paulo, Fazenda Capricornia, near Ubatuba</Locality>
+  <Latitude>-23.4</Latitude>
+  <Longitude>-45.1</Longitude>
+  <Elevation>?</Elevation>
+  <Author>Frank Lambert</Author>
+  <AuthorID>YTUXOCTUEM</AuthorID>
+  <Content>call</Content>
+  <Comments>Previously published on AVoCet as &lt;a href=http://avocet.zoology.msu.edu/recordings/8188&gt;AV8188&lt;/a&gt;.  Certainty: 100%.  ID determined by: not specifically indicated, recordist normally sees birds recorded and indicates if any question, matches XC cuts. GPS: estimate from Google Earth. could be song</Comments>
+  <Quality>2</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies />
+  <Order>Apodiformes</Order>
+  <Family>Trochilidae</Family>
+  <Genus>Ramphodon</Genus>
+  <Species>naevius</Species>
+  <Sub-species />
+  <VernacularNames>Saw-billed Hermit</VernacularNames>
+</Audio>

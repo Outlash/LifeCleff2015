@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>15509</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN15509.wav</FileName>
+  <ClassId>wckepf</ClassId>
+  <Date>2014-01-20</Date>
+  <Time>09:30</Time>
+  <Locality>5km south of Palmeiras, BA</Locality>
+  <Latitude>-12.5562</Latitude>
+  <Longitude>-41.5798</Longitude>
+  <Elevation>800</Elevation>
+  <Author>Niels Poul Dreyer</Author>
+  <AuthorID>YIQSVPAMDQ</AuthorID>
+  <Content>song</Content>
+  <Comments>bird-seen:yesplayback-used:yes</Comments>
+  <Quality>0</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Tyrannidae</Family>
+  <Genus>Euscarthmus</Genus>
+  <Species>meloryphus</Species>
+  <Sub-species />
+  <VernacularNames>Tawny-crowned Pygmy Tyrant</VernacularNames>
+</Audio>

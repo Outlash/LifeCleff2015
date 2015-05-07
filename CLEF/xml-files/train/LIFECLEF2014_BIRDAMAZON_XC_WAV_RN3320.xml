@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>3320</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN3320.wav</FileName>
+  <ClassId>jvqabt</ClassId>
+  <Date>1992-01-12</Date>
+  <Time>11am</Time>
+  <Locality>Serra do Mar State Park. Picinguaba</Locality>
+  <Latitude>-23.357</Latitude>
+  <Longitude>-44.834</Longitude>
+  <Elevation>10</Elevation>
+  <Author>Antonio Silveira</Author>
+  <AuthorID>NBJQSQJRYH</AuthorID>
+  <Content>song</Content>
+  <Comments>bird-seen:yesplayback-used:no</Comments>
+  <Quality>1</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Parulidae</Family>
+  <Genus>Myiothlypis</Genus>
+  <Species>rivularis</Species>
+  <Sub-species />
+  <VernacularNames>Riverbank Warbler</VernacularNames>
+</Audio>

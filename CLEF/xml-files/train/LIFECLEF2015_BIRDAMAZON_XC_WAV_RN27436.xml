@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>27436</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN27436.wav</FileName>
+  <ClassId>nnbhgj</ClassId>
+  <Date>2002-08-13</Date>
+  <Time>16:41</Time>
+  <Locality>Intervales State Park. Carmo road</Locality>
+  <Latitude>-24.2834</Latitude>
+  <Longitude>-48.4334</Longitude>
+  <Elevation>600</Elevation>
+  <Author>Jeremy Minns</Author>
+  <AuthorID>DGVLLRYDXS</AuthorID>
+  <Content>Song</Content>
+  <Comments>Montane forest. Two birds in the canopy of a tree beside the road, c.15 m above the ground.</Comments>
+  <Quality>2</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies>Procnias nudicollis,Chiroxiphia caudata</BackgroundSpecies>
+  <Order>Piciformes</Order>
+  <Family>Bucconidae</Family>
+  <Genus>Nonnula</Genus>
+  <Species>rubecula</Species>
+  <Sub-species>rubecula</Sub-species>
+  <VernacularNames>Rusty-breasted Nunlet</VernacularNames>
+</Audio>

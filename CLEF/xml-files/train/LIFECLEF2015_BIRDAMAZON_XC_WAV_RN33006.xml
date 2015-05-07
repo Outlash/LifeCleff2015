@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>33006</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN33006.wav</FileName>
+  <ClassId>bjsvvq</ClassId>
+  <Date>2013-12-26</Date>
+  <Time>09:00</Time>
+  <Locality>Guayabal de Síquima, Cundinamarca</Locality>
+  <Latitude>4.8774</Latitude>
+  <Longitude>-74.4645</Longitude>
+  <Elevation>1600</Elevation>
+  <Author>Juan David González Barreto</Author>
+  <AuthorID>EYWGVLKVUN</AuthorID>
+  <Content>song</Content>
+  <Comments>bird-seen:noplayback-used:no</Comments>
+  <Quality>2</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Furnariidae</Family>
+  <Genus>Synallaxis</Genus>
+  <Species>cinnamomea</Species>
+  <Sub-species />
+  <VernacularNames>Stripe-breasted Spinetail</VernacularNames>
+</Audio>

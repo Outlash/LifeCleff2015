@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>31325</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN31325.wav</FileName>
+  <ClassId>eshtgz</ClassId>
+  <Date>2006-12-21</Date>
+  <Time>19:30</Time>
+  <Locality>PN Cueva de los Guacharos</Locality>
+  <Latitude>10.1728</Latitude>
+  <Longitude>-63.5501</Longitude>
+  <Elevation>1500</Elevation>
+  <Author>Doug Knapp</Author>
+  <AuthorID>BHRXQZEQFL</AuthorID>
+  <Content>Call &amp; echolocation clicks</Content>
+  <Comments>Group leaving cave. Compare to individual sounds on other recordings.</Comments>
+  <Quality>2</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Caprimulgiformes</Order>
+  <Family>Steatornithidae</Family>
+  <Genus>Steatornis</Genus>
+  <Species>caripensis</Species>
+  <Sub-species />
+  <VernacularNames>Oilbird</VernacularNames>
+</Audio>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>14567</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN14567.wav</FileName>
+  <ClassId>aiiwiu</ClassId>
+  <Date>2013-12-29</Date>
+  <Time>08:00</Time>
+  <Locality>Teresópolis, Teresópolis, Rio de Janeiro</Locality>
+  <Latitude>-22.4212</Latitude>
+  <Longitude>-42.9559</Longitude>
+  <Elevation>900</Elevation>
+  <Author>Ricardo José Mitidieri</Author>
+  <AuthorID>CFRYARSVHN</AuthorID>
+  <Content>call</Content>
+  <Comments>bird-seen:yesplayback-used:no</Comments>
+  <Quality>3</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Psittaciformes</Order>
+  <Family>Psittacidae</Family>
+  <Genus>Psittacara</Genus>
+  <Species>leucophthalmus</Species>
+  <Sub-species>leucophthalmus</Sub-species>
+  <VernacularNames>White-eyed Parakeet</VernacularNames>
+</Audio>

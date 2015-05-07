@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>13068</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN13068.wav</FileName>
+  <ClassId>onmuhx</ClassId>
+  <Date>2003-10-09</Date>
+  <Time>08:46</Time>
+  <Locality>Parque Estadual Intervales. Barra Grande</Locality>
+  <Latitude>-24.2667</Latitude>
+  <Longitude>-48.3834</Longitude>
+  <Elevation>800</Elevation>
+  <Author>Jeremy Minns</Author>
+  <AuthorID>DGVLLRYDXS</AuthorID>
+  <Content>call, song</Content>
+  <Comments>Secondary montane forest  growth. Female plumaged bird, perched on a bare branch, high up.</Comments>
+  <Quality>2</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies>Pyriglena leucoptera,Carpornis cucullata,Vireo olivaceus</BackgroundSpecies>
+  <Order>Passeriformes</Order>
+  <Family>Thraupidae</Family>
+  <Genus>Sporophila</Genus>
+  <Species>falcirostris</Species>
+  <Sub-species />
+  <VernacularNames>Temminck's Seedeater</VernacularNames>
+</Audio>

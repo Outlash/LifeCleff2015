@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>24233</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN24233.wav</FileName>
+  <ClassId>ahuzrk</ClassId>
+  <Date>2005-07-00</Date>
+  <Time>07:00</Time>
+  <Locality>Galan, Santander, Yariguies, 06º38N, 73º19W</Locality>
+  <Latitude>6.6334</Latitude>
+  <Longitude>-73.3167</Longitude>
+  <Elevation>1250</Elevation>
+  <Author>Thomas Donegan</Author>
+  <AuthorID>OXSIOLJJUP</AuthorID>
+  <Content>Song</Content>
+  <Comments>Duet</Comments>
+  <Quality>0</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Thamnophilidae</Family>
+  <Genus>Thamnophilus</Genus>
+  <Species>multistriatus</Species>
+  <Sub-species />
+  <VernacularNames>Bar-crested Antshrike</VernacularNames>
+</Audio>

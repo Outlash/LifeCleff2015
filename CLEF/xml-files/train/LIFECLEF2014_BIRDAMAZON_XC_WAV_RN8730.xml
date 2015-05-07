@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>8730</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN8730.wav</FileName>
+  <ClassId>mkqlxe</ClassId>
+  <Date>2002-08-29</Date>
+  <Time>13:52</Time>
+  <Locality>Reserva Volta Velha, Itapoá, SC</Locality>
+  <Latitude>-26.0834</Latitude>
+  <Longitude>-48.6334</Longitude>
+  <Elevation>10</Elevation>
+  <Author>Jeremy Minns</Author>
+  <AuthorID>DGVLLRYDXS</AuthorID>
+  <Content>call, song</Content>
+  <Comments>Open area in lowland forest. Two birds on the tops of two trees.</Comments>
+  <Quality>2</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies>Procnias nudicollis</BackgroundSpecies>
+  <Order>Passeriformes</Order>
+  <Family>Tyrannidae</Family>
+  <Genus>Myiozetetes</Genus>
+  <Species>similis</Species>
+  <Sub-species>pallidiventris</Sub-species>
+  <VernacularNames>Social Flycatcher</VernacularNames>
+</Audio>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>3045</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN3045.wav</FileName>
+  <ClassId>kuggpr</ClassId>
+  <Date>2011-02-11</Date>
+  <Time>09:15</Time>
+  <Locality>Intervales State Park, Ribeirão Grande, São Paulo State</Locality>
+  <Latitude>NULL</Latitude>
+  <Longitude>NULL</Longitude>
+  <Elevation>820</Elevation>
+  <Author>Robson Silva e Silva</Author>
+  <AuthorID>WZSVLIHYQF</AuthorID>
+  <Content>Song</Content>
+  <Comments />
+  <Quality>1</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Thamnophilidae</Family>
+  <Genus>Batara</Genus>
+  <Species>cinerea</Species>
+  <Sub-species />
+  <VernacularNames>Giant Antshrike</VernacularNames>
+</Audio>

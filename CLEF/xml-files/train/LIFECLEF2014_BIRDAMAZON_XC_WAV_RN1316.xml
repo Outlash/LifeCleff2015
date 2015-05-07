@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>1316</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN1316.wav</FileName>
+  <ClassId>inyngh</ClassId>
+  <Date>2008-12-30</Date>
+  <Time>17:56</Time>
+  <Locality>Dunas, área de proteção ambiental, Las Acácias - Pelotas, Rio Grande do Sul</Locality>
+  <Latitude>-31.75</Latitude>
+  <Longitude>-52.28333</Longitude>
+  <Elevation>0</Elevation>
+  <Author>Fernando Jacobs</Author>
+  <AuthorID>MHHPJBCUXC</AuthorID>
+  <Content>song</Content>
+  <Comments />
+  <Quality>1</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Thraupidae</Family>
+  <Genus>Tachyphonus</Genus>
+  <Species>coronatus</Species>
+  <Sub-species />
+  <VernacularNames>Ruby-crowned Tanager</VernacularNames>
+</Audio>

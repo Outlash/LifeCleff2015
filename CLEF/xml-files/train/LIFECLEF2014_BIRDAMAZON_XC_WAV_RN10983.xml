@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>10983</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN10983.wav</FileName>
+  <ClassId>pndtuh</ClassId>
+  <Date>1997-05-11</Date>
+  <Time>07:10</Time>
+  <Locality>Ubatuba, SP. Corcovado.</Locality>
+  <Latitude>-23.5001</Latitude>
+  <Longitude>-45.2167</Longitude>
+  <Elevation>40</Elevation>
+  <Author>Jeremy Minns</Author>
+  <AuthorID>DGVLLRYDXS</AuthorID>
+  <Content>Song</Content>
+  <Comments />
+  <Quality>2</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies>Drymophila ferruginea,Dysithamnus stictothorax</BackgroundSpecies>
+  <Order>Apodiformes</Order>
+  <Family>Trochilidae</Family>
+  <Genus>Phaethornis</Genus>
+  <Species>ruber</Species>
+  <Sub-species>ruber</Sub-species>
+  <VernacularNames>Reddish Hermit</VernacularNames>
+</Audio>

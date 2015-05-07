@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>15237</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN15237.wav</FileName>
+  <ClassId>gzfudv</ClassId>
+  <Date>2011-02-12</Date>
+  <Time>06.00</Time>
+  <Locality>Delta Orinoco Cano Guacajara Abujene Camp</Locality>
+  <Latitude>5.6159</Latitude>
+  <Longitude>-66.0939</Longitude>
+  <Elevation>5</Elevation>
+  <Author>Thore Noernberg</Author>
+  <AuthorID>TTSQGWDDGW</AuthorID>
+  <Content>Call</Content>
+  <Comments>a flock of birds feeding on Mauritia setigera palm</Comments>
+  <Quality>2</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Psittaciformes</Order>
+  <Family>Psittacidae</Family>
+  <Genus>Orthopsittaca</Genus>
+  <Species>manilatus</Species>
+  <Sub-species />
+  <VernacularNames>Red-bellied Macaw</VernacularNames>
+</Audio>

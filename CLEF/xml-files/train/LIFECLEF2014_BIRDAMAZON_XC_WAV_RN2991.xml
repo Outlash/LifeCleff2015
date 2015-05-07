@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>2991</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN2991.wav</FileName>
+  <ClassId>ywpbix</ClassId>
+  <Date>2007-08-04</Date>
+  <Time>17:34</Time>
+  <Locality>Pousada Rio Azul, PA</Locality>
+  <Latitude>-9.2456</Latitude>
+  <Longitude>-55.987</Longitude>
+  <Elevation>240</Elevation>
+  <Author>Bradley Davis</Author>
+  <AuthorID>YNXJLOESBB</AuthorID>
+  <Content>song</Content>
+  <Comments>link:http://www.surfbirds.com/trip_report.php?id=1203</Comments>
+  <Quality>2</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies>Crypturellus cinereus,Crypturellus strigulosus,Ramphastos tucanus,Dendrocolaptes picumnus</BackgroundSpecies>
+  <Order>Passeriformes</Order>
+  <Family>Troglodytidae</Family>
+  <Genus>Cyphorhinus</Genus>
+  <Species>arada</Species>
+  <Sub-species />
+  <VernacularNames>Musician Wren</VernacularNames>
+</Audio>

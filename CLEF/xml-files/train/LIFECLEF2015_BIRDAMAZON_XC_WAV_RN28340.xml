@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>28340</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN28340.wav</FileName>
+  <ClassId>wkjlrj</ClassId>
+  <Date>2014-08-04</Date>
+  <Time>15:48</Time>
+  <Locality>Reserva Ecológica de Guapi Açu (REGUA), RJ</Locality>
+  <Latitude>-22.4508</Latitude>
+  <Longitude>-42.7735</Longitude>
+  <Elevation>30</Elevation>
+  <Author>Eric DeFonso</Author>
+  <AuthorID>KTLCZCRCQX</AuthorID>
+  <Content>wing whirr</Content>
+  <Comments>bird-seen:yesplayback-used:no</Comments>
+  <Quality>2</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Pipridae</Family>
+  <Genus>Manacus</Genus>
+  <Species>manacus</Species>
+  <Sub-species />
+  <VernacularNames>White-bearded Manakin</VernacularNames>
+</Audio>

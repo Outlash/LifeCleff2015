@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>3197</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN3197.wav</FileName>
+  <ClassId>zieccy</ClassId>
+  <Date>2005-05-24</Date>
+  <Time>09:00</Time>
+  <Locality>Itatiaia NP, RJ</Locality>
+  <Latitude>-22.38</Latitude>
+  <Longitude>-44.63</Longitude>
+  <Elevation>1150</Elevation>
+  <Author>Nick Athanas</Author>
+  <AuthorID>XRABICUARW</AuthorID>
+  <Content>song</Content>
+  <Comments>Response to playback.</Comments>
+  <Quality>1</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Formicariidae</Family>
+  <Genus>Chamaeza</Genus>
+  <Species>meruloides</Species>
+  <Sub-species />
+  <VernacularNames>Cryptic Antthrush</VernacularNames>
+</Audio>

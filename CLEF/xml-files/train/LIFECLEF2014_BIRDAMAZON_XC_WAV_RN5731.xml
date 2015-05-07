@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>5731</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN5731.wav</FileName>
+  <ClassId>hrszxx</ClassId>
+  <Date>2009-12-06</Date>
+  <Time>17:30</Time>
+  <Locality>Espraiado, Canelinha, Santa Catarina</Locality>
+  <Latitude>-27.184</Latitude>
+  <Longitude>-48.872</Longitude>
+  <Elevation>140</Elevation>
+  <Author>Evair Legal</Author>
+  <AuthorID>SMJXFKLATM</AuthorID>
+  <Content>song</Content>
+  <Comments />
+  <Quality>2</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Corvidae</Family>
+  <Genus>Cyanocorax</Genus>
+  <Species>caeruleus</Species>
+  <Sub-species />
+  <VernacularNames>Azure Jay</VernacularNames>
+</Audio>

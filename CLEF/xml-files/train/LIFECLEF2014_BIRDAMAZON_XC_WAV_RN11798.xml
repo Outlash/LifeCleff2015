@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>11798</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN11798.wav</FileName>
+  <ClassId>dawwtj</ClassId>
+  <Date>2003-10-08</Date>
+  <Time>08:05</Time>
+  <Locality>Intervales State Park. Carmo road</Locality>
+  <Latitude>-24.2834</Latitude>
+  <Longitude>-48.4334</Longitude>
+  <Elevation>800</Elevation>
+  <Author>Jeremy Minns</Author>
+  <AuthorID>DGVLLRYDXS</AuthorID>
+  <Content>call</Content>
+  <Comments>Montane forest. Male.</Comments>
+  <Quality>2</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies>Leptotila verreauxi,Veniliornis spilogaster,Myiodynastes maculatus,Carpornis cucullata,Procnias nudicollis,Chiroxiphia caudata,Vireo olivaceus,Sporophila falcirostris</BackgroundSpecies>
+  <Order>Trogoniformes</Order>
+  <Family>Trogonidae</Family>
+  <Genus>Trogon</Genus>
+  <Species>surrucura</Species>
+  <Sub-species>surrucura</Sub-species>
+  <VernacularNames>Surucua Trogon</VernacularNames>
+</Audio>

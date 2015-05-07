@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>30351</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN30351.wav</FileName>
+  <ClassId>itupcv</ClassId>
+  <Date>2013-09-11</Date>
+  <Time>12:00</Time>
+  <Locality>above RNA El Dorado, Sierra de Santa Marta, Magdalena</Locality>
+  <Latitude>11.1078</Latitude>
+  <Longitude>-74.0487</Longitude>
+  <Elevation>2600</Elevation>
+  <Author>Oswaldo Cortes</Author>
+  <AuthorID>VVDRVZCVWW</AuthorID>
+  <Content>song</Content>
+  <Comments>bird-seen:noplayback-used:no</Comments>
+  <Quality>3</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Furnariidae</Family>
+  <Genus>Synallaxis</Genus>
+  <Species>fuscorufa</Species>
+  <Sub-species />
+  <VernacularNames>Rusty-headed Spinetail</VernacularNames>
+</Audio>

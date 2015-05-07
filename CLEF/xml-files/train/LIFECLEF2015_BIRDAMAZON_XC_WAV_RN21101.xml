@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>21101</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN21101.wav</FileName>
+  <ClassId>jiuopg</ClassId>
+  <Date>2010-03-31</Date>
+  <Time>07:00</Time>
+  <Locality>APA Capivari Monos, São Paulo, SP</Locality>
+  <Latitude>-23.9557</Latitude>
+  <Longitude>-46.6503</Longitude>
+  <Elevation>700</Elevation>
+  <Author>Marcos A. Melo</Author>
+  <AuthorID>MRGDYNJGUJ</AuthorID>
+  <Content>song</Content>
+  <Comments>bird-seen:yesplayback-used:no</Comments>
+  <Quality>1</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies>Drymophila ochropyga,Procnias nudicollis</BackgroundSpecies>
+  <Order>Passeriformes</Order>
+  <Family>Tyrannidae</Family>
+  <Genus>Sirystes</Genus>
+  <Species>sibilator</Species>
+  <Sub-species />
+  <VernacularNames>Eastern Sirystes</VernacularNames>
+</Audio>

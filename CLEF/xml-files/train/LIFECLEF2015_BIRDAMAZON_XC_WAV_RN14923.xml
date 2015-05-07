@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>14923</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN14923.wav</FileName>
+  <ClassId>woerbo</ClassId>
+  <Date>2012-09-07</Date>
+  <Time>13:08</Time>
+  <Locality>9km E of RNR Tresor, Roura, Cayenne</Locality>
+  <Latitude>4.5699</Latitude>
+  <Longitude>-52.2218</Longitude>
+  <Elevation>320</Elevation>
+  <Author>Jon King</Author>
+  <AuthorID>LNEEOOWCQR</AuthorID>
+  <Content>male, song</Content>
+  <Comments>Distance to mic. c.70m. Seen 30m above ground in subcanopy. Same bird as XC114437.bird-seen:yesplayback-used:no</Comments>
+  <Quality>1</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies>Lipaugus vociferans</BackgroundSpecies>
+  <Order>Passeriformes</Order>
+  <Family>Cotingidae</Family>
+  <Genus>Procnias</Genus>
+  <Species>albus</Species>
+  <Sub-species />
+  <VernacularNames>White Bellbird</VernacularNames>
+</Audio>

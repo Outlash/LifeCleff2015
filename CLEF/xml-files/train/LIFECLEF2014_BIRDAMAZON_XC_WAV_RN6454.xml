@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>6454</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN6454.wav</FileName>
+  <ClassId>mkqlxe</ClassId>
+  <Date>2010-09-00</Date>
+  <Time>10:00</Time>
+  <Locality>Miracatu, São Paulo</Locality>
+  <Latitude>-24.188</Latitude>
+  <Longitude>-47.391</Longitude>
+  <Elevation>40</Elevation>
+  <Author>Marcos Melo</Author>
+  <AuthorID>MRGDYNJGUJ</AuthorID>
+  <Content>call</Content>
+  <Comments>a couple</Comments>
+  <Quality>4</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Tyrannidae</Family>
+  <Genus>Myiozetetes</Genus>
+  <Species>similis</Species>
+  <Sub-species />
+  <VernacularNames>Social Flycatcher</VernacularNames>
+</Audio>

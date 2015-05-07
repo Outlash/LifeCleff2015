@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>19886</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN19886.wav</FileName>
+  <ClassId>cqqgho</ClassId>
+  <Date>2005-10-12</Date>
+  <Time>06:45</Time>
+  <Locality>Cotumbo road, Aragua</Locality>
+  <Latitude>10.4167</Latitude>
+  <Longitude>-67.7834</Longitude>
+  <Elevation>50</Elevation>
+  <Author>Nick Athanas</Author>
+  <AuthorID>XRABICUARW</AuthorID>
+  <Content>song</Content>
+  <Comments />
+  <Quality>2</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies>Cyanocompsa cyanoides</BackgroundSpecies>
+  <Order>Passeriformes</Order>
+  <Family>Troglodytidae</Family>
+  <Genus>Thryophilus</Genus>
+  <Species>rufalbus</Species>
+  <Sub-species>cumanensis/minlosi?</Sub-species>
+  <VernacularNames>Rufous-and-white Wren</VernacularNames>
+</Audio>

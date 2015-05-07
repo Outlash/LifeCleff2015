@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>13045</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN13045.wav</FileName>
+  <ClassId>hijhrx</ClassId>
+  <Date>2005-04-15</Date>
+  <Time>21:00</Time>
+  <Locality>Engenho Opinioso, Amaraji, Pernambuco</Locality>
+  <Latitude>-8.385091</Latitude>
+  <Longitude>-35.44138</Longitude>
+  <Elevation>510</Elevation>
+  <Author>Glauco Alves Pereira</Author>
+  <AuthorID>ZWEROGGYVP</AuthorID>
+  <Content>Song</Content>
+  <Comments />
+  <Quality>3</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies />
+  <Order>Strigiformes</Order>
+  <Family>Strigidae</Family>
+  <Genus>Megascops</Genus>
+  <Species>choliba</Species>
+  <Sub-species />
+  <VernacularNames>Tropical Screech Owl</VernacularNames>
+</Audio>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>23331</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN23331.wav</FileName>
+  <ClassId>wserxv</ClassId>
+  <Date>2004-08-17</Date>
+  <Time>?</Time>
+  <Locality>Barbacoas, RN El Pangan, Narino</Locality>
+  <Latitude>1.3501</Latitude>
+  <Longitude>-78.2001</Longitude>
+  <Elevation>1000-1600</Elevation>
+  <Author>Oscar Laverde</Author>
+  <AuthorID>WKVKSVMNDZ</AuthorID>
+  <Content>song</Content>
+  <Comments />
+  <Quality>2</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Troglodytidae</Family>
+  <Genus>Cantorchilus</Genus>
+  <Species>nigricapillus</Species>
+  <Sub-species />
+  <VernacularNames>Bay Wren</VernacularNames>
+</Audio>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>9693</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN9693.wav</FileName>
+  <ClassId>jwatvd</ClassId>
+  <Date>2004-10-30</Date>
+  <Time>09:00</Time>
+  <Locality>Serra da Cantareira State Park. São Paulo</Locality>
+  <Latitude>-23.4667</Latitude>
+  <Longitude>-46.6167</Longitude>
+  <Elevation>800</Elevation>
+  <Author>Antonio Silveira</Author>
+  <AuthorID>NBJQSQJRYH</AuthorID>
+  <Content>song</Content>
+  <Comments>bird-seen:noplayback-used:no</Comments>
+  <Quality>3</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Grallariidae</Family>
+  <Genus>Grallaria</Genus>
+  <Species>varia</Species>
+  <Sub-species />
+  <VernacularNames>Variegated Antpitta</VernacularNames>
+</Audio>

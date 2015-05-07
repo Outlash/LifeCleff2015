@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>23708</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN23708.wav</FileName>
+  <ClassId>uxoaxq</ClassId>
+  <Date>2005-06-19</Date>
+  <Time>15:51</Time>
+  <Locality>PNN Chingaza, Sector monteredonde</Locality>
+  <Latitude>4.5167</Latitude>
+  <Longitude>-73.7501</Longitude>
+  <Elevation>2800</Elevation>
+  <Author>Oscar Laverde</Author>
+  <AuthorID>WKVKSVMNDZ</AuthorID>
+  <Content>call</Content>
+  <Comments />
+  <Quality>1</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies>Metallura tyrianthina</BackgroundSpecies>
+  <Order>Passeriformes</Order>
+  <Family>Tyrannidae</Family>
+  <Genus>Mecocerculus</Genus>
+  <Species>leucophrys</Species>
+  <Sub-species />
+  <VernacularNames>White-throated Tyrannulet</VernacularNames>
+</Audio>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>32096</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN32096.wav</FileName>
+  <ClassId>ffvgyk</ClassId>
+  <Date>2009-10-13</Date>
+  <Time>12:00</Time>
+  <Locality>Laguna de Pedro Palo, Cundinamarca</Locality>
+  <Latitude>4.6834</Latitude>
+  <Longitude>-74.3834</Longitude>
+  <Elevation>1750</Elevation>
+  <Author>Thomas Donegan</Author>
+  <AuthorID>OXSIOLJJUP</AuthorID>
+  <Content>call</Content>
+  <Comments />
+  <Quality>3</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies>Vireo leucophrys,Atlapetes albofrenatus</BackgroundSpecies>
+  <Order>Passeriformes</Order>
+  <Family>Troglodytidae</Family>
+  <Genus>Henicorhina</Genus>
+  <Species>leucophrys</Species>
+  <Sub-species />
+  <VernacularNames>Grey-breasted Wood Wren</VernacularNames>
+</Audio>

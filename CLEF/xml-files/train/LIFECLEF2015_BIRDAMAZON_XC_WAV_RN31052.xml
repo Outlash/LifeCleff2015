@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>31052</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN31052.wav</FileName>
+  <ClassId>mbfftt</ClassId>
+  <Date>2011-03-11</Date>
+  <Time>07:15</Time>
+  <Locality>Reserva Natural Cerro El Ingles, Valle del Cauca</Locality>
+  <Latitude>4.7417</Latitude>
+  <Longitude>-76.2962</Longitude>
+  <Elevation>2100</Elevation>
+  <Author>Oscar Humberto Marin-Gomez</Author>
+  <AuthorID>CSUHASNRSU</AuthorID>
+  <Content>song</Content>
+  <Comments>Ref: OHM070B 2114. Sotobosque cerca al Borde de bosque, camino del Cerro del Ingles hacia la Florida. 30m del Mic. Vocalización Natural.bird-seen:noplayback-used:no</Comments>
+  <Quality>1</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Rhinocryptidae</Family>
+  <Genus>Scytalopus</Genus>
+  <Species>vicinior</Species>
+  <Sub-species />
+  <VernacularNames>Narino Tapaculo</VernacularNames>
+</Audio>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>29711</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN29711.wav</FileName>
+  <ClassId>wgchmm</ClassId>
+  <Date>2005-07-30</Date>
+  <Time>5:28</Time>
+  <Locality>Ocaña, Agua de la Virgen, Cerro de la virgen, Norte de Santander</Locality>
+  <Latitude>8.2167</Latitude>
+  <Longitude>-73.4001</Longitude>
+  <Elevation>1600</Elevation>
+  <Author>Oscar Laverde</Author>
+  <AuthorID>WKVKSVMNDZ</AuthorID>
+  <Content>alarm call</Content>
+  <Comments>Reclamo de alarma, al final vocalizacionoes en vuelo</Comments>
+  <Quality>1</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Galliformes</Order>
+  <Family>Cracidae</Family>
+  <Genus>Penelope</Genus>
+  <Species>argyrotis</Species>
+  <Sub-species />
+  <VernacularNames>Band-tailed Guan</VernacularNames>
+</Audio>

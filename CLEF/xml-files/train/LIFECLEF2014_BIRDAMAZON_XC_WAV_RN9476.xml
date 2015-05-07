@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>9476</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN9476.wav</FileName>
+  <ClassId>mkqlxe</ClassId>
+  <Date>2006-10-08</Date>
+  <Time>7:50</Time>
+  <Locality>Parque Dois Irmãos, Recife, Pernambuco</Locality>
+  <Latitude>-8.0539</Latitude>
+  <Longitude>-34.8809</Longitude>
+  <Elevation>0</Elevation>
+  <Author>Mauricio Cabral Periquito</Author>
+  <AuthorID>HERKCTHDZI</AuthorID>
+  <Content>call</Content>
+  <Comments>Edge of forest</Comments>
+  <Quality>4</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Tyrannidae</Family>
+  <Genus>Myiozetetes</Genus>
+  <Species>similis</Species>
+  <Sub-species />
+  <VernacularNames>Social Flycatcher</VernacularNames>
+</Audio>

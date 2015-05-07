@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>2912</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN2912.wav</FileName>
+  <ClassId>ewisum</ClassId>
+  <Date>2005-11-18</Date>
+  <Time>6:10</Time>
+  <Locality>Parque do Zizo, Sao Paulo State</Locality>
+  <Latitude>-24.017146</Latitude>
+  <Longitude>-47.81044</Longitude>
+  <Elevation>630</Elevation>
+  <Author>Bob Planqué</Author>
+  <AuthorID>OH38YHKJBS</AuthorID>
+  <Content>song</Content>
+  <Comments />
+  <Quality>3</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies>Drymophila ferruginea,Chiroxiphia caudata,Sittasomus griseicapillus,Habia rubica</BackgroundSpecies>
+  <Order>Passeriformes</Order>
+  <Family>Parulidae</Family>
+  <Genus>Basileuterus</Genus>
+  <Species>culicivorus</Species>
+  <Sub-species />
+  <VernacularNames>Golden-crowned Warbler</VernacularNames>
+</Audio>

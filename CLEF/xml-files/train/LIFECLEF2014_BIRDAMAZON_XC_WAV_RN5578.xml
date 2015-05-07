@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>5578</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN5578.wav</FileName>
+  <ClassId>szldxi</ClassId>
+  <Date>2002-11-28</Date>
+  <Time>07:20</Time>
+  <Locality>Santa Catarina, near Urubici</Locality>
+  <Latitude>-27.83</Latitude>
+  <Longitude>-49.58</Longitude>
+  <Elevation>915</Elevation>
+  <Author>Jeremy Minns</Author>
+  <AuthorID>DGVLLRYDXS</AuthorID>
+  <Content>Song</Content>
+  <Comments>Beside SC-430 main road. Edge of humid submontane forest with much bamboo.</Comments>
+  <Quality>1</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Tyrannidae</Family>
+  <Genus>Elaenia</Genus>
+  <Species>mesoleuca</Species>
+  <Sub-species />
+  <VernacularNames>Olivaceous Elaenia</VernacularNames>
+</Audio>

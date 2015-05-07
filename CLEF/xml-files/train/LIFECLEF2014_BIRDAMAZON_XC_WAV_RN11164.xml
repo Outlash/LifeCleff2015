@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>11164</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN11164.wav</FileName>
+  <ClassId>mjvnht</ClassId>
+  <Date>2006-10-21</Date>
+  <Time>10:35</Time>
+  <Locality>Mono, Parque Nacional da Serra do Itajaí, Santa Catarina</Locality>
+  <Latitude>NULL</Latitude>
+  <Longitude>NULL</Longitude>
+  <Elevation>350</Elevation>
+  <Author>Glauco Kohler</Author>
+  <AuthorID>FGRUITYYXA</AuthorID>
+  <Content>song</Content>
+  <Comments />
+  <Quality>3</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies>Attila phoenicurus</BackgroundSpecies>
+  <Order>Passeriformes</Order>
+  <Family>Rhinocryptidae</Family>
+  <Genus>Psilorhamphus</Genus>
+  <Species>guttatus</Species>
+  <Sub-species />
+  <VernacularNames>Spotted Bamboowren</VernacularNames>
+</Audio>

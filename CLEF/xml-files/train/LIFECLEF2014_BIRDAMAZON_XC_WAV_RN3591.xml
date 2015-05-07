@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>3591</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN3591.wav</FileName>
+  <ClassId>nlducw</ClassId>
+  <Date>2006-06-21</Date>
+  <Time>10:15</Time>
+  <Locality>Reserva Ecológica de Guapiaçu, RJ</Locality>
+  <Latitude>-22.5001</Latitude>
+  <Longitude>-42.7167</Longitude>
+  <Elevation>?</Elevation>
+  <Author>Leonardo Pimentel</Author>
+  <AuthorID>JHBOHGJALL</AuthorID>
+  <Content>Call</Content>
+  <Comments />
+  <Quality>1</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies>Trogon surrucura,Hypoedaleus guttatus</BackgroundSpecies>
+  <Order>Passeriformes</Order>
+  <Family>Tyrannidae</Family>
+  <Genus>Contopus</Genus>
+  <Species>cinereus</Species>
+  <Sub-species />
+  <VernacularNames>Tropical Pewee</VernacularNames>
+</Audio>

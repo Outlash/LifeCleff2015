@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>244</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN244.wav</FileName>
+  <ClassId>athqge</ClassId>
+  <Date>2003-04-06</Date>
+  <Time>08:14</Time>
+  <Locality>Cristalino Jungle Lodge, MT</Locality>
+  <Latitude>-9.5981</Latitude>
+  <Longitude>-55.932</Longitude>
+  <Elevation>250</Elevation>
+  <Author>Jeremy Minns</Author>
+  <AuthorID>DGVLLRYDXS</AuthorID>
+  <Content>Song</Content>
+  <Comments>Terra firme forest with bamboo. Natural calls of a pair moving around in bamboo.</Comments>
+  <Quality>1</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies>Myrmothera campanisona</BackgroundSpecies>
+  <Order>Passeriformes</Order>
+  <Family>Thamnophilidae</Family>
+  <Genus>Thamnophilus</Genus>
+  <Species>amazonicus</Species>
+  <Sub-species>obscurus</Sub-species>
+  <VernacularNames>Amazonian Antshrike</VernacularNames>
+</Audio>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>11238</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN11238.wav</FileName>
+  <ClassId>wpfguq</ClassId>
+  <Date>2010-03-10</Date>
+  <Time>08:08</Time>
+  <Locality>Itabirito, Minas Gerais State</Locality>
+  <Latitude>NULL</Latitude>
+  <Longitude>NULL</Longitude>
+  <Elevation>980</Elevation>
+  <Author>Helberth Cardoso</Author>
+  <AuthorID>XIRUVWSNEN</AuthorID>
+  <Content>Song</Content>
+  <Comments />
+  <Quality>1</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Conopophagidae</Family>
+  <Genus>Conopophaga</Genus>
+  <Species>lineata</Species>
+  <Sub-species />
+  <VernacularNames>Rufous Gnateater</VernacularNames>
+</Audio>

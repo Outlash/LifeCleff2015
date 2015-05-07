@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>11928</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN11928.wav</FileName>
+  <ClassId>bsewbt</ClassId>
+  <Date>2001-07-06</Date>
+  <Time>08:20</Time>
+  <Locality>Presidente Figueiredo, AM. Iracema Falls Hotel</Locality>
+  <Latitude>-1.9834</Latitude>
+  <Longitude>-60.0501</Longitude>
+  <Elevation>140</Elevation>
+  <Author>Jeremy Minns</Author>
+  <AuthorID>DGVLLRYDXS</AuthorID>
+  <Content>call, song</Content>
+  <Comments>in terra firme forest.bird-seen:noplayback-used:no</Comments>
+  <Quality>3</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies>Ramphastos tucanus</BackgroundSpecies>
+  <Order>Passeriformes</Order>
+  <Family>Tyrannidae</Family>
+  <Genus>Zimmerius</Genus>
+  <Species>acer</Species>
+  <Sub-species />
+  <VernacularNames>Guianan Tyrannulet</VernacularNames>
+</Audio>

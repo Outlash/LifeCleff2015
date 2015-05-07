@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>1473</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN1473.wav</FileName>
+  <ClassId>ixjdrc</ClassId>
+  <Date>2007-09-28</Date>
+  <Time>11:30</Time>
+  <Locality>Michelin forest reserve, Ituberá, BA</Locality>
+  <Latitude>-13.8367</Latitude>
+  <Longitude>-39.2409</Longitude>
+  <Elevation>300</Elevation>
+  <Author>Nick Athanas</Author>
+  <AuthorID>XRABICUARW</AuthorID>
+  <Content>call</Content>
+  <Comments>Male. One, perhaps two other males are calling in the background, near a lek.</Comments>
+  <Quality>1</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Pipridae</Family>
+  <Genus>Dixiphia</Genus>
+  <Species>rubrocapilla</Species>
+  <Sub-species />
+  <VernacularNames>Red-headed Manakin</VernacularNames>
+</Audio>

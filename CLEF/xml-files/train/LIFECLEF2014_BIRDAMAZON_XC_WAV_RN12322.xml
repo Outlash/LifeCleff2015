@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>12322</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN12322.wav</FileName>
+  <ClassId>gwdmfy</ClassId>
+  <Date>2010-12-13</Date>
+  <Time>?</Time>
+  <Locality>Floresta Nacional do Tapajós, Bacia 165, Santarem, Para</Locality>
+  <Latitude>-2.754</Latitude>
+  <Longitude>-54.997</Longitude>
+  <Elevation>?</Elevation>
+  <Author>Nargila Moura</Author>
+  <AuthorID>CWEIBYBYYD</AuthorID>
+  <Content>song</Content>
+  <Comments>primary forest</Comments>
+  <Quality>2</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Thamnophilidae</Family>
+  <Genus>Hypocnemis</Genus>
+  <Species>hypoxantha</Species>
+  <Sub-species>ochraceiventris</Sub-species>
+  <VernacularNames>Yellow-browed Antbird</VernacularNames>
+</Audio>

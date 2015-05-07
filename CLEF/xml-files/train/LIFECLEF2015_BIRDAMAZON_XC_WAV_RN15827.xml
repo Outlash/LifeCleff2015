@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>15827</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN15827.wav</FileName>
+  <ClassId>myrlln</ClassId>
+  <Date>2000-10-31</Date>
+  <Time>16:00</Time>
+  <Locality>Rio Rancheria (desembocadura), Riohacha, La Guajira</Locality>
+  <Latitude>NULL</Latitude>
+  <Longitude>NULL</Longitude>
+  <Elevation>2</Elevation>
+  <Author>Bernabe Lopez-Lanus</Author>
+  <AuthorID>BYLLSJRVDZ</AuthorID>
+  <Content>Song</Content>
+  <Comments />
+  <Quality>3</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Tyrannidae</Family>
+  <Genus>Inezia</Genus>
+  <Species>tenuirostris</Species>
+  <Sub-species />
+  <VernacularNames>Slender-billed Inezia</VernacularNames>
+</Audio>

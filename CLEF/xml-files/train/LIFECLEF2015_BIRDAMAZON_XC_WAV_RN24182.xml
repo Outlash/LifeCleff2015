@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>24182</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN24182.wav</FileName>
+  <ClassId>rcjilk</ClassId>
+  <Date>2003-04-17</Date>
+  <Time>9:30</Time>
+  <Locality>Garagoa, RP El Secreto, Boyaca</Locality>
+  <Latitude>5.074529</Latitude>
+  <Longitude>-73.3612</Longitude>
+  <Elevation>2000-2200</Elevation>
+  <Author>Oscar Laverde</Author>
+  <AuthorID>WKVKSVMNDZ</AuthorID>
+  <Content>song</Content>
+  <Comments>Al inicio el C. rieferii, despues Chlorospingus ophtalmicus</Comments>
+  <Quality>3</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies>Chlorospingus flavopectus</BackgroundSpecies>
+  <Order>Passeriformes</Order>
+  <Family>Thraupidae</Family>
+  <Genus>Chlorornis</Genus>
+  <Species>riefferii</Species>
+  <Sub-species />
+  <VernacularNames>Grass-green Tanager</VernacularNames>
+</Audio>

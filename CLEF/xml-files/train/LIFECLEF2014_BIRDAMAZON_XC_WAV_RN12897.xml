@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>12897</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN12897.wav</FileName>
+  <ClassId>zieccy</ClassId>
+  <Date>1997-12-30</Date>
+  <Time>07:30</Time>
+  <Locality>Serra do Mar National Park - Santa Virginia - Sao Paulo State</Locality>
+  <Latitude>-23.3933</Latitude>
+  <Longitude>-45.1503</Longitude>
+  <Elevation>900</Elevation>
+  <Author>Jeremy Minns</Author>
+  <AuthorID>DGVLLRYDXS</AuthorID>
+  <Content>call, song</Content>
+  <Comments>Montane forest. This is Call A in our DVD-ROM 'Birds of Brazil'.</Comments>
+  <Quality>2</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies>Chamaeza meruloides,Synallaxis ruficapilla,Carpornis cucullata,Turdus flavipes,Turdus albicollis</BackgroundSpecies>
+  <Order>Passeriformes</Order>
+  <Family>Formicariidae</Family>
+  <Genus>Chamaeza</Genus>
+  <Species>meruloides</Species>
+  <Sub-species />
+  <VernacularNames>Cryptic Antthrush</VernacularNames>
+</Audio>

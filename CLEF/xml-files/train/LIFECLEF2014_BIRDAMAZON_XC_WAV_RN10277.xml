@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>10277</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN10277.wav</FileName>
+  <ClassId>bmiqmk</ClassId>
+  <Date>2004-10-01</Date>
+  <Time>09:00</Time>
+  <Locality>Serra do Mar State Park. Cunha</Locality>
+  <Latitude>-23.267</Latitude>
+  <Longitude>-45.028</Longitude>
+  <Elevation>1100</Elevation>
+  <Author>Antonio Silveira</Author>
+  <AuthorID>NBJQSQJRYH</AuthorID>
+  <Content>male, song</Content>
+  <Comments>Several males singing and dancing around one female in the forest.bird-seen:yesplayback-used:no</Comments>
+  <Quality>2</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Pipridae</Family>
+  <Genus>Chiroxiphia</Genus>
+  <Species>caudata</Species>
+  <Sub-species />
+  <VernacularNames>Blue Manakin</VernacularNames>
+</Audio>

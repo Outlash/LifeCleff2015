@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>7444</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN7444.wav</FileName>
+  <ClassId>aiwvzm</ClassId>
+  <Date>2009-11-01</Date>
+  <Time>08:20</Time>
+  <Locality>Reservatório do Guarapiranga, São Paulo, SP</Locality>
+  <Latitude>-23.7192</Latitude>
+  <Longitude>-46.717</Longitude>
+  <Elevation>760</Elevation>
+  <Author>Marcos Melo</Author>
+  <AuthorID>MRGDYNJGUJ</AuthorID>
+  <Content>alarm call</Content>
+  <Comments>had the proximity with the Callithrix (hibrid) Marmoset</Comments>
+  <Quality>2</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies>Coereba flaveola,Myiodynastes maculatus</BackgroundSpecies>
+  <Order>Passeriformes</Order>
+  <Family>Furnariidae</Family>
+  <Genus>Cranioleuca</Genus>
+  <Species>pallida</Species>
+  <Sub-species />
+  <VernacularNames>Pallid Spinetail</VernacularNames>
+</Audio>

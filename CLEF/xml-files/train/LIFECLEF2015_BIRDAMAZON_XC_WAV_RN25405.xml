@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>25405</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN25405.wav</FileName>
+  <ClassId>gmeajz</ClassId>
+  <Date>2013-05-12</Date>
+  <Time>16:30</Time>
+  <Locality>Ubajara, Ceara</Locality>
+  <Latitude>-3.8531</Latitude>
+  <Longitude>-40.9271</Longitude>
+  <Elevation>850</Elevation>
+  <Author>Caio Brito</Author>
+  <AuthorID>YWWWUBVAJF</AuthorID>
+  <Content>call</Content>
+  <Comments>Voice type 2bird-seen:noplayback-used:no</Comments>
+  <Quality>2</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Pipridae</Family>
+  <Genus>Chiroxiphia</Genus>
+  <Species>pareola</Species>
+  <Sub-species />
+  <VernacularNames>Blue-backed Manakin</VernacularNames>
+</Audio>

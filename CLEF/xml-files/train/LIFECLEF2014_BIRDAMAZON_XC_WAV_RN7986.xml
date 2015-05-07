@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>7986</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN7986.wav</FileName>
+  <ClassId>twhfvm</ClassId>
+  <Date>2011-11-10</Date>
+  <Time>13:00</Time>
+  <Locality>Abade, GO</Locality>
+  <Latitude>-15.85</Latitude>
+  <Longitude>-48.888</Longitude>
+  <Elevation>1100</Elevation>
+  <Author>Alexander Lees</Author>
+  <AuthorID>INDDBZAFJL</AuthorID>
+  <Content>call</Content>
+  <Comments>cerrado</Comments>
+  <Quality>3</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies>Gnorimopsar chopi</BackgroundSpecies>
+  <Order>Passeriformes</Order>
+  <Family>Thraupidae</Family>
+  <Genus>Emberizoides</Genus>
+  <Species>herbicola</Species>
+  <Sub-species>herbicola</Sub-species>
+  <VernacularNames>Wedge-tailed Grass Finch</VernacularNames>
+</Audio>

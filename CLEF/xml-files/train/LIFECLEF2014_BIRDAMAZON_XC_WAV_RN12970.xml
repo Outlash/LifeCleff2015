@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>12970</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN12970.wav</FileName>
+  <ClassId>hvcjoo</ClassId>
+  <Date>2010-10-30</Date>
+  <Time>07:34</Time>
+  <Locality>Paragominas, PA, Brazil, Bacia 245</Locality>
+  <Latitude>-3.1253</Latitude>
+  <Longitude>-46.8456</Longitude>
+  <Elevation>?</Elevation>
+  <Author>Alexander Lees</Author>
+  <AuthorID>INDDBZAFJL</AuthorID>
+  <Content>song</Content>
+  <Comments>primary forest</Comments>
+  <Quality>4</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies>Psittacara leucophthalmus,Formicarius analis,Automolus paraensis,Ramphotrigon megacephalum,Myiarchus ferox,Ramphocaenus melanurus,Turdus fumigatus</BackgroundSpecies>
+  <Order>Passeriformes</Order>
+  <Family>Tityridae</Family>
+  <Genus>Onychorhynchus</Genus>
+  <Species>coronatus</Species>
+  <Sub-species>castelnaui</Sub-species>
+  <VernacularNames>Amazonian Royal Flycatcher</VernacularNames>
+</Audio>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>1422</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN1422.wav</FileName>
+  <ClassId>fcojdk</ClassId>
+  <Date>2010-10-20</Date>
+  <Time>10am</Time>
+  <Locality>Botanic Garden of São Paulo, São Paulo State,Brazil</Locality>
+  <Latitude>-23.639</Latitude>
+  <Longitude>-46.619</Longitude>
+  <Elevation>700</Elevation>
+  <Author>Antonio Silveira</Author>
+  <AuthorID>NBJQSQJRYH</AuthorID>
+  <Content>call</Content>
+  <Comments>Four P.nudicollis vocalizing. Two next and two more distant, alls into the forest.bird-seen:yesplayback-used:no</Comments>
+  <Quality>0</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Cotingidae</Family>
+  <Genus>Procnias</Genus>
+  <Species>nudicollis</Species>
+  <Sub-species />
+  <VernacularNames>Bare-throated Bellbird</VernacularNames>
+</Audio>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>28155</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN28155.wav</FileName>
+  <ClassId>cpzzjy</ClassId>
+  <Date>2010-12-01</Date>
+  <Time>?</Time>
+  <Locality>Rio Kukenan camp on the way to Cerro Roraima, Bolivar</Locality>
+  <Latitude>5.1323</Latitude>
+  <Longitude>-60.8001</Longitude>
+  <Elevation>?</Elevation>
+  <Author>Alexandre Renaudier</Author>
+  <AuthorID>GKADEITXTH</AuthorID>
+  <Content>song</Content>
+  <Comments>after playback</Comments>
+  <Quality>1</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies>Sicalis citrina</BackgroundSpecies>
+  <Order>Passeriformes</Order>
+  <Family>Mimidae</Family>
+  <Genus>Mimus</Genus>
+  <Species>gilvus</Species>
+  <Sub-species />
+  <VernacularNames>Tropical Mockingbird</VernacularNames>
+</Audio>

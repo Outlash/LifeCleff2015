@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>32366</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN32366.wav</FileName>
+  <ClassId>uphahj</ClassId>
+  <Date>2002-04-02</Date>
+  <Time>?</Time>
+  <Locality>Hacienda Tintiná, Cuenca río Tapias, Guadual y borde de cañada, Los Bohíos, Neira, Caldas</Locality>
+  <Latitude>5.246111</Latitude>
+  <Longitude>-75.68528</Longitude>
+  <Elevation>830</Elevation>
+  <Author>Sergio Córdoba Córdoba (Colección de Sonidos Ambientales - Instituto Humboldt)</Author>
+  <AuthorID>XMFDPACYJN</AuthorID>
+  <Content>song</Content>
+  <Comments>BSA 8386To obtain a wav file of the original recording, please contact csa@humboldt.org.coplayback-used:no</Comments>
+  <Quality>2</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Accipitriformes</Order>
+  <Family>Accipitridae</Family>
+  <Genus>Rupornis</Genus>
+  <Species>magnirostris</Species>
+  <Sub-species />
+  <VernacularNames>Roadside Hawk</VernacularNames>
+</Audio>

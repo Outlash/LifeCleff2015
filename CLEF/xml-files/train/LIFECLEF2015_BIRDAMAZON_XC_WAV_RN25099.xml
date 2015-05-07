@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>25099</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN25099.wav</FileName>
+  <ClassId>pscjat</ClassId>
+  <Date>2014-01-23</Date>
+  <Time>06:00</Time>
+  <Locality>Laguna, Santa Catarina</Locality>
+  <Latitude>-28.4979</Latitude>
+  <Longitude>-48.8826</Longitude>
+  <Elevation>0</Elevation>
+  <Author>Luiz C.  Silva</Author>
+  <AuthorID>ORPKXJRFDZ</AuthorID>
+  <Content>male, song</Content>
+  <Comments>Frogs in the background.bird-seen:noplayback-used:no</Comments>
+  <Quality>1</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Thraupidae</Family>
+  <Genus>Sicalis</Genus>
+  <Species>flaveola</Species>
+  <Sub-species>pelzelni</Sub-species>
+  <VernacularNames>Saffron Finch</VernacularNames>
+</Audio>

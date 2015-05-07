@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>29878</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN29878.wav</FileName>
+  <ClassId>ghwdea</ClassId>
+  <Date>2013-07-25</Date>
+  <Time>09:20</Time>
+  <Locality>Campo Bonito 2, Parana</Locality>
+  <Latitude>-24.9981</Latitude>
+  <Longitude>-53.035</Longitude>
+  <Elevation>750</Elevation>
+  <Author>Teus Luijendijk</Author>
+  <AuthorID>VLNULZJNSX</AuthorID>
+  <Content>song</Content>
+  <Comments>Slightly filtered &lt;600 Hz.bird-seen:yesplayback-used:no</Comments>
+  <Quality>2</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies>Basileuterus culicivorus,Poecilotriccus plumbeiceps,Chiroxiphia caudata,Leptotila verreauxi,Myiothlypis leucoblephara</BackgroundSpecies>
+  <Order>Passeriformes</Order>
+  <Family>Cardinalidae</Family>
+  <Genus>Amaurospiza</Genus>
+  <Species>moesta</Species>
+  <Sub-species />
+  <VernacularNames>Blackish-blue Seedeater</VernacularNames>
+</Audio>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>23942</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN23942.wav</FileName>
+  <ClassId>lktqhx</ClassId>
+  <Date>2011-03-16</Date>
+  <Time>09:55</Time>
+  <Locality>Brownsberg</Locality>
+  <Latitude>4.9301</Latitude>
+  <Longitude>-55.2101</Longitude>
+  <Elevation>460</Elevation>
+  <Author>Daniel Lane</Author>
+  <AuthorID>WOEAFQRMUD</AuthorID>
+  <Content>call, song</Content>
+  <Comments>Natural vocalizations from four birds about 25-30m up in tall trees on steep slope. Could not see what behavior accompanied the whining vocalization.</Comments>
+  <Quality>2</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Piciformes</Order>
+  <Family>Ramphastidae</Family>
+  <Genus>Selenidera</Genus>
+  <Species>piperivora</Species>
+  <Sub-species />
+  <VernacularNames>Guianan Toucanet</VernacularNames>
+</Audio>

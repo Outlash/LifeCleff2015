@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>21012</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN21012.wav</FileName>
+  <ClassId>uizzbr</ClassId>
+  <Date>2014-01-26</Date>
+  <Time>10:30</Time>
+  <Locality>Machadinho d'Oeste, Rondônia</Locality>
+  <Latitude>-8.9495</Latitude>
+  <Longitude>-61.967</Longitude>
+  <Elevation>120</Elevation>
+  <Author>GABRIEL LEITE</Author>
+  <AuthorID>TGBFXDVERJ</AuthorID>
+  <Content>song</Content>
+  <Comments>bird-seen:yesplayback-used:no</Comments>
+  <Quality>1</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Cotingidae</Family>
+  <Genus>Lipaugus</Genus>
+  <Species>vociferans</Species>
+  <Sub-species />
+  <VernacularNames>Screaming Piha</VernacularNames>
+</Audio>

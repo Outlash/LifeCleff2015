@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>1262</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN1262.wav</FileName>
+  <ClassId>eldoju</ClassId>
+  <Date>2009-06-12</Date>
+  <Time>?</Time>
+  <Locality>Ribeirão Quati, Parque Nacional da Serra do Itajaí, Indaial, Santa Catarina</Locality>
+  <Latitude>-27.0423</Latitude>
+  <Longitude>-49.2181</Longitude>
+  <Elevation>600</Elevation>
+  <Author>Adrian Eisen Rupp</Author>
+  <AuthorID>AOPMSCIDIA</AuthorID>
+  <Content>song</Content>
+  <Comments />
+  <Quality>2</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies>Pionopsitta pileata</BackgroundSpecies>
+  <Order>Passeriformes</Order>
+  <Family>Tyrannidae</Family>
+  <Genus>Ramphotrigon</Genus>
+  <Species>megacephalum</Species>
+  <Sub-species />
+  <VernacularNames>Large-headed Flatbill</VernacularNames>
+</Audio>

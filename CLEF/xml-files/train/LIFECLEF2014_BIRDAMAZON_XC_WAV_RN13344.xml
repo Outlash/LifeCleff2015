@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>13344</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN13344.wav</FileName>
+  <ClassId>armfvy</ClassId>
+  <Date>2005-12-21</Date>
+  <Time>7:00</Time>
+  <Locality>Mucugê, Bahia.</Locality>
+  <Latitude>NULL</Latitude>
+  <Longitude>NULL</Longitude>
+  <Elevation>?</Elevation>
+  <Author>Sidnei S. dos Santos</Author>
+  <AuthorID>BHODJXTHGQ</AuthorID>
+  <Content>Song</Content>
+  <Comments />
+  <Quality>1</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Tyrannidae</Family>
+  <Genus>Camptostoma</Genus>
+  <Species>obsoletum</Species>
+  <Sub-species />
+  <VernacularNames>Southern Beardless Tyrannulet</VernacularNames>
+</Audio>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>3504</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN3504.wav</FileName>
+  <ClassId>ngukgn</ClassId>
+  <Date>2011-08-19</Date>
+  <Time>10:00</Time>
+  <Locality>Cristalino Jungle Lodge, MT</Locality>
+  <Latitude>-9.5981</Latitude>
+  <Longitude>-55.932</Longitude>
+  <Elevation>200</Elevation>
+  <Author>Tayler Brooks</Author>
+  <AuthorID>ARFGONJCBJ</AuthorID>
+  <Content>call</Content>
+  <Comments>Natural vocalization.</Comments>
+  <Quality>2</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Troglodytidae</Family>
+  <Genus>Microcerculus</Genus>
+  <Species>marginatus</Species>
+  <Sub-species>marginatus</Sub-species>
+  <VernacularNames>Southern Nightingale-Wren</VernacularNames>
+</Audio>

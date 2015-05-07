@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>19316</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN19316.wav</FileName>
+  <ClassId>cpcenp</ClassId>
+  <Date>2011-03-08</Date>
+  <Time>16:00</Time>
+  <Locality>Department of Magdalena, Parque Nacional Natural Tayrona</Locality>
+  <Latitude>11.2698</Latitude>
+  <Longitude>-74.0498</Longitude>
+  <Elevation>50</Elevation>
+  <Author>Rob van Bemmelen</Author>
+  <AuthorID>RDRHSLUBZP</AuthorID>
+  <Content>call, song</Content>
+  <Comments />
+  <Quality>2</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Thamnophilidae</Family>
+  <Genus>Myrmeciza</Genus>
+  <Species>longipes</Species>
+  <Sub-species />
+  <VernacularNames>White-bellied Antbird</VernacularNames>
+</Audio>

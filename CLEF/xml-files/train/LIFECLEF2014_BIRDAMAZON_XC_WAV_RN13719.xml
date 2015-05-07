@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>13719</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN13719.wav</FileName>
+  <ClassId>yplahx</ClassId>
+  <Date>2011-08-25</Date>
+  <Time>10:30</Time>
+  <Locality>Parauapebas, Para</Locality>
+  <Latitude>-6.1924</Latitude>
+  <Longitude>-50.202</Longitude>
+  <Elevation>550</Elevation>
+  <Author>GABRIEL LEITE</Author>
+  <AuthorID>TGBFXDVERJ</AuthorID>
+  <Content>song</Content>
+  <Comments>bird-seen:yesplayback-used:no</Comments>
+  <Quality>2</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies>Procnias albus</BackgroundSpecies>
+  <Order>Passeriformes</Order>
+  <Family>Polioptilidae</Family>
+  <Genus>Ramphocaenus</Genus>
+  <Species>melanurus</Species>
+  <Sub-species />
+  <VernacularNames>Long-billed Gnatwren</VernacularNames>
+</Audio>

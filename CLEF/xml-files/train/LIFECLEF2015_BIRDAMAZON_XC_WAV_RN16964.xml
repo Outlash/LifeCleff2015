@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>16964</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN16964.wav</FileName>
+  <ClassId>ttjcxm</ClassId>
+  <Date>2014-02-09</Date>
+  <Time>09:30</Time>
+  <Locality>Machadinho d'Oeste, Rondônia</Locality>
+  <Latitude>-8.7521</Latitude>
+  <Longitude>-62.2375</Longitude>
+  <Elevation>90</Elevation>
+  <Author>GABRIEL LEITE</Author>
+  <AuthorID>TGBFXDVERJ</AuthorID>
+  <Content>male, song</Content>
+  <Comments>bird-seen:yesplayback-used:yes</Comments>
+  <Quality>1</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Thamnophilidae</Family>
+  <Genus>Myrmornis</Genus>
+  <Species>torquata</Species>
+  <Sub-species />
+  <VernacularNames>Wing-banded Antbird</VernacularNames>
+</Audio>

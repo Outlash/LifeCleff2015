@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>15407</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN15407.wav</FileName>
+  <ClassId>kvowbh</ClassId>
+  <Date>2008-07-31</Date>
+  <Time>18:00</Time>
+  <Locality>Canopy Walkway, Iwokrama Reserve</Locality>
+  <Latitude>4.2417</Latitude>
+  <Longitude>-58.9028</Longitude>
+  <Elevation>100</Elevation>
+  <Author>Ken Allaire</Author>
+  <AuthorID>AEWPPXBBYE</AuthorID>
+  <Content>call</Content>
+  <Comments>Call Notes from my life bird!</Comments>
+  <Quality>1</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Thamnophilidae</Family>
+  <Genus>Myrmeciza</Genus>
+  <Species>ferruginea</Species>
+  <Sub-species />
+  <VernacularNames>Ferruginous-backed Antbird</VernacularNames>
+</Audio>

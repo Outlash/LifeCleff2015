@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>13424</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN13424.wav</FileName>
+  <ClassId>ehpgkp</ClassId>
+  <Date>1999-09-18</Date>
+  <Time>06:35</Time>
+  <Locality>Reserva Extrativista Alto Juruá. Foz do Breu</Locality>
+  <Latitude>-9.4123</Latitude>
+  <Longitude>-72.7153</Longitude>
+  <Elevation>225</Elevation>
+  <Author>Jeremy Minns</Author>
+  <AuthorID>DGVLLRYDXS</AuthorID>
+  <Content>Call</Content>
+  <Comments>Terra firme forest. After playback.</Comments>
+  <Quality>0</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies>Ramphastos tucanus,Psarocolius angustifrons</BackgroundSpecies>
+  <Order>Passeriformes</Order>
+  <Family>Formicariidae</Family>
+  <Genus>Formicarius</Genus>
+  <Species>analis</Species>
+  <Sub-species>analis</Sub-species>
+  <VernacularNames>Black-faced Antthrush</VernacularNames>
+</Audio>

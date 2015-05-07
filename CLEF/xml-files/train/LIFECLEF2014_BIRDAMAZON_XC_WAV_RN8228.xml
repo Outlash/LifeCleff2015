@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>8228</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN8228.wav</FileName>
+  <ClassId>klojgx</ClassId>
+  <Date>2006-09-29</Date>
+  <Time>11:50</Time>
+  <Locality>Usina Zillo Lorenzetti - Quatá, Sao Paulo State</Locality>
+  <Latitude>-22.2589</Latitude>
+  <Longitude>-50.7089</Longitude>
+  <Elevation>550</Elevation>
+  <Author>Guilherme R R Brito</Author>
+  <AuthorID>OAYOBWYOOM</AuthorID>
+  <Content>song</Content>
+  <Comments />
+  <Quality>2</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Emberizidae</Family>
+  <Genus>Arremon</Genus>
+  <Species>flavirostris</Species>
+  <Sub-species />
+  <VernacularNames>Saffron-billed Sparrow</VernacularNames>
+</Audio>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>26473</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN26473.wav</FileName>
+  <ClassId>xrkpcj</ClassId>
+  <Date>0000-00-00</Date>
+  <Time>?:?</Time>
+  <Locality>Department of Magdalena, Parque Nacional Natural Tayrona</Locality>
+  <Latitude>11.27</Latitude>
+  <Longitude>-74.05</Longitude>
+  <Elevation>?</Elevation>
+  <Author>Frank Lambert</Author>
+  <AuthorID>YTUXOCTUEM</AuthorID>
+  <Content>call</Content>
+  <Comments>Previously published on AVoCet as &lt;a href=http://avocet.zoology.msu.edu/recordings/9222&gt;AV9222&lt;/a&gt;.  Certainty: slightly less than 100%.  ID determined by: not specifically indicated, recordist normally sees birds recorded and indicates if any question, no matches found. GPS: GeoHack. the single call note</Comments>
+  <Quality>3</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Pipridae</Family>
+  <Genus>Chiroxiphia</Genus>
+  <Species>lanceolata</Species>
+  <Sub-species />
+  <VernacularNames>Lance-tailed Manakin</VernacularNames>
+</Audio>

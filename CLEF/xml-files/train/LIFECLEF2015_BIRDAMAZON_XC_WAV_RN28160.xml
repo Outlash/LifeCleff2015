@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>28160</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN28160.wav</FileName>
+  <ClassId>aziqpv</ClassId>
+  <Date>2007-06-17</Date>
+  <Time>10:27</Time>
+  <Locality>Hidráulica - Capão do Leão, Rio Grande do Sul</Locality>
+  <Latitude>-31.72889</Latitude>
+  <Longitude>-52.48944</Longitude>
+  <Elevation>30</Elevation>
+  <Author>Fernando Jacobs</Author>
+  <AuthorID>MHHPJBCUXC</AuthorID>
+  <Content>call, song</Content>
+  <Comments />
+  <Quality>0</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Thraupidae</Family>
+  <Genus>Sicalis</Genus>
+  <Species>luteola</Species>
+  <Sub-species />
+  <VernacularNames>Grassland Yellow Finch</VernacularNames>
+</Audio>

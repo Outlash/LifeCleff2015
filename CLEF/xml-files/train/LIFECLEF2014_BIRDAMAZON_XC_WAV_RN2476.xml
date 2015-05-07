@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>2476</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN2476.wav</FileName>
+  <ClassId>pxqbfm</ClassId>
+  <Date>2007-11-00</Date>
+  <Time>08:40</Time>
+  <Locality>Trail to Lageado, Parque Estadual Intervales, SP</Locality>
+  <Latitude>-24.2759</Latitude>
+  <Longitude>-48.4181</Longitude>
+  <Elevation>?</Elevation>
+  <Author>Eduardo Patrial</Author>
+  <AuthorID>QEFRRVCRRP</AuthorID>
+  <Content>song</Content>
+  <Comments />
+  <Quality>1</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies>Procnias nudicollis</BackgroundSpecies>
+  <Order>Piciformes</Order>
+  <Family>Bucconidae</Family>
+  <Genus>Malacoptila</Genus>
+  <Species>striata</Species>
+  <Sub-species />
+  <VernacularNames>Crescent-chested Puffbird</VernacularNames>
+</Audio>

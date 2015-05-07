@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>549</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN549.wav</FileName>
+  <ClassId>rogygm</ClassId>
+  <Date>2013-06-01</Date>
+  <Time>10:30</Time>
+  <Locality>Araponga, Minas Gerais</Locality>
+  <Latitude>NULL</Latitude>
+  <Longitude>NULL</Longitude>
+  <Elevation>950</Elevation>
+  <Author>Noé Eiterer</Author>
+  <AuthorID>TWSKITNQOV</AuthorID>
+  <Content>call</Content>
+  <Comments>bird-seen:yesplayback-used:yes</Comments>
+  <Quality>1</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Cotingidae</Family>
+  <Genus>Lipaugus</Genus>
+  <Species>lanioides</Species>
+  <Sub-species />
+  <VernacularNames>Cinnamon-vented Piha</VernacularNames>
+</Audio>

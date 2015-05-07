@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>32687</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN32687.wav</FileName>
+  <ClassId>djuprc</ClassId>
+  <Date>0000-00-00</Date>
+  <Time>?</Time>
+  <Locality>Palumeu</Locality>
+  <Latitude>3.3501</Latitude>
+  <Longitude>-55.4401</Longitude>
+  <Elevation>?</Elevation>
+  <Author>Otte Ottema</Author>
+  <AuthorID>ASEUAUOXZA</AuthorID>
+  <Content>song</Content>
+  <Comments />
+  <Quality>3</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies>Pitangus sulphuratus</BackgroundSpecies>
+  <Order>Passeriformes</Order>
+  <Family>Tyrannidae</Family>
+  <Genus>Philohydor</Genus>
+  <Species>lictor</Species>
+  <Sub-species />
+  <VernacularNames>Lesser Kiskadee</VernacularNames>
+</Audio>

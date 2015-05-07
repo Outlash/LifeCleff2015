@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>32165</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN32165.wav</FileName>
+  <ClassId>mveelf</ClassId>
+  <Date>2010-11-27</Date>
+  <Time>6:28</Time>
+  <Locality>Belterra, PA - Bacia 236</Locality>
+  <Latitude>-2.789</Latitude>
+  <Longitude>-54.857</Longitude>
+  <Elevation>?</Elevation>
+  <Author>Christian Borges Andretti</Author>
+  <AuthorID>EZSMXGTXKS</AuthorID>
+  <Content>song</Content>
+  <Comments />
+  <Quality>3</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies>Pheugopedius coraya</BackgroundSpecies>
+  <Order>Psittaciformes</Order>
+  <Family>Psittacidae</Family>
+  <Genus>Pionus</Genus>
+  <Species>fuscus</Species>
+  <Sub-species />
+  <VernacularNames>Dusky Parrot</VernacularNames>
+</Audio>

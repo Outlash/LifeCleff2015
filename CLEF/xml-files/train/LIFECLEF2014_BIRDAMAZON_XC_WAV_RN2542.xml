@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>2542</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN2542.wav</FileName>
+  <ClassId>tmlmmx</ClassId>
+  <Date>2006-01-14</Date>
+  <Time>09:00</Time>
+  <Locality>Igarassu, state of Pernambuco</Locality>
+  <Latitude>-7.8001</Latitude>
+  <Longitude>-34.9501</Longitude>
+  <Elevation>20</Elevation>
+  <Author>Sidnei de Melo Dantas</Author>
+  <AuthorID>NNCKQMBGPH</AuthorID>
+  <Content>call, song</Content>
+  <Comments>open area with scarce trees</Comments>
+  <Quality>3</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies>Columbina talpacoti</BackgroundSpecies>
+  <Order>Piciformes</Order>
+  <Family>Picidae</Family>
+  <Genus>Colaptes</Genus>
+  <Species>melanochloros</Species>
+  <Sub-species />
+  <VernacularNames>Green-barred Woodpecker</VernacularNames>
+</Audio>

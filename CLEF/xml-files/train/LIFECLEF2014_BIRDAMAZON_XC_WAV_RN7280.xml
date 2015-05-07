@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>7280</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN7280.wav</FileName>
+  <ClassId>pprfie</ClassId>
+  <Date>2010-02-11</Date>
+  <Time>?</Time>
+  <Locality>RPPN Prima Luna, Nova Trento, Santa Catarina</Locality>
+  <Latitude>-27.257</Latitude>
+  <Longitude>-49.018</Longitude>
+  <Elevation>950</Elevation>
+  <Author>Evair Legal</Author>
+  <AuthorID>SMJXFKLATM</AuthorID>
+  <Content>song</Content>
+  <Comments />
+  <Quality>2</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Vireonidae</Family>
+  <Genus>Cyclarhis</Genus>
+  <Species>gujanensis</Species>
+  <Sub-species />
+  <VernacularNames>Rufous-browed Peppershrike</VernacularNames>
+</Audio>

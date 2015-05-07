@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>14921</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN14921.wav</FileName>
+  <ClassId>uebldf</ClassId>
+  <Date>2005-07-29</Date>
+  <Time>6:48</Time>
+  <Locality>Ocaña, Agua de la Virgen, Cerro de la virgen, Norte de Santander</Locality>
+  <Latitude>8.2167</Latitude>
+  <Longitude>-73.4001</Longitude>
+  <Elevation>1600</Elevation>
+  <Author>Oscar Laverde</Author>
+  <AuthorID>WKVKSVMNDZ</AuthorID>
+  <Content>song</Content>
+  <Comments>el mismo que XC12645</Comments>
+  <Quality>4</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies>Aulacorhynchus haematopygus,Zimmerius chrysops</BackgroundSpecies>
+  <Order>Passeriformes</Order>
+  <Family>Parulidae</Family>
+  <Genus>Myiothlypis</Genus>
+  <Species>cinereicollis</Species>
+  <Sub-species />
+  <VernacularNames>Grey-throated Warbler</VernacularNames>
+</Audio>

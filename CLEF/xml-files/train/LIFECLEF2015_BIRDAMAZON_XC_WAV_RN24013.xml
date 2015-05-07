@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>24013</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN24013.wav</FileName>
+  <ClassId>cpigyt</ClassId>
+  <Date>2000-01-11</Date>
+  <Time>11:25</Time>
+  <Locality>Finca La Siberia, Roncesvalles, Tolima</Locality>
+  <Latitude>NULL</Latitude>
+  <Longitude>NULL</Longitude>
+  <Elevation>2800</Elevation>
+  <Author>Bernabe Lopez-Lanus</Author>
+  <AuthorID>BYLLSJRVDZ</AuthorID>
+  <Content>song</Content>
+  <Comments />
+  <Quality>1</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Piciformes</Order>
+  <Family>Ramphastidae</Family>
+  <Genus>Andigena</Genus>
+  <Species>nigrirostris</Species>
+  <Sub-species>spilorhynchus</Sub-species>
+  <VernacularNames>Black-billed Mountain Toucan</VernacularNames>
+</Audio>

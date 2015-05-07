@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>19833</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN19833.wav</FileName>
+  <ClassId>yplahx</ClassId>
+  <Date>2010-01-27</Date>
+  <Time>11:30</Time>
+  <Locality>RNA Arrierito Antioqueño, Anorí, Antioquia</Locality>
+  <Latitude>6.9862</Latitude>
+  <Longitude>-75.1251</Longitude>
+  <Elevation>1700</Elevation>
+  <Author>David Geale</Author>
+  <AuthorID>SBFBVYGIJC</AuthorID>
+  <Content>Song</Content>
+  <Comments>In somewhat stunted ridge-top forest.  Ssp assumed, had white spots on undertail.</Comments>
+  <Quality>2</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Polioptilidae</Family>
+  <Genus>Ramphocaenus</Genus>
+  <Species>melanurus</Species>
+  <Sub-species>griseodorsalis</Sub-species>
+  <VernacularNames>Long-billed Gnatwren</VernacularNames>
+</Audio>

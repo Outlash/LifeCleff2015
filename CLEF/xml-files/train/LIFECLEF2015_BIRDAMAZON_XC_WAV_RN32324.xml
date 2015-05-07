@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>32324</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN32324.wav</FileName>
+  <ClassId>ddkxtm</ClassId>
+  <Date>2013-12-01</Date>
+  <Time>11:00</Time>
+  <Locality>Araponga, Minas Gerais</Locality>
+  <Latitude>-20.6665</Latitude>
+  <Longitude>-42.5222</Longitude>
+  <Elevation>950</Elevation>
+  <Author>Vitor Herdy</Author>
+  <AuthorID>GJMKCBCJJE</AuthorID>
+  <Content>alarm call, call, male, song</Content>
+  <Comments>bird-seen:yesplayback-used:no</Comments>
+  <Quality>1</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Furnariidae</Family>
+  <Genus>Synallaxis</Genus>
+  <Species>cinerascens</Species>
+  <Sub-species />
+  <VernacularNames>Grey-bellied Spinetail</VernacularNames>
+</Audio>

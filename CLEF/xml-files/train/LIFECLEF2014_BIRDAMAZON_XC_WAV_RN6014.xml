@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>6014</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN6014.wav</FileName>
+  <ClassId>ddkxtm</ClassId>
+  <Date>2005-05-20</Date>
+  <Time>07:00</Time>
+  <Locality>Parque Estadual Intervales, SP</Locality>
+  <Latitude>-24.2759</Latitude>
+  <Longitude>-48.4181</Longitude>
+  <Elevation>850</Elevation>
+  <Author>Nick Athanas</Author>
+  <AuthorID>XRABICUARW</AuthorID>
+  <Content>song</Content>
+  <Comments />
+  <Quality>1</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies>Pitangus sulphuratus,Philydor rufum,Attila rufus,Schiffornis virescens</BackgroundSpecies>
+  <Order>Passeriformes</Order>
+  <Family>Furnariidae</Family>
+  <Genus>Synallaxis</Genus>
+  <Species>cinerascens</Species>
+  <Sub-species />
+  <VernacularNames>Grey-bellied Spinetail</VernacularNames>
+</Audio>

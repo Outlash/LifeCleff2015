@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>32293</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN32293.wav</FileName>
+  <ClassId>qgjcrn</ClassId>
+  <Date>2004-08-13</Date>
+  <Time>09:10</Time>
+  <Locality>Páramo de Frontino</Locality>
+  <Latitude>6.4334</Latitude>
+  <Longitude>-76.0834</Longitude>
+  <Elevation>3150</Elevation>
+  <Author>Niels Krabbe</Author>
+  <AuthorID>XTVEPHMPPJ</AuthorID>
+  <Content>flight call</Content>
+  <Comments>Photographed. Tape ref. A 460, 465</Comments>
+  <Quality>2</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Psittaciformes</Order>
+  <Family>Psittacidae</Family>
+  <Genus>Hapalopsittaca</Genus>
+  <Species>amazonina</Species>
+  <Sub-species>velezi</Sub-species>
+  <VernacularNames>Rusty-faced Parrot</VernacularNames>
+</Audio>

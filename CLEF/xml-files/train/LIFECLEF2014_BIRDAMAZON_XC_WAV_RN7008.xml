@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>7008</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN7008.wav</FileName>
+  <ClassId>perzmu</ClassId>
+  <Date>2004-02-22</Date>
+  <Time>xx:xx</Time>
+  <Locality>Parque Nacional Itatiaia (Hotel Simon), Rio de Janeiro</Locality>
+  <Latitude>NULL</Latitude>
+  <Longitude>NULL</Longitude>
+  <Elevation>1080</Elevation>
+  <Author>Bernabe Lopez-Lanus</Author>
+  <AuthorID>BYLLSJRVDZ</AuthorID>
+  <Content>Call</Content>
+  <Comments>Juvenile</Comments>
+  <Quality>3</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Coerebidae</Family>
+  <Genus>Coereba</Genus>
+  <Species>flaveola</Species>
+  <Sub-species />
+  <VernacularNames>Bananaquit</VernacularNames>
+</Audio>

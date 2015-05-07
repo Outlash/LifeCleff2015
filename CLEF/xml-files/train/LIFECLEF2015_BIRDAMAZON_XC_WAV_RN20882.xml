@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>20882</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN20882.wav</FileName>
+  <ClassId>tkoszd</ClassId>
+  <Date>2004-10-24</Date>
+  <Time>23:00</Time>
+  <Locality>Saint-Eugène, Petit Saut lake</Locality>
+  <Latitude>4.8503</Latitude>
+  <Longitude>-53.0609</Longitude>
+  <Elevation>50</Elevation>
+  <Author>Olivier Claessens</Author>
+  <AuthorID>KRQYNRSSDF</AuthorID>
+  <Content>song</Content>
+  <Comments>sonogram in Claessens et al. 2005. First records of White-winged Potoo Nyctibius leucopterus for French Guiana. Alauda 73 (1): 61-68.</Comments>
+  <Quality>2</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Caprimulgiformes</Order>
+  <Family>Nyctibiidae</Family>
+  <Genus>Nyctibius</Genus>
+  <Species>leucopterus</Species>
+  <Sub-species />
+  <VernacularNames>White-winged Potoo</VernacularNames>
+</Audio>

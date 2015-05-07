@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>30089</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN30089.wav</FileName>
+  <ClassId>cwxlrq</ClassId>
+  <Date>2014-01-10</Date>
+  <Time>09:00</Time>
+  <Locality>Hotel Donati, Itatiaia NP, Rio de Janeiro state</Locality>
+  <Latitude>-22.4334</Latitude>
+  <Longitude>-44.6334</Longitude>
+  <Elevation>950</Elevation>
+  <Author>Antonio Silveira</Author>
+  <AuthorID>NBJQSQJRYH</AuthorID>
+  <Content>male, song</Content>
+  <Comments>In a small open area in the forest.  (birding with Bruno Lima)bird-seen:yesplayback-used:no</Comments>
+  <Quality>3</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Thraupidae</Family>
+  <Genus>Haplospiza</Genus>
+  <Species>unicolor</Species>
+  <Sub-species />
+  <VernacularNames>Uniform Finch</VernacularNames>
+</Audio>

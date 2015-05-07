@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>5512</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN5512.wav</FileName>
+  <ClassId>nhduqd</ClassId>
+  <Date>2005-09-17</Date>
+  <Time>10:20</Time>
+  <Locality>Missão Velha (Chapada do Araripe), Ceará State</Locality>
+  <Latitude>-7.4001</Latitude>
+  <Longitude>-39.1834</Longitude>
+  <Elevation>560</Elevation>
+  <Author>Ciro Albano</Author>
+  <AuthorID>MXVQPUKGWW</AuthorID>
+  <Content>call</Content>
+  <Comments />
+  <Quality>2</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Hirundinidae</Family>
+  <Genus>Progne</Genus>
+  <Species>chalybea</Species>
+  <Sub-species />
+  <VernacularNames>Grey-breasted Martin</VernacularNames>
+</Audio>

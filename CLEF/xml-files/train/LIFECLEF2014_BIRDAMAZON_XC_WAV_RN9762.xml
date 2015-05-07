@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>9762</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN9762.wav</FileName>
+  <ClassId>hvcjoo</ClassId>
+  <Date>2011-09-01</Date>
+  <Time>10:20</Time>
+  <Locality>Cristalino Jungle Lodge, MT</Locality>
+  <Latitude>-9.5981</Latitude>
+  <Longitude>-55.932</Longitude>
+  <Elevation>200</Elevation>
+  <Author>Tayler Brooks</Author>
+  <AuthorID>ARFGONJCBJ</AuthorID>
+  <Content>call</Content>
+  <Comments>Natural vocalization. Two individuals.</Comments>
+  <Quality>2</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Tityridae</Family>
+  <Genus>Onychorhynchus</Genus>
+  <Species>coronatus</Species>
+  <Sub-species>castelnaui</Sub-species>
+  <VernacularNames>Amazonian Royal Flycatcher</VernacularNames>
+</Audio>

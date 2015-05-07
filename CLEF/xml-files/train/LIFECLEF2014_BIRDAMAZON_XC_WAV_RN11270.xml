@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>11270</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN11270.wav</FileName>
+  <ClassId>fhqazb</ClassId>
+  <Date>2006-09-24</Date>
+  <Time>06:30</Time>
+  <Locality>Monte Alegre, state of Pará</Locality>
+  <Latitude>-2.0375</Latitude>
+  <Longitude>-54.1131</Longitude>
+  <Elevation>200</Elevation>
+  <Author>Sidnei de Melo Dantas</Author>
+  <AuthorID>NNCKQMBGPH</AuthorID>
+  <Content>call, song</Content>
+  <Comments>apparently a familiar group, at cerrado vegetation</Comments>
+  <Quality>4</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies>Ortalis motmot</BackgroundSpecies>
+  <Order>Passeriformes</Order>
+  <Family>Tyrannidae</Family>
+  <Genus>Suiriri</Genus>
+  <Species>suiriri</Species>
+  <Sub-species />
+  <VernacularNames>Suiriri Flycatcher</VernacularNames>
+</Audio>

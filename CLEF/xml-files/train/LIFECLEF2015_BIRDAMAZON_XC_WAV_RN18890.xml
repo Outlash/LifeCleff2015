@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>18890</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN18890.wav</FileName>
+  <ClassId>yjsier</ClassId>
+  <Date>2005-07-28</Date>
+  <Time>9:40</Time>
+  <Locality>Ocaña, Agua de la Virgen, Cerro de la virgen, Norte de Santander</Locality>
+  <Latitude>8.2167</Latitude>
+  <Longitude>-73.4001</Longitude>
+  <Elevation>1600</Elevation>
+  <Author>Oscar Laverde</Author>
+  <AuthorID>WKVKSVMNDZ</AuthorID>
+  <Content>song</Content>
+  <Comments />
+  <Quality>1</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Turdidae</Family>
+  <Genus>Turdus</Genus>
+  <Species>serranus</Species>
+  <Sub-species />
+  <VernacularNames>Glossy-black Thrush</VernacularNames>
+</Audio>

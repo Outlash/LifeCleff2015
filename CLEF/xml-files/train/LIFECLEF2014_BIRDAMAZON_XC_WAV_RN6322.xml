@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>6322</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN6322.wav</FileName>
+  <ClassId>rlbfhk</ClassId>
+  <Date>2001-10-00</Date>
+  <Time>?:?</Time>
+  <Locality>Caparao NP above campsite</Locality>
+  <Latitude>-20.5</Latitude>
+  <Longitude>-42</Longitude>
+  <Elevation>?</Elevation>
+  <Author>John van der Woude</Author>
+  <AuthorID>LDKAWQWMRJ</AuthorID>
+  <Content>song</Content>
+  <Comments>trip:http://home.tiscali.nl/~jvanderw/brazil01/summary.html</Comments>
+  <Quality>3</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies />
+  <Order>Piciformes</Order>
+  <Family>Picidae</Family>
+  <Genus>Piculus</Genus>
+  <Species>aurulentus</Species>
+  <Sub-species />
+  <VernacularNames>Yellow-browed Woodpecker</VernacularNames>
+</Audio>

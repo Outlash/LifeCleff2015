@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>2610</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN2610.wav</FileName>
+  <ClassId>uwehqf</ClassId>
+  <Date>2002-01-29</Date>
+  <Time>08:23</Time>
+  <Locality>Serra dos Carajás. Road to Salobo</Locality>
+  <Latitude>-6.0501</Latitude>
+  <Longitude>-50.2667</Longitude>
+  <Elevation>660</Elevation>
+  <Author>Jeremy Minns</Author>
+  <AuthorID>DGVLLRYDXS</AuthorID>
+  <Content>Song</Content>
+  <Comments>Terra firme forest.</Comments>
+  <Quality>1</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies />
+  <Order>Piciformes</Order>
+  <Family>Ramphastidae</Family>
+  <Genus>Pteroglossus</Genus>
+  <Species>aracari</Species>
+  <Sub-species>aracari</Sub-species>
+  <VernacularNames>Black-necked Aracari</VernacularNames>
+</Audio>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>10329</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN10329.wav</FileName>
+  <ClassId>dkxicr</ClassId>
+  <Date>2006-07-11</Date>
+  <Time>11:12</Time>
+  <Locality>Reserva Ecológica de Guapiaçu, RJ</Locality>
+  <Latitude>-22.5001</Latitude>
+  <Longitude>-42.7167</Longitude>
+  <Elevation>800</Elevation>
+  <Author>Leonardo Pimentel</Author>
+  <AuthorID>JHBOHGJALL</AuthorID>
+  <Content>song</Content>
+  <Comments>This recording represented the first record of this species in the reserve.</Comments>
+  <Quality>1</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Thraupidae</Family>
+  <Genus>Sporophila</Genus>
+  <Species>frontalis</Species>
+  <Sub-species />
+  <VernacularNames>Buffy-fronted Seedeater</VernacularNames>
+</Audio>

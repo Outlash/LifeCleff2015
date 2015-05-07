@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>21314</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN21314.wav</FileName>
+  <ClassId>oymxxb</ClassId>
+  <Date>2013-07-19</Date>
+  <Time>16:00</Time>
+  <Locality>RNA El Dorado, Sierra de Santa Marta, Magdalena</Locality>
+  <Latitude>11.1009</Latitude>
+  <Longitude>-74.072</Longitude>
+  <Elevation>2000</Elevation>
+  <Author>Diego Calderon-F.</Author>
+  <AuthorID>OGATBVKNAG</AuthorID>
+  <Content>song</Content>
+  <Comments>bird-seen:yesplayback-used:yes</Comments>
+  <Quality>0</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies>Colibri coruscans</BackgroundSpecies>
+  <Order>Passeriformes</Order>
+  <Family>Turdidae</Family>
+  <Genus>Catharus</Genus>
+  <Species>fuscater</Species>
+  <Sub-species>sanctaemartae</Sub-species>
+  <VernacularNames>Slaty-backed Nightingale-Thrush</VernacularNames>
+</Audio>

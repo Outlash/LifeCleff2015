@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>31617</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN31617.wav</FileName>
+  <ClassId>krpshi</ClassId>
+  <Date>2011-03-24</Date>
+  <Time>6-20</Time>
+  <Locality>Puerto Ajacucho</Locality>
+  <Latitude>5.6709</Latitude>
+  <Longitude>-67.5551</Longitude>
+  <Elevation>250</Elevation>
+  <Author>Albert Lastukhin</Author>
+  <AuthorID>LELYWQKUZX</AuthorID>
+  <Content>Song</Content>
+  <Comments />
+  <Quality>2</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Thamnophilidae</Family>
+  <Genus>Cymbilaimus</Genus>
+  <Species>lineatus</Species>
+  <Sub-species />
+  <VernacularNames>Fasciated Antshrike</VernacularNames>
+</Audio>

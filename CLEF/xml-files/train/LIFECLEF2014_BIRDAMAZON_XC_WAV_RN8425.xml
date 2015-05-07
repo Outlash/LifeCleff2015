@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>8425</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN8425.wav</FileName>
+  <ClassId>gumwit</ClassId>
+  <Date>2007-08-26</Date>
+  <Time>06:30</Time>
+  <Locality>Rio Purus, state of Acre</Locality>
+  <Latitude>-9.0509</Latitude>
+  <Longitude>-69.5539</Longitude>
+  <Elevation>100</Elevation>
+  <Author>Sidnei Dantas</Author>
+  <AuthorID>NNCKQMBGPH</AuthorID>
+  <Content>song</Content>
+  <Comments>the slow, 'descending'  series. Interval of one minute between them.</Comments>
+  <Quality>3</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies>Ramphotrigon ruficauda,Herpetotheres cachinnans,Tangara chilensis,Rhytipterna simplex,Lepidocolaptes albolineatus,Pachyramphus minor</BackgroundSpecies>
+  <Order>Passeriformes</Order>
+  <Family>Furnariidae</Family>
+  <Genus>Deconychura</Genus>
+  <Species>longicauda</Species>
+  <Sub-species />
+  <VernacularNames>Long-tailed Woodcreeper</VernacularNames>
+</Audio>

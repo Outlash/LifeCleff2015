@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>4625</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN4625.wav</FileName>
+  <ClassId>aufwve</ClassId>
+  <Date>2011-10-29</Date>
+  <Time>20:00</Time>
+  <Locality>Joinville, Santa Catarina</Locality>
+  <Latitude>-26.3961</Latitude>
+  <Longitude>-48.8434</Longitude>
+  <Elevation>10</Elevation>
+  <Author>Guilherme Willrich</Author>
+  <AuthorID>MLTFMFCXEO</AuthorID>
+  <Content>song</Content>
+  <Comments>bird-seen:yesplayback-used:yes</Comments>
+  <Quality>0</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies />
+  <Order>Strigiformes</Order>
+  <Family>Strigidae</Family>
+  <Genus>Megascops</Genus>
+  <Species>atricapilla</Species>
+  <Sub-species />
+  <VernacularNames>Black-capped Screech Owl</VernacularNames>
+</Audio>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>7237</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN7237.wav</FileName>
+  <ClassId>hvojcw</ClassId>
+  <Date>2011-11-24</Date>
+  <Time>18:00</Time>
+  <Locality>Laguna, Santa Catarina</Locality>
+  <Latitude>-28.5672</Latitude>
+  <Longitude>-48.8711</Longitude>
+  <Elevation>0</Elevation>
+  <Author>Alexandre Bianco</Author>
+  <AuthorID>ODNEDFESFY</AuthorID>
+  <Content>song</Content>
+  <Comments>bird-seen:yesplayback-used:no</Comments>
+  <Quality>2</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies />
+  <Order>Anseriformes</Order>
+  <Family>Anatidae</Family>
+  <Genus>Dendrocygna</Genus>
+  <Species>viduata</Species>
+  <Sub-species />
+  <VernacularNames>White-faced Whistling Duck</VernacularNames>
+</Audio>

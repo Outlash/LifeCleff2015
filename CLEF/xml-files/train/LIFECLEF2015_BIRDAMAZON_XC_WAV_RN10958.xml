@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>10958</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN10958.wav</FileName>
+  <ClassId>viluoh</ClassId>
+  <Date>2000-11-05</Date>
+  <Time>xx:xx</Time>
+  <Locality>Turipana, Municipio Tubara, 22 km al W de Barranquilla, Atlantico</Locality>
+  <Latitude>NULL</Latitude>
+  <Longitude>NULL</Longitude>
+  <Elevation>2</Elevation>
+  <Author>Bernabe Lopez-Lanus</Author>
+  <AuthorID>BYLLSJRVDZ</AuthorID>
+  <Content>Song</Content>
+  <Comments />
+  <Quality>3</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Tyrannidae</Family>
+  <Genus>Pitangus</Genus>
+  <Species>sulphuratus</Species>
+  <Sub-species>rufipennis</Sub-species>
+  <VernacularNames>Great Kiskadee</VernacularNames>
+</Audio>

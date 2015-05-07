@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>23788</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN23788.wav</FileName>
+  <ClassId>esguzq</ClassId>
+  <Date>2008-02-05</Date>
+  <Time>10:52</Time>
+  <Locality>El canon del Rio Claro, Antioquia</Locality>
+  <Latitude>5.8334</Latitude>
+  <Longitude>-74.8667</Longitude>
+  <Elevation>600</Elevation>
+  <Author>Herman van Oosten</Author>
+  <AuthorID>SNUDCZVUQK</AuthorID>
+  <Content>song</Content>
+  <Comments>Id not certain, bird not seen. Same as XC24148, unedited, well...intervals shortened between songs. Same comments apply.</Comments>
+  <Quality>2</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Formicariidae</Family>
+  <Genus>Chamaeza</Genus>
+  <Species>campanisona</Species>
+  <Sub-species />
+  <VernacularNames>Short-tailed Antthrush</VernacularNames>
+</Audio>

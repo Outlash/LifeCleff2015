@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>13762</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN13762.wav</FileName>
+  <ClassId>kaobjf</ClassId>
+  <Date>2001-08-27</Date>
+  <Time>07:18</Time>
+  <Locality>Serra do Mar State Park. Santa Virgínia</Locality>
+  <Latitude>-23.3834</Latitude>
+  <Longitude>-45.1334</Longitude>
+  <Elevation>900</Elevation>
+  <Author>Jeremy Minns</Author>
+  <AuthorID>DGVLLRYDXS</AuthorID>
+  <Content>Call</Content>
+  <Comments>Rio Ipiranga trail. Montane forest. This is Call B in our DVD-ROM 'Birds of Brazil'.</Comments>
+  <Quality>2</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Tyrannidae</Family>
+  <Genus>Hemitriccus</Genus>
+  <Species>diops</Species>
+  <Sub-species />
+  <VernacularNames>Drab-breasted Bamboo Tyrant</VernacularNames>
+</Audio>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>27094</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN27094.wav</FileName>
+  <ClassId>ayyyjw</ClassId>
+  <Date>1984-12-10</Date>
+  <Time>?</Time>
+  <Locality>Mata de Caña, 14 km W and 21 km S Mantecal, Apure</Locality>
+  <Latitude>7.4312</Latitude>
+  <Longitude>-69.3084</Longitude>
+  <Elevation>82</Elevation>
+  <Author>Chris Parrish</Author>
+  <AuthorID>IHIOGGZVQA</AuthorID>
+  <Content>call</Content>
+  <Comments />
+  <Quality>0</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies>Pitangus sulphuratus,Tolmomyias flaviventris</BackgroundSpecies>
+  <Order>Passeriformes</Order>
+  <Family>Tyrannidae</Family>
+  <Genus>Poecilotriccus</Genus>
+  <Species>sylvia</Species>
+  <Sub-species>griseolus</Sub-species>
+  <VernacularNames>Slaty-headed Tody-Flycatcher</VernacularNames>
+</Audio>

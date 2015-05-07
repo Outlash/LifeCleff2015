@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>6366</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN6366.wav</FileName>
+  <ClassId>oinzpv</ClassId>
+  <Date>2013-05-18</Date>
+  <Time>10:00</Time>
+  <Locality>Ubajara, Ceara</Locality>
+  <Latitude>-3.8163</Latitude>
+  <Longitude>-40.8794</Longitude>
+  <Elevation>240</Elevation>
+  <Author>Caio Brito</Author>
+  <AuthorID>YWWWUBVAJF</AuthorID>
+  <Content>song</Content>
+  <Comments>Lowcut at 200Hz to reduce noise.bird-seen:yesplayback-used:no</Comments>
+  <Quality>1</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Corvidae</Family>
+  <Genus>Cyanocorax</Genus>
+  <Species>cyanopogon</Species>
+  <Sub-species />
+  <VernacularNames>White-naped Jay</VernacularNames>
+</Audio>

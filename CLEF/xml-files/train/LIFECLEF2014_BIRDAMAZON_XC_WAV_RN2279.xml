@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>2279</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN2279.wav</FileName>
+  <ClassId>btsawy</ClassId>
+  <Date>1999-09-11</Date>
+  <Time>15:00</Time>
+  <Locality>Reserva Extrativista Alto Juruá. Foz do Breu</Locality>
+  <Latitude>-9.4123</Latitude>
+  <Longitude>-72.7153</Longitude>
+  <Elevation>230</Elevation>
+  <Author>Jeremy Minns</Author>
+  <AuthorID>DGVLLRYDXS</AuthorID>
+  <Content>call, male</Content>
+  <Comments>Terra firme forest.</Comments>
+  <Quality>1</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Thamnophilidae</Family>
+  <Genus>Cercomacra</Genus>
+  <Species>cinerascens</Species>
+  <Sub-species>sclateri</Sub-species>
+  <VernacularNames>Grey Antbird</VernacularNames>
+</Audio>

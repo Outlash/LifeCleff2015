@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>7446</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN7446.wav</FileName>
+  <ClassId>cwxlrq</ClassId>
+  <Date>2007-08-25</Date>
+  <Time>0</Time>
+  <Locality>APA da Bocaina, Sertao da Bocaina, SP</Locality>
+  <Latitude>-23.182973</Latitude>
+  <Longitude>-44.880524</Longitude>
+  <Elevation>1200</Elevation>
+  <Author>Claydson P. de Assis</Author>
+  <AuthorID>PXKXBFXYWR</AuthorID>
+  <Content>Song</Content>
+  <Comments />
+  <Quality>3</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Thraupidae</Family>
+  <Genus>Haplospiza</Genus>
+  <Species>unicolor</Species>
+  <Sub-species />
+  <VernacularNames>Uniform Finch</VernacularNames>
+</Audio>

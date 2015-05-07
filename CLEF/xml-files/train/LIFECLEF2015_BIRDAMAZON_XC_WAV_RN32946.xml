@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>32946</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN32946.wav</FileName>
+  <ClassId>smoutd</ClassId>
+  <Date>2010-01-28</Date>
+  <Time>11:00</Time>
+  <Locality>Pedro Ruiz Volcano nr Manizales</Locality>
+  <Latitude>5.0767</Latitude>
+  <Longitude>-75.4664</Longitude>
+  <Elevation>4100</Elevation>
+  <Author>Frank Lambert</Author>
+  <AuthorID>YTUXOCTUEM</AuthorID>
+  <Content>song</Content>
+  <Comments />
+  <Quality>2</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Grallariidae</Family>
+  <Genus>Grallaria</Genus>
+  <Species>quitensis</Species>
+  <Sub-species />
+  <VernacularNames>Tawny Antpitta</VernacularNames>
+</Audio>

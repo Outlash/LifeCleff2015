@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>12096</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN12096.wav</FileName>
+  <ClassId>gwdmfy</ClassId>
+  <Date>2009-04-06</Date>
+  <Time>?:?</Time>
+  <Locality>?</Locality>
+  <Latitude>NULL</Latitude>
+  <Longitude>NULL</Longitude>
+  <Elevation>?</Elevation>
+  <Author>Joseph Tobias and Nathalie Seddon</Author>
+  <AuthorID>IKMWQIXRNV</AuthorID>
+  <Content>song</Content>
+  <Comments>track T1950.</Comments>
+  <Quality>1</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Thamnophilidae</Family>
+  <Genus>Hypocnemis</Genus>
+  <Species>hypoxantha</Species>
+  <Sub-species />
+  <VernacularNames>Yellow-browed Antbird</VernacularNames>
+</Audio>

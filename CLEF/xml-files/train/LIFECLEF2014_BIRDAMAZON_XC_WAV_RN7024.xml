@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>7024</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN7024.wav</FileName>
+  <ClassId>mxeleb</ClassId>
+  <Date>2008-06-17</Date>
+  <Time>am</Time>
+  <Locality>Passo do Lontra, Pantanal de Miranda, MS</Locality>
+  <Latitude>-19.26667</Latitude>
+  <Longitude>-57.01667</Longitude>
+  <Elevation>?</Elevation>
+  <Author>Eduardo Patrial</Author>
+  <AuthorID>QEFRRVCRRP</AuthorID>
+  <Content>song?</Content>
+  <Comments />
+  <Quality>1</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies />
+  <Order>Psittaciformes</Order>
+  <Family>Psittacidae</Family>
+  <Genus>Myiopsitta</Genus>
+  <Species>monachus</Species>
+  <Sub-species />
+  <VernacularNames>Monk Parakeet</VernacularNames>
+</Audio>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>31662</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN31662.wav</FileName>
+  <ClassId>jeidcr</ClassId>
+  <Date>2008-11-29</Date>
+  <Time>?:?</Time>
+  <Locality>Awala-Yalimapo, digue</Locality>
+  <Latitude>5.73778</Latitude>
+  <Longitude>-53.945961</Longitude>
+  <Elevation>2</Elevation>
+  <Author>Alexandre Renaudier</Author>
+  <AuthorID>GKADEITXTH</AuthorID>
+  <Content>song</Content>
+  <Comments>natural recording</Comments>
+  <Quality>1</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies>Camptostoma obsoletum,Leptotila verreauxi,Leptotila verreauxi</BackgroundSpecies>
+  <Order>Passeriformes</Order>
+  <Family>Thraupidae</Family>
+  <Genus>Thraupis</Genus>
+  <Species>palmarum</Species>
+  <Sub-species>melanoptera</Sub-species>
+  <VernacularNames>Palm Tanager</VernacularNames>
+</Audio>

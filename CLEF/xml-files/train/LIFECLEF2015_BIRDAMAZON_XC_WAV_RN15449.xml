@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>15449</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN15449.wav</FileName>
+  <ClassId>qhsdfp</ClassId>
+  <Date>2000-01-08</Date>
+  <Time>13:28</Time>
+  <Locality>Finca Buenos Aires, Roncesvalles, Tolima</Locality>
+  <Latitude>NULL</Latitude>
+  <Longitude>NULL</Longitude>
+  <Elevation>2800</Elevation>
+  <Author>Bernabe Lopez-Lanus</Author>
+  <AuthorID>BYLLSJRVDZ</AuthorID>
+  <Content>Song</Content>
+  <Comments />
+  <Quality>3</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Grallariidae</Family>
+  <Genus>Grallaricula</Genus>
+  <Species>nana</Species>
+  <Sub-species>nana</Sub-species>
+  <VernacularNames>Slaty-crowned Antpitta</VernacularNames>
+</Audio>

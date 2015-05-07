@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>33195</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN33195.wav</FileName>
+  <ClassId>uqmxmf</ClassId>
+  <Date>2008-07-14</Date>
+  <Time>10:20</Time>
+  <Locality>Parque La Florida, Bogota</Locality>
+  <Latitude>4.729727</Latitude>
+  <Longitude>-74.135742</Longitude>
+  <Elevation>2600</Elevation>
+  <Author>Andrew Spencer</Author>
+  <AuthorID>CDTGHVBGZP</AuthorID>
+  <Content>song</Content>
+  <Comments>heavy urban noise filtered out</Comments>
+  <Quality>1</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies>Zonotrichia capensis</BackgroundSpecies>
+  <Order>Passeriformes</Order>
+  <Family>Icteridae</Family>
+  <Genus>Chrysomus</Genus>
+  <Species>icterocephalus</Species>
+  <Sub-species>bogotensis</Sub-species>
+  <VernacularNames>Yellow-hooded Blackbird</VernacularNames>
+</Audio>

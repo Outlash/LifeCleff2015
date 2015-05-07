@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>32496</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN32496.wav</FileName>
+  <ClassId>keftqy</ClassId>
+  <Date>2008-12-09</Date>
+  <Time>?</Time>
+  <Locality>Brusque, Santa Catarina</Locality>
+  <Latitude>-27.0834</Latitude>
+  <Longitude>-48.9001</Longitude>
+  <Elevation>40</Elevation>
+  <Author>Glauco Kohler</Author>
+  <AuthorID>JDNMEJOJEQ</AuthorID>
+  <Content>call</Content>
+  <Comments />
+  <Quality>2</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Gruiformes</Order>
+  <Family>Rallidae</Family>
+  <Genus>Laterallus</Genus>
+  <Species>exilis</Species>
+  <Sub-species />
+  <VernacularNames>Grey-breasted Crake</VernacularNames>
+</Audio>

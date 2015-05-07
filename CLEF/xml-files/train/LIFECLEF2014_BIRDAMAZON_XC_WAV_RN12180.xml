@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>12180</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN12180.wav</FileName>
+  <ClassId>uhflol</ClassId>
+  <Date>2012-10-10</Date>
+  <Time>08:00</Time>
+  <Locality>Cristalino Jungle Lodge, MT</Locality>
+  <Latitude>-9.5981</Latitude>
+  <Longitude>-55.932</Longitude>
+  <Elevation>260</Elevation>
+  <Author>Andrew Spencer</Author>
+  <AuthorID>CDTGHVBGZP</AuthorID>
+  <Content>call</Content>
+  <Comments>natural vocalization, calls from an unseen bird in dense primary forest.  Recorded from a canopy tower, so I'm not sure at what level the bird was singing from, but it was significantly lower than I was.bird-seen:noplayback-used:no</Comments>
+  <Quality>1</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Furnariidae</Family>
+  <Genus>Hylexetastes</Genus>
+  <Species>uniformis</Species>
+  <Sub-species />
+  <VernacularNames>Uniform Woodcreeper</VernacularNames>
+</Audio>

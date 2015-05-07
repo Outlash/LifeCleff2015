@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>30942</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN30942.wav</FileName>
+  <ClassId>ebxlim</ClassId>
+  <Date>2006-11-00</Date>
+  <Time>?:?</Time>
+  <Locality>Henri Pittier Nat. Park</Locality>
+  <Latitude>10.417</Latitude>
+  <Longitude>-67.633</Longitude>
+  <Elevation>1200</Elevation>
+  <Author>David Edwards</Author>
+  <AuthorID>AFEHYCAHZR</AuthorID>
+  <Content>song</Content>
+  <Comments />
+  <Quality>1</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Thamnophilidae</Family>
+  <Genus>Taraba</Genus>
+  <Species>major</Species>
+  <Sub-species />
+  <VernacularNames>Great Antshrike</VernacularNames>
+</Audio>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>15518</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN15518.wav</FileName>
+  <ClassId>ssjgea</ClassId>
+  <Date>2007-11-04</Date>
+  <Time>09:10</Time>
+  <Locality>Parque Regional Barbas-Bremen, Filandia, Quindio. Sector Bremen-La Popa</Locality>
+  <Latitude>4.6717</Latitude>
+  <Longitude>-75.6283</Longitude>
+  <Elevation>1800</Elevation>
+  <Author>Oscar Humberto Marin-Gomez</Author>
+  <AuthorID>CSUHASNRSU</AuthorID>
+  <Content>call, song</Content>
+  <Comments>OHM001B 1011. En sotobosque denso. Bosque montano bajo. A 20m del mic. Vocalización natural.bird-seen:noplayback-used:no</Comments>
+  <Quality>3</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Rhinocryptidae</Family>
+  <Genus>Scytalopus</Genus>
+  <Species>atratus</Species>
+  <Sub-species />
+  <VernacularNames>Northern White-crowned Tapaculo</VernacularNames>
+</Audio>

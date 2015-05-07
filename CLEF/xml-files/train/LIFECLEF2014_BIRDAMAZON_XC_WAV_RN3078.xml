@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>3078</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN3078.wav</FileName>
+  <ClassId>pzlpoj</ClassId>
+  <Date>2000-08-14</Date>
+  <Time>08:39</Time>
+  <Locality>Caraguatatuba, São Paulo state. 'Hípica as Gaivotas'</Locality>
+  <Latitude>-23.5667</Latitude>
+  <Longitude>-45.3167</Longitude>
+  <Elevation>10</Elevation>
+  <Author>Jeremy Minns</Author>
+  <AuthorID>DGVLLRYDXS</AuthorID>
+  <Content>Song</Content>
+  <Comments>Coastal white sand forest.</Comments>
+  <Quality>1</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Furnariidae</Family>
+  <Genus>Xenops</Genus>
+  <Species>minutus</Species>
+  <Sub-species>minutus</Sub-species>
+  <VernacularNames>Plain Xenops</VernacularNames>
+</Audio>

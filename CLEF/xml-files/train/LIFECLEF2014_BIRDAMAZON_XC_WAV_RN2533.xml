@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>2533</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN2533.wav</FileName>
+  <ClassId>xunfjj</ClassId>
+  <Date>2008-10-30</Date>
+  <Time>09:00</Time>
+  <Locality>Alto Ribeira State Park (PETAR),São Paulo State,Brazil</Locality>
+  <Latitude>-24.541</Latitude>
+  <Longitude>-48.713</Longitude>
+  <Elevation>550</Elevation>
+  <Author>Antonio Silveira</Author>
+  <AuthorID>NBJQSQJRYH</AuthorID>
+  <Content>male, song</Content>
+  <Comments>bird-seen:yesplayback-used:no</Comments>
+  <Quality>2</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Turdidae</Family>
+  <Genus>Turdus</Genus>
+  <Species>rufiventris</Species>
+  <Sub-species />
+  <VernacularNames>Rufous-bellied Thrush</VernacularNames>
+</Audio>

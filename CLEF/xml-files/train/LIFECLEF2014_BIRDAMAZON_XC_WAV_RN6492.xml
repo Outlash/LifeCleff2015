@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>6492</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN6492.wav</FileName>
+  <ClassId>ixjdrc</ClassId>
+  <Date>2004-02-07</Date>
+  <Time>?:?</Time>
+  <Locality>Bahia, c.3 km W of Fazenda (Aruana), near Una</Locality>
+  <Latitude>-15.2</Latitude>
+  <Longitude>-39.3</Longitude>
+  <Elevation>?</Elevation>
+  <Author>Frank Lambert</Author>
+  <AuthorID>YTUXOCTUEM</AuthorID>
+  <Content>song</Content>
+  <Comments>Previously published on AVoCet as &lt;a href=http://avocet.zoology.msu.edu/recordings/8194&gt;AV8194&lt;/a&gt;.  Certainty: 100%.  ID determined by: seen. GPS: estimate from Google Earth. Habitat: second growth.</Comments>
+  <Quality>2</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Pipridae</Family>
+  <Genus>Dixiphia</Genus>
+  <Species>rubrocapilla</Species>
+  <Sub-species />
+  <VernacularNames>Red-headed Manakin</VernacularNames>
+</Audio>

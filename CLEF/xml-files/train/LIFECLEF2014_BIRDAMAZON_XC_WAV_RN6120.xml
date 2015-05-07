@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>6120</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN6120.wav</FileName>
+  <ClassId>leuotc</ClassId>
+  <Date>1998-12-20</Date>
+  <Time>11:10</Time>
+  <Locality>São Gabriel da Cachoeira, Amazonas</Locality>
+  <Latitude>-0.1334</Latitude>
+  <Longitude>-67.0834</Longitude>
+  <Elevation>70</Elevation>
+  <Author>Jeremy Minns</Author>
+  <AuthorID>DGVLLRYDXS</AuthorID>
+  <Content>Song</Content>
+  <Comments>Left bank of Rio Negro. Terra firme forest.</Comments>
+  <Quality>1</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Furnariidae</Family>
+  <Genus>Dendrocolaptes</Genus>
+  <Species>certhia</Species>
+  <Sub-species>certhia</Sub-species>
+  <VernacularNames>Amazonian Barred Woodcreeper</VernacularNames>
+</Audio>

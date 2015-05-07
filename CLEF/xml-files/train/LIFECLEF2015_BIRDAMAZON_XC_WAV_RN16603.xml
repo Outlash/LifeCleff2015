@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>16603</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN16603.wav</FileName>
+  <ClassId>nnbhgj</ClassId>
+  <Date>2012-01-29</Date>
+  <Time>15:30</Time>
+  <Locality>Parque Estadual Lago Azul, Campo Mourão, Paraná</Locality>
+  <Latitude>NULL</Latitude>
+  <Longitude>NULL</Longitude>
+  <Elevation>630</Elevation>
+  <Author>Luiz C. Silva</Author>
+  <AuthorID>ORPKXJRFDZ</AuthorID>
+  <Content>call</Content>
+  <Comments />
+  <Quality>0</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies>Hemithraupis guira</BackgroundSpecies>
+  <Order>Piciformes</Order>
+  <Family>Bucconidae</Family>
+  <Genus>Nonnula</Genus>
+  <Species>rubecula</Species>
+  <Sub-species />
+  <VernacularNames>Rusty-breasted Nunlet</VernacularNames>
+</Audio>

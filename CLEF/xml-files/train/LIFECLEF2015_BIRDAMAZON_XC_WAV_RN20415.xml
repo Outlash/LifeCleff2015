@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>20415</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN20415.wav</FileName>
+  <ClassId>aflwfz</ClassId>
+  <Date>2011-08-18</Date>
+  <Time>07:00</Time>
+  <Locality>Santuario Otun-Quimbaya.Pereira. Risaralda</Locality>
+  <Latitude>4.727</Latitude>
+  <Longitude>-75.577</Longitude>
+  <Elevation>1900</Elevation>
+  <Author>Julian Andres Zuleta Marín</Author>
+  <AuthorID>AMCJKUNQOR</AuthorID>
+  <Content>alarm call, song</Content>
+  <Comments>bird-seen:yesplayback-used:no</Comments>
+  <Quality>2</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies>Sericossypha albocristata</BackgroundSpecies>
+  <Order>Galliformes</Order>
+  <Family>Cracidae</Family>
+  <Genus>Penelope</Genus>
+  <Species>perspicax</Species>
+  <Sub-species />
+  <VernacularNames>Cauca Guan</VernacularNames>
+</Audio>

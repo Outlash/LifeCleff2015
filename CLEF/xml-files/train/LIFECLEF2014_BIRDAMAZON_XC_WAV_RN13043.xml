@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>13043</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN13043.wav</FileName>
+  <ClassId>xzyogt</ClassId>
+  <Date>2012-04-14</Date>
+  <Time>07:05</Time>
+  <Locality>Riacho do Olho Dagua Mago-Pão de Açúcar-Alagoas-Brasil</Locality>
+  <Latitude>-9.732</Latitude>
+  <Longitude>-37.435</Longitude>
+  <Elevation>300</Elevation>
+  <Author>pedroteia</Author>
+  <AuthorID>BZVNDWLRSQ</AuthorID>
+  <Content>song</Content>
+  <Comments>o individuo cantava sozinho após seu parceiro voar para longe</Comments>
+  <Quality>2</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Furnariidae</Family>
+  <Genus>Furnarius</Genus>
+  <Species>figulus</Species>
+  <Sub-species />
+  <VernacularNames>Band-tailed Hornero</VernacularNames>
+</Audio>

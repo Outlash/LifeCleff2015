@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>26102</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN26102.wav</FileName>
+  <ClassId>txvjdt</ClassId>
+  <Date>2010-11-02</Date>
+  <Time>05:40</Time>
+  <Locality>Paragominas, PA, Brazil, Bacia 423</Locality>
+  <Latitude>-3.519</Latitude>
+  <Longitude>-47.504</Longitude>
+  <Elevation>?</Elevation>
+  <Author>Alexander Lees</Author>
+  <AuthorID>INDDBZAFJL</AuthorID>
+  <Content>call</Content>
+  <Comments>not seen, in logged primary forest</Comments>
+  <Quality>2</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies>Dendrexetastes rufigula,Pyriglena leuconota,Pteroglossus aracari,Piculus flavigula,Amazona farinosa</BackgroundSpecies>
+  <Order>Passeriformes</Order>
+  <Family>Furnariidae</Family>
+  <Genus>Sclerurus</Genus>
+  <Species>rufigularis</Species>
+  <Sub-species>rufigularis</Sub-species>
+  <VernacularNames>Short-billed Leaftosser</VernacularNames>
+</Audio>

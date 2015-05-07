@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>24832</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN24832.wav</FileName>
+  <ClassId>nkvtmg</ClassId>
+  <Date>2009-09-10</Date>
+  <Time>07:30</Time>
+  <Locality>APA Capivari Monos, São Paulo, SP</Locality>
+  <Latitude>-23.9557</Latitude>
+  <Longitude>-46.6503</Longitude>
+  <Elevation>760</Elevation>
+  <Author>Marcos A. Melo</Author>
+  <AuthorID>MRGDYNJGUJ</AuthorID>
+  <Content>song</Content>
+  <Comments>bird-seen:noplayback-used:no</Comments>
+  <Quality>0</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies>Turdus amaurochalinus</BackgroundSpecies>
+  <Order>Columbiformes</Order>
+  <Family>Columbidae</Family>
+  <Genus>Leptotila</Genus>
+  <Species>verreauxi</Species>
+  <Sub-species />
+  <VernacularNames>White-tipped Dove</VernacularNames>
+</Audio>

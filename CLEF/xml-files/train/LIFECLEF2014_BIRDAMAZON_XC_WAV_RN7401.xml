@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>7401</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN7401.wav</FileName>
+  <ClassId>rhijnm</ClassId>
+  <Date>2008-01-19</Date>
+  <Time>3:00</Time>
+  <Locality>Paiva Lake, Mariana MG</Locality>
+  <Latitude>-20.3231</Latitude>
+  <Longitude>-43.3959</Longitude>
+  <Elevation>730</Elevation>
+  <Author>Nuno Medeiros</Author>
+  <AuthorID>WTQPQQHZBV</AuthorID>
+  <Content>call, song</Content>
+  <Comments />
+  <Quality>2</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Icteridae</Family>
+  <Genus>Chrysomus</Genus>
+  <Species>ruficapillus</Species>
+  <Sub-species />
+  <VernacularNames>Chestnut-capped Blackbird</VernacularNames>
+</Audio>

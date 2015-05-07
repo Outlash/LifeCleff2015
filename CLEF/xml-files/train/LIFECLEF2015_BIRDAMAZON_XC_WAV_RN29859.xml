@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>29859</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN29859.wav</FileName>
+  <ClassId>oamyzj</ClassId>
+  <Date>1999-05-11</Date>
+  <Time>15:18</Time>
+  <Locality>Boa Nova, BA - dry forest</Locality>
+  <Latitude>-14.3834</Latitude>
+  <Longitude>-40.2001</Longitude>
+  <Elevation>740</Elevation>
+  <Author>Jeremy Minns</Author>
+  <AuthorID>DGVLLRYDXS</AuthorID>
+  <Content>call, song</Content>
+  <Comments>Dry forest. Scold by male which then gradually breaks into song. After playback. This is Call A in our DVD-ROM 'Birds of Brazil'.</Comments>
+  <Quality>1</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies>Myiothlypis flaveola</BackgroundSpecies>
+  <Order>Passeriformes</Order>
+  <Family>Thamnophilidae</Family>
+  <Genus>Rhopornis</Genus>
+  <Species>ardesiacus</Species>
+  <Sub-species />
+  <VernacularNames>Slender Antbird</VernacularNames>
+</Audio>

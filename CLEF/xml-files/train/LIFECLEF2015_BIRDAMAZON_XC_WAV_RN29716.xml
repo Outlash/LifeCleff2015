@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>29716</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN29716.wav</FileName>
+  <ClassId>vtmsem</ClassId>
+  <Date>2010-09-20</Date>
+  <Time>?</Time>
+  <Locality>Régina, grande Montagne tortue Bélizon</Locality>
+  <Latitude>4.31667</Latitude>
+  <Longitude>-52.1333</Longitude>
+  <Elevation>200</Elevation>
+  <Author>Alexandre Renaudier</Author>
+  <AuthorID>GKADEITXTH</AuthorID>
+  <Content>alarm call near nest</Content>
+  <Comments />
+  <Quality>1</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies>Ramphastos tucanus,Lipaugus vociferans</BackgroundSpecies>
+  <Order>Piciformes</Order>
+  <Family>Bucconidae</Family>
+  <Genus>Monasa</Genus>
+  <Species>atra</Species>
+  <Sub-species />
+  <VernacularNames>Black Nunbird</VernacularNames>
+</Audio>

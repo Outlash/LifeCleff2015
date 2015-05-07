@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>17897</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN17897.wav</FileName>
+  <ClassId>jforiu</ClassId>
+  <Date>2014-06-10</Date>
+  <Time>16:30</Time>
+  <Locality>Nova Veneza, Santa Catarina</Locality>
+  <Latitude>-28.7224</Latitude>
+  <Longitude>-49.6204</Longitude>
+  <Elevation>66</Elevation>
+  <Author>João Gava</Author>
+  <AuthorID>CEKMJEZKSJ</AuthorID>
+  <Content>song</Content>
+  <Comments>Um indivíduo atraído por playback, se aproximou silenciosamente  e iniciou a vocalização gravada após 4 minutos do uso do playback, floresta secundária com presença de bovinos no seu interior / One individual attracted by playback, it approached silently  and started the recorded vocal  after 4 minutes of playback use, secondary forest with the presence of cattle inside.bird-seen:yesplayback-used:yes</Comments>
+  <Quality>2</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Tyrannidae</Family>
+  <Genus>Hemitriccus</Genus>
+  <Species>orbitatus</Species>
+  <Sub-species>or</Sub-species>
+  <VernacularNames>Eye-ringed Tody-Tyrant</VernacularNames>
+</Audio>

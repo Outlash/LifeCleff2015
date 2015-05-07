@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>14209</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN14209.wav</FileName>
+  <ClassId>ephxxx</ClassId>
+  <Date>2006-01-02</Date>
+  <Time>?</Time>
+  <Locality>Saül</Locality>
+  <Latitude>3.6167</Latitude>
+  <Longitude>-53.2001</Longitude>
+  <Elevation>230</Elevation>
+  <Author>Alexandre Renaudier</Author>
+  <AuthorID>GKADEITXTH</AuthorID>
+  <Content>song</Content>
+  <Comments />
+  <Quality>1</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Tyrannidae</Family>
+  <Genus>Legatus</Genus>
+  <Species>leucophaius</Species>
+  <Sub-species>leucophaius</Sub-species>
+  <VernacularNames>Piratic Flycatcher</VernacularNames>
+</Audio>

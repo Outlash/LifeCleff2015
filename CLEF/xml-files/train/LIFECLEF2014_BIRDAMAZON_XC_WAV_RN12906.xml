@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>12906</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN12906.wav</FileName>
+  <ClassId>vnmlmt</ClassId>
+  <Date>2011-09-02</Date>
+  <Time>11:11</Time>
+  <Locality>Pantanal Wildlife Center, MT</Locality>
+  <Latitude>-16.7581</Latitude>
+  <Longitude>-56.8764</Longitude>
+  <Elevation>110</Elevation>
+  <Author>Eric DeFonso</Author>
+  <AuthorID>KTLCZCRCQX</AuthorID>
+  <Content>song</Content>
+  <Comments>Natural duetting. Birds only about 8-10m away working through short-stature trees. Wind noise filtered below 120 Hz. Habitat is tropical deciduous woodland.bird-seen:yesplayback-used:no</Comments>
+  <Quality>2</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Thamnophilidae</Family>
+  <Genus>Thamnophilus</Genus>
+  <Species>doliatus</Species>
+  <Sub-species />
+  <VernacularNames>Barred Antshrike</VernacularNames>
+</Audio>

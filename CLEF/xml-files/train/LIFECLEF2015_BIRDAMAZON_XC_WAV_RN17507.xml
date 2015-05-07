@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>17507</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN17507.wav</FileName>
+  <ClassId>bbtkon</ClassId>
+  <Date>2011-06-08</Date>
+  <Time>10:40</Time>
+  <Locality>Mitu, Vaupes</Locality>
+  <Latitude>1.2598</Latitude>
+  <Longitude>-70.2367</Longitude>
+  <Elevation>190</Elevation>
+  <Author>Andrew Spencer</Author>
+  <AuthorID>CDTGHVBGZP</AuthorID>
+  <Content>call</Content>
+  <Comments>rattle call from one of a pair of birds in response to playback.  I believe (but am not sure) that the male is giving these calls.</Comments>
+  <Quality>1</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Thamnophilidae</Family>
+  <Genus>Percnostola</Genus>
+  <Species>rufifrons</Species>
+  <Sub-species>minor</Sub-species>
+  <VernacularNames>Black-headed Antbird</VernacularNames>
+</Audio>

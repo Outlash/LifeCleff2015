@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>19005</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN19005.wav</FileName>
+  <ClassId>jxakho</ClassId>
+  <Date>2007-11-07</Date>
+  <Time>06:15</Time>
+  <Locality>Parque Regional Barbas-Bremen, Filandia, Quindio. Sector Bremen-La Popa</Locality>
+  <Latitude>4.6717</Latitude>
+  <Longitude>-75.6283</Longitude>
+  <Elevation>1800</Elevation>
+  <Author>Oscar Humberto Marin-Gomez</Author>
+  <AuthorID>CSUHASNRSU</AuthorID>
+  <Content>song</Content>
+  <Comments>REF: OHM004A  1806.  Coro del amanecer. Un individuo en estrato medio (maraña de hojas secas y bejucos). Interior de bosque en el dosel. 30 m del Mic. Vocalización natural. Trocha Bremen-Buenos Aires. Clima despejado.bird-seen:yesplayback-used:no</Comments>
+  <Quality>2</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies>Anabacerthia striaticollis,Trogon collaris</BackgroundSpecies>
+  <Order>Passeriformes</Order>
+  <Family>Furnariidae</Family>
+  <Genus>Anabacerthia</Genus>
+  <Species>striaticollis</Species>
+  <Sub-species />
+  <VernacularNames>Montane Foliage-gleaner</VernacularNames>
+</Audio>

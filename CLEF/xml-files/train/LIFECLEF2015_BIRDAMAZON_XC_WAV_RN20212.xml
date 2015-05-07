@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>20212</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN20212.wav</FileName>
+  <ClassId>cqqnge</ClassId>
+  <Date>2010-10-09</Date>
+  <Time>?</Time>
+  <Locality>Mont Itoupé</Locality>
+  <Latitude>3.01667</Latitude>
+  <Longitude>-53.0667</Longitude>
+  <Elevation>500</Elevation>
+  <Author>Alexandre Renaudier</Author>
+  <AuthorID>GKADEITXTH</AuthorID>
+  <Content>call</Content>
+  <Comments />
+  <Quality>1</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies>Vireo olivaceus</BackgroundSpecies>
+  <Order>Passeriformes</Order>
+  <Family>Furnariidae</Family>
+  <Genus>Dendrocincla</Genus>
+  <Species>fuliginosa</Species>
+  <Sub-species />
+  <VernacularNames>Plain-brown Woodcreeper</VernacularNames>
+</Audio>

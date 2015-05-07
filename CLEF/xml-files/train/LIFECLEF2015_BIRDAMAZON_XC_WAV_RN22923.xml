@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>22923</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN22923.wav</FileName>
+  <ClassId>ffvgyk</ClassId>
+  <Date>2004-08-16</Date>
+  <Time>9:01</Time>
+  <Locality>Altaquer, RN Rio Nambi, Narino</Locality>
+  <Latitude>1.3001</Latitude>
+  <Longitude>-78.0834</Longitude>
+  <Elevation>1100-1600</Elevation>
+  <Author>Oscar Laverde</Author>
+  <AuthorID>WKVKSVMNDZ</AuthorID>
+  <Content>song</Content>
+  <Comments />
+  <Quality>2</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Troglodytidae</Family>
+  <Genus>Henicorhina</Genus>
+  <Species>leucophrys</Species>
+  <Sub-species />
+  <VernacularNames>Grey-breasted Wood Wren</VernacularNames>
+</Audio>

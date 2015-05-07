@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>31624</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN31624.wav</FileName>
+  <ClassId>onmuhx</ClassId>
+  <Date>2012-06-09</Date>
+  <Time>10:00</Time>
+  <Locality>Monteiro Lobato, São Paulo</Locality>
+  <Latitude>-22.8984</Latitude>
+  <Longitude>-45.6834</Longitude>
+  <Elevation>1400</Elevation>
+  <Author>Rodrigo Dela Rosa</Author>
+  <AuthorID>VGXDJMKETZ</AuthorID>
+  <Content>male, song</Content>
+  <Comments>bird-seen:yesplayback-used:yes</Comments>
+  <Quality>2</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Thraupidae</Family>
+  <Genus>Sporophila</Genus>
+  <Species>falcirostris</Species>
+  <Sub-species />
+  <VernacularNames>Temminck's Seedeater</VernacularNames>
+</Audio>

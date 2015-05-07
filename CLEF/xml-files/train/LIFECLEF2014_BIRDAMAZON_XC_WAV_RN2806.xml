@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>2806</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN2806.wav</FileName>
+  <ClassId>xzvjkj</ClassId>
+  <Date>2011-09-12</Date>
+  <Time>16:35</Time>
+  <Locality>Cristalino Jungle Lodge, MT</Locality>
+  <Latitude>-9.5981</Latitude>
+  <Longitude>-55.932</Longitude>
+  <Elevation>260</Elevation>
+  <Author>Eric DeFonso</Author>
+  <AuthorID>KTLCZCRCQX</AuthorID>
+  <Content>song</Content>
+  <Comments>Typical, natural song. Terra firme forest.bird-seen:yesplayback-used:no</Comments>
+  <Quality>1</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Tityridae</Family>
+  <Genus>Schiffornis</Genus>
+  <Species>turdina</Species>
+  <Sub-species />
+  <VernacularNames>Brown-winged Schiffornis</VernacularNames>
+</Audio>

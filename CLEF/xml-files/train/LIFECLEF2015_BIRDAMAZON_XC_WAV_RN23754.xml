@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>23754</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN23754.wav</FileName>
+  <ClassId>jhwuqr</ClassId>
+  <Date>2002-06-00</Date>
+  <Time>pm</Time>
+  <Locality>Villa de Leyva-Nido Verde Boyaca Colombia</Locality>
+  <Latitude>NULL</Latitude>
+  <Longitude>NULL</Longitude>
+  <Elevation>2200</Elevation>
+  <Author>Bernabe Lopez-Lanus</Author>
+  <AuthorID>BYLLSJRVDZ</AuthorID>
+  <Content>Song</Content>
+  <Comments />
+  <Quality>1</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Thraupidae</Family>
+  <Genus>Sporophila</Genus>
+  <Species>nigricollis</Species>
+  <Sub-species />
+  <VernacularNames>Yellow-bellied Seedeater</VernacularNames>
+</Audio>

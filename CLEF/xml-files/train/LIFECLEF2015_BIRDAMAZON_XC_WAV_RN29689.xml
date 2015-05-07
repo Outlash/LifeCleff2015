@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>29689</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN29689.wav</FileName>
+  <ClassId>nehqqq</ClassId>
+  <Date>2010-01-05</Date>
+  <Time>17:00</Time>
+  <Locality>Sonsón, Antioquia, Vereda San Francisco, Cerro de las Palomas, Páramo de Sonsón</Locality>
+  <Latitude>5.716</Latitude>
+  <Longitude>-75.2583</Longitude>
+  <Elevation>3000</Elevation>
+  <Author>Oscar H. Marín-Gómez</Author>
+  <AuthorID>CSUHASNRSU</AuthorID>
+  <Content>male, song</Content>
+  <Comments>OHM067A 1131. Continuación de  XC129230bird-seen:noplayback-used:no</Comments>
+  <Quality>3</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Vireonidae</Family>
+  <Genus>Cyclarhis</Genus>
+  <Species>nigrirostris</Species>
+  <Sub-species />
+  <VernacularNames>Black-billed Peppershrike</VernacularNames>
+</Audio>

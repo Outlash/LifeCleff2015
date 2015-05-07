@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>22799</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN22799.wav</FileName>
+  <ClassId>myrlln</ClassId>
+  <Date>2007-01-14</Date>
+  <Time>13:20</Time>
+  <Locality>near Barquisimeto, Lara</Locality>
+  <Latitude>NULL</Latitude>
+  <Longitude>NULL</Longitude>
+  <Elevation>?</Elevation>
+  <Author>Andrew Spencer</Author>
+  <AuthorID>CDTGHVBGZP</AuthorID>
+  <Content>song</Content>
+  <Comments>in response to playback, song given with food in mouth</Comments>
+  <Quality>1</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Tyrannidae</Family>
+  <Genus>Inezia</Genus>
+  <Species>tenuirostris</Species>
+  <Sub-species />
+  <VernacularNames>Slender-billed Inezia</VernacularNames>
+</Audio>

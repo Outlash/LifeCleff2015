@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>21121</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN21121.wav</FileName>
+  <ClassId>ewytof</ClassId>
+  <Date>2014-09-30</Date>
+  <Time>09:55</Time>
+  <Locality>Intervales State Park, Sao Paolo</Locality>
+  <Latitude>-24.2667</Latitude>
+  <Longitude>-48.4167</Longitude>
+  <Elevation>850</Elevation>
+  <Author>Andrew Spencer</Author>
+  <AuthorID>CDTGHVBGZP</AuthorID>
+  <Content>call</Content>
+  <Comments>calls from the same bird as in XC200810, given before playback.  While calling the bird was skulking low in the same bamboo patch.bird-seen:yesplayback-used:no</Comments>
+  <Quality>1</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Thamnophilidae</Family>
+  <Genus>Mackenziaena</Genus>
+  <Species>severa</Species>
+  <Sub-species />
+  <VernacularNames>Tufted Antshrike</VernacularNames>
+</Audio>

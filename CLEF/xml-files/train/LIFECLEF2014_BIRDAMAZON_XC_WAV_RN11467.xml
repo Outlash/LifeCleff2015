@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>11467</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN11467.wav</FileName>
+  <ClassId>ppdwrk</ClassId>
+  <Date>2003-04-04</Date>
+  <Time>17:33</Time>
+  <Locality>Cristalino Jungle Lodge, MT</Locality>
+  <Latitude>-9.5981</Latitude>
+  <Longitude>-55.932</Longitude>
+  <Elevation>250</Elevation>
+  <Author>Jeremy Minns</Author>
+  <AuthorID>DGVLLRYDXS</AuthorID>
+  <Content>call</Content>
+  <Comments>Humid forest. Calls by a pair moving from perch to perch ahead of the boat.</Comments>
+  <Quality>2</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies>Crypturellus cinereus</BackgroundSpecies>
+  <Order>Coraciiformes</Order>
+  <Family>Alcedinidae</Family>
+  <Genus>Chloroceryle</Genus>
+  <Species>amazona</Species>
+  <Sub-species />
+  <VernacularNames>Amazon Kingfisher</VernacularNames>
+</Audio>

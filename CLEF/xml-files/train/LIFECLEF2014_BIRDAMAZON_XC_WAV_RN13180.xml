@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>13180</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN13180.wav</FileName>
+  <ClassId>hkgozq</ClassId>
+  <Date>2010-04-01</Date>
+  <Time>08:00</Time>
+  <Locality>Reserva Biológica Estadual da Canela Preta, Botuverá Santa Catarina</Locality>
+  <Latitude>-27.27</Latitude>
+  <Longitude>-49.142</Longitude>
+  <Elevation>600</Elevation>
+  <Author>Evair Legal</Author>
+  <AuthorID>SMJXFKLATM</AuthorID>
+  <Content>call</Content>
+  <Comments />
+  <Quality>2</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies />
+  <Order>Apodiformes</Order>
+  <Family>Trochilidae</Family>
+  <Genus>Phaethornis</Genus>
+  <Species>eurynome</Species>
+  <Sub-species />
+  <VernacularNames>Scale-throated Hermit</VernacularNames>
+</Audio>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>20324</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN20324.wav</FileName>
+  <ClassId>nsmtcj</ClassId>
+  <Date>2013-01-12</Date>
+  <Time>13:00</Time>
+  <Locality>Estação Ecológica de Murici, Alagoas</Locality>
+  <Latitude>-9.3001</Latitude>
+  <Longitude>-35.9334</Longitude>
+  <Elevation>110</Elevation>
+  <Author>Dan Lane</Author>
+  <AuthorID>WOEAFQRMUD</AuthorID>
+  <Content>call</Content>
+  <Comments>Response to playback from a pair moving between 5-10m up with a mixed-species flock in 15m-tall semihumid forest.bird-seen:yesplayback-used:yes</Comments>
+  <Quality>2</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Piciformes</Order>
+  <Family>Picidae</Family>
+  <Genus>Veniliornis</Genus>
+  <Species>affinis</Species>
+  <Sub-species />
+  <VernacularNames>Red-stained Woodpecker</VernacularNames>
+</Audio>

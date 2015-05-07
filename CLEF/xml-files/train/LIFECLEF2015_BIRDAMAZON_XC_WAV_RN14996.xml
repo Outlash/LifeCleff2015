@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>14996</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN14996.wav</FileName>
+  <ClassId>unqfdn</ClassId>
+  <Date>2013-04-26</Date>
+  <Time>16:40</Time>
+  <Locality>Antioquia, Municipio de Yarumal, Vereda Corcovado, carretera entre el Alto de Ventanas y el Cedro, Finca Villa Nueva.</Locality>
+  <Latitude>7.055</Latitude>
+  <Longitude>-75.4482</Longitude>
+  <Elevation>2100</Elevation>
+  <Author>Oscar Humberto Marin-Gomez</Author>
+  <AuthorID>CSUHASNRSU</AuthorID>
+  <Content>song</Content>
+  <Comments>Ref: OHMYA 589. Grupo de tres individuos en maraña de chusque enborde de bosque.  A 20m del mic. Vocalización natural. bird-seen:yesplayback-used:no</Comments>
+  <Quality>3</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies>Synallaxis azarae</BackgroundSpecies>
+  <Order>Passeriformes</Order>
+  <Family>Parulidae</Family>
+  <Genus>Basileuterus</Genus>
+  <Species>tristriatus</Species>
+  <Sub-species />
+  <VernacularNames>Three-striped Warbler</VernacularNames>
+</Audio>

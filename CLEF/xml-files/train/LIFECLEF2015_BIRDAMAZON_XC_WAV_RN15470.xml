@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>15470</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN15470.wav</FileName>
+  <ClassId>zszaux</ClassId>
+  <Date>2008-01-18</Date>
+  <Time>11:20</Time>
+  <Locality>Parque Regional Barbas-Bremen, Filandia, Quindio. Sector Barbas</Locality>
+  <Latitude>4.6717</Latitude>
+  <Longitude>-75.6283</Longitude>
+  <Elevation>1800</Elevation>
+  <Author>Oscar Humberto Marin-Gomez</Author>
+  <AuthorID>CSUHASNRSU</AuthorID>
+  <Content>call</Content>
+  <Comments>OHM022B 2223. In mixed flockbird-seen:yesplayback-used:no</Comments>
+  <Quality>1</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies>Basileuterus tristriatus,Euphonia xanthogaster,Myrmotherula schisticolor,Syndactyla subalaris</BackgroundSpecies>
+  <Order>Passeriformes</Order>
+  <Family>Cardinalidae</Family>
+  <Genus>Habia</Genus>
+  <Species>cristata</Species>
+  <Sub-species />
+  <VernacularNames>Crested Ant Tanager</VernacularNames>
+</Audio>

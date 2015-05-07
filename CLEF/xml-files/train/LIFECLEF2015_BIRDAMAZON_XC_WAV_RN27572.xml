@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>27572</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN27572.wav</FileName>
+  <ClassId>aksucy</ClassId>
+  <Date>2011-02-23</Date>
+  <Time>7:32</Time>
+  <Locality>Finca Meremburg, Belen, dpto. Huila</Locality>
+  <Latitude>NULL</Latitude>
+  <Longitude>NULL</Longitude>
+  <Elevation>2320</Elevation>
+  <Author>Jon King</Author>
+  <AuthorID>LNEEOOWCQR</AuthorID>
+  <Content>call then song</Content>
+  <Comments>After playback. Distance to mic. 6m. Call then song by a second bird.</Comments>
+  <Quality>1</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Rhinocryptidae</Family>
+  <Genus>Scytalopus</Genus>
+  <Species>rodriguezi</Species>
+  <Sub-species />
+  <VernacularNames>Upper Magdalena Tapaculo</VernacularNames>
+</Audio>

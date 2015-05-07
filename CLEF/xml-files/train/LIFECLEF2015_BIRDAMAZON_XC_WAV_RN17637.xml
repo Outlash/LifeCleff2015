@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>17637</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN17637.wav</FileName>
+  <ClassId>unqfdn</ClassId>
+  <Date>2010-01-09</Date>
+  <Time>07:00</Time>
+  <Locality>Santa Cecilia, Serrania de San Lucas</Locality>
+  <Latitude>NULL</Latitude>
+  <Longitude>NULL</Longitude>
+  <Elevation>1550</Elevation>
+  <Author>Thomas Donegan</Author>
+  <AuthorID>OXSIOLJJUP</AuthorID>
+  <Content>female, male, song</Content>
+  <Comments>A pair singing soon after dawn.  Volume needs to be magnified to hear this species well, in the 5-9kHz range.bird-seen:yesplayback-used:no</Comments>
+  <Quality>4</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies>Chlorospingus flavigularis,Dysithamnus mentalis</BackgroundSpecies>
+  <Order>Passeriformes</Order>
+  <Family>Parulidae</Family>
+  <Genus>Basileuterus</Genus>
+  <Species>tristriatus</Species>
+  <Sub-species />
+  <VernacularNames>Three-striped Warbler</VernacularNames>
+</Audio>

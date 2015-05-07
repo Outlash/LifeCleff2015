@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>12517</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN12517.wav</FileName>
+  <ClassId>pzlgrh</ClassId>
+  <Date>2009-04-25</Date>
+  <Time>17:00</Time>
+  <Locality>Parque do Zizo, Sao Paulo State</Locality>
+  <Latitude>-24.017146</Latitude>
+  <Longitude>-47.81044</Longitude>
+  <Elevation>630</Elevation>
+  <Author>Arthur Macarrão</Author>
+  <AuthorID>GRFTMRXMPV</AuthorID>
+  <Content>call</Content>
+  <Comments />
+  <Quality>2</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies />
+  <Order>Psittaciformes</Order>
+  <Family>Psittacidae</Family>
+  <Genus>Brotogeris</Genus>
+  <Species>tirica</Species>
+  <Sub-species />
+  <VernacularNames>Plain Parakeet</VernacularNames>
+</Audio>

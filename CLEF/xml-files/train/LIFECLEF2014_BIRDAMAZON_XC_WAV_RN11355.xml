@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>11355</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN11355.wav</FileName>
+  <ClassId>vumzkv</ClassId>
+  <Date>2003-10-29</Date>
+  <Time>07:10</Time>
+  <Locality>Intervales State Park. Carmo road</Locality>
+  <Latitude>-24.2834</Latitude>
+  <Longitude>-48.4334</Longitude>
+  <Elevation>600</Elevation>
+  <Author>Jeremy Minns</Author>
+  <AuthorID>DGVLLRYDXS</AuthorID>
+  <Content>Call</Content>
+  <Comments>Montane forest. This is Call C in our DVD-ROM 'Birds of Brazil'.</Comments>
+  <Quality>3</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies>Trogon viridis,Chiroxiphia caudata</BackgroundSpecies>
+  <Order>Passeriformes</Order>
+  <Family>Furnariidae</Family>
+  <Genus>Cichlocolaptes</Genus>
+  <Species>leucophrus</Species>
+  <Sub-species>holti</Sub-species>
+  <VernacularNames>Pale-browed Treehunter</VernacularNames>
+</Audio>

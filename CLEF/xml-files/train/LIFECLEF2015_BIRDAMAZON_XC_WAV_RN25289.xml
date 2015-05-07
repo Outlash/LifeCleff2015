@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>25289</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN25289.wav</FileName>
+  <ClassId>xivqoy</ClassId>
+  <Date>2007-10-28</Date>
+  <Time>08:30</Time>
+  <Locality>Taquaril - Petrópolis - RJ</Locality>
+  <Latitude>-22.3023</Latitude>
+  <Longitude>-43.077</Longitude>
+  <Elevation>1100</Elevation>
+  <Author>Ricardo Gagliardi</Author>
+  <AuthorID>YRDADNREOP</AuthorID>
+  <Content>call</Content>
+  <Comments>Pousada Paraíso area</Comments>
+  <Quality>2</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Thraupidae</Family>
+  <Genus>Tangara</Genus>
+  <Species>cayana</Species>
+  <Sub-species />
+  <VernacularNames>Burnished-buff Tanager</VernacularNames>
+</Audio>

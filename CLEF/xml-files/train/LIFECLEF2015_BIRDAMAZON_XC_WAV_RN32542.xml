@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>32542</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN32542.wav</FileName>
+  <ClassId>uvjypi</ClassId>
+  <Date>2007-11-07</Date>
+  <Time>06:15</Time>
+  <Locality>Parque Regional Barbas-Bremen, Filandia, Quindio. Sector Bremen-La Popa</Locality>
+  <Latitude>4.6717</Latitude>
+  <Longitude>-75.6283</Longitude>
+  <Elevation>1800</Elevation>
+  <Author>Oscar Humberto Marin-Gomez</Author>
+  <AuthorID>CSUHASNRSU</AuthorID>
+  <Content>song</Content>
+  <Comments>REF: OHM004A  2110.  Coro del amanecer. Un individuo en Interior de bosque en el dosel. 40 m del Mic. Vocalización natural. Trocha Bremen-Buenos Aires. Clima despejado.bird-seen:yesplayback-used:no</Comments>
+  <Quality>2</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies>Trogon collaris,Colibri thalassinus,Ocreatus underwoodii,Zimmerius chrysops,Psittacara wagleri,Henicorhina leucophrys,Basileuterus tristriatus</BackgroundSpecies>
+  <Order>Passeriformes</Order>
+  <Family>Turdidae</Family>
+  <Genus>Myadestes</Genus>
+  <Species>ralloides</Species>
+  <Sub-species />
+  <VernacularNames>Andean Solitaire</VernacularNames>
+</Audio>

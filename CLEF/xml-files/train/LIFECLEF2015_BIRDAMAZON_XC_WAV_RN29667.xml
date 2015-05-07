@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>29667</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN29667.wav</FileName>
+  <ClassId>czoixh</ClassId>
+  <Date>2012-10-11</Date>
+  <Time>06:00</Time>
+  <Locality>Itaituba, Para</Locality>
+  <Latitude>-4.5778</Latitude>
+  <Longitude>-56.3338</Longitude>
+  <Elevation>70</Elevation>
+  <Author>GABRIEL LEITE</Author>
+  <AuthorID>TGBFXDVERJ</AuthorID>
+  <Content>call</Content>
+  <Comments>bird-seen:noplayback-used:no</Comments>
+  <Quality>3</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Strigiformes</Order>
+  <Family>Strigidae</Family>
+  <Genus>Strix</Genus>
+  <Species>huhula</Species>
+  <Sub-species />
+  <VernacularNames>Black-banded Owl</VernacularNames>
+</Audio>

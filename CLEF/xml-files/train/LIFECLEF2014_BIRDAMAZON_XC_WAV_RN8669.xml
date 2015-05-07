@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>8669</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN8669.wav</FileName>
+  <ClassId>brsyrr</ClassId>
+  <Date>2011-02-15</Date>
+  <Time>14:20</Time>
+  <Locality>Parque Estadual Intervales, SP</Locality>
+  <Latitude>-24.2759</Latitude>
+  <Longitude>-48.4181</Longitude>
+  <Elevation>850</Elevation>
+  <Author>Daniel Lane</Author>
+  <AuthorID>WOEAFQRMUD</AuthorID>
+  <Content>call</Content>
+  <Comments>Natural calls given from pair as they move through shrubs on hillside with grass and scrub under scattered trees.</Comments>
+  <Quality>2</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies>Picumnus temminckii</BackgroundSpecies>
+  <Order>Passeriformes</Order>
+  <Family>Vireonidae</Family>
+  <Genus>Hylophilus</Genus>
+  <Species>poicilotis</Species>
+  <Sub-species />
+  <VernacularNames>Rufous-crowned Greenlet</VernacularNames>
+</Audio>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>30025</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN30025.wav</FileName>
+  <ClassId>uyjoqf</ClassId>
+  <Date>2012-10-20</Date>
+  <Time>10:30</Time>
+  <Locality>Nova Veneza, Santa Catarina, Brazil</Locality>
+  <Latitude>-28.638</Latitude>
+  <Longitude>-49.498</Longitude>
+  <Elevation>100</Elevation>
+  <Author>João Gava</Author>
+  <AuthorID>CEKMJEZKSJ</AuthorID>
+  <Content>call, song</Content>
+  <Comments>bird-seen:yesplayback-used:no</Comments>
+  <Quality>2</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Charadriiformes</Order>
+  <Family>Recurvirostridae</Family>
+  <Genus>Himantopus</Genus>
+  <Species>melanurus</Species>
+  <Sub-species />
+  <VernacularNames>White-backed Stilt</VernacularNames>
+</Audio>

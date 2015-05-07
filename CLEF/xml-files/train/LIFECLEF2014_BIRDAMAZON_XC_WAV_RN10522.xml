@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>10522</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN10522.wav</FileName>
+  <ClassId>ewisum</ClassId>
+  <Date>2007-07-22</Date>
+  <Time>09:00</Time>
+  <Locality>Distrito de Dirceu, ca 14 km de Marília, SP</Locality>
+  <Latitude>NULL</Latitude>
+  <Longitude>NULL</Longitude>
+  <Elevation>?</Elevation>
+  <Author>Thiago Vernaschi V. Costa</Author>
+  <AuthorID>FPHQAPNAFU</AuthorID>
+  <Content>call</Content>
+  <Comments />
+  <Quality>5</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Parulidae</Family>
+  <Genus>Basileuterus</Genus>
+  <Species>culicivorus</Species>
+  <Sub-species />
+  <VernacularNames>Golden-crowned Warbler</VernacularNames>
+</Audio>

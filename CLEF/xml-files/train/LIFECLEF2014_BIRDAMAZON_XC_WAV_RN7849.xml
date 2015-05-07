@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>7849</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN7849.wav</FileName>
+  <ClassId>enwiay</ClassId>
+  <Date>1999-05-06</Date>
+  <Time>07:50</Time>
+  <Locality>Chapada Diamantina. Bonito</Locality>
+  <Latitude>-11.9501</Latitude>
+  <Longitude>-41.2834</Longitude>
+  <Elevation>1000</Elevation>
+  <Author>Jeremy Minns</Author>
+  <AuthorID>DGVLLRYDXS</AuthorID>
+  <Content>Song</Content>
+  <Comments>Fazenda da Mata Doida. Humid forest.</Comments>
+  <Quality>2</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies>Picumnus pygmaeus</BackgroundSpecies>
+  <Order>Tinamiformes</Order>
+  <Family>Tinamidae</Family>
+  <Genus>Crypturellus</Genus>
+  <Species>tataupa</Species>
+  <Sub-species>lepidotus</Sub-species>
+  <VernacularNames>Tataupa Tinamou</VernacularNames>
+</Audio>

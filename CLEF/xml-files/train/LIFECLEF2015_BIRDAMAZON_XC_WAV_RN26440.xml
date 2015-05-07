@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>26440</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN26440.wav</FileName>
+  <ClassId>uqwtge</ClassId>
+  <Date>2006-02-07</Date>
+  <Time>10:00</Time>
+  <Locality>TI Coatá-Laranjal, south of Borba, AM</Locality>
+  <Latitude>-4.6195</Latitude>
+  <Longitude>-59.5114</Longitude>
+  <Elevation>30</Elevation>
+  <Author>Nick Athanas</Author>
+  <AuthorID>XRABICUARW</AuthorID>
+  <Content>song</Content>
+  <Comments>img:http://www.antpitta.com/images/photos/tyrants/Rufous-tailed-Flatbill.JPG</Comments>
+  <Quality>2</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies>Turdus albicollis</BackgroundSpecies>
+  <Order>Passeriformes</Order>
+  <Family>Tyrannidae</Family>
+  <Genus>Ramphotrigon</Genus>
+  <Species>ruficauda</Species>
+  <Sub-species />
+  <VernacularNames>Rufous-tailed Flatbill</VernacularNames>
+</Audio>

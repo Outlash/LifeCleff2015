@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>32341</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN32341.wav</FileName>
+  <ClassId>gzfudv</ClassId>
+  <Date>2010-07-01</Date>
+  <Time>?</Time>
+  <Locality>Tonate-Macouria, Pripris Maillard</Locality>
+  <Latitude>5.001</Latitude>
+  <Longitude>-52.463</Longitude>
+  <Elevation>2</Elevation>
+  <Author>Renaudier Alexandre</Author>
+  <AuthorID>GKADEITXTH</AuthorID>
+  <Content>flight call</Content>
+  <Comments>18 birds together in flight</Comments>
+  <Quality>1</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies>Emberizoides herbicola,Ammodramus humeralis</BackgroundSpecies>
+  <Order>Psittaciformes</Order>
+  <Family>Psittacidae</Family>
+  <Genus>Orthopsittaca</Genus>
+  <Species>manilatus</Species>
+  <Sub-species />
+  <VernacularNames>Red-bellied Macaw</VernacularNames>
+</Audio>

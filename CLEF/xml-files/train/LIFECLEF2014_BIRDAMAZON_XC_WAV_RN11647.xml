@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>11647</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN11647.wav</FileName>
+  <ClassId>psfsos</ClassId>
+  <Date>2011-09-18</Date>
+  <Time>06:37</Time>
+  <Locality>Cristalino Jungle Lodge, MT</Locality>
+  <Latitude>-9.5981</Latitude>
+  <Longitude>-55.932</Longitude>
+  <Elevation>260</Elevation>
+  <Author>Eric DeFonso</Author>
+  <AuthorID>KTLCZCRCQX</AuthorID>
+  <Content>song</Content>
+  <Comments>Several strophes of typical, natural song. Habitat is terra firme forest. Some motorboat noise toward the end.bird-seen:noplayback-used:no</Comments>
+  <Quality>2</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies>Thamnophilus schistaceus,Ramphotrigon megacephalum,Psarocolius bifasciatus</BackgroundSpecies>
+  <Order>Passeriformes</Order>
+  <Family>Thamnophilidae</Family>
+  <Genus>Willisornis</Genus>
+  <Species>vidua</Species>
+  <Sub-species />
+  <VernacularNames>Xingu Scale-backed Antbird</VernacularNames>
+</Audio>

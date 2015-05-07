@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>13304</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN13304.wav</FileName>
+  <ClassId>mjvnht</ClassId>
+  <Date>1997-12-24</Date>
+  <Time>?:?</Time>
+  <Locality>Sao Paulo, Fazenda Angelim, near Ubatuba</Locality>
+  <Latitude>-23.39</Latitude>
+  <Longitude>-45.06</Longitude>
+  <Elevation>100</Elevation>
+  <Author>Frank Lambert</Author>
+  <AuthorID>YTUXOCTUEM</AuthorID>
+  <Content>song</Content>
+  <Comments>Previously published on AVoCet as &lt;a href=http://avocet.zoology.msu.edu/recordings/8215&gt;AV8215&lt;/a&gt;.  Certainty: 100%.  ID determined by: not specifically indicated, recordist normally sees birds recorded and indicates if any question, matches XC cuts. GPS: xeno-canto.</Comments>
+  <Quality>2</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Rhinocryptidae</Family>
+  <Genus>Psilorhamphus</Genus>
+  <Species>guttatus</Species>
+  <Sub-species />
+  <VernacularNames>Spotted Bamboowren</VernacularNames>
+</Audio>

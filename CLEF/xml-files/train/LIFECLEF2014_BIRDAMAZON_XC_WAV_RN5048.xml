@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>5048</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN5048.wav</FileName>
+  <ClassId>nxdwzm</ClassId>
+  <Date>1999-10-24</Date>
+  <Time>07:00</Time>
+  <Locality>Ubatuba, SP. Folha Seca.</Locality>
+  <Latitude>-23.5001</Latitude>
+  <Longitude>-45.2167</Longitude>
+  <Elevation>30</Elevation>
+  <Author>Jeremy Minns</Author>
+  <AuthorID>DGVLLRYDXS</AuthorID>
+  <Content>call</Content>
+  <Comments>Lowland forest.</Comments>
+  <Quality>1</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies>Dysithamnus stictothorax,Legatus leucophaius</BackgroundSpecies>
+  <Order>Passeriformes</Order>
+  <Family>Furnariidae</Family>
+  <Genus>Automolus</Genus>
+  <Species>leucophthalmus</Species>
+  <Sub-species>sulphurascens</Sub-species>
+  <VernacularNames>White-eyed Foliage-gleaner</VernacularNames>
+</Audio>

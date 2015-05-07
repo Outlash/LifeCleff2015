@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>888</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN888.wav</FileName>
+  <ClassId>rstljd</ClassId>
+  <Date>2005-11-07</Date>
+  <Time>06:46</Time>
+  <Locality>Caxiuanã Scientific Station</Locality>
+  <Latitude>-1.7375</Latitude>
+  <Longitude>-51.4556</Longitude>
+  <Elevation>12</Elevation>
+  <Author>Jeremy Minns</Author>
+  <AuthorID>DGVLLRYDXS</AuthorID>
+  <Content>Song</Content>
+  <Comments>Terra firme forest. Not seen.</Comments>
+  <Quality>3</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies>Myrmotherula brachyura</BackgroundSpecies>
+  <Order>Passeriformes</Order>
+  <Family>Tyrannidae</Family>
+  <Genus>Hemitriccus</Genus>
+  <Species>minor</Species>
+  <Sub-species>minor</Sub-species>
+  <VernacularNames>Snethlage's Tody-Tyrant</VernacularNames>
+</Audio>

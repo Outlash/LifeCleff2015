@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>20400</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN20400.wav</FileName>
+  <ClassId>gcyzcu</ClassId>
+  <Date>2011-06-13</Date>
+  <Time>06:00</Time>
+  <Locality>Passo de Camaragibe,  Alagoas</Locality>
+  <Latitude>-9.3164</Latitude>
+  <Longitude>-35.4423</Longitude>
+  <Elevation>10</Elevation>
+  <Author>Fernando Igor de Godoy</Author>
+  <AuthorID>CHDHFSVVIN</AuthorID>
+  <Content>flight call</Content>
+  <Comments>FNJV 30258</Comments>
+  <Quality>0</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Psittaciformes</Order>
+  <Family>Psittacidae</Family>
+  <Genus>Diopsittaca</Genus>
+  <Species>nobilis</Species>
+  <Sub-species>cumanensis</Sub-species>
+  <VernacularNames>Red-shouldered Macaw</VernacularNames>
+</Audio>

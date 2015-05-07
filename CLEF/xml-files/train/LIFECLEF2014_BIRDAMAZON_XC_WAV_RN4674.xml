@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>4674</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN4674.wav</FileName>
+  <ClassId>hwqenp</ClassId>
+  <Date>2009-10-30</Date>
+  <Time>10:30</Time>
+  <Locality>Parque Natural Municipal da Serra do Itapet</Locality>
+  <Latitude>-23.48</Latitude>
+  <Longitude>-46.182</Longitude>
+  <Elevation>810</Elevation>
+  <Author>Frederico Pereira</Author>
+  <AuthorID>CUABISBTCK</AuthorID>
+  <Content>?</Content>
+  <Comments />
+  <Quality>3</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies>Harpagus diodon</BackgroundSpecies>
+  <Order>Passeriformes</Order>
+  <Family>Thamnophilidae</Family>
+  <Genus>Dysithamnus</Genus>
+  <Species>mentalis</Species>
+  <Sub-species />
+  <VernacularNames>Plain Antvireo</VernacularNames>
+</Audio>

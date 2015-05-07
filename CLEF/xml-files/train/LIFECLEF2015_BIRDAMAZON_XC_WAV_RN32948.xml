@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>32948</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN32948.wav</FileName>
+  <ClassId>bljpac</ClassId>
+  <Date>2011-07-13</Date>
+  <Time>08:00</Time>
+  <Locality>Humedal del Salitre en Bogota</Locality>
+  <Latitude>NULL</Latitude>
+  <Longitude>NULL</Longitude>
+  <Elevation>2541</Elevation>
+  <Author>Oswaldo Cortes</Author>
+  <AuthorID>VVDRVZCVWW</AuthorID>
+  <Content>song</Content>
+  <Comments />
+  <Quality>2</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Pelecaniformes</Order>
+  <Family>Ardeidae</Family>
+  <Genus>Butorides</Genus>
+  <Species>striata</Species>
+  <Sub-species />
+  <VernacularNames>Striated Heron</VernacularNames>
+</Audio>

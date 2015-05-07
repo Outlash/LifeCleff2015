@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>15985</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN15985.wav</FileName>
+  <ClassId>ovipyl</ClassId>
+  <Date>2012-02-08</Date>
+  <Time>07:28</Time>
+  <Locality>Soata (Reserva de Aves para Amazilia castaneiventris y Macroagelaius)</Locality>
+  <Latitude>6.3001</Latitude>
+  <Longitude>-72.7167</Longitude>
+  <Elevation>2000</Elevation>
+  <Author>Oswaldo Cortes</Author>
+  <AuthorID>VVDRVZCVWW</AuthorID>
+  <Content>song</Content>
+  <Comments />
+  <Quality>1</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Grallariidae</Family>
+  <Genus>Grallaria</Genus>
+  <Species>rufula</Species>
+  <Sub-species />
+  <VernacularNames>Rufous Antpitta</VernacularNames>
+</Audio>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>3122</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN3122.wav</FileName>
+  <ClassId>zdicwn</ClassId>
+  <Date>2001-11-20</Date>
+  <Time>05:28</Time>
+  <Locality>Road to Remanso, Lençóis, Chapada Diamantina, BA</Locality>
+  <Latitude>-12.5834</Latitude>
+  <Longitude>-41.3667</Longitude>
+  <Elevation>400</Elevation>
+  <Author>Jeremy Minns</Author>
+  <AuthorID>DGVLLRYDXS</AuthorID>
+  <Content>call, song</Content>
+  <Comments>Humid forest.</Comments>
+  <Quality>1</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies>Thamnophilus pelzelni,Sirystes sibilator</BackgroundSpecies>
+  <Order>Passeriformes</Order>
+  <Family>Tyrannidae</Family>
+  <Genus>Myiopagis</Genus>
+  <Species>viridicata</Species>
+  <Sub-species>viridicata</Sub-species>
+  <VernacularNames>Greenish Elaenia</VernacularNames>
+</Audio>

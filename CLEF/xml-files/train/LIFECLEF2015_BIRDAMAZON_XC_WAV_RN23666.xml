@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>23666</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN23666.wav</FileName>
+  <ClassId>qjzygx</ClassId>
+  <Date>2008-00-00</Date>
+  <Time>?:?</Time>
+  <Locality>Mana, piste ONF Dardanelles</Locality>
+  <Latitude>5.649811</Latitude>
+  <Longitude>-53.814468</Longitude>
+  <Elevation>50</Elevation>
+  <Author>A. Renaudier</Author>
+  <AuthorID>GKADEITXTH</AuthorID>
+  <Content>calls by a pair</Content>
+  <Comments />
+  <Quality>1</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Tyrannidae</Family>
+  <Genus>Myiozetetes</Genus>
+  <Species>luteiventris</Species>
+  <Sub-species />
+  <VernacularNames>Dusky-chested Flycatcher</VernacularNames>
+</Audio>

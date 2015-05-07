@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>2110</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN2110.wav</FileName>
+  <ClassId>oublby</ClassId>
+  <Date>2013-01-30</Date>
+  <Time>09:00</Time>
+  <Locality>Comandatuba Island, Una,Bahia, Brazil</Locality>
+  <Latitude>-15.355</Latitude>
+  <Longitude>-38.982</Longitude>
+  <Elevation>0</Elevation>
+  <Author>Antonio Silveira</Author>
+  <AuthorID>NBJQSQJRYH</AuthorID>
+  <Content>alarm call, female</Content>
+  <Comments>Female preched near the lagoon. bird-seen:yesplayback-used:no</Comments>
+  <Quality>2</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies />
+  <Order>Coraciiformes</Order>
+  <Family>Alcedinidae</Family>
+  <Genus>Megaceryle</Genus>
+  <Species>torquata</Species>
+  <Sub-species />
+  <VernacularNames>Ringed Kingfisher</VernacularNames>
+</Audio>

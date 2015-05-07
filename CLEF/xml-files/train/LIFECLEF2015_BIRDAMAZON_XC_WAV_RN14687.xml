@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>14687</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN14687.wav</FileName>
+  <ClassId>tvizgf</ClassId>
+  <Date>2003-05-18</Date>
+  <Time>09:10</Time>
+  <Locality>RPPN Mata do Bituri, Brejo da Madre de Deus, Pernambuco</Locality>
+  <Latitude>NULL</Latitude>
+  <Longitude>NULL</Longitude>
+  <Elevation>1100</Elevation>
+  <Author>Glauco Alves Pereira</Author>
+  <AuthorID>ZWEROGGYVP</AuthorID>
+  <Content>Song</Content>
+  <Comments>Interior of Humid forest</Comments>
+  <Quality>0</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Furnariidae</Family>
+  <Genus>Synallaxis</Genus>
+  <Species>infuscata</Species>
+  <Sub-species />
+  <VernacularNames>Pinto's Spinetail</VernacularNames>
+</Audio>

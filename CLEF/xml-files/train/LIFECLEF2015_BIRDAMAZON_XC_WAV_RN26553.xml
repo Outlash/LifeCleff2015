@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>26553</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN26553.wav</FileName>
+  <ClassId>lavuag</ClassId>
+  <Date>1998-11-20</Date>
+  <Time>15:25</Time>
+  <Locality>El Bosque, Reserva Zona Alta Rio Quindio, Quindio</Locality>
+  <Latitude>NULL</Latitude>
+  <Longitude>NULL</Longitude>
+  <Elevation>3100</Elevation>
+  <Author>Bernabe Lopez-Lanus</Author>
+  <AuthorID>BYLLSJRVDZ</AuthorID>
+  <Content>Call</Content>
+  <Comments />
+  <Quality>3</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Apodiformes</Order>
+  <Family>Trochilidae</Family>
+  <Genus>Metallura</Genus>
+  <Species>tyrianthina</Species>
+  <Sub-species>tyrianthina</Sub-species>
+  <VernacularNames>Tyrian Metaltail</VernacularNames>
+</Audio>

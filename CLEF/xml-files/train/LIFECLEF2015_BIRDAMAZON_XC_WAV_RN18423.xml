@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>18423</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN18423.wav</FileName>
+  <ClassId>vnkcgy</ClassId>
+  <Date>2007-01-00</Date>
+  <Time>?:?</Time>
+  <Locality>La Mucuy, Sierra Nevada NP, Merida</Locality>
+  <Latitude>8.620356</Latitude>
+  <Longitude>-71.082487</Longitude>
+  <Elevation>2000</Elevation>
+  <Author>Joe Klaiber</Author>
+  <AuthorID>TNPOVFLZMY</AuthorID>
+  <Content>call</Content>
+  <Comments>link:http://www.birds-venezuela.de</Comments>
+  <Quality>3</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Corvidae</Family>
+  <Genus>Cyanolyca</Genus>
+  <Species>armillata</Species>
+  <Sub-species />
+  <VernacularNames>Black-collared Jay</VernacularNames>
+</Audio>

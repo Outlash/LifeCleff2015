@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>30989</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN30989.wav</FileName>
+  <ClassId>yyjrms</ClassId>
+  <Date>2008-08-03</Date>
+  <Time>xx:xx</Time>
+  <Locality>San Bernardo (Cundinamarca)</Locality>
+  <Latitude>4.2001</Latitude>
+  <Longitude>-74.4128</Longitude>
+  <Elevation>2500</Elevation>
+  <Author>Oswaldo Cortes</Author>
+  <AuthorID>VVDRVZCVWW</AuthorID>
+  <Content>song</Content>
+  <Comments />
+  <Quality>2</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Emberizidae</Family>
+  <Genus>Zonotrichia</Genus>
+  <Species>capensis</Species>
+  <Sub-species />
+  <VernacularNames>Rufous-collared Sparrow</VernacularNames>
+</Audio>

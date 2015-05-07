@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>19203</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN19203.wav</FileName>
+  <ClassId>byvvse</ClassId>
+  <Date>2007-09-08</Date>
+  <Time>13:30</Time>
+  <Locality>Serra dos Órgãos National Park - RJ</Locality>
+  <Latitude>-22.448</Latitude>
+  <Longitude>-43.01</Longitude>
+  <Elevation>1700</Elevation>
+  <Author>Ricardo Gagliardi</Author>
+  <AuthorID>YRDADNREOP</AuthorID>
+  <Content>song</Content>
+  <Comments />
+  <Quality>2</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Tityridae</Family>
+  <Genus>Oxyruncus</Genus>
+  <Species>cristatus</Species>
+  <Sub-species />
+  <VernacularNames>Sharpbill</VernacularNames>
+</Audio>

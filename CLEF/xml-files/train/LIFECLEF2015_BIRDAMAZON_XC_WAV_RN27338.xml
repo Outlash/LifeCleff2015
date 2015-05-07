@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>27338</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN27338.wav</FileName>
+  <ClassId>jhwuqr</ClassId>
+  <Date>2005-10-15</Date>
+  <Time>06:45</Time>
+  <Locality>Parque Nacional Henri Pittier, Aragua</Locality>
+  <Latitude>10.417</Latitude>
+  <Longitude>-67.633</Longitude>
+  <Elevation>630</Elevation>
+  <Author>Nick Athanas</Author>
+  <AuthorID>XRABICUARW</AuthorID>
+  <Content>song</Content>
+  <Comments>Song from male.</Comments>
+  <Quality>2</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Thraupidae</Family>
+  <Genus>Sporophila</Genus>
+  <Species>nigricollis</Species>
+  <Sub-species>nigricollis</Sub-species>
+  <VernacularNames>Yellow-bellied Seedeater</VernacularNames>
+</Audio>

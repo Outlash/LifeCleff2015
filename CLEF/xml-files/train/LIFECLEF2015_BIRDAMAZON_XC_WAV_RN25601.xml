@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>25601</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN25601.wav</FileName>
+  <ClassId>bqtilk</ClassId>
+  <Date>2011-02-05</Date>
+  <Time>06:17</Time>
+  <Locality>SFF Otun-Quimbaya, Risaralda</Locality>
+  <Latitude>4.727</Latitude>
+  <Longitude>-75.577</Longitude>
+  <Elevation>1900</Elevation>
+  <Author>Eric DeFonso</Author>
+  <AuthorID>KTLCZCRCQX</AuthorID>
+  <Content>song</Content>
+  <Comments>Bird obscured in early morning dark within a heavy tangle of shrubby head-high vegetation at the edge of a soccer field.bird-seen:noplayback-used:no</Comments>
+  <Quality>1</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies>Pyroderus scutatus,Pachyramphus polychopterus,Pheugopedius mystacalis</BackgroundSpecies>
+  <Order>Apodiformes</Order>
+  <Family>Trochilidae</Family>
+  <Genus>Amazilia</Genus>
+  <Species>franciae</Species>
+  <Sub-species />
+  <VernacularNames>Andean Emerald</VernacularNames>
+</Audio>

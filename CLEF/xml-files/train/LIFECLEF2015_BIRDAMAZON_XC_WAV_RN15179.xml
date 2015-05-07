@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>15179</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN15179.wav</FileName>
+  <ClassId>zuweoe</ClassId>
+  <Date>2013-08-27</Date>
+  <Time>18:00</Time>
+  <Locality>Posse, Goiás</Locality>
+  <Latitude>-14.2686</Latitude>
+  <Longitude>-46.3626</Longitude>
+  <Elevation>800</Elevation>
+  <Author>Marcelo Villegas</Author>
+  <AuthorID>YWTZVKKHKP</AuthorID>
+  <Content>call</Content>
+  <Comments>bird-seen:noplayback-used:no</Comments>
+  <Quality>2</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies>Pitangus sulphuratus</BackgroundSpecies>
+  <Order>Passeriformes</Order>
+  <Family>Thraupidae</Family>
+  <Genus>Compsothraupis</Genus>
+  <Species>loricata</Species>
+  <Sub-species />
+  <VernacularNames>Scarlet-throated Tanager</VernacularNames>
+</Audio>

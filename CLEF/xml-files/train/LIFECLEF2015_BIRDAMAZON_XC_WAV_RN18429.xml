@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>18429</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN18429.wav</FileName>
+  <ClassId>tsbdow</ClassId>
+  <Date>2012-08-08</Date>
+  <Time>07.20 am</Time>
+  <Locality>Hacienda Vuelta Larga</Locality>
+  <Latitude>10.6442</Latitude>
+  <Longitude>-62.9839</Longitude>
+  <Elevation>50</Elevation>
+  <Author>Thore Noernberg</Author>
+  <AuthorID>TTSQGWDDGW</AuthorID>
+  <Content>Call</Content>
+  <Comments>2 birds walking together - one calling</Comments>
+  <Quality>2</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Gruiformes</Order>
+  <Family>Aramidae</Family>
+  <Genus>Aramus</Genus>
+  <Species>guarauna</Species>
+  <Sub-species />
+  <VernacularNames>Limpkin</VernacularNames>
+</Audio>

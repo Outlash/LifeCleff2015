@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>33121</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN33121.wav</FileName>
+  <ClassId>vrmygt</ClassId>
+  <Date>2010-01-27</Date>
+  <Time>07:30</Time>
+  <Locality>Rio Blanco, Manizales, Caldas</Locality>
+  <Latitude>5.076923</Latitude>
+  <Longitude>-75.466461</Longitude>
+  <Elevation>2500</Elevation>
+  <Author>Frank Lambert</Author>
+  <AuthorID>YTUXOCTUEM</AuthorID>
+  <Content>call, song</Content>
+  <Comments>altitude is approx</Comments>
+  <Quality>1</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Emberizidae</Family>
+  <Genus>Arremon</Genus>
+  <Species>assimilis</Species>
+  <Sub-species />
+  <VernacularNames>Grey-browed Brush Finch</VernacularNames>
+</Audio>

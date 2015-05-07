@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>24551</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN24551.wav</FileName>
+  <ClassId>oymxxb</ClassId>
+  <Date>2007-08-15</Date>
+  <Time>06:30</Time>
+  <Locality>RNA El Dorado, Sierra de Santa Marta, Magdalena</Locality>
+  <Latitude>11.1009</Latitude>
+  <Longitude>-74.072</Longitude>
+  <Elevation>2000</Elevation>
+  <Author>David Bradley</Author>
+  <AuthorID>MCNTDLDTOO</AuthorID>
+  <Content>song</Content>
+  <Comments>I have no idea what this is. Help appreciated!bird-seen:noplayback-used:no</Comments>
+  <Quality>4</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Turdidae</Family>
+  <Genus>Catharus</Genus>
+  <Species>fuscater</Species>
+  <Sub-species />
+  <VernacularNames>Slaty-backed Nightingale-Thrush</VernacularNames>
+</Audio>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>11242</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN11242.wav</FileName>
+  <ClassId>tsxwwl</ClassId>
+  <Date>2003-00-00</Date>
+  <Time>?</Time>
+  <Locality>Serra do Mar National Park - Santa Virginia - Sao Paulo State</Locality>
+  <Latitude>-23.3933</Latitude>
+  <Longitude>-45.1503</Longitude>
+  <Elevation>1000</Elevation>
+  <Author>Guilherme R R Brito</Author>
+  <AuthorID>OAYOBWYOOM</AuthorID>
+  <Content>song</Content>
+  <Comments>playback response</Comments>
+  <Quality>1</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Thamnophilidae</Family>
+  <Genus>Myrmeciza</Genus>
+  <Species>squamosa</Species>
+  <Sub-species />
+  <VernacularNames>Squamate Antbird</VernacularNames>
+</Audio>

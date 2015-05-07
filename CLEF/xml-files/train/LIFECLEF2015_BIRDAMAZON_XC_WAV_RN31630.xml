@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>31630</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN31630.wav</FileName>
+  <ClassId>qvcasw</ClassId>
+  <Date>2013-04-27</Date>
+  <Time>15:00</Time>
+  <Locality>Carmópolis de Minas, Minas Gerais</Locality>
+  <Latitude>-20.54</Latitude>
+  <Longitude>-44.634</Longitude>
+  <Elevation>900</Elevation>
+  <Author>João Antônio de B. Vitto</Author>
+  <AuthorID>RIVNLYTULO</AuthorID>
+  <Content>song</Content>
+  <Comments>bird-seen:yesplayback-used:yes</Comments>
+  <Quality>0</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Furnariidae</Family>
+  <Genus>Synallaxis</Genus>
+  <Species>albescens</Species>
+  <Sub-species />
+  <VernacularNames>Pale-breasted Spinetail</VernacularNames>
+</Audio>

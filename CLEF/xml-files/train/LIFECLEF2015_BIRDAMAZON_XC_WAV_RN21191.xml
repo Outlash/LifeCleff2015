@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>21191</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN21191.wav</FileName>
+  <ClassId>ephxxx</ClassId>
+  <Date>2013-12-09</Date>
+  <Time>13:00</Time>
+  <Locality>Atibaia, SP</Locality>
+  <Latitude>-23.2001</Latitude>
+  <Longitude>-46.5834</Longitude>
+  <Elevation>800</Elevation>
+  <Author>William Zaca</Author>
+  <AuthorID>QPVHQBUWGE</AuthorID>
+  <Content>song</Content>
+  <Comments>bird-seen:yesplayback-used:no</Comments>
+  <Quality>3</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Tyrannidae</Family>
+  <Genus>Legatus</Genus>
+  <Species>leucophaius</Species>
+  <Sub-species />
+  <VernacularNames>Piratic Flycatcher</VernacularNames>
+</Audio>

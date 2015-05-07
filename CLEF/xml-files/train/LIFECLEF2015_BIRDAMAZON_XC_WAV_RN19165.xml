@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>19165</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN19165.wav</FileName>
+  <ClassId>vnkcgy</ClassId>
+  <Date>2011-02-02</Date>
+  <Time>14:54</Time>
+  <Locality>FUNDEGAR ('Rio Blanco'), Manizales, Caldas</Locality>
+  <Latitude>5.074</Latitude>
+  <Longitude>-75.435</Longitude>
+  <Elevation>2450</Elevation>
+  <Author>Eric DeFonso</Author>
+  <AuthorID>KTLCZCRCQX</AuthorID>
+  <Content>call</Content>
+  <Comments>call notes include the high whistle and the short buzzy note. location is downhill from the lodge cabins. some minor handling noise.</Comments>
+  <Quality>2</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Corvidae</Family>
+  <Genus>Cyanolyca</Genus>
+  <Species>armillata</Species>
+  <Sub-species />
+  <VernacularNames>Black-collared Jay</VernacularNames>
+</Audio>

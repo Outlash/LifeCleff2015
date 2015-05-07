@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>1837</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN1837.wav</FileName>
+  <ClassId>mbrhfx</ClassId>
+  <Date>2012-07-09</Date>
+  <Time>08:00</Time>
+  <Locality>Viçosa, Minas Gerais</Locality>
+  <Latitude>-20.8004</Latitude>
+  <Longitude>-42.8884</Longitude>
+  <Elevation>800</Elevation>
+  <Author>Noé Eiterer</Author>
+  <AuthorID>TWSKITNQOV</AuthorID>
+  <Content>song</Content>
+  <Comments>bird-seen:yesplayback-used:no</Comments>
+  <Quality>2</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies />
+  <Order>Columbiformes</Order>
+  <Family>Columbidae</Family>
+  <Genus>Leptotila</Genus>
+  <Species>rufaxilla</Species>
+  <Sub-species />
+  <VernacularNames>Grey-fronted Dove</VernacularNames>
+</Audio>

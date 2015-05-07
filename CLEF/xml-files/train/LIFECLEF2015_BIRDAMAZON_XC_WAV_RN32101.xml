@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>32101</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN32101.wav</FileName>
+  <ClassId>qtegfa</ClassId>
+  <Date>2006-11-23</Date>
+  <Time>15:39</Time>
+  <Locality>Iwokrama Forest</Locality>
+  <Latitude>4.2448</Latitude>
+  <Longitude>-58.9056</Longitude>
+  <Elevation>50</Elevation>
+  <Author>Nick Athanas</Author>
+  <AuthorID>XRABICUARW</AuthorID>
+  <Content>flight call</Content>
+  <Comments />
+  <Quality>3</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Apodiformes</Order>
+  <Family>Trochilidae</Family>
+  <Genus>Phaethornis</Genus>
+  <Species>superciliosus</Species>
+  <Sub-species>superciliosus</Sub-species>
+  <VernacularNames>Long-tailed Hermit</VernacularNames>
+</Audio>

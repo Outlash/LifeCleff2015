@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>2953</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN2953.wav</FileName>
+  <ClassId>uuvfxv</ClassId>
+  <Date>2011-05-17</Date>
+  <Time>10:00</Time>
+  <Locality>Panga Research Station, Minas Gerais</Locality>
+  <Latitude>-19.182381</Latitude>
+  <Longitude>-48.393574</Longitude>
+  <Elevation>700</Elevation>
+  <Author>Bob Planque</Author>
+  <AuthorID>OH38YHKJBS</AuthorID>
+  <Content>song</Content>
+  <Comments>Gallery forest. Not seen.</Comments>
+  <Quality>3</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Parulidae</Family>
+  <Genus>Myiothlypis</Genus>
+  <Species>flaveola</Species>
+  <Sub-species />
+  <VernacularNames>Flavescent Warbler</VernacularNames>
+</Audio>

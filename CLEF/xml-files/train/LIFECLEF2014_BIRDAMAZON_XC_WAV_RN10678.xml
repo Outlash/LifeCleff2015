@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>10678</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN10678.wav</FileName>
+  <ClassId>jeidcr</ClassId>
+  <Date>2006-09-23</Date>
+  <Time>16:20</Time>
+  <Locality>Praia do Gamela, Sirinhaém, Pernambuco</Locality>
+  <Latitude>-8.6114</Latitude>
+  <Longitude>-35.0392</Longitude>
+  <Elevation>0</Elevation>
+  <Author>Mauricio Cabral Periquito</Author>
+  <AuthorID>HERKCTHDZI</AuthorID>
+  <Content>call, song</Content>
+  <Comments />
+  <Quality>4</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies>Cyclarhis gujanensis</BackgroundSpecies>
+  <Order>Passeriformes</Order>
+  <Family>Thraupidae</Family>
+  <Genus>Thraupis</Genus>
+  <Species>palmarum</Species>
+  <Sub-species />
+  <VernacularNames>Palm Tanager</VernacularNames>
+</Audio>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>14266</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN14266.wav</FileName>
+  <ClassId>vfxhsh</ClassId>
+  <Date>2008-02-03</Date>
+  <Time>06:30</Time>
+  <Locality>Los Flamencos, Guajira</Locality>
+  <Latitude>11.671738</Latitude>
+  <Longitude>-72.747688</Longitude>
+  <Elevation>0</Elevation>
+  <Author>Herman van Oosten</Author>
+  <AuthorID>SNUDCZVUQK</AuthorID>
+  <Content>calls during foraging</Content>
+  <Comments>For the collection!</Comments>
+  <Quality>1</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies>Troglodytes aedon</BackgroundSpecies>
+  <Order>Apodiformes</Order>
+  <Family>Trochilidae</Family>
+  <Genus>Chlorostilbon</Genus>
+  <Species>gibsoni</Species>
+  <Sub-species />
+  <VernacularNames>Red-billed Emerald</VernacularNames>
+</Audio>

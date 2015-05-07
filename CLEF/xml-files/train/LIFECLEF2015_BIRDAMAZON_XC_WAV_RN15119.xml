@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>15119</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN15119.wav</FileName>
+  <ClassId>kuggpr</ClassId>
+  <Date>2013-12-09</Date>
+  <Time>09:30</Time>
+  <Locality>Estação Ecológica Mata Preta, Abelardo Luz, Santa Catarina</Locality>
+  <Latitude>-26.4895</Latitude>
+  <Longitude>-52.2009</Longitude>
+  <Elevation>950</Elevation>
+  <Author>Antonio de Almeida Correia Junior</Author>
+  <AuthorID>FUUWTBJYFV</AuthorID>
+  <Content>song</Content>
+  <Comments>bird-seen:noplayback-used:no</Comments>
+  <Quality>3</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Thamnophilidae</Family>
+  <Genus>Batara</Genus>
+  <Species>cinerea</Species>
+  <Sub-species />
+  <VernacularNames>Giant Antshrike</VernacularNames>
+</Audio>

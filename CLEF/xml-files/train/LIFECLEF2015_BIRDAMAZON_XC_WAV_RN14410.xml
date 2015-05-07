@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>14410</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN14410.wav</FileName>
+  <ClassId>moggkf</ClassId>
+  <Date>2013-12-21</Date>
+  <Time>05:00</Time>
+  <Locality>Várzea, Recife, Pernambuco</Locality>
+  <Latitude>-8.066</Latitude>
+  <Longitude>-34.9746</Longitude>
+  <Elevation>aprox. 40</Elevation>
+  <Author>Galileu Coelho</Author>
+  <AuthorID>PTZZNRBKGK</AuthorID>
+  <Content>male, song</Content>
+  <Comments>bird-seen:noplayback-used:no</Comments>
+  <Quality>2</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies>Hemitriccus griseipectus</BackgroundSpecies>
+  <Order>Passeriformes</Order>
+  <Family>Thamnophilidae</Family>
+  <Genus>Myrmotherula</Genus>
+  <Species>luctuosa</Species>
+  <Sub-species />
+  <VernacularNames>Silvery-flanked Antwren</VernacularNames>
+</Audio>

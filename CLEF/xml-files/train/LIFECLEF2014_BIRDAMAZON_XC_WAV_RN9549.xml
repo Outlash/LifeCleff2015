@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>9549</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN9549.wav</FileName>
+  <ClassId>klojgx</ClassId>
+  <Date>2006-03-16</Date>
+  <Time>10:25</Time>
+  <Locality>Pousada Caiman, Forest patch, Matto Grosso do Sul state</Locality>
+  <Latitude>-20.054</Latitude>
+  <Longitude>-56.436</Longitude>
+  <Elevation>190</Elevation>
+  <Author>Daniel Lane</Author>
+  <AuthorID>WOEAFQRMUD</AuthorID>
+  <Content>song</Content>
+  <Comments>Natural song from a bird about 1-4m up in dense understory of low-canopy semi-deciduous woodland with dense Guadua bamboo.</Comments>
+  <Quality>1</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Emberizidae</Family>
+  <Genus>Arremon</Genus>
+  <Species>flavirostris</Species>
+  <Sub-species />
+  <VernacularNames>Saffron-billed Sparrow</VernacularNames>
+</Audio>

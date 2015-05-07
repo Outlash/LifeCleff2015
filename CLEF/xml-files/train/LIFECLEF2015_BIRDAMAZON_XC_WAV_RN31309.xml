@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>31309</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN31309.wav</FileName>
+  <ClassId>rlqpij</ClassId>
+  <Date>2013-12-03</Date>
+  <Time>06:00</Time>
+  <Locality>Medellin, Antioquia</Locality>
+  <Latitude>6.2661</Latitude>
+  <Longitude>-75.5685</Longitude>
+  <Elevation>1500</Elevation>
+  <Author>Danny Zapata-Henao</Author>
+  <AuthorID>AHYWLCEJLP</AuthorID>
+  <Content>song</Content>
+  <Comments>This bird sings everymorning in a high tree near the classrooms from the Mathematics Institute. Comparing with the XC75366 the same singing can be heard.Thanks to Tayler Brooks for the help, providing the recording to compare with.bird-seen:noplayback-used:no</Comments>
+  <Quality>0</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Tyrannidae</Family>
+  <Genus>Myiodynastes</Genus>
+  <Species>maculatus</Species>
+  <Sub-species>difficilis</Sub-species>
+  <VernacularNames>Streaked Flycatcher</VernacularNames>
+</Audio>

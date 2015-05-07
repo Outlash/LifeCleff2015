@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>26274</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN26274.wav</FileName>
+  <ClassId>wvxyjw</ClassId>
+  <Date>2011-01-28</Date>
+  <Time>10:43</Time>
+  <Locality>RNA Arrierito Antioqueño, Anorí, Antioquia</Locality>
+  <Latitude>6.9862</Latitude>
+  <Longitude>-75.1251</Longitude>
+  <Elevation>1650</Elevation>
+  <Author>Eric DeFonso</Author>
+  <AuthorID>KTLCZCRCQX</AuthorID>
+  <Content>song</Content>
+  <Comments />
+  <Quality>2</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies>Leptotila verreauxi</BackgroundSpecies>
+  <Order>Passeriformes</Order>
+  <Family>Fringillidae</Family>
+  <Genus>Euphonia</Genus>
+  <Species>xanthogaster</Species>
+  <Sub-species />
+  <VernacularNames>Orange-bellied Euphonia</VernacularNames>
+</Audio>

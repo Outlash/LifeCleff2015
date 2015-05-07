@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>5411</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN5411.wav</FileName>
+  <ClassId>zrckxj</ClassId>
+  <Date>2002-06-05</Date>
+  <Time>7:50</Time>
+  <Locality>Fazenda Santa Teresa, Rio Pixiam, MT</Locality>
+  <Latitude>-16.7501</Latitude>
+  <Longitude>-56.8667</Longitude>
+  <Elevation>?</Elevation>
+  <Author>Paul Donahue</Author>
+  <AuthorID>LLRXADGTBA</AuthorID>
+  <Content>song</Content>
+  <Comments />
+  <Quality>2</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies>Taraba major</BackgroundSpecies>
+  <Order>Passeriformes</Order>
+  <Family>Furnariidae</Family>
+  <Genus>Cranioleuca</Genus>
+  <Species>vulpina</Species>
+  <Sub-species />
+  <VernacularNames>Rusty-backed Spinetail</VernacularNames>
+</Audio>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>31883</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN31883.wav</FileName>
+  <ClassId>nurzze</ClassId>
+  <Date>2006-01-07</Date>
+  <Time>6:25</Time>
+  <Locality>Otanche, Boyacá, Otanche, La Ye, Serranía de las Quinchas</Locality>
+  <Latitude>5.8167</Latitude>
+  <Longitude>-74.3001</Longitude>
+  <Elevation>1450</Elevation>
+  <Author>Oscar Laverde</Author>
+  <AuthorID>WKVKSVMNDZ</AuthorID>
+  <Content>song</Content>
+  <Comments />
+  <Quality>4</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies>Pachyramphus cinnamomeus,Piprites chloris</BackgroundSpecies>
+  <Order>Columbiformes</Order>
+  <Family>Columbidae</Family>
+  <Genus>Patagioenas</Genus>
+  <Species>plumbea</Species>
+  <Sub-species />
+  <VernacularNames>Plumbeous Pigeon</VernacularNames>
+</Audio>

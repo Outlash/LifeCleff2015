@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>7135</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN7135.wav</FileName>
+  <ClassId>cyghvw</ClassId>
+  <Date>2010-00-00</Date>
+  <Time>15h00</Time>
+  <Locality>Garuva, SC</Locality>
+  <Latitude>NULL</Latitude>
+  <Longitude>NULL</Longitude>
+  <Elevation>100</Elevation>
+  <Author>Marcelo Villegas</Author>
+  <AuthorID>YWTZVKKHKP</AuthorID>
+  <Content>Call</Content>
+  <Comments />
+  <Quality>3</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies />
+  <Order>Falconiformes</Order>
+  <Family>Falconidae</Family>
+  <Genus>Micrastur</Genus>
+  <Species>semitorquatus</Species>
+  <Sub-species />
+  <VernacularNames>Collared Forest Falcon</VernacularNames>
+</Audio>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>16753</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN16753.wav</FileName>
+  <ClassId>cvyifz</ClassId>
+  <Date>2014-08-07</Date>
+  <Time>15:00</Time>
+  <Locality>Campeche, Florianópolis, Santa Catarina state</Locality>
+  <Latitude>-27.6393</Latitude>
+  <Longitude>-48.497</Longitude>
+  <Elevation>300</Elevation>
+  <Author>João Gava Just</Author>
+  <AuthorID>CEKMJEZKSJ</AuthorID>
+  <Content>call, female, male</Content>
+  <Comments>bird-seen:yesplayback-used:no</Comments>
+  <Quality>2</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies>Basileuterus culicivorus</BackgroundSpecies>
+  <Order>Passeriformes</Order>
+  <Family>Cardinalidae</Family>
+  <Genus>Habia</Genus>
+  <Species>rubica</Species>
+  <Sub-species />
+  <VernacularNames>Red-crowned Ant Tanager</VernacularNames>
+</Audio>

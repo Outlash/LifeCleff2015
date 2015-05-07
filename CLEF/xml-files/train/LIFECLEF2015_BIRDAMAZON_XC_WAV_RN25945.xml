@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>25945</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN25945.wav</FileName>
+  <ClassId>myyugr</ClassId>
+  <Date>2005-07-26</Date>
+  <Time>08:00</Time>
+  <Locality>Cabo de la Vela (Guajira)</Locality>
+  <Latitude>12.251</Latitude>
+  <Longitude>-71.967</Longitude>
+  <Elevation>50</Elevation>
+  <Author>Oswaldo Cortes</Author>
+  <AuthorID>VVDRVZCVWW</AuthorID>
+  <Content>song</Content>
+  <Comments />
+  <Quality>3</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Tyrannidae</Family>
+  <Genus>Machetornis</Genus>
+  <Species>rixosa</Species>
+  <Sub-species />
+  <VernacularNames>Cattle Tyrant</VernacularNames>
+</Audio>

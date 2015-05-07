@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>12590</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN12590.wav</FileName>
+  <ClassId>mztxid</ClassId>
+  <Date>2009-09-06</Date>
+  <Time>06:10</Time>
+  <Locality>Goiânia, Goiás.</Locality>
+  <Latitude>-16.691448</Latitude>
+  <Longitude>-49.266815</Longitude>
+  <Elevation>610</Elevation>
+  <Author>Nunes D´Acosta</Author>
+  <AuthorID>OHHTDSDNBT</AuthorID>
+  <Content>song</Content>
+  <Comments>Campus II UFG - Escola de Veterinária.</Comments>
+  <Quality>0</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies>Saltator maximus</BackgroundSpecies>
+  <Order>Passeriformes</Order>
+  <Family>Thraupidae</Family>
+  <Genus>Thraupis</Genus>
+  <Species>sayaca</Species>
+  <Sub-species />
+  <VernacularNames>Sayaca Tanager</VernacularNames>
+</Audio>

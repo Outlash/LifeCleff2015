@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>249</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN249.wav</FileName>
+  <ClassId>pjuaxh</ClassId>
+  <Date>2001-09-10</Date>
+  <Time>10:14</Time>
+  <Locality>Perequê - Angra dos Reis - RJ</Locality>
+  <Latitude>-23.012</Latitude>
+  <Longitude>-44.5351</Longitude>
+  <Elevation>50</Elevation>
+  <Author>Jeremy Minns</Author>
+  <AuthorID>DGVLLRYDXS</AuthorID>
+  <Content>call, song</Content>
+  <Comments>Overgrown banana plantation near humid forest. Female plumaged bird in a tree 12 m above ground. Other birds vocalizing nearby.</Comments>
+  <Quality>2</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies>Myrmeciza squamosa</BackgroundSpecies>
+  <Order>Trogoniformes</Order>
+  <Family>Trogonidae</Family>
+  <Genus>Trogon</Genus>
+  <Species>viridis</Species>
+  <Sub-species>viridis</Sub-species>
+  <VernacularNames>Green-backed Trogon</VernacularNames>
+</Audio>

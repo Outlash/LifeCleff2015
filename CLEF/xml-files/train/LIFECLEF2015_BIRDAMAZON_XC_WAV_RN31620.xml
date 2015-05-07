@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>31620</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN31620.wav</FileName>
+  <ClassId>glsklv</ClassId>
+  <Date>2008-08-05</Date>
+  <Time>07:00</Time>
+  <Locality>Serra dos Carajás, PA</Locality>
+  <Latitude>-6.1603</Latitude>
+  <Longitude>-50.3459</Longitude>
+  <Elevation>100</Elevation>
+  <Author>Sidnei Dantas</Author>
+  <AuthorID>NNCKQMBGPH</AuthorID>
+  <Content>song</Content>
+  <Comments>land forest</Comments>
+  <Quality>3</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies>Pyriglena leuconota,Saltator grossus,Cyanocompsa cyanoides,Micrastur ruficollis,Crypturellus strigulosus,Campephilus rubricollis</BackgroundSpecies>
+  <Order>Passeriformes</Order>
+  <Family>Tyrannidae</Family>
+  <Genus>Platyrinchus</Genus>
+  <Species>saturatus</Species>
+  <Sub-species />
+  <VernacularNames>Cinnamon-crested Spadebill</VernacularNames>
+</Audio>

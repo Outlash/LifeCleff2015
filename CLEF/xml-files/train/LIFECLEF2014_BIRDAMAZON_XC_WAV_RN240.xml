@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>240</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN240.wav</FileName>
+  <ClassId>xunfjj</ClassId>
+  <Date>2006-11-10</Date>
+  <Time>07:24</Time>
+  <Locality>near Arroio Santa Bárbara - Pelotas, Rio Grande do Sul</Locality>
+  <Latitude>-31.6939</Latitude>
+  <Longitude>-52.3937</Longitude>
+  <Elevation>0</Elevation>
+  <Author>Fernando Jacobs</Author>
+  <AuthorID>MHHPJBCUXC</AuthorID>
+  <Content>song</Content>
+  <Comments />
+  <Quality>2</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Turdidae</Family>
+  <Genus>Turdus</Genus>
+  <Species>rufiventris</Species>
+  <Sub-species />
+  <VernacularNames>Rufous-bellied Thrush</VernacularNames>
+</Audio>

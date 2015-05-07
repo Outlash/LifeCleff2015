@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>32742</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN32742.wav</FileName>
+  <ClassId>ayfewp</ClassId>
+  <Date>2005-07-00</Date>
+  <Time>07:00</Time>
+  <Locality>La Luchata, above Galan, Serrania de los Yariguies, Santander</Locality>
+  <Latitude>6.6292</Latitude>
+  <Longitude>-73.3151</Longitude>
+  <Elevation>2000</Elevation>
+  <Author>Thomas Donegan</Author>
+  <AuthorID>OXSIOLJJUP</AuthorID>
+  <Content>?</Content>
+  <Comments>Formerly Mystery 966.  Discussed on Forum (1250).</Comments>
+  <Quality>3</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies>Grallaria hypoleuca,Myioborus miniatus</BackgroundSpecies>
+  <Order>Passeriformes</Order>
+  <Family>Emberizidae</Family>
+  <Genus>Arremon</Genus>
+  <Species>brunneinucha</Species>
+  <Sub-species />
+  <VernacularNames>Chestnut-capped Brush Finch</VernacularNames>
+</Audio>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>102</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN102.wav</FileName>
+  <ClassId>perzmu</ClassId>
+  <Date>2013-01-14</Date>
+  <Time>15:30</Time>
+  <Locality>Serra de Baturité, Ceará</Locality>
+  <Latitude>-4.2334</Latitude>
+  <Longitude>-38.9167</Longitude>
+  <Elevation>800</Elevation>
+  <Author>Dan Lane</Author>
+  <AuthorID>WOEAFQRMUD</AuthorID>
+  <Content>song</Content>
+  <Comments>Natural vocalizations from bird perched about 25m up in tall tree in landslide gap amid humid montane forest.bird-seen:yesplayback-used:no</Comments>
+  <Quality>1</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies>Turdus leucomelas,Euphonia violacea,Thraupis palmarum</BackgroundSpecies>
+  <Order>Passeriformes</Order>
+  <Family>Coerebidae</Family>
+  <Genus>Coereba</Genus>
+  <Species>flaveola</Species>
+  <Sub-species />
+  <VernacularNames>Bananaquit</VernacularNames>
+</Audio>

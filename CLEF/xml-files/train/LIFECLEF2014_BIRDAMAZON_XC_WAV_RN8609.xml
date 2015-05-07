@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>8609</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN8609.wav</FileName>
+  <ClassId>pazlce</ClassId>
+  <Date>2008-05-05</Date>
+  <Time>09:19</Time>
+  <Locality>Antiga Pousada do Gugu, ESEC Terra do Meio, Altamira/PA</Locality>
+  <Latitude>-5.6795</Latitude>
+  <Longitude>-54.2462</Longitude>
+  <Elevation>186</Elevation>
+  <Author>Fernando Fávaro</Author>
+  <AuthorID>QTNGUZTTQM</AuthorID>
+  <Content>song</Content>
+  <Comments />
+  <Quality>3</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Tyrannidae</Family>
+  <Genus>Lophotriccus</Genus>
+  <Species>galeatus</Species>
+  <Sub-species />
+  <VernacularNames>Helmeted Pygmy Tyrant</VernacularNames>
+</Audio>

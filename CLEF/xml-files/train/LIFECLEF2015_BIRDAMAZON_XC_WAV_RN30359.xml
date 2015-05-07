@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>30359</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN30359.wav</FileName>
+  <ClassId>gamqjv</ClassId>
+  <Date>1998-07-16</Date>
+  <Time>13:11</Time>
+  <Locality>Finca La Selva (Quebrada San Jose), sobre Toche, Cajamarca, Tolima</Locality>
+  <Latitude>NULL</Latitude>
+  <Longitude>NULL</Longitude>
+  <Elevation>2600</Elevation>
+  <Author>Bernabe Lopez-Lanus</Author>
+  <AuthorID>BYLLSJRVDZ</AuthorID>
+  <Content>Song</Content>
+  <Comments />
+  <Quality>3</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Fringillidae</Family>
+  <Genus>Chlorophonia</Genus>
+  <Species>pyrrhophrys</Species>
+  <Sub-species />
+  <VernacularNames>Chestnut-breasted Chlorophonia</VernacularNames>
+</Audio>

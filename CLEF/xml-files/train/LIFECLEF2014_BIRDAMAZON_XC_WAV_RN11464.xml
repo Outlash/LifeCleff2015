@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>11464</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN11464.wav</FileName>
+  <ClassId>ccxate</ClassId>
+  <Date>2004-02-20</Date>
+  <Time>xx:xx</Time>
+  <Locality>Camino hacia Agulhas Negras (bosque de Araucarias)_PN Itatiaia_Rio de Janeiro</Locality>
+  <Latitude>NULL</Latitude>
+  <Longitude>NULL</Longitude>
+  <Elevation>2100</Elevation>
+  <Author>Bernabe Lopez-Lanus</Author>
+  <AuthorID>BYLLSJRVDZ</AuthorID>
+  <Content>Song</Content>
+  <Comments />
+  <Quality>2</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Furnariidae</Family>
+  <Genus>Leptasthenura</Genus>
+  <Species>setaria</Species>
+  <Sub-species />
+  <VernacularNames>Araucaria Tit-Spinetail</VernacularNames>
+</Audio>

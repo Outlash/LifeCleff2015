@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>17374</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN17374.wav</FileName>
+  <ClassId>jnqggx</ClassId>
+  <Date>2009-01-04</Date>
+  <Time>?:?</Time>
+  <Locality>Mana, Acarouany river</Locality>
+  <Latitude>NULL</Latitude>
+  <Longitude>NULL</Longitude>
+  <Elevation>5</Elevation>
+  <Author>Alexandre Renaudier</Author>
+  <AuthorID>GKADEITXTH</AuthorID>
+  <Content>song</Content>
+  <Comments>natural recording</Comments>
+  <Quality>1</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Furnariidae</Family>
+  <Genus>Glyphorynchus</Genus>
+  <Species>spirurus</Species>
+  <Sub-species>spirurus</Sub-species>
+  <VernacularNames>Wedge-billed Woodcreeper</VernacularNames>
+</Audio>

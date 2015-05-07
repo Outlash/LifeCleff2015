@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>30525</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN30525.wav</FileName>
+  <ClassId>yegkua</ClassId>
+  <Date>2010-01-05</Date>
+  <Time>06:30</Time>
+  <Locality>San Pedro Frio, Serrania de San Lucas</Locality>
+  <Latitude>8.1562</Latitude>
+  <Longitude>-74.2825</Longitude>
+  <Elevation>1650</Elevation>
+  <Author>Thomas Donegan</Author>
+  <AuthorID>OXSIOLJJUP</AuthorID>
+  <Content>Song</Content>
+  <Comments>Pair in scrub along a stream ravine in disturbed habitat.  Liquid song is of this species.  Extract from previouslu uploaded track of Chestnut-capped Brush-Finch.</Comments>
+  <Quality>2</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies>Arremon brunneinucha</BackgroundSpecies>
+  <Order>Passeriformes</Order>
+  <Family>Troglodytidae</Family>
+  <Genus>Pheugopedius</Genus>
+  <Species>spadix</Species>
+  <Sub-species />
+  <VernacularNames>Sooty-headed Wren</VernacularNames>
+</Audio>

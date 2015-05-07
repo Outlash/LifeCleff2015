@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>6826</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN6826.wav</FileName>
+  <ClassId>bpyrxb</ClassId>
+  <Date>2003-04-12</Date>
+  <Time>06:05</Time>
+  <Locality>Pousada Thaimaçu. Rio São Benedito</Locality>
+  <Latitude>-9.0501</Latitude>
+  <Longitude>-56.5834</Longitude>
+  <Elevation>250</Elevation>
+  <Author>Jeremy Minns</Author>
+  <AuthorID>DGVLLRYDXS</AuthorID>
+  <Content>Call and song.</Content>
+  <Comments>Single bird in secondary scrub.</Comments>
+  <Quality>1</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Tyrannidae</Family>
+  <Genus>Myiornis</Genus>
+  <Species>ecaudatus</Species>
+  <Sub-species>ecaudatus</Sub-species>
+  <VernacularNames>Short-tailed Pygmy Tyrant</VernacularNames>
+</Audio>

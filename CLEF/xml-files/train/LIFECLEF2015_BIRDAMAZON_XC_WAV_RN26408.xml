@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>26408</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN26408.wav</FileName>
+  <ClassId>wkjlrj</ClassId>
+  <Date>2010-02-25</Date>
+  <Time>11.:19</Time>
+  <Locality>Plantage de Vier Hendrikken</Locality>
+  <Latitude>5.7159</Latitude>
+  <Longitude>-55.352</Longitude>
+  <Elevation>10</Elevation>
+  <Author>Marc de Bont</Author>
+  <AuthorID>TTBGFAELVD</AuthorID>
+  <Content>call</Content>
+  <Comments />
+  <Quality>4</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Pipridae</Family>
+  <Genus>Manacus</Genus>
+  <Species>manacus</Species>
+  <Sub-species />
+  <VernacularNames>White-bearded Manakin</VernacularNames>
+</Audio>

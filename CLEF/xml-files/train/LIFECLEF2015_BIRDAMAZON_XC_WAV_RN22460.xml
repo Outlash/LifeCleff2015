@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>22460</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN22460.wav</FileName>
+  <ClassId>edqvwi</ClassId>
+  <Date>2009-12-04</Date>
+  <Time>09:00</Time>
+  <Locality>SW of Santo Domingo, Merida State</Locality>
+  <Latitude>8.8259</Latitude>
+  <Longitude>-70.7567</Longitude>
+  <Elevation>2800</Elevation>
+  <Author>Joe Klaiber</Author>
+  <AuthorID>TNPOVFLZMY</AuthorID>
+  <Content>call</Content>
+  <Comments>bird-seen:yesplayback-used:no</Comments>
+  <Quality>2</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Thraupidae</Family>
+  <Genus>Hemispingus</Genus>
+  <Species>superciliaris</Species>
+  <Sub-species />
+  <VernacularNames>Superciliaried Hemispingus</VernacularNames>
+</Audio>

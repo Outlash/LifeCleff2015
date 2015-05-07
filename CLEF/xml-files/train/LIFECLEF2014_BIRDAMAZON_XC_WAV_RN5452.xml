@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>5452</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN5452.wav</FileName>
+  <ClassId>kunsua</ClassId>
+  <Date>2001-03-17</Date>
+  <Time>06:10</Time>
+  <Locality>Itatiaia National Park - Agulhas Negras road</Locality>
+  <Latitude>-22.3667</Latitude>
+  <Longitude>-44.7334</Longitude>
+  <Elevation>1800</Elevation>
+  <Author>Jeremy Minns</Author>
+  <AuthorID>DGVLLRYDXS</AuthorID>
+  <Content>Song</Content>
+  <Comments>High altitude montane forest. This is Song B in our DVD-ROM 'Birds of Brazil'.</Comments>
+  <Quality>1</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies>Dysithamnus xanthopterus,Hylophilus poicilotis</BackgroundSpecies>
+  <Order>Passeriformes</Order>
+  <Family>Furnariidae</Family>
+  <Genus>Sclerurus</Genus>
+  <Species>scansor</Species>
+  <Sub-species>scansor</Sub-species>
+  <VernacularNames>Rufous-breasted Leaftosser</VernacularNames>
+</Audio>

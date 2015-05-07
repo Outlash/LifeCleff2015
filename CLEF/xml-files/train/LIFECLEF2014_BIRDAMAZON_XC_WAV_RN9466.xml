@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>9466</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN9466.wav</FileName>
+  <ClassId>skwawg</ClassId>
+  <Date>2012-04-15</Date>
+  <Time>8:01</Time>
+  <Locality>Riacho do Olho Dagua Mago-Pão de Açúcar-Alagoas-Brasil</Locality>
+  <Latitude>-9.732</Latitude>
+  <Longitude>-37.435</Longitude>
+  <Elevation>200</Elevation>
+  <Author>pedroteia</Author>
+  <AuthorID>BZVNDWLRSQ</AuthorID>
+  <Content>song</Content>
+  <Comments>cantava a uns 5 metros de mim</Comments>
+  <Quality>2</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Thraupidae</Family>
+  <Genus>Nemosia</Genus>
+  <Species>pileata</Species>
+  <Sub-species />
+  <VernacularNames>Hooded Tanager</VernacularNames>
+</Audio>

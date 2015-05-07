@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>22154</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN22154.wav</FileName>
+  <ClassId>sogsbs</ClassId>
+  <Date>2014-04-13</Date>
+  <Time>08:00</Time>
+  <Locality>Rio Santa Catalina , Delta Amacuro</Locality>
+  <Latitude>8.6322</Latitude>
+  <Longitude>-61.9684</Longitude>
+  <Elevation>10</Elevation>
+  <Author>Thore Noernberg</Author>
+  <AuthorID>TTSQGWDDGW</AuthorID>
+  <Content>call</Content>
+  <Comments>bird calling from a small stream connected to Rio Santa Catalina in the gallery forest - camera clicking after the call bird-seen:yesplayback-used:no</Comments>
+  <Quality>1</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Accipitriformes</Order>
+  <Family>Accipitridae</Family>
+  <Genus>Busarellus</Genus>
+  <Species>nigricollis</Species>
+  <Sub-species />
+  <VernacularNames>Black-collared Hawk</VernacularNames>
+</Audio>

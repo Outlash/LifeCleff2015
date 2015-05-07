@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>31887</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN31887.wav</FileName>
+  <ClassId>sijyjc</ClassId>
+  <Date>2014-01-13</Date>
+  <Time>17:00</Time>
+  <Locality>Nova Veneza, Santa Catarina, Brazil</Locality>
+  <Latitude>-28.638</Latitude>
+  <Longitude>-49.498</Longitude>
+  <Elevation>120</Elevation>
+  <Author>João Gava</Author>
+  <AuthorID>CEKMJEZKSJ</AuthorID>
+  <Content>call, female, male</Content>
+  <Comments>bird-seen:yesplayback-used:no</Comments>
+  <Quality>2</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Anseriformes</Order>
+  <Family>Anhimidae</Family>
+  <Genus>Chauna</Genus>
+  <Species>torquata</Species>
+  <Sub-species />
+  <VernacularNames>Southern Screamer</VernacularNames>
+</Audio>

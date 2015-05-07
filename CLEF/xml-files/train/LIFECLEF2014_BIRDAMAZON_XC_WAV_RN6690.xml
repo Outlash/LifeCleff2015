@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>6690</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN6690.wav</FileName>
+  <ClassId>pogkwe</ClassId>
+  <Date>2007-08-11</Date>
+  <Time>13:15</Time>
+  <Locality>Cerrito Alegre - Pelotas, Rio Grande do Sul</Locality>
+  <Latitude>-31.54667</Latitude>
+  <Longitude>-52.35833</Longitude>
+  <Elevation>100</Elevation>
+  <Author>Fernando Jacobs</Author>
+  <AuthorID>MHHPJBCUXC</AuthorID>
+  <Content>call</Content>
+  <Comments />
+  <Quality>1</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies />
+  <Order>Piciformes</Order>
+  <Family>Picidae</Family>
+  <Genus>Veniliornis</Genus>
+  <Species>spilogaster</Species>
+  <Sub-species />
+  <VernacularNames>White-spotted Woodpecker</VernacularNames>
+</Audio>

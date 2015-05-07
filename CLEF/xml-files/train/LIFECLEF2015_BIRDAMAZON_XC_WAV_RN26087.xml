@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>26087</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN26087.wav</FileName>
+  <ClassId>ehpgkp</ClassId>
+  <Date>2006-11-00</Date>
+  <Time>?:?</Time>
+  <Locality>Palmichal, Carabobo</Locality>
+  <Latitude>5.616</Latitude>
+  <Longitude>-65.742</Longitude>
+  <Elevation>1000</Elevation>
+  <Author>David Edwards</Author>
+  <AuthorID>AFEHYCAHZR</AuthorID>
+  <Content>song</Content>
+  <Comments />
+  <Quality>1</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Formicariidae</Family>
+  <Genus>Formicarius</Genus>
+  <Species>analis</Species>
+  <Sub-species>saturatus</Sub-species>
+  <VernacularNames>Black-faced Antthrush</VernacularNames>
+</Audio>

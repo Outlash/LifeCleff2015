@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>26432</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN26432.wav</FileName>
+  <ClassId>ovipyl</ClassId>
+  <Date>2004-08-10</Date>
+  <Time>07:50</Time>
+  <Locality>Páramo de Frontino</Locality>
+  <Latitude>6.4334</Latitude>
+  <Longitude>-76.0834</Longitude>
+  <Elevation>3500</Elevation>
+  <Author>Niels Krabbe</Author>
+  <AuthorID>XTVEPHMPPJ</AuthorID>
+  <Content>call</Content>
+  <Comments>Seen well. Tape ref. A 353</Comments>
+  <Quality>1</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Grallariidae</Family>
+  <Genus>Grallaria</Genus>
+  <Species>rufula</Species>
+  <Sub-species>rufula</Sub-species>
+  <VernacularNames>Rufous Antpitta</VernacularNames>
+</Audio>

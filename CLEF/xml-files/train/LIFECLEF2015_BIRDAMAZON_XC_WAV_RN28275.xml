@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>28275</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN28275.wav</FileName>
+  <ClassId>oamyzj</ClassId>
+  <Date>2002-07-22</Date>
+  <Time>17:08</Time>
+  <Locality>Boa Nova, BA - dry forest</Locality>
+  <Latitude>-14.3834</Latitude>
+  <Longitude>-40.2001</Longitude>
+  <Elevation>740</Elevation>
+  <Author>Jeremy Minns</Author>
+  <AuthorID>DGVLLRYDXS</AuthorID>
+  <Content>Song</Content>
+  <Comments>After playback.</Comments>
+  <Quality>1</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Thamnophilidae</Family>
+  <Genus>Rhopornis</Genus>
+  <Species>ardesiacus</Species>
+  <Sub-species />
+  <VernacularNames>Slender Antbird</VernacularNames>
+</Audio>

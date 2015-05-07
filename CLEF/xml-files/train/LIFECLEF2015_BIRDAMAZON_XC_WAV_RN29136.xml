@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>29136</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN29136.wav</FileName>
+  <ClassId>rlbfhk</ClassId>
+  <Date>2013-11-15</Date>
+  <Time>10:30</Time>
+  <Locality>Reserva Biológica do Aguaí, Nova Veneza, Santa Catarina, Santa Catarina</Locality>
+  <Latitude>-28.6494</Latitude>
+  <Longitude>-49.6695</Longitude>
+  <Elevation>320</Elevation>
+  <Author>João Gava</Author>
+  <AuthorID>CEKMJEZKSJ</AuthorID>
+  <Content>drumming, song</Content>
+  <Comments>Distance to mic. 15 m. Submontane forest.bird-seen:yesplayback-used:no</Comments>
+  <Quality>1</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies>Vireo olivaceus</BackgroundSpecies>
+  <Order>Piciformes</Order>
+  <Family>Picidae</Family>
+  <Genus>Piculus</Genus>
+  <Species>aurulentus</Species>
+  <Sub-species />
+  <VernacularNames>Yellow-browed Woodpecker</VernacularNames>
+</Audio>

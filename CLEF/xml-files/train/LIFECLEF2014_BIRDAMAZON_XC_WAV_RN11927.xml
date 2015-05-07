@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>11927</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN11927.wav</FileName>
+  <ClassId>rlqpij</ClassId>
+  <Date>2012-10-15</Date>
+  <Time>05:20</Time>
+  <Locality>Porto Jofre, Mato Grosso</Locality>
+  <Latitude>-17.3624</Latitude>
+  <Longitude>-56.776</Longitude>
+  <Elevation>110</Elevation>
+  <Author>Andrew Spencer</Author>
+  <AuthorID>CDTGHVBGZP</AuthorID>
+  <Content>dawn song</Content>
+  <Comments>dawn song from a bird perched high up in a large tree on the hotel grounds.  Lots of noise from other birds and from human habitation.bird-seen:yesplayback-used:no</Comments>
+  <Quality>1</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Tyrannidae</Family>
+  <Genus>Myiodynastes</Genus>
+  <Species>maculatus</Species>
+  <Sub-species>solitarius</Sub-species>
+  <VernacularNames>Streaked Flycatcher</VernacularNames>
+</Audio>

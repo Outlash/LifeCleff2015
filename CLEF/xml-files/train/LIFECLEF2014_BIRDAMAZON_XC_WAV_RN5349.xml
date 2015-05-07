@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>5349</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN5349.wav</FileName>
+  <ClassId>iutawf</ClassId>
+  <Date>2002-02-05</Date>
+  <Time>07:24</Time>
+  <Locality>Guaraí, Tocantins</Locality>
+  <Latitude>-8.7834</Latitude>
+  <Longitude>-48.4001</Longitude>
+  <Elevation>260</Elevation>
+  <Author>Jeremy Minns</Author>
+  <AuthorID>DGVLLRYDXS</AuthorID>
+  <Content>Song</Content>
+  <Comments>Cerrado.</Comments>
+  <Quality>1</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies>Columbina squammata,Cyclarhis gujanensis</BackgroundSpecies>
+  <Order>Passeriformes</Order>
+  <Family>Thamnophilidae</Family>
+  <Genus>Formicivora</Genus>
+  <Species>rufa</Species>
+  <Sub-species>rufa</Sub-species>
+  <VernacularNames>Rusty-backed Antwren</VernacularNames>
+</Audio>

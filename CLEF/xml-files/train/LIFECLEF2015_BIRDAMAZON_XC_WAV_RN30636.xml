@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>30636</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN30636.wav</FileName>
+  <ClassId>aziqpv</ClassId>
+  <Date>2013-12-21</Date>
+  <Time>16:00</Time>
+  <Locality>Estrada boiadeira, Tuneiras do Oeste.</Locality>
+  <Latitude>-23.9165</Latitude>
+  <Longitude>-52.7425</Longitude>
+  <Elevation>500</Elevation>
+  <Author>Luiz C.  Silva</Author>
+  <AuthorID>ORPKXJRFDZ</AuthorID>
+  <Content>call, song</Content>
+  <Comments />
+  <Quality>0</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies>Emberizoides herbicola,Volatinia jacarina,Rhynchotus rufescens</BackgroundSpecies>
+  <Order>Passeriformes</Order>
+  <Family>Thraupidae</Family>
+  <Genus>Sicalis</Genus>
+  <Species>luteola</Species>
+  <Sub-species>luteiventris</Sub-species>
+  <VernacularNames>Grassland Yellow Finch</VernacularNames>
+</Audio>

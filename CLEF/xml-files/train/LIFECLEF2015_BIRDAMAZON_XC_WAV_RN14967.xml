@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>14967</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN14967.wav</FileName>
+  <ClassId>bogxos</ClassId>
+  <Date>2010-06-12</Date>
+  <Time>06:58</Time>
+  <Locality>Guatemala - Kourou</Locality>
+  <Latitude>NULL</Latitude>
+  <Longitude>NULL</Longitude>
+  <Elevation>0</Elevation>
+  <Author>Patrick INGREMEAU</Author>
+  <AuthorID>IIVTYSKEYX</AuthorID>
+  <Content>call</Content>
+  <Comments />
+  <Quality>1</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies>Pitangus sulphuratus</BackgroundSpecies>
+  <Order>Passeriformes</Order>
+  <Family>Tyrannidae</Family>
+  <Genus>Megarynchus</Genus>
+  <Species>pitangua</Species>
+  <Sub-species />
+  <VernacularNames>Boat-billed Flycatcher</VernacularNames>
+</Audio>

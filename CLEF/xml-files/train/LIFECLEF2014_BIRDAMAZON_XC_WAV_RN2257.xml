@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>2257</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN2257.wav</FileName>
+  <ClassId>ljczsu</ClassId>
+  <Date>2012-05-20</Date>
+  <Time>morning</Time>
+  <Locality>Parque Florestal Quedas do Rio Bonito</Locality>
+  <Latitude>-21.3337609298317</Latitude>
+  <Longitude>-44.9794006347656</Longitude>
+  <Elevation>1.077</Elevation>
+  <Author>Kassius K. Santos</Author>
+  <AuthorID>LDUBEBHXQK</AuthorID>
+  <Content>song</Content>
+  <Comments />
+  <Quality>2</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Thraupidae</Family>
+  <Genus>Trichothraupis</Genus>
+  <Species>melanops</Species>
+  <Sub-species />
+  <VernacularNames>Black-goggled Tanager</VernacularNames>
+</Audio>

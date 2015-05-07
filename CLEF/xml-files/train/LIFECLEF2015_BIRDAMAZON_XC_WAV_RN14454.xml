@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>14454</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN14454.wav</FileName>
+  <ClassId>oiorva</ClassId>
+  <Date>2009-01-00</Date>
+  <Time>xx:xx</Time>
+  <Locality>RNA El Dorado, Sierra de Santa Marta, Magdalena</Locality>
+  <Latitude>11.1009</Latitude>
+  <Longitude>-74.072</Longitude>
+  <Elevation>1800</Elevation>
+  <Author>Thomas Donegan</Author>
+  <AuthorID>OXSIOLJJUP</AuthorID>
+  <Content>?</Content>
+  <Comments />
+  <Quality>2</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies>Catharus fuscater</BackgroundSpecies>
+  <Order>Passeriformes</Order>
+  <Family>Parulidae</Family>
+  <Genus>Myioborus</Genus>
+  <Species>miniatus</Species>
+  <Sub-species />
+  <VernacularNames>Slate-throated Whitestart</VernacularNames>
+</Audio>

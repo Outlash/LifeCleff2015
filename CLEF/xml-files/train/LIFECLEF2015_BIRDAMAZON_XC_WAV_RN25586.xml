@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>25586</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN25586.wav</FileName>
+  <ClassId>cpdfzn</ClassId>
+  <Date>2008-01-02</Date>
+  <Time>07:45</Time>
+  <Locality>Reserva de aves para Amazilia castaneiventris, Thryothorus nicefori y</Locality>
+  <Latitude>NULL</Latitude>
+  <Longitude>NULL</Longitude>
+  <Elevation>2003</Elevation>
+  <Author>Oswaldo Cortes, Alejandro Hernandez, Ximena Villagran</Author>
+  <AuthorID>VVDRVZCVWW</AuthorID>
+  <Content>song</Content>
+  <Comments />
+  <Quality>4</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Troglodytidae</Family>
+  <Genus>Thryophilus</Genus>
+  <Species>nicefori</Species>
+  <Sub-species />
+  <VernacularNames>Niceforo's Wren</VernacularNames>
+</Audio>

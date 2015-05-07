@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>2726</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN2726.wav</FileName>
+  <ClassId>nozplb</ClassId>
+  <Date>2002-12-31</Date>
+  <Time>05:30</Time>
+  <Locality>Cunha. Sítio Paraitinga</Locality>
+  <Latitude>-23.0501</Latitude>
+  <Longitude>-45.1167</Longitude>
+  <Elevation>780</Elevation>
+  <Author>Jeremy Minns</Author>
+  <AuthorID>DGVLLRYDXS</AuthorID>
+  <Content>call, song</Content>
+  <Comments>Pasture and river bank, near farm buildings. A second bird singing in the background.</Comments>
+  <Quality>1</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies>Synallaxis spixi,Tyrannus melancholicus,Gnorimopsar chopi</BackgroundSpecies>
+  <Order>Passeriformes</Order>
+  <Family>Thraupidae</Family>
+  <Genus>Sporophila</Genus>
+  <Species>lineola</Species>
+  <Sub-species />
+  <VernacularNames>Lined Seedeater</VernacularNames>
+</Audio>

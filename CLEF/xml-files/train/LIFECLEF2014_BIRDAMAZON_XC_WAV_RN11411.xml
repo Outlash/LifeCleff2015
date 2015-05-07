@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>11411</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN11411.wav</FileName>
+  <ClassId>lssubf</ClassId>
+  <Date>2006-09-12</Date>
+  <Time>13:00</Time>
+  <Locality>Reserva Ecológica de Guapiaçu, RJ</Locality>
+  <Latitude>-22.5001</Latitude>
+  <Longitude>-42.7167</Longitude>
+  <Elevation>?</Elevation>
+  <Author>Leonardo Pimentel</Author>
+  <AuthorID>JHBOHGJALL</AuthorID>
+  <Content>Song</Content>
+  <Comments />
+  <Quality>2</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies>Merulaxis ater,Saltator fuliginosus,Arremon semitorquatus</BackgroundSpecies>
+  <Order>Passeriformes</Order>
+  <Family>Thamnophilidae</Family>
+  <Genus>Drymophila</Genus>
+  <Species>ferruginea</Species>
+  <Sub-species />
+  <VernacularNames>Ferruginous Antbird</VernacularNames>
+</Audio>

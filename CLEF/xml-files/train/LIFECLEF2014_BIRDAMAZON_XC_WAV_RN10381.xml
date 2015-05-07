@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>10381</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN10381.wav</FileName>
+  <ClassId>ekarsb</ClassId>
+  <Date>2011-09-11</Date>
+  <Time>09:00</Time>
+  <Locality>Parauapebas, Para</Locality>
+  <Latitude>-6.1242</Latitude>
+  <Longitude>-50.4382</Longitude>
+  <Elevation>650</Elevation>
+  <Author>GABRIEL LEITE</Author>
+  <AuthorID>TGBFXDVERJ</AuthorID>
+  <Content>call, male</Content>
+  <Comments>bird-seen:yesplayback-used:no</Comments>
+  <Quality>3</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies>Ibycter americanus</BackgroundSpecies>
+  <Order>Passeriformes</Order>
+  <Family>Thamnophilidae</Family>
+  <Genus>Myrmoborus</Genus>
+  <Species>myotherinus</Species>
+  <Sub-species />
+  <VernacularNames>Black-faced Antbird</VernacularNames>
+</Audio>

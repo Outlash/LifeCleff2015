@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>9521</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN9521.wav</FileName>
+  <ClassId>mryser</ClassId>
+  <Date>2008-08-23</Date>
+  <Time>09:02</Time>
+  <Locality>Reserva Biológica do Mato Grande - Arroio Grande, Rio Grande do Sul</Locality>
+  <Latitude>-32.1503</Latitude>
+  <Longitude>-52.7364</Longitude>
+  <Elevation>0</Elevation>
+  <Author>Fernando Jacobs</Author>
+  <AuthorID>MHHPJBCUXC</AuthorID>
+  <Content>duet, song</Content>
+  <Comments />
+  <Quality>0</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies />
+  <Order>Gruiformes</Order>
+  <Family>Rallidae</Family>
+  <Genus>Gallinula</Genus>
+  <Species>galeata</Species>
+  <Sub-species />
+  <VernacularNames>Common Gallinule</VernacularNames>
+</Audio>

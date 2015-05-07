@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>20140</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN20140.wav</FileName>
+  <ClassId>mxonho</ClassId>
+  <Date>2008-08-26</Date>
+  <Time>19:00</Time>
+  <Locality>Reserva Ecológica de Guapiaçu, RJ</Locality>
+  <Latitude>-22.5001</Latitude>
+  <Longitude>-42.7167</Longitude>
+  <Elevation>30</Elevation>
+  <Author>Ricardo Gagliardi</Author>
+  <AuthorID>YRDADNREOP</AuthorID>
+  <Content>flock cal</Content>
+  <Comments>meeting before sleep</Comments>
+  <Quality>3</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Pelecaniformes</Order>
+  <Family>Ardeidae</Family>
+  <Genus>Bubulcus</Genus>
+  <Species>ibis</Species>
+  <Sub-species />
+  <VernacularNames>Western Cattle Egret</VernacularNames>
+</Audio>

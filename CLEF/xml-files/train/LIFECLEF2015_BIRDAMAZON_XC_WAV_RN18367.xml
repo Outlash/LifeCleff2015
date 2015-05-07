@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>18367</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN18367.wav</FileName>
+  <ClassId>pprfie</ClassId>
+  <Date>2000-03-18</Date>
+  <Time>10:26</Time>
+  <Locality>Laguna de Pedro Palo, Tena, Cundinamarca</Locality>
+  <Latitude>NULL</Latitude>
+  <Longitude>NULL</Longitude>
+  <Elevation>2100</Elevation>
+  <Author>Bernabe Lopez-Lanus</Author>
+  <AuthorID>BYLLSJRVDZ</AuthorID>
+  <Content>Song</Content>
+  <Comments />
+  <Quality>3</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Vireonidae</Family>
+  <Genus>Cyclarhis</Genus>
+  <Species>gujanensis</Species>
+  <Sub-species />
+  <VernacularNames>Rufous-browed Peppershrike</VernacularNames>
+</Audio>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>7433</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN7433.wav</FileName>
+  <ClassId>etzhjw</ClassId>
+  <Date>2012-06-24</Date>
+  <Time>11:00</Time>
+  <Locality>Santo Antonio do Pinhal, São Paulo State</Locality>
+  <Latitude>-22.8893</Latitude>
+  <Longitude>-45.6861</Longitude>
+  <Elevation>1300</Elevation>
+  <Author>Rodrigo Dela Rosa de Souza</Author>
+  <AuthorID>VGXDJMKETZ</AuthorID>
+  <Content>song</Content>
+  <Comments>bird-seen:yesplayback-used:yes</Comments>
+  <Quality>3</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Tyrannidae</Family>
+  <Genus>Phyllomyias</Genus>
+  <Species>virescens</Species>
+  <Sub-species />
+  <VernacularNames>Greenish Tyrannulet</VernacularNames>
+</Audio>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>26080</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN26080.wav</FileName>
+  <ClassId>unqfdn</ClassId>
+  <Date>2005-07-00</Date>
+  <Time>xx:xx</Time>
+  <Locality>La Aurora, Galan, Yariguies, Santander</Locality>
+  <Latitude>6.6389</Latitude>
+  <Longitude>-73.3892</Longitude>
+  <Elevation>2700</Elevation>
+  <Author>Thomas Donegan</Author>
+  <AuthorID>OXSIOLJJUP</AuthorID>
+  <Content>Song</Content>
+  <Comments />
+  <Quality>4</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies>Myiothlypis coronata,Myioborus ornatus</BackgroundSpecies>
+  <Order>Passeriformes</Order>
+  <Family>Parulidae</Family>
+  <Genus>Basileuterus</Genus>
+  <Species>tristriatus</Species>
+  <Sub-species />
+  <VernacularNames>Three-striped Warbler</VernacularNames>
+</Audio>

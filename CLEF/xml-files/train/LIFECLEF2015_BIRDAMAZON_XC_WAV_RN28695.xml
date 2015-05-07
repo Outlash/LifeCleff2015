@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>28695</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN28695.wav</FileName>
+  <ClassId>xcmybb</ClassId>
+  <Date>2012-04-24</Date>
+  <Time>17:07</Time>
+  <Locality>SFF Otun-Quimbaya, Pereira, Risaralda, C Andes</Locality>
+  <Latitude>4.727</Latitude>
+  <Longitude>-75.577</Longitude>
+  <Elevation>1875</Elevation>
+  <Author>Jeremy Minns</Author>
+  <AuthorID>DGVLLRYDXS</AuthorID>
+  <Content>Song</Content>
+  <Comments>In grounds of lodge.</Comments>
+  <Quality>1</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Columbiformes</Order>
+  <Family>Columbidae</Family>
+  <Genus>Patagioenas</Genus>
+  <Species>cayennensis</Species>
+  <Sub-species>pallidicrissa</Sub-species>
+  <VernacularNames>Pale-vented Pigeon</VernacularNames>
+</Audio>

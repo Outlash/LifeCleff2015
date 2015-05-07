@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>4826</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN4826.wav</FileName>
+  <ClassId>xzyogt</ClassId>
+  <Date>2006-08-25</Date>
+  <Time>13:00</Time>
+  <Locality>Quebrangulo, Alagoas</Locality>
+  <Latitude>-9.31889</Latitude>
+  <Longitude>-36.47111</Longitude>
+  <Elevation>375</Elevation>
+  <Author>Richard C. Hoyer</Author>
+  <AuthorID>SRRRBQPENI</AuthorID>
+  <Content>song</Content>
+  <Comments />
+  <Quality>2</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Furnariidae</Family>
+  <Genus>Furnarius</Genus>
+  <Species>figulus</Species>
+  <Sub-species />
+  <VernacularNames>Band-tailed Hornero</VernacularNames>
+</Audio>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>7957</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN7957.wav</FileName>
+  <ClassId>gncrmz</ClassId>
+  <Date>2004-02-03</Date>
+  <Time>?:?</Time>
+  <Locality>Bahia, Fazenda (Aruana), near Una</Locality>
+  <Latitude>-15.2</Latitude>
+  <Longitude>-39.3</Longitude>
+  <Elevation>?</Elevation>
+  <Author>Frank Lambert</Author>
+  <AuthorID>YTUXOCTUEM</AuthorID>
+  <Content>song</Content>
+  <Comments>Previously published on AVoCet as &lt;a href=http://avocet.zoology.msu.edu/recordings/8033&gt;AV8033&lt;/a&gt;.  Certainty: 100%.  ID determined by: seen. GPS: estimate from Google Earth.</Comments>
+  <Quality>3</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Thamnophilidae</Family>
+  <Genus>Pyriglena</Genus>
+  <Species>leucoptera</Species>
+  <Sub-species />
+  <VernacularNames>White-shouldered Fire-eye</VernacularNames>
+</Audio>

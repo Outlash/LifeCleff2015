@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>13617</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN13617.wav</FileName>
+  <ClassId>uvfjyo</ClassId>
+  <Date>2009-12-18</Date>
+  <Time>06:47</Time>
+  <Locality>Inhotim, Brumadinho, Minas Gerais State</Locality>
+  <Latitude>-20.123894</Latitude>
+  <Longitude>-44.219091</Longitude>
+  <Elevation>800</Elevation>
+  <Author>Helberth Cardoso</Author>
+  <AuthorID>XIRUVWSNEN</AuthorID>
+  <Content>Call</Content>
+  <Comments />
+  <Quality>1</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Thraupidae</Family>
+  <Genus>Hemithraupis</Genus>
+  <Species>ruficapilla</Species>
+  <Sub-species />
+  <VernacularNames>Rufous-headed Tanager</VernacularNames>
+</Audio>

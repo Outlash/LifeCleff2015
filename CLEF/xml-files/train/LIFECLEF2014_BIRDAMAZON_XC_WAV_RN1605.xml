@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>1605</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN1605.wav</FileName>
+  <ClassId>eupamv</ClassId>
+  <Date>2009-04-21</Date>
+  <Time>07:30</Time>
+  <Locality>Tocantins</Locality>
+  <Latitude>-6.0832</Latitude>
+  <Longitude>-48.186</Longitude>
+  <Elevation>150</Elevation>
+  <Author>GABRIEL LEITE</Author>
+  <AuthorID>TGBFXDVERJ</AuthorID>
+  <Content>call</Content>
+  <Comments>bird-seen:yesplayback-used:no</Comments>
+  <Quality>4</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Fringillidae</Family>
+  <Genus>Euphonia</Genus>
+  <Species>violacea</Species>
+  <Sub-species />
+  <VernacularNames>Violaceous Euphonia</VernacularNames>
+</Audio>

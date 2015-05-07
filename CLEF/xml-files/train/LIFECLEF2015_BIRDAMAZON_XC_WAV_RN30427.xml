@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>30427</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN30427.wav</FileName>
+  <ClassId>oxhigs</ClassId>
+  <Date>2011-03-01</Date>
+  <Time>12-00</Time>
+  <Locality>La Soledad Tunnel, 20 km NW Barinitas, Barinas</Locality>
+  <Latitude>8.8526</Latitude>
+  <Longitude>-70.5806</Longitude>
+  <Elevation>1700</Elevation>
+  <Author>Albert Lastukhin</Author>
+  <AuthorID>LELYWQKUZX</AuthorID>
+  <Content>call, song (A)</Content>
+  <Comments />
+  <Quality>2</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Cuculiformes</Order>
+  <Family>Cuculidae</Family>
+  <Genus>Crotophaga</Genus>
+  <Species>ani</Species>
+  <Sub-species />
+  <VernacularNames>Smooth-billed Ani</VernacularNames>
+</Audio>

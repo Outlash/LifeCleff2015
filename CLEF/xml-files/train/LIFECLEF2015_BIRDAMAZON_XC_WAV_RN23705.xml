@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>23705</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN23705.wav</FileName>
+  <ClassId>qiltib</ClassId>
+  <Date>2002-10-03</Date>
+  <Time>06:30</Time>
+  <Locality>Rio Jauaperi, Amazonas</Locality>
+  <Latitude>-1.4126</Latitude>
+  <Longitude>-61.5798</Longitude>
+  <Elevation>20</Elevation>
+  <Author>Jeremy Minns</Author>
+  <AuthorID>DGVLLRYDXS</AuthorID>
+  <Content>Song</Content>
+  <Comments>Low, flooded vegetation beside river. Song by pair in midstory, after playback.</Comments>
+  <Quality>1</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Thamnophilidae</Family>
+  <Genus>Myrmotherula</Genus>
+  <Species>cherriei</Species>
+  <Sub-species />
+  <VernacularNames>Cherrie's Antwren</VernacularNames>
+</Audio>

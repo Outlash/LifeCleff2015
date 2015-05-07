@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>10187</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN10187.wav</FileName>
+  <ClassId>omrceb</ClassId>
+  <Date>2002-08-14</Date>
+  <Time>06:48</Time>
+  <Locality>Intervales State Park. Mirante</Locality>
+  <Latitude>-24.2667</Latitude>
+  <Longitude>-48.4001</Longitude>
+  <Elevation>900</Elevation>
+  <Author>Jeremy Minns</Author>
+  <AuthorID>DGVLLRYDXS</AuthorID>
+  <Content>Song</Content>
+  <Comments>Trail to the Mirante. Secondary montane forest with bamboo</Comments>
+  <Quality>1</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies>Trogon rufus,Synallaxis ruficapilla,Haplospiza unicolor,Sporophila frontalis</BackgroundSpecies>
+  <Order>Passeriformes</Order>
+  <Family>Furnariidae</Family>
+  <Genus>Anabazenops</Genus>
+  <Species>fuscus</Species>
+  <Sub-species />
+  <VernacularNames>White-collared Foliage-gleaner</VernacularNames>
+</Audio>

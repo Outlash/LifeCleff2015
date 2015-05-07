@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>19183</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN19183.wav</FileName>
+  <ClassId>iwohai</ClassId>
+  <Date>2003-07-16</Date>
+  <Time>15:23</Time>
+  <Locality>Serra da Capivara National Park, state of Piauí</Locality>
+  <Latitude>-8.863</Latitude>
+  <Longitude>-42.627</Longitude>
+  <Elevation>450</Elevation>
+  <Author>Jeremy Minns</Author>
+  <AuthorID>DGVLLRYDXS</AuthorID>
+  <Content>flight call</Content>
+  <Comments>Baix‹o do Perna. Semi-deciduous forest in narrow valley formed by rocky cliffs.</Comments>
+  <Quality>2</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Apodiformes</Order>
+  <Family>Trochilidae</Family>
+  <Genus>Eupetomena</Genus>
+  <Species>macroura</Species>
+  <Sub-species>simoni</Sub-species>
+  <VernacularNames>Swallow-tailed Hummingbird</VernacularNames>
+</Audio>

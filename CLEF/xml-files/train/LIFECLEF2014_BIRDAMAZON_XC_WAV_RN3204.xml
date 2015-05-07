@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>3204</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN3204.wav</FileName>
+  <ClassId>bskumd</ClassId>
+  <Date>2013-07-28</Date>
+  <Time>09:00</Time>
+  <Locality>Sao Jose dos Campos, state of Sao Paulo</Locality>
+  <Latitude>-23.0401</Latitude>
+  <Longitude>-46.0328</Longitude>
+  <Elevation>700</Elevation>
+  <Author>Rodrigo Dela Rosa</Author>
+  <AuthorID>VGXDJMKETZ</AuthorID>
+  <Content>song</Content>
+  <Comments>bird-seen:yesplayback-used:yes</Comments>
+  <Quality>2</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies>Chamaeza meruloides,Cyclarhis gujanensis,Trogon surrucura,Basileuterus culicivorus,Drymophila ferruginea,Biatas nigropectus</BackgroundSpecies>
+  <Order>Passeriformes</Order>
+  <Family>Thamnophilidae</Family>
+  <Genus>Hypoedaleus</Genus>
+  <Species>guttatus</Species>
+  <Sub-species />
+  <VernacularNames>Spot-backed Antshrike</VernacularNames>
+</Audio>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>31688</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN31688.wav</FileName>
+  <ClassId>wxviiz</ClassId>
+  <Date>2012-12-17</Date>
+  <Time>18:00</Time>
+  <Locality>Trairi, Trairi, Ceara</Locality>
+  <Latitude>-3.3303</Latitude>
+  <Longitude>-39.2616</Longitude>
+  <Elevation>70</Elevation>
+  <Author>Caio Brito</Author>
+  <AuthorID>YWWWUBVAJF</AuthorID>
+  <Content>alarm call</Content>
+  <Comments>Lowcut at 500Hz and normalized. Bad recording, just for the account.bird-seen:noplayback-used:no</Comments>
+  <Quality>3</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Strigiformes</Order>
+  <Family>Strigidae</Family>
+  <Genus>Athene</Genus>
+  <Species>cunicularia</Species>
+  <Sub-species />
+  <VernacularNames>Burrowing Owl</VernacularNames>
+</Audio>

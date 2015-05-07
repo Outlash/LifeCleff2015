@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>23791</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN23791.wav</FileName>
+  <ClassId>wvihlf</ClassId>
+  <Date>2013-03-19</Date>
+  <Time>?</Time>
+  <Locality>RNA Arrierito Anioqueño</Locality>
+  <Latitude>6.9851</Latitude>
+  <Longitude>-75.1116</Longitude>
+  <Elevation>1600</Elevation>
+  <Author>Hans Matheve</Author>
+  <AuthorID>VROUALCTKG</AuthorID>
+  <Content>song</Content>
+  <Comments>bird-seen:yes</Comments>
+  <Quality>3</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Rhinocryptidae</Family>
+  <Genus>Scytalopus</Genus>
+  <Species>stilesi</Species>
+  <Sub-species />
+  <VernacularNames>Stiles's Tapaculo</VernacularNames>
+</Audio>

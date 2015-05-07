@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>23943</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN23943.wav</FileName>
+  <ClassId>jbufjj</ClassId>
+  <Date>2011-12-13</Date>
+  <Time>11:12</Time>
+  <Locality>Campo Belo do Sul - Santa Catarina State</Locality>
+  <Latitude>-27.9159</Latitude>
+  <Longitude>-50.757</Longitude>
+  <Elevation>1017</Elevation>
+  <Author>Cid Espínola</Author>
+  <AuthorID>IRBNRXBEVU</AuthorID>
+  <Content>call</Content>
+  <Comments />
+  <Quality>1</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Thraupidae</Family>
+  <Genus>Tersina</Genus>
+  <Species>viridis</Species>
+  <Sub-species />
+  <VernacularNames>Swallow Tanager</VernacularNames>
+</Audio>

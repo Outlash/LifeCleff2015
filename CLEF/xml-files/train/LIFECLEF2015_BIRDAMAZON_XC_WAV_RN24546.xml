@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>24546</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN24546.wav</FileName>
+  <ClassId>bcbkld</ClassId>
+  <Date>2008-01-23</Date>
+  <Time>07:40</Time>
+  <Locality>San Isidro quarry, Barinas</Locality>
+  <Latitude>8.8323</Latitude>
+  <Longitude>-70.5801</Longitude>
+  <Elevation>1500</Elevation>
+  <Author>Daniel Lane</Author>
+  <AuthorID>WOEAFQRMUD</AuthorID>
+  <Content>song</Content>
+  <Comments>Response to playback from single bird perched in canopy of tree below trail, 15m up.</Comments>
+  <Quality>1</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies>Pyrrhomyias cinnamomeus,Catharus dryas</BackgroundSpecies>
+  <Order>Passeriformes</Order>
+  <Family>Furnariidae</Family>
+  <Genus>Xenops</Genus>
+  <Species>rutilans</Species>
+  <Sub-species />
+  <VernacularNames>Streaked Xenops</VernacularNames>
+</Audio>

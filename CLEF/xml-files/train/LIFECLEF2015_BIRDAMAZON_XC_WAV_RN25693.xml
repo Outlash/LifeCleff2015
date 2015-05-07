@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>25693</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN25693.wav</FileName>
+  <ClassId>afzbzd</ClassId>
+  <Date>2012-12-02</Date>
+  <Time>15:30</Time>
+  <Locality>Nova Veneza, Santa Catarina, Santa Catarina</Locality>
+  <Latitude>-28.6307</Latitude>
+  <Longitude>-49.5072</Longitude>
+  <Elevation>80</Elevation>
+  <Author>João Gava</Author>
+  <AuthorID>CEKMJEZKSJ</AuthorID>
+  <Content>song</Content>
+  <Comments>bird-seen:noplayback-used:no</Comments>
+  <Quality>3</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Cuculiformes</Order>
+  <Family>Cuculidae</Family>
+  <Genus>Tapera</Genus>
+  <Species>naevia</Species>
+  <Sub-species />
+  <VernacularNames>Striped Cuckoo</VernacularNames>
+</Audio>

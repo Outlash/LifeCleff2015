@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>8299</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN8299.wav</FileName>
+  <ClassId>nknnjw</ClassId>
+  <Date>2005-09-08</Date>
+  <Time>09:23</Time>
+  <Locality>Estância Santa Maria - Jaguarão, Rio Grande do Sul</Locality>
+  <Latitude>-32.4509</Latitude>
+  <Longitude>-56.0587</Longitude>
+  <Elevation>25</Elevation>
+  <Author>Fernando Jacobs</Author>
+  <AuthorID>MHHPJBCUXC</AuthorID>
+  <Content>call, song</Content>
+  <Comments />
+  <Quality>1</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies>Furnarius rufus</BackgroundSpecies>
+  <Order>Passeriformes</Order>
+  <Family>Parulidae</Family>
+  <Genus>Myiothlypis</Genus>
+  <Species>leucoblephara</Species>
+  <Sub-species />
+  <VernacularNames>White-rimmed Warbler</VernacularNames>
+</Audio>

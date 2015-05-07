@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>1797</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN1797.wav</FileName>
+  <ClassId>nahjxx</ClassId>
+  <Date>2009-01-20</Date>
+  <Time>10:10</Time>
+  <Locality>Reserva Capitão, Itacaré, Bahia</Locality>
+  <Latitude>NULL</Latitude>
+  <Longitude>NULL</Longitude>
+  <Elevation>?</Elevation>
+  <Author>Leonardo Patrial</Author>
+  <AuthorID>MESPQGTVVV</AuthorID>
+  <Content>Song</Content>
+  <Comments />
+  <Quality>1</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Thamnophilidae</Family>
+  <Genus>Thamnophilus</Genus>
+  <Species>palliatus</Species>
+  <Sub-species />
+  <VernacularNames>Chestnut-backed Antshrike</VernacularNames>
+</Audio>

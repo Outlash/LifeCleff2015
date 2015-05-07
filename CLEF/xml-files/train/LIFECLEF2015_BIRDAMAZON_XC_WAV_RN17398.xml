@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>17398</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN17398.wav</FileName>
+  <ClassId>bgaifs</ClassId>
+  <Date>2011-08-20</Date>
+  <Time>8:20</Time>
+  <Locality>Cristalino Jungle Lodge, MT</Locality>
+  <Latitude>-9.5981</Latitude>
+  <Longitude>-55.932</Longitude>
+  <Elevation>200</Elevation>
+  <Author>Tayler Brooks</Author>
+  <AuthorID>ARFGONJCBJ</AuthorID>
+  <Content>song</Content>
+  <Comments>Natural vocalization.</Comments>
+  <Quality>2</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Furnariidae</Family>
+  <Genus>Deconychura</Genus>
+  <Species>stictolaema</Species>
+  <Sub-species>stictolaema</Sub-species>
+  <VernacularNames>Spot-throated Woodcreeper</VernacularNames>
+</Audio>

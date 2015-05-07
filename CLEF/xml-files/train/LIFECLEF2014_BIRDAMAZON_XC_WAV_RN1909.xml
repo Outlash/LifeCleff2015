@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>1909</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN1909.wav</FileName>
+  <ClassId>umxbnz</ClassId>
+  <Date>1994-08-20</Date>
+  <Time>6:30</Time>
+  <Locality>Águas Lindas ,GO</Locality>
+  <Latitude>NULL</Latitude>
+  <Longitude>NULL</Longitude>
+  <Elevation>860</Elevation>
+  <Author>Valter José   Silveira</Author>
+  <AuthorID>OHHTDSDNBT</AuthorID>
+  <Content>call</Content>
+  <Comments>Near Highway  that crossing  Aguas  Lindas, GO</Comments>
+  <Quality>2</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies />
+  <Order>Tinamiformes</Order>
+  <Family>Tinamidae</Family>
+  <Genus>Taoniscus</Genus>
+  <Species>nanus</Species>
+  <Sub-species />
+  <VernacularNames>Dwarf Tinamou</VernacularNames>
+</Audio>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>15998</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN15998.wav</FileName>
+  <ClassId>oskqfx</ClassId>
+  <Date>2014-07-19</Date>
+  <Time>11:00</Time>
+  <Locality>Presidente Figueiredo, AM. Iracema Falls Hotel</Locality>
+  <Latitude>-1.9834</Latitude>
+  <Longitude>-60.0501</Longitude>
+  <Elevation>140</Elevation>
+  <Author>Rodrigo Dela Rosa</Author>
+  <AuthorID>VGXDJMKETZ</AuthorID>
+  <Content>female, male, song</Content>
+  <Comments>bird-seen:yesplayback-used:no</Comments>
+  <Quality>2</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Thamnophilidae</Family>
+  <Genus>Gymnopithys</Genus>
+  <Species>rufigula</Species>
+  <Sub-species />
+  <VernacularNames>Rufous-throated Antbird</VernacularNames>
+</Audio>

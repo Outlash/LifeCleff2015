@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>5711</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN5711.wav</FileName>
+  <ClassId>mztxid</ClassId>
+  <Date>2003-09-14</Date>
+  <Time>07:13</Time>
+  <Locality>Tiradentes, MG</Locality>
+  <Latitude>-21.1167</Latitude>
+  <Longitude>-44.1501</Longitude>
+  <Elevation>900</Elevation>
+  <Author>Jeremy Minns</Author>
+  <AuthorID>DGVLLRYDXS</AuthorID>
+  <Content>call, song</Content>
+  <Comments>Garden of Pousada Estalagem.</Comments>
+  <Quality>1</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies>Turdus amaurochalinus</BackgroundSpecies>
+  <Order>Passeriformes</Order>
+  <Family>Thraupidae</Family>
+  <Genus>Thraupis</Genus>
+  <Species>sayaca</Species>
+  <Sub-species>sayaca</Sub-species>
+  <VernacularNames>Sayaca Tanager</VernacularNames>
+</Audio>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>14800</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN14800.wav</FileName>
+  <ClassId>uyjoqf</ClassId>
+  <Date>2008-10-10</Date>
+  <Time>09:30</Time>
+  <Locality>Bairro do Jaceguava, São Paulo, SP</Locality>
+  <Latitude>-23.752501</Latitude>
+  <Longitude>-46.735334</Longitude>
+  <Elevation>745</Elevation>
+  <Author>Marcos Melo</Author>
+  <AuthorID>MRGDYNJGUJ</AuthorID>
+  <Content>call</Content>
+  <Comments>11individuals flying</Comments>
+  <Quality>1</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies>Amazonetta brasiliensis</BackgroundSpecies>
+  <Order>Charadriiformes</Order>
+  <Family>Recurvirostridae</Family>
+  <Genus>Himantopus</Genus>
+  <Species>melanurus</Species>
+  <Sub-species>melanurus</Sub-species>
+  <VernacularNames>White-backed Stilt</VernacularNames>
+</Audio>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>4123</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN4123.wav</FileName>
+  <ClassId>obpowj</ClassId>
+  <Date>1996-09-30</Date>
+  <Time>09:15</Time>
+  <Locality>Boraceia Biological Station, SP state</Locality>
+  <Latitude>-23.6334</Latitude>
+  <Longitude>-45.8667</Longitude>
+  <Elevation>825</Elevation>
+  <Author>Jeremy Minns</Author>
+  <AuthorID>DGVLLRYDXS</AuthorID>
+  <Content>Variant of normal song</Content>
+  <Comments>Montane forest.</Comments>
+  <Quality>1</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Tityridae</Family>
+  <Genus>Schiffornis</Genus>
+  <Species>virescens</Species>
+  <Sub-species />
+  <VernacularNames>Greenish Schiffornis</VernacularNames>
+</Audio>

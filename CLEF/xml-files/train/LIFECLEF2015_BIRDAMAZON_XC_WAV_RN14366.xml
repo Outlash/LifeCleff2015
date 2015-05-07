@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>14366</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN14366.wav</FileName>
+  <ClassId>fkjcci</ClassId>
+  <Date>2014-02-27</Date>
+  <Time>19:32</Time>
+  <Locality>Serra da Piedade, Caeté, Minas Gerais</Locality>
+  <Latitude>-19.8136</Latitude>
+  <Longitude>-43.6539</Longitude>
+  <Elevation>1300</Elevation>
+  <Author>Luiz Gabriel Mazzoni</Author>
+  <AuthorID>MPOKMOFDDX</AuthorID>
+  <Content>song</Content>
+  <Comments>Montane Semideciduous Forest.bird-seen:yesplayback-used:yes</Comments>
+  <Quality>2</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Strigiformes</Order>
+  <Family>Strigidae</Family>
+  <Genus>Strix</Genus>
+  <Species>virgata</Species>
+  <Sub-species />
+  <VernacularNames>Mottled Owl</VernacularNames>
+</Audio>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>8392</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN8392.wav</FileName>
+  <ClassId>twhfvm</ClassId>
+  <Date>2003-03-23</Date>
+  <Time>10:47</Time>
+  <Locality>Vila Bela da Santíssima Trindade</Locality>
+  <Latitude>-14.9834</Latitude>
+  <Longitude>-59.9834</Longitude>
+  <Elevation>225</Elevation>
+  <Author>Jeremy Minns</Author>
+  <AuthorID>DGVLLRYDXS</AuthorID>
+  <Content>Song</Content>
+  <Comments>Road from Pontes e Lacerda at km 60. Degraded cerrado.</Comments>
+  <Quality>2</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies>Cariama cristata</BackgroundSpecies>
+  <Order>Passeriformes</Order>
+  <Family>Thraupidae</Family>
+  <Genus>Emberizoides</Genus>
+  <Species>herbicola</Species>
+  <Sub-species>herbicola</Sub-species>
+  <VernacularNames>Wedge-tailed Grass Finch</VernacularNames>
+</Audio>

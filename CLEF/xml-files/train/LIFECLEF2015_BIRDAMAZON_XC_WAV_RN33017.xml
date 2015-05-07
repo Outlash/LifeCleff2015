@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>33017</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN33017.wav</FileName>
+  <ClassId>armfvy</ClassId>
+  <Date>2008-10-10</Date>
+  <Time>07:30</Time>
+  <Locality>Cumaribo, Vichada</Locality>
+  <Latitude>5.1304</Latitude>
+  <Longitude>-68.3063</Longitude>
+  <Elevation>110</Elevation>
+  <Author>Oswaldo Cortes</Author>
+  <AuthorID>VVDRVZCVWW</AuthorID>
+  <Content>song</Content>
+  <Comments>bird-seen:yes</Comments>
+  <Quality>0</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Tyrannidae</Family>
+  <Genus>Camptostoma</Genus>
+  <Species>obsoletum</Species>
+  <Sub-species />
+  <VernacularNames>Southern Beardless Tyrannulet</VernacularNames>
+</Audio>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>6502</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN6502.wav</FileName>
+  <ClassId>ktgebu</ClassId>
+  <Date>2010-02-15</Date>
+  <Time>14:00</Time>
+  <Locality>São José dos Campos-São Paulo</Locality>
+  <Latitude>NULL</Latitude>
+  <Longitude>NULL</Longitude>
+  <Elevation>1.000</Elevation>
+  <Author>Rodrigo Dela Rosa</Author>
+  <AuthorID>VGXDJMKETZ</AuthorID>
+  <Content>Song</Content>
+  <Comments />
+  <Quality>2</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies>Thamnophilus caerulescens</BackgroundSpecies>
+  <Order>Passeriformes</Order>
+  <Family>Formicariidae</Family>
+  <Genus>Chamaeza</Genus>
+  <Species>ruficauda</Species>
+  <Sub-species />
+  <VernacularNames>Rufous-tailed Antthrush</VernacularNames>
+</Audio>

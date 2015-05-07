@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>12527</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN12527.wav</FileName>
+  <ClassId>zrckxj</ClassId>
+  <Date>2013-02-04</Date>
+  <Time>16:44</Time>
+  <Locality>left bank of Rio Uraricuera, just east of BR-174, Roraima</Locality>
+  <Latitude>3.473</Latitude>
+  <Longitude>-60.8972</Longitude>
+  <Elevation>80</Elevation>
+  <Author>Jon King</Author>
+  <AuthorID>LNEEOOWCQR</AuthorID>
+  <Content>call</Content>
+  <Comments>Distance to mic. 7m. Natural call given while foraging at 2m in dry seasonally flooded dense, thorny gallery forest. Some wind and distant boat noise.bird-seen:yesplayback-used:no</Comments>
+  <Quality>2</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Furnariidae</Family>
+  <Genus>Cranioleuca</Genus>
+  <Species>vulpina</Species>
+  <Sub-species />
+  <VernacularNames>Rusty-backed Spinetail</VernacularNames>
+</Audio>

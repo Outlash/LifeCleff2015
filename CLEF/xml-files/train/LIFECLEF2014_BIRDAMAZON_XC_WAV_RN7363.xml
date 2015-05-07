@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>7363</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN7363.wav</FileName>
+  <ClassId>uytsig</ClassId>
+  <Date>2001-04-18</Date>
+  <Time>07:19</Time>
+  <Locality>Casca d'Anta, Parque Nacional da Serra da Canastra, SW Minas Gerais</Locality>
+  <Latitude>-20.2503</Latitude>
+  <Longitude>-46.3667</Longitude>
+  <Elevation>900</Elevation>
+  <Author>Jeremy Minns</Author>
+  <AuthorID>DGVLLRYDXS</AuthorID>
+  <Content>call</Content>
+  <Comments>Casca d'Anta. Picnic area in semi-deciduous gallery forest. Three different calls (A, B and D in our DVD-ROM 'Birds of Brazil') by a bird in a tree, 12 m above ground.</Comments>
+  <Quality>1</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Turdidae</Family>
+  <Genus>Turdus</Genus>
+  <Species>leucomelas</Species>
+  <Sub-species>leucomelas</Sub-species>
+  <VernacularNames>Pale-breasted Thrush</VernacularNames>
+</Audio>

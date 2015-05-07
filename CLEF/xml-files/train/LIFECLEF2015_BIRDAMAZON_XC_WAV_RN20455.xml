@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>20455</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN20455.wav</FileName>
+  <ClassId>vdoulx</ClassId>
+  <Date>2012-11-26</Date>
+  <Time>05:30</Time>
+  <Locality>Municipio de Orocué, departamento de Casanare</Locality>
+  <Latitude>4.782</Latitude>
+  <Longitude>-71.774</Longitude>
+  <Elevation>150</Elevation>
+  <Author>Oswaldo Cortes</Author>
+  <AuthorID>VVDRVZCVWW</AuthorID>
+  <Content>song</Content>
+  <Comments />
+  <Quality>0</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Icteridae</Family>
+  <Genus>Icterus</Genus>
+  <Species>nigrogularis</Species>
+  <Sub-species />
+  <VernacularNames>Yellow Oriole</VernacularNames>
+</Audio>

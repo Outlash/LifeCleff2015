@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>10945</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN10945.wav</FileName>
+  <ClassId>lgdqns</ClassId>
+  <Date>2002-01-25</Date>
+  <Time>06:51</Time>
+  <Locality>Rio Araguaia. Caseara</Locality>
+  <Latitude>-9.2667</Latitude>
+  <Longitude>-49.9334</Longitude>
+  <Elevation>170</Elevation>
+  <Author>Jeremy Minns</Author>
+  <AuthorID>DGVLLRYDXS</AuthorID>
+  <Content>call</Content>
+  <Comments>Flooded forest beside road to ferry. Pair.</Comments>
+  <Quality>2</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies>Cercomacra ferdinandi,Pheugopedius genibarbis</BackgroundSpecies>
+  <Order>Psittaciformes</Order>
+  <Family>Psittacidae</Family>
+  <Genus>Amazona</Genus>
+  <Species>amazonica</Species>
+  <Sub-species />
+  <VernacularNames>Orange-winged Amazon</VernacularNames>
+</Audio>

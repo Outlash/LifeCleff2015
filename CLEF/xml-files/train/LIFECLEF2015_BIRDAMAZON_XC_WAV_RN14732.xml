@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>14732</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN14732.wav</FileName>
+  <ClassId>ntdenx</ClassId>
+  <Date>2006-07-29</Date>
+  <Time>09:45</Time>
+  <Locality>Serra dos Caiabis, Alta Floresta - MT</Locality>
+  <Latitude>-10.7501</Latitude>
+  <Longitude>-56.7501</Longitude>
+  <Elevation>290</Elevation>
+  <Author>Bradley Davis</Author>
+  <AuthorID>YNXJLOESBB</AuthorID>
+  <Content>call</Content>
+  <Comments>in thick riparian growth</Comments>
+  <Quality>1</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Tyrannidae</Family>
+  <Genus>Hemitriccus</Genus>
+  <Species>striaticollis</Species>
+  <Sub-species />
+  <VernacularNames>Stripe-necked Tody-Tyrant</VernacularNames>
+</Audio>

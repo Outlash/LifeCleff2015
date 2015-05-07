@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>16132</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN16132.wav</FileName>
+  <ClassId>pcxdjf</ClassId>
+  <Date>2006-12-27</Date>
+  <Time>?</Time>
+  <Locality>Serra da Aratanha, Pacatuba, state of Ceará</Locality>
+  <Latitude>-3.9667</Latitude>
+  <Longitude>-38.6334</Longitude>
+  <Elevation>640</Elevation>
+  <Author>Ciro Albano</Author>
+  <AuthorID>MXVQPUKGWW</AuthorID>
+  <Content>song</Content>
+  <Comments />
+  <Quality>2</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Cotingidae</Family>
+  <Genus>Procnias</Genus>
+  <Species>averano</Species>
+  <Sub-species>averano</Sub-species>
+  <VernacularNames>Bearded Bellbird</VernacularNames>
+</Audio>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>5886</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN5886.wav</FileName>
+  <ClassId>perzmu</ClassId>
+  <Date>2001-11-04</Date>
+  <Time>06:59</Time>
+  <Locality>Camamu, Bahia</Locality>
+  <Latitude>-14.01</Latitude>
+  <Longitude>-39.1834</Longitude>
+  <Elevation>50</Elevation>
+  <Author>Jeremy Minns</Author>
+  <AuthorID>DGVLLRYDXS</AuthorID>
+  <Content>call</Content>
+  <Comments>Edge of humid forest, near Oroj—. Single bird at top of 25 m high tree.</Comments>
+  <Quality>2</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies>Procnias nudicollis</BackgroundSpecies>
+  <Order>Passeriformes</Order>
+  <Family>Coerebidae</Family>
+  <Genus>Coereba</Genus>
+  <Species>flaveola</Species>
+  <Sub-species>chloropyga</Sub-species>
+  <VernacularNames>Bananaquit</VernacularNames>
+</Audio>

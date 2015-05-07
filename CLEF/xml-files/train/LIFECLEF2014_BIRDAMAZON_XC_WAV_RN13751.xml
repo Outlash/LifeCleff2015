@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>13751</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN13751.wav</FileName>
+  <ClassId>xmknai</ClassId>
+  <Date>2010-07-23</Date>
+  <Time>06:30</Time>
+  <Locality>Estrada da Pedra do Bau - Campos do Jordão - SP</Locality>
+  <Latitude>-22.71</Latitude>
+  <Longitude>-45.592</Longitude>
+  <Elevation>1600</Elevation>
+  <Author>Marcos Melo</Author>
+  <AuthorID>MRGDYNJGUJ</AuthorID>
+  <Content>call</Content>
+  <Comments />
+  <Quality>2</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies>Syndactyla rufosuperciliata,Chamaeza ruficauda,Poospiza lateralis</BackgroundSpecies>
+  <Order>Passeriformes</Order>
+  <Family>Furnariidae</Family>
+  <Genus>Xiphocolaptes</Genus>
+  <Species>albicollis</Species>
+  <Sub-species />
+  <VernacularNames>White-throated Woodcreeper</VernacularNames>
+</Audio>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>4781</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN4781.wav</FileName>
+  <ClassId>ombazy</ClassId>
+  <Date>2012-12-01</Date>
+  <Time>10:00</Time>
+  <Locality>Chapada do Araripe (Ceara)</Locality>
+  <Latitude>-7.3334</Latitude>
+  <Longitude>-39.3001</Longitude>
+  <Elevation>440</Elevation>
+  <Author>GABRIEL LEITE</Author>
+  <AuthorID>TGBFXDVERJ</AuthorID>
+  <Content>call, song</Content>
+  <Comments>bird-seen:yesplayback-used:yes</Comments>
+  <Quality>2</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Furnariidae</Family>
+  <Genus>Campylorhamphus</Genus>
+  <Species>trochilirostris</Species>
+  <Sub-species />
+  <VernacularNames>Red-billed Scythebill</VernacularNames>
+</Audio>

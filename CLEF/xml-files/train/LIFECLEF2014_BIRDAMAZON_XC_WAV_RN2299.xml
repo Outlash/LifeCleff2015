@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>2299</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN2299.wav</FileName>
+  <ClassId>umxbnz</ClassId>
+  <Date>1994-02-20</Date>
+  <Time>07:30</Time>
+  <Locality>Brasília,Taguatinga, DF</Locality>
+  <Latitude>NULL</Latitude>
+  <Longitude>NULL</Longitude>
+  <Elevation>960</Elevation>
+  <Author>Valter José Silveira</Author>
+  <AuthorID>OHHTDSDNBT</AuthorID>
+  <Content>call</Content>
+  <Comments>Near Highway  that crossing  Taguatinga,, DF</Comments>
+  <Quality>1</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies />
+  <Order>Tinamiformes</Order>
+  <Family>Tinamidae</Family>
+  <Genus>Taoniscus</Genus>
+  <Species>nanus</Species>
+  <Sub-species />
+  <VernacularNames>Dwarf Tinamou</VernacularNames>
+</Audio>

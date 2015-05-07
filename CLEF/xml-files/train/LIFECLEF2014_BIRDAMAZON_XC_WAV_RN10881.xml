@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>10881</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN10881.wav</FileName>
+  <ClassId>gsmjhm</ClassId>
+  <Date>2009-09-15</Date>
+  <Time>450</Time>
+  <Locality>Rio Carreiro, Serafina Corrêa, Rio Grande do Sul</Locality>
+  <Latitude>-28.9612</Latitude>
+  <Longitude>-51.7681</Longitude>
+  <Elevation>450</Elevation>
+  <Author>Adrian Eisen Rupp</Author>
+  <AuthorID>AOPMSCIDIA</AuthorID>
+  <Content>call</Content>
+  <Comments />
+  <Quality>2</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies />
+  <Order>Psittaciformes</Order>
+  <Family>Psittacidae</Family>
+  <Genus>Pyrrhura</Genus>
+  <Species>frontalis</Species>
+  <Sub-species />
+  <VernacularNames>Maroon-bellied Parakeet</VernacularNames>
+</Audio>

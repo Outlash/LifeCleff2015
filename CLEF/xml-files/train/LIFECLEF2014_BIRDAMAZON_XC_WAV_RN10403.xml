@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>10403</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN10403.wav</FileName>
+  <ClassId>hwqenp</ClassId>
+  <Date>2006-07-25</Date>
+  <Time>8:30</Time>
+  <Locality>Reserva Ecológica de Guapiaçu, RJ</Locality>
+  <Latitude>-22.5001</Latitude>
+  <Longitude>-42.7167</Longitude>
+  <Elevation>?</Elevation>
+  <Author>Leonardo Pimentel</Author>
+  <AuthorID>JHBOHGJALL</AuthorID>
+  <Content>call, song</Content>
+  <Comments />
+  <Quality>2</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies>Saltator fuliginosus,Tiaris fuliginosus,Sporophila falcirostris,Rhopias gularis,Procnias nudicollis</BackgroundSpecies>
+  <Order>Passeriformes</Order>
+  <Family>Thamnophilidae</Family>
+  <Genus>Dysithamnus</Genus>
+  <Species>mentalis</Species>
+  <Sub-species />
+  <VernacularNames>Plain Antvireo</VernacularNames>
+</Audio>

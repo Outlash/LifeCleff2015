@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>24422</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN24422.wav</FileName>
+  <ClassId>tobdcn</ClassId>
+  <Date>2004-08-23</Date>
+  <Time>11:50</Time>
+  <Locality>Mesenia, Antioquia</Locality>
+  <Latitude>5.4834</Latitude>
+  <Longitude>-75.9001</Longitude>
+  <Elevation>2250</Elevation>
+  <Author>Niels Krabbe</Author>
+  <AuthorID>XTVEPHMPPJ</AuthorID>
+  <Content>song</Content>
+  <Comments>Tape ref. A 165-212</Comments>
+  <Quality>2</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Grallariidae</Family>
+  <Genus>Grallaria</Genus>
+  <Species>flavotincta</Species>
+  <Sub-species />
+  <VernacularNames>Yellow-breasted Antpitta</VernacularNames>
+</Audio>

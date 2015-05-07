@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>24589</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN24589.wav</FileName>
+  <ClassId>rfdkgs</ClassId>
+  <Date>2010-09-22</Date>
+  <Time>?</Time>
+  <Locality>Régina, grande Montagne tortue Bélizon</Locality>
+  <Latitude>4.31667</Latitude>
+  <Longitude>-52.1333</Longitude>
+  <Elevation>250</Elevation>
+  <Author>Alexandre Renaudier</Author>
+  <AuthorID>GKADEITXTH</AuthorID>
+  <Content>flight call</Content>
+  <Comments />
+  <Quality>2</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Psittaciformes</Order>
+  <Family>Psittacidae</Family>
+  <Genus>Amazona</Genus>
+  <Species>dufresniana</Species>
+  <Sub-species />
+  <VernacularNames>Blue-cheeked Amazon</VernacularNames>
+</Audio>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>28946</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN28946.wav</FileName>
+  <ClassId>eldoju</ClassId>
+  <Date>2014-03-30</Date>
+  <Time>08:00</Time>
+  <Locality>Paraibuna, São Paulo</Locality>
+  <Latitude>-23.5797</Latitude>
+  <Longitude>-45.5474</Longitude>
+  <Elevation>800</Elevation>
+  <Author>Rodrigo Dela Rosa</Author>
+  <AuthorID>VGXDJMKETZ</AuthorID>
+  <Content>song</Content>
+  <Comments>bird-seen:yesplayback-used:no</Comments>
+  <Quality>2</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Tyrannidae</Family>
+  <Genus>Ramphotrigon</Genus>
+  <Species>megacephalum</Species>
+  <Sub-species />
+  <VernacularNames>Large-headed Flatbill</VernacularNames>
+</Audio>

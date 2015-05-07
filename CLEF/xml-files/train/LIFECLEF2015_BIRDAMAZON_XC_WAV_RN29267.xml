@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>29267</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN29267.wav</FileName>
+  <ClassId>gwdmfy</ClassId>
+  <Date>2014-09-12</Date>
+  <Time>14:00</Time>
+  <Locality>Alto Japurá, margem esquerda.</Locality>
+  <Latitude>-1.5811</Latitude>
+  <Longitude>-69.1974</Longitude>
+  <Elevation>120</Elevation>
+  <Author>Eduardo D. Schultz</Author>
+  <AuthorID>QYOZQITVAC</AuthorID>
+  <Content>call</Content>
+  <Comments>High Japurá, left bank. Comunidade Taboca, 50 km from Vila Bittencourt at the border. bird-seen:yesplayback-used:no</Comments>
+  <Quality>0</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Thamnophilidae</Family>
+  <Genus>Hypocnemis</Genus>
+  <Species>hypoxantha</Species>
+  <Sub-species />
+  <VernacularNames>Yellow-browed Antbird</VernacularNames>
+</Audio>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>9981</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN9981.wav</FileName>
+  <ClassId>fhqazb</ClassId>
+  <Date>1999-07-16</Date>
+  <Time>07:00</Time>
+  <Locality>Chapada dos Veadeiros National Park</Locality>
+  <Latitude>-14.1334</Latitude>
+  <Longitude>-47.7001</Longitude>
+  <Elevation>1360</Elevation>
+  <Author>Jeremy Minns</Author>
+  <AuthorID>DGVLLRYDXS</AuthorID>
+  <Content>call, song in duet</Content>
+  <Comments>Just outside the park. About 15 mins after playback.</Comments>
+  <Quality>1</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies>Columbina squammata</BackgroundSpecies>
+  <Order>Passeriformes</Order>
+  <Family>Tyrannidae</Family>
+  <Genus>Suiriri</Genus>
+  <Species>suiriri</Species>
+  <Sub-species>affinis</Sub-species>
+  <VernacularNames>Suiriri Flycatcher</VernacularNames>
+</Audio>

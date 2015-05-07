@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>4271</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN4271.wav</FileName>
+  <ClassId>nkvtmg</ClassId>
+  <Date>2010-03-10</Date>
+  <Time>?</Time>
+  <Locality>Parque Municipal da Lagoa do Peri, Florianópolis, Santa Catarina</Locality>
+  <Latitude>-27.58</Latitude>
+  <Longitude>-48.507</Longitude>
+  <Elevation>30</Elevation>
+  <Author>Evair Legal</Author>
+  <AuthorID>SMJXFKLATM</AuthorID>
+  <Content>song</Content>
+  <Comments />
+  <Quality>2</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies />
+  <Order>Columbiformes</Order>
+  <Family>Columbidae</Family>
+  <Genus>Leptotila</Genus>
+  <Species>verreauxi</Species>
+  <Sub-species />
+  <VernacularNames>White-tipped Dove</VernacularNames>
+</Audio>

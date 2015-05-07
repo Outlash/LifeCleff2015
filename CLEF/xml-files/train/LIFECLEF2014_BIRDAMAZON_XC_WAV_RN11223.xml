@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>11223</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN11223.wav</FileName>
+  <ClassId>yyjrms</ClassId>
+  <Date>2002-10-29</Date>
+  <Time>17:58</Time>
+  <Locality>Parque Nacional Serra da Canastra, São Roque de Minas, MG</Locality>
+  <Latitude>-20.24528</Latitude>
+  <Longitude>-46.36583</Longitude>
+  <Elevation>1350</Elevation>
+  <Author>Jeremy Minns</Author>
+  <AuthorID>DGVLLRYDXS</AuthorID>
+  <Content>Song</Content>
+  <Comments>Cerrado.</Comments>
+  <Quality>1</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies>Sicalis citrina</BackgroundSpecies>
+  <Order>Passeriformes</Order>
+  <Family>Emberizidae</Family>
+  <Genus>Zonotrichia</Genus>
+  <Species>capensis</Species>
+  <Sub-species>subtorquata</Sub-species>
+  <VernacularNames>Rufous-collared Sparrow</VernacularNames>
+</Audio>

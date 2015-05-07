@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>2755</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN2755.wav</FileName>
+  <ClassId>cyghvw</ClassId>
+  <Date>2009-05-23</Date>
+  <Time>?</Time>
+  <Locality>ADAMI, Parque Nacional das Araucárias, Ponte Serrada, Santa Catarina</Locality>
+  <Latitude>-26.7987</Latitude>
+  <Longitude>-51.8189</Longitude>
+  <Elevation>1115</Elevation>
+  <Author>Adrian Eisen Rupp</Author>
+  <AuthorID>AOPMSCIDIA</AuthorID>
+  <Content>song</Content>
+  <Comments />
+  <Quality>2</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies>Zonotrichia capensis,Colaptes campestris</BackgroundSpecies>
+  <Order>Falconiformes</Order>
+  <Family>Falconidae</Family>
+  <Genus>Micrastur</Genus>
+  <Species>semitorquatus</Species>
+  <Sub-species />
+  <VernacularNames>Collared Forest Falcon</VernacularNames>
+</Audio>

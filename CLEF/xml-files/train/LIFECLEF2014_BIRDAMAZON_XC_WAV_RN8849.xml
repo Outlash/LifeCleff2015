@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>8849</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN8849.wav</FileName>
+  <ClassId>feohaf</ClassId>
+  <Date>2010-05-25</Date>
+  <Time>11:16</Time>
+  <Locality>Brusque, Santa Catarina</Locality>
+  <Latitude>-27.0834</Latitude>
+  <Longitude>-48.9001</Longitude>
+  <Elevation>35</Elevation>
+  <Author>Glauco Kohler</Author>
+  <AuthorID>JDNMEJOJEQ</AuthorID>
+  <Content>song</Content>
+  <Comments />
+  <Quality>1</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Tyrannidae</Family>
+  <Genus>Elaenia</Genus>
+  <Species>flavogaster</Species>
+  <Sub-species />
+  <VernacularNames>Yellow-bellied Elaenia</VernacularNames>
+</Audio>

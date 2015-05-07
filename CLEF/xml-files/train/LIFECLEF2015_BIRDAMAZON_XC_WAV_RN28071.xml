@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>28071</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN28071.wav</FileName>
+  <ClassId>xkvxmc</ClassId>
+  <Date>2010-10-11</Date>
+  <Time>06:20</Time>
+  <Locality>Puerto Lopez, Rio Humea (meta)</Locality>
+  <Latitude>4.1551</Latitude>
+  <Longitude>-72.9228</Longitude>
+  <Elevation>100</Elevation>
+  <Author>Oswaldo Cortes</Author>
+  <AuthorID>VVDRVZCVWW</AuthorID>
+  <Content>song</Content>
+  <Comments />
+  <Quality>0</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Turdidae</Family>
+  <Genus>Turdus</Genus>
+  <Species>nudigenis</Species>
+  <Sub-species />
+  <VernacularNames>Spectacled Thrush</VernacularNames>
+</Audio>

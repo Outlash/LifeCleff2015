@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>2502</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN2502.wav</FileName>
+  <ClassId>ietadq</ClassId>
+  <Date>2006-08-06</Date>
+  <Time>06:15</Time>
+  <Locality>Serra da Passira, Passira, Pernambuco</Locality>
+  <Latitude>-7.963528</Latitude>
+  <Longitude>-35.673294</Longitude>
+  <Elevation>390</Elevation>
+  <Author>Glauco Alves Pereira</Author>
+  <AuthorID>ZWEROGGYVP</AuthorID>
+  <Content>song</Content>
+  <Comments>Caatinga habitat</Comments>
+  <Quality>1</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Vireonidae</Family>
+  <Genus>Hylophilus</Genus>
+  <Species>amaurocephalus</Species>
+  <Sub-species />
+  <VernacularNames>Grey-eyed Greenlet</VernacularNames>
+</Audio>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>6504</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN6504.wav</FileName>
+  <ClassId>tkfjdd</ClassId>
+  <Date>2006-11-07</Date>
+  <Time>20:20</Time>
+  <Locality>Sao Francisco de Paula, ca 15km SW, Rio Grande do Sul</Locality>
+  <Latitude>-29.494</Latitude>
+  <Longitude>-50.73</Longitude>
+  <Elevation>450</Elevation>
+  <Author>Daniel Lane</Author>
+  <AuthorID>WOEAFQRMUD</AuthorID>
+  <Content>song?</Content>
+  <Comments>Calls in flight from three individuals over pastures with scattered Eucalyptus. Responded strongly to whistled imitation, giving the 'pow' note.</Comments>
+  <Quality>1</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies />
+  <Order>Caprimulgiformes</Order>
+  <Family>Caprimulgidae</Family>
+  <Genus>Lurocalis</Genus>
+  <Species>semitorquatus</Species>
+  <Sub-species>nattererii</Sub-species>
+  <VernacularNames>Short-tailed Nighthawk</VernacularNames>
+</Audio>

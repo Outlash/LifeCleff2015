@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>3800</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN3800.wav</FileName>
+  <ClassId>vjukoo</ClassId>
+  <Date>2003-00-00</Date>
+  <Time>0:19s</Time>
+  <Locality>Serra do Mar National Park - Santa Virginia - Sao Paulo State</Locality>
+  <Latitude>-23.3933</Latitude>
+  <Longitude>-45.1503</Longitude>
+  <Elevation>1000</Elevation>
+  <Author>Guilherme R R Brito</Author>
+  <AuthorID>OAYOBWYOOM</AuthorID>
+  <Content>song</Content>
+  <Comments>raining (a lot!!)</Comments>
+  <Quality>2</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Tyrannidae</Family>
+  <Genus>Attila</Genus>
+  <Species>rufus</Species>
+  <Sub-species />
+  <VernacularNames>Grey-hooded Attila</VernacularNames>
+</Audio>

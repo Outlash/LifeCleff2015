@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>19530</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN19530.wav</FileName>
+  <ClassId>lddsyh</ClassId>
+  <Date>2013-07-14</Date>
+  <Time>10:00</Time>
+  <Locality>Rio Branco, Acre</Locality>
+  <Latitude>-9.8823</Latitude>
+  <Longitude>-67.9175</Longitude>
+  <Elevation>200</Elevation>
+  <Author>Rodrigo Dela Rosa</Author>
+  <AuthorID>VGXDJMKETZ</AuthorID>
+  <Content>male, song</Content>
+  <Comments>bird-seen:yesplayback-used:yes</Comments>
+  <Quality>2</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Thamnophilidae</Family>
+  <Genus>Thamnophilus</Genus>
+  <Species>schistaceus</Species>
+  <Sub-species />
+  <VernacularNames>Plain-winged Antshrike</VernacularNames>
+</Audio>

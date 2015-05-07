@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>12248</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN12248.wav</FileName>
+  <ClassId>dawwtj</ClassId>
+  <Date>2007-07-04</Date>
+  <Time>16:00</Time>
+  <Locality>Eldorado, Mato Grosso do Sul state</Locality>
+  <Latitude>-23.8501</Latitude>
+  <Longitude>-54.2537</Longitude>
+  <Elevation>340</Elevation>
+  <Author>Joao Menezes</Author>
+  <AuthorID>BEYMZHZHIB</AuthorID>
+  <Content>Song</Content>
+  <Comments />
+  <Quality>1</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies />
+  <Order>Trogoniformes</Order>
+  <Family>Trogonidae</Family>
+  <Genus>Trogon</Genus>
+  <Species>surrucura</Species>
+  <Sub-species>surrucura</Sub-species>
+  <VernacularNames>Surucua Trogon</VernacularNames>
+</Audio>

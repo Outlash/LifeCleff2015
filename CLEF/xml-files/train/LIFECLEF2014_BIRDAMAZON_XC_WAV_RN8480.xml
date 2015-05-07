@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>8480</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN8480.wav</FileName>
+  <ClassId>qoqtfu</ClassId>
+  <Date>2009-09-17</Date>
+  <Time>?</Time>
+  <Locality>Linha Emília, Dois Lajeados, Rio Grande do Sul</Locality>
+  <Latitude>-28.9403</Latitude>
+  <Longitude>-51.7806</Longitude>
+  <Elevation>200</Elevation>
+  <Author>Adrian Eisen Rupp</Author>
+  <AuthorID>AOPMSCIDIA</AuthorID>
+  <Content>song</Content>
+  <Comments />
+  <Quality>3</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies>Camptostoma obsoletum</BackgroundSpecies>
+  <Order>Passeriformes</Order>
+  <Family>Hirundinidae</Family>
+  <Genus>Stelgidopteryx</Genus>
+  <Species>ruficollis</Species>
+  <Sub-species />
+  <VernacularNames>Southern Rough-winged Swallow</VernacularNames>
+</Audio>

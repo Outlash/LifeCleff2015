@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>2259</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN2259.wav</FileName>
+  <ClassId>jiuopg</ClassId>
+  <Date>2006-10-07</Date>
+  <Time>09:00</Time>
+  <Locality>Fazenda caetes, nr Vargem Alta, Esperito Santo</Locality>
+  <Latitude>-20.457253</Latitude>
+  <Longitude>-40.99205</Longitude>
+  <Elevation>?</Elevation>
+  <Author>Frank Lambert</Author>
+  <AuthorID>YTUXOCTUEM</AuthorID>
+  <Content>song</Content>
+  <Comments />
+  <Quality>1</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Tyrannidae</Family>
+  <Genus>Sirystes</Genus>
+  <Species>sibilator</Species>
+  <Sub-species />
+  <VernacularNames>Eastern Sirystes</VernacularNames>
+</Audio>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>12620</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN12620.wav</FileName>
+  <ClassId>qgrzoy</ClassId>
+  <Date>2007-10-04</Date>
+  <Time>11:42</Time>
+  <Locality>Pousada Rio Azul, PA</Locality>
+  <Latitude>-9.2456</Latitude>
+  <Longitude>-55.987</Longitude>
+  <Elevation>240</Elevation>
+  <Author>Bradley Davis</Author>
+  <AuthorID>YNXJLOESBB</AuthorID>
+  <Content>call</Content>
+  <Comments />
+  <Quality>1</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Tyrannidae</Family>
+  <Genus>Hemitriccus</Genus>
+  <Species>griseipectus</Species>
+  <Sub-species />
+  <VernacularNames>White-bellied Tody-Tyrant</VernacularNames>
+</Audio>

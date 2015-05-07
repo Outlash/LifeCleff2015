@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>5723</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN5723.wav</FileName>
+  <ClassId>bsewbt</ClassId>
+  <Date>2011-09-15</Date>
+  <Time>08:15</Time>
+  <Locality>Cristalino Jungle Lodge, MT</Locality>
+  <Latitude>-9.5981</Latitude>
+  <Longitude>-55.932</Longitude>
+  <Elevation>260</Elevation>
+  <Author>Eric DeFonso</Author>
+  <AuthorID>KTLCZCRCQX</AuthorID>
+  <Content>call</Content>
+  <Comments>Terra firme forest, from 30m up the old tower at the lodge.bird-seen:yesplayback-used:no</Comments>
+  <Quality>2</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Tyrannidae</Family>
+  <Genus>Zimmerius</Genus>
+  <Species>acer</Species>
+  <Sub-species />
+  <VernacularNames>Guianan Tyrannulet</VernacularNames>
+</Audio>

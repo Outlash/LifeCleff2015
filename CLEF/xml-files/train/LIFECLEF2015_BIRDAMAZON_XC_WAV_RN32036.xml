@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>32036</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN32036.wav</FileName>
+  <ClassId>perzmu</ClassId>
+  <Date>2012-03-30</Date>
+  <Time>09:30</Time>
+  <Locality>Carapebus, Rio de Janeiro</Locality>
+  <Latitude>-22.2311</Latitude>
+  <Longitude>-41.5716</Longitude>
+  <Elevation>10</Elevation>
+  <Author>Yair G. Molina M.</Author>
+  <AuthorID>UQUOPFIYYQ</AuthorID>
+  <Content>call</Content>
+  <Comments>bird-seen:yesplayback-used:no</Comments>
+  <Quality>1</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Coerebidae</Family>
+  <Genus>Coereba</Genus>
+  <Species>flaveola</Species>
+  <Sub-species />
+  <VernacularNames>Bananaquit</VernacularNames>
+</Audio>

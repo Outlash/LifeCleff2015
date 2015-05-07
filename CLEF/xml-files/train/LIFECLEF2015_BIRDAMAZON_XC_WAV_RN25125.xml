@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>25125</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN25125.wav</FileName>
+  <ClassId>lavuag</ClassId>
+  <Date>2003-11-19</Date>
+  <Time>?</Time>
+  <Locality>PNN Chingaza , San Fransisco, La Calera, Cundinamarca</Locality>
+  <Latitude>4.703611</Latitude>
+  <Longitude>-73.865</Longitude>
+  <Elevation>2970</Elevation>
+  <Author>Sergio Córdoba Córdoba (Colección de Sonidos Ambientales - Instituto Humboldt)</Author>
+  <AuthorID>XMFDPACYJN</AuthorID>
+  <Content>song</Content>
+  <Comments>BSA 15564To obtain a wav file of the original recording, please contact csa@humboldt.org.coplayback-used:no</Comments>
+  <Quality>2</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Apodiformes</Order>
+  <Family>Trochilidae</Family>
+  <Genus>Metallura</Genus>
+  <Species>tyrianthina</Species>
+  <Sub-species />
+  <VernacularNames>Tyrian Metaltail</VernacularNames>
+</Audio>

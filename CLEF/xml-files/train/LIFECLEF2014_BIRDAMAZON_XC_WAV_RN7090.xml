@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>7090</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN7090.wav</FileName>
+  <ClassId>qqkpms</ClassId>
+  <Date>2011-07-26</Date>
+  <Time>15:30</Time>
+  <Locality>Almeirim/Pará</Locality>
+  <Latitude>-1.095</Latitude>
+  <Longitude>-52.653</Longitude>
+  <Elevation>80</Elevation>
+  <Author>Christian B. Andretti</Author>
+  <AuthorID>EZSMXGTXKS</AuthorID>
+  <Content>song</Content>
+  <Comments>Bituba - Selective Loggingbird-seen:noplayback-used:no</Comments>
+  <Quality>3</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies>Vireo olivaceus,Patagioenas plumbea</BackgroundSpecies>
+  <Order>Piciformes</Order>
+  <Family>Picidae</Family>
+  <Genus>Celeus</Genus>
+  <Species>torquatus</Species>
+  <Sub-species>torquatus</Sub-species>
+  <VernacularNames>Ringed Woodpecker</VernacularNames>
+</Audio>

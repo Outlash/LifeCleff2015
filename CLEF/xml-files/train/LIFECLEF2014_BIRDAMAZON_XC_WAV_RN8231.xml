@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>8231</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN8231.wav</FileName>
+  <ClassId>fpnmqt</ClassId>
+  <Date>2006-11-07</Date>
+  <Time>19:20</Time>
+  <Locality>Sao Francisco de Paula, Rio Grande do Sul</Locality>
+  <Latitude>-29.454</Latitude>
+  <Longitude>-50.58</Longitude>
+  <Elevation>925</Elevation>
+  <Author>Daniel Lane</Author>
+  <AuthorID>WOEAFQRMUD</AuthorID>
+  <Content>song?</Content>
+  <Comments>Natural vocalization in understory (unseen) of broken forest with Hydrangia understory. ID made by Bret Whitney.</Comments>
+  <Quality>2</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies>Setophaga pitiayumi,Turdus amaurochalinus</BackgroundSpecies>
+  <Order>Passeriformes</Order>
+  <Family>Rhinocryptidae</Family>
+  <Genus>Scytalopus</Genus>
+  <Species>speluncae</Species>
+  <Sub-species />
+  <VernacularNames>Mouse-colored Tapaculo</VernacularNames>
+</Audio>

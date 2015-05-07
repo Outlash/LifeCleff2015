@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>8778</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN8778.wav</FileName>
+  <ClassId>kipzod</ClassId>
+  <Date>2008-03-15</Date>
+  <Time>10:00</Time>
+  <Locality>Serra da Saudade, Quartel Geral, Minas Gerais, Brazil</Locality>
+  <Latitude>-19.237</Latitude>
+  <Longitude>-45.8034</Longitude>
+  <Elevation>850</Elevation>
+  <Author>Guilherme Freitas</Author>
+  <AuthorID>WCODCLDAKO</AuthorID>
+  <Content>call</Content>
+  <Comments>Call from a lone male.</Comments>
+  <Quality>3</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Thraupidae</Family>
+  <Genus>Coryphaspiza</Genus>
+  <Species>melanotis</Species>
+  <Sub-species />
+  <VernacularNames>Black-masked Finch</VernacularNames>
+</Audio>

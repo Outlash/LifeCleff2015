@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>13572</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN13572.wav</FileName>
+  <ClassId>blpeuv</ClassId>
+  <Date>2010-01-15</Date>
+  <Time>?</Time>
+  <Locality>Salseiro, Vidal Ramos, Santa Catarina</Locality>
+  <Latitude>-27.39726</Latitude>
+  <Longitude>-49.379082</Longitude>
+  <Elevation>440</Elevation>
+  <Author>Adrian Eisen Rupp</Author>
+  <AuthorID>AOPMSCIDIA</AuthorID>
+  <Content>song</Content>
+  <Comments />
+  <Quality>2</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies>Vireo olivaceus</BackgroundSpecies>
+  <Order>Passeriformes</Order>
+  <Family>Tyrannidae</Family>
+  <Genus>Attila</Genus>
+  <Species>phoenicurus</Species>
+  <Sub-species />
+  <VernacularNames>Rufous-tailed Attila</VernacularNames>
+</Audio>

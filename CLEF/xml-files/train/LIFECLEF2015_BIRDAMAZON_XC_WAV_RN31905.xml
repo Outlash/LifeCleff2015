@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>31905</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN31905.wav</FileName>
+  <ClassId>eshtgz</ClassId>
+  <Date>2012-07-26</Date>
+  <Time>10.20</Time>
+  <Locality>Caripe</Locality>
+  <Latitude>10.2056</Latitude>
+  <Longitude>-63.5173</Longitude>
+  <Elevation>1065</Elevation>
+  <Author>Thore Noernberg</Author>
+  <AuthorID>TTSQGWDDGW</AuthorID>
+  <Content>call</Content>
+  <Comments>Calls of several birds inside the Guacharo Cave</Comments>
+  <Quality>2</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Caprimulgiformes</Order>
+  <Family>Steatornithidae</Family>
+  <Genus>Steatornis</Genus>
+  <Species>caripensis</Species>
+  <Sub-species />
+  <VernacularNames>Oilbird</VernacularNames>
+</Audio>

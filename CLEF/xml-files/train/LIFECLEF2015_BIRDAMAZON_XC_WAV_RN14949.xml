@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>14949</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN14949.wav</FileName>
+  <ClassId>vspudg</ClassId>
+  <Date>1998-12-15</Date>
+  <Time>08:00</Time>
+  <Locality>Manaus. Road off BR174 at km 41</Locality>
+  <Latitude>-2.6131</Latitude>
+  <Longitude>-60.0248</Longitude>
+  <Elevation>100</Elevation>
+  <Author>Jeremy Minns</Author>
+  <AuthorID>DGVLLRYDXS</AuthorID>
+  <Content>alarm call</Content>
+  <Comments>Terra firme forest. Identified by Andrew Whittaker, who wrote:This is a very agitated call of Tiny Tyrant-Manakin Tyranneutes virescens. They have this call in the canopy and it's not at all like their song from understory! The bird's call is a little faster than normal but easy to ID. May have been alarming at a snake. I recall one excited bird watched doing this near the tower many years ago! bird-seen:noplayback-used:no""</Comments>
+  <Quality>1</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Pipridae</Family>
+  <Genus>Tyranneutes</Genus>
+  <Species>virescens</Species>
+  <Sub-species />
+  <VernacularNames>Tiny Tyrant-Manakin</VernacularNames>
+</Audio>

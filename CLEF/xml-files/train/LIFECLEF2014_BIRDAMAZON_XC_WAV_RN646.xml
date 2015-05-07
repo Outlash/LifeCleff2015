@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>646</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN646.wav</FileName>
+  <ClassId>eejqqp</ClassId>
+  <Date>2012-01-23</Date>
+  <Time>08:10</Time>
+  <Locality>Estrada para a Catarata dos Couros - Alto Paraíso de Goiás/GO</Locality>
+  <Latitude>-14.278</Latitude>
+  <Longitude>-47.532</Longitude>
+  <Elevation>?</Elevation>
+  <Author>Alexander Lees</Author>
+  <AuthorID>INDDBZAFJL</AuthorID>
+  <Content>song</Content>
+  <Comments>display after playback</Comments>
+  <Quality>1</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies>Columbina talpacoti,Gnorimopsar chopi</BackgroundSpecies>
+  <Order>Passeriformes</Order>
+  <Family>Furnariidae</Family>
+  <Genus>Anumbius</Genus>
+  <Species>annumbi</Species>
+  <Sub-species />
+  <VernacularNames>Firewood-gatherer</VernacularNames>
+</Audio>

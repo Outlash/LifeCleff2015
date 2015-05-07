@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>9124</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN9124.wav</FileName>
+  <ClassId>qfjwpy</ClassId>
+  <Date>2005-12-26</Date>
+  <Time>15:30</Time>
+  <Locality>Porteiras, Altinho, Pernambuco</Locality>
+  <Latitude>-8.3</Latitude>
+  <Longitude>-37.75</Longitude>
+  <Elevation>460</Elevation>
+  <Author>Glauco Alves Pereira</Author>
+  <AuthorID>ZWEROGGYVP</AuthorID>
+  <Content>Song</Content>
+  <Comments />
+  <Quality>1</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies />
+  <Order>Charadriiformes</Order>
+  <Family>Charadriidae</Family>
+  <Genus>Vanellus</Genus>
+  <Species>chilensis</Species>
+  <Sub-species>lampronotus</Sub-species>
+  <VernacularNames>Southern Lapwing</VernacularNames>
+</Audio>

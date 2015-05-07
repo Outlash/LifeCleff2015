@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>1212</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN1212.wav</FileName>
+  <ClassId>dhzucj</ClassId>
+  <Date>2007-10-10</Date>
+  <Time>?</Time>
+  <Locality>Jundiá, Parque Nacional da Serra do Itajaí, Apiúna, Santa Catarina</Locality>
+  <Latitude>-27.1203</Latitude>
+  <Longitude>-49.2548</Longitude>
+  <Elevation>600</Elevation>
+  <Author>Adrian Eisen Rupp</Author>
+  <AuthorID>AOPMSCIDIA</AuthorID>
+  <Content>song</Content>
+  <Comments />
+  <Quality>0</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies>Carpornis cucullata,Procnias nudicollis,Cyclarhis gujanensis</BackgroundSpecies>
+  <Order>Passeriformes</Order>
+  <Family>Thamnophilidae</Family>
+  <Genus>Drymophila</Genus>
+  <Species>ochropyga</Species>
+  <Sub-species />
+  <VernacularNames>Ochre-rumped Antbird</VernacularNames>
+</Audio>

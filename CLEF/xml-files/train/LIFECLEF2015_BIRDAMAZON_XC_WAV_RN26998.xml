@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>26998</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN26998.wav</FileName>
+  <ClassId>qdcutc</ClassId>
+  <Date>2008-01-21</Date>
+  <Time>09:50</Time>
+  <Locality>San Isidro quarry, Barinas</Locality>
+  <Latitude>8.8323</Latitude>
+  <Longitude>-70.5801</Longitude>
+  <Elevation>1500</Elevation>
+  <Author>Daniel Lane</Author>
+  <AuthorID>WOEAFQRMUD</AuthorID>
+  <Content>call, song</Content>
+  <Comments>Natural songs from a group about 5-6m up in second growth in cloudforest.</Comments>
+  <Quality>1</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Icteridae</Family>
+  <Genus>Psarocolius</Genus>
+  <Species>angustifrons</Species>
+  <Sub-species>neglectus?</Sub-species>
+  <VernacularNames>Russet-backed Oropendola</VernacularNames>
+</Audio>

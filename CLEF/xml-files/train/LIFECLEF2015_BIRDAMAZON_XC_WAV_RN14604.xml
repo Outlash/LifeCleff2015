@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>14604</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN14604.wav</FileName>
+  <ClassId>dmowwi</ClassId>
+  <Date>2007-06-07</Date>
+  <Time>?</Time>
+  <Locality>RNA Arrierito Antioqueño, Anorí, Antioquia</Locality>
+  <Latitude>6.9862</Latitude>
+  <Longitude>-75.1251</Longitude>
+  <Elevation>1600</Elevation>
+  <Author>Frank Lambert</Author>
+  <AuthorID>YTUXOCTUEM</AuthorID>
+  <Content>call?</Content>
+  <Comments />
+  <Quality>1</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Tyrannidae</Family>
+  <Genus>Todirostrum</Genus>
+  <Species>cinereum</Species>
+  <Sub-species />
+  <VernacularNames>Common Tody-Flycatcher</VernacularNames>
+</Audio>

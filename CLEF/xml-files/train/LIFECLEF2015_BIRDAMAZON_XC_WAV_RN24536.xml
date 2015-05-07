@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>24536</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN24536.wav</FileName>
+  <ClassId>jrnnqp</ClassId>
+  <Date>2000-08-31</Date>
+  <Time>08:57</Time>
+  <Locality>Chapada dos Guimarães. Road to Água Fria.</Locality>
+  <Latitude>-15.2501</Latitude>
+  <Longitude>-55.6834</Longitude>
+  <Elevation>400</Elevation>
+  <Author>Jeremy Minns</Author>
+  <AuthorID>DGVLLRYDXS</AuthorID>
+  <Content>duet, song</Content>
+  <Comments>Cerrado. After playback. On hearing each playback, the pair would fly to a different tree and on alighting would sing this duet, the first bird to land starting a little before the other.</Comments>
+  <Quality>1</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Thraupidae</Family>
+  <Genus>Cypsnagra</Genus>
+  <Species>hirundinacea</Species>
+  <Sub-species>hirundinacea</Sub-species>
+  <VernacularNames>White-rumped Tanager</VernacularNames>
+</Audio>

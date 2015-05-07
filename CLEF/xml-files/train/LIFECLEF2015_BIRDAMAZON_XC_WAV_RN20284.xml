@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>20284</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN20284.wav</FileName>
+  <ClassId>nkotzb</ClassId>
+  <Date>2001-07-01</Date>
+  <Time>10:14</Time>
+  <Locality>Anavilhanas Archipelago, Amazonas</Locality>
+  <Latitude>-2.6834</Latitude>
+  <Longitude>-60.7501</Longitude>
+  <Elevation>10</Elevation>
+  <Author>Jeremy Minns</Author>
+  <AuthorID>DGVLLRYDXS</AuthorID>
+  <Content>calls and song</Content>
+  <Comments>Flooded forest (igapó) - two natural takes - c. 20m upbird-seen:yesplayback-used:no</Comments>
+  <Quality>2</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Tyrannidae</Family>
+  <Genus>Attila</Genus>
+  <Species>cinnamomeus</Species>
+  <Sub-species />
+  <VernacularNames>Cinnamon Attila</VernacularNames>
+</Audio>

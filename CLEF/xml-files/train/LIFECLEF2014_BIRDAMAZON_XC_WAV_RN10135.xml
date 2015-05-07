@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>10135</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN10135.wav</FileName>
+  <ClassId>etzhjw</ClassId>
+  <Date>2002-11-27</Date>
+  <Time>10:58</Time>
+  <Locality>São Francisco de Paula</Locality>
+  <Latitude>-29.4501</Latitude>
+  <Longitude>-50.5667</Longitude>
+  <Elevation>960</Elevation>
+  <Author>Jeremy Minns</Author>
+  <AuthorID>DGVLLRYDXS</AuthorID>
+  <Content>Song</Content>
+  <Comments>Grounds of Hotel Veraneio Hampel, adjacent to montane forest.</Comments>
+  <Quality>1</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies>Pachyramphus polychopterus</BackgroundSpecies>
+  <Order>Passeriformes</Order>
+  <Family>Tyrannidae</Family>
+  <Genus>Phyllomyias</Genus>
+  <Species>virescens</Species>
+  <Sub-species />
+  <VernacularNames>Greenish Tyrannulet</VernacularNames>
+</Audio>

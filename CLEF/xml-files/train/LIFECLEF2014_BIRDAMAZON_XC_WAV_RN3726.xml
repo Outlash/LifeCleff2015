@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>3726</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN3726.wav</FileName>
+  <ClassId>bskumd</ClassId>
+  <Date>2004-02-17</Date>
+  <Time>08:00</Time>
+  <Locality>Nucleo Picinguaba (Rio Fazenda), 32 km al N de Ubatuba, Sao Paulo</Locality>
+  <Latitude>NULL</Latitude>
+  <Longitude>NULL</Longitude>
+  <Elevation>1</Elevation>
+  <Author>Bernabe Lopez-Lanus</Author>
+  <AuthorID>BYLLSJRVDZ</AuthorID>
+  <Content>Song</Content>
+  <Comments />
+  <Quality>2</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Thamnophilidae</Family>
+  <Genus>Hypoedaleus</Genus>
+  <Species>guttatus</Species>
+  <Sub-species />
+  <VernacularNames>Spot-backed Antshrike</VernacularNames>
+</Audio>

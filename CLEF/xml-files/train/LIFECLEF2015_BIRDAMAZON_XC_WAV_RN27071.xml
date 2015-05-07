@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>27071</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN27071.wav</FileName>
+  <ClassId>addsdr</ClassId>
+  <Date>1998-10-28</Date>
+  <Time>08:14</Time>
+  <Locality>Reserva Biológica A. Ruschi, ES</Locality>
+  <Latitude>-19.8834</Latitude>
+  <Longitude>-40.5834</Longitude>
+  <Elevation>750</Elevation>
+  <Author>Jeremy Minns</Author>
+  <AuthorID>DGVLLRYDXS</AuthorID>
+  <Content>call, song</Content>
+  <Comments>Cleared area in montane forest.</Comments>
+  <Quality>2</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies>Turdus albicollis</BackgroundSpecies>
+  <Order>Passeriformes</Order>
+  <Family>Tyrannidae</Family>
+  <Genus>Hemitriccus</Genus>
+  <Species>nidipendulus</Species>
+  <Sub-species>paulistus</Sub-species>
+  <VernacularNames>Hangnest Tody-Tyrant</VernacularNames>
+</Audio>

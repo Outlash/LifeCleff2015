@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>25291</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN25291.wav</FileName>
+  <ClassId>rxaqum</ClassId>
+  <Date>2010-11-11</Date>
+  <Time>7:10</Time>
+  <Locality>Leticia. Amazonas</Locality>
+  <Latitude>NULL</Latitude>
+  <Longitude>NULL</Longitude>
+  <Elevation>180</Elevation>
+  <Author>Pablo Florez</Author>
+  <AuthorID>ISWBQKPBGS</AuthorID>
+  <Content>?</Content>
+  <Comments />
+  <Quality>3</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Grallariidae</Family>
+  <Genus>Myrmothera</Genus>
+  <Species>campanisona</Species>
+  <Sub-species />
+  <VernacularNames>Thrush-like Antpitta</VernacularNames>
+</Audio>

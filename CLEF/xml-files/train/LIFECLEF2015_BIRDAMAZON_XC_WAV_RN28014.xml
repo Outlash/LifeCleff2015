@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>28014</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN28014.wav</FileName>
+  <ClassId>rjtaom</ClassId>
+  <Date>2006-07-30</Date>
+  <Time>8:39</Time>
+  <Locality>Mata de Aldeia, Camaragibe, Pernambuco</Locality>
+  <Latitude>-8.0167</Latitude>
+  <Longitude>-34.9667</Longitude>
+  <Elevation>80</Elevation>
+  <Author>Mauricio Cabral Periquito</Author>
+  <AuthorID>HERKCTHDZI</AuthorID>
+  <Content>song</Content>
+  <Comments>A couple at edge with ferns in the proximity of a brook</Comments>
+  <Quality>2</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Thamnophilidae</Family>
+  <Genus>Cercomacra</Genus>
+  <Species>laeta</Species>
+  <Sub-species>sabinoi</Sub-species>
+  <VernacularNames>Willis's Antbird</VernacularNames>
+</Audio>

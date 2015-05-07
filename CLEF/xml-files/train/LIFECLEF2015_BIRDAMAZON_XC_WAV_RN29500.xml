@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>29500</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN29500.wav</FileName>
+  <ClassId>tadaeg</ClassId>
+  <Date>2010-01-27</Date>
+  <Time>10:00</Time>
+  <Locality>Rio Blanco, Manizales, Caldas</Locality>
+  <Latitude>5.0767</Latitude>
+  <Longitude>-75.4664</Longitude>
+  <Elevation>2300</Elevation>
+  <Author>Frank Lambert</Author>
+  <AuthorID>YTUXOCTUEM</AuthorID>
+  <Content>song (part)</Content>
+  <Comments>first notes missing</Comments>
+  <Quality>2</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Rhinocryptidae</Family>
+  <Genus>Scytalopus</Genus>
+  <Species>spillmanni</Species>
+  <Sub-species />
+  <VernacularNames>Spillmann's Tapaculo</VernacularNames>
+</Audio>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>8538</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN8538.wav</FileName>
+  <ClassId>bpyrxb</ClassId>
+  <Date>2007-08-29</Date>
+  <Time>08:00</Time>
+  <Locality>Rio Purus, state of Acre</Locality>
+  <Latitude>-9.0509</Latitude>
+  <Longitude>-69.5539</Longitude>
+  <Elevation>100</Elevation>
+  <Author>Sidnei Dantas</Author>
+  <AuthorID>NNCKQMBGPH</AuthorID>
+  <Content>call</Content>
+  <Comments>land forest/ varzea</Comments>
+  <Quality>2</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies>Trogon melanurus,Campephilus rubricollis,Xiphorhynchus guttatus,Neopelma sulphureiventer,Pachyramphus marginatus,Corythopis torquatus</BackgroundSpecies>
+  <Order>Passeriformes</Order>
+  <Family>Tyrannidae</Family>
+  <Genus>Myiornis</Genus>
+  <Species>ecaudatus</Species>
+  <Sub-species />
+  <VernacularNames>Short-tailed Pygmy Tyrant</VernacularNames>
+</Audio>

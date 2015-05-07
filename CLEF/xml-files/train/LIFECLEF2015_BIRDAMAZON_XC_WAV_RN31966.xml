@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>31966</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN31966.wav</FileName>
+  <ClassId>sxpisu</ClassId>
+  <Date>2014-02-01</Date>
+  <Time>07:58</Time>
+  <Locality>Parque das Garças, Brasilia, Federal District</Locality>
+  <Latitude>-15.7715</Latitude>
+  <Longitude>-47.8331</Longitude>
+  <Elevation>1000</Elevation>
+  <Author>Paulo Paixão</Author>
+  <AuthorID>ICKWUWIDTY</AuthorID>
+  <Content>call, flock</Content>
+  <Comments>bird-seen:yesplayback-used:no</Comments>
+  <Quality>1</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Psittaciformes</Order>
+  <Family>Psittacidae</Family>
+  <Genus>Brotogeris</Genus>
+  <Species>chiriri</Species>
+  <Sub-species />
+  <VernacularNames>Yellow-chevroned Parakeet</VernacularNames>
+</Audio>

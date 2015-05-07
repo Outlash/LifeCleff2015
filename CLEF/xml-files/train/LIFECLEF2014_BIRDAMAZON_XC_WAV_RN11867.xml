@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>11867</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN11867.wav</FileName>
+  <ClassId>xunfjj</ClassId>
+  <Date>2001-03-14</Date>
+  <Time>18:25</Time>
+  <Locality>Conceicao de Ibitipoca</Locality>
+  <Latitude>-21.7001</Latitude>
+  <Longitude>-43.8834</Longitude>
+  <Elevation>1200</Elevation>
+  <Author>Jeremy Minns</Author>
+  <AuthorID>DGVLLRYDXS</AuthorID>
+  <Content>Song</Content>
+  <Comments>Marshy valley bottom near town with stream in gallery forest. At dusk.</Comments>
+  <Quality>2</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Turdidae</Family>
+  <Genus>Turdus</Genus>
+  <Species>rufiventris</Species>
+  <Sub-species>rufiventris</Sub-species>
+  <VernacularNames>Rufous-bellied Thrush</VernacularNames>
+</Audio>

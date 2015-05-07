@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>11910</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN11910.wav</FileName>
+  <ClassId>igcdnl</ClassId>
+  <Date>2012-09-29</Date>
+  <Time>06:30</Time>
+  <Locality>Parque Estadual Lago Azul, Campo Mourão, Estado do Paraná</Locality>
+  <Latitude>NULL</Latitude>
+  <Longitude>NULL</Longitude>
+  <Elevation>640</Elevation>
+  <Author>Luiz C.  Silva</Author>
+  <AuthorID>ORPKXJRFDZ</AuthorID>
+  <Content>call</Content>
+  <Comments>Microphone hidden in the bush, very close to the bird.bird-seen:noplayback-used:no</Comments>
+  <Quality>1</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies />
+  <Order>Coraciiformes</Order>
+  <Family>Momotidae</Family>
+  <Genus>Baryphthengus</Genus>
+  <Species>ruficapillus</Species>
+  <Sub-species />
+  <VernacularNames>Rufous-capped Motmot</VernacularNames>
+</Audio>

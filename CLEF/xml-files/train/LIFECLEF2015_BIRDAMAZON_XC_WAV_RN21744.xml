@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>21744</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN21744.wav</FileName>
+  <ClassId>peiocp</ClassId>
+  <Date>2013-07-10</Date>
+  <Time>16:09</Time>
+  <Locality>Cananéia, São Paulo</Locality>
+  <Latitude>-25.0269</Latitude>
+  <Longitude>-47.9576</Longitude>
+  <Elevation>10</Elevation>
+  <Author>Nick Athanas</Author>
+  <AuthorID>XRABICUARW</AuthorID>
+  <Content>bill snaps, call, song</Content>
+  <Comments>Aggressive response to playback from one bird of a group of three.bird-seen:yesplayback-used:yes</Comments>
+  <Quality>1</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Tyrannidae</Family>
+  <Genus>Conopias</Genus>
+  <Species>trivirgatus</Species>
+  <Sub-species>trivirgatus</Sub-species>
+  <VernacularNames>Three-striped Flycatcher</VernacularNames>
+</Audio>

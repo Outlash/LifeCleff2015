@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>5403</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN5403.wav</FileName>
+  <ClassId>yjatvw</ClassId>
+  <Date>0000-00-00</Date>
+  <Time>?</Time>
+  <Locality>Caieiras, SP</Locality>
+  <Latitude>-23.36417</Latitude>
+  <Longitude>-46.74056</Longitude>
+  <Elevation>760</Elevation>
+  <Author>Luiz Fernando Figueiredo</Author>
+  <AuthorID>EYYKGDWADQ</AuthorID>
+  <Content>call</Content>
+  <Comments />
+  <Quality>2</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies />
+  <Order>Strigiformes</Order>
+  <Family>Strigidae</Family>
+  <Genus>Pseudoscops</Genus>
+  <Species>clamator</Species>
+  <Sub-species />
+  <VernacularNames>Striped Owl</VernacularNames>
+</Audio>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>27661</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN27661.wav</FileName>
+  <ClassId>ilxrbn</ClassId>
+  <Date>2011-09-17</Date>
+  <Time>09:42</Time>
+  <Locality>Cristalino Jungle Lodge, MT</Locality>
+  <Latitude>-9.5981</Latitude>
+  <Longitude>-55.932</Longitude>
+  <Elevation>260</Elevation>
+  <Author>Eric DeFonso</Author>
+  <AuthorID>KTLCZCRCQX</AuthorID>
+  <Content>call</Content>
+  <Comments>Bird circling overhead, from the top of the Serra trail. Voice is Rich Hoyer. Habitat is terra firme forest.bird-seen:yesplayback-used:no</Comments>
+  <Quality>2</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Accipitriformes</Order>
+  <Family>Accipitridae</Family>
+  <Genus>Spizaetus</Genus>
+  <Species>ornatus</Species>
+  <Sub-species />
+  <VernacularNames>Ornate Hawk-Eagle</VernacularNames>
+</Audio>

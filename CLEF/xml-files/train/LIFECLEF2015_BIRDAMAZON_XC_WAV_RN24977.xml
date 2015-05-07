@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>24977</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN24977.wav</FileName>
+  <ClassId>inyngh</ClassId>
+  <Date>2011-08-18</Date>
+  <Time>08:30</Time>
+  <Locality>Araranguá, Araranguá, Santa Catarina</Locality>
+  <Latitude>-28.9361</Latitude>
+  <Longitude>-49.4923</Longitude>
+  <Elevation>10</Elevation>
+  <Author>João Antônio de B. Vitto</Author>
+  <AuthorID>RIVNLYTULO</AuthorID>
+  <Content>call</Content>
+  <Comments>bird-seen:yesplayback-used:no</Comments>
+  <Quality>0</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Thraupidae</Family>
+  <Genus>Tachyphonus</Genus>
+  <Species>coronatus</Species>
+  <Sub-species />
+  <VernacularNames>Ruby-crowned Tanager</VernacularNames>
+</Audio>

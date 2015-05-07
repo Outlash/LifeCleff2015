@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>4687</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN4687.wav</FileName>
+  <ClassId>gcyuvy</ClassId>
+  <Date>2005-08-17</Date>
+  <Time>07:00</Time>
+  <Locality>ZF3 road, 80km north of Manaus</Locality>
+  <Latitude>-2.333</Latitude>
+  <Longitude>-60.064</Longitude>
+  <Elevation>?</Elevation>
+  <Author>Thiago Vernaschi V. Costa</Author>
+  <AuthorID>FPHQAPNAFU</AuthorID>
+  <Content>call</Content>
+  <Comments />
+  <Quality>2</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Tyrannidae</Family>
+  <Genus>Attila</Genus>
+  <Species>spadiceus</Species>
+  <Sub-species />
+  <VernacularNames>Bright-rumped Attila</VernacularNames>
+</Audio>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>20040</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN20040.wav</FileName>
+  <ClassId>ejtezg</ClassId>
+  <Date>2007-04-04</Date>
+  <Time>06:15</Time>
+  <Locality>Munchique National Park</Locality>
+  <Latitude>2.287295</Latitude>
+  <Longitude>-77.124023</Longitude>
+  <Elevation>2300</Elevation>
+  <Author>Oswaldo Cortes y Juan Pablo Lopez</Author>
+  <AuthorID>VVDRVZCVWW</AuthorID>
+  <Content>?</Content>
+  <Comments />
+  <Quality>4</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Troglodytidae</Family>
+  <Genus>Henicorhina</Genus>
+  <Species>negreti</Species>
+  <Sub-species />
+  <VernacularNames>Munchique Wood Wren</VernacularNames>
+</Audio>

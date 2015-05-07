@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>23261</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN23261.wav</FileName>
+  <ClassId>aziqpv</ClassId>
+  <Date>2006-08-06</Date>
+  <Time>16:40</Time>
+  <Locality>Sítio Pitombeiras, Feira Nova, Pernambuco</Locality>
+  <Latitude>NULL</Latitude>
+  <Longitude>NULL</Longitude>
+  <Elevation>169</Elevation>
+  <Author>Glauco Alves Pereira</Author>
+  <AuthorID>ZWEROGGYVP</AuthorID>
+  <Content>call</Content>
+  <Comments>Open area with trees</Comments>
+  <Quality>2</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Thraupidae</Family>
+  <Genus>Sicalis</Genus>
+  <Species>luteola</Species>
+  <Sub-species />
+  <VernacularNames>Grassland Yellow Finch</VernacularNames>
+</Audio>

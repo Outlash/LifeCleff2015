@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>4619</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN4619.wav</FileName>
+  <ClassId>asvgnp</ClassId>
+  <Date>2008-08-10</Date>
+  <Time>11:11</Time>
+  <Locality>RPPN Pontal da Barra - Pelotas, Rio Grande do Sul</Locality>
+  <Latitude>-31.78333</Latitude>
+  <Longitude>-52.22</Longitude>
+  <Elevation>0</Elevation>
+  <Author>Fernando Jacobs</Author>
+  <AuthorID>MHHPJBCUXC</AuthorID>
+  <Content>calls (?)</Content>
+  <Comments />
+  <Quality>3</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies />
+  <Order>Falconiformes</Order>
+  <Family>Falconidae</Family>
+  <Genus>Milvago</Genus>
+  <Species>chimachima</Species>
+  <Sub-species />
+  <VernacularNames>Yellow-headed Caracara</VernacularNames>
+</Audio>

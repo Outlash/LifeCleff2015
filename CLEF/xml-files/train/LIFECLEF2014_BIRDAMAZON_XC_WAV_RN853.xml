@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>853</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN853.wav</FileName>
+  <ClassId>scjydk</ClassId>
+  <Date>2003-12-04</Date>
+  <Time>07:23</Time>
+  <Locality>Pousada Araras, Pantanal, MT</Locality>
+  <Latitude>-16.5167</Latitude>
+  <Longitude>-56.7167</Longitude>
+  <Elevation>120</Elevation>
+  <Author>Jeremy Minns</Author>
+  <AuthorID>DGVLLRYDXS</AuthorID>
+  <Content>Calls, perched</Content>
+  <Comments>Araras Eco Lodge. Seasonally flooded pasture and gallery forest.</Comments>
+  <Quality>2</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies>Leptotila verreauxi,Campylorhynchus turdinus,Saltator coerulescens,Gnorimopsar chopi</BackgroundSpecies>
+  <Order>Psittaciformes</Order>
+  <Family>Psittacidae</Family>
+  <Genus>Anodorhynchus</Genus>
+  <Species>hyacinthinus</Species>
+  <Sub-species />
+  <VernacularNames>Hyacinth Macaw</VernacularNames>
+</Audio>

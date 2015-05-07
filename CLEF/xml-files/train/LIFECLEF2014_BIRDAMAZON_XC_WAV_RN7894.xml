@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>7894</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN7894.wav</FileName>
+  <ClassId>pnosvx</ClassId>
+  <Date>2010-11-16</Date>
+  <Time>05:32</Time>
+  <Locality>Paragominas, PA, Brazil, Bacia 342</Locality>
+  <Latitude>-3.3109</Latitude>
+  <Longitude>-48.1828</Longitude>
+  <Elevation>?</Elevation>
+  <Author>Nargila Moura</Author>
+  <AuthorID>CWEIBYBYYD</AuthorID>
+  <Content>song</Content>
+  <Comments>primaryforest (selectively logged)</Comments>
+  <Quality>4</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies>Trogon viridis,Myrmotherula menetriesii,Phlegopsis nigromaculata,Glyphorynchus spirurus</BackgroundSpecies>
+  <Order>Columbiformes</Order>
+  <Family>Columbidae</Family>
+  <Genus>Geotrygon</Genus>
+  <Species>montana</Species>
+  <Sub-species>montana</Sub-species>
+  <VernacularNames>Ruddy Quail-Dove</VernacularNames>
+</Audio>

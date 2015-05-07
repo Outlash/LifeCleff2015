@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>8507</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN8507.wav</FileName>
+  <ClassId>gzfudv</ClassId>
+  <Date>2005-05-15</Date>
+  <Time>07:40</Time>
+  <Locality>Fazenda Zenitti, Alta Floresta</Locality>
+  <Latitude>-9.904</Latitude>
+  <Longitude>-56.195</Longitude>
+  <Elevation>?</Elevation>
+  <Author>Alexander Lees</Author>
+  <AuthorID>INDDBZAFJL</AuthorID>
+  <Content>call</Content>
+  <Comments>riparian forest corridor</Comments>
+  <Quality>0</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies>Sclateria naevia,Troglodytes aedon</BackgroundSpecies>
+  <Order>Psittaciformes</Order>
+  <Family>Psittacidae</Family>
+  <Genus>Orthopsittaca</Genus>
+  <Species>manilatus</Species>
+  <Sub-species />
+  <VernacularNames>Red-bellied Macaw</VernacularNames>
+</Audio>

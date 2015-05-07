@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>18208</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN18208.wav</FileName>
+  <ClassId>fdjofa</ClassId>
+  <Date>2011-08-08</Date>
+  <Time>08:00</Time>
+  <Locality>Coloso, Sucre, Montes de Maria</Locality>
+  <Latitude>9.505</Latitude>
+  <Longitude>-75.369</Longitude>
+  <Elevation>300</Elevation>
+  <Author>Oswaldo Cortes</Author>
+  <AuthorID>VVDRVZCVWW</AuthorID>
+  <Content>song</Content>
+  <Comments />
+  <Quality>3</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Psittaciformes</Order>
+  <Family>Psittacidae</Family>
+  <Genus>Pionus</Genus>
+  <Species>menstruus</Species>
+  <Sub-species />
+  <VernacularNames>Blue-headed Parrot</VernacularNames>
+</Audio>

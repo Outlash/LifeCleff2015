@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>9738</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN9738.wav</FileName>
+  <ClassId>mwocnj</ClassId>
+  <Date>2011-12-17</Date>
+  <Time>?</Time>
+  <Locality>Salseiro, Vidal Ramos, Santa Catarina</Locality>
+  <Latitude>-27.39726</Latitude>
+  <Longitude>-49.379082</Longitude>
+  <Elevation>450</Elevation>
+  <Author>Evair Legal</Author>
+  <AuthorID>SMJXFKLATM</AuthorID>
+  <Content>song</Content>
+  <Comments />
+  <Quality>0</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Thamnophilidae</Family>
+  <Genus>Drymophila</Genus>
+  <Species>malura</Species>
+  <Sub-species />
+  <VernacularNames>Dusky-tailed Antbird</VernacularNames>
+</Audio>

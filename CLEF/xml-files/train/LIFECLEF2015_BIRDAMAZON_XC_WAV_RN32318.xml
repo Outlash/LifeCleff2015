@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>32318</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN32318.wav</FileName>
+  <ClassId>fcjizc</ClassId>
+  <Date>1999-03-19</Date>
+  <Time>10:00</Time>
+  <Locality>La Suiza (sendero El Manzano), SFF Otun/Quimbaya, corregimiento La Florida, Pereira, Risaralda</Locality>
+  <Latitude>NULL</Latitude>
+  <Longitude>NULL</Longitude>
+  <Elevation>1700</Elevation>
+  <Author>Bernabe Lopez-Lanus</Author>
+  <AuthorID>BYLLSJRVDZ</AuthorID>
+  <Content>call</Content>
+  <Comments />
+  <Quality>1</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Parulidae</Family>
+  <Genus>Myiothlypis</Genus>
+  <Species>coronata</Species>
+  <Sub-species />
+  <VernacularNames>Russet-crowned Warbler</VernacularNames>
+</Audio>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>14342</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN14342.wav</FileName>
+  <ClassId>djuprc</ClassId>
+  <Date>2010-01-26</Date>
+  <Time>?:?</Time>
+  <Locality>Trois roi river, Macouria</Locality>
+  <Latitude>NULL</Latitude>
+  <Longitude>NULL</Longitude>
+  <Elevation>3</Elevation>
+  <Author>Alexandre Renaudier</Author>
+  <AuthorID>GKADEITXTH</AuthorID>
+  <Content>call</Content>
+  <Comments />
+  <Quality>1</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Tyrannidae</Family>
+  <Genus>Philohydor</Genus>
+  <Species>lictor</Species>
+  <Sub-species />
+  <VernacularNames>Lesser Kiskadee</VernacularNames>
+</Audio>

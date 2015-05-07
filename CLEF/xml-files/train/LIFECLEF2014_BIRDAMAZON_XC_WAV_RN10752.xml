@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>10752</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN10752.wav</FileName>
+  <ClassId>omlmlo</ClassId>
+  <Date>2006-09-20</Date>
+  <Time>15:40</Time>
+  <Locality>Mucugê, Bahia.</Locality>
+  <Latitude>NULL</Latitude>
+  <Longitude>NULL</Longitude>
+  <Elevation>?</Elevation>
+  <Author>Sidnei S. dos Santos</Author>
+  <AuthorID>BHODJXTHGQ</AuthorID>
+  <Content>Song</Content>
+  <Comments />
+  <Quality>2</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Cardinalidae</Family>
+  <Genus>Cyanocompsa</Genus>
+  <Species>brissonii</Species>
+  <Sub-species />
+  <VernacularNames>Ultramarine Grosbeak</VernacularNames>
+</Audio>

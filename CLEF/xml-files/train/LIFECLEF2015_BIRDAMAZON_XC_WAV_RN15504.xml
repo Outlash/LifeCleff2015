@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>15504</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN15504.wav</FileName>
+  <ClassId>uphahj</ClassId>
+  <Date>2014-03-28</Date>
+  <Time>08:00</Time>
+  <Locality>Nossa Senhora do Livramento, Mato Grosso</Locality>
+  <Latitude>-16.3811</Latitude>
+  <Longitude>-56.3503</Longitude>
+  <Elevation>130</Elevation>
+  <Author>GABRIEL LEITE</Author>
+  <AuthorID>TGBFXDVERJ</AuthorID>
+  <Content>song</Content>
+  <Comments>bird-seen:yesplayback-used:no</Comments>
+  <Quality>1</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Accipitriformes</Order>
+  <Family>Accipitridae</Family>
+  <Genus>Rupornis</Genus>
+  <Species>magnirostris</Species>
+  <Sub-species />
+  <VernacularNames>Roadside Hawk</VernacularNames>
+</Audio>

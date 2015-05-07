@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>9717</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN9717.wav</FileName>
+  <ClassId>bmiqmk</ClassId>
+  <Date>2005-11-23</Date>
+  <Time>17:15</Time>
+  <Locality>Parque do Zizo, Sao Paulo State</Locality>
+  <Latitude>-24.017146</Latitude>
+  <Longitude>-47.81044</Longitude>
+  <Elevation>630</Elevation>
+  <Author>Bob Planqué</Author>
+  <AuthorID>OH38YHKJBS</AuthorID>
+  <Content>call</Content>
+  <Comments />
+  <Quality>2</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies>Schiffornis virescens</BackgroundSpecies>
+  <Order>Passeriformes</Order>
+  <Family>Pipridae</Family>
+  <Genus>Chiroxiphia</Genus>
+  <Species>caudata</Species>
+  <Sub-species />
+  <VernacularNames>Blue Manakin</VernacularNames>
+</Audio>

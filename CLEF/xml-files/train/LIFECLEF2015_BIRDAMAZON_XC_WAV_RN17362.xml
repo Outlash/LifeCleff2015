@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>17362</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN17362.wav</FileName>
+  <ClassId>jxukvv</ClassId>
+  <Date>2008-08-03</Date>
+  <Time>07:11</Time>
+  <Locality>San Bernardo (Cundinamarca)</Locality>
+  <Latitude>4.2001</Latitude>
+  <Longitude>-74.4128</Longitude>
+  <Elevation>2500</Elevation>
+  <Author>Oswaldo Cortes</Author>
+  <AuthorID>VVDRVZCVWW</AuthorID>
+  <Content>song</Content>
+  <Comments />
+  <Quality>3</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Grallariidae</Family>
+  <Genus>Grallaria</Genus>
+  <Species>hypoleuca</Species>
+  <Sub-species />
+  <VernacularNames>White-bellied Antpitta</VernacularNames>
+</Audio>

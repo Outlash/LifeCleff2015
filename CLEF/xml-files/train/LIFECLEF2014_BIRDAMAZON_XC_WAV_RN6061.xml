@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>6061</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN6061.wav</FileName>
+  <ClassId>yznhag</ClassId>
+  <Date>2001-11-10</Date>
+  <Time>05:03</Time>
+  <Locality>Mata do Crasto, Município de Santa Luzia do Itanhy, Sergipe</Locality>
+  <Latitude>-11.3834</Latitude>
+  <Longitude>-37.4001</Longitude>
+  <Elevation>10</Elevation>
+  <Author>Jeremy Minns</Author>
+  <AuthorID>DGVLLRYDXS</AuthorID>
+  <Content>Song</Content>
+  <Comments>Lowland humid forest.</Comments>
+  <Quality>1</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies>Thamnophilus ambiguus,Vireo olivaceus,Pheugopedius genibarbis,Coereba flaveola</BackgroundSpecies>
+  <Order>Passeriformes</Order>
+  <Family>Thamnophilidae</Family>
+  <Genus>Pyriglena</Genus>
+  <Species>atra</Species>
+  <Sub-species />
+  <VernacularNames>Fringe-backed Fire-eye</VernacularNames>
+</Audio>

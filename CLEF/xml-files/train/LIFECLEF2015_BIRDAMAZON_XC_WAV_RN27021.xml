@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>27021</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN27021.wav</FileName>
+  <ClassId>dyxufx</ClassId>
+  <Date>2012-08-15</Date>
+  <Time>12:33</Time>
+  <Locality>El Paujil Bird Reserve, Dept of Boyaca &amp;amp, Santander</Locality>
+  <Latitude>5.8334</Latitude>
+  <Longitude>-74.8667</Longitude>
+  <Elevation>200</Elevation>
+  <Author>Oswaldo Cortes</Author>
+  <AuthorID>VVDRVZCVWW</AuthorID>
+  <Content>song</Content>
+  <Comments />
+  <Quality>3</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Thamnophilidae</Family>
+  <Genus>Thamnophilus</Genus>
+  <Species>atrinucha</Species>
+  <Sub-species />
+  <VernacularNames>Black-crowned Antshrike</VernacularNames>
+</Audio>

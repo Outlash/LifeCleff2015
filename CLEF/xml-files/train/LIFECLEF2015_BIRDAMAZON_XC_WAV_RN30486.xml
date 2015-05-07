@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>30486</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN30486.wav</FileName>
+  <ClassId>rndrjp</ClassId>
+  <Date>2013-09-11</Date>
+  <Time>10:30</Time>
+  <Locality>Cristalino Jungle Lodge, MT</Locality>
+  <Latitude>-9.5981</Latitude>
+  <Longitude>-55.932</Longitude>
+  <Elevation>260</Elevation>
+  <Author>Micah Riegner</Author>
+  <AuthorID>TXYAPFWGKB</AuthorID>
+  <Content>song</Content>
+  <Comments>Calling in seasonally flooded forest.bird-seen:yesplayback-used:yes</Comments>
+  <Quality>1</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies>Hemitriccus griseipectus</BackgroundSpecies>
+  <Order>Piciformes</Order>
+  <Family>Galbulidae</Family>
+  <Genus>Jacamerops</Genus>
+  <Species>aureus</Species>
+  <Sub-species />
+  <VernacularNames>Great Jacamar</VernacularNames>
+</Audio>

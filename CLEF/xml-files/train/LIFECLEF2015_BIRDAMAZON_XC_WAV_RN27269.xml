@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>27269</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN27269.wav</FileName>
+  <ClassId>ggcbtt</ClassId>
+  <Date>2011-02-11</Date>
+  <Time>13:30</Time>
+  <Locality>Jaú, São Paulo</Locality>
+  <Latitude>-22.1718</Latitude>
+  <Longitude>-48.404</Longitude>
+  <Elevation>650</Elevation>
+  <Author>Paulo Guerra</Author>
+  <AuthorID>NLROPBPDRI</AuthorID>
+  <Content>song</Content>
+  <Comments>bird-seen:yes</Comments>
+  <Quality>2</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Corvidae</Family>
+  <Genus>Cyanocorax</Genus>
+  <Species>chrysops</Species>
+  <Sub-species />
+  <VernacularNames>Plush-crested Jay</VernacularNames>
+</Audio>

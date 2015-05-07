@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>30392</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN30392.wav</FileName>
+  <ClassId>szldxi</ClassId>
+  <Date>2011-10-19</Date>
+  <Time>09:23</Time>
+  <Locality>Vidal Ramos, Santa Catarina</Locality>
+  <Latitude>-27.3536</Latitude>
+  <Longitude>-49.348</Longitude>
+  <Elevation>400</Elevation>
+  <Author>Douglas Meyer</Author>
+  <AuthorID>MNENFHYTAE</AuthorID>
+  <Content>call</Content>
+  <Comments>bird-seen:yesplayback-used:no</Comments>
+  <Quality>0</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Tyrannidae</Family>
+  <Genus>Elaenia</Genus>
+  <Species>mesoleuca</Species>
+  <Sub-species />
+  <VernacularNames>Olivaceous Elaenia</VernacularNames>
+</Audio>

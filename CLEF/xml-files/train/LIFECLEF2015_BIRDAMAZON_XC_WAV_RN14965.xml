@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>14965</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN14965.wav</FileName>
+  <ClassId>rbdxus</ClassId>
+  <Date>2010-03-11</Date>
+  <Time>09:30</Time>
+  <Locality>Réserve Trésor - Montagne de Kaw - Roura</Locality>
+  <Latitude>NULL</Latitude>
+  <Longitude>NULL</Longitude>
+  <Elevation>?</Elevation>
+  <Author>Patrick INGREMEAU</Author>
+  <AuthorID>IIVTYSKEYX</AuthorID>
+  <Content>song</Content>
+  <Comments />
+  <Quality>2</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Thraupidae</Family>
+  <Genus>Ramphocelus</Genus>
+  <Species>carbo</Species>
+  <Sub-species />
+  <VernacularNames>Silver-beaked Tanager</VernacularNames>
+</Audio>

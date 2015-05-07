@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>6872</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN6872.wav</FileName>
+  <ClassId>zsociq</ClassId>
+  <Date>2011-09-01</Date>
+  <Time>05:30</Time>
+  <Locality>Pantanal Wildlife Center, MT</Locality>
+  <Latitude>-16.7581</Latitude>
+  <Longitude>-56.8764</Longitude>
+  <Elevation>110</Elevation>
+  <Author>Eric DeFonso</Author>
+  <AuthorID>KTLCZCRCQX</AuthorID>
+  <Content>song</Content>
+  <Comments>Dawn chorus. Wind noise filtered below 100 Hz. Habitat is tropical deciduous woodland in dry season.bird-seen:yesplayback-used:no</Comments>
+  <Quality>1</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies />
+  <Order>Galliformes</Order>
+  <Family>Cracidae</Family>
+  <Genus>Ortalis</Genus>
+  <Species>canicollis</Species>
+  <Sub-species />
+  <VernacularNames>Chaco Chachalaca</VernacularNames>
+</Audio>

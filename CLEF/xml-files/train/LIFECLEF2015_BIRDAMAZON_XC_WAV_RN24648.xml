@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>24648</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN24648.wav</FileName>
+  <ClassId>dcwqzi</ClassId>
+  <Date>2011-02-01</Date>
+  <Time>08:27</Time>
+  <Locality>Bacia 157, Santarem</Locality>
+  <Latitude>-2.833</Latitude>
+  <Longitude>-54.493</Longitude>
+  <Elevation>?</Elevation>
+  <Author>Nargila Moura</Author>
+  <AuthorID>CWEIBYBYYD</AuthorID>
+  <Content>call</Content>
+  <Comments>Primary forest</Comments>
+  <Quality>3</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies>Lipaugus vociferans</BackgroundSpecies>
+  <Order>Tinamiformes</Order>
+  <Family>Tinamidae</Family>
+  <Genus>Tinamus</Genus>
+  <Species>guttatus</Species>
+  <Sub-species />
+  <VernacularNames>White-throated Tinamou</VernacularNames>
+</Audio>

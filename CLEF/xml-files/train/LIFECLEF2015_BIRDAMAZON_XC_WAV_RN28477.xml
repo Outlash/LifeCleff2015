@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>28477</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN28477.wav</FileName>
+  <ClassId>lsoxmb</ClassId>
+  <Date>2014-03-03</Date>
+  <Time>11:00</Time>
+  <Locality>Santana do Paraíso, Minas Gerais</Locality>
+  <Latitude>-19.3613</Latitude>
+  <Longitude>-42.5434</Longitude>
+  <Elevation>320</Elevation>
+  <Author>Roney Assis Souza</Author>
+  <AuthorID>AJYSYOLBOF</AuthorID>
+  <Content>song</Content>
+  <Comments>bird-seen:yesplayback-used:no</Comments>
+  <Quality>0</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Mimidae</Family>
+  <Genus>Mimus</Genus>
+  <Species>saturninus</Species>
+  <Sub-species />
+  <VernacularNames>Chalk-browed Mockingbird</VernacularNames>
+</Audio>

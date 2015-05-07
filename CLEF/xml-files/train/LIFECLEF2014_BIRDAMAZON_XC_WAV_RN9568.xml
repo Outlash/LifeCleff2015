@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>9568</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN9568.wav</FileName>
+  <ClassId>hvojcw</ClassId>
+  <Date>2002-02-11</Date>
+  <Time>19:25</Time>
+  <Locality>Pirapora, MG</Locality>
+  <Latitude>-17.3584</Latitude>
+  <Longitude>-44.8501</Longitude>
+  <Elevation>540</Elevation>
+  <Author>Jeremy Minns</Author>
+  <AuthorID>DGVLLRYDXS</AuthorID>
+  <Content>flight call</Content>
+  <Comments>Wetland near Rio das Velhas. Single bird flying above open water.</Comments>
+  <Quality>2</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies>Jacana jacana</BackgroundSpecies>
+  <Order>Anseriformes</Order>
+  <Family>Anatidae</Family>
+  <Genus>Dendrocygna</Genus>
+  <Species>viduata</Species>
+  <Sub-species />
+  <VernacularNames>White-faced Whistling Duck</VernacularNames>
+</Audio>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>2498</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN2498.wav</FileName>
+  <ClassId>perzmu</ClassId>
+  <Date>2010-11-02</Date>
+  <Time>07:30</Time>
+  <Locality>Paragominas, PA, Brazil, Bacia 423</Locality>
+  <Latitude>-3.5189</Latitude>
+  <Longitude>-47.5039</Longitude>
+  <Elevation>?</Elevation>
+  <Author>Nargila Moura</Author>
+  <AuthorID>CWEIBYBYYD</AuthorID>
+  <Content>song</Content>
+  <Comments>secondary forest</Comments>
+  <Quality>3</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies>Crypturellus soui,Elaenia flavogaster,Troglodytes aedon,Thraupis episcopus,Saltator maximus</BackgroundSpecies>
+  <Order>Passeriformes</Order>
+  <Family>Coerebidae</Family>
+  <Genus>Coereba</Genus>
+  <Species>flaveola</Species>
+  <Sub-species />
+  <VernacularNames>Bananaquit</VernacularNames>
+</Audio>

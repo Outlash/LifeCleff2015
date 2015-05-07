@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>13064</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN13064.wav</FileName>
+  <ClassId>zrckxj</ClassId>
+  <Date>2013-02-11</Date>
+  <Time>11:00</Time>
+  <Locality>Estacao Ecologica de Jatai - Luis Antonio, Sao Paulo State</Locality>
+  <Latitude>-21.55</Latitude>
+  <Longitude>-47.7167</Longitude>
+  <Elevation>650</Elevation>
+  <Author>Bruno Arantes de Andrade Bueno</Author>
+  <AuthorID>BIZLGNOPNS</AuthorID>
+  <Content>call, song</Content>
+  <Comments>Recorded at border of a water stream in a patch of regenerating Cerrado sensu strictu vegetation. The main song was uttered as the two birds performed a display by opening and shaking their tails and wings.bird-seen:yesplayback-used:yes</Comments>
+  <Quality>2</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Furnariidae</Family>
+  <Genus>Cranioleuca</Genus>
+  <Species>vulpina</Species>
+  <Sub-species />
+  <VernacularNames>Rusty-backed Spinetail</VernacularNames>
+</Audio>

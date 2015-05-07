@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>918</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN918.wav</FileName>
+  <ClassId>uytsig</ClassId>
+  <Date>2012-12-07</Date>
+  <Time>10:00</Time>
+  <Locality>Ibirapuera Park,São Paulo city,São Paulo State</Locality>
+  <Latitude>-23.59</Latitude>
+  <Longitude>-46.66</Longitude>
+  <Elevation>750</Elevation>
+  <Author>Antonio Silveira</Author>
+  <AuthorID>NBJQSQJRYH</AuthorID>
+  <Content>call</Content>
+  <Comments>Four individuals call.bird-seen:yesplayback-used:no</Comments>
+  <Quality>2</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Turdidae</Family>
+  <Genus>Turdus</Genus>
+  <Species>leucomelas</Species>
+  <Sub-species />
+  <VernacularNames>Pale-breasted Thrush</VernacularNames>
+</Audio>

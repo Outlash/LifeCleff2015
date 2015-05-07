@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>1375</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN1375.wav</FileName>
+  <ClassId>bjvdzx</ClassId>
+  <Date>2013-07-10</Date>
+  <Time>08:18</Time>
+  <Locality>Silves, Amazonas</Locality>
+  <Latitude>-2.9578</Latitude>
+  <Longitude>-58.348</Longitude>
+  <Elevation>30</Elevation>
+  <Author>Thiago Bicudo</Author>
+  <AuthorID>VPCOOSQDRP</AuthorID>
+  <Content>call, male</Content>
+  <Comments>bird-seen:yesplayback-used:no</Comments>
+  <Quality>1</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Troglodytidae</Family>
+  <Genus>Pheugopedius</Genus>
+  <Species>coraya</Species>
+  <Sub-species />
+  <VernacularNames>Coraya Wren</VernacularNames>
+</Audio>

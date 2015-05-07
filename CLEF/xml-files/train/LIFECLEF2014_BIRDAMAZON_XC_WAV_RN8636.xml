@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>8636</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN8636.wav</FileName>
+  <ClassId>muhjso</ClassId>
+  <Date>2007-10-06</Date>
+  <Time>14:15</Time>
+  <Locality>Horto Florestal, Cantareira, Sao Paulo city, Sao Paulo state</Locality>
+  <Latitude>-23.46</Latitude>
+  <Longitude>-46.638</Longitude>
+  <Elevation>830</Elevation>
+  <Author>Daniel Lane</Author>
+  <AuthorID>WOEAFQRMUD</AuthorID>
+  <Content>call</Content>
+  <Comments>Natural vocalizations from bird in understory of forest.</Comments>
+  <Quality>2</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Tyrannidae</Family>
+  <Genus>Lathrotriccus</Genus>
+  <Species>euleri</Species>
+  <Sub-species />
+  <VernacularNames>Euler's Flycatcher</VernacularNames>
+</Audio>

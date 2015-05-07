@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>6247</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN6247.wav</FileName>
+  <ClassId>coqwwn</ClassId>
+  <Date>0000-00-00</Date>
+  <Time>?</Time>
+  <Locality>Joanópolis, SP</Locality>
+  <Latitude>NULL</Latitude>
+  <Longitude>NULL</Longitude>
+  <Elevation>930</Elevation>
+  <Author>Luiz Fernando Figueiredo</Author>
+  <AuthorID>EYYKGDWADQ</AuthorID>
+  <Content>song</Content>
+  <Comments />
+  <Quality>4</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies>Saltator similis</BackgroundSpecies>
+  <Order>Passeriformes</Order>
+  <Family>Thraupidae</Family>
+  <Genus>Sporophila</Genus>
+  <Species>leucoptera</Species>
+  <Sub-species />
+  <VernacularNames>White-bellied Seedeater</VernacularNames>
+</Audio>

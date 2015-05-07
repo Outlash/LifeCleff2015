@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>25891</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN25891.wav</FileName>
+  <ClassId>dtjwwt</ClassId>
+  <Date>2000-02-18</Date>
+  <Time>14:15</Time>
+  <Locality>PN Sierra Nevada (Loma redonda-La Aguada), Merida</Locality>
+  <Latitude>NULL</Latitude>
+  <Longitude>NULL</Longitude>
+  <Elevation>3400</Elevation>
+  <Author>Bernabe Lopez-Lanus</Author>
+  <AuthorID>BYLLSJRVDZ</AuthorID>
+  <Content>Song</Content>
+  <Comments />
+  <Quality>0</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Rhinocryptidae</Family>
+  <Genus>Acropternis</Genus>
+  <Species>orthonyx</Species>
+  <Sub-species>orthonyx</Sub-species>
+  <VernacularNames>Ocellated Tapaculo</VernacularNames>
+</Audio>

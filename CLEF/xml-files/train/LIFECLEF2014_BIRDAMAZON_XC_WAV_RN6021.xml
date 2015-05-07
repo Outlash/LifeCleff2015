@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>6021</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN6021.wav</FileName>
+  <ClassId>fwafrc</ClassId>
+  <Date>2008-05-22</Date>
+  <Time>13:50</Time>
+  <Locality>Reserva Ecológica de Guapiaçu, RJ</Locality>
+  <Latitude>-22.5001</Latitude>
+  <Longitude>-42.7167</Longitude>
+  <Elevation>40</Elevation>
+  <Author>Ricardo Gagliardi</Author>
+  <AuthorID>YRDADNREOP</AuthorID>
+  <Content>alarm call</Content>
+  <Comments>That Shrike-like Cotinga call at BG comes from play-back tape by João Quental</Comments>
+  <Quality>2</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies>Rhytipterna simplex,Hemitriccus orbitatus,Laniisoma elegans</BackgroundSpecies>
+  <Order>Passeriformes</Order>
+  <Family>Thamnophilidae</Family>
+  <Genus>Terenura</Genus>
+  <Species>maculata</Species>
+  <Sub-species />
+  <VernacularNames>Streak-capped Antwren</VernacularNames>
+</Audio>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>14276</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN14276.wav</FileName>
+  <ClassId>vjukoo</ClassId>
+  <Date>2014-04-06</Date>
+  <Time>13:30</Time>
+  <Locality>Rio Bonito de Cima - Nova Friburgo - RJ</Locality>
+  <Latitude>-22.3917</Latitude>
+  <Longitude>-42.3751</Longitude>
+  <Elevation>850</Elevation>
+  <Author>Ricardo José Mitidieri</Author>
+  <AuthorID>CFRYARSVHN</AuthorID>
+  <Content>call</Content>
+  <Comments>bird-seen:noplayback-used:no</Comments>
+  <Quality>3</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Tyrannidae</Family>
+  <Genus>Attila</Genus>
+  <Species>rufus</Species>
+  <Sub-species>rufus</Sub-species>
+  <VernacularNames>Grey-hooded Attila</VernacularNames>
+</Audio>

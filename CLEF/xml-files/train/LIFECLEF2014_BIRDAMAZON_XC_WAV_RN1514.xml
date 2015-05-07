@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>1514</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN1514.wav</FileName>
+  <ClassId>objnpr</ClassId>
+  <Date>2013-10-30</Date>
+  <Time>09:00</Time>
+  <Locality>Parque do Caracol, Canela, Rio Grande do Sul, state</Locality>
+  <Latitude>-29.3132</Latitude>
+  <Longitude>-50.8538</Longitude>
+  <Elevation>700</Elevation>
+  <Author>Antonio Silveira</Author>
+  <AuthorID>NBJQSQJRYH</AuthorID>
+  <Content>alarm call, male, song</Content>
+  <Comments>male after palyback, in the forest near the river.bird-seen:yesplayback-used:yes</Comments>
+  <Quality>0</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Parulidae</Family>
+  <Genus>Setophaga</Genus>
+  <Species>pitiayumi</Species>
+  <Sub-species />
+  <VernacularNames>Tropical Parula</VernacularNames>
+</Audio>

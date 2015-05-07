@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>13683</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN13683.wav</FileName>
+  <ClassId>nrlglm</ClassId>
+  <Date>2005-04-15</Date>
+  <Time>17:45</Time>
+  <Locality>Engenho Opinioso, Amaraji, Pernambuco</Locality>
+  <Latitude>-8.385091</Latitude>
+  <Longitude>-35.44138</Longitude>
+  <Elevation>510</Elevation>
+  <Author>Glauco Alves Pereira</Author>
+  <AuthorID>ZWEROGGYVP</AuthorID>
+  <Content>call</Content>
+  <Comments />
+  <Quality>2</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies />
+  <Order>Falconiformes</Order>
+  <Family>Falconidae</Family>
+  <Genus>Caracara</Genus>
+  <Species>plancus</Species>
+  <Sub-species>plancus</Sub-species>
+  <VernacularNames>Southern Crested Caracara</VernacularNames>
+</Audio>

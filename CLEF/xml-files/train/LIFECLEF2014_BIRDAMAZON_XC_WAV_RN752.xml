@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>752</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN752.wav</FileName>
+  <ClassId>yplahx</ClassId>
+  <Date>2010-07-13</Date>
+  <Time>14:40</Time>
+  <Locality>Entre Rios, Bahia.</Locality>
+  <Latitude>NULL</Latitude>
+  <Longitude>NULL</Longitude>
+  <Elevation>?</Elevation>
+  <Author>Sidnei S. dos Santos</Author>
+  <AuthorID>BHODJXTHGQ</AuthorID>
+  <Content>Song</Content>
+  <Comments />
+  <Quality>0</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Polioptilidae</Family>
+  <Genus>Ramphocaenus</Genus>
+  <Species>melanurus</Species>
+  <Sub-species />
+  <VernacularNames>Long-billed Gnatwren</VernacularNames>
+</Audio>

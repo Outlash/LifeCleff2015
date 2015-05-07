@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>18149</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN18149.wav</FileName>
+  <ClassId>bmiqmk</ClassId>
+  <Date>2013-03-03</Date>
+  <Time>06:00</Time>
+  <Locality>Bairro do Guaraú, Peruíbe, São Paulo State</Locality>
+  <Latitude>-24.3167</Latitude>
+  <Longitude>-47.01</Longitude>
+  <Elevation>10</Elevation>
+  <Author>Bruno Lima</Author>
+  <AuthorID>DVJCMXOTVL</AuthorID>
+  <Content>call, male</Content>
+  <Comments>bird-seen:yesplayback-used:no</Comments>
+  <Quality>1</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Pipridae</Family>
+  <Genus>Chiroxiphia</Genus>
+  <Species>caudata</Species>
+  <Sub-species />
+  <VernacularNames>Blue Manakin</VernacularNames>
+</Audio>

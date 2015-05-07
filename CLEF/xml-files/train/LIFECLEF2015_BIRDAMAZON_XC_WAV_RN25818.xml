@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>25818</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN25818.wav</FileName>
+  <ClassId>wlxghh</ClassId>
+  <Date>2002-05-10</Date>
+  <Time>16:30</Time>
+  <Locality>5km west of San Isidro, Bolívar</Locality>
+  <Latitude>6.1501</Latitude>
+  <Longitude>-61.4706</Longitude>
+  <Elevation>170</Elevation>
+  <Author>Nick Athanas</Author>
+  <AuthorID>XRABICUARW</AuthorID>
+  <Content>lekking</Content>
+  <Comments>img:http://www.antpitta.com/images/photos/cotingas/Capuchinbird.jpg</Comments>
+  <Quality>1</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Cotingidae</Family>
+  <Genus>Perissocephalus</Genus>
+  <Species>tricolor</Species>
+  <Sub-species />
+  <VernacularNames>Capuchinbird</VernacularNames>
+</Audio>

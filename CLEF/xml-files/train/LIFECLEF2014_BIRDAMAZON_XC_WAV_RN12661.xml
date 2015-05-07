@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>12661</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN12661.wav</FileName>
+  <ClassId>bafzon</ClassId>
+  <Date>2004-08-15</Date>
+  <Time>06:53</Time>
+  <Locality>Borba, Amazonas</Locality>
+  <Latitude>-4.3881</Latitude>
+  <Longitude>-59.5934</Longitude>
+  <Elevation>30</Elevation>
+  <Author>Jeremy Minns</Author>
+  <AuthorID>DGVLLRYDXS</AuthorID>
+  <Content>Song</Content>
+  <Comments>Terra firme forest.</Comments>
+  <Quality>2</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies>Myrmoborus myotherinus,Celeus grammicus</BackgroundSpecies>
+  <Order>Passeriformes</Order>
+  <Family>Formicariidae</Family>
+  <Genus>Formicarius</Genus>
+  <Species>colma</Species>
+  <Sub-species>amazonicus</Sub-species>
+  <VernacularNames>Rufous-capped Antthrush</VernacularNames>
+</Audio>

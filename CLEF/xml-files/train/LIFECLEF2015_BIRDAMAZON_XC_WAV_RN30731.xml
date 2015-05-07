@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>30731</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN30731.wav</FileName>
+  <ClassId>vifxpb</ClassId>
+  <Date>2010-02-08</Date>
+  <Time>17:30</Time>
+  <Locality>RNA El Dorado, Sierra de Santa Marta, Magdalena</Locality>
+  <Latitude>11.1009</Latitude>
+  <Longitude>-74.072</Longitude>
+  <Elevation>1900</Elevation>
+  <Author>Frank Lambert</Author>
+  <AuthorID>YTUXOCTUEM</AuthorID>
+  <Content>call</Content>
+  <Comments>a pair calling to each other after playback</Comments>
+  <Quality>1</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Falconiformes</Order>
+  <Family>Falconidae</Family>
+  <Genus>Micrastur</Genus>
+  <Species>ruficollis</Species>
+  <Sub-species />
+  <VernacularNames>Barred Forest Falcon</VernacularNames>
+</Audio>

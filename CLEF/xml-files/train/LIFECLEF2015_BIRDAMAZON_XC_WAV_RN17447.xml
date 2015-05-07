@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>17447</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN17447.wav</FileName>
+  <ClassId>hrpdhr</ClassId>
+  <Date>2008-03-20</Date>
+  <Time>09:00</Time>
+  <Locality>crique Limonade amont, Saül</Locality>
+  <Latitude>3.5834</Latitude>
+  <Longitude>-53.2167</Longitude>
+  <Elevation>210</Elevation>
+  <Author>Olivier Claessens</Author>
+  <AuthorID>KRQYNRSSDF</AuthorID>
+  <Content>song</Content>
+  <Comments />
+  <Quality>1</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Tyrannidae</Family>
+  <Genus>Corythopis</Genus>
+  <Species>torquatus</Species>
+  <Sub-species />
+  <VernacularNames>Ringed Antpipit</VernacularNames>
+</Audio>

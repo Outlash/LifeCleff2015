@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>2877</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN2877.wav</FileName>
+  <ClassId>dfegpk</ClassId>
+  <Date>2012-11-29</Date>
+  <Time>07:00</Time>
+  <Locality>Canudos, Bahia</Locality>
+  <Latitude>-9.9501</Latitude>
+  <Longitude>-39.1501</Longitude>
+  <Elevation>400</Elevation>
+  <Author>GABRIEL LEITE</Author>
+  <AuthorID>TGBFXDVERJ</AuthorID>
+  <Content>flight call, song</Content>
+  <Comments>bird-seen:yesplayback-used:no</Comments>
+  <Quality>3</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies />
+  <Order>Psittaciformes</Order>
+  <Family>Psittacidae</Family>
+  <Genus>Amazona</Genus>
+  <Species>aestiva</Species>
+  <Sub-species />
+  <VernacularNames>Turquoise-fronted Amazon</VernacularNames>
+</Audio>

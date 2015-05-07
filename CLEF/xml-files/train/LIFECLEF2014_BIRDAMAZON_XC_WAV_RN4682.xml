@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>4682</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN4682.wav</FileName>
+  <ClassId>ltmght</ClassId>
+  <Date>2011-02-15</Date>
+  <Time>09:25</Time>
+  <Locality>Parque Estadual Intervales, SP</Locality>
+  <Latitude>-24.2759</Latitude>
+  <Longitude>-48.4181</Longitude>
+  <Elevation>850</Elevation>
+  <Author>Daniel Lane</Author>
+  <AuthorID>WOEAFQRMUD</AuthorID>
+  <Content>song</Content>
+  <Comments>Response to playback from a fixed perch very near ground in dense understory along roadbank in tropical forest with broken canopy.</Comments>
+  <Quality>2</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies>Thraupis ornata,Setophaga pitiayumi,Carpornis cucullata</BackgroundSpecies>
+  <Order>Passeriformes</Order>
+  <Family>Rhinocryptidae</Family>
+  <Genus>Eleoscytalopus</Genus>
+  <Species>indigoticus</Species>
+  <Sub-species />
+  <VernacularNames>White-breasted Tapaculo</VernacularNames>
+</Audio>

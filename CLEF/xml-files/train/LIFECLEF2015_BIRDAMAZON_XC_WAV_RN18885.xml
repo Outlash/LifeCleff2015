@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>18885</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN18885.wav</FileName>
+  <ClassId>fpfbua</ClassId>
+  <Date>2005-12-27</Date>
+  <Time>?</Time>
+  <Locality>Araripe National Forest, Crato, Ceará State</Locality>
+  <Latitude>-7.2501</Latitude>
+  <Longitude>-39.5834</Longitude>
+  <Elevation>750</Elevation>
+  <Author>Ciro Albano</Author>
+  <AuthorID>MXVQPUKGWW</AuthorID>
+  <Content>song</Content>
+  <Comments />
+  <Quality>2</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies>Hylopezus ochroleucus,Sakesphorus cristatus</BackgroundSpecies>
+  <Order>Passeriformes</Order>
+  <Family>Furnariidae</Family>
+  <Genus>Synallaxis</Genus>
+  <Species>scutata</Species>
+  <Sub-species />
+  <VernacularNames>Ochre-cheeked Spinetail</VernacularNames>
+</Audio>

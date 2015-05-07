@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>5625</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN5625.wav</FileName>
+  <ClassId>pjuaxh</ClassId>
+  <Date>2005-11-19</Date>
+  <Time>17:20</Time>
+  <Locality>Parque do Zizo, Sao Paulo State</Locality>
+  <Latitude>-24.017146</Latitude>
+  <Longitude>-47.81044</Longitude>
+  <Elevation>630</Elevation>
+  <Author>Bob Planqué</Author>
+  <AuthorID>OH38YHKJBS</AuthorID>
+  <Content>song</Content>
+  <Comments>a pair calling softly to each other</Comments>
+  <Quality>2</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies>Basileuterus culicivorus</BackgroundSpecies>
+  <Order>Trogoniformes</Order>
+  <Family>Trogonidae</Family>
+  <Genus>Trogon</Genus>
+  <Species>viridis</Species>
+  <Sub-species />
+  <VernacularNames>Green-backed Trogon</VernacularNames>
+</Audio>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>5354</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN5354.wav</FileName>
+  <ClassId>qdjrwu</ClassId>
+  <Date>2011-07-11</Date>
+  <Time>09:51</Time>
+  <Locality>Japor�, Mato Grosso do Sul state</Locality>
+  <Latitude>-23.8053</Latitude>
+  <Longitude>-54.5266</Longitude>
+  <Elevation>340</Elevation>
+  <Author>Joao Menezes</Author>
+  <AuthorID>BEYMZHZHIB</AuthorID>
+  <Content>song</Content>
+  <Comments />
+  <Quality>1</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies />
+  <Order>Tinamiformes</Order>
+  <Family>Tinamidae</Family>
+  <Genus>Crypturellus</Genus>
+  <Species>parvirostris</Species>
+  <Sub-species />
+  <VernacularNames>Small-billed Tinamou</VernacularNames>
+</Audio>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>27839</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN27839.wav</FileName>
+  <ClassId>kojbjz</ClassId>
+  <Date>1986-01-03</Date>
+  <Time>?</Time>
+  <Locality>Rio Oirá, frontera con Colombia, Apure</Locality>
+  <Latitude>7.3956</Latitude>
+  <Longitude>-72.2767</Longitude>
+  <Elevation>2350</Elevation>
+  <Author>Chris Parrish</Author>
+  <AuthorID>IHIOGGZVQA</AuthorID>
+  <Content>chek</Content>
+  <Comments />
+  <Quality>3</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Furnariidae</Family>
+  <Genus>Thripadectes</Genus>
+  <Species>flammulatus</Species>
+  <Sub-species>flammulatus</Sub-species>
+  <VernacularNames>Flammulated Treehunter</VernacularNames>
+</Audio>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>8327</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN8327.wav</FileName>
+  <ClassId>ghwdea</ClassId>
+  <Date>2001-06-17</Date>
+  <Time>?</Time>
+  <Locality>Estacao Ecologica de Angatuba, Sao Paulo State</Locality>
+  <Latitude>-23.58333</Latitude>
+  <Longitude>-48.38333</Longitude>
+  <Elevation>?</Elevation>
+  <Author>Luiz Fernando Figueiredo</Author>
+  <AuthorID>EYYKGDWADQ</AuthorID>
+  <Content>song</Content>
+  <Comments />
+  <Quality>1</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Cardinalidae</Family>
+  <Genus>Amaurospiza</Genus>
+  <Species>moesta</Species>
+  <Sub-species />
+  <VernacularNames>Blackish-blue Seedeater</VernacularNames>
+</Audio>

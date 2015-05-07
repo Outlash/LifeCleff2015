@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>17663</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN17663.wav</FileName>
+  <ClassId>hwhbbr</ClassId>
+  <Date>2006-08-11</Date>
+  <Time>07:05</Time>
+  <Locality>13km northeast of La Grita, Táchira</Locality>
+  <Latitude>8.2087</Latitude>
+  <Longitude>-71.887</Longitude>
+  <Elevation>2750</Elevation>
+  <Author>Nick Athanas</Author>
+  <AuthorID>XRABICUARW</AuthorID>
+  <Content>cascade</Content>
+  <Comments>so-called cascade song from pair.</Comments>
+  <Quality>1</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Emberizidae</Family>
+  <Genus>Atlapetes</Genus>
+  <Species>schistaceus</Species>
+  <Sub-species>castaneifrons</Sub-species>
+  <VernacularNames>Slaty Brush Finch</VernacularNames>
+</Audio>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>23447</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN23447.wav</FileName>
+  <ClassId>cvnsao</ClassId>
+  <Date>2014-09-30</Date>
+  <Time>08:00</Time>
+  <Locality>Intervales State Park, Sao Paolo</Locality>
+  <Latitude>-24.2667</Latitude>
+  <Longitude>-48.4167</Longitude>
+  <Elevation>850</Elevation>
+  <Author>Andrew Spencer</Author>
+  <AuthorID>CDTGHVBGZP</AuthorID>
+  <Content>song</Content>
+  <Comments>natural vocalization, song from a male bird moving at mid-height in a tall, dense bamboo patch in tall humid forest.  Song from the female of the pair faintly audible in the background several times.bird-seen:yesplayback-used:no</Comments>
+  <Quality>1</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Thamnophilidae</Family>
+  <Genus>Drymophila</Genus>
+  <Species>rubricollis</Species>
+  <Sub-species />
+  <VernacularNames>Bertoni's Antbird</VernacularNames>
+</Audio>

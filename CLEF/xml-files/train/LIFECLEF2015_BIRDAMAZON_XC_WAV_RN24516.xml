@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>24516</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN24516.wav</FileName>
+  <ClassId>oxhigs</ClassId>
+  <Date>2014-09-20</Date>
+  <Time>12:00</Time>
+  <Locality>Aldeia Velha</Locality>
+  <Latitude>-22.4678</Latitude>
+  <Longitude>-42.3082</Longitude>
+  <Elevation>50</Elevation>
+  <Author>Ricardo José Mitidieri</Author>
+  <AuthorID>CFRYARSVHN</AuthorID>
+  <Content>song</Content>
+  <Comments>bird-seen:yesplayback-used:no</Comments>
+  <Quality>0</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Cuculiformes</Order>
+  <Family>Cuculidae</Family>
+  <Genus>Crotophaga</Genus>
+  <Species>ani</Species>
+  <Sub-species />
+  <VernacularNames>Smooth-billed Ani</VernacularNames>
+</Audio>

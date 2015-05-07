@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>7452</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN7452.wav</FileName>
+  <ClassId>cyghvw</ClassId>
+  <Date>2009-05-31</Date>
+  <Time>07:00</Time>
+  <Locality>Ilha de Fora, Curuçá, Pará</Locality>
+  <Latitude>-0.7009</Latitude>
+  <Longitude>-47.8953</Longitude>
+  <Elevation>0</Elevation>
+  <Author>Sidnei Dantas</Author>
+  <AuthorID>NNCKQMBGPH</AuthorID>
+  <Content>call</Content>
+  <Comments>land forest</Comments>
+  <Quality>3</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies>Ramphastos vitellinus,Thamnophilus aethiops,Tolmomyias poliocephalus,Lophotriccus galeatus</BackgroundSpecies>
+  <Order>Falconiformes</Order>
+  <Family>Falconidae</Family>
+  <Genus>Micrastur</Genus>
+  <Species>semitorquatus</Species>
+  <Sub-species />
+  <VernacularNames>Collared Forest Falcon</VernacularNames>
+</Audio>

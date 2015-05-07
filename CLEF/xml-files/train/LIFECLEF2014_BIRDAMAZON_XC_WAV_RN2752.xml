@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>2752</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN2752.wav</FileName>
+  <ClassId>nvlywx</ClassId>
+  <Date>2000-09-20</Date>
+  <Time>06:15</Time>
+  <Locality>Transpantaneira south of Pixaim, MT</Locality>
+  <Latitude>-16.8248</Latitude>
+  <Longitude>-56.8448</Longitude>
+  <Elevation>110</Elevation>
+  <Author>Jeremy Minns</Author>
+  <AuthorID>DGVLLRYDXS</AuthorID>
+  <Content>duet, song</Content>
+  <Comments>9 km south of Pixaim. Duet by a pair in bushes beside road. The growls and lower frequency short notes are by the male, singing from the top of a small tree 3-4m high, the higher frequency short notes are by the female, which was foraging low down.</Comments>
+  <Quality>1</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies>Donacobius atricapilla,Saltator coerulescens</BackgroundSpecies>
+  <Order>Passeriformes</Order>
+  <Family>Thamnophilidae</Family>
+  <Genus>Cercomacra</Genus>
+  <Species>melanaria</Species>
+  <Sub-species />
+  <VernacularNames>Mato Grosso Antbird</VernacularNames>
+</Audio>

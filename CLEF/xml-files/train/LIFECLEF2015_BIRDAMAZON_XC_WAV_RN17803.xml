@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>17803</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN17803.wav</FileName>
+  <ClassId>kvowbh</ClassId>
+  <Date>2012-12-01</Date>
+  <Time>08:45</Time>
+  <Locality>Brownsberg Natuurpark, Brokopondo</Locality>
+  <Latitude>4.9459</Latitude>
+  <Longitude>-55.183</Longitude>
+  <Elevation>480</Elevation>
+  <Author>Jon King</Author>
+  <AuthorID>LNEEOOWCQR</AuthorID>
+  <Content>male, song</Content>
+  <Comments>Distance to mic. 4m. Natural song from ground.bird-seen:yesplayback-used:no</Comments>
+  <Quality>1</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Thamnophilidae</Family>
+  <Genus>Myrmeciza</Genus>
+  <Species>ferruginea</Species>
+  <Sub-species />
+  <VernacularNames>Ferruginous-backed Antbird</VernacularNames>
+</Audio>

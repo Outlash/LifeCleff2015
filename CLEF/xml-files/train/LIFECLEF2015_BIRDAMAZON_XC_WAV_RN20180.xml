@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>20180</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN20180.wav</FileName>
+  <ClassId>uipfam</ClassId>
+  <Date>2004-03-26</Date>
+  <Time>05:54</Time>
+  <Locality>Jeremoabo</Locality>
+  <Latitude>-10.063769</Latitude>
+  <Longitude>-38.339453</Longitude>
+  <Elevation>300</Elevation>
+  <Author>Jeremy Minns</Author>
+  <AuthorID>DGVLLRYDXS</AuthorID>
+  <Content>Song</Content>
+  <Comments>Fazenda Estreito. Shallow canyon with caatinga woodland. Pair present but only male sang.</Comments>
+  <Quality>1</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies>Vireo olivaceus,Polioptila plumbea</BackgroundSpecies>
+  <Order>Passeriformes</Order>
+  <Family>Thamnophilidae</Family>
+  <Genus>Formicivora</Genus>
+  <Species>melanogaster</Species>
+  <Sub-species>bahiae</Sub-species>
+  <VernacularNames>Black-bellied Antwren</VernacularNames>
+</Audio>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>6116</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN6116.wav</FileName>
+  <ClassId>qdnved</ClassId>
+  <Date>2005-02-15</Date>
+  <Time>pm</Time>
+  <Locality>Fazenda Capricornio, Ubatuba, Sao Paulo</Locality>
+  <Latitude>NULL</Latitude>
+  <Longitude>NULL</Longitude>
+  <Elevation>80</Elevation>
+  <Author>Bernabe Lopez-Lanus</Author>
+  <AuthorID>BYLLSJRVDZ</AuthorID>
+  <Content>Call</Content>
+  <Comments />
+  <Quality>4</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Tyrannidae</Family>
+  <Genus>Colonia</Genus>
+  <Species>colonus</Species>
+  <Sub-species>colonus</Sub-species>
+  <VernacularNames>Long-tailed Tyrant</VernacularNames>
+</Audio>

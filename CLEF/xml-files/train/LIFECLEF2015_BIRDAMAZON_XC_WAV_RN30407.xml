@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>30407</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN30407.wav</FileName>
+  <ClassId>mgeafu</ClassId>
+  <Date>2009-07-18</Date>
+  <Time>17:13</Time>
+  <Locality>RN Mana Dulce, Cundinamarca?</Locality>
+  <Latitude>NULL</Latitude>
+  <Longitude>NULL</Longitude>
+  <Elevation>310</Elevation>
+  <Author>Pablo Florez</Author>
+  <AuthorID>ISWBQKPBGS</AuthorID>
+  <Content>?</Content>
+  <Comments />
+  <Quality>0</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Fringillidae</Family>
+  <Genus>Euphonia</Genus>
+  <Species>concinna</Species>
+  <Sub-species />
+  <VernacularNames>Velvet-fronted Euphonia</VernacularNames>
+</Audio>

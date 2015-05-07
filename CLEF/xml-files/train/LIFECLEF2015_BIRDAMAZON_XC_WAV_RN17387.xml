@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>17387</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN17387.wav</FileName>
+  <ClassId>bthqkm</ClassId>
+  <Date>2005-06-10</Date>
+  <Time>18:00</Time>
+  <Locality>Floresta Amazonica Hotel, Alta Floresta, MT</Locality>
+  <Latitude>-9.8781</Latitude>
+  <Longitude>-56.0981</Longitude>
+  <Elevation>?</Elevation>
+  <Author>Alexander Lees</Author>
+  <AuthorID>INDDBZAFJL</AuthorID>
+  <Content>call</Content>
+  <Comments />
+  <Quality>3</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Accipitriformes</Order>
+  <Family>Accipitridae</Family>
+  <Genus>Harpia</Genus>
+  <Species>harpyja</Species>
+  <Sub-species />
+  <VernacularNames>Harpy Eagle</VernacularNames>
+</Audio>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>32741</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN32741.wav</FileName>
+  <ClassId>mvdpht</ClassId>
+  <Date>2000-05-17</Date>
+  <Time>xx:xx</Time>
+  <Locality>Villa de Leyva, Boyaca</Locality>
+  <Latitude>NULL</Latitude>
+  <Longitude>NULL</Longitude>
+  <Elevation>2150</Elevation>
+  <Author>Bernabe Lopez-Lanus</Author>
+  <AuthorID>BYLLSJRVDZ</AuthorID>
+  <Content>song</Content>
+  <Comments>In a dead toll tree in gardens area into the town, only by few minutes before flight long far again looking for a good habitat (!)</Comments>
+  <Quality>2</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Furnariidae</Family>
+  <Genus>Xiphocolaptes</Genus>
+  <Species>promeropirhynchus</Species>
+  <Sub-species>promeropirhynchus?</Sub-species>
+  <VernacularNames>Strong-billed Woodcreeper</VernacularNames>
+</Audio>

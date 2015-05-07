@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>17754</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN17754.wav</FileName>
+  <ClassId>syipvo</ClassId>
+  <Date>2011-10-06</Date>
+  <Time>07:45</Time>
+  <Locality>Serra da Moeda Natural Monument, Moeda, Minas Gerais</Locality>
+  <Latitude>-20.2775</Latitude>
+  <Longitude>-43.9704</Longitude>
+  <Elevation>1000</Elevation>
+  <Author>Luiz Gabriel Mazzoni</Author>
+  <AuthorID>MPOKMOFDDX</AuthorID>
+  <Content>song</Content>
+  <Comments>Semideciduous forest.bird-seen:yesplayback-used:yes</Comments>
+  <Quality>1</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies>Myiothlypis leucoblephara,Vireo olivaceus,Chiroxiphia caudata</BackgroundSpecies>
+  <Order>Passeriformes</Order>
+  <Family>Turdidae</Family>
+  <Genus>Turdus</Genus>
+  <Species>subalaris</Species>
+  <Sub-species />
+  <VernacularNames>Eastern Slaty Thrush</VernacularNames>
+</Audio>

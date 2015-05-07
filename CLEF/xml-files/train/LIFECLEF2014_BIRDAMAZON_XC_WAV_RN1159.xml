@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>1159</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN1159.wav</FileName>
+  <ClassId>drzdmn</ClassId>
+  <Date>2011-12-18</Date>
+  <Time>09:25</Time>
+  <Locality>Eldorado, Mato Grosso do Sul state</Locality>
+  <Latitude>-23.8501</Latitude>
+  <Longitude>-54.2537</Longitude>
+  <Elevation>340</Elevation>
+  <Author>Joao Menezes</Author>
+  <AuthorID>BEYMZHZHIB</AuthorID>
+  <Content>call</Content>
+  <Comments>A pair</Comments>
+  <Quality>1</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies />
+  <Order>Piciformes</Order>
+  <Family>Ramphastidae</Family>
+  <Genus>Ramphastos</Genus>
+  <Species>toco</Species>
+  <Sub-species />
+  <VernacularNames>Toco Toucan</VernacularNames>
+</Audio>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>27563</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN27563.wav</FileName>
+  <ClassId>fylfaz</ClassId>
+  <Date>2011-10-08</Date>
+  <Time>08:00</Time>
+  <Locality>Utica, Cundinamarca</Locality>
+  <Latitude>5.183</Latitude>
+  <Longitude>-74.48</Longitude>
+  <Elevation>1200</Elevation>
+  <Author>Oswaldo Cortes</Author>
+  <AuthorID>VVDRVZCVWW</AuthorID>
+  <Content>song</Content>
+  <Comments />
+  <Quality>3</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Thamnophilidae</Family>
+  <Genus>Cercomacra</Genus>
+  <Species>nigricans</Species>
+  <Sub-species />
+  <VernacularNames>Jet Antbird</VernacularNames>
+</Audio>

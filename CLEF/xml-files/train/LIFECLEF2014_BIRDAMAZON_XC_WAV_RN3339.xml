@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>3339</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN3339.wav</FileName>
+  <ClassId>lgrpvc</ClassId>
+  <Date>2013-07-13</Date>
+  <Time>14:30</Time>
+  <Locality>Itagiba, São Francisco de Paula, Rio Grande so Sul</Locality>
+  <Latitude>-29.5112</Latitude>
+  <Longitude>-50.5892</Longitude>
+  <Elevation>440</Elevation>
+  <Author>João Vitor Andriola</Author>
+  <AuthorID>QYKEUZZVOL</AuthorID>
+  <Content>call</Content>
+  <Comments>bird-seen:yesplayback-used:no</Comments>
+  <Quality>3</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Furnariidae</Family>
+  <Genus>Synallaxis</Genus>
+  <Species>ruficapilla</Species>
+  <Sub-species />
+  <VernacularNames>Rufous-capped Spinetail</VernacularNames>
+</Audio>

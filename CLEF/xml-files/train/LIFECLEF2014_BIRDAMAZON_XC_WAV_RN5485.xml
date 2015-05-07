@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>5485</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN5485.wav</FileName>
+  <ClassId>esguzq</ClassId>
+  <Date>2006-11-08</Date>
+  <Time>14:46</Time>
+  <Locality>Parque do Zizo, Sao Paulo state</Locality>
+  <Latitude>-24.017146</Latitude>
+  <Longitude>-47.81044</Longitude>
+  <Elevation>650</Elevation>
+  <Author>Jeremy Minns</Author>
+  <AuthorID>DGVLLRYDXS</AuthorID>
+  <Content>Song</Content>
+  <Comments>Humid forest with bamboo. Note variety of different endings to song.</Comments>
+  <Quality>2</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies>Hypoedaleus guttatus,Mackenziaena severa,Schiffornis virescens</BackgroundSpecies>
+  <Order>Passeriformes</Order>
+  <Family>Formicariidae</Family>
+  <Genus>Chamaeza</Genus>
+  <Species>campanisona</Species>
+  <Sub-species>campanisona</Sub-species>
+  <VernacularNames>Short-tailed Antthrush</VernacularNames>
+</Audio>

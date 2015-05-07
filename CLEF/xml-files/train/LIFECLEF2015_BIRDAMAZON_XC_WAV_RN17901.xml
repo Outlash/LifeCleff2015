@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>17901</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN17901.wav</FileName>
+  <ClassId>qiltib</ClassId>
+  <Date>2011-06-12</Date>
+  <Time>08:30</Time>
+  <Locality>Mitu, Vaupes</Locality>
+  <Latitude>1.2598</Latitude>
+  <Longitude>-70.2367</Longitude>
+  <Elevation>190</Elevation>
+  <Author>Andrew Spencer</Author>
+  <AuthorID>CDTGHVBGZP</AuthorID>
+  <Content>call, song</Content>
+  <Comments>calls and songs from a pair of birds in response to playback.  The target bird in this cut was the female, the male sings and calls a few times in the cut as well.</Comments>
+  <Quality>1</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Thamnophilidae</Family>
+  <Genus>Myrmotherula</Genus>
+  <Species>cherriei</Species>
+  <Sub-species />
+  <VernacularNames>Cherrie's Antwren</VernacularNames>
+</Audio>

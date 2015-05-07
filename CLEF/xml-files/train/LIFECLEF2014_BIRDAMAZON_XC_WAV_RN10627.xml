@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>10627</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN10627.wav</FileName>
+  <ClassId>bgjflj</ClassId>
+  <Date>2000-01-14</Date>
+  <Time>08:30</Time>
+  <Locality>Passo do Lontra, Pantanal de Miranda, MS</Locality>
+  <Latitude>-19.26667</Latitude>
+  <Longitude>-57.01667</Longitude>
+  <Elevation>90</Elevation>
+  <Author>Jeremy Minns</Author>
+  <AuthorID>DGVLLRYDXS</AuthorID>
+  <Content>Song</Content>
+  <Comments>Seasonally flooded cerrado. Pair.</Comments>
+  <Quality>1</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies>Leptotila verreauxi,Ramphocaenus melanurus</BackgroundSpecies>
+  <Order>Passeriformes</Order>
+  <Family>Troglodytidae</Family>
+  <Genus>Cantorchilus</Genus>
+  <Species>guarayanus</Species>
+  <Sub-species />
+  <VernacularNames>Fawn-breasted Wren</VernacularNames>
+</Audio>

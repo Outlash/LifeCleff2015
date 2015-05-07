@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>31697</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN31697.wav</FileName>
+  <ClassId>ktwbdx</ClassId>
+  <Date>2012-02-14</Date>
+  <Time>08:55</Time>
+  <Locality>Reserva Natural Mesenia - Paramillo</Locality>
+  <Latitude>5.483</Latitude>
+  <Longitude>-75.896</Longitude>
+  <Elevation>2200</Elevation>
+  <Author>Oswaldo Cortes</Author>
+  <AuthorID>VVDRVZCVWW</AuthorID>
+  <Content>call</Content>
+  <Comments />
+  <Quality>1</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies>Turdus fuscater</BackgroundSpecies>
+  <Order>Passeriformes</Order>
+  <Family>Troglodytidae</Family>
+  <Genus>Cinnycerthia</Genus>
+  <Species>olivascens</Species>
+  <Sub-species />
+  <VernacularNames>Sepia-brown Wren</VernacularNames>
+</Audio>

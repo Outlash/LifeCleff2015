@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>4840</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN4840.wav</FileName>
+  <ClassId>sxpisu</ClassId>
+  <Date>2006-03-08</Date>
+  <Time>7,2</Time>
+  <Locality>Serra da Aratanha, Pacatuba, state of Ceará</Locality>
+  <Latitude>-3.9667</Latitude>
+  <Longitude>-38.6334</Longitude>
+  <Elevation>450</Elevation>
+  <Author>Ciro Albano</Author>
+  <AuthorID>MXVQPUKGWW</AuthorID>
+  <Content>call, song</Content>
+  <Comments />
+  <Quality>2</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies>Turdus leucomelas,Basileuterus culicivorus,Myiodynastes maculatus,Coereba flaveola</BackgroundSpecies>
+  <Order>Psittaciformes</Order>
+  <Family>Psittacidae</Family>
+  <Genus>Brotogeris</Genus>
+  <Species>chiriri</Species>
+  <Sub-species />
+  <VernacularNames>Yellow-chevroned Parakeet</VernacularNames>
+</Audio>

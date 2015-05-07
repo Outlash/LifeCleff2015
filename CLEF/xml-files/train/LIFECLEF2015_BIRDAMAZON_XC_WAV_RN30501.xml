@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>30501</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN30501.wav</FileName>
+  <ClassId>lssubf</ClassId>
+  <Date>2011-04-06</Date>
+  <Time>06:30</Time>
+  <Locality>Juquitiba,  São Paulo</Locality>
+  <Latitude>-23.9832</Latitude>
+  <Longitude>-46.998</Longitude>
+  <Elevation>700</Elevation>
+  <Author>Fernando Igor de Godoy</Author>
+  <AuthorID>CHDHFSVVIN</AuthorID>
+  <Content>song, variation</Content>
+  <Comments>FNJV 30263bird-seen:yesplayback-used:no</Comments>
+  <Quality>2</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies>Cranioleuca pallida,Habia rubica</BackgroundSpecies>
+  <Order>Passeriformes</Order>
+  <Family>Thamnophilidae</Family>
+  <Genus>Drymophila</Genus>
+  <Species>ferruginea</Species>
+  <Sub-species />
+  <VernacularNames>Ferruginous Antbird</VernacularNames>
+</Audio>

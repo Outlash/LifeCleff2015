@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>2455</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN2455.wav</FileName>
+  <ClassId>pbqnkl</ClassId>
+  <Date>2003-08-03</Date>
+  <Time>9:00</Time>
+  <Locality>Praia do Gamela, Sirinhaém, Pernambuco</Locality>
+  <Latitude>-8.6114</Latitude>
+  <Longitude>-35.0392</Longitude>
+  <Elevation>0</Elevation>
+  <Author>Mauricio Cabral Periquito</Author>
+  <AuthorID>HERKCTHDZI</AuthorID>
+  <Content>alarm call</Content>
+  <Comments />
+  <Quality>1</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies />
+  <Order>Cuculiformes</Order>
+  <Family>Cuculidae</Family>
+  <Genus>Guira</Genus>
+  <Species>guira</Species>
+  <Sub-species />
+  <VernacularNames>Guira Cuckoo</VernacularNames>
+</Audio>

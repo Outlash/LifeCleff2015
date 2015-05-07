@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>15180</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN15180.wav</FileName>
+  <ClassId>cadwtw</ClassId>
+  <Date>2012-10-14</Date>
+  <Time>11:00</Time>
+  <Locality>Transpantaneira km 100, Mato Grosso</Locality>
+  <Latitude>-16.8781</Latitude>
+  <Longitude>-56.8419</Longitude>
+  <Elevation>110</Elevation>
+  <Author>Andrew Spencer</Author>
+  <AuthorID>CDTGHVBGZP</AuthorID>
+  <Content>song</Content>
+  <Comments>songs from the same male bird as in XC116261.bird-seen:yesplayback-used:yes</Comments>
+  <Quality>1</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Icteridae</Family>
+  <Genus>Amblyramphus</Genus>
+  <Species>holosericeus</Species>
+  <Sub-species />
+  <VernacularNames>Scarlet-headed Blackbird</VernacularNames>
+</Audio>

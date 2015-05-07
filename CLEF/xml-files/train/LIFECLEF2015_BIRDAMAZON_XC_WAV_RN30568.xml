@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>30568</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN30568.wav</FileName>
+  <ClassId>cwjrpd</ClassId>
+  <Date>2006-09-07</Date>
+  <Time>6:03</Time>
+  <Locality>Vereda el Tres y medio, Puerto Salgar, Cundinamarca. Magdalena medio</Locality>
+  <Latitude>NULL</Latitude>
+  <Longitude>NULL</Longitude>
+  <Elevation>300</Elevation>
+  <Author>Oscar Laverde</Author>
+  <AuthorID>WKVKSVMNDZ</AuthorID>
+  <Content>song</Content>
+  <Comments />
+  <Quality>0</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies>Leptotila verreauxi</BackgroundSpecies>
+  <Order>Passeriformes</Order>
+  <Family>Vireonidae</Family>
+  <Genus>Hylophilus</Genus>
+  <Species>flavipes</Species>
+  <Sub-species />
+  <VernacularNames>Scrub Greenlet</VernacularNames>
+</Audio>

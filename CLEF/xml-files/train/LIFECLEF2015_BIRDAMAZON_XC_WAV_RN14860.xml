@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>14860</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN14860.wav</FileName>
+  <ClassId>viluoh</ClassId>
+  <Date>2005-08-22</Date>
+  <Time>8:00</Time>
+  <Locality>Tena, Laguna de pedro palo, Cundinamarca</Locality>
+  <Latitude>4.6501</Latitude>
+  <Longitude>-74.3834</Longitude>
+  <Elevation>2000</Elevation>
+  <Author>Oscar Laverde</Author>
+  <AuthorID>WKVKSVMNDZ</AuthorID>
+  <Content>song</Content>
+  <Comments />
+  <Quality>3</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Tyrannidae</Family>
+  <Genus>Pitangus</Genus>
+  <Species>sulphuratus</Species>
+  <Sub-species />
+  <VernacularNames>Great Kiskadee</VernacularNames>
+</Audio>

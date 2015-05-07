@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>23181</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN23181.wav</FileName>
+  <ClassId>mwmwbb</ClassId>
+  <Date>2008-08-29</Date>
+  <Time>18:25</Time>
+  <Locality>Banhado do Maçarico - Rio Grande, Rio Grande do Sul</Locality>
+  <Latitude>NULL</Latitude>
+  <Longitude>NULL</Longitude>
+  <Elevation>0</Elevation>
+  <Author>Fernando Jacobs</Author>
+  <AuthorID>MHHPJBCUXC</AuthorID>
+  <Content>song</Content>
+  <Comments />
+  <Quality>2</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies>Thamnophilus ruficapillus,Vanellus chilensis,Embernagra platensis</BackgroundSpecies>
+  <Order>Passeriformes</Order>
+  <Family>Rhinocryptidae</Family>
+  <Genus>Scytalopus</Genus>
+  <Species>iraiensis</Species>
+  <Sub-species />
+  <VernacularNames>Marsh Tapaculo</VernacularNames>
+</Audio>

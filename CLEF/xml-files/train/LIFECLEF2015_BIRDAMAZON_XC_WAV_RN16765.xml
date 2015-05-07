@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>16765</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN16765.wav</FileName>
+  <ClassId>uvjypi</ClassId>
+  <Date>2008-02-15</Date>
+  <Time>10:00</Time>
+  <Locality>San Isidro - Andes</Locality>
+  <Latitude>8.7928</Latitude>
+  <Longitude>-70.8316</Longitude>
+  <Elevation>3600</Elevation>
+  <Author>Joe Klaiber</Author>
+  <AuthorID>TNPOVFLZMY</AuthorID>
+  <Content>song</Content>
+  <Comments>bird-seen:yesplayback-used:no</Comments>
+  <Quality>3</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Turdidae</Family>
+  <Genus>Myadestes</Genus>
+  <Species>ralloides</Species>
+  <Sub-species />
+  <VernacularNames>Andean Solitaire</VernacularNames>
+</Audio>

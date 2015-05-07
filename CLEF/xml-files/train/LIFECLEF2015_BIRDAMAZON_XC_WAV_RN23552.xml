@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>23552</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN23552.wav</FileName>
+  <ClassId>mbwjzf</ClassId>
+  <Date>2007-11-12</Date>
+  <Time>07:50</Time>
+  <Locality>Parque Regional Barbas-Bremen, Filandia, Quindio. Sector Bremen-La Popa</Locality>
+  <Latitude>4.6717</Latitude>
+  <Longitude>-75.6283</Longitude>
+  <Elevation>1800</Elevation>
+  <Author>Oscar Humberto Marin-Gomez</Author>
+  <AuthorID>CSUHASNRSU</AuthorID>
+  <Content>call</Content>
+  <Comments>Ref: OHM006A 1419. Forest edge. Low Montane Forest. 30m  to Mic. Natural Vocalization.bird-seen:noplayback-used:no</Comments>
+  <Quality>2</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Fringillidae</Family>
+  <Genus>Chlorophonia</Genus>
+  <Species>cyanea</Species>
+  <Sub-species />
+  <VernacularNames>Blue-naped Chlorophonia</VernacularNames>
+</Audio>

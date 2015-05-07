@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>6340</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN6340.wav</FileName>
+  <ClassId>wplnms</ClassId>
+  <Date>2013-06-22</Date>
+  <Time>10:30</Time>
+  <Locality>Xapuri, Acre</Locality>
+  <Latitude>-10.7427</Latitude>
+  <Longitude>-68.2818</Longitude>
+  <Elevation>220</Elevation>
+  <Author>Marcos A. Melo</Author>
+  <AuthorID>MRGDYNJGUJ</AuthorID>
+  <Content>song</Content>
+  <Comments>habitat: forest fragment with bamboo patch. bird-seen:yesplayback-used:no</Comments>
+  <Quality>2</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies>Crypturellus cinereus,Thamnophilus schistaceus,Myrmeciza atrothorax,Myrmeciza goeldii</BackgroundSpecies>
+  <Order>Trogoniformes</Order>
+  <Family>Trogonidae</Family>
+  <Genus>Trogon</Genus>
+  <Species>melanurus</Species>
+  <Sub-species />
+  <VernacularNames>Black-tailed Trogon</VernacularNames>
+</Audio>

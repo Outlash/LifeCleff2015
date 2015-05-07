@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>6662</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN6662.wav</FileName>
+  <ClassId>rhijnm</ClassId>
+  <Date>2011-11-14</Date>
+  <Time>18:03</Time>
+  <Locality>Reserva Ecológica de Guapi Açu (REGUA), RJ</Locality>
+  <Latitude>-22.4508</Latitude>
+  <Longitude>-42.7735</Longitude>
+  <Elevation>30</Elevation>
+  <Author>Eric DeFonso</Author>
+  <AuthorID>KTLCZCRCQX</AuthorID>
+  <Content>call</Content>
+  <Comments>Calls from a bird on a cattail in the wetland. Recorded from the footpath near the wetland ponds.bird-seen:yesplayback-used:no</Comments>
+  <Quality>2</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Icteridae</Family>
+  <Genus>Chrysomus</Genus>
+  <Species>ruficapillus</Species>
+  <Sub-species />
+  <VernacularNames>Chestnut-capped Blackbird</VernacularNames>
+</Audio>

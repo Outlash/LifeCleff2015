@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>24650</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN24650.wav</FileName>
+  <ClassId>htgkfv</ClassId>
+  <Date>2011-11-16</Date>
+  <Time>08:43</Time>
+  <Locality>Reserva Ecológica de Guapi Açu (REGUA), RJ</Locality>
+  <Latitude>-22.4508</Latitude>
+  <Longitude>-42.7735</Longitude>
+  <Elevation>30</Elevation>
+  <Author>Eric DeFonso</Author>
+  <AuthorID>KTLCZCRCQX</AuthorID>
+  <Content>song</Content>
+  <Comments>Brief sample of typical, natural song. Recorded along the Green trail which is away from the main lodge grounds and wetlands and heads into the higher hills in the reserve.bird-seen:yesplayback-used:no""</Comments>
+  <Quality>2</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Tyrannidae</Family>
+  <Genus>Mionectes</Genus>
+  <Species>oleagineus</Species>
+  <Sub-species />
+  <VernacularNames>Ochre-bellied Flycatcher</VernacularNames>
+</Audio>

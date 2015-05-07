@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>2802</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN2802.wav</FileName>
+  <ClassId>qrhwnu</ClassId>
+  <Date>2011-12-29</Date>
+  <Time>11:00</Time>
+  <Locality>Mae Catira</Locality>
+  <Latitude>-25.374</Latitude>
+  <Longitude>-48.882</Longitude>
+  <Elevation>250</Elevation>
+  <Author>Teus Luijendijk</Author>
+  <AuthorID>VLNULZJNSX</AuthorID>
+  <Content>call</Content>
+  <Comments>at least 4 birds</Comments>
+  <Quality>1</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies />
+  <Order>Piciformes</Order>
+  <Family>Ramphastidae</Family>
+  <Genus>Ramphastos</Genus>
+  <Species>vitellinus</Species>
+  <Sub-species />
+  <VernacularNames>Channel-billed Toucan</VernacularNames>
+</Audio>

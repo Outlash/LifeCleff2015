@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>10169</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN10169.wav</FileName>
+  <ClassId>qlpnws</ClassId>
+  <Date>2001-07-09</Date>
+  <Time>07:55</Time>
+  <Locality>Manaus. BR174 km 45</Locality>
+  <Latitude>-2.6001</Latitude>
+  <Longitude>-60.0167</Longitude>
+  <Elevation>100</Elevation>
+  <Author>Jeremy Minns</Author>
+  <AuthorID>DGVLLRYDXS</AuthorID>
+  <Content>Song</Content>
+  <Comments>Campina. Male, after playback. Second bird in background.</Comments>
+  <Quality>2</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Thamnophilidae</Family>
+  <Genus>Thamnophilus</Genus>
+  <Species>punctatus</Species>
+  <Sub-species>punctatus</Sub-species>
+  <VernacularNames>Northern Slaty Antshrike</VernacularNames>
+</Audio>

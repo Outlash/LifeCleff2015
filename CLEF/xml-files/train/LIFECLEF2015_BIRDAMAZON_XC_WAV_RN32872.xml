@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>32872</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN32872.wav</FileName>
+  <ClassId>ovipyl</ClassId>
+  <Date>2000-12-12</Date>
+  <Time>06:00</Time>
+  <Locality>Bogota, Quebrada la Vieja</Locality>
+  <Latitude>4.6231</Latitude>
+  <Longitude>-74.0562</Longitude>
+  <Elevation>2900</Elevation>
+  <Author>Doug Knapp</Author>
+  <AuthorID>BHRXQZEQFL</AuthorID>
+  <Content>Song</Content>
+  <Comments>The following recording called whistle-purr is same sp!""</Comments>
+  <Quality>1</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Grallariidae</Family>
+  <Genus>Grallaria</Genus>
+  <Species>rufula</Species>
+  <Sub-species />
+  <VernacularNames>Rufous Antpitta</VernacularNames>
+</Audio>

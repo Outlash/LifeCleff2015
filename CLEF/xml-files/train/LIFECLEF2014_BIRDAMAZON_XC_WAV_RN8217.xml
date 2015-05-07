@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>8217</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN8217.wav</FileName>
+  <ClassId>qpxgvo</ClassId>
+  <Date>2009-05-20</Date>
+  <Time>17:12</Time>
+  <Locality>Fazenda Santa Tereza, Rio Pixaim, Mato Grosso</Locality>
+  <Latitude>-16.7501</Latitude>
+  <Longitude>-56.8501</Longitude>
+  <Elevation>?</Elevation>
+  <Author>Paul Donahue</Author>
+  <AuthorID>LLRXADGTBA</AuthorID>
+  <Content>call</Content>
+  <Comments />
+  <Quality>2</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Tyrannidae</Family>
+  <Genus>Hemitriccus</Genus>
+  <Species>margaritaceiventer</Species>
+  <Sub-species />
+  <VernacularNames>Pearly-vented Tody-Tyrant</VernacularNames>
+</Audio>

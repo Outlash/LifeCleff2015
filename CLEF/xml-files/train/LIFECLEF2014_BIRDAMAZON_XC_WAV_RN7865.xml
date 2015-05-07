@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>7865</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN7865.wav</FileName>
+  <ClassId>hgmqff</ClassId>
+  <Date>2004-03-24</Date>
+  <Time>08:44</Time>
+  <Locality>Jaqueira Private Reserve, State of Pernambuco</Locality>
+  <Latitude>-8.72667</Latitude>
+  <Longitude>-35.79333</Longitude>
+  <Elevation>700</Elevation>
+  <Author>Jeremy Minns</Author>
+  <AuthorID>DGVLLRYDXS</AuthorID>
+  <Content>call, song</Content>
+  <Comments>Montane forest. Calls by an unseen bird or birds and then a single song by a female. These are Calls A and C in our DVD-ROM 'Birds of Brazil'.</Comments>
+  <Quality>1</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Thamnophilidae</Family>
+  <Genus>Myrmeciza</Genus>
+  <Species>ruficauda</Species>
+  <Sub-species>soror</Sub-species>
+  <VernacularNames>Scalloped Antbird</VernacularNames>
+</Audio>

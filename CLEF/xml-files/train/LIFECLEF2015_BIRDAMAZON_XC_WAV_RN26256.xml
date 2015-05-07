@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>26256</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN26256.wav</FileName>
+  <ClassId>iwohai</ClassId>
+  <Date>2012-06-11</Date>
+  <Time>11:38</Time>
+  <Locality>Doutor Pedrinho, Santa Catarina</Locality>
+  <Latitude>-26.7506</Latitude>
+  <Longitude>-49.4772</Longitude>
+  <Elevation>650</Elevation>
+  <Author>Douglas Meyer</Author>
+  <AuthorID>MNENFHYTAE</AuthorID>
+  <Content>song</Content>
+  <Comments>bird-seen:yesplayback-used:no</Comments>
+  <Quality>0</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Apodiformes</Order>
+  <Family>Trochilidae</Family>
+  <Genus>Eupetomena</Genus>
+  <Species>macroura</Species>
+  <Sub-species />
+  <VernacularNames>Swallow-tailed Hummingbird</VernacularNames>
+</Audio>

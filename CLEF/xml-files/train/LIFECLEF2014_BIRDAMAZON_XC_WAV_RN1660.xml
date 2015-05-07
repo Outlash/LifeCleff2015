@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>1660</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN1660.wav</FileName>
+  <ClassId>zdicwn</ClassId>
+  <Date>2009-10-09</Date>
+  <Time>09:00</Time>
+  <Locality>Tocantins</Locality>
+  <Latitude>-12.6162</Latitude>
+  <Longitude>-47.8836</Longitude>
+  <Elevation>280</Elevation>
+  <Author>GABRIEL LEITE</Author>
+  <AuthorID>TGBFXDVERJ</AuthorID>
+  <Content>song</Content>
+  <Comments>bird-seen:yesplayback-used:no</Comments>
+  <Quality>2</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Tyrannidae</Family>
+  <Genus>Myiopagis</Genus>
+  <Species>viridicata</Species>
+  <Sub-species />
+  <VernacularNames>Greenish Elaenia</VernacularNames>
+</Audio>

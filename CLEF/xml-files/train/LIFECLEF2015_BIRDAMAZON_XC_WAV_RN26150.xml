@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>26150</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN26150.wav</FileName>
+  <ClassId>asvgnp</ClassId>
+  <Date>2004-01-02</Date>
+  <Time>?</Time>
+  <Locality>Vichada, Cumaribo, PNN Tuparro, Sabana de la Pista, Corg Santa Rita</Locality>
+  <Latitude>4.516667</Latitude>
+  <Longitude>-68.08334</Longitude>
+  <Elevation>250</Elevation>
+  <Author>Mauricio Álvarez Rebolledo (Colección de Sonidos Ambientales - Instituto Humboldt)</Author>
+  <AuthorID>XMFDPACYJN</AuthorID>
+  <Content>call</Content>
+  <Comments>BSA 16261To obtain a wav file of the original recording, please contact csa@humboldt.org.cobird-seen:noplayback-used:no</Comments>
+  <Quality>1</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Falconiformes</Order>
+  <Family>Falconidae</Family>
+  <Genus>Milvago</Genus>
+  <Species>chimachima</Species>
+  <Sub-species />
+  <VernacularNames>Yellow-headed Caracara</VernacularNames>
+</Audio>

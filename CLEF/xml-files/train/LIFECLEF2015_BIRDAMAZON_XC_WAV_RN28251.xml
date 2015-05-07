@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>28251</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN28251.wav</FileName>
+  <ClassId>gupevx</ClassId>
+  <Date>2001-05-27</Date>
+  <Time>16:00</Time>
+  <Locality>Reserva Los Besotes_Vereda Los Besotes (Cerro Los Besotes), municipio Valledupar, Cesar</Locality>
+  <Latitude>NULL</Latitude>
+  <Longitude>NULL</Longitude>
+  <Elevation>900</Elevation>
+  <Author>Bernabe Lopez-Lanus</Author>
+  <AuthorID>BYLLSJRVDZ</AuthorID>
+  <Content>Call</Content>
+  <Comments>Also Alouatta seniculus</Comments>
+  <Quality>4</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies>Megarynchus pitangua</BackgroundSpecies>
+  <Order>Psittaciformes</Order>
+  <Family>Psittacidae</Family>
+  <Genus>Brotogeris</Genus>
+  <Species>jugularis</Species>
+  <Sub-species>jugularis</Sub-species>
+  <VernacularNames>Orange-chinned Parakeet</VernacularNames>
+</Audio>

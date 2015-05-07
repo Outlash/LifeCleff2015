@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>10230</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN10230.wav</FileName>
+  <ClassId>bskumd</ClassId>
+  <Date>2012-01-06</Date>
+  <Time>07:00</Time>
+  <Locality>Folha Seca, Ubatuba, São Paulo, Brazil</Locality>
+  <Latitude>-23.462</Latitude>
+  <Longitude>-45.167</Longitude>
+  <Elevation>120</Elevation>
+  <Author>GABRIEL LEITE</Author>
+  <AuthorID>TGBFXDVERJ</AuthorID>
+  <Content>song</Content>
+  <Comments>bird-seen:yesplayback-used:yes</Comments>
+  <Quality>2</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies>Procnias nudicollis</BackgroundSpecies>
+  <Order>Passeriformes</Order>
+  <Family>Thamnophilidae</Family>
+  <Genus>Hypoedaleus</Genus>
+  <Species>guttatus</Species>
+  <Sub-species />
+  <VernacularNames>Spot-backed Antshrike</VernacularNames>
+</Audio>

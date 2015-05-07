@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>111</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN111.wav</FileName>
+  <ClassId>drteex</ClassId>
+  <Date>2004-02-16</Date>
+  <Time>06:37</Time>
+  <Locality>Praia do Felix, Ubatuba, Sao Paulo</Locality>
+  <Latitude>NULL</Latitude>
+  <Longitude>NULL</Longitude>
+  <Elevation>2</Elevation>
+  <Author>Bernabe Lopez-Lanus</Author>
+  <AuthorID>BYLLSJRVDZ</AuthorID>
+  <Content>call</Content>
+  <Comments>Kuok &amp; jeeeeeee</Comments>
+  <Quality>0</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies />
+  <Order>Gruiformes</Order>
+  <Family>Rallidae</Family>
+  <Genus>Aramides</Genus>
+  <Species>saracura</Species>
+  <Sub-species />
+  <VernacularNames>Slaty-breasted Wood Rail</VernacularNames>
+</Audio>

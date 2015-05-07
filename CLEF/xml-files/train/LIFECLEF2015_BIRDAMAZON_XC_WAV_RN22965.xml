@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>22965</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN22965.wav</FileName>
+  <ClassId>lgmaaa</ClassId>
+  <Date>2003-01-08</Date>
+  <Time>?</Time>
+  <Locality>Corregimiento de Bitaco, Finca Montebello, Chicoral, La Cumbre, Valle del Cauca</Locality>
+  <Latitude>3.565778</Latitude>
+  <Longitude>-76.5843</Longitude>
+  <Elevation>2020-2115</Elevation>
+  <Author>Sergio Córdoba Córdoba (Colección de Sonidos Ambientales - Instituto Humboldt)</Author>
+  <AuthorID>XMFDPACYJN</AuthorID>
+  <Content>song</Content>
+  <Comments>BSA 15053To obtain a wav file of the original recording, please contact csa@humboldt.org.coplayback-used:no</Comments>
+  <Quality>2</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies>Henicorhina leucophrys,Pharomachrus auriceps,Pipreola riefferii</BackgroundSpecies>
+  <Order>Piciformes</Order>
+  <Family>Ramphastidae</Family>
+  <Genus>Aulacorhynchus</Genus>
+  <Species>griseigularis</Species>
+  <Sub-species />
+  <VernacularNames>Grey-throated Toucanet</VernacularNames>
+</Audio>

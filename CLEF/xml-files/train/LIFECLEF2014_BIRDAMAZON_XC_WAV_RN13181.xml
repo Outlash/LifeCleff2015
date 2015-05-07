@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>13181</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN13181.wav</FileName>
+  <ClassId>kzvpsl</ClassId>
+  <Date>2004-07-14</Date>
+  <Time>16:34</Time>
+  <Locality>Aquidauana. Fazenda Aguapé</Locality>
+  <Latitude>-20.0834</Latitude>
+  <Longitude>-55.9501</Longitude>
+  <Elevation>128</Elevation>
+  <Author>Jeremy Minns</Author>
+  <AuthorID>DGVLLRYDXS</AuthorID>
+  <Content>call</Content>
+  <Comments>Rough pasture, with many low bacuri palms, beside gallery forest along open water. Calls by a single bird in an isolated tree. A second bird was nearby.</Comments>
+  <Quality>2</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Troglodytidae</Family>
+  <Genus>Campylorhynchus</Genus>
+  <Species>turdinus</Species>
+  <Sub-species>unicolor</Sub-species>
+  <VernacularNames>Thrush-like Wren</VernacularNames>
+</Audio>

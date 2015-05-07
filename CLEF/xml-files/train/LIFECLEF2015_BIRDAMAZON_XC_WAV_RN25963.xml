@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>25963</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN25963.wav</FileName>
+  <ClassId>pbqnkl</ClassId>
+  <Date>2013-10-25</Date>
+  <Time>12:00</Time>
+  <Locality>Trilha do Talha-Mar, PARNA Lagoa do Peixe, Tavares, Rio Grande do Sul</Locality>
+  <Latitude>-31.2595</Latitude>
+  <Longitude>-50.9729</Longitude>
+  <Elevation>0</Elevation>
+  <Author>Rafael Antunes Dias</Author>
+  <AuthorID>XJSWEWQCEC</AuthorID>
+  <Content>call</Content>
+  <Comments>In pine grove adjacent to the Lagoa do Peixe.bird-seen:yesplayback-used:no</Comments>
+  <Quality>3</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Cuculiformes</Order>
+  <Family>Cuculidae</Family>
+  <Genus>Guira</Genus>
+  <Species>guira</Species>
+  <Sub-species />
+  <VernacularNames>Guira Cuckoo</VernacularNames>
+</Audio>

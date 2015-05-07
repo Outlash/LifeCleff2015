@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>1312</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN1312.wav</FileName>
+  <ClassId>ehpgkp</ClassId>
+  <Date>1999-09-12</Date>
+  <Time>05:40</Time>
+  <Locality>Reserva Extrativista Alto Juruá. Foz do Breu</Locality>
+  <Latitude>-9.4123</Latitude>
+  <Longitude>-72.7153</Longitude>
+  <Elevation>230</Elevation>
+  <Author>Jeremy Minns</Author>
+  <AuthorID>DGVLLRYDXS</AuthorID>
+  <Content>call, song</Content>
+  <Comments>Terra firme forest.</Comments>
+  <Quality>0</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies>Myrmeciza hyperythra</BackgroundSpecies>
+  <Order>Passeriformes</Order>
+  <Family>Formicariidae</Family>
+  <Genus>Formicarius</Genus>
+  <Species>analis</Species>
+  <Sub-species>analis</Sub-species>
+  <VernacularNames>Black-faced Antthrush</VernacularNames>
+</Audio>

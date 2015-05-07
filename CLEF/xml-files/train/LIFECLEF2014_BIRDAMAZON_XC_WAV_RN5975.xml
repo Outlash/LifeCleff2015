@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>5975</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN5975.wav</FileName>
+  <ClassId>bbtkon</ClassId>
+  <Date>2010-06-15</Date>
+  <Time>09:00</Time>
+  <Locality>Manaus, Amazonas</Locality>
+  <Latitude>-2.8498</Latitude>
+  <Longitude>-60.0664</Longitude>
+  <Elevation>90</Elevation>
+  <Author>GABRIEL LEITE</Author>
+  <AuthorID>TGBFXDVERJ</AuthorID>
+  <Content>male, song</Content>
+  <Comments>bird-seen:yesplayback-used:yes</Comments>
+  <Quality>2</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Thamnophilidae</Family>
+  <Genus>Percnostola</Genus>
+  <Species>rufifrons</Species>
+  <Sub-species />
+  <VernacularNames>Black-headed Antbird</VernacularNames>
+</Audio>

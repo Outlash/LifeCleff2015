@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>8879</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN8879.wav</FileName>
+  <ClassId>rlqpij</ClassId>
+  <Date>2004-07-06</Date>
+  <Time>?</Time>
+  <Locality>Pedra Branca- state of Ceará</Locality>
+  <Latitude>-4.506778</Latitude>
+  <Longitude>-38.796844</Longitude>
+  <Elevation>?</Elevation>
+  <Author>Ciro Albano</Author>
+  <AuthorID>MXVQPUKGWW</AuthorID>
+  <Content>song</Content>
+  <Comments />
+  <Quality>1</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies>Myiarchus tyrannulus,Tolmomyias flaviventris</BackgroundSpecies>
+  <Order>Passeriformes</Order>
+  <Family>Tyrannidae</Family>
+  <Genus>Myiodynastes</Genus>
+  <Species>maculatus</Species>
+  <Sub-species />
+  <VernacularNames>Streaked Flycatcher</VernacularNames>
+</Audio>

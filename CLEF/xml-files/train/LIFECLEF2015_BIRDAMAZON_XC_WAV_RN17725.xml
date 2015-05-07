@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>17725</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN17725.wav</FileName>
+  <ClassId>vifxpb</ClassId>
+  <Date>2012-03-27</Date>
+  <Time>11:00</Time>
+  <Locality>RNA Arrierito Antioqueno, Anori, Antioquia</Locality>
+  <Latitude>6.9862</Latitude>
+  <Longitude>-75.1251</Longitude>
+  <Elevation>1650</Elevation>
+  <Author>Diego Calderon-F.</Author>
+  <AuthorID>OGATBVKNAG</AuthorID>
+  <Content>call</Content>
+  <Comments>One ind from a couple naturally calling high under the canopy</Comments>
+  <Quality>4</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Falconiformes</Order>
+  <Family>Falconidae</Family>
+  <Genus>Micrastur</Genus>
+  <Species>ruficollis</Species>
+  <Sub-species>zonothorax</Sub-species>
+  <VernacularNames>Barred Forest Falcon</VernacularNames>
+</Audio>

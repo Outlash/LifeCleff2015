@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>14813</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN14813.wav</FileName>
+  <ClassId>hultky</ClassId>
+  <Date>2009-10-18</Date>
+  <Time>?:?</Time>
+  <Locality>Reserve Naturelle de la Trinite</Locality>
+  <Latitude>NULL</Latitude>
+  <Longitude>NULL</Longitude>
+  <Elevation>120</Elevation>
+  <Author>Alexandre Renaudier</Author>
+  <AuthorID>GKADEITXTH</AuthorID>
+  <Content>song</Content>
+  <Comments>natural recording</Comments>
+  <Quality>1</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Icteridae</Family>
+  <Genus>Psarocolius</Genus>
+  <Species>viridis</Species>
+  <Sub-species />
+  <VernacularNames>Green Oropendola</VernacularNames>
+</Audio>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>25166</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN25166.wav</FileName>
+  <ClassId>vifxpb</ClassId>
+  <Date>2010-01-08</Date>
+  <Time>05:32</Time>
+  <Locality>Gran Sabana, Bolívar</Locality>
+  <Latitude>4.5429</Latitude>
+  <Longitude>-61.5753</Longitude>
+  <Elevation>900</Elevation>
+  <Author>Anthony Crease</Author>
+  <AuthorID>ENEAFHQVOF</AuthorID>
+  <Content>song</Content>
+  <Comments>Single bird (possibly with a note by a second bird) singing a repeated 4-note series from a fixed, distant location.  Evidence of presence at this location.bird-seen:noplayback-used:no</Comments>
+  <Quality>4</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies>Ramphocelus carbo</BackgroundSpecies>
+  <Order>Falconiformes</Order>
+  <Family>Falconidae</Family>
+  <Genus>Micrastur</Genus>
+  <Species>ruficollis</Species>
+  <Sub-species>concentricus</Sub-species>
+  <VernacularNames>Barred Forest Falcon</VernacularNames>
+</Audio>

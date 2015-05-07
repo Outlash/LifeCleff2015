@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>32260</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN32260.wav</FileName>
+  <ClassId>gkeewf</ClassId>
+  <Date>2003-04-17</Date>
+  <Time>15:06</Time>
+  <Locality>Garagoa, RP El Secreto, Boyaca</Locality>
+  <Latitude>5.074529</Latitude>
+  <Longitude>-73.3612</Longitude>
+  <Elevation>2000-2200</Elevation>
+  <Author>Oscar Laverde</Author>
+  <AuthorID>WKVKSVMNDZ</AuthorID>
+  <Content>song</Content>
+  <Comments />
+  <Quality>1</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Apodiformes</Order>
+  <Family>Trochilidae</Family>
+  <Genus>Adelomyia</Genus>
+  <Species>melanogenys</Species>
+  <Sub-species />
+  <VernacularNames>Speckled Hummingbird</VernacularNames>
+</Audio>

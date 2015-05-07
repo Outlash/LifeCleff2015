@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>24884</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN24884.wav</FileName>
+  <ClassId>uqcfuk</ClassId>
+  <Date>2004-01-08</Date>
+  <Time>21:00</Time>
+  <Locality>Rio Formosinho, Bonito, Brazil</Locality>
+  <Latitude>NULL</Latitude>
+  <Longitude>NULL</Longitude>
+  <Elevation>320</Elevation>
+  <Author>Daniel De Granville</Author>
+  <AuthorID>CQDEBIMXQU</AuthorID>
+  <Content>call</Content>
+  <Comments />
+  <Quality>3</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Caprimulgiformes</Order>
+  <Family>Caprimulgidae</Family>
+  <Genus>Antrostomus</Genus>
+  <Species>rufus</Species>
+  <Sub-species />
+  <VernacularNames>Rufous Nightjar</VernacularNames>
+</Audio>

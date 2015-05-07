@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>7066</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN7066.wav</FileName>
+  <ClassId>gaggjv</ClassId>
+  <Date>2010-08-28</Date>
+  <Time>07:18</Time>
+  <Locality>Pedra de Baú, Campos do Jordao, SP</Locality>
+  <Latitude>-22.6834</Latitude>
+  <Longitude>-45.6501</Longitude>
+  <Elevation>1600</Elevation>
+  <Author>Herman van Oosten</Author>
+  <AuthorID>SNUDCZVUQK</AuthorID>
+  <Content>song</Content>
+  <Comments>Bird not seen.</Comments>
+  <Quality>1</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Cardinalidae</Family>
+  <Genus>Saltator</Genus>
+  <Species>similis</Species>
+  <Sub-species />
+  <VernacularNames>Green-winged Saltator</VernacularNames>
+</Audio>

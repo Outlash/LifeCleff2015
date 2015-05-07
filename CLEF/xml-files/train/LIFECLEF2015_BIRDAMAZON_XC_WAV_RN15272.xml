@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>15272</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN15272.wav</FileName>
+  <ClassId>kaivna</ClassId>
+  <Date>2010-04-07</Date>
+  <Time>7:50</Time>
+  <Locality>Río Blanco Reserve. Manizales. Caldas department</Locality>
+  <Latitude>NULL</Latitude>
+  <Longitude>NULL</Longitude>
+  <Elevation>2630</Elevation>
+  <Author>Pablo Florez</Author>
+  <AuthorID>ISWBQKPBGS</AuthorID>
+  <Content>somg</Content>
+  <Comments />
+  <Quality>1</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Galliformes</Order>
+  <Family>Odontophoridae</Family>
+  <Genus>Odontophorus</Genus>
+  <Species>hyperythrus</Species>
+  <Sub-species />
+  <VernacularNames>Chestnut Wood Quail</VernacularNames>
+</Audio>

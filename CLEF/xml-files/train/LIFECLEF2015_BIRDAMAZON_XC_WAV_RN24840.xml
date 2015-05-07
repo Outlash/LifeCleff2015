@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>24840</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN24840.wav</FileName>
+  <ClassId>arlrfh</ClassId>
+  <Date>2014-08-02</Date>
+  <Time>14:30</Time>
+  <Locality>Hacienda Vuelta Larga</Locality>
+  <Latitude>10.6442</Latitude>
+  <Longitude>-62.9839</Longitude>
+  <Elevation>110</Elevation>
+  <Author>Thore Noernberg</Author>
+  <AuthorID>TTSQGWDDGW</AuthorID>
+  <Content>call, gurgling call</Content>
+  <Comments>bleating chorus of several birds sitting in thicket vegetation on a plant islands on the lake of Finca Vuelta Larga bird-seen:yesplayback-used:no</Comments>
+  <Quality>2</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies>Opisthocomus hoazin</BackgroundSpecies>
+  <Order>Cuculiformes</Order>
+  <Family>Cuculidae</Family>
+  <Genus>Crotophaga</Genus>
+  <Species>major</Species>
+  <Sub-species />
+  <VernacularNames>Greater Ani</VernacularNames>
+</Audio>

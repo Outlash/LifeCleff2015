@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>25421</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN25421.wav</FileName>
+  <ClassId>tobccz</ClassId>
+  <Date>2010-03-14</Date>
+  <Time>07:25</Time>
+  <Locality>Esequibo River, Iwokrama International Centre, Guyana</Locality>
+  <Latitude>NULL</Latitude>
+  <Longitude>NULL</Longitude>
+  <Elevation>80</Elevation>
+  <Author>Charlie Vogt</Author>
+  <AuthorID>NYTXYAQSTH</AuthorID>
+  <Content>song</Content>
+  <Comments>natural vocalization, perched then flight call</Comments>
+  <Quality>3</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies>Patagioenas subvinacea</BackgroundSpecies>
+  <Order>Psittaciformes</Order>
+  <Family>Psittacidae</Family>
+  <Genus>Deroptyus</Genus>
+  <Species>accipitrinus</Species>
+  <Sub-species>accipitrinus</Sub-species>
+  <VernacularNames>Red-fan Parrot</VernacularNames>
+</Audio>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>2662</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN2662.wav</FileName>
+  <ClassId>pxqbfm</ClassId>
+  <Date>2007-11-09</Date>
+  <Time>10:30</Time>
+  <Locality>Parque Nacional da Tijuca, Rio de Janeiro-RJ</Locality>
+  <Latitude>NULL</Latitude>
+  <Longitude>NULL</Longitude>
+  <Elevation>?</Elevation>
+  <Author>Guilherme Serpa</Author>
+  <AuthorID>ZIEUWTHKRO</AuthorID>
+  <Content>song</Content>
+  <Comments />
+  <Quality>1</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies />
+  <Order>Piciformes</Order>
+  <Family>Bucconidae</Family>
+  <Genus>Malacoptila</Genus>
+  <Species>striata</Species>
+  <Sub-species />
+  <VernacularNames>Crescent-chested Puffbird</VernacularNames>
+</Audio>

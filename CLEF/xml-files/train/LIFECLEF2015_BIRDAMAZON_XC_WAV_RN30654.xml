@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>30654</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN30654.wav</FileName>
+  <ClassId>tftkvo</ClassId>
+  <Date>2002-06-09</Date>
+  <Time>am</Time>
+  <Locality>Humedal de La Conejera (Bogota), Cundinamarca</Locality>
+  <Latitude>NULL</Latitude>
+  <Longitude>NULL</Longitude>
+  <Elevation>2600</Elevation>
+  <Author>Bernabe Lopez-Lanus</Author>
+  <AuthorID>BYLLSJRVDZ</AuthorID>
+  <Content>Second song</Content>
+  <Comments />
+  <Quality>3</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Furnariidae</Family>
+  <Genus>Synallaxis</Genus>
+  <Species>subpudica</Species>
+  <Sub-species />
+  <VernacularNames>Silvery-throated Spinetail</VernacularNames>
+</Audio>

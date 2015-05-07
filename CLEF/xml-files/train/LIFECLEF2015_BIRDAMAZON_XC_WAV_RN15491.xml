@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>15491</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN15491.wav</FileName>
+  <ClassId>uphahj</ClassId>
+  <Date>2003-05-26</Date>
+  <Time>?</Time>
+  <Locality>Reserva privada Yotoco, Yotoco, Valle del Cauca</Locality>
+  <Latitude>3.8775</Latitude>
+  <Longitude>-76.43195</Longitude>
+  <Elevation>1600</Elevation>
+  <Author>José Agustín López (Colección de Sonidos Ambientales - Instituto Humboldt)</Author>
+  <AuthorID>XMFDPACYJN</AuthorID>
+  <Content>call, song</Content>
+  <Comments>BSA 12945To obtain a wav file of the original recording, please contact csa@humboldt.org.cobird-seen:yesplayback-used:no</Comments>
+  <Quality>1</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Accipitriformes</Order>
+  <Family>Accipitridae</Family>
+  <Genus>Rupornis</Genus>
+  <Species>magnirostris</Species>
+  <Sub-species />
+  <VernacularNames>Roadside Hawk</VernacularNames>
+</Audio>

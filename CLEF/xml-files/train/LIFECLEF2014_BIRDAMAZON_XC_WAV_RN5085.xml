@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>5085</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN5085.wav</FileName>
+  <ClassId>qwxjxm</ClassId>
+  <Date>2008-10-02</Date>
+  <Time>06:00</Time>
+  <Locality>Pantanal Wildlife Center, MT</Locality>
+  <Latitude>-16.7581</Latitude>
+  <Longitude>-56.8764</Longitude>
+  <Elevation>115</Elevation>
+  <Author>Scott Olmstead</Author>
+  <AuthorID>DABODLPUPA</AuthorID>
+  <Content>call</Content>
+  <Comments />
+  <Quality>1</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies>Poecilotriccus latirostris,Crypturellus undulatus,Leptotila verreauxi,Hylophilus pectoralis,Formicivora rufa</BackgroundSpecies>
+  <Order>Passeriformes</Order>
+  <Family>Tyrannidae</Family>
+  <Genus>Cnemotriccus</Genus>
+  <Species>fuscatus</Species>
+  <Sub-species>bimaculatus</Sub-species>
+  <VernacularNames>Fuscous Flycatcher</VernacularNames>
+</Audio>

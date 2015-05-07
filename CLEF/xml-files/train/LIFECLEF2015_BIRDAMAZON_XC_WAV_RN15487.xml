@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>15487</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN15487.wav</FileName>
+  <ClassId>scqsvb</ClassId>
+  <Date>2011-05-16</Date>
+  <Time>10:00</Time>
+  <Locality>FLONA da Ipanema, Ipero</Locality>
+  <Latitude>-23.43</Latitude>
+  <Longitude>-47.599</Longitude>
+  <Elevation>550</Elevation>
+  <Author>Fernando Igor de Godoy</Author>
+  <AuthorID>CHDHFSVVIN</AuthorID>
+  <Content>flight call</Content>
+  <Comments>FNJV 30301</Comments>
+  <Quality>0</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Psittaciformes</Order>
+  <Family>Psittacidae</Family>
+  <Genus>Forpus</Genus>
+  <Species>xanthopterygius</Species>
+  <Sub-species>vividus</Sub-species>
+  <VernacularNames>Blue-winged Parrotlet</VernacularNames>
+</Audio>

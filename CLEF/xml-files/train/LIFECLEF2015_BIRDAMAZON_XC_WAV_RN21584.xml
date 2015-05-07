@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>21584</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN21584.wav</FileName>
+  <ClassId>sgsdgm</ClassId>
+  <Date>1990-12-18</Date>
+  <Time>?</Time>
+  <Locality>Huila, San Agustin</Locality>
+  <Latitude>NULL</Latitude>
+  <Longitude>NULL</Longitude>
+  <Elevation />
+  <Author>Gary Stiles (Colección de Sonidos Ambientales - Instituto Humboldt)</Author>
+  <AuthorID>XMFDPACYJN</AuthorID>
+  <Content>song</Content>
+  <Comments>BSA 11405To obtain a wav file of the original recording, please contact csa@humboldt.org.cobird-seen:noplayback-used:no</Comments>
+  <Quality>2</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Icteridae</Family>
+  <Genus>Cacicus</Genus>
+  <Species>cela</Species>
+  <Sub-species />
+  <VernacularNames>Yellow-rumped Cacique</VernacularNames>
+</Audio>

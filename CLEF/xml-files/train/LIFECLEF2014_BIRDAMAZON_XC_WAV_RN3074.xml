@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>3074</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN3074.wav</FileName>
+  <ClassId>ubmxxg</ClassId>
+  <Date>2013-09-26</Date>
+  <Time>09:30</Time>
+  <Locality>Trairão, Para</Locality>
+  <Latitude>-5.3316</Latitude>
+  <Longitude>-56.0715</Longitude>
+  <Elevation>110</Elevation>
+  <Author>GABRIEL LEITE</Author>
+  <AuthorID>TGBFXDVERJ</AuthorID>
+  <Content>male, song</Content>
+  <Comments>bird-seen:yesplayback-used:no</Comments>
+  <Quality>2</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Thamnophilidae</Family>
+  <Genus>Myrmotherula</Genus>
+  <Species>multostriata</Species>
+  <Sub-species />
+  <VernacularNames>Amazonian Streaked Antwren</VernacularNames>
+</Audio>

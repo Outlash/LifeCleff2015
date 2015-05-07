@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>30557</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN30557.wav</FileName>
+  <ClassId>zdvfva</ClassId>
+  <Date>2001-11-04</Date>
+  <Time>08:47</Time>
+  <Locality>Camamu, Bahia</Locality>
+  <Latitude>-14.01</Latitude>
+  <Longitude>-39.1834</Longitude>
+  <Elevation>50</Elevation>
+  <Author>Jeremy Minns</Author>
+  <AuthorID>DGVLLRYDXS</AuthorID>
+  <Content>Call</Content>
+  <Comments>Near Orojo. Humid forest. This is Call A in our DVD-ROM 'Birds of Brazil'.</Comments>
+  <Quality>1</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies>Procnias nudicollis</BackgroundSpecies>
+  <Order>Passeriformes</Order>
+  <Family>Thamnophilidae</Family>
+  <Genus>Herpsilochmus</Genus>
+  <Species>pileatus</Species>
+  <Sub-species />
+  <VernacularNames>Bahia Antwren</VernacularNames>
+</Audio>

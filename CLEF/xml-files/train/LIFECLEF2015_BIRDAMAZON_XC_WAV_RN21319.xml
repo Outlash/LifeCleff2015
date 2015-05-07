@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>21319</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN21319.wav</FileName>
+  <ClassId>wwdydp</ClassId>
+  <Date>2011-06-06</Date>
+  <Time>09:00</Time>
+  <Locality>Passo de Camaragibe,  Alagoas</Locality>
+  <Latitude>-9.3164</Latitude>
+  <Longitude>-35.4423</Longitude>
+  <Elevation>10</Elevation>
+  <Author>Fernando Igor de Godoy</Author>
+  <AuthorID>CHDHFSVVIN</AuthorID>
+  <Content>song</Content>
+  <Comments>FNJV 30217bird-seen:noplayback-used:no</Comments>
+  <Quality>3</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Columbiformes</Order>
+  <Family>Columbidae</Family>
+  <Genus>Columbina</Genus>
+  <Species>talpacoti</Species>
+  <Sub-species />
+  <VernacularNames>Ruddy Ground Dove</VernacularNames>
+</Audio>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>32740</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN32740.wav</FileName>
+  <ClassId>aecmdb</ClassId>
+  <Date>2006-11-21</Date>
+  <Time>06:40</Time>
+  <Locality>Iwokrama Forest</Locality>
+  <Latitude>4.2448</Latitude>
+  <Longitude>-58.9056</Longitude>
+  <Elevation>90</Elevation>
+  <Author>Nick Athanas</Author>
+  <AuthorID>XRABICUARW</AuthorID>
+  <Content>call</Content>
+  <Comments>Guianan Warbling-Antbird</Comments>
+  <Quality>1</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies>Myrmeciza ferruginea</BackgroundSpecies>
+  <Order>Passeriformes</Order>
+  <Family>Thamnophilidae</Family>
+  <Genus>Hypocnemis</Genus>
+  <Species>cantator</Species>
+  <Sub-species>cantator</Sub-species>
+  <VernacularNames>Guianan Warbling Antbird</VernacularNames>
+</Audio>

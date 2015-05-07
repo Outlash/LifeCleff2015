@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>6245</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN6245.wav</FileName>
+  <ClassId>gzfudv</ClassId>
+  <Date>2007-10-09</Date>
+  <Time>06:30</Time>
+  <Locality>Pousada Rio Azul, PA</Locality>
+  <Latitude>-9.2456</Latitude>
+  <Longitude>-55.987</Longitude>
+  <Elevation>240</Elevation>
+  <Author>Bradley Davis</Author>
+  <AuthorID>YNXJLOESBB</AuthorID>
+  <Content>flight call</Content>
+  <Comments>&lt;a href='http://www.surfbirds.com/trip_report.php?id=1273'&gt;trip report&lt;/a&gt;</Comments>
+  <Quality>0</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies>Ammodramus humeralis,Tapera naevia</BackgroundSpecies>
+  <Order>Psittaciformes</Order>
+  <Family>Psittacidae</Family>
+  <Genus>Orthopsittaca</Genus>
+  <Species>manilatus</Species>
+  <Sub-species />
+  <VernacularNames>Red-bellied Macaw</VernacularNames>
+</Audio>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>32423</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN32423.wav</FileName>
+  <ClassId>twhfvm</ClassId>
+  <Date>2010-07-01</Date>
+  <Time>?</Time>
+  <Locality>Tonate-Macouria, Pripris Maillard</Locality>
+  <Latitude>5.001</Latitude>
+  <Longitude>-52.463</Longitude>
+  <Elevation>2</Elevation>
+  <Author>Renaudier Alexandre</Author>
+  <AuthorID>GKADEITXTH</AuthorID>
+  <Content>song</Content>
+  <Comments>natural recording</Comments>
+  <Quality>2</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies>Crotophaga ani</BackgroundSpecies>
+  <Order>Passeriformes</Order>
+  <Family>Thraupidae</Family>
+  <Genus>Emberizoides</Genus>
+  <Species>herbicola</Species>
+  <Sub-species>sphenurus</Sub-species>
+  <VernacularNames>Wedge-tailed Grass Finch</VernacularNames>
+</Audio>

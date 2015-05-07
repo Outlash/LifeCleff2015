@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>29359</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN29359.wav</FileName>
+  <ClassId>btsawy</ClassId>
+  <Date>2010-01-27</Date>
+  <Time>9:00</Time>
+  <Locality>Saül</Locality>
+  <Latitude>3.6167</Latitude>
+  <Longitude>-53.2001</Longitude>
+  <Elevation>?</Elevation>
+  <Author>Fabrice Schmitt</Author>
+  <AuthorID>FPAGKPAQYO</AuthorID>
+  <Content>song</Content>
+  <Comments />
+  <Quality>2</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Thamnophilidae</Family>
+  <Genus>Cercomacra</Genus>
+  <Species>cinerascens</Species>
+  <Sub-species>immaculata</Sub-species>
+  <VernacularNames>Grey Antbird</VernacularNames>
+</Audio>

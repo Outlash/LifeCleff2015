@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>31996</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN31996.wav</FileName>
+  <ClassId>mdgxvm</ClassId>
+  <Date>2006-08-11</Date>
+  <Time>6:02</Time>
+  <Locality>Itatinga, state of Sao Paulo</Locality>
+  <Latitude>-23.3123</Latitude>
+  <Longitude>-48.4909</Longitude>
+  <Elevation>650</Elevation>
+  <Author>Carlos Candia-Gallardo</Author>
+  <AuthorID>CXQSLQJCAG</AuthorID>
+  <Content>song</Content>
+  <Comments />
+  <Quality>4</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Cuculiformes</Order>
+  <Family>Cuculidae</Family>
+  <Genus>Dromococcyx</Genus>
+  <Species>pavoninus</Species>
+  <Sub-species />
+  <VernacularNames>Pavonine Cuckoo</VernacularNames>
+</Audio>

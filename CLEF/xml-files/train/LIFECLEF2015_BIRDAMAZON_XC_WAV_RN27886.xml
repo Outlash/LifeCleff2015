@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>27886</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN27886.wav</FileName>
+  <ClassId>tobccz</ClassId>
+  <Date>2011-03-06</Date>
+  <Time>17:40</Time>
+  <Locality>Foengoe Island, Coppename River</Locality>
+  <Latitude>4.725</Latitude>
+  <Longitude>-56.206</Longitude>
+  <Elevation>60</Elevation>
+  <Author>Daniel Lane</Author>
+  <AuthorID>WOEAFQRMUD</AuthorID>
+  <Content>duet calls</Content>
+  <Comments>Response to playback from a pair about 5-6m in Cecropia second growth along airstrip. Whistling vocalizations usually given when changing perches, and raised nape feathers simultraneously. At very end, flying. Photo: link:http://www.flickr.com/photos/8013969@N03/5545338164/</Comments>
+  <Quality>1</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies>Thraupis palmarum,Amazona amazonica,Ramphastos tucanus,Xiphorhynchus guttatus,Xiphorhynchus guttatus</BackgroundSpecies>
+  <Order>Psittaciformes</Order>
+  <Family>Psittacidae</Family>
+  <Genus>Deroptyus</Genus>
+  <Species>accipitrinus</Species>
+  <Sub-species>accipitrinus</Sub-species>
+  <VernacularNames>Red-fan Parrot</VernacularNames>
+</Audio>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>30660</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN30660.wav</FileName>
+  <ClassId>xivqoy</ClassId>
+  <Date>2005-10-11</Date>
+  <Time>05:45</Time>
+  <Locality>N of Esplanada, Bahia</Locality>
+  <Latitude>-11.6489</Latitude>
+  <Longitude>-37.8901</Longitude>
+  <Elevation>150</Elevation>
+  <Author>Richard C. Hoyer</Author>
+  <AuthorID>SRRRBQPENI</AuthorID>
+  <Content>duet, song</Content>
+  <Comments />
+  <Quality>2</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies>Herpsilochmus pectoralis,Hemitriccus striaticollis</BackgroundSpecies>
+  <Order>Passeriformes</Order>
+  <Family>Thraupidae</Family>
+  <Genus>Tangara</Genus>
+  <Species>cayana</Species>
+  <Sub-species />
+  <VernacularNames>Burnished-buff Tanager</VernacularNames>
+</Audio>

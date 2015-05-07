@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>1842</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN1842.wav</FileName>
+  <ClassId>nhduqd</ClassId>
+  <Date>1993-11-19</Date>
+  <Time>?</Time>
+  <Locality>South of Pixaim, Mato Grosso</Locality>
+  <Latitude>-16.7626</Latitude>
+  <Longitude>-56.8528</Longitude>
+  <Elevation>115</Elevation>
+  <Author>Allen T. Chartier</Author>
+  <AuthorID>AZXTZTQJRO</AuthorID>
+  <Content>call</Content>
+  <Comments />
+  <Quality>1</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies>Aramus guarauna,Pitangus sulphuratus,Aramides cajaneus,Paroaria capitata</BackgroundSpecies>
+  <Order>Passeriformes</Order>
+  <Family>Hirundinidae</Family>
+  <Genus>Progne</Genus>
+  <Species>chalybea</Species>
+  <Sub-species />
+  <VernacularNames>Grey-breasted Martin</VernacularNames>
+</Audio>

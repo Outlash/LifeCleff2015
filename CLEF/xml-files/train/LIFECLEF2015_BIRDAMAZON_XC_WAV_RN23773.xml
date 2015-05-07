@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>23773</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN23773.wav</FileName>
+  <ClassId>xjdnrm</ClassId>
+  <Date>2011-06-24</Date>
+  <Time>13:00</Time>
+  <Locality>RNA Las Tangaras, Choco</Locality>
+  <Latitude>5.729</Latitude>
+  <Longitude>-76.244</Longitude>
+  <Elevation>1900</Elevation>
+  <Author>Andrew Spencer</Author>
+  <AuthorID>CDTGHVBGZP</AuthorID>
+  <Content>song? and calls</Content>
+  <Comments>natural vocalization, calls (and song?) from one bird of four that were part of a larger mixed flock.</Comments>
+  <Quality>1</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Furnariidae</Family>
+  <Genus>Margarornis</Genus>
+  <Species>stellatus</Species>
+  <Sub-species />
+  <VernacularNames>Star-chested Treerunner</VernacularNames>
+</Audio>

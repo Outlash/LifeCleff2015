@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>26015</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN26015.wav</FileName>
+  <ClassId>lssubf</ClassId>
+  <Date>2012-03-22</Date>
+  <Time>13:38</Time>
+  <Locality>Vidal Ramos, Santa Catarina</Locality>
+  <Latitude>-27.3514</Latitude>
+  <Longitude>-49.3535</Longitude>
+  <Elevation>500</Elevation>
+  <Author>Douglas Meyer</Author>
+  <AuthorID>MNENFHYTAE</AuthorID>
+  <Content>song</Content>
+  <Comments>bird-seen:yesplayback-used:no</Comments>
+  <Quality>3</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Thamnophilidae</Family>
+  <Genus>Drymophila</Genus>
+  <Species>ferruginea</Species>
+  <Sub-species />
+  <VernacularNames>Ferruginous Antbird</VernacularNames>
+</Audio>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>6090</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN6090.wav</FileName>
+  <ClassId>kzvpsl</ClassId>
+  <Date>2011-09-01</Date>
+  <Time>05:42</Time>
+  <Locality>Pantanal Wildlife Center, MT</Locality>
+  <Latitude>-16.7581</Latitude>
+  <Longitude>-56.8764</Longitude>
+  <Elevation>110</Elevation>
+  <Author>Eric DeFonso</Author>
+  <AuthorID>KTLCZCRCQX</AuthorID>
+  <Content>song</Content>
+  <Comments>Burst of song at close range. Habitat is tropical deciduous woodland in dry season.bird-seen:noplayback-used:no</Comments>
+  <Quality>1</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies>Leptotila verreauxi</BackgroundSpecies>
+  <Order>Passeriformes</Order>
+  <Family>Troglodytidae</Family>
+  <Genus>Campylorhynchus</Genus>
+  <Species>turdinus</Species>
+  <Sub-species />
+  <VernacularNames>Thrush-like Wren</VernacularNames>
+</Audio>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>2544</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN2544.wav</FileName>
+  <ClassId>pjuaxh</ClassId>
+  <Date>2010-09-05</Date>
+  <Time>08:15</Time>
+  <Locality>Ubatuba, SP. Folha Seca.</Locality>
+  <Latitude>-23.5001</Latitude>
+  <Longitude>-45.2167</Longitude>
+  <Elevation>30</Elevation>
+  <Author>Ricardo Gagliardi</Author>
+  <AuthorID>YRDADNREOP</AuthorID>
+  <Content>call</Content>
+  <Comments />
+  <Quality>2</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies>Automolus leucophthalmus,Vireo olivaceus</BackgroundSpecies>
+  <Order>Trogoniformes</Order>
+  <Family>Trogonidae</Family>
+  <Genus>Trogon</Genus>
+  <Species>viridis</Species>
+  <Sub-species />
+  <VernacularNames>Green-backed Trogon</VernacularNames>
+</Audio>

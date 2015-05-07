@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>19564</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN19564.wav</FileName>
+  <ClassId>xgjomb</ClassId>
+  <Date>2007-11-03</Date>
+  <Time>12:35</Time>
+  <Locality>Serra dos Órgãos National Park - RJ</Locality>
+  <Latitude>-22.448</Latitude>
+  <Longitude>-43.01</Longitude>
+  <Elevation>?</Elevation>
+  <Author>Leonardo Pimentel</Author>
+  <AuthorID>JHBOHGJALL</AuthorID>
+  <Content>Song</Content>
+  <Comments>Song after playback</Comments>
+  <Quality>3</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies>Saltator similis,Stephanophorus diadematus</BackgroundSpecies>
+  <Order>Passeriformes</Order>
+  <Family>Pipridae</Family>
+  <Genus>Neopelma</Genus>
+  <Species>chrysolophum</Species>
+  <Sub-species />
+  <VernacularNames>Serra do Mar Tyrant-Manakin</VernacularNames>
+</Audio>

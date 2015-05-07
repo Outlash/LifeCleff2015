@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>3330</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN3330.wav</FileName>
+  <ClassId>ebxlim</ClassId>
+  <Date>2012-06-00</Date>
+  <Time>16:00</Time>
+  <Locality>Xaraes</Locality>
+  <Latitude>-19.4938</Latitude>
+  <Longitude>-56.9576</Longitude>
+  <Elevation>100</Elevation>
+  <Author>David Edwards</Author>
+  <AuthorID>AFEHYCAHZR</AuthorID>
+  <Content>song</Content>
+  <Comments>playback-used:no</Comments>
+  <Quality>1</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Thamnophilidae</Family>
+  <Genus>Taraba</Genus>
+  <Species>major</Species>
+  <Sub-species />
+  <VernacularNames>Great Antshrike</VernacularNames>
+</Audio>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>15396</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN15396.wav</FileName>
+  <ClassId>oxxgzm</ClassId>
+  <Date>2010-02-08</Date>
+  <Time>09:00</Time>
+  <Locality>Nascente  do Rio dos Bois - Leopoldo de Bulhões, Goiás</Locality>
+  <Latitude>NULL</Latitude>
+  <Longitude>NULL</Longitude>
+  <Elevation>980</Elevation>
+  <Author>Nunes D´Acosta</Author>
+  <AuthorID>OHHTDSDNBT</AuthorID>
+  <Content>song</Content>
+  <Comments>Filhotes    dentro de um  oco( Mauritia flexuosa)  desesperados para saltarem dentro do lago.</Comments>
+  <Quality>2</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Anseriformes</Order>
+  <Family>Anatidae</Family>
+  <Genus>Cairina</Genus>
+  <Species>moschata</Species>
+  <Sub-species />
+  <VernacularNames>Muscovy Duck</VernacularNames>
+</Audio>

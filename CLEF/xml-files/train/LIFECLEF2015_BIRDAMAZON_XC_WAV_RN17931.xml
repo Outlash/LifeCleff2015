@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>17931</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN17931.wav</FileName>
+  <ClassId>loavzh</ClassId>
+  <Date>2005-10-30</Date>
+  <Time>xx-xx-xxxx</Time>
+  <Locality>Cabo de la Vela (Guajira)</Locality>
+  <Latitude>12.272</Latitude>
+  <Longitude>-71.9489</Longitude>
+  <Elevation>0</Elevation>
+  <Author>Oswaldo Cortes</Author>
+  <AuthorID>VVDRVZCVWW</AuthorID>
+  <Content>song</Content>
+  <Comments>wind on the songs. Area the study near to sea</Comments>
+  <Quality>3</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Galliformes</Order>
+  <Family>Odontophoridae</Family>
+  <Genus>Colinus</Genus>
+  <Species>cristatus</Species>
+  <Sub-species />
+  <VernacularNames>Crested Bobwhite</VernacularNames>
+</Audio>

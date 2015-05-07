@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>12650</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN12650.wav</FileName>
+  <ClassId>uphahj</ClassId>
+  <Date>2011-06-19</Date>
+  <Time>12:00</Time>
+  <Locality>São Francisco Xavier, São José dos Campos,São Paulo state, Brazil</Locality>
+  <Latitude>-22.898</Latitude>
+  <Longitude>-45.994</Longitude>
+  <Elevation>1300</Elevation>
+  <Author>GABRIEL LEITE</Author>
+  <AuthorID>TGBFXDVERJ</AuthorID>
+  <Content>call</Content>
+  <Comments>bird-seen:yesplayback-used:no</Comments>
+  <Quality>2</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies />
+  <Order>Accipitriformes</Order>
+  <Family>Accipitridae</Family>
+  <Genus>Rupornis</Genus>
+  <Species>magnirostris</Species>
+  <Sub-species />
+  <VernacularNames>Roadside Hawk</VernacularNames>
+</Audio>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>1809</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN1809.wav</FileName>
+  <ClassId>rndrjp</ClassId>
+  <Date>2005-12-19</Date>
+  <Time>13:00</Time>
+  <Locality>Alta Floresta, MT</Locality>
+  <Latitude>-9.8781</Latitude>
+  <Longitude>-56.0981</Longitude>
+  <Elevation>290</Elevation>
+  <Author>Bradley Davis</Author>
+  <AuthorID>YNXJLOESBB</AuthorID>
+  <Content>Song</Content>
+  <Comments />
+  <Quality>2</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies />
+  <Order>Piciformes</Order>
+  <Family>Galbulidae</Family>
+  <Genus>Jacamerops</Genus>
+  <Species>aureus</Species>
+  <Sub-species />
+  <VernacularNames>Great Jacamar</VernacularNames>
+</Audio>

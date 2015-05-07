@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>31369</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN31369.wav</FileName>
+  <ClassId>qupvvy</ClassId>
+  <Date>2009-08-25</Date>
+  <Time>07:00</Time>
+  <Locality>Humdela de Santa maria el Lago (Bogota)</Locality>
+  <Latitude>NULL</Latitude>
+  <Longitude>NULL</Longitude>
+  <Elevation>2400</Elevation>
+  <Author>Oswaldo Cortes</Author>
+  <AuthorID>VVDRVZCVWW</AuthorID>
+  <Content>song</Content>
+  <Comments />
+  <Quality>3</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Gruiformes</Order>
+  <Family>Rallidae</Family>
+  <Genus>Fulica</Genus>
+  <Species>americana</Species>
+  <Sub-species />
+  <VernacularNames>American Coot</VernacularNames>
+</Audio>

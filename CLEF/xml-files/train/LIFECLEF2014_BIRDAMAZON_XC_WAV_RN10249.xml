@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>10249</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN10249.wav</FileName>
+  <ClassId>nknnjw</ClassId>
+  <Date>1993-07-04</Date>
+  <Time>morning</Time>
+  <Locality>Itapecerica da Serra,SP, Brazil</Locality>
+  <Latitude>-23.786</Latitude>
+  <Longitude>-46.871</Longitude>
+  <Elevation>800</Elevation>
+  <Author>Antonio Silveira</Author>
+  <AuthorID>NBJQSQJRYH</AuthorID>
+  <Content>song</Content>
+  <Comments />
+  <Quality>3</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Parulidae</Family>
+  <Genus>Myiothlypis</Genus>
+  <Species>leucoblephara</Species>
+  <Sub-species />
+  <VernacularNames>White-rimmed Warbler</VernacularNames>
+</Audio>

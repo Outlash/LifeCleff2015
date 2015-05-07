@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>19001</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN19001.wav</FileName>
+  <ClassId>otkgij</ClassId>
+  <Date>2008-01-31</Date>
+  <Time>13:00</Time>
+  <Locality>Sierra Nevada de Santa Marta, Magdalena</Locality>
+  <Latitude>10.898042</Latitude>
+  <Longitude>-73.7677</Longitude>
+  <Elevation>2300</Elevation>
+  <Author>Herman van Oosten</Author>
+  <AuthorID>SNUDCZVUQK</AuthorID>
+  <Content>call</Content>
+  <Comments>A long recording to show the conversation these 5 birds might have had. Great birds, rich calls.</Comments>
+  <Quality>1</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Corvidae</Family>
+  <Genus>Cyanocorax</Genus>
+  <Species>affinis</Species>
+  <Sub-species />
+  <VernacularNames>Black-chested Jay</VernacularNames>
+</Audio>

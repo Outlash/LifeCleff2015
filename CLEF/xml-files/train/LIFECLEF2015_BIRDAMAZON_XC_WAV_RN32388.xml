@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>32388</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN32388.wav</FileName>
+  <ClassId>vnkcgy</ClassId>
+  <Date>2009-02-01</Date>
+  <Time>?</Time>
+  <Locality>La Grita, Chorro El Indio National Park, Jauregui, Táchira</Locality>
+  <Latitude>8.1565</Latitude>
+  <Longitude>-71.9073</Longitude>
+  <Elevation>3000</Elevation>
+  <Author>Hans Matheve</Author>
+  <AuthorID>VROUALCTKG</AuthorID>
+  <Content>call</Content>
+  <Comments>bird-seen:yes</Comments>
+  <Quality>0</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Corvidae</Family>
+  <Genus>Cyanolyca</Genus>
+  <Species>armillata</Species>
+  <Sub-species />
+  <VernacularNames>Black-collared Jay</VernacularNames>
+</Audio>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>5616</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN5616.wav</FileName>
+  <ClassId>tsxwwl</ClassId>
+  <Date>1997-12-12</Date>
+  <Time>?:?</Time>
+  <Locality>Santa Catarina, Salto do Pirai, near Joinville</Locality>
+  <Latitude>-26.3</Latitude>
+  <Longitude>-48.83</Longitude>
+  <Elevation>160</Elevation>
+  <Author>Frank Lambert</Author>
+  <AuthorID>YTUXOCTUEM</AuthorID>
+  <Content>call</Content>
+  <Comments>Previously published on AVoCet as &lt;a href=http://avocet.zoology.msu.edu/recordings/8158&gt;AV8158&lt;/a&gt;.  Certainty: 100%.  ID determined by: seen. GPS: estimate from Google Earth. Habitat: heavily disturbed forest.</Comments>
+  <Quality>2</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Thamnophilidae</Family>
+  <Genus>Myrmeciza</Genus>
+  <Species>squamosa</Species>
+  <Sub-species />
+  <VernacularNames>Squamate Antbird</VernacularNames>
+</Audio>

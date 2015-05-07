@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>17390</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN17390.wav</FileName>
+  <ClassId>vqpvft</ClassId>
+  <Date>2006-11-00</Date>
+  <Time>?:?</Time>
+  <Locality>Hato Pinero</Locality>
+  <Latitude>8.95</Latitude>
+  <Longitude>-68.08333</Longitude>
+  <Elevation>150</Elevation>
+  <Author>David Edwards</Author>
+  <AuthorID>AFEHYCAHZR</AuthorID>
+  <Content>song</Content>
+  <Comments />
+  <Quality>1</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Icteridae</Family>
+  <Genus>Sturnella</Genus>
+  <Species>magna</Species>
+  <Sub-species />
+  <VernacularNames>Eastern Meadowlark</VernacularNames>
+</Audio>

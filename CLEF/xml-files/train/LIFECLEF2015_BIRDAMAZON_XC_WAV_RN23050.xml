@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>23050</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN23050.wav</FileName>
+  <ClassId>gkeewf</ClassId>
+  <Date>2005-07-00</Date>
+  <Time>xx:xx</Time>
+  <Locality>La Aurora, Serrania de los Yariguies, Galan, Santander, Colombia</Locality>
+  <Latitude>6.6389</Latitude>
+  <Longitude>-73.3892</Longitude>
+  <Elevation>2700</Elevation>
+  <Author>Thomas Donegan</Author>
+  <AuthorID>OXSIOLJJUP</AuthorID>
+  <Content>Call</Content>
+  <Comments>Former mystery 866 / Pai-Luiz 1571</Comments>
+  <Quality>3</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies>Sericossypha albocristata</BackgroundSpecies>
+  <Order>Apodiformes</Order>
+  <Family>Trochilidae</Family>
+  <Genus>Adelomyia</Genus>
+  <Species>melanogenys</Species>
+  <Sub-species />
+  <VernacularNames>Speckled Hummingbird</VernacularNames>
+</Audio>

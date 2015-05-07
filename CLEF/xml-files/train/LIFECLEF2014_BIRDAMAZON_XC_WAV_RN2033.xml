@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>2033</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN2033.wav</FileName>
+  <ClassId>inyngh</ClassId>
+  <Date>2002-12-02</Date>
+  <Time>08:46</Time>
+  <Locality>Estrada da Graciosa, Paraná state</Locality>
+  <Latitude>-25.3334</Latitude>
+  <Longitude>-48.9001</Longitude>
+  <Elevation>875</Elevation>
+  <Author>Jeremy Minns</Author>
+  <AuthorID>DGVLLRYDXS</AuthorID>
+  <Content>call</Content>
+  <Comments>Montane scrub. Male.</Comments>
+  <Quality>1</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies>Procnias nudicollis,Turdus rufiventris</BackgroundSpecies>
+  <Order>Passeriformes</Order>
+  <Family>Thraupidae</Family>
+  <Genus>Tachyphonus</Genus>
+  <Species>coronatus</Species>
+  <Sub-species />
+  <VernacularNames>Ruby-crowned Tanager</VernacularNames>
+</Audio>

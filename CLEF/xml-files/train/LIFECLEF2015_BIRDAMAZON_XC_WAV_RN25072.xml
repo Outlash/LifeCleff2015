@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>25072</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN25072.wav</FileName>
+  <ClassId>gzfudv</ClassId>
+  <Date>2013-07-26</Date>
+  <Time>08:17</Time>
+  <Locality>Rosário Oeste, Mato Grosso</Locality>
+  <Latitude>-14.8264</Latitude>
+  <Longitude>-56.4241</Longitude>
+  <Elevation>200</Elevation>
+  <Author>Douglas Meyer</Author>
+  <AuthorID>MNENFHYTAE</AuthorID>
+  <Content>flight call, song</Content>
+  <Comments>bird-seen:yesplayback-used:no</Comments>
+  <Quality>0</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Psittaciformes</Order>
+  <Family>Psittacidae</Family>
+  <Genus>Orthopsittaca</Genus>
+  <Species>manilatus</Species>
+  <Sub-species />
+  <VernacularNames>Red-bellied Macaw</VernacularNames>
+</Audio>

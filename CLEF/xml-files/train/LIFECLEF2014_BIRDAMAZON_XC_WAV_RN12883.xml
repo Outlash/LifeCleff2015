@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>12883</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN12883.wav</FileName>
+  <ClassId>ltmght</ClassId>
+  <Date>2007-11-00</Date>
+  <Time>16:50</Time>
+  <Locality>Parque Estadual Intervales, SP</Locality>
+  <Latitude>-24.2759</Latitude>
+  <Longitude>-48.4181</Longitude>
+  <Elevation>?</Elevation>
+  <Author>Eduardo Patrial</Author>
+  <AuthorID>QEFRRVCRRP</AuthorID>
+  <Content>song</Content>
+  <Comments />
+  <Quality>1</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Rhinocryptidae</Family>
+  <Genus>Eleoscytalopus</Genus>
+  <Species>indigoticus</Species>
+  <Sub-species />
+  <VernacularNames>White-breasted Tapaculo</VernacularNames>
+</Audio>

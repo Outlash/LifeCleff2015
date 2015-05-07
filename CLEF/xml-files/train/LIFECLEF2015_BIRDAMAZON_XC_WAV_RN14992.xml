@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>14992</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN14992.wav</FileName>
+  <ClassId>iqvfgo</ClassId>
+  <Date>2007-09-03</Date>
+  <Time>?</Time>
+  <Locality>PNN Tuparro, Cumaribo, Vichada</Locality>
+  <Latitude>4.532222</Latitude>
+  <Longitude>-68.09111</Longitude>
+  <Elevation />
+  <Author>Fernando Forero (Colección de Sonidos Ambientales - Instituto Humboldt)</Author>
+  <AuthorID>XMFDPACYJN</AuthorID>
+  <Content>song</Content>
+  <Comments>BSA 22949To obtain a wav file of the original recording, please contact csa@humboldt.org.coplayback-used:no</Comments>
+  <Quality>1</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Accipitriformes</Order>
+  <Family>Accipitridae</Family>
+  <Genus>Buteogallus</Genus>
+  <Species>meridionalis</Species>
+  <Sub-species />
+  <VernacularNames>Savanna Hawk</VernacularNames>
+</Audio>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>16333</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN16333.wav</FileName>
+  <ClassId>vsywgi</ClassId>
+  <Date>2011-08-30</Date>
+  <Time>17:40</Time>
+  <Locality>Cristalino Jungle Lodge, MT</Locality>
+  <Latitude>-9.5981</Latitude>
+  <Longitude>-55.932</Longitude>
+  <Elevation>200</Elevation>
+  <Author>Tayler Brooks</Author>
+  <AuthorID>ARFGONJCBJ</AuthorID>
+  <Content>call</Content>
+  <Comments>Natural vocalization. A pair sitting together in tall tree, 'conversing'.</Comments>
+  <Quality>1</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Psittaciformes</Order>
+  <Family>Psittacidae</Family>
+  <Genus>Ara</Genus>
+  <Species>macao</Species>
+  <Sub-species>macao</Sub-species>
+  <VernacularNames>Scarlet Macaw</VernacularNames>
+</Audio>

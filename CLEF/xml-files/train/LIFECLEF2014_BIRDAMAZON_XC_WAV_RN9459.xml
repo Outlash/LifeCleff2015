@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>9459</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN9459.wav</FileName>
+  <ClassId>ewisum</ClassId>
+  <Date>2000-00-00</Date>
+  <Time>00:00</Time>
+  <Locality>Estância Santa Maria - Jaguarão, Rio Grande do Sul</Locality>
+  <Latitude>-32.4523</Latitude>
+  <Longitude>-53.1073</Longitude>
+  <Elevation>25</Elevation>
+  <Author>Fernando Jacobs</Author>
+  <AuthorID>MHHPJBCUXC</AuthorID>
+  <Content>call, song</Content>
+  <Comments />
+  <Quality>0</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Parulidae</Family>
+  <Genus>Basileuterus</Genus>
+  <Species>culicivorus</Species>
+  <Sub-species />
+  <VernacularNames>Golden-crowned Warbler</VernacularNames>
+</Audio>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>4139</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN4139.wav</FileName>
+  <ClassId>waknsi</ClassId>
+  <Date>2011-05-29</Date>
+  <Time>05:30</Time>
+  <Locality>Paragominas, PA, Brazil, Bacia 274</Locality>
+  <Latitude>-3.239</Latitude>
+  <Longitude>-47.372</Longitude>
+  <Elevation>?</Elevation>
+  <Author>Alexander Lees</Author>
+  <AuthorID>INDDBZAFJL</AuthorID>
+  <Content>song</Content>
+  <Comments>secondary forest</Comments>
+  <Quality>2</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies />
+  <Order>Caprimulgiformes</Order>
+  <Family>Caprimulgidae</Family>
+  <Genus>Nyctidromus</Genus>
+  <Species>albicollis</Species>
+  <Sub-species />
+  <VernacularNames>Pauraque</VernacularNames>
+</Audio>

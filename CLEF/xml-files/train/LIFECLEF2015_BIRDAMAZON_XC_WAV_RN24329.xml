@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>24329</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN24329.wav</FileName>
+  <ClassId>jbynhe</ClassId>
+  <Date>2011-03-18</Date>
+  <Time>10:55</Time>
+  <Locality>Brownsberg</Locality>
+  <Latitude>4.9301</Latitude>
+  <Longitude>-55.2101</Longitude>
+  <Elevation>300</Elevation>
+  <Author>Daniel Lane</Author>
+  <AuthorID>WOEAFQRMUD</AuthorID>
+  <Content>call, song</Content>
+  <Comments>Response to playback from one of two birds about 2m up in lower forest with sandier soil. Probably a first year male bird.</Comments>
+  <Quality>1</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Thamnophilidae</Family>
+  <Genus>Willisornis</Genus>
+  <Species>poecilinotus</Species>
+  <Sub-species>poecilinotus</Sub-species>
+  <VernacularNames>Common Scale-backed Antbird</VernacularNames>
+</Audio>

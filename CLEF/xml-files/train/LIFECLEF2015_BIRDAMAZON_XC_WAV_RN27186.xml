@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>27186</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN27186.wav</FileName>
+  <ClassId>eshtgz</ClassId>
+  <Date>2011-07-21</Date>
+  <Time>08:00</Time>
+  <Locality>rio claro, antioquia</Locality>
+  <Latitude>NULL</Latitude>
+  <Longitude>NULL</Longitude>
+  <Elevation>1200</Elevation>
+  <Author>Oswaldo Cortes</Author>
+  <AuthorID>VVDRVZCVWW</AuthorID>
+  <Content>song</Content>
+  <Comments />
+  <Quality>4</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Caprimulgiformes</Order>
+  <Family>Steatornithidae</Family>
+  <Genus>Steatornis</Genus>
+  <Species>caripensis</Species>
+  <Sub-species />
+  <VernacularNames>Oilbird</VernacularNames>
+</Audio>

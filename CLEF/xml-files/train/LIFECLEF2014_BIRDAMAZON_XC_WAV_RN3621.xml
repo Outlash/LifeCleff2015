@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>3621</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN3621.wav</FileName>
+  <ClassId>kuggpr</ClassId>
+  <Date>2005-08-07</Date>
+  <Time>09:45</Time>
+  <Locality>Itatiaia NP, RJ</Locality>
+  <Latitude>-22.38</Latitude>
+  <Longitude>-44.63</Longitude>
+  <Elevation>1150</Elevation>
+  <Author>Nick Athanas</Author>
+  <AuthorID>XRABICUARW</AuthorID>
+  <Content>song</Content>
+  <Comments>Song from male, intervals shortened</Comments>
+  <Quality>1</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies>Dysithamnus stictothorax,Biatas nigropectus</BackgroundSpecies>
+  <Order>Passeriformes</Order>
+  <Family>Thamnophilidae</Family>
+  <Genus>Batara</Genus>
+  <Species>cinerea</Species>
+  <Sub-species>cinerea</Sub-species>
+  <VernacularNames>Giant Antshrike</VernacularNames>
+</Audio>

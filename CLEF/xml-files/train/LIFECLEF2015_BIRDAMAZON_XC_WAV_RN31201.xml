@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>31201</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN31201.wav</FileName>
+  <ClassId>fvhrfq</ClassId>
+  <Date>2013-09-25</Date>
+  <Time>18:22</Time>
+  <Locality>Parque Nacional da Serra do Itajaí, Botuverá, Santa Catarina</Locality>
+  <Latitude>-27.2042</Latitude>
+  <Longitude>-49.1212</Longitude>
+  <Elevation>340</Elevation>
+  <Author>Douglas Meyer</Author>
+  <AuthorID>MNENFHYTAE</AuthorID>
+  <Content>song</Content>
+  <Comments>bird-seen:noplayback-used:no</Comments>
+  <Quality>3</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Tinamiformes</Order>
+  <Family>Tinamidae</Family>
+  <Genus>Tinamus</Genus>
+  <Species>solitarius</Species>
+  <Sub-species />
+  <VernacularNames>Solitary Tinamou</VernacularNames>
+</Audio>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>10110</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN10110.wav</FileName>
+  <ClassId>cqbqgt</ClassId>
+  <Date>2011-01-12</Date>
+  <Time>?</Time>
+  <Locality>Bacia 69, Santarem, PA</Locality>
+  <Latitude>-2.5601</Latitude>
+  <Longitude>-54.6528</Longitude>
+  <Elevation>?</Elevation>
+  <Author>Nárgila Moura</Author>
+  <AuthorID>CWEIBYBYYD</AuthorID>
+  <Content>song</Content>
+  <Comments>secondary forest</Comments>
+  <Quality>3</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies>Cantorchilus leucotis,Pitangus sulphuratus,Camptostoma obsoletum,Hylophilus pectoralis</BackgroundSpecies>
+  <Order>Passeriformes</Order>
+  <Family>Furnariidae</Family>
+  <Genus>Dendroplex</Genus>
+  <Species>picus</Species>
+  <Sub-species>picus</Sub-species>
+  <VernacularNames>Straight-billed Woodcreeper</VernacularNames>
+</Audio>

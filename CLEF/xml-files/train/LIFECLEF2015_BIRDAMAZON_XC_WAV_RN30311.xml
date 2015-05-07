@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>30311</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN30311.wav</FileName>
+  <ClassId>veiywt</ClassId>
+  <Date>2014-04-10</Date>
+  <Time>09:00</Time>
+  <Locality>Road between Santa Elena and El Pauji - La Gran Sabana, Bolívar</Locality>
+  <Latitude>4.5698</Latitude>
+  <Longitude>-61.1959</Longitude>
+  <Elevation>950</Elevation>
+  <Author>Thore Noernberg</Author>
+  <AuthorID>TTSQGWDDGW</AuthorID>
+  <Content>call</Content>
+  <Comments>bird perching on a Cecropia tree at a forest patch by the road - second call is a bad imitation of one of the tourists on this tripbird-seen:yesplayback-used:no</Comments>
+  <Quality>1</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Accipitriformes</Order>
+  <Family>Accipitridae</Family>
+  <Genus>Buteo</Genus>
+  <Species>nitidus</Species>
+  <Sub-species />
+  <VernacularNames>Grey-lined Hawk</VernacularNames>
+</Audio>

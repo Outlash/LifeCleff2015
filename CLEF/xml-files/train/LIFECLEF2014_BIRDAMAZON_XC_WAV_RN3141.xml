@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>3141</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN3141.wav</FileName>
+  <ClassId>oxhigs</ClassId>
+  <Date>2013-10-20</Date>
+  <Time>14:00</Time>
+  <Locality>Estrada boiadeira, Tuneiras do Oeste.</Locality>
+  <Latitude>-23.9165</Latitude>
+  <Longitude>-52.7425</Longitude>
+  <Elevation>500</Elevation>
+  <Author>Luiz C.  Silva</Author>
+  <AuthorID>ORPKXJRFDZ</AuthorID>
+  <Content>call</Content>
+  <Comments>bird-seen:yesplayback-used:no</Comments>
+  <Quality>1</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies />
+  <Order>Cuculiformes</Order>
+  <Family>Cuculidae</Family>
+  <Genus>Crotophaga</Genus>
+  <Species>ani</Species>
+  <Sub-species />
+  <VernacularNames>Smooth-billed Ani</VernacularNames>
+</Audio>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>10313</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN10313.wav</FileName>
+  <ClassId>kwpuds</ClassId>
+  <Date>2010-10-31</Date>
+  <Time>7:46</Time>
+  <Locality>Belterra, PA - Bacia 399</Locality>
+  <Latitude>-2.844</Latitude>
+  <Longitude>-54.833</Longitude>
+  <Elevation>?</Elevation>
+  <Author>Christian Borges Andretti</Author>
+  <AuthorID>EZSMXGTXKS</AuthorID>
+  <Content>song</Content>
+  <Comments />
+  <Quality>0</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies>Amazona amazonica,Xiphorhynchus guttatus,Patagioenas plumbea,Campephilus rubricollis</BackgroundSpecies>
+  <Order>Piciformes</Order>
+  <Family>Galbulidae</Family>
+  <Genus>Galbula</Genus>
+  <Species>cyanicollis</Species>
+  <Sub-species />
+  <VernacularNames>Blue-necked Jacamar</VernacularNames>
+</Audio>

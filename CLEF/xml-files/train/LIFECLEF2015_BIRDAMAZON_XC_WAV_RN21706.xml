@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>21706</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN21706.wav</FileName>
+  <ClassId>bfwanm</ClassId>
+  <Date>2007-07-30</Date>
+  <Time>?</Time>
+  <Locality>Merida, Pico Humboldt trail</Locality>
+  <Latitude>NULL</Latitude>
+  <Longitude>NULL</Longitude>
+  <Elevation>?</Elevation>
+  <Author>Alexandre Renaudier</Author>
+  <AuthorID>GKADEITXTH</AuthorID>
+  <Content>alarm call</Content>
+  <Comments />
+  <Quality>1</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Galliformes</Order>
+  <Family>Cracidae</Family>
+  <Genus>Penelope</Genus>
+  <Species>montagnii</Species>
+  <Sub-species />
+  <VernacularNames>Andean Guan</VernacularNames>
+</Audio>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>14191</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN14191.wav</FileName>
+  <ClassId>igtfqw</ClassId>
+  <Date>2012-03-14</Date>
+  <Time>17:55</Time>
+  <Locality>Brasil/RJ/Angra dos Reis/Ilha grande/Poblado CEADS</Locality>
+  <Latitude>-23.182</Latitude>
+  <Longitude>-44.1917</Longitude>
+  <Elevation>5</Elevation>
+  <Author>Yair G Molina - Martínez</Author>
+  <AuthorID>UQUOPFIYYQ</AuthorID>
+  <Content>Call</Content>
+  <Comments />
+  <Quality>2</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Apodiformes</Order>
+  <Family>Apodidae</Family>
+  <Genus>Chaetura</Genus>
+  <Species>meridionalis</Species>
+  <Sub-species />
+  <VernacularNames>Sick's Swift</VernacularNames>
+</Audio>

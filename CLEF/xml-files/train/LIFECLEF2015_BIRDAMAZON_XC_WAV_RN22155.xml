@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>22155</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN22155.wav</FileName>
+  <ClassId>loriov</ClassId>
+  <Date>2011-03-16</Date>
+  <Time>22:00</Time>
+  <Locality>Brownsberg</Locality>
+  <Latitude>4.9301</Latitude>
+  <Longitude>-55.2101</Longitude>
+  <Elevation>460</Elevation>
+  <Author>Daniel Lane</Author>
+  <AuthorID>WOEAFQRMUD</AuthorID>
+  <Content>begging call</Content>
+  <Comments>Probably unsolicited (no response to vocal imitation) from a young, fledged (but still with some white down on head) bird about 20m up in subcanopy of tall terra firme forest. Apparently already weened by adults.</Comments>
+  <Quality>1</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Strigiformes</Order>
+  <Family>Strigidae</Family>
+  <Genus>Pulsatrix</Genus>
+  <Species>perspicillata</Species>
+  <Sub-species />
+  <VernacularNames>Spectacled Owl</VernacularNames>
+</Audio>

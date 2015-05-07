@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>17475</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN17475.wav</FileName>
+  <ClassId>kaivna</ClassId>
+  <Date>2001-11-01</Date>
+  <Time>07:30:00</Time>
+  <Locality>PNN Cueva de los Guácharos, Acevedo, Huila</Locality>
+  <Latitude>1.61691</Latitude>
+  <Longitude>-76.10015</Longitude>
+  <Elevation>1810-2100</Elevation>
+  <Author>Mauricio Álvarez Rebolledo (Colección de Sonidos Ambientales - Instituto Humboldt)</Author>
+  <AuthorID>XMFDPACYJN</AuthorID>
+  <Content>song</Content>
+  <Comments>territorialidad entre 2 gruposBSA 7227To obtain a wav file of the original recording, please contact csa@humboldt.org.cobird-seen:yesplayback-used:no</Comments>
+  <Quality>1</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies>Henicorhina leucophrys,Setophaga pitiayumi</BackgroundSpecies>
+  <Order>Galliformes</Order>
+  <Family>Odontophoridae</Family>
+  <Genus>Odontophorus</Genus>
+  <Species>hyperythrus</Species>
+  <Sub-species />
+  <VernacularNames>Chestnut Wood Quail</VernacularNames>
+</Audio>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>10021</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN10021.wav</FileName>
+  <ClassId>qfjwpy</ClassId>
+  <Date>2008-05-22</Date>
+  <Time>14:50</Time>
+  <Locality>Reserva Ecológica de Guapiaçu, RJ</Locality>
+  <Latitude>-22.5001</Latitude>
+  <Longitude>-42.7167</Longitude>
+  <Elevation>30</Elevation>
+  <Author>Ricardo Gagliardi</Author>
+  <AuthorID>YRDADNREOP</AuthorID>
+  <Content>alarm call</Content>
+  <Comments />
+  <Quality>1</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies />
+  <Order>Charadriiformes</Order>
+  <Family>Charadriidae</Family>
+  <Genus>Vanellus</Genus>
+  <Species>chilensis</Species>
+  <Sub-species />
+  <VernacularNames>Southern Lapwing</VernacularNames>
+</Audio>

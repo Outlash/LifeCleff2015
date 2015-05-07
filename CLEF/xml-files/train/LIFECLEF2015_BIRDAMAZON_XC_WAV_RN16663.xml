@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>16663</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN16663.wav</FileName>
+  <ClassId>swkumm</ClassId>
+  <Date>1985-01-06</Date>
+  <Time>14:00</Time>
+  <Locality>Guayabital, 1.7 km SE San José de los Altos, Miranda</Locality>
+  <Latitude>10.3417</Latitude>
+  <Longitude>-66.9026</Longitude>
+  <Elevation>863</Elevation>
+  <Author>Chris Parrish</Author>
+  <AuthorID>IHIOGGZVQA</AuthorID>
+  <Content>Antiphonal duets</Content>
+  <Comments />
+  <Quality>2</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies>Chiroxiphia lanceolata</BackgroundSpecies>
+  <Order>Passeriformes</Order>
+  <Family>Thraupidae</Family>
+  <Genus>Rhodinocichla</Genus>
+  <Species>rosea</Species>
+  <Sub-species>rosea</Sub-species>
+  <VernacularNames>Rosy Thrush-Tanager</VernacularNames>
+</Audio>

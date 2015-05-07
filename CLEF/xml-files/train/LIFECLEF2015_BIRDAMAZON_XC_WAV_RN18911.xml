@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>18911</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN18911.wav</FileName>
+  <ClassId>wwdydp</ClassId>
+  <Date>2010-08-23</Date>
+  <Time>08:00</Time>
+  <Locality>Paragominas, PA, Brazil, Bacia 202</Locality>
+  <Latitude>-3.081</Latitude>
+  <Longitude>-47.43</Longitude>
+  <Elevation>?</Elevation>
+  <Author>Nargila Moura</Author>
+  <AuthorID>CWEIBYBYYD</AuthorID>
+  <Content>song</Content>
+  <Comments>cattle pasture</Comments>
+  <Quality>3</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies>Crotophaga ani,Myiodynastes maculatus,Tyrannus melancholicus,Troglodytes aedon</BackgroundSpecies>
+  <Order>Columbiformes</Order>
+  <Family>Columbidae</Family>
+  <Genus>Columbina</Genus>
+  <Species>talpacoti</Species>
+  <Sub-species />
+  <VernacularNames>Ruddy Ground Dove</VernacularNames>
+</Audio>

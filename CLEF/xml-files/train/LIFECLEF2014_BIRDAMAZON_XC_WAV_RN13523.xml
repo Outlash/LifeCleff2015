@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>13523</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN13523.wav</FileName>
+  <ClassId>pscjat</ClassId>
+  <Date>2008-11-01</Date>
+  <Time>15:00</Time>
+  <Locality>Serra Caçador - Laurentino - Santa Catarina</Locality>
+  <Latitude>-27.2195</Latitude>
+  <Longitude>-49.7181</Longitude>
+  <Elevation>450</Elevation>
+  <Author>www.aapimentao.com.br</Author>
+  <AuthorID>VVQBELMRMH</AuthorID>
+  <Content>Chamado</Content>
+  <Comments />
+  <Quality>0</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Thraupidae</Family>
+  <Genus>Sicalis</Genus>
+  <Species>flaveola</Species>
+  <Sub-species />
+  <VernacularNames>Saffron Finch</VernacularNames>
+</Audio>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>12792</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN12792.wav</FileName>
+  <ClassId>qrhwnu</ClassId>
+  <Date>2011-12-05</Date>
+  <Time>10:02</Time>
+  <Locality>Reserva Ecológica de Guapi Açu (REGUA), RJ</Locality>
+  <Latitude>-22.4508</Latitude>
+  <Longitude>-42.7735</Longitude>
+  <Elevation>30</Elevation>
+  <Author>Eric DeFonso</Author>
+  <AuthorID>KTLCZCRCQX</AuthorID>
+  <Content>song</Content>
+  <Comments>Spontaneous song from a pair of birds, in the subcanopy of the regrowing forest off the wetlands.bird-seen:yesplayback-used:no</Comments>
+  <Quality>2</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies />
+  <Order>Piciformes</Order>
+  <Family>Ramphastidae</Family>
+  <Genus>Ramphastos</Genus>
+  <Species>vitellinus</Species>
+  <Sub-species />
+  <VernacularNames>Channel-billed Toucan</VernacularNames>
+</Audio>

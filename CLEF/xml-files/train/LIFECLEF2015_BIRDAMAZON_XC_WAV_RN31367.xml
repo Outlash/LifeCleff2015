@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>31367</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN31367.wav</FileName>
+  <ClassId>fcjizc</ClassId>
+  <Date>2007-12-18</Date>
+  <Time>09:30</Time>
+  <Locality>Parque Regional Barbas-Bremen, Filandia, Quindio. Sector Barbas</Locality>
+  <Latitude>4.6717</Latitude>
+  <Longitude>-75.6283</Longitude>
+  <Elevation>1900</Elevation>
+  <Author>Oscar Humberto Marin-Gomez</Author>
+  <AuthorID>CSUHASNRSU</AuthorID>
+  <Content>song</Content>
+  <Comments>Ref: OHM16A 1712bird-seen:noplayback-used:no</Comments>
+  <Quality>2</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies>Hylophilus semibrunneus</BackgroundSpecies>
+  <Order>Passeriformes</Order>
+  <Family>Parulidae</Family>
+  <Genus>Myiothlypis</Genus>
+  <Species>coronata</Species>
+  <Sub-species />
+  <VernacularNames>Russet-crowned Warbler</VernacularNames>
+</Audio>

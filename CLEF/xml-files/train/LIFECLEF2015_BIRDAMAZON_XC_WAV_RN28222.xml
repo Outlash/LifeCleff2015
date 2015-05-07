@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>28222</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN28222.wav</FileName>
+  <ClassId>rxywkl</ClassId>
+  <Date>2002-01-00</Date>
+  <Time>07:00</Time>
+  <Locality>Cesar, Aguachica, Corpocesar HQ, 08°19N, 73°38W</Locality>
+  <Latitude>8.3167</Latitude>
+  <Longitude>-73.6334</Longitude>
+  <Elevation>200</Elevation>
+  <Author>Thomas Donegan</Author>
+  <AuthorID>OXSIOLJJUP</AuthorID>
+  <Content>Call</Content>
+  <Comments />
+  <Quality>0</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Tyrannidae</Family>
+  <Genus>Phaeomyias</Genus>
+  <Species>murina</Species>
+  <Sub-species />
+  <VernacularNames>Mouse-colored Tyrannulet</VernacularNames>
+</Audio>

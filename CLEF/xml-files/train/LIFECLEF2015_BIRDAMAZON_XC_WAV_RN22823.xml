@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>22823</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN22823.wav</FileName>
+  <ClassId>nlvpld</ClassId>
+  <Date>2014-03-13</Date>
+  <Time>16:30</Time>
+  <Locality>Finca Puerto López, Vereda Buenos Aires, Nilo, Cundinamarca</Locality>
+  <Latitude>4.3684</Latitude>
+  <Longitude>-74.5157</Longitude>
+  <Elevation>1350</Elevation>
+  <Author>Nestor Espejo</Author>
+  <AuthorID>AMISODVOCA</AuthorID>
+  <Content>song</Content>
+  <Comments>Recorded on floor and undergrowth of Secondary Forest surrounded by coffea plantations and pasture.bird-seen:noplayback-used:no</Comments>
+  <Quality>2</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies>Pheugopedius sclateri</BackgroundSpecies>
+  <Order>Columbiformes</Order>
+  <Family>Columbidae</Family>
+  <Genus>Leptotila</Genus>
+  <Species>conoveri</Species>
+  <Sub-species />
+  <VernacularNames>Tolima Dove</VernacularNames>
+</Audio>

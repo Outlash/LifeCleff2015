@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>14950</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN14950.wav</FileName>
+  <ClassId>bjsvvq</ClassId>
+  <Date>2005-07-30</Date>
+  <Time>6:37</Time>
+  <Locality>Ocaña, Agua de la Virgen, Cerro de la virgen, Norte de Santander</Locality>
+  <Latitude>8.2167</Latitude>
+  <Longitude>-73.4001</Longitude>
+  <Elevation>1600</Elevation>
+  <Author>Oscar Laverde</Author>
+  <AuthorID>WKVKSVMNDZ</AuthorID>
+  <Content>rattles</Content>
+  <Comments>Grupo</Comments>
+  <Quality>1</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Furnariidae</Family>
+  <Genus>Synallaxis</Genus>
+  <Species>cinnamomea</Species>
+  <Sub-species />
+  <VernacularNames>Stripe-breasted Spinetail</VernacularNames>
+</Audio>

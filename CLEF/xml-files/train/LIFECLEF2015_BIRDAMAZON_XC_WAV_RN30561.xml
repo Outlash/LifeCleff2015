@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>30561</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN30561.wav</FileName>
+  <ClassId>keftqy</ClassId>
+  <Date>2010-10-11</Date>
+  <Time>11:30</Time>
+  <Locality>Joinville, Santa Catarina</Locality>
+  <Latitude>-26.3961</Latitude>
+  <Longitude>-48.8434</Longitude>
+  <Elevation>10</Elevation>
+  <Author>Guilherme Willrich</Author>
+  <AuthorID>MLTFMFCXEO</AuthorID>
+  <Content>call</Content>
+  <Comments>bird-seen:noplayback-used:no</Comments>
+  <Quality>3</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Gruiformes</Order>
+  <Family>Rallidae</Family>
+  <Genus>Laterallus</Genus>
+  <Species>exilis</Species>
+  <Sub-species />
+  <VernacularNames>Grey-breasted Crake</VernacularNames>
+</Audio>

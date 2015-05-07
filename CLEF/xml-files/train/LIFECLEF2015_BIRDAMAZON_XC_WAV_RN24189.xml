@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>24189</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN24189.wav</FileName>
+  <ClassId>ziirhl</ClassId>
+  <Date>2010-09-20</Date>
+  <Time>07:42</Time>
+  <Locality>Piste solitaire - Montsinéry - French Guiana</Locality>
+  <Latitude>NULL</Latitude>
+  <Longitude>NULL</Longitude>
+  <Elevation>?</Elevation>
+  <Author>Patrick Ingremeau</Author>
+  <AuthorID>IIVTYSKEYX</AuthorID>
+  <Content>call</Content>
+  <Comments />
+  <Quality>0</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies>Cyclarhis gujanensis</BackgroundSpecies>
+  <Order>Passeriformes</Order>
+  <Family>Icteridae</Family>
+  <Genus>Cacicus</Genus>
+  <Species>haemorrhous</Species>
+  <Sub-species />
+  <VernacularNames>Red-rumped Cacique</VernacularNames>
+</Audio>

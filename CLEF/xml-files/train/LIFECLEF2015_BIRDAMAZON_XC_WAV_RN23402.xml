@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>23402</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN23402.wav</FileName>
+  <ClassId>iadzvh</ClassId>
+  <Date>2012-08-20</Date>
+  <Time>09:55</Time>
+  <Locality>Las Tangaras. El Carmen. Choco</Locality>
+  <Latitude>5.827</Latitude>
+  <Longitude>-76.2151</Longitude>
+  <Elevation>1950</Elevation>
+  <Author>Oswaldo Cortes</Author>
+  <AuthorID>VVDRVZCVWW</AuthorID>
+  <Content>song</Content>
+  <Comments />
+  <Quality>2</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Thraupidae</Family>
+  <Genus>Oreothraupis</Genus>
+  <Species>arremonops</Species>
+  <Sub-species />
+  <VernacularNames>Tanager Finch</VernacularNames>
+</Audio>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>9509</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN9509.wav</FileName>
+  <ClassId>aiiwiu</ClassId>
+  <Date>2008-05-15</Date>
+  <Time>17:00</Time>
+  <Locality>Sorocaba, São Paulo</Locality>
+  <Latitude>-23.5017</Latitude>
+  <Longitude>-47.4581</Longitude>
+  <Elevation>569</Elevation>
+  <Author>João P. Burini</Author>
+  <AuthorID>BYDIVQSYNW</AuthorID>
+  <Content>Song</Content>
+  <Comments />
+  <Quality>0</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies />
+  <Order>Psittaciformes</Order>
+  <Family>Psittacidae</Family>
+  <Genus>Psittacara</Genus>
+  <Species>leucophthalmus</Species>
+  <Sub-species />
+  <VernacularNames>White-eyed Parakeet</VernacularNames>
+</Audio>

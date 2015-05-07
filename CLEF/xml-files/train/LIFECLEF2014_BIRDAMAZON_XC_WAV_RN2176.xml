@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>2176</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN2176.wav</FileName>
+  <ClassId>onkywx</ClassId>
+  <Date>2008-08-06</Date>
+  <Time>15:00</Time>
+  <Locality>Serra dos Carajás, PA</Locality>
+  <Latitude>-6.1603</Latitude>
+  <Longitude>-50.3459</Longitude>
+  <Elevation>100</Elevation>
+  <Author>Sidnei Dantas</Author>
+  <AuthorID>NNCKQMBGPH</AuthorID>
+  <Content>call, song</Content>
+  <Comments>after playback. Bamboo patch.</Comments>
+  <Quality>1</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies>Daptrius ater,Cantorchilus leucotis</BackgroundSpecies>
+  <Order>Passeriformes</Order>
+  <Family>Thamnophilidae</Family>
+  <Genus>Cercomacra</Genus>
+  <Species>manu</Species>
+  <Sub-species />
+  <VernacularNames>Manu Antbird</VernacularNames>
+</Audio>

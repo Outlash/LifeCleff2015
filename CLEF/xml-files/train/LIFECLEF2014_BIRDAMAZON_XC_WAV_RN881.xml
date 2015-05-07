@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>881</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN881.wav</FileName>
+  <ClassId>gumwit</ClassId>
+  <Date>2011-05-22</Date>
+  <Time>16:34</Time>
+  <Locality>Paragominas, PA, Brazil, Bacia 547</Locality>
+  <Latitude>-3.7362</Latitude>
+  <Longitude>-48.0503</Longitude>
+  <Elevation>?</Elevation>
+  <Author>Alexander Lees</Author>
+  <AuthorID>INDDBZAFJL</AuthorID>
+  <Content>song</Content>
+  <Comments>after playback, primary forest</Comments>
+  <Quality>2</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies>Tyranneutes stolzmanni,Lipaugus vociferans,Coereba flaveola</BackgroundSpecies>
+  <Order>Passeriformes</Order>
+  <Family>Furnariidae</Family>
+  <Genus>Deconychura</Genus>
+  <Species>longicauda</Species>
+  <Sub-species>zimmeri</Sub-species>
+  <VernacularNames>Long-tailed Woodcreeper</VernacularNames>
+</Audio>

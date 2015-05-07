@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>11532</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN11532.wav</FileName>
+  <ClassId>pbqnkl</ClassId>
+  <Date>2013-01-30</Date>
+  <Time>08:00</Time>
+  <Locality>Comandatuba Island, Una,Bahia, Brazil</Locality>
+  <Latitude>-15.355</Latitude>
+  <Longitude>-38.982</Longitude>
+  <Elevation>0</Elevation>
+  <Author>Antonio Silveira</Author>
+  <AuthorID>NBJQSQJRYH</AuthorID>
+  <Content>alarm call, song</Content>
+  <Comments>Small flock. An adult call and song on the small tree(bush) near the beach.bird-seen:yesplayback-used:no</Comments>
+  <Quality>0</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies />
+  <Order>Cuculiformes</Order>
+  <Family>Cuculidae</Family>
+  <Genus>Guira</Genus>
+  <Species>guira</Species>
+  <Sub-species />
+  <VernacularNames>Guira Cuckoo</VernacularNames>
+</Audio>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>13769</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN13769.wav</FileName>
+  <ClassId>qpxgvo</ClassId>
+  <Date>2002-01-29</Date>
+  <Time>10:36</Time>
+  <Locality>Serra dos Carajás. Road to Salobo</Locality>
+  <Latitude>-6.0501</Latitude>
+  <Longitude>-50.2667</Longitude>
+  <Elevation>660</Elevation>
+  <Author>Jeremy Minns</Author>
+  <AuthorID>DGVLLRYDXS</AuthorID>
+  <Content>Song</Content>
+  <Comments>In canga (cerrado-like vegetation on outcrops of iron ore) near terra firme forest</Comments>
+  <Quality>2</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies>Patagioenas subvinacea,Myiozetetes cayanensis,Elaenia flavogaster,Troglodytes aedon</BackgroundSpecies>
+  <Order>Passeriformes</Order>
+  <Family>Tyrannidae</Family>
+  <Genus>Hemitriccus</Genus>
+  <Species>margaritaceiventer</Species>
+  <Sub-species>wuchereri</Sub-species>
+  <VernacularNames>Pearly-vented Tody-Tyrant</VernacularNames>
+</Audio>

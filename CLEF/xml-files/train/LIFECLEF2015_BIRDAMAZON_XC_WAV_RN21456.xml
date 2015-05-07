@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>21456</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN21456.wav</FileName>
+  <ClassId>objnpr</ClassId>
+  <Date>2000-04-15</Date>
+  <Time>07:36</Time>
+  <Locality>Laguna de Pedro Palo, Tena, Cundinamarca</Locality>
+  <Latitude>NULL</Latitude>
+  <Longitude>NULL</Longitude>
+  <Elevation>2100</Elevation>
+  <Author>Bernabe Lopez-Lanus</Author>
+  <AuthorID>BYLLSJRVDZ</AuthorID>
+  <Content>Song</Content>
+  <Comments />
+  <Quality>3</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Parulidae</Family>
+  <Genus>Setophaga</Genus>
+  <Species>pitiayumi</Species>
+  <Sub-species />
+  <VernacularNames>Tropical Parula</VernacularNames>
+</Audio>

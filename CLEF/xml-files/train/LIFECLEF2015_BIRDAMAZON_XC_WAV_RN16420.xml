@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>16420</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN16420.wav</FileName>
+  <ClassId>fdjofa</ClassId>
+  <Date>2012-07-18</Date>
+  <Time>07:00</Time>
+  <Locality>Itaituba, Para</Locality>
+  <Latitude>-5.5887</Latitude>
+  <Longitude>-57.1152</Longitude>
+  <Elevation>70</Elevation>
+  <Author>GABRIEL LEITE</Author>
+  <AuthorID>TGBFXDVERJ</AuthorID>
+  <Content>flight call</Content>
+  <Comments>bird-seen:yesplayback-used:no</Comments>
+  <Quality>3</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Psittaciformes</Order>
+  <Family>Psittacidae</Family>
+  <Genus>Pionus</Genus>
+  <Species>menstruus</Species>
+  <Sub-species />
+  <VernacularNames>Blue-headed Parrot</VernacularNames>
+</Audio>

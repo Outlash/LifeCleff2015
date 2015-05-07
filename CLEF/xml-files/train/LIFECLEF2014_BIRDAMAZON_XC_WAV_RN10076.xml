@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>10076</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN10076.wav</FileName>
+  <ClassId>tpwgoq</ClassId>
+  <Date>2011-08-20</Date>
+  <Time>10:30</Time>
+  <Locality>Viçosa, Minas Gerais</Locality>
+  <Latitude>-20.79</Latitude>
+  <Longitude>-42.8882</Longitude>
+  <Elevation>800</Elevation>
+  <Author>Noé Eiterer</Author>
+  <AuthorID>TWSKITNQOV</AuthorID>
+  <Content>song</Content>
+  <Comments>bird-seen:yesplayback-used:no</Comments>
+  <Quality>1</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Icteridae</Family>
+  <Genus>Gnorimopsar</Genus>
+  <Species>chopi</Species>
+  <Sub-species />
+  <VernacularNames>Chopi Blackbird</VernacularNames>
+</Audio>

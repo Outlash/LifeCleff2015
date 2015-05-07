@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>16510</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN16510.wav</FileName>
+  <ClassId>umhnlp</ClassId>
+  <Date>2011-03-16</Date>
+  <Time>06:30</Time>
+  <Locality>Bachaquero</Locality>
+  <Latitude>9.9039</Latitude>
+  <Longitude>-71.1039</Longitude>
+  <Elevation>0</Elevation>
+  <Author>Albert Lastukhin</Author>
+  <AuthorID>LELYWQKUZX</AuthorID>
+  <Content>call, flight call</Content>
+  <Comments>bird-seen:yesplayback-used:no</Comments>
+  <Quality>2</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Psittaciformes</Order>
+  <Family>Psittacidae</Family>
+  <Genus>Forpus</Genus>
+  <Species>passerinus</Species>
+  <Sub-species />
+  <VernacularNames>Green-rumped Parrotlet</VernacularNames>
+</Audio>

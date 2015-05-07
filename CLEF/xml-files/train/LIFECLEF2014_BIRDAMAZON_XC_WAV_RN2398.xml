@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>2398</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN2398.wav</FileName>
+  <ClassId>wsyiro</ClassId>
+  <Date>2009-08-30</Date>
+  <Time>07:00</Time>
+  <Locality>Sítio do Cervo, Miracatú, SP</Locality>
+  <Latitude>NULL</Latitude>
+  <Longitude>NULL</Longitude>
+  <Elevation>50</Elevation>
+  <Author>Tim Hirsch</Author>
+  <AuthorID>BMVCNRFNOY</AuthorID>
+  <Content>Song</Content>
+  <Comments>Virtuoso performance inside forest from low branch</Comments>
+  <Quality>2</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies>Rhytipterna simplex,Attila rufus,Procnias nudicollis,Trogon rufus,Cacicus haemorrhous,Crypturellus noctivagus</BackgroundSpecies>
+  <Order>Passeriformes</Order>
+  <Family>Turdidae</Family>
+  <Genus>Turdus</Genus>
+  <Species>flavipes</Species>
+  <Sub-species />
+  <VernacularNames>Yellow-legged Thrush</VernacularNames>
+</Audio>

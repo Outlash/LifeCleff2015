@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>25805</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN25805.wav</FileName>
+  <ClassId>zfacpp</ClassId>
+  <Date>2011-05-28</Date>
+  <Time>07:00</Time>
+  <Locality>Rio Claro, Doradal, Antioquia</Locality>
+  <Latitude>5.9002</Latitude>
+  <Longitude>-74.8485</Longitude>
+  <Elevation>300</Elevation>
+  <Author>Diego Calderon-F.</Author>
+  <AuthorID>OGATBVKNAG</AuthorID>
+  <Content>song</Content>
+  <Comments>bird-seen:yesplayback-used:yes</Comments>
+  <Quality>1</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Thamnophilidae</Family>
+  <Genus>Myrmeciza</Genus>
+  <Species>palliata</Species>
+  <Sub-species />
+  <VernacularNames>Magdalena Antbird</VernacularNames>
+</Audio>

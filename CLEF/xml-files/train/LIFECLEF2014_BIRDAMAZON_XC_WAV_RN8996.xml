@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>8996</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN8996.wav</FileName>
+  <ClassId>aiigbg</ClassId>
+  <Date>2012-02-07</Date>
+  <Time>11:27</Time>
+  <Locality>Timbaúba, Pernambuco</Locality>
+  <Latitude>-7.6096</Latitude>
+  <Longitude>-35.3952</Longitude>
+  <Elevation>440</Elevation>
+  <Author>Marcus Braun</Author>
+  <AuthorID>EICLYDGEKS</AuthorID>
+  <Content>song</Content>
+  <Comments>Mata do Engenho Xixá, Macaparana. Interval between songs shortened by about 4 s to remove recording noisebird-seen:noplayback-used:no</Comments>
+  <Quality>3</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Furnariidae</Family>
+  <Genus>Sittasomus</Genus>
+  <Species>griseicapillus</Species>
+  <Sub-species />
+  <VernacularNames>Olivaceous Woodcreeper</VernacularNames>
+</Audio>

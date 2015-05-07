@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>5556</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN5556.wav</FileName>
+  <ClassId>ltmvlu</ClassId>
+  <Date>2011-09-06</Date>
+  <Time>17:00</Time>
+  <Locality>Cristalino Jungle Lodge, MT</Locality>
+  <Latitude>-9.5981</Latitude>
+  <Longitude>-55.932</Longitude>
+  <Elevation>200</Elevation>
+  <Author>Tayler Brooks</Author>
+  <AuthorID>ARFGONJCBJ</AuthorID>
+  <Content>call</Content>
+  <Comments>Natural vocalization. Bird uttering odd calls from low to mid story. Interaction between several birds possible.</Comments>
+  <Quality>2</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Furnariidae</Family>
+  <Genus>Xiphorhynchus</Genus>
+  <Species>guttatus</Species>
+  <Sub-species>eytoni</Sub-species>
+  <VernacularNames>Buff-throated Woodcreeper</VernacularNames>
+</Audio>

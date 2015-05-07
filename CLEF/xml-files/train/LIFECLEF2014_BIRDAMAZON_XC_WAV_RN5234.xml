@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>5234</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN5234.wav</FileName>
+  <ClassId>uytsig</ClassId>
+  <Date>2001-11-14</Date>
+  <Time>09:11</Time>
+  <Locality>Chapada do Araripe (Ceara)</Locality>
+  <Latitude>-7.3334</Latitude>
+  <Longitude>-39.3001</Longitude>
+  <Elevation>900</Elevation>
+  <Author>Jeremy Minns</Author>
+  <AuthorID>DGVLLRYDXS</AuthorID>
+  <Content>call, song</Content>
+  <Comments>National Forest above Crato. Dry forest, 15-20m high. Calls (B and E in our DVD-ROM 'Birds of Brazil') and then, after flying across track, song.</Comments>
+  <Quality>1</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Turdidae</Family>
+  <Genus>Turdus</Genus>
+  <Species>leucomelas</Species>
+  <Sub-species>albiventer</Sub-species>
+  <VernacularNames>Pale-breasted Thrush</VernacularNames>
+</Audio>

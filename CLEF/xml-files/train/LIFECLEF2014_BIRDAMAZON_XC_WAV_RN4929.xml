@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>4929</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN4929.wav</FileName>
+  <ClassId>yyklvx</ClassId>
+  <Date>2004-08-28</Date>
+  <Time>09:23</Time>
+  <Locality>Barra do Quaraí</Locality>
+  <Latitude>-30.1834</Latitude>
+  <Longitude>-57.4501</Longitude>
+  <Elevation>50</Elevation>
+  <Author>Jeremy Minns</Author>
+  <AuthorID>DGVLLRYDXS</AuthorID>
+  <Content>call</Content>
+  <Comments>Fazenda Santo ångelo. Espinilho parkland. Sounds of a flock.</Comments>
+  <Quality>2</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies>Furnarius rufus,Troglodytes aedon</BackgroundSpecies>
+  <Order>Passeriformes</Order>
+  <Family>Icteridae</Family>
+  <Genus>Agelaioides</Genus>
+  <Species>badius</Species>
+  <Sub-species>badius</Sub-species>
+  <VernacularNames>Baywing</VernacularNames>
+</Audio>

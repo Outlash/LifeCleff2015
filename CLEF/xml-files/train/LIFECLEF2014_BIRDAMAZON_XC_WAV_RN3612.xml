@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>3612</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN3612.wav</FileName>
+  <ClassId>qdjrwu</ClassId>
+  <Date>2002-06-22</Date>
+  <Time>9:47</Time>
+  <Locality>Cristalino Jungle Lodge, MT</Locality>
+  <Latitude>-9.5981</Latitude>
+  <Longitude>-55.932</Longitude>
+  <Elevation>?</Elevation>
+  <Author>Paul Donahue</Author>
+  <AuthorID>LLRXADGTBA</AuthorID>
+  <Content>song</Content>
+  <Comments>young</Comments>
+  <Quality>1</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies />
+  <Order>Tinamiformes</Order>
+  <Family>Tinamidae</Family>
+  <Genus>Crypturellus</Genus>
+  <Species>parvirostris</Species>
+  <Sub-species />
+  <VernacularNames>Small-billed Tinamou</VernacularNames>
+</Audio>

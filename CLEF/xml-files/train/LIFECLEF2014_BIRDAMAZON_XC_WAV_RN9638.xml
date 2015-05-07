@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>9638</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN9638.wav</FileName>
+  <ClassId>zcwqjv</ClassId>
+  <Date>2011-08-08</Date>
+  <Time>15:50</Time>
+  <Locality>Cristalino Jungle Lodge, MT</Locality>
+  <Latitude>-9.5981</Latitude>
+  <Longitude>-55.932</Longitude>
+  <Elevation>200</Elevation>
+  <Author>Tayler Brooks</Author>
+  <AuthorID>ARFGONJCBJ</AuthorID>
+  <Content>flight call</Content>
+  <Comments>Natural vocalization.</Comments>
+  <Quality>1</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies />
+  <Order>Psittaciformes</Order>
+  <Family>Psittacidae</Family>
+  <Genus>Ara</Genus>
+  <Species>ararauna</Species>
+  <Sub-species />
+  <VernacularNames>Blue-and-yellow Macaw</VernacularNames>
+</Audio>

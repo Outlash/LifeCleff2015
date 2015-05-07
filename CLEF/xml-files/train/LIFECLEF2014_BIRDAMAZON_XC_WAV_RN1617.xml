@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>1617</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN1617.wav</FileName>
+  <ClassId>tovyzm</ClassId>
+  <Date>1997-09-08</Date>
+  <Time>?</Time>
+  <Locality>Itatiaia NP, RJ</Locality>
+  <Latitude>-22.38</Latitude>
+  <Longitude>-44.63</Longitude>
+  <Elevation>?</Elevation>
+  <Author>Don Jones</Author>
+  <AuthorID>BCWZQTGMSO</AuthorID>
+  <Content>call</Content>
+  <Comments>The wheeeer and wi-wi-wi-wheeeer calls, other unknown</Comments>
+  <Quality>3</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies />
+  <Order>Accipitriformes</Order>
+  <Family>Accipitridae</Family>
+  <Genus>Spizaetus</Genus>
+  <Species>tyrannus</Species>
+  <Sub-species />
+  <VernacularNames>Black Hawk-Eagle</VernacularNames>
+</Audio>

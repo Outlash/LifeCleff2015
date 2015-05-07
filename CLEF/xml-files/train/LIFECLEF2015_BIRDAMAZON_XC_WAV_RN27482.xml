@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>27482</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN27482.wav</FileName>
+  <ClassId>tkfjdd</ClassId>
+  <Date>2013-12-16</Date>
+  <Time>09:00</Time>
+  <Locality>Setor  Samambaia, mata seca, perto da UFG-Agronomia, Goiânia-Goiás</Locality>
+  <Latitude>-16.6003</Latitude>
+  <Longitude>-49.2802</Longitude>
+  <Elevation>750</Elevation>
+  <Author>Nunes D'Acosta</Author>
+  <AuthorID>OHHTDSDNBT</AuthorID>
+  <Content>call</Content>
+  <Comments>Ave deixa  o galho de uma alta arvore  no inicio da noite quando  começa a precipitar uma grande tempestade  e passa  a voar pelos telhados - Floresta  alta e densa.bird-seen:yesplayback-used:no</Comments>
+  <Quality>2</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Caprimulgiformes</Order>
+  <Family>Caprimulgidae</Family>
+  <Genus>Lurocalis</Genus>
+  <Species>semitorquatus</Species>
+  <Sub-species />
+  <VernacularNames>Short-tailed Nighthawk</VernacularNames>
+</Audio>

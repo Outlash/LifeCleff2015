@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>16987</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN16987.wav</FileName>
+  <ClassId>waknsi</ClassId>
+  <Date>2009-02-26</Date>
+  <Time>06:00</Time>
+  <Locality>Munoz, Apure</Locality>
+  <Latitude>7.7143</Latitude>
+  <Longitude>-69.3326</Longitude>
+  <Elevation>80</Elevation>
+  <Author>Fernand DEROUSSEN</Author>
+  <AuthorID>UXGZWVYDFE</AuthorID>
+  <Content>song</Content>
+  <Comments>bird-seen:yesplayback-used:no</Comments>
+  <Quality>1</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies>Opisthocomus hoazin</BackgroundSpecies>
+  <Order>Caprimulgiformes</Order>
+  <Family>Caprimulgidae</Family>
+  <Genus>Nyctidromus</Genus>
+  <Species>albicollis</Species>
+  <Sub-species />
+  <VernacularNames>Pauraque</VernacularNames>
+</Audio>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>25997</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN25997.wav</FileName>
+  <ClassId>llzpag</ClassId>
+  <Date>2005-10-29</Date>
+  <Time>07:00</Time>
+  <Locality>Cerro Humo, Paria Peninsula, Sucre</Locality>
+  <Latitude>10.7073</Latitude>
+  <Longitude>-62.6284</Longitude>
+  <Elevation>800</Elevation>
+  <Author>Nick Athanas</Author>
+  <AuthorID>XRABICUARW</AuthorID>
+  <Content>song</Content>
+  <Comments />
+  <Quality>1</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies>Ramphastos tucanus</BackgroundSpecies>
+  <Order>Passeriformes</Order>
+  <Family>Thraupidae</Family>
+  <Genus>Tangara</Genus>
+  <Species>gyrola</Species>
+  <Sub-species>viridissima</Sub-species>
+  <VernacularNames>Bay-headed Tanager</VernacularNames>
+</Audio>

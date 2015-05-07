@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>1311</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN1311.wav</FileName>
+  <ClassId>aecmdb</ClassId>
+  <Date>2001-07-18</Date>
+  <Time>06:47</Time>
+  <Locality>Manaus. ZF-2 road</Locality>
+  <Latitude>-2.5501</Latitude>
+  <Longitude>-60.0834</Longitude>
+  <Elevation>100</Elevation>
+  <Author>Jeremy Minns</Author>
+  <AuthorID>DGVLLRYDXS</AuthorID>
+  <Content>Song</Content>
+  <Comments>Terra firme forest. Pair present.</Comments>
+  <Quality>2</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies>Rhytipterna simplex,Piprites chloris,Saltator grossus</BackgroundSpecies>
+  <Order>Passeriformes</Order>
+  <Family>Thamnophilidae</Family>
+  <Genus>Hypocnemis</Genus>
+  <Species>cantator</Species>
+  <Sub-species />
+  <VernacularNames>Guianan Warbling Antbird</VernacularNames>
+</Audio>

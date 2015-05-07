@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>28862</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN28862.wav</FileName>
+  <ClassId>zptkey</ClassId>
+  <Date>2011-12-19</Date>
+  <Time>08:00</Time>
+  <Locality>Tena, Laguna de pedro palo, Cundinamarca</Locality>
+  <Latitude>4.6501</Latitude>
+  <Longitude>-74.3834</Longitude>
+  <Elevation>2000</Elevation>
+  <Author>Oswaldo Cortes</Author>
+  <AuthorID>VVDRVZCVWW</AuthorID>
+  <Content>song</Content>
+  <Comments />
+  <Quality>2</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Tyrannidae</Family>
+  <Genus>Myiarchus</Genus>
+  <Species>tuberculifer</Species>
+  <Sub-species />
+  <VernacularNames>Dusky-capped Flycatcher</VernacularNames>
+</Audio>

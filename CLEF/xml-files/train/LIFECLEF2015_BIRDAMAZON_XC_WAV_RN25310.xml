@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>25310</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN25310.wav</FileName>
+  <ClassId>uipfam</ClassId>
+  <Date>2007-09-21</Date>
+  <Time>05:49</Time>
+  <Locality>Boa Nova, BA - dry forest</Locality>
+  <Latitude>-14.3834</Latitude>
+  <Longitude>-40.2001</Longitude>
+  <Elevation>730</Elevation>
+  <Author>Nick Athanas</Author>
+  <AuthorID>XRABICUARW</AuthorID>
+  <Content>song</Content>
+  <Comments>Male.</Comments>
+  <Quality>1</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies>Herpetotheres cachinnans</BackgroundSpecies>
+  <Order>Passeriformes</Order>
+  <Family>Thamnophilidae</Family>
+  <Genus>Formicivora</Genus>
+  <Species>melanogaster</Species>
+  <Sub-species>melanogaster?</Sub-species>
+  <VernacularNames>Black-bellied Antwren</VernacularNames>
+</Audio>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>29743</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN29743.wav</FileName>
+  <ClassId>bfwanm</ClassId>
+  <Date>2002-12-12</Date>
+  <Time>08:00</Time>
+  <Locality>Bogota, Quebrada la Vieja</Locality>
+  <Latitude>4.6231</Latitude>
+  <Longitude>-74.0562</Longitude>
+  <Elevation>2900</Elevation>
+  <Author>Doug Knapp</Author>
+  <AuthorID>BHRXQZEQFL</AuthorID>
+  <Content>Scream</Content>
+  <Comments />
+  <Quality>2</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Galliformes</Order>
+  <Family>Cracidae</Family>
+  <Genus>Penelope</Genus>
+  <Species>montagnii</Species>
+  <Sub-species />
+  <VernacularNames>Andean Guan</VernacularNames>
+</Audio>

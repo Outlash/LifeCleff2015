@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>9335</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN9335.wav</FileName>
+  <ClassId>epiugh</ClassId>
+  <Date>2002-01-29</Date>
+  <Time>09:54</Time>
+  <Locality>Serra dos Carajás. Road to Salobo</Locality>
+  <Latitude>-6.0501</Latitude>
+  <Longitude>-50.2667</Longitude>
+  <Elevation>660</Elevation>
+  <Author>Jeremy Minns</Author>
+  <AuthorID>DGVLLRYDXS</AuthorID>
+  <Content>Song</Content>
+  <Comments>Terra firme forest.</Comments>
+  <Quality>1</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies />
+  <Order>Tinamiformes</Order>
+  <Family>Tinamidae</Family>
+  <Genus>Crypturellus</Genus>
+  <Species>strigulosus</Species>
+  <Sub-species />
+  <VernacularNames>Brazilian Tinamou</VernacularNames>
+</Audio>

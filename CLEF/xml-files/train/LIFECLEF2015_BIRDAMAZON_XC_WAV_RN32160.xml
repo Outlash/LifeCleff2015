@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>32160</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN32160.wav</FileName>
+  <ClassId>prpzcg</ClassId>
+  <Date>2012-08-12</Date>
+  <Time>10:30</Time>
+  <Locality>Caiapônia, Goiás</Locality>
+  <Latitude>-16.9546</Latitude>
+  <Longitude>-51.8144</Longitude>
+  <Elevation>700</Elevation>
+  <Author>Eduardo D. Schultz</Author>
+  <AuthorID>QYOZQITVAC</AuthorID>
+  <Content>call, male, song</Content>
+  <Comments>A couple of males and females in a small fragment around a streambird-seen:yesplayback-used:yes</Comments>
+  <Quality>0</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies>Myiothlypis leucophrys</BackgroundSpecies>
+  <Order>Passeriformes</Order>
+  <Family>Pipridae</Family>
+  <Genus>Antilophia</Genus>
+  <Species>galeata</Species>
+  <Sub-species />
+  <VernacularNames>Helmeted Manakin</VernacularNames>
+</Audio>

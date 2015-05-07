@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>18509</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN18509.wav</FileName>
+  <ClassId>zpvuom</ClassId>
+  <Date>2007-03-30</Date>
+  <Time>06:30</Time>
+  <Locality>Parque Nacional San Esteban. San Esteban, Puerto Cabello,  Edo. Carabobo</Locality>
+  <Latitude>10.4241</Latitude>
+  <Longitude>-68.0116</Longitude>
+  <Elevation>40</Elevation>
+  <Author>OSWALDO RAMOS</Author>
+  <AuthorID>OKVGIBGWHG</AuthorID>
+  <Content>song</Content>
+  <Comments>bird-seen:no</Comments>
+  <Quality>4</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Gruiformes</Order>
+  <Family>Rallidae</Family>
+  <Genus>Aramides</Genus>
+  <Species>cajaneus</Species>
+  <Sub-species />
+  <VernacularNames>Grey-necked Wood Rail</VernacularNames>
+</Audio>

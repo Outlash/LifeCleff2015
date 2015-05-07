@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>29828</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN29828.wav</FileName>
+  <ClassId>xywqxu</ClassId>
+  <Date>2014-05-25</Date>
+  <Time>09:00</Time>
+  <Locality>Poços de Caldas, Poços de Caldas, Minas Gerais</Locality>
+  <Latitude>-21.7966</Latitude>
+  <Longitude>-46.5724</Longitude>
+  <Elevation>1200</Elevation>
+  <Author>Eric Arruda Williams</Author>
+  <AuthorID>WXWDEYERGX</AuthorID>
+  <Content>song</Content>
+  <Comments>bird-seen:yesplayback-used:no</Comments>
+  <Quality>1</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Falconiformes</Order>
+  <Family>Falconidae</Family>
+  <Genus>Herpetotheres</Genus>
+  <Species>cachinnans</Species>
+  <Sub-species />
+  <VernacularNames>Laughing Falcon</VernacularNames>
+</Audio>

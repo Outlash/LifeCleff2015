@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>29516</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN29516.wav</FileName>
+  <ClassId>sjimuc</ClassId>
+  <Date>2011-02-14</Date>
+  <Time>14:00</Time>
+  <Locality>Porto Velho, Rondônia</Locality>
+  <Latitude>-9.2295</Latitude>
+  <Longitude>-64.7095</Longitude>
+  <Elevation>120</Elevation>
+  <Author>GABRIEL LEITE</Author>
+  <AuthorID>TGBFXDVERJ</AuthorID>
+  <Content>male, song</Content>
+  <Comments>bird-seen:yesplayback-used:no</Comments>
+  <Quality>3</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies>Ramphastos tucanus</BackgroundSpecies>
+  <Order>Passeriformes</Order>
+  <Family>Thamnophilidae</Family>
+  <Genus>Hypocnemoides</Genus>
+  <Species>melanopogon</Species>
+  <Sub-species />
+  <VernacularNames>Black-chinned Antbird</VernacularNames>
+</Audio>

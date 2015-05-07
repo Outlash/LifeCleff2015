@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>1626</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN1626.wav</FileName>
+  <ClassId>hijhrx</ClassId>
+  <Date>2003-10-07</Date>
+  <Time>18:29</Time>
+  <Locality>Intervales State Park. Residential area</Locality>
+  <Latitude>-24.2667</Latitude>
+  <Longitude>-48.4167</Longitude>
+  <Elevation>830</Elevation>
+  <Author>Jeremy Minns</Author>
+  <AuthorID>DGVLLRYDXS</AuthorID>
+  <Content>Song</Content>
+  <Comments>Caminho dos Lagos. Secondary montane forest.</Comments>
+  <Quality>2</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies />
+  <Order>Strigiformes</Order>
+  <Family>Strigidae</Family>
+  <Genus>Megascops</Genus>
+  <Species>choliba</Species>
+  <Sub-species>choliba</Sub-species>
+  <VernacularNames>Tropical Screech Owl</VernacularNames>
+</Audio>

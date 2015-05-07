@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>6050</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN6050.wav</FileName>
+  <ClassId>ytroxk</ClassId>
+  <Date>2007-09-08</Date>
+  <Time>17:30</Time>
+  <Locality>Serra dos Órgãos National Park - RJ</Locality>
+  <Latitude>-22.448</Latitude>
+  <Longitude>-43.01</Longitude>
+  <Elevation>1600</Elevation>
+  <Author>Ricardo Gagliardi</Author>
+  <AuthorID>YRDADNREOP</AuthorID>
+  <Content>song</Content>
+  <Comments />
+  <Quality>2</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Turdidae</Family>
+  <Genus>Turdus</Genus>
+  <Species>amaurochalinus</Species>
+  <Sub-species />
+  <VernacularNames>Creamy-bellied Thrush</VernacularNames>
+</Audio>

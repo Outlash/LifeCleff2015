@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>18124</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN18124.wav</FileName>
+  <ClassId>msddpb</ClassId>
+  <Date>2011-01-28</Date>
+  <Time>08:00</Time>
+  <Locality>Rio Blanco Reserve. Manizales. Caldas</Locality>
+  <Latitude>5.1278</Latitude>
+  <Longitude>-75.4628</Longitude>
+  <Elevation>2200</Elevation>
+  <Author>Oswaldo Cortes</Author>
+  <AuthorID>VVDRVZCVWW</AuthorID>
+  <Content>call agressive</Content>
+  <Comments />
+  <Quality>2</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Grallariidae</Family>
+  <Genus>Grallaria</Genus>
+  <Species>milleri</Species>
+  <Sub-species />
+  <VernacularNames>Brown-banded Antpitta</VernacularNames>
+</Audio>

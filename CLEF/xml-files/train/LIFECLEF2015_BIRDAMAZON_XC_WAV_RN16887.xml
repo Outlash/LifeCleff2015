@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>16887</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN16887.wav</FileName>
+  <ClassId>mveelf</ClassId>
+  <Date>2010-09-02</Date>
+  <Time>?</Time>
+  <Locality>Mana, piste ONF Dégrad Florian</Locality>
+  <Latitude>NULL</Latitude>
+  <Longitude>NULL</Longitude>
+  <Elevation>20</Elevation>
+  <Author>Alexandre Renaudier</Author>
+  <AuthorID>GKADEITXTH</AuthorID>
+  <Content>Call</Content>
+  <Comments>perched bird</Comments>
+  <Quality>1</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies>Ramphastos vitellinus</BackgroundSpecies>
+  <Order>Psittaciformes</Order>
+  <Family>Psittacidae</Family>
+  <Genus>Pionus</Genus>
+  <Species>fuscus</Species>
+  <Sub-species>spinicaudus</Sub-species>
+  <VernacularNames>Dusky Parrot</VernacularNames>
+</Audio>

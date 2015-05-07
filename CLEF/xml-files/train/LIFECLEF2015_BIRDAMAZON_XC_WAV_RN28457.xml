@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>28457</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN28457.wav</FileName>
+  <ClassId>sjimuc</ClassId>
+  <Date>2000-04-21</Date>
+  <Time>xx:xx</Time>
+  <Locality>Finca La Pradera, Parroquia Remolinos, Municipio Puerto Lopez, Meta</Locality>
+  <Latitude>NULL</Latitude>
+  <Longitude>NULL</Longitude>
+  <Elevation>400</Elevation>
+  <Author>Bernabe Lopez-Lanus</Author>
+  <AuthorID>BYLLSJRVDZ</AuthorID>
+  <Content>Song</Content>
+  <Comments />
+  <Quality>3</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Thamnophilidae</Family>
+  <Genus>Hypocnemoides</Genus>
+  <Species>melanopogon</Species>
+  <Sub-species />
+  <VernacularNames>Black-chinned Antbird</VernacularNames>
+</Audio>

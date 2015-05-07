@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>25413</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN25413.wav</FileName>
+  <ClassId>qrhwnu</ClassId>
+  <Date>2008-01-24</Date>
+  <Time>07:00</Time>
+  <Locality>Villavicencio Botanical Gardens, Meta</Locality>
+  <Latitude>4.1501</Latitude>
+  <Longitude>-73.6501</Longitude>
+  <Elevation>600</Elevation>
+  <Author>David Bradley</Author>
+  <AuthorID>MCNTDLDTOO</AuthorID>
+  <Content>call</Content>
+  <Comments />
+  <Quality>1</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Piciformes</Order>
+  <Family>Ramphastidae</Family>
+  <Genus>Ramphastos</Genus>
+  <Species>vitellinus</Species>
+  <Sub-species>culminatus</Sub-species>
+  <VernacularNames>Channel-billed Toucan</VernacularNames>
+</Audio>

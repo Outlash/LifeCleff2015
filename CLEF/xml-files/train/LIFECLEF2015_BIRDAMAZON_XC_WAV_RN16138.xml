@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>16138</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN16138.wav</FileName>
+  <ClassId>jrnnqp</ClassId>
+  <Date>2013-08-20</Date>
+  <Time>09:30</Time>
+  <Locality>Alto Araguaia, Mato Grosso</Locality>
+  <Latitude>-17.3158</Latitude>
+  <Longitude>-53.2186</Longitude>
+  <Elevation>650</Elevation>
+  <Author>João Antônio de B. Vitto</Author>
+  <AuthorID>RIVNLYTULO</AuthorID>
+  <Content>call</Content>
+  <Comments>bird-seen:yes</Comments>
+  <Quality>0</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Thraupidae</Family>
+  <Genus>Cypsnagra</Genus>
+  <Species>hirundinacea</Species>
+  <Sub-species />
+  <VernacularNames>White-rumped Tanager</VernacularNames>
+</Audio>

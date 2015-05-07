@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>15945</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN15945.wav</FileName>
+  <ClassId>tmcoyg</ClassId>
+  <Date>2005-03-05</Date>
+  <Time>10:25</Time>
+  <Locality>RNA El Paujil, Serrania de las Quinchas,Santander, Colombia</Locality>
+  <Latitude>5.9334</Latitude>
+  <Longitude>-74.1834</Longitude>
+  <Elevation>300</Elevation>
+  <Author>Hernan Arias</Author>
+  <AuthorID>FGHNKBQURB</AuthorID>
+  <Content>call</Content>
+  <Comments />
+  <Quality>2</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Cotingidae</Family>
+  <Genus>Querula</Genus>
+  <Species>purpurata</Species>
+  <Sub-species />
+  <VernacularNames>Purple-throated Fruitcrow</VernacularNames>
+</Audio>

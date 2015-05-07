@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>30524</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN30524.wav</FileName>
+  <ClassId>nxdkxx</ClassId>
+  <Date>2010-01-04</Date>
+  <Time>07:00</Time>
+  <Locality>Santa Rosa del Sur, Bolivar</Locality>
+  <Latitude>7.9631</Latitude>
+  <Longitude>-74.0523</Longitude>
+  <Elevation>800</Elevation>
+  <Author>Thomas Donegan</Author>
+  <AuthorID>OXSIOLJJUP</AuthorID>
+  <Content>Song</Content>
+  <Comments>Bird seen, in urban centre</Comments>
+  <Quality>4</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies>Brotogeris jugularis</BackgroundSpecies>
+  <Order>Passeriformes</Order>
+  <Family>Thraupidae</Family>
+  <Genus>Thraupis</Genus>
+  <Species>episcopus</Species>
+  <Sub-species />
+  <VernacularNames>Blue-grey Tanager</VernacularNames>
+</Audio>

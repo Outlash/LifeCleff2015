@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>21497</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN21497.wav</FileName>
+  <ClassId>ayzwsf</ClassId>
+  <Date>2012-06-12</Date>
+  <Time>06:44</Time>
+  <Locality>Galion savannah</Locality>
+  <Latitude>NULL</Latitude>
+  <Longitude>NULL</Longitude>
+  <Elevation>5</Elevation>
+  <Author>Patrick INGREMEAU</Author>
+  <AuthorID>IIVTYSKEYX</AuthorID>
+  <Content>Song an d grunts</Content>
+  <Comments />
+  <Quality>0</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies>Percnostola rufifrons</BackgroundSpecies>
+  <Order>Pelecaniformes</Order>
+  <Family>Threskiornithidae</Family>
+  <Genus>Mesembrinibis</Genus>
+  <Species>cayennensis</Species>
+  <Sub-species />
+  <VernacularNames>Green Ibis</VernacularNames>
+</Audio>

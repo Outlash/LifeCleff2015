@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>7847</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN7847.wav</FileName>
+  <ClassId>fhlbln</ClassId>
+  <Date>2005-04-00</Date>
+  <Time>5pm</Time>
+  <Locality>Iguaçu National Park,Paraná State,Brazil</Locality>
+  <Latitude>-25.681</Latitude>
+  <Longitude>-54.436</Longitude>
+  <Elevation>200</Elevation>
+  <Author>Antonio Silveira</Author>
+  <AuthorID>NBJQSQJRYH</AuthorID>
+  <Content>song</Content>
+  <Comments />
+  <Quality>1</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies />
+  <Order>Piciformes</Order>
+  <Family>Picidae</Family>
+  <Genus>Melanerpes</Genus>
+  <Species>flavifrons</Species>
+  <Sub-species />
+  <VernacularNames>Yellow-fronted Woodpecker</VernacularNames>
+</Audio>

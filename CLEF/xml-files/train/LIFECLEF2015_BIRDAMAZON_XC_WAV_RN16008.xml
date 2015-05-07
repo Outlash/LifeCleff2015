@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>16008</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN16008.wav</FileName>
+  <ClassId>oymxxb</ClassId>
+  <Date>2007-11-04</Date>
+  <Time>06:10</Time>
+  <Locality>RNA El Dorado, Sierra de Santa Marta, Magdalena</Locality>
+  <Latitude>11.1009</Latitude>
+  <Longitude>-74.072</Longitude>
+  <Elevation>2200</Elevation>
+  <Author>Nick Athanas</Author>
+  <AuthorID>XRABICUARW</AuthorID>
+  <Content>song</Content>
+  <Comments />
+  <Quality>2</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies>Myiothlypis conspicillata</BackgroundSpecies>
+  <Order>Passeriformes</Order>
+  <Family>Turdidae</Family>
+  <Genus>Catharus</Genus>
+  <Species>fuscater</Species>
+  <Sub-species>sanctaemartae</Sub-species>
+  <VernacularNames>Slaty-backed Nightingale-Thrush</VernacularNames>
+</Audio>

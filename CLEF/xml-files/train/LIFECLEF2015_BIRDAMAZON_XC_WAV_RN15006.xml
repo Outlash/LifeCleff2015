@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>15006</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN15006.wav</FileName>
+  <ClassId>jncsmg</ClassId>
+  <Date>2008-01-30</Date>
+  <Time>07:25</Time>
+  <Locality>Sierra Nevada de Santa Marta, Magdalena</Locality>
+  <Latitude>10.898042</Latitude>
+  <Longitude>-73.7677</Longitude>
+  <Elevation>1500</Elevation>
+  <Author>Herman van Oosten</Author>
+  <AuthorID>SNUDCZVUQK</AuthorID>
+  <Content>flight call</Content>
+  <Comments>Just one call! Rather silent in flight, these four magnificent birds were...</Comments>
+  <Quality>0</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Psittaciformes</Order>
+  <Family>Psittacidae</Family>
+  <Genus>Ara</Genus>
+  <Species>militaris</Species>
+  <Sub-species />
+  <VernacularNames>Military Macaw</VernacularNames>
+</Audio>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>22260</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN22260.wav</FileName>
+  <ClassId>zmpixx</ClassId>
+  <Date>2010-01-24</Date>
+  <Time>8:00</Time>
+  <Locality>RNA Reinita Cielo Azul, San Vicente de Chucuri, Santander</Locality>
+  <Latitude>6.8464</Latitude>
+  <Longitude>-73.3751</Longitude>
+  <Elevation>1700</Elevation>
+  <Author>Jesse Fagan</Author>
+  <AuthorID>MKUJNSTVEZ</AuthorID>
+  <Content>call</Content>
+  <Comments />
+  <Quality>1</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Furnariidae</Family>
+  <Genus>Cranioleuca</Genus>
+  <Species>curtata</Species>
+  <Sub-species />
+  <VernacularNames>Ash-browed Spinetail</VernacularNames>
+</Audio>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>954</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN954.wav</FileName>
+  <ClassId>wsyiro</ClassId>
+  <Date>2006-09-01</Date>
+  <Time>10:00</Time>
+  <Locality>Reserva Ecológica de Guapiaçu, RJ</Locality>
+  <Latitude>-22.5001</Latitude>
+  <Longitude>-42.7167</Longitude>
+  <Elevation>800</Elevation>
+  <Author>Frank Lambert</Author>
+  <AuthorID>YTUXOCTUEM</AuthorID>
+  <Content>call, female</Content>
+  <Comments>two call types, the second is composed of two short trills</Comments>
+  <Quality>2</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Turdidae</Family>
+  <Genus>Turdus</Genus>
+  <Species>flavipes</Species>
+  <Sub-species />
+  <VernacularNames>Yellow-legged Thrush</VernacularNames>
+</Audio>

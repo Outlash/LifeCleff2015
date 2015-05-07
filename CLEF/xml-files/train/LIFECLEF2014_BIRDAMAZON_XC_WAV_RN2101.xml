@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>2101</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN2101.wav</FileName>
+  <ClassId>bbtkon</ClassId>
+  <Date>2000-12-01</Date>
+  <Time>09:06</Time>
+  <Locality>Serra do Navio, AP</Locality>
+  <Latitude>0.8926</Latitude>
+  <Longitude>-52.056</Longitude>
+  <Elevation>125</Elevation>
+  <Author>Jeremy Minns</Author>
+  <AuthorID>DGVLLRYDXS</AuthorID>
+  <Content>call</Content>
+  <Comments>Terra firme forest. Two different calls. The short calls were definitely by a female Black-headed Antbird. The final, downslurred call was probably by the same bird.</Comments>
+  <Quality>1</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Thamnophilidae</Family>
+  <Genus>Percnostola</Genus>
+  <Species>rufifrons</Species>
+  <Sub-species>rufifrons</Sub-species>
+  <VernacularNames>Black-headed Antbird</VernacularNames>
+</Audio>

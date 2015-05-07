@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>20441</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN20441.wav</FileName>
+  <ClassId>xywqxu</ClassId>
+  <Date>2009-12-19</Date>
+  <Time>10:37</Time>
+  <Locality>Colosó (Sucre). Colombia</Locality>
+  <Latitude>9.4598989212696</Latitude>
+  <Longitude>-75.311279296875</Longitude>
+  <Elevation>400</Elevation>
+  <Author>Harold Jurado</Author>
+  <AuthorID>HQCBKDQQVL</AuthorID>
+  <Content>Song</Content>
+  <Comments />
+  <Quality>1</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Falconiformes</Order>
+  <Family>Falconidae</Family>
+  <Genus>Herpetotheres</Genus>
+  <Species>cachinnans</Species>
+  <Sub-species />
+  <VernacularNames>Laughing Falcon</VernacularNames>
+</Audio>

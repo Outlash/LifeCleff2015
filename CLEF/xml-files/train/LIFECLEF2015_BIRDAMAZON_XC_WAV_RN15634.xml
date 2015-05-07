@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>15634</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN15634.wav</FileName>
+  <ClassId>hrpdhr</ClassId>
+  <Date>2007-07-30</Date>
+  <Time>6:57</Time>
+  <Locality>Pousada Rio Azul, PA</Locality>
+  <Latitude>-9.2456</Latitude>
+  <Longitude>-55.987</Longitude>
+  <Elevation>220</Elevation>
+  <Author>Bradley Davis</Author>
+  <AuthorID>YNXJLOESBB</AuthorID>
+  <Content>call</Content>
+  <Comments>unknown bill-snapping in the background, sounded quite different to the snapping of Corythopis</Comments>
+  <Quality>3</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Tyrannidae</Family>
+  <Genus>Corythopis</Genus>
+  <Species>torquatus</Species>
+  <Sub-species />
+  <VernacularNames>Ringed Antpipit</VernacularNames>
+</Audio>

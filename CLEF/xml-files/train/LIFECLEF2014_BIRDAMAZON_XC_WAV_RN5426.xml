@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>5426</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN5426.wav</FileName>
+  <ClassId>mfiwku</ClassId>
+  <Date>2002-12-01</Date>
+  <Time>10:00</Time>
+  <Locality>Reserva Volta Velha, Itapoá, SC</Locality>
+  <Latitude>-26.0834</Latitude>
+  <Longitude>-48.6334</Longitude>
+  <Elevation>10</Elevation>
+  <Author>Jeremy Minns</Author>
+  <AuthorID>DGVLLRYDXS</AuthorID>
+  <Content>call</Content>
+  <Comments>Coastal white sand forest. In  50 ft high canopy.</Comments>
+  <Quality>1</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies>Procnias nudicollis,Vireo olivaceus</BackgroundSpecies>
+  <Order>Passeriformes</Order>
+  <Family>Tyrannidae</Family>
+  <Genus>Phylloscartes</Genus>
+  <Species>kronei</Species>
+  <Sub-species />
+  <VernacularNames>Restinga Tyrannulet</VernacularNames>
+</Audio>

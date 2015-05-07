@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>8851</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN8851.wav</FileName>
+  <ClassId>yyvzjd</ClassId>
+  <Date>2011-06-08</Date>
+  <Time>05:30</Time>
+  <Locality>Manaus, Amazonas</Locality>
+  <Latitude>-2.5992</Latitude>
+  <Longitude>-59.9292</Longitude>
+  <Elevation>120</Elevation>
+  <Author>Gabriel McCrate</Author>
+  <AuthorID>QTARYWCTXX</AuthorID>
+  <Content>song</Content>
+  <Comments>Three decreasing notes, we-we-weee. It was a pretty silent morning and there are no other birds singing in this recording.bird-seen:noplayback-used:no</Comments>
+  <Quality>1</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Furnariidae</Family>
+  <Genus>Automolus</Genus>
+  <Species>ochrolaemus</Species>
+  <Sub-species />
+  <VernacularNames>Buff-throated Foliage-gleaner</VernacularNames>
+</Audio>

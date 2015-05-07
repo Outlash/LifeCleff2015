@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>1709</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN1709.wav</FileName>
+  <ClassId>fpnmqt</ClassId>
+  <Date>2012-11-07</Date>
+  <Time>08:00</Time>
+  <Locality>Alto Ribeira State Park (PETAR),São Paulo State,Brazil</Locality>
+  <Latitude>-24.541</Latitude>
+  <Longitude>-48.713</Longitude>
+  <Elevation>550</Elevation>
+  <Author>Robson Silva e Silva</Author>
+  <AuthorID>WZSVLIHYQF</AuthorID>
+  <Content>song</Content>
+  <Comments>bird-seen:noplayback-used:yes</Comments>
+  <Quality>1</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Rhinocryptidae</Family>
+  <Genus>Scytalopus</Genus>
+  <Species>speluncae</Species>
+  <Sub-species />
+  <VernacularNames>Mouse-colored Tapaculo</VernacularNames>
+</Audio>

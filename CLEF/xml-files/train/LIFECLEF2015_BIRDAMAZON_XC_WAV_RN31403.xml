@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>31403</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN31403.wav</FileName>
+  <ClassId>wfgnlp</ClassId>
+  <Date>2007-07-29</Date>
+  <Time>13:15</Time>
+  <Locality>Pousada Rio Azul, PA</Locality>
+  <Latitude>-9.2456</Latitude>
+  <Longitude>-55.987</Longitude>
+  <Elevation>240</Elevation>
+  <Author>Bradley Davis</Author>
+  <AuthorID>YNXJLOESBB</AuthorID>
+  <Content>song</Content>
+  <Comments />
+  <Quality>2</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Vireonidae</Family>
+  <Genus>Vireolanius</Genus>
+  <Species>leucotis</Species>
+  <Sub-species />
+  <VernacularNames>Slaty-capped Shrike-Vireo</VernacularNames>
+</Audio>

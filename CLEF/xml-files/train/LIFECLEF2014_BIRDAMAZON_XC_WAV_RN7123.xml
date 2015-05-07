@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>7123</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN7123.wav</FileName>
+  <ClassId>qwxjxm</ClassId>
+  <Date>2005-04-24</Date>
+  <Time>06:00</Time>
+  <Locality>Engenho Jussará, Gravatá, Pernambuco</Locality>
+  <Latitude>-8.2834</Latitude>
+  <Longitude>-35.5834</Longitude>
+  <Elevation>700</Elevation>
+  <Author>Glauco Alves Pereira</Author>
+  <AuthorID>ZWEROGGYVP</AuthorID>
+  <Content>Whistle</Content>
+  <Comments>Edge of forest</Comments>
+  <Quality>3</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies>Vireo olivaceus,Turdus leucomelas</BackgroundSpecies>
+  <Order>Passeriformes</Order>
+  <Family>Tyrannidae</Family>
+  <Genus>Cnemotriccus</Genus>
+  <Species>fuscatus</Species>
+  <Sub-species />
+  <VernacularNames>Fuscous Flycatcher</VernacularNames>
+</Audio>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>25525</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN25525.wav</FileName>
+  <ClassId>vrmygt</ClassId>
+  <Date>2008-07-19</Date>
+  <Time>16:00</Time>
+  <Locality>R. N. Rio Blanco, Caldas</Locality>
+  <Latitude>5.0834</Latitude>
+  <Longitude>-75.5001</Longitude>
+  <Elevation>2600</Elevation>
+  <Author>Andrew Spencer</Author>
+  <AuthorID>CDTGHVBGZP</AuthorID>
+  <Content>song</Content>
+  <Comments />
+  <Quality>1</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Emberizidae</Family>
+  <Genus>Arremon</Genus>
+  <Species>assimilis</Species>
+  <Sub-species>assimilis</Sub-species>
+  <VernacularNames>Grey-browed Brush Finch</VernacularNames>
+</Audio>

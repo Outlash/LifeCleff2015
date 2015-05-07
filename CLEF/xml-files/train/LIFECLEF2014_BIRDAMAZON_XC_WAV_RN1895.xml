@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>1895</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN1895.wav</FileName>
+  <ClassId>hwqenp</ClassId>
+  <Date>2011-09-02</Date>
+  <Time>08:47</Time>
+  <Locality>Pantanal Wildlife Center, MT</Locality>
+  <Latitude>-16.7581</Latitude>
+  <Longitude>-56.8764</Longitude>
+  <Elevation>110</Elevation>
+  <Author>Eric DeFonso</Author>
+  <AuthorID>KTLCZCRCQX</AuthorID>
+  <Content>call</Content>
+  <Comments>Habitat is tropical deciduous woodland.bird-seen:yesplayback-used:no</Comments>
+  <Quality>2</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies>Anodorhynchus hyacinthinus,Leptotila verreauxi</BackgroundSpecies>
+  <Order>Passeriformes</Order>
+  <Family>Thamnophilidae</Family>
+  <Genus>Dysithamnus</Genus>
+  <Species>mentalis</Species>
+  <Sub-species />
+  <VernacularNames>Plain Antvireo</VernacularNames>
+</Audio>

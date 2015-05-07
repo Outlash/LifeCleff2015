@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>6898</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN6898.wav</FileName>
+  <ClassId>upfjhp</ClassId>
+  <Date>2009-12-11</Date>
+  <Time>18:00</Time>
+  <Locality>Jaguariaíva - PR</Locality>
+  <Latitude>NULL</Latitude>
+  <Longitude>NULL</Longitude>
+  <Elevation>820</Elevation>
+  <Author>Leonardo R. Deconto</Author>
+  <AuthorID>VPUQSZGRCI</AuthorID>
+  <Content>call</Content>
+  <Comments />
+  <Quality>3</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Troglodytidae</Family>
+  <Genus>Cistothorus</Genus>
+  <Species>platensis</Species>
+  <Sub-species />
+  <VernacularNames>Sedge Wren</VernacularNames>
+</Audio>

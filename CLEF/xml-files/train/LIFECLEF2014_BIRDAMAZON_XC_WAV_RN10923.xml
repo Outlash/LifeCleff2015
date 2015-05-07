@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>10923</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN10923.wav</FileName>
+  <ClassId>ewytof</ClassId>
+  <Date>2002-08-13</Date>
+  <Time>12:22</Time>
+  <Locality>Intervales State Park. Carmo road</Locality>
+  <Latitude>-24.2834</Latitude>
+  <Longitude>-48.4334</Longitude>
+  <Elevation>600</Elevation>
+  <Author>Jeremy Minns</Author>
+  <AuthorID>DGVLLRYDXS</AuthorID>
+  <Content>call</Content>
+  <Comments>Montane forest. Natural calls by a female, moving round low down in dry branches.</Comments>
+  <Quality>1</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies>Trogon viridis,Biatas nigropectus</BackgroundSpecies>
+  <Order>Passeriformes</Order>
+  <Family>Thamnophilidae</Family>
+  <Genus>Mackenziaena</Genus>
+  <Species>severa</Species>
+  <Sub-species />
+  <VernacularNames>Tufted Antshrike</VernacularNames>
+</Audio>

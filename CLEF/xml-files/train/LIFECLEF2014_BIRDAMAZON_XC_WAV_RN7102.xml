@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>7102</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN7102.wav</FileName>
+  <ClassId>pswzyj</ClassId>
+  <Date>2009-01-16</Date>
+  <Time>6:39</Time>
+  <Locality>Cachoeira II, Entre Rios, Bahia</Locality>
+  <Latitude>NULL</Latitude>
+  <Longitude>NULL</Longitude>
+  <Elevation>50</Elevation>
+  <Author>Sidnei S. dos Santos</Author>
+  <AuthorID>BHODJXTHGQ</AuthorID>
+  <Content>Song</Content>
+  <Comments />
+  <Quality>2</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Vireonidae</Family>
+  <Genus>Vireo</Genus>
+  <Species>olivaceus</Species>
+  <Sub-species />
+  <VernacularNames>Red-eyed Vireo</VernacularNames>
+</Audio>

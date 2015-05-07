@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>611</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN611.wav</FileName>
+  <ClassId>cvnsao</ClassId>
+  <Date>2012-12-30</Date>
+  <Time>09:30</Time>
+  <Locality>Vidal Ramos, Santa Catarina</Locality>
+  <Latitude>-27.367</Latitude>
+  <Longitude>-49.337</Longitude>
+  <Elevation>400</Elevation>
+  <Author>Glauco Kohler</Author>
+  <AuthorID>JDNMEJOJEQ</AuthorID>
+  <Content>song</Content>
+  <Comments>bird-seen:yesplayback-used:no</Comments>
+  <Quality>1</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies>Vireo olivaceus,Leptotila verreauxi</BackgroundSpecies>
+  <Order>Passeriformes</Order>
+  <Family>Thamnophilidae</Family>
+  <Genus>Drymophila</Genus>
+  <Species>rubricollis</Species>
+  <Sub-species />
+  <VernacularNames>Bertoni's Antbird</VernacularNames>
+</Audio>

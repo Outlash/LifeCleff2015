@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>19281</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN19281.wav</FileName>
+  <ClassId>vifxpb</ClassId>
+  <Date>2014-08-18</Date>
+  <Time>07:50</Time>
+  <Locality>Itamonte, Minas Gerais</Locality>
+  <Latitude>-22.372</Latitude>
+  <Longitude>-44.8189</Longitude>
+  <Elevation>1500</Elevation>
+  <Author>Kassius Santos</Author>
+  <AuthorID>LDUBEBHXQK</AuthorID>
+  <Content>song</Content>
+  <Comments>bird-seen:yesplayback-used:yes</Comments>
+  <Quality>1</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Falconiformes</Order>
+  <Family>Falconidae</Family>
+  <Genus>Micrastur</Genus>
+  <Species>ruficollis</Species>
+  <Sub-species />
+  <VernacularNames>Barred Forest Falcon</VernacularNames>
+</Audio>

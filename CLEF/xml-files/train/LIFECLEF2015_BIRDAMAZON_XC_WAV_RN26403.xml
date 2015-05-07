@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>26403</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN26403.wav</FileName>
+  <ClassId>perzmu</ClassId>
+  <Date>2012-07-27</Date>
+  <Time>09:30</Time>
+  <Locality>Universidad del Quindío, Armenia, Quindio</Locality>
+  <Latitude>4.5538</Latitude>
+  <Longitude>-75.6604</Longitude>
+  <Elevation>1500</Elevation>
+  <Author>Oscar H. Marín-Gómez</Author>
+  <AuthorID>CSUHASNRSU</AuthorID>
+  <Content>song</Content>
+  <Comments>Ref OHM101. Un individuo en al copa de guadual. Bosque premontano en regeneraciónbird-seen:yesplayback-used:no</Comments>
+  <Quality>1</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Coerebidae</Family>
+  <Genus>Coereba</Genus>
+  <Species>flaveola</Species>
+  <Sub-species />
+  <VernacularNames>Bananaquit</VernacularNames>
+</Audio>

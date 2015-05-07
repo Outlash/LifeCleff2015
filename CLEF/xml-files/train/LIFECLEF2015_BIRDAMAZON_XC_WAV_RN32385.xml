@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>32385</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN32385.wav</FileName>
+  <ClassId>mogrgi</ClassId>
+  <Date>2000-06-05</Date>
+  <Time>am</Time>
+  <Locality>Reserva La Serrana, municipio de Anori, Antioquia</Locality>
+  <Latitude>NULL</Latitude>
+  <Longitude>NULL</Longitude>
+  <Elevation>?</Elevation>
+  <Author>Bernabe Lopez-Lanus</Author>
+  <AuthorID>BYLLSJRVDZ</AuthorID>
+  <Content>Songs and call</Content>
+  <Comments>Los dos tipos de cantos y llamadas –kuék- después de playback.</Comments>
+  <Quality>1</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Cotingidae</Family>
+  <Genus>Lipaugus</Genus>
+  <Species>weberi</Species>
+  <Sub-species />
+  <VernacularNames>Chestnut-capped Piha</VernacularNames>
+</Audio>

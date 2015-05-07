@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>30626</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN30626.wav</FileName>
+  <ClassId>waknsi</ClassId>
+  <Date>2007-04-28</Date>
+  <Time>20:00</Time>
+  <Locality>El Rio Morichal Largo</Locality>
+  <Latitude>9.447</Latitude>
+  <Longitude>-62.4056</Longitude>
+  <Elevation>100</Elevation>
+  <Author>Doug Knapp</Author>
+  <AuthorID>BHRXQZEQFL</AuthorID>
+  <Content>Song-call</Content>
+  <Comments>Moriche Palm grove north of river coordinates.</Comments>
+  <Quality>2</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Caprimulgiformes</Order>
+  <Family>Caprimulgidae</Family>
+  <Genus>Nyctidromus</Genus>
+  <Species>albicollis</Species>
+  <Sub-species />
+  <VernacularNames>Pauraque</VernacularNames>
+</Audio>

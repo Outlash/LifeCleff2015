@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>6985</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN6985.wav</FileName>
+  <ClassId>kuggpr</ClassId>
+  <Date>2006-11-08</Date>
+  <Time>15:34</Time>
+  <Locality>Parque do Zizo, Sao Paulo state</Locality>
+  <Latitude>-24.017146</Latitude>
+  <Longitude>-47.81044</Longitude>
+  <Elevation>650</Elevation>
+  <Author>Jeremy Minns</Author>
+  <AuthorID>DGVLLRYDXS</AuthorID>
+  <Content>Call</Content>
+  <Comments>Call A. Classification as in our DVD-ROM 'Birds of Brazil' Humid forest. Male. After playback.</Comments>
+  <Quality>1</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies>Rhopias gularis,Chiroxiphia caudata,Schiffornis virescens</BackgroundSpecies>
+  <Order>Passeriformes</Order>
+  <Family>Thamnophilidae</Family>
+  <Genus>Batara</Genus>
+  <Species>cinerea</Species>
+  <Sub-species>cinerea</Sub-species>
+  <VernacularNames>Giant Antshrike</VernacularNames>
+</Audio>

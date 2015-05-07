@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>25003</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN25003.wav</FileName>
+  <ClassId>dgocsv</ClassId>
+  <Date>2009-12-07</Date>
+  <Time>09:30</Time>
+  <Locality>vereda La Unión, Quipile, Cundinamarca</Locality>
+  <Latitude>4.7455</Latitude>
+  <Longitude>-74.5339</Longitude>
+  <Elevation>1400</Elevation>
+  <Author>Sergio Chaparro-Herrera</Author>
+  <AuthorID>RJLERWCWGE</AuthorID>
+  <Content>song</Content>
+  <Comments>bird-seen:yesplayback-used:no</Comments>
+  <Quality>2</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Psittaciformes</Order>
+  <Family>Psittacidae</Family>
+  <Genus>Forpus</Genus>
+  <Species>conspicillatus</Species>
+  <Sub-species />
+  <VernacularNames>Spectacled Parrotlet</VernacularNames>
+</Audio>

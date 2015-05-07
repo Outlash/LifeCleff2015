@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>21518</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN21518.wav</FileName>
+  <ClassId>fcjizc</ClassId>
+  <Date>2013-03-25</Date>
+  <Time>09:37</Time>
+  <Locality>Cajamarca, Tolima</Locality>
+  <Latitude>4.4837</Latitude>
+  <Longitude>-75.4797</Longitude>
+  <Elevation>2600</Elevation>
+  <Author>Oscar H. Marín-Gómez</Author>
+  <AuthorID>CSUHASNRSU</AuthorID>
+  <Content>song</Content>
+  <Comments>Ref: OHM 441. Un individuo vocalizando en bosque en regeneración, al fondo Zonotrichia capensisbird-seen:noplayback-used:no</Comments>
+  <Quality>2</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies>Zonotrichia capensis</BackgroundSpecies>
+  <Order>Passeriformes</Order>
+  <Family>Parulidae</Family>
+  <Genus>Myiothlypis</Genus>
+  <Species>coronata</Species>
+  <Sub-species />
+  <VernacularNames>Russet-crowned Warbler</VernacularNames>
+</Audio>

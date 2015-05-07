@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>819</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN819.wav</FileName>
+  <ClassId>ppdwrk</ClassId>
+  <Date>2011-09-03</Date>
+  <Time>18:00</Time>
+  <Locality>Pantanal Wildlife Center, MT</Locality>
+  <Latitude>-16.7581</Latitude>
+  <Longitude>-56.8764</Longitude>
+  <Elevation>110</Elevation>
+  <Author>Eric DeFonso</Author>
+  <AuthorID>KTLCZCRCQX</AuthorID>
+  <Content>song</Content>
+  <Comments>Bird perched on a snag overhanging the river near the lodge. Habitat is gallery forest amid tropical deciduous woodland.bird-seen:yesplayback-used:no</Comments>
+  <Quality>1</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies>Nycticorax nycticorax,Crypturellus undulatus</BackgroundSpecies>
+  <Order>Coraciiformes</Order>
+  <Family>Alcedinidae</Family>
+  <Genus>Chloroceryle</Genus>
+  <Species>amazona</Species>
+  <Sub-species />
+  <VernacularNames>Amazon Kingfisher</VernacularNames>
+</Audio>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>12140</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN12140.wav</FileName>
+  <ClassId>ubmxxg</ClassId>
+  <Date>2005-10-28</Date>
+  <Time>14:23</Time>
+  <Locality>Serra dos Carajás. Rio Itacaiúnas</Locality>
+  <Latitude>-5.8667</Latitude>
+  <Longitude>-50.4834</Longitude>
+  <Elevation>170</Elevation>
+  <Author>Jeremy Minns</Author>
+  <AuthorID>DGVLLRYDXS</AuthorID>
+  <Content>Call</Content>
+  <Comments>Open secondary growth near river. Natural call by female.</Comments>
+  <Quality>1</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Thamnophilidae</Family>
+  <Genus>Myrmotherula</Genus>
+  <Species>multostriata</Species>
+  <Sub-species />
+  <VernacularNames>Amazonian Streaked Antwren</VernacularNames>
+</Audio>

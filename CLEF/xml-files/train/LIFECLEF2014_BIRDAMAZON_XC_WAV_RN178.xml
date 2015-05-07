@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>178</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN178.wav</FileName>
+  <ClassId>liclqi</ClassId>
+  <Date>2000-09-17</Date>
+  <Time>06:10</Time>
+  <Locality>Floresta Amazonica Hotel, Alta Floresta, MT</Locality>
+  <Latitude>-9.8781</Latitude>
+  <Longitude>-56.0981</Longitude>
+  <Elevation>300</Elevation>
+  <Author>Jeremy Minns</Author>
+  <AuthorID>DGVLLRYDXS</AuthorID>
+  <Content>Song</Content>
+  <Comments>Terra firme forest. After playback.</Comments>
+  <Quality>1</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies>Myrmotherula axillaris,Piaya cayana,Psarocolius bifasciatus</BackgroundSpecies>
+  <Order>Passeriformes</Order>
+  <Family>Furnariidae</Family>
+  <Genus>Dendrexetastes</Genus>
+  <Species>rufigula</Species>
+  <Sub-species>moniliger</Sub-species>
+  <VernacularNames>Cinnamon-throated Woodcreeper</VernacularNames>
+</Audio>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>6064</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN6064.wav</FileName>
+  <ClassId>dccvuj</ClassId>
+  <Date>2010-06-25</Date>
+  <Time>11:00</Time>
+  <Locality>Highlands of Itatiaia National Park,RJ,Brazil</Locality>
+  <Latitude>-22.365</Latitude>
+  <Longitude>-44.742</Longitude>
+  <Elevation>2000</Elevation>
+  <Author>Antonio Silveira</Author>
+  <AuthorID>NBJQSQJRYH</AuthorID>
+  <Content>alarm call</Content>
+  <Comments>Call little-known of this species. This day we were together with the brazilian biol. Fábio Olmos.bird-seen:yesplayback-used:no</Comments>
+  <Quality>0</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies />
+  <Order>Gruiformes</Order>
+  <Family>Rallidae</Family>
+  <Genus>Pardirallus</Genus>
+  <Species>nigricans</Species>
+  <Sub-species />
+  <VernacularNames>Blackish Rail</VernacularNames>
+</Audio>

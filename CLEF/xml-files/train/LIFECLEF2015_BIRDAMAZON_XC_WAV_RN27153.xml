@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>27153</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN27153.wav</FileName>
+  <ClassId>ffvgyk</ClassId>
+  <Date>2013-11-19</Date>
+  <Time>10:38</Time>
+  <Locality>Caldas, Antioquia</Locality>
+  <Latitude>6.0505</Latitude>
+  <Longitude>-75.624</Longitude>
+  <Elevation>1900</Elevation>
+  <Author>Danny Zapata-Henao</Author>
+  <AuthorID>AHYWLCEJLP</AuthorID>
+  <Content>song</Content>
+  <Comments>The bird were seen, but a few moments after the recording. Two individuals.bird-seen:noplayback-used:no</Comments>
+  <Quality>0</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Troglodytidae</Family>
+  <Genus>Henicorhina</Genus>
+  <Species>leucophrys</Species>
+  <Sub-species />
+  <VernacularNames>Grey-breasted Wood Wren</VernacularNames>
+</Audio>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>15625</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN15625.wav</FileName>
+  <ClassId>uipfam</ClassId>
+  <Date>2013-01-18</Date>
+  <Time>07:00</Time>
+  <Locality>Petrolina, Pernambuco State</Locality>
+  <Latitude>-9.1751</Latitude>
+  <Longitude>-40.3734</Longitude>
+  <Elevation>400</Elevation>
+  <Author>Dan Lane</Author>
+  <AuthorID>WOEAFQRMUD</AuthorID>
+  <Content>song</Content>
+  <Comments>Song after playback from a male perched about 3-5m up in semiarid deciduous scrub (canopy 6-7m).bird-seen:yesplayback-used:yes</Comments>
+  <Quality>1</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies>Coereba flaveola,Troglodytes aedon,Empidonomus varius,Vanellus chilensis,Euphonia chlorotica,Thamnophilus doliatus</BackgroundSpecies>
+  <Order>Passeriformes</Order>
+  <Family>Thamnophilidae</Family>
+  <Genus>Formicivora</Genus>
+  <Species>melanogaster</Species>
+  <Sub-species />
+  <VernacularNames>Black-bellied Antwren</VernacularNames>
+</Audio>

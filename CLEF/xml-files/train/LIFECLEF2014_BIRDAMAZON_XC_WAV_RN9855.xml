@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>9855</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN9855.wav</FileName>
+  <ClassId>viluoh</ClassId>
+  <Date>2001-11-12</Date>
+  <Time>05:22</Time>
+  <Locality>Murici, Alagoas</Locality>
+  <Latitude>-9.3001</Latitude>
+  <Longitude>-35.9334</Longitude>
+  <Elevation>550</Elevation>
+  <Author>Jeremy Minns</Author>
+  <AuthorID>DGVLLRYDXS</AuthorID>
+  <Content>call, song</Content>
+  <Comments>Near Murici Ecological Station. Edge of fragment of humid forest</Comments>
+  <Quality>2</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies>Formicivora grisea,Synallaxis infuscata,Poecilotriccus fumifrons,Cyclarhis gujanensis</BackgroundSpecies>
+  <Order>Passeriformes</Order>
+  <Family>Tyrannidae</Family>
+  <Genus>Pitangus</Genus>
+  <Species>sulphuratus</Species>
+  <Sub-species>maximiliani</Sub-species>
+  <VernacularNames>Great Kiskadee</VernacularNames>
+</Audio>

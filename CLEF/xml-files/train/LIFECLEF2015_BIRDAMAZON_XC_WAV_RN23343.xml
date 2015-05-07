@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>23343</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN23343.wav</FileName>
+  <ClassId>fcojdk</ClassId>
+  <Date>2012-01-26</Date>
+  <Time>07:30</Time>
+  <Locality>Espera Feliz, Minas Gerais</Locality>
+  <Latitude>-20.5212</Latitude>
+  <Longitude>-42.0589</Longitude>
+  <Elevation>1500</Elevation>
+  <Author>Luiz Fernando de Souza Junior</Author>
+  <AuthorID>AQLTTWJVXD</AuthorID>
+  <Content>song</Content>
+  <Comments>bird-seen:yesplayback-used:no</Comments>
+  <Quality>2</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Cotingidae</Family>
+  <Genus>Procnias</Genus>
+  <Species>nudicollis</Species>
+  <Sub-species />
+  <VernacularNames>Bare-throated Bellbird</VernacularNames>
+</Audio>

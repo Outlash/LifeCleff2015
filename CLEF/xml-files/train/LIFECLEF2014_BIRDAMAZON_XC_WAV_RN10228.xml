@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>10228</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN10228.wav</FileName>
+  <ClassId>kwwbda</ClassId>
+  <Date>2010-01-02</Date>
+  <Time>7:40</Time>
+  <Locality>Morro da Turquia, Pomerode, Santa Catarina</Locality>
+  <Latitude>-26.7395</Latitude>
+  <Longitude>-49.1881</Longitude>
+  <Elevation>400</Elevation>
+  <Author>Adrian Eisen Rupp</Author>
+  <AuthorID>AOPMSCIDIA</AuthorID>
+  <Content>song</Content>
+  <Comments />
+  <Quality>2</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies>Drymophila ferruginea,Sittasomus griseicapillus</BackgroundSpecies>
+  <Order>Passeriformes</Order>
+  <Family>Thamnophilidae</Family>
+  <Genus>Thamnophilus</Genus>
+  <Species>caerulescens</Species>
+  <Sub-species />
+  <VernacularNames>Variable Antshrike</VernacularNames>
+</Audio>

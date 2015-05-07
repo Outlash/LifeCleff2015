@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>15334</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN15334.wav</FileName>
+  <ClassId>umhnlp</ClassId>
+  <Date>2011-03-11</Date>
+  <Time>09:15</Time>
+  <Locality>Weg naar zee</Locality>
+  <Latitude>5.9001</Latitude>
+  <Longitude>-55.2301</Longitude>
+  <Elevation>1</Elevation>
+  <Author>Daniel Lane</Author>
+  <AuthorID>WOEAFQRMUD</AuthorID>
+  <Content>call</Content>
+  <Comments>Calls from several birds that flew into dense scrub along tidal creek.</Comments>
+  <Quality>2</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies>Amazona amazonica,Philohydor lictor,Hirundo rustica,Pitangus sulphuratus</BackgroundSpecies>
+  <Order>Psittaciformes</Order>
+  <Family>Psittacidae</Family>
+  <Genus>Forpus</Genus>
+  <Species>passerinus</Species>
+  <Sub-species />
+  <VernacularNames>Green-rumped Parrotlet</VernacularNames>
+</Audio>

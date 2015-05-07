@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>27771</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN27771.wav</FileName>
+  <ClassId>ntdenx</ClassId>
+  <Date>2005-10-11</Date>
+  <Time>5:20</Time>
+  <Locality>N of Esplanada, Bahia</Locality>
+  <Latitude>-11.6489</Latitude>
+  <Longitude>-37.8901</Longitude>
+  <Elevation>150</Elevation>
+  <Author>Richard C. Hoyer</Author>
+  <AuthorID>SRRRBQPENI</AuthorID>
+  <Content>call</Content>
+  <Comments>In response to playback</Comments>
+  <Quality>3</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Tyrannidae</Family>
+  <Genus>Hemitriccus</Genus>
+  <Species>striaticollis</Species>
+  <Sub-species />
+  <VernacularNames>Stripe-necked Tody-Tyrant</VernacularNames>
+</Audio>

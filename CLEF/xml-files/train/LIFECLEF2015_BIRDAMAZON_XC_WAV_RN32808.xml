@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>32808</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN32808.wav</FileName>
+  <ClassId>jxakho</ClassId>
+  <Date>2006-11-00</Date>
+  <Time>?:?</Time>
+  <Locality>Palmichal, Carabobo</Locality>
+  <Latitude>5.616</Latitude>
+  <Longitude>-65.742</Longitude>
+  <Elevation>1000</Elevation>
+  <Author>David Edwards</Author>
+  <AuthorID>AFEHYCAHZR</AuthorID>
+  <Content>song</Content>
+  <Comments />
+  <Quality>1</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Furnariidae</Family>
+  <Genus>Anabacerthia</Genus>
+  <Species>striaticollis</Species>
+  <Sub-species />
+  <VernacularNames>Montane Foliage-gleaner</VernacularNames>
+</Audio>

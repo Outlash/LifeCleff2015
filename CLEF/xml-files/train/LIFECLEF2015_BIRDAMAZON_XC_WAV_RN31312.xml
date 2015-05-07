@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>31312</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN31312.wav</FileName>
+  <ClassId>xfkpxa</ClassId>
+  <Date>2007-04-21</Date>
+  <Time>?:?</Time>
+  <Locality>RNA El Paujil, Serrania de las Quinchas,Santander, Colombia</Locality>
+  <Latitude>5.9334</Latitude>
+  <Longitude>-74.1834</Longitude>
+  <Elevation>280</Elevation>
+  <Author>Frank Lambert</Author>
+  <AuthorID>YTUXOCTUEM</AuthorID>
+  <Content>song?</Content>
+  <Comments>score for first song-type</Comments>
+  <Quality>2</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Cardinalidae</Family>
+  <Genus>Habia</Genus>
+  <Species>gutturalis</Species>
+  <Sub-species />
+  <VernacularNames>Sooty Ant Tanager</VernacularNames>
+</Audio>

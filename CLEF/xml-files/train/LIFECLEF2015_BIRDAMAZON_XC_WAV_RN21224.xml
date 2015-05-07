@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>21224</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN21224.wav</FileName>
+  <ClassId>wbchba</ClassId>
+  <Date>2011-08-10</Date>
+  <Time>08:45</Time>
+  <Locality>Serrania de la Macarena. Caño Cristales</Locality>
+  <Latitude>2.213</Latitude>
+  <Longitude>-73.823</Longitude>
+  <Elevation>255</Elevation>
+  <Author>Jeremy Minns</Author>
+  <AuthorID>DGVLLRYDXS</AuthorID>
+  <Content>Song</Content>
+  <Comments>In open, rocky habitat with low vegetation and scattered small trees. Not seen. IDed thanks to Andres Cuervo.</Comments>
+  <Quality>1</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Emberizidae</Family>
+  <Genus>Arremonops</Genus>
+  <Species>conirostris</Species>
+  <Sub-species>umbrinus</Sub-species>
+  <VernacularNames>Black-striped Sparrow</VernacularNames>
+</Audio>

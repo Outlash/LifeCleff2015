@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>22909</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN22909.wav</FileName>
+  <ClassId>szaokc</ClassId>
+  <Date>2011-02-23</Date>
+  <Time>08:25</Time>
+  <Locality>10 km S Pocone on Transpantaneira, Mato Grosso</Locality>
+  <Latitude>-16.362</Latitude>
+  <Longitude>-56.648</Longitude>
+  <Elevation>115</Elevation>
+  <Author>Daniel Lane</Author>
+  <AuthorID>WOEAFQRMUD</AuthorID>
+  <Content>song</Content>
+  <Comments>Natural song of a bird about 5-12m up in short-stature semi-evergreen woodland.</Comments>
+  <Quality>2</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies>Herpsilochmus longirostris,Tolmomyias sulphurescens,Synallaxis albilora,Crypturellus undulatus,Basileuterus culicivorus,Conirostrum speciosum,Galbula ruficauda</BackgroundSpecies>
+  <Order>Passeriformes</Order>
+  <Family>Vireonidae</Family>
+  <Genus>Hylophilus</Genus>
+  <Species>pectoralis</Species>
+  <Sub-species />
+  <VernacularNames>Ashy-headed Greenlet</VernacularNames>
+</Audio>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>24334</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN24334.wav</FileName>
+  <ClassId>mkkiqf</ClassId>
+  <Date>2010-08-31</Date>
+  <Time>?</Time>
+  <Locality>Mana, piste ONF Dégrad Florian</Locality>
+  <Latitude>NULL</Latitude>
+  <Longitude>NULL</Longitude>
+  <Elevation>20</Elevation>
+  <Author>Alexandre Renaudier</Author>
+  <AuthorID>GKADEITXTH</AuthorID>
+  <Content>display</Content>
+  <Comments>at least 2 males together above a little creek at dusk</Comments>
+  <Quality>1</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Apodiformes</Order>
+  <Family>Trochilidae</Family>
+  <Genus>Topaza</Genus>
+  <Species>pella</Species>
+  <Sub-species />
+  <VernacularNames>Crimson Topaz</VernacularNames>
+</Audio>

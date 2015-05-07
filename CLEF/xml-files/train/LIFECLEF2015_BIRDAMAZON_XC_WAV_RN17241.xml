@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>17241</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN17241.wav</FileName>
+  <ClassId>veiywt</ClassId>
+  <Date>1996-08-01</Date>
+  <Time>?</Time>
+  <Locality>SFF Los Colorados, San Juan de Nepomuceno, Bolívar</Locality>
+  <Latitude>9.859167</Latitude>
+  <Longitude>-75.56973</Longitude>
+  <Elevation>300</Elevation>
+  <Author>Mauricio Álvarez Rebolledo (Colección de Sonidos Ambientales - Instituto Humboldt)</Author>
+  <AuthorID>XMFDPACYJN</AuthorID>
+  <Content>call</Content>
+  <Comments>BSA 4919To obtain a wav file of the original recording, please contact csa@humboldt.org.coplayback-used:no</Comments>
+  <Quality>1</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Accipitriformes</Order>
+  <Family>Accipitridae</Family>
+  <Genus>Buteo</Genus>
+  <Species>nitidus</Species>
+  <Sub-species />
+  <VernacularNames>Grey-lined Hawk</VernacularNames>
+</Audio>

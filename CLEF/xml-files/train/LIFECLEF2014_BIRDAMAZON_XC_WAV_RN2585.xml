@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>2585</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN2585.wav</FileName>
+  <ClassId>bitwjq</ClassId>
+  <Date>2013-07-09</Date>
+  <Time>07:15</Time>
+  <Locality>Reserva Biologica do Gurupi</Locality>
+  <Latitude>-3.8141</Latitude>
+  <Longitude>-46.8045</Longitude>
+  <Elevation>190</Elevation>
+  <Author>Josh Engel</Author>
+  <AuthorID>AHACCPDBSA</AuthorID>
+  <Content>song</Content>
+  <Comments>Habitat: terre firme forestbird-seen:yesplayback-used:no</Comments>
+  <Quality>2</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies />
+  <Order>Trogoniformes</Order>
+  <Family>Trogonidae</Family>
+  <Genus>Trogon</Genus>
+  <Species>rufus</Species>
+  <Sub-species>amazonicus</Sub-species>
+  <VernacularNames>Black-throated Trogon</VernacularNames>
+</Audio>

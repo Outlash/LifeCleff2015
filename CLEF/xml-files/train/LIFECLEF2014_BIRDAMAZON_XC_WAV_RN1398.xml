@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>1398</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN1398.wav</FileName>
+  <ClassId>bsewbt</ClassId>
+  <Date>2011-07-24</Date>
+  <Time>11:00</Time>
+  <Locality>Maranhao</Locality>
+  <Latitude>-3.4607</Latitude>
+  <Longitude>-44.7822</Longitude>
+  <Elevation>10</Elevation>
+  <Author>GABRIEL LEITE</Author>
+  <AuthorID>TGBFXDVERJ</AuthorID>
+  <Content>call</Content>
+  <Comments>bird-seen:yesplayback-used:no</Comments>
+  <Quality>2</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Tyrannidae</Family>
+  <Genus>Zimmerius</Genus>
+  <Species>acer</Species>
+  <Sub-species />
+  <VernacularNames>Guianan Tyrannulet</VernacularNames>
+</Audio>

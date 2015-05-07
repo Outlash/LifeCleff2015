@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>5914</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN5914.wav</FileName>
+  <ClassId>oinzpv</ClassId>
+  <Date>2001-04-18</Date>
+  <Time>12:05</Time>
+  <Locality>Cachoeira Rio Ferro Doido, Morro do Chapéu, Bahia</Locality>
+  <Latitude>NULL</Latitude>
+  <Longitude>NULL</Longitude>
+  <Elevation>?</Elevation>
+  <Author>Rolf A. de By</Author>
+  <AuthorID>PTYTXQRLSZ</AuthorID>
+  <Content>call</Content>
+  <Comments>Call it calls or song</Comments>
+  <Quality>4</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Corvidae</Family>
+  <Genus>Cyanocorax</Genus>
+  <Species>cyanopogon</Species>
+  <Sub-species />
+  <VernacularNames>White-naped Jay</VernacularNames>
+</Audio>

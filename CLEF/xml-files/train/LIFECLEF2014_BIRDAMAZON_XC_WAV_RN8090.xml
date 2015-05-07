@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>8090</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN8090.wav</FileName>
+  <ClassId>gaggjv</ClassId>
+  <Date>2009-12-22</Date>
+  <Time>?</Time>
+  <Locality>RPPN Prima Luna, Nova Trento, Santa Catarina</Locality>
+  <Latitude>-27.258</Latitude>
+  <Longitude>-49.02</Longitude>
+  <Elevation>400</Elevation>
+  <Author>Evair Legal</Author>
+  <AuthorID>SMJXFKLATM</AuthorID>
+  <Content>song</Content>
+  <Comments />
+  <Quality>2</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Cardinalidae</Family>
+  <Genus>Saltator</Genus>
+  <Species>similis</Species>
+  <Sub-species />
+  <VernacularNames>Green-winged Saltator</VernacularNames>
+</Audio>

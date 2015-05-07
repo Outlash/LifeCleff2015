@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>13507</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN13507.wav</FileName>
+  <ClassId>gncrmz</ClassId>
+  <Date>2010-03-07</Date>
+  <Time>?</Time>
+  <Locality>São josé dos Campos/SP</Locality>
+  <Latitude>-23.0667</Latitude>
+  <Longitude>-45.9167</Longitude>
+  <Elevation>700</Elevation>
+  <Author>Rodrigo Dela Rosa</Author>
+  <AuthorID>VGXDJMKETZ</AuthorID>
+  <Content>Song</Content>
+  <Comments />
+  <Quality>0</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Thamnophilidae</Family>
+  <Genus>Pyriglena</Genus>
+  <Species>leucoptera</Species>
+  <Sub-species />
+  <VernacularNames>White-shouldered Fire-eye</VernacularNames>
+</Audio>

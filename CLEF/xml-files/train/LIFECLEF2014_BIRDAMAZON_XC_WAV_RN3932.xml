@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>3932</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN3932.wav</FileName>
+  <ClassId>dngkxz</ClassId>
+  <Date>2002-02-03</Date>
+  <Time>12:36</Time>
+  <Locality>Serra dos Carajás. Road to Salobo</Locality>
+  <Latitude>-6.0501</Latitude>
+  <Longitude>-50.2667</Longitude>
+  <Elevation>660</Elevation>
+  <Author>Jeremy Minns</Author>
+  <AuthorID>DGVLLRYDXS</AuthorID>
+  <Content>Call</Content>
+  <Comments>Terra firme forest. Two birds calling, one on each side of road.</Comments>
+  <Quality>1</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Tyrannidae</Family>
+  <Genus>Tolmomyias</Genus>
+  <Species>poliocephalus</Species>
+  <Sub-species>sclateri</Sub-species>
+  <VernacularNames>Grey-crowned Flatbill</VernacularNames>
+</Audio>

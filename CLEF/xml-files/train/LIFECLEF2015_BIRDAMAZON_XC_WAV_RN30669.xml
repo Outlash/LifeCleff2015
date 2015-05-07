@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>30669</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN30669.wav</FileName>
+  <ClassId>exsmje</ClassId>
+  <Date>2008-05-16</Date>
+  <Time>14:52</Time>
+  <Locality>Pousada Rio Azul, PA</Locality>
+  <Latitude>-9.2456</Latitude>
+  <Longitude>-55.987</Longitude>
+  <Elevation>210</Elevation>
+  <Author>Bradley Davis</Author>
+  <AuthorID>YNXJLOESBB</AuthorID>
+  <Content>song</Content>
+  <Comments>Not seen.</Comments>
+  <Quality>2</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies>Atticora fasciata,Lathrotriccus euleri</BackgroundSpecies>
+  <Order>Trogoniformes</Order>
+  <Family>Trogonidae</Family>
+  <Genus>Trogon</Genus>
+  <Species>collaris</Species>
+  <Sub-species />
+  <VernacularNames>Collared Trogon</VernacularNames>
+</Audio>

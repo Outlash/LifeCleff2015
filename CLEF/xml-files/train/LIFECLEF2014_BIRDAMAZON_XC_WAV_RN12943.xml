@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>12943</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN12943.wav</FileName>
+  <ClassId>pugeru</ClassId>
+  <Date>2010-05-07</Date>
+  <Time>10:40</Time>
+  <Locality>Londrina - PR</Locality>
+  <Latitude>-23.3001</Latitude>
+  <Longitude>-51.1501</Longitude>
+  <Elevation>600</Elevation>
+  <Author>Renan Campos de Oliveira</Author>
+  <AuthorID>SDARDTGGWP</AuthorID>
+  <Content>call</Content>
+  <Comments />
+  <Quality>1</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies />
+  <Order>Apodiformes</Order>
+  <Family>Trochilidae</Family>
+  <Genus>Colibri</Genus>
+  <Species>serrirostris</Species>
+  <Sub-species />
+  <VernacularNames>White-vented Violetear</VernacularNames>
+</Audio>

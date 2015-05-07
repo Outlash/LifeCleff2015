@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>28492</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN28492.wav</FileName>
+  <ClassId>ennzln</ClassId>
+  <Date>2013-05-07</Date>
+  <Time>08:00</Time>
+  <Locality>Rio Teuini, Serginal Tupy, Pauini, Amazonas</Locality>
+  <Latitude>-7.9644</Latitude>
+  <Longitude>-67.3469</Longitude>
+  <Elevation>100</Elevation>
+  <Author>Thiago Orsi Laranjeiras</Author>
+  <AuthorID>PMYLTPLTLT</AuthorID>
+  <Content>call</Content>
+  <Comments>4 indivíduosbird-seen:yesplayback-used:no</Comments>
+  <Quality>2</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Falconiformes</Order>
+  <Family>Falconidae</Family>
+  <Genus>Daptrius</Genus>
+  <Species>ater</Species>
+  <Sub-species />
+  <VernacularNames>Black Caracara</VernacularNames>
+</Audio>

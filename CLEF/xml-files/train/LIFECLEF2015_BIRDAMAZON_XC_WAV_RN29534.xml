@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>29534</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN29534.wav</FileName>
+  <ClassId>xplaij</ClassId>
+  <Date>2014-05-23</Date>
+  <Time>16:30</Time>
+  <Locality>Uarini, Amazonas</Locality>
+  <Latitude>-3.026</Latitude>
+  <Longitude>-64.8853</Longitude>
+  <Elevation>30</Elevation>
+  <Author>GABRIEL LEITE</Author>
+  <AuthorID>TGBFXDVERJ</AuthorID>
+  <Content>song</Content>
+  <Comments>bird-seen:yesplayback-used:yes</Comments>
+  <Quality>1</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Tyrannidae</Family>
+  <Genus>Attila</Genus>
+  <Species>bolivianus</Species>
+  <Sub-species />
+  <VernacularNames>White-eyed Attila</VernacularNames>
+</Audio>

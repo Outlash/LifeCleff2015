@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>22644</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN22644.wav</FileName>
+  <ClassId>cpzzjy</ClassId>
+  <Date>2014-04-18</Date>
+  <Time>10:00</Time>
+  <Locality>Chachagši, Narino</Locality>
+  <Latitude>1.3706</Latitude>
+  <Longitude>-77.2839</Longitude>
+  <Elevation>1900</Elevation>
+  <Author>Alejo Mendoza</Author>
+  <AuthorID>YCIOTBBKWR</AuthorID>
+  <Content>song</Content>
+  <Comments>Matorral cerca al Aeropuerto Departamental Antonio Nariño - Municipio de Chachaguibird-seen:yesplayback-used:no</Comments>
+  <Quality>2</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies>Mystery mystery</BackgroundSpecies>
+  <Order>Passeriformes</Order>
+  <Family>Mimidae</Family>
+  <Genus>Mimus</Genus>
+  <Species>gilvus</Species>
+  <Sub-species />
+  <VernacularNames>Tropical Mockingbird</VernacularNames>
+</Audio>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>22815</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN22815.wav</FileName>
+  <ClassId>wlxghh</ClassId>
+  <Date>2008-07-10</Date>
+  <Time>05:50</Time>
+  <Locality>5km west of San Isidro, Bolivar</Locality>
+  <Latitude>6.1501</Latitude>
+  <Longitude>-61.4706</Longitude>
+  <Elevation>170</Elevation>
+  <Author>Andrew Spencer</Author>
+  <AuthorID>CDTGHVBGZP</AuthorID>
+  <Content>lekking</Content>
+  <Comments>insect noise filtered out</Comments>
+  <Quality>1</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Cotingidae</Family>
+  <Genus>Perissocephalus</Genus>
+  <Species>tricolor</Species>
+  <Sub-species />
+  <VernacularNames>Capuchinbird</VernacularNames>
+</Audio>

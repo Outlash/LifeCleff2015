@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>2022</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN2022.wav</FileName>
+  <ClassId>ibvnlg</ClassId>
+  <Date>2008-08-08</Date>
+  <Time>17:17</Time>
+  <Locality>n of Garuva, Sta Catarina</Locality>
+  <Latitude>-25.9517</Latitude>
+  <Longitude>-48.8139</Longitude>
+  <Elevation>30</Elevation>
+  <Author>Nick Athanas</Author>
+  <AuthorID>XRABICUARW</AuthorID>
+  <Content>call</Content>
+  <Comments>Response to playback.</Comments>
+  <Quality>1</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Tyrannidae</Family>
+  <Genus>Myiornis</Genus>
+  <Species>auricularis</Species>
+  <Sub-species>auricularis</Sub-species>
+  <VernacularNames>Eared Pygmy Tyrant</VernacularNames>
+</Audio>

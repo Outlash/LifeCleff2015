@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>12276</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN12276.wav</FileName>
+  <ClassId>gtmyeh</ClassId>
+  <Date>2009-11-28</Date>
+  <Time>07:00</Time>
+  <Locality>Assentamento Lagoa da Serra, Caiapônia-GO, Goiás</Locality>
+  <Latitude>-16.878</Latitude>
+  <Longitude>-51.825</Longitude>
+  <Elevation>680</Elevation>
+  <Author>Tulio Dornas</Author>
+  <AuthorID>MTUQGBMRNC</AuthorID>
+  <Content>Call</Content>
+  <Comments>After play-back. The female was visualized. Forest Cerrado with Bamboos. More Informations in Rev. Bras. Ornito No prelo</Comments>
+  <Quality>1</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies />
+  <Order>Piciformes</Order>
+  <Family>Picidae</Family>
+  <Genus>Celeus</Genus>
+  <Species>obrieni</Species>
+  <Sub-species />
+  <VernacularNames>Kaempfer's Woodpecker</VernacularNames>
+</Audio>

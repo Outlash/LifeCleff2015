@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>22195</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN22195.wav</FileName>
+  <ClassId>umhnlp</ClassId>
+  <Date>2010-09-11</Date>
+  <Time>?</Time>
+  <Locality>Awala-Yalimapo, digue</Locality>
+  <Latitude>5.73778</Latitude>
+  <Longitude>-53.945961</Longitude>
+  <Elevation>2</Elevation>
+  <Author>Alexandre Renaudier</Author>
+  <AuthorID>GKADEITXTH</AuthorID>
+  <Content>call</Content>
+  <Comments />
+  <Quality>1</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies>Crotophaga ani,Columbina passerina,Donacobius atricapilla,Hylophilus pectoralis</BackgroundSpecies>
+  <Order>Psittaciformes</Order>
+  <Family>Psittacidae</Family>
+  <Genus>Forpus</Genus>
+  <Species>passerinus</Species>
+  <Sub-species />
+  <VernacularNames>Green-rumped Parrotlet</VernacularNames>
+</Audio>

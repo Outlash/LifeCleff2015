@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>2175</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN2175.wav</FileName>
+  <ClassId>hwqenp</ClassId>
+  <Date>2001-03-14</Date>
+  <Time>07:48</Time>
+  <Locality>Conceicao de Ibitipoca</Locality>
+  <Latitude>-21.7001</Latitude>
+  <Longitude>-43.8834</Longitude>
+  <Elevation>1200</Elevation>
+  <Author>Jeremy Minns</Author>
+  <AuthorID>DGVLLRYDXS</AuthorID>
+  <Content>Calls A and G</Content>
+  <Comments>Two different calls by a pair, moving through the understorey. In background Masked Titi Monkey (Callicebus personatus)</Comments>
+  <Quality>1</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies>Schiffornis virescens,Myiothlypis leucoblephara</BackgroundSpecies>
+  <Order>Passeriformes</Order>
+  <Family>Thamnophilidae</Family>
+  <Genus>Dysithamnus</Genus>
+  <Species>mentalis</Species>
+  <Sub-species>mentalis</Sub-species>
+  <VernacularNames>Plain Antvireo</VernacularNames>
+</Audio>

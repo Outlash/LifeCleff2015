@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>31237</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN31237.wav</FileName>
+  <ClassId>obvdbc</ClassId>
+  <Date>2012-09-07</Date>
+  <Time>17:59</Time>
+  <Locality>Reserve Naturelle Regionale Tresor, Roura</Locality>
+  <Latitude>4.6105</Latitude>
+  <Longitude>-52.2793</Longitude>
+  <Elevation>240</Elevation>
+  <Author>Jon King</Author>
+  <AuthorID>LNEEOOWCQR</AuthorID>
+  <Content>double rap, male</Content>
+  <Comments>Distance to mic. c. 50m. Same individual as XC114412.bird-seen:yesplayback-used:no</Comments>
+  <Quality>2</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Piciformes</Order>
+  <Family>Picidae</Family>
+  <Genus>Campephilus</Genus>
+  <Species>rubricollis</Species>
+  <Sub-species />
+  <VernacularNames>Red-necked Woodpecker</VernacularNames>
+</Audio>

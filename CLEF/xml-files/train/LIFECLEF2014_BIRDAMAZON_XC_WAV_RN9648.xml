@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>9648</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN9648.wav</FileName>
+  <ClassId>wkjlrj</ClassId>
+  <Date>2009-07-21</Date>
+  <Time>am</Time>
+  <Locality>Ubatuba, SP. Fazenda Angelim</Locality>
+  <Latitude>-23.4334</Latitude>
+  <Longitude>-45.1167</Longitude>
+  <Elevation>23</Elevation>
+  <Author>Eduardo Patrial</Author>
+  <AuthorID>QEFRRVCRRP</AuthorID>
+  <Content>lekking</Content>
+  <Comments />
+  <Quality>1</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Pipridae</Family>
+  <Genus>Manacus</Genus>
+  <Species>manacus</Species>
+  <Sub-species />
+  <VernacularNames>White-bearded Manakin</VernacularNames>
+</Audio>

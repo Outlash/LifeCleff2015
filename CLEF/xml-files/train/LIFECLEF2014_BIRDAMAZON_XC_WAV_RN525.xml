@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>525</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN525.wav</FileName>
+  <ClassId>iyshfg</ClassId>
+  <Date>2005-11-12</Date>
+  <Time>09:00</Time>
+  <Locality>Gnuma Reserve, Santa Bárbara do Pará, Para State</Locality>
+  <Latitude>-1.2011</Latitude>
+  <Longitude>-48.2653</Longitude>
+  <Elevation>30</Elevation>
+  <Author>Antonio Silveira</Author>
+  <AuthorID>NBJQSQJRYH</AuthorID>
+  <Content>call</Content>
+  <Comments>We were with our friend the famous biol. Jacques Vielliard, that identified the species in the moment of recorded.bird-seen:yesplayback-used:no</Comments>
+  <Quality>2</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Pipridae</Family>
+  <Genus>Tyranneutes</Genus>
+  <Species>stolzmanni</Species>
+  <Sub-species />
+  <VernacularNames>Dwarf Tyrant-Manakin</VernacularNames>
+</Audio>

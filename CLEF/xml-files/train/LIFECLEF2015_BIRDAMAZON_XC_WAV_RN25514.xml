@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>25514</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN25514.wav</FileName>
+  <ClassId>wnszlf</ClassId>
+  <Date>2011-10-05</Date>
+  <Time>08:00</Time>
+  <Locality>farallones de Medina, cundinamarca</Locality>
+  <Latitude>NULL</Latitude>
+  <Longitude>NULL</Longitude>
+  <Elevation>1900</Elevation>
+  <Author>Oswaldo Cortes</Author>
+  <AuthorID>VVDRVZCVWW</AuthorID>
+  <Content>song</Content>
+  <Comments />
+  <Quality>3</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Piciformes</Order>
+  <Family>Picidae</Family>
+  <Genus>Colaptes</Genus>
+  <Species>rubiginosus</Species>
+  <Sub-species />
+  <VernacularNames>Golden-olive Woodpecker</VernacularNames>
+</Audio>

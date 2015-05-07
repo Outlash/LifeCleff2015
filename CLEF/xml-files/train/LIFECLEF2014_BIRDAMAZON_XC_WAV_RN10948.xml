@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>10948</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN10948.wav</FileName>
+  <ClassId>boyvjk</ClassId>
+  <Date>2007-03-09</Date>
+  <Time>10:00</Time>
+  <Locality>Perequê - Angra dos Reis - RJ</Locality>
+  <Latitude>-23.012</Latitude>
+  <Longitude>-44.5351</Longitude>
+  <Elevation>50</Elevation>
+  <Author>Ricardo Gagliardi</Author>
+  <AuthorID>YRDADNREOP</AuthorID>
+  <Content>call</Content>
+  <Comments />
+  <Quality>3</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies />
+  <Order>Apodiformes</Order>
+  <Family>Trochilidae</Family>
+  <Genus>Ramphodon</Genus>
+  <Species>naevius</Species>
+  <Sub-species />
+  <VernacularNames>Saw-billed Hermit</VernacularNames>
+</Audio>

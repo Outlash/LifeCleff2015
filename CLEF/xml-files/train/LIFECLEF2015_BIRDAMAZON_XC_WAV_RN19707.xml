@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>19707</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN19707.wav</FileName>
+  <ClassId>kunsua</ClassId>
+  <Date>2014-08-08</Date>
+  <Time>09:30</Time>
+  <Locality>Siderópolis, Santa Catarina state, Brazil</Locality>
+  <Latitude>-28.6155</Latitude>
+  <Longitude>-49.5164</Longitude>
+  <Elevation>180</Elevation>
+  <Author>João Gava Just</Author>
+  <AuthorID>CEKMJEZKSJ</AuthorID>
+  <Content>call, male</Content>
+  <Comments>Recorder: Panasonic RR-US300.bird-seen:noplayback-used:no</Comments>
+  <Quality>2</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies>Ramphastos dicolorus</BackgroundSpecies>
+  <Order>Passeriformes</Order>
+  <Family>Furnariidae</Family>
+  <Genus>Sclerurus</Genus>
+  <Species>scansor</Species>
+  <Sub-species />
+  <VernacularNames>Rufous-breasted Leaftosser</VernacularNames>
+</Audio>

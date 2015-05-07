@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>15137</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN15137.wav</FileName>
+  <ClassId>tobdcn</ClassId>
+  <Date>2011-02-06</Date>
+  <Time>9:50</Time>
+  <Locality>Sendero Bangsia, RNA Las Tangaras, El Carmen, Choco</Locality>
+  <Latitude>NULL</Latitude>
+  <Longitude>NULL</Longitude>
+  <Elevation>1855</Elevation>
+  <Author>Jon King</Author>
+  <AuthorID>LNEEOOWCQR</AuthorID>
+  <Content>song</Content>
+  <Comments>After whistled imitation of song. Distance to mic. 5m. Seen on ground.</Comments>
+  <Quality>1</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Grallariidae</Family>
+  <Genus>Grallaria</Genus>
+  <Species>flavotincta</Species>
+  <Sub-species />
+  <VernacularNames>Yellow-breasted Antpitta</VernacularNames>
+</Audio>

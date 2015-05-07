@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>28894</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN28894.wav</FileName>
+  <ClassId>ovipyl</ClassId>
+  <Date>2011-01-31</Date>
+  <Time>09:11</Time>
+  <Locality>RNA Colibri del Sol, Urrao, dpto. Antioquia</Locality>
+  <Latitude>NULL</Latitude>
+  <Longitude>NULL</Longitude>
+  <Elevation>3483</Elevation>
+  <Author>Jon King</Author>
+  <AuthorID>LNEEOOWCQR</AuthorID>
+  <Content>short song</Content>
+  <Comments>After playback. Distance to mic. 3m, seen singing on/very near ground. Yet another new species to be split from the 'Rufous' antpitta complex, this one not even described as a subspecies, despite its completely distinct song</Comments>
+  <Quality>1</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Grallariidae</Family>
+  <Genus>Grallaria</Genus>
+  <Species>rufula</Species>
+  <Sub-species>sp, nov. NW Colombia</Sub-species>
+  <VernacularNames>Rufous Antpitta</VernacularNames>
+</Audio>

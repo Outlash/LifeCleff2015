@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>20683</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN20683.wav</FileName>
+  <ClassId>edqvwi</ClassId>
+  <Date>2002-12-12</Date>
+  <Time>08:00</Time>
+  <Locality>Bogota, Quebrada la Vieja</Locality>
+  <Latitude>4.6231</Latitude>
+  <Longitude>-74.0562</Longitude>
+  <Elevation>2800</Elevation>
+  <Author>Doug Knapp</Author>
+  <AuthorID>BHRXQZEQFL</AuthorID>
+  <Content>Song</Content>
+  <Comments />
+  <Quality>1</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Thraupidae</Family>
+  <Genus>Hemispingus</Genus>
+  <Species>superciliaris</Species>
+  <Sub-species />
+  <VernacularNames>Superciliaried Hemispingus</VernacularNames>
+</Audio>

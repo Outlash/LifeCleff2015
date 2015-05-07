@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>20635</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN20635.wav</FileName>
+  <ClassId>uarutv</ClassId>
+  <Date>2014-08-31</Date>
+  <Time>11:30</Time>
+  <Locality>Alto Japurá, margem direita.</Locality>
+  <Latitude>-1.8754</Latitude>
+  <Longitude>-69.045</Longitude>
+  <Elevation>90</Elevation>
+  <Author>Eduardo D. Schultz</Author>
+  <AuthorID>QYOZQITVAC</AuthorID>
+  <Content>call</Content>
+  <Comments>High Japurá, right bank. 65 km from Vila Bittencourt at the border.bird-seen:yes</Comments>
+  <Quality>2</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Tyrannidae</Family>
+  <Genus>Hemitriccus</Genus>
+  <Species>zosterops</Species>
+  <Sub-species />
+  <VernacularNames>White-eyed Tody-Tyrant</VernacularNames>
+</Audio>

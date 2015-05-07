@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>22157</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN22157.wav</FileName>
+  <ClassId>uxuaio</ClassId>
+  <Date>2007-11-18</Date>
+  <Time>06:00</Time>
+  <Locality>Parque Regional Barbas-Bremen, Filandia, Quindio. Sector Barbas</Locality>
+  <Latitude>4.6717</Latitude>
+  <Longitude>-75.6283</Longitude>
+  <Elevation>1800</Elevation>
+  <Author>Oscar Humberto Marin-Gomez</Author>
+  <AuthorID>CSUHASNRSU</AuthorID>
+  <Content>song</Content>
+  <Comments>Ref: OHM007A 0114. Two birds singing in dense understory. Low Montane Forest. 30m distace to Mic. Natural Vocalization.bird-seen:noplayback-used:no</Comments>
+  <Quality>1</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies>Arremon brunneinucha,Myadestes ralloides,Myiothlypis coronata,Cercomacra parkeri</BackgroundSpecies>
+  <Order>Passeriformes</Order>
+  <Family>Troglodytidae</Family>
+  <Genus>Pheugopedius</Genus>
+  <Species>mystacalis</Species>
+  <Sub-species />
+  <VernacularNames>Whiskered Wren</VernacularNames>
+</Audio>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>17532</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN17532.wav</FileName>
+  <ClassId>sogsbs</ClassId>
+  <Date>2003-09-20</Date>
+  <Time>16:01</Time>
+  <Locality>Reserva Natural Palmarí, Rio Javarí, AM</Locality>
+  <Latitude>-4.2889</Latitude>
+  <Longitude>-70.2948</Longitude>
+  <Elevation>80</Elevation>
+  <Author>Jeremy Minns</Author>
+  <AuthorID>DGVLLRYDXS</AuthorID>
+  <Content>call</Content>
+  <Comments />
+  <Quality>2</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies>Patagioenas plumbea</BackgroundSpecies>
+  <Order>Accipitriformes</Order>
+  <Family>Accipitridae</Family>
+  <Genus>Busarellus</Genus>
+  <Species>nigricollis</Species>
+  <Sub-species>nigricollis</Sub-species>
+  <VernacularNames>Black-collared Hawk</VernacularNames>
+</Audio>

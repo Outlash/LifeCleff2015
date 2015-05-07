@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>24356</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN24356.wav</FileName>
+  <ClassId>fyzdky</ClassId>
+  <Date>2010-01-06</Date>
+  <Time>07:30</Time>
+  <Locality>Sonsón, Antioquia, Vereda San Francisco, Cerro de las Palomas, Páramo de Sonsón</Locality>
+  <Latitude>5.716</Latitude>
+  <Longitude>-75.2583</Longitude>
+  <Elevation>2800</Elevation>
+  <Author>Oscar H. Marín-Gómez</Author>
+  <AuthorID>CSUHASNRSU</AuthorID>
+  <Content>call</Content>
+  <Comments>Ref: OHM067B 1436. Un individuo perchado en estrato medio en robledal. 15 m del mic.bird-seen:yesplayback-used:no</Comments>
+  <Quality>2</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies>Melanerpes formicivorus,Turdus fuscater,Boissonneaua flavescens,Trogon personatus</BackgroundSpecies>
+  <Order>Apodiformes</Order>
+  <Family>Trochilidae</Family>
+  <Genus>Boissonneaua</Genus>
+  <Species>flavescens</Species>
+  <Sub-species />
+  <VernacularNames>Buff-tailed Coronet</VernacularNames>
+</Audio>

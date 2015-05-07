@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>27690</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN27690.wav</FileName>
+  <ClassId>cpigyt</ClassId>
+  <Date>2014-06-20</Date>
+  <Time>09:30</Time>
+  <Locality>Andes, Antioquia, Mesenia Santa Ines</Locality>
+  <Latitude>5.4898</Latitude>
+  <Longitude>-75.9014</Longitude>
+  <Elevation>2600</Elevation>
+  <Author>A Edwar H Guarín</Author>
+  <AuthorID>NQMGMOJOHV</AuthorID>
+  <Content>song</Content>
+  <Comments>bird-seen:yesplayback-used:no</Comments>
+  <Quality>1</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Piciformes</Order>
+  <Family>Ramphastidae</Family>
+  <Genus>Andigena</Genus>
+  <Species>nigrirostris</Species>
+  <Sub-species />
+  <VernacularNames>Black-billed Mountain Toucan</VernacularNames>
+</Audio>

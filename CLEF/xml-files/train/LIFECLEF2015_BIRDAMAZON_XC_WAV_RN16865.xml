@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>16865</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN16865.wav</FileName>
+  <ClassId>nsbalk</ClassId>
+  <Date>2007-05-11</Date>
+  <Time>?</Time>
+  <Locality>RNA Hormiguero de Torcoroma, Ocaña, Norte de Santander</Locality>
+  <Latitude>8.2031</Latitude>
+  <Longitude>-73.3798</Longitude>
+  <Elevation>1670</Elevation>
+  <Author>Frank Lambert</Author>
+  <AuthorID>YTUXOCTUEM</AuthorID>
+  <Content>song</Content>
+  <Comments>one of a breeding pair without distinctive moustaches (very hard to see in the field)</Comments>
+  <Quality>1</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Emberizidae</Family>
+  <Genus>Atlapetes</Genus>
+  <Species>albofrenatus</Species>
+  <Sub-species />
+  <VernacularNames>Moustached Brush Finch</VernacularNames>
+</Audio>

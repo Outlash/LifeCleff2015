@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>16236</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN16236.wav</FileName>
+  <ClassId>addsdr</ClassId>
+  <Date>2005-10-04</Date>
+  <Time>11:00</Time>
+  <Locality>Boa Nova, BA - dry forest</Locality>
+  <Latitude>-14.3834</Latitude>
+  <Longitude>-40.2001</Longitude>
+  <Elevation>700</Elevation>
+  <Author>Richard C. Hoyer</Author>
+  <AuthorID>SRRRBQPENI</AuthorID>
+  <Content>song</Content>
+  <Comments>in response to playback</Comments>
+  <Quality>1</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Tyrannidae</Family>
+  <Genus>Hemitriccus</Genus>
+  <Species>nidipendulus</Species>
+  <Sub-species />
+  <VernacularNames>Hangnest Tody-Tyrant</VernacularNames>
+</Audio>

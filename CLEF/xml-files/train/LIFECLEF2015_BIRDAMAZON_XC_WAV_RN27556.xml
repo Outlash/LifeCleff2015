@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>27556</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN27556.wav</FileName>
+  <ClassId>crqoog</ClassId>
+  <Date>2007-06-19</Date>
+  <Time>05:44</Time>
+  <Locality>RNA Hormiguero de Torcoroma, Ocaña, Norte de Santander</Locality>
+  <Latitude>8.2031</Latitude>
+  <Longitude>-73.3798</Longitude>
+  <Elevation>1600</Elevation>
+  <Author>Bradley Davis</Author>
+  <AuthorID>YNXJLOESBB</AuthorID>
+  <Content>call</Content>
+  <Comments />
+  <Quality>1</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Tyrannidae</Family>
+  <Genus>Myiodynastes</Genus>
+  <Species>chrysocephalus</Species>
+  <Sub-species />
+  <VernacularNames>Golden-crowned Flycatcher</VernacularNames>
+</Audio>

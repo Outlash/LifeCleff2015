@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>28706</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN28706.wav</FileName>
+  <ClassId>mlluku</ClassId>
+  <Date>2008-01-25</Date>
+  <Time>?</Time>
+  <Locality>Road to Remanso, Lençóis, Chapada Diamantina, BA</Locality>
+  <Latitude>-12.5834</Latitude>
+  <Longitude>-41.3667</Longitude>
+  <Elevation>?</Elevation>
+  <Author>Eduardo Patrial</Author>
+  <AuthorID>QEFRRVCRRP</AuthorID>
+  <Content>song</Content>
+  <Comments>semi humid forest</Comments>
+  <Quality>1</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Grallariidae</Family>
+  <Genus>Hylopezus</Genus>
+  <Species>ochroleucus</Species>
+  <Sub-species />
+  <VernacularNames>White-browed Antpitta</VernacularNames>
+</Audio>

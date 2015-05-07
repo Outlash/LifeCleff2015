@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>11894</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN11894.wav</FileName>
+  <ClassId>ephxxx</ClassId>
+  <Date>2004-01-01</Date>
+  <Time>8:30</Time>
+  <Locality>Parque Dois Irmãos, Recife, Pernambuco</Locality>
+  <Latitude>-8.0539</Latitude>
+  <Longitude>-34.8809</Longitude>
+  <Elevation>0</Elevation>
+  <Author>Mauricio Cabral Periquito</Author>
+  <AuthorID>HERKCTHDZI</AuthorID>
+  <Content>song</Content>
+  <Comments />
+  <Quality>4</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Tyrannidae</Family>
+  <Genus>Legatus</Genus>
+  <Species>leucophaius</Species>
+  <Sub-species />
+  <VernacularNames>Piratic Flycatcher</VernacularNames>
+</Audio>

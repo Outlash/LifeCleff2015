@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>20538</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN20538.wav</FileName>
+  <ClassId>nxdkxx</ClassId>
+  <Date>2011-07-19</Date>
+  <Time>07:00</Time>
+  <Locality>Los Salias, Miranda</Locality>
+  <Latitude>10.4012</Latitude>
+  <Longitude>-66.978</Longitude>
+  <Elevation>1700</Elevation>
+  <Author>Galo Buitrón-Jurado</Author>
+  <AuthorID>XUAITKZGSQ</AuthorID>
+  <Content>song</Content>
+  <Comments>bird-seen:yesplayback-used:no</Comments>
+  <Quality>2</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Thraupidae</Family>
+  <Genus>Thraupis</Genus>
+  <Species>episcopus</Species>
+  <Sub-species />
+  <VernacularNames>Blue-grey Tanager</VernacularNames>
+</Audio>

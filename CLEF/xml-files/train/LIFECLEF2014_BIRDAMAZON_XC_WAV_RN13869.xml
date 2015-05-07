@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>13869</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN13869.wav</FileName>
+  <ClassId>mwocnj</ClassId>
+  <Date>2013-02-24</Date>
+  <Time>11:50</Time>
+  <Locality>Lavras, Minas Gerais</Locality>
+  <Latitude>-21.3332</Latitude>
+  <Longitude>-44.9824</Longitude>
+  <Elevation>1100</Elevation>
+  <Author>Kassius Santos</Author>
+  <AuthorID>LDUBEBHXQK</AuthorID>
+  <Content>alarm call, female, male, song</Content>
+  <Comments>bird-seen:yesplayback-used:yes</Comments>
+  <Quality>1</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Thamnophilidae</Family>
+  <Genus>Drymophila</Genus>
+  <Species>malura</Species>
+  <Sub-species />
+  <VernacularNames>Dusky-tailed Antbird</VernacularNames>
+</Audio>

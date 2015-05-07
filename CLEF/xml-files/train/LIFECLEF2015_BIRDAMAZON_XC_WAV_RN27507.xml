@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>27507</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN27507.wav</FileName>
+  <ClassId>logvqs</ClassId>
+  <Date>2008-01-01</Date>
+  <Time>08:41</Time>
+  <Locality>Soata (Reserva de Aves para Amazilia castaneiventris y Macroagelaius)</Locality>
+  <Latitude>6.3001</Latitude>
+  <Longitude>-72.7167</Longitude>
+  <Elevation>1980</Elevation>
+  <Author>Oswaldo Cortes, Ximena Villagran, Alejandro Hernandez, Giovanni Chaves</Author>
+  <AuthorID>VVDRVZCVWW</AuthorID>
+  <Content>call</Content>
+  <Comments />
+  <Quality>4</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Apodiformes</Order>
+  <Family>Trochilidae</Family>
+  <Genus>Amazilia</Genus>
+  <Species>castaneiventris</Species>
+  <Sub-species />
+  <VernacularNames>Chestnut-bellied Hummingbird</VernacularNames>
+</Audio>

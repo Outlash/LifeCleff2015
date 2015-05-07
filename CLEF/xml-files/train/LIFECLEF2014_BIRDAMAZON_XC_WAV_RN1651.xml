@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>1651</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN1651.wav</FileName>
+  <ClassId>ktgebu</ClassId>
+  <Date>2008-07-19</Date>
+  <Time>8:15</Time>
+  <Locality>RPPN Morro das Árvores, Poços de Caldas, Minas Gerais state</Locality>
+  <Latitude>NULL</Latitude>
+  <Longitude>NULL</Longitude>
+  <Elevation>1300</Elevation>
+  <Author>Guilherme R R Brito</Author>
+  <AuthorID>OAYOBWYOOM</AuthorID>
+  <Content>song</Content>
+  <Comments>playback response</Comments>
+  <Quality>1</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Formicariidae</Family>
+  <Genus>Chamaeza</Genus>
+  <Species>ruficauda</Species>
+  <Sub-species />
+  <VernacularNames>Rufous-tailed Antthrush</VernacularNames>
+</Audio>

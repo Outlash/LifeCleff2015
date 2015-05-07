@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>22374</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN22374.wav</FileName>
+  <ClassId>azrobg</ClassId>
+  <Date>2012-11-21</Date>
+  <Time>09:00</Time>
+  <Locality>Murici, Alagoas</Locality>
+  <Latitude>-9.3001</Latitude>
+  <Longitude>-35.9334</Longitude>
+  <Elevation>110</Elevation>
+  <Author>Fernando Igor de Godoy</Author>
+  <AuthorID>CHDHFSVVIN</AuthorID>
+  <Content>female, male, song</Content>
+  <Comments>FNJV 30331bird-seen:yesplayback-used:yes</Comments>
+  <Quality>2</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Thamnophilidae</Family>
+  <Genus>Herpsilochmus</Genus>
+  <Species>rufimarginatus</Species>
+  <Sub-species>scapularis</Sub-species>
+  <VernacularNames>Rufous-winged Antwren</VernacularNames>
+</Audio>

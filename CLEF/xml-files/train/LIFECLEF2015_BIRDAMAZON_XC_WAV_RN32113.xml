@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>32113</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN32113.wav</FileName>
+  <ClassId>mbfftt</ClassId>
+  <Date>2012-04-23</Date>
+  <Time>07:47</Time>
+  <Locality>Montezuma Peak Road, Pueblo Rico, Risaralda, W Andes - Tatama National Park</Locality>
+  <Latitude>5.2431</Latitude>
+  <Longitude>-76.0964</Longitude>
+  <Elevation>1600</Elevation>
+  <Author>Jeremy Minns</Author>
+  <AuthorID>DGVLLRYDXS</AuthorID>
+  <Content>Song</Content>
+  <Comments>Montane forest. At least two birds singing.</Comments>
+  <Quality>2</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Rhinocryptidae</Family>
+  <Genus>Scytalopus</Genus>
+  <Species>vicinior</Species>
+  <Sub-species />
+  <VernacularNames>Narino Tapaculo</VernacularNames>
+</Audio>
