@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>4289</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN4289.wav</FileName>
+  <ClassId>gsmjhm</ClassId>
+  <Date>2006-07-06</Date>
+  <Time>17:00</Time>
+  <Locality>Campos do Jordao, Sao Paulo State</Locality>
+  <Latitude>-22.7395</Latitude>
+  <Longitude>-45.5914</Longitude>
+  <Elevation>1630</Elevation>
+  <Author>Joao Menezes</Author>
+  <AuthorID>BEYMZHZHIB</AuthorID>
+  <Content>call</Content>
+  <Comments />
+  <Quality>4</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies>Pitangus sulphuratus,Columba livia</BackgroundSpecies>
+  <Order>Psittaciformes</Order>
+  <Family>Psittacidae</Family>
+  <Genus>Pyrrhura</Genus>
+  <Species>frontalis</Species>
+  <Sub-species />
+  <VernacularNames>Maroon-bellied Parakeet</VernacularNames>
+</Audio>

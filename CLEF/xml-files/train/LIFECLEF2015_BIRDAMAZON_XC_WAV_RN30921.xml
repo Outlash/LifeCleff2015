@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>30921</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN30921.wav</FileName>
+  <ClassId>skjryu</ClassId>
+  <Date>2003-04-17</Date>
+  <Time>7:35</Time>
+  <Locality>Garagoa, RP El Secreto, Boyaca</Locality>
+  <Latitude>5.074529</Latitude>
+  <Longitude>-73.3612</Longitude>
+  <Elevation>2000-2200</Elevation>
+  <Author>Oscar Laverde</Author>
+  <AuthorID>WKVKSVMNDZ</AuthorID>
+  <Content>song</Content>
+  <Comments />
+  <Quality>0</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Tyrannidae</Family>
+  <Genus>Zimmerius</Genus>
+  <Species>chrysops</Species>
+  <Sub-species />
+  <VernacularNames>Golden-faced Tyrannulet</VernacularNames>
+</Audio>

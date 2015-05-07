@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>8151</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN8151.wav</FileName>
+  <ClassId>jgbztp</ClassId>
+  <Date>2012-11-01</Date>
+  <Time>6:54</Time>
+  <Locality>campo mourao, paraná</Locality>
+  <Latitude>-24.331</Latitude>
+  <Longitude>-52.387</Longitude>
+  <Elevation>640</Elevation>
+  <Author>Luiz C. Silva</Author>
+  <AuthorID>ORPKXJRFDZ</AuthorID>
+  <Content>call, song</Content>
+  <Comments>Several males singing. Semideciduous Seasonal Forest .</Comments>
+  <Quality>2</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Thraupidae</Family>
+  <Genus>Tiaris</Genus>
+  <Species>fuliginosus</Species>
+  <Sub-species />
+  <VernacularNames>Sooty Grassquit</VernacularNames>
+</Audio>

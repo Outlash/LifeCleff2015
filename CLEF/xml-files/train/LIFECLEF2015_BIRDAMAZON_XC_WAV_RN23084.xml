@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>23084</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN23084.wav</FileName>
+  <ClassId>flxxiy</ClassId>
+  <Date>2011-01-28</Date>
+  <Time>09:00</Time>
+  <Locality>Rio Blanco Reserve. Manizales. Caldas</Locality>
+  <Latitude>5.1278</Latitude>
+  <Longitude>-75.4628</Longitude>
+  <Elevation>2200</Elevation>
+  <Author>Oswaldo Cortes</Author>
+  <AuthorID>VVDRVZCVWW</AuthorID>
+  <Content>song</Content>
+  <Comments />
+  <Quality>4</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Psittaciformes</Order>
+  <Family>Psittacidae</Family>
+  <Genus>Leptosittaca</Genus>
+  <Species>branickii</Species>
+  <Sub-species />
+  <VernacularNames>Golden-plumed Parakeet</VernacularNames>
+</Audio>

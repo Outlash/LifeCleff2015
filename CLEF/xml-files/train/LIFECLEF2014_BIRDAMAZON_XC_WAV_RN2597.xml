@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>2597</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN2597.wav</FileName>
+  <ClassId>omrceb</ClassId>
+  <Date>2012-10-07</Date>
+  <Time>07:30</Time>
+  <Locality>Reserva Biológica Municipal Poço D'Anta</Locality>
+  <Latitude>-21.757</Latitude>
+  <Longitude>-43.31</Longitude>
+  <Elevation>856</Elevation>
+  <Author>Marco Manhães</Author>
+  <AuthorID>ZLBYQGJAJN</AuthorID>
+  <Content>call</Content>
+  <Comments />
+  <Quality>2</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Furnariidae</Family>
+  <Genus>Anabazenops</Genus>
+  <Species>fuscus</Species>
+  <Sub-species />
+  <VernacularNames>White-collared Foliage-gleaner</VernacularNames>
+</Audio>

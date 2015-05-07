@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>29304</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN29304.wav</FileName>
+  <ClassId>qqgfak</ClassId>
+  <Date>2006-09-19</Date>
+  <Time>8:18</Time>
+  <Locality>Mucugê, Bahia.</Locality>
+  <Latitude>NULL</Latitude>
+  <Longitude>NULL</Longitude>
+  <Elevation>?</Elevation>
+  <Author>Sidnei S. dos Santos</Author>
+  <AuthorID>BHODJXTHGQ</AuthorID>
+  <Content>Song</Content>
+  <Comments />
+  <Quality>1</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Parulidae</Family>
+  <Genus>Geothlypis</Genus>
+  <Species>aequinoctialis</Species>
+  <Sub-species />
+  <VernacularNames>Masked Yellowthroat</VernacularNames>
+</Audio>

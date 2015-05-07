@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>14106</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN14106.wav</FileName>
+  <ClassId>gvlezu</ClassId>
+  <Date>1998-06-20</Date>
+  <Time>am</Time>
+  <Locality>Hacienda Las Cruces (Area La Ceja), Toche, Municipio Ibague, Tolima</Locality>
+  <Latitude>NULL</Latitude>
+  <Longitude>NULL</Longitude>
+  <Elevation>2800</Elevation>
+  <Author>Bernabe Lopez-Lanus</Author>
+  <AuthorID>BYLLSJRVDZ</AuthorID>
+  <Content>Songs (lek) and instrumental (wings) flight display</Content>
+  <Comments>Lek of four individuals whisthling and spectacular display in flight with intrumental sound (wings). Behavior described in López-Lanús, B. (2000) Display and mechanical sound in Dusky Piha. Cotinga: 13:44-45. Coordinates: 4º31´44´´S 75º26´51´´W.</Comments>
+  <Quality>1</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Cotingidae</Family>
+  <Genus>Lipaugus</Genus>
+  <Species>fuscocinereus</Species>
+  <Sub-species />
+  <VernacularNames>Dusky Piha</VernacularNames>
+</Audio>

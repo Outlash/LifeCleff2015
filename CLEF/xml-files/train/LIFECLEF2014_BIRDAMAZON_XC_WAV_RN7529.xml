@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>7529</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN7529.wav</FileName>
+  <ClassId>gwdmfy</ClassId>
+  <Date>2009-04-04</Date>
+  <Time>?:?</Time>
+  <Locality>Anavilhanas Jungle Lodge, municipality of Novo Airão, Rio Negro</Locality>
+  <Latitude>NULL</Latitude>
+  <Longitude>NULL</Longitude>
+  <Elevation>200</Elevation>
+  <Author>Joseph Tobias and Nathalie Seddon</Author>
+  <AuthorID>IKMWQIXRNV</AuthorID>
+  <Content>chur calls and song (duets)</Content>
+  <Comments>After playback, track T1887.</Comments>
+  <Quality>2</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Thamnophilidae</Family>
+  <Genus>Hypocnemis</Genus>
+  <Species>hypoxantha</Species>
+  <Sub-species />
+  <VernacularNames>Yellow-browed Antbird</VernacularNames>
+</Audio>

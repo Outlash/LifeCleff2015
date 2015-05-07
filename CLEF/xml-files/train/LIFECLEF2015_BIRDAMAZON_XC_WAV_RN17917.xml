@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>17917</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN17917.wav</FileName>
+  <ClassId>fuspfo</ClassId>
+  <Date>2011-10-28</Date>
+  <Time>08:00</Time>
+  <Locality>Humedal Jaboque, ciudad de Bogota</Locality>
+  <Latitude>4.7075</Latitude>
+  <Longitude>-74.1278</Longitude>
+  <Elevation>2300</Elevation>
+  <Author>Oswaldo Cortes</Author>
+  <AuthorID>VVDRVZCVWW</AuthorID>
+  <Content>song</Content>
+  <Comments />
+  <Quality>3</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Icteridae</Family>
+  <Genus>Molothrus</Genus>
+  <Species>bonariensis</Species>
+  <Sub-species />
+  <VernacularNames>Shiny Cowbird</VernacularNames>
+</Audio>

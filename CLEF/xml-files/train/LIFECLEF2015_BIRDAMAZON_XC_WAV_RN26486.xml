@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>26486</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN26486.wav</FileName>
+  <ClassId>bjsvvq</ClassId>
+  <Date>2009-02-20</Date>
+  <Time>09:30</Time>
+  <Locality>Barinitas, Bolivar, Barinas</Locality>
+  <Latitude>8.8863</Latitude>
+  <Longitude>-70.4877</Longitude>
+  <Elevation>1400</Elevation>
+  <Author>Fernand DEROUSSEN</Author>
+  <AuthorID>UXGZWVYDFE</AuthorID>
+  <Content>song</Content>
+  <Comments>bird-seen:yesplayback-used:no</Comments>
+  <Quality>2</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Furnariidae</Family>
+  <Genus>Synallaxis</Genus>
+  <Species>cinnamomea</Species>
+  <Sub-species />
+  <VernacularNames>Stripe-breasted Spinetail</VernacularNames>
+</Audio>

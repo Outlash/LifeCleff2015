@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>9267</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN9267.wav</FileName>
+  <ClassId>nrjjbm</ClassId>
+  <Date>2010-08-31</Date>
+  <Time>12:35</Time>
+  <Locality>Itatiaia NP, RJ</Locality>
+  <Latitude>-22.3798</Latitude>
+  <Longitude>-44.6301</Longitude>
+  <Elevation>1000</Elevation>
+  <Author>Herman van Oosten</Author>
+  <AuthorID>SNUDCZVUQK</AuthorID>
+  <Content>call</Content>
+  <Comments>Id supported by Nacho Areta</Comments>
+  <Quality>2</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Furnariidae</Family>
+  <Genus>Lochmias</Genus>
+  <Species>nematura</Species>
+  <Sub-species />
+  <VernacularNames>Sharp-tailed Streamcreeper</VernacularNames>
+</Audio>

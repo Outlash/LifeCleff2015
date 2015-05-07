@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>26857</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN26857.wav</FileName>
+  <ClassId>anfvsy</ClassId>
+  <Date>2007-06-22</Date>
+  <Time>08:20</Time>
+  <Locality>RNA El Dorado, Sierra de Santa Marta, Magdalena</Locality>
+  <Latitude>11.1009</Latitude>
+  <Longitude>-74.072</Longitude>
+  <Elevation>2600</Elevation>
+  <Author>Bradley Davis</Author>
+  <AuthorID>YNXJLOESBB</AuthorID>
+  <Content>flight call</Content>
+  <Comments>a pair of birds in flight</Comments>
+  <Quality>1</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Psittaciformes</Order>
+  <Family>Psittacidae</Family>
+  <Genus>Psittacara</Genus>
+  <Species>wagleri</Species>
+  <Sub-species />
+  <VernacularNames>Scarlet-fronted Parakeet</VernacularNames>
+</Audio>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>22468</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN22468.wav</FileName>
+  <ClassId>ffwvot</ClassId>
+  <Date>2011-03-11</Date>
+  <Time>09:00</Time>
+  <Locality>Weg naar zee</Locality>
+  <Latitude>5.9001</Latitude>
+  <Longitude>-55.2301</Longitude>
+  <Elevation>1</Elevation>
+  <Author>Daniel Lane</Author>
+  <AuthorID>WOEAFQRMUD</AuthorID>
+  <Content>song</Content>
+  <Comments>Natural song from pair in grassy marsh.</Comments>
+  <Quality>2</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies>Pitangus sulphuratus</BackgroundSpecies>
+  <Order>Passeriformes</Order>
+  <Family>Furnariidae</Family>
+  <Genus>Certhiaxis</Genus>
+  <Species>cinnamomeus</Species>
+  <Sub-species />
+  <VernacularNames>Yellow-chinned Spinetail</VernacularNames>
+</Audio>

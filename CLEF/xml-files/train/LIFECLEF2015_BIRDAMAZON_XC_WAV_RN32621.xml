@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>32621</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN32621.wav</FileName>
+  <ClassId>mbrhfx</ClassId>
+  <Date>2007-12-05</Date>
+  <Time>09:00</Time>
+  <Locality>crique Limonade amont, Saül</Locality>
+  <Latitude>3.5834</Latitude>
+  <Longitude>-53.2167</Longitude>
+  <Elevation>210</Elevation>
+  <Author>Olivier Claessens</Author>
+  <AuthorID>KRQYNRSSDF</AuthorID>
+  <Content>song variant</Content>
+  <Comments>atypical double-note song</Comments>
+  <Quality>3</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Columbiformes</Order>
+  <Family>Columbidae</Family>
+  <Genus>Leptotila</Genus>
+  <Species>rufaxilla</Species>
+  <Sub-species />
+  <VernacularNames>Grey-fronted Dove</VernacularNames>
+</Audio>

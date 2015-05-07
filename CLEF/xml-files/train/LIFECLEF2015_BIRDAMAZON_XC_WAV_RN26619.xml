@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>26619</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN26619.wav</FileName>
+  <ClassId>bvwysd</ClassId>
+  <Date>2011-08-01</Date>
+  <Time>07:30</Time>
+  <Locality>Almeirim/Pará</Locality>
+  <Latitude>-1.095</Latitude>
+  <Longitude>-52.653</Longitude>
+  <Elevation>80</Elevation>
+  <Author>Christian B. Andretti</Author>
+  <AuthorID>EZSMXGTXKS</AuthorID>
+  <Content>song</Content>
+  <Comments>Bituba - Selective Loggingbird-seen:noplayback-used:no</Comments>
+  <Quality>0</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies>Lipaugus vociferans,Myiopagis gaimardii,Dixiphia erythrocephala,Ramphotrigon ruficauda,Patagioenas plumbea</BackgroundSpecies>
+  <Order>Cuculiformes</Order>
+  <Family>Cuculidae</Family>
+  <Genus>Coccyzus</Genus>
+  <Species>euleri</Species>
+  <Sub-species />
+  <VernacularNames>Pearly-breasted Cuckoo</VernacularNames>
+</Audio>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>2638</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN2638.wav</FileName>
+  <ClassId>gmeajz</ClassId>
+  <Date>2001-11-12</Date>
+  <Time>09:01</Time>
+  <Locality>Estação Ecológica de Murici, Alagoas</Locality>
+  <Latitude>-9.3001</Latitude>
+  <Longitude>-35.9334</Longitude>
+  <Elevation>550</Elevation>
+  <Author>Jeremy Minns</Author>
+  <AuthorID>DGVLLRYDXS</AuthorID>
+  <Content>call, song</Content>
+  <Comments>Humid forest. A single bird. This is Call A in our DVD-ROM 'Birds of Brazil'.</Comments>
+  <Quality>2</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies>Phaethornis ruber,Dixiphia rubrocapilla</BackgroundSpecies>
+  <Order>Passeriformes</Order>
+  <Family>Pipridae</Family>
+  <Genus>Chiroxiphia</Genus>
+  <Species>pareola</Species>
+  <Sub-species>pareola</Sub-species>
+  <VernacularNames>Blue-backed Manakin</VernacularNames>
+</Audio>

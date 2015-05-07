@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>32337</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN32337.wav</FileName>
+  <ClassId>pcxdjf</ClassId>
+  <Date>2009-10-07</Date>
+  <Time>10:00h</Time>
+  <Locality>Mata da Sapucaia - Assentamento Costa Rica, Wanderlandia, Tocantins</Locality>
+  <Latitude>-6.74</Latitude>
+  <Longitude>-48.081</Longitude>
+  <Elevation>270</Elevation>
+  <Author>Tulio Dornas</Author>
+  <AuthorID>MTUQGBMRNC</AuthorID>
+  <Content>song</Content>
+  <Comments>More details in article submetted / The volume of vocalization is low</Comments>
+  <Quality>3</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Cotingidae</Family>
+  <Genus>Procnias</Genus>
+  <Species>averano</Species>
+  <Sub-species />
+  <VernacularNames>Bearded Bellbird</VernacularNames>
+</Audio>

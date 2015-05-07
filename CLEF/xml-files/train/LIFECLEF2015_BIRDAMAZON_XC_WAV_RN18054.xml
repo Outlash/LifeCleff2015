@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>18054</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN18054.wav</FileName>
+  <ClassId>njtncg</ClassId>
+  <Date>2007-02-10</Date>
+  <Time>14:00</Time>
+  <Locality>Colombia/ Venadillo/La Argelia</Locality>
+  <Latitude>4.6395</Latitude>
+  <Longitude>-74.8923</Longitude>
+  <Elevation>310</Elevation>
+  <Author>Yair G Molina - Martínez</Author>
+  <AuthorID>UQUOPFIYYQ</AuthorID>
+  <Content>Song</Content>
+  <Comments />
+  <Quality>3</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Cardinalidae</Family>
+  <Genus>Saltator</Genus>
+  <Species>striatipectus</Species>
+  <Sub-species />
+  <VernacularNames>Streaked Saltator</VernacularNames>
+</Audio>

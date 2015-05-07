@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>17019</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN17019.wav</FileName>
+  <ClassId>bcmlba</ClassId>
+  <Date>2004-09-01</Date>
+  <Time>05:00</Time>
+  <Locality>Parque Nacional da Lagoa do Peixe - Mostardas, Rio Grande do Sul</Locality>
+  <Latitude>-31.3434</Latitude>
+  <Longitude>-51.0492</Longitude>
+  <Elevation>10</Elevation>
+  <Author>Jeremy Minns</Author>
+  <AuthorID>DGVLLRYDXS</AuthorID>
+  <Content>flight call</Content>
+  <Comments>Several birds flying about when disturbed.</Comments>
+  <Quality>2</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Charadriiformes</Order>
+  <Family>Scolopacidae</Family>
+  <Genus>Tringa</Genus>
+  <Species>flavipes</Species>
+  <Sub-species />
+  <VernacularNames>Lesser Yellowlegs</VernacularNames>
+</Audio>

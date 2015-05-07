@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>2369</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN2369.wav</FileName>
+  <ClassId>wvgogb</ClassId>
+  <Date>2001-06-20</Date>
+  <Time>15:50</Time>
+  <Locality>Hyacinth Valley camp, Piaui</Locality>
+  <Latitude>-9.45</Latitude>
+  <Longitude>-45.07</Longitude>
+  <Elevation>?</Elevation>
+  <Author>Paul Donahue</Author>
+  <AuthorID>LLRXADGTBA</AuthorID>
+  <Content>call?</Content>
+  <Comments>calls, developing into series</Comments>
+  <Quality>1</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies />
+  <Order>Cariamiformes</Order>
+  <Family>Cariamidae</Family>
+  <Genus>Cariama</Genus>
+  <Species>cristata</Species>
+  <Sub-species />
+  <VernacularNames>Red-legged Seriema</VernacularNames>
+</Audio>

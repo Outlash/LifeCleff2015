@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>24533</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN24533.wav</FileName>
+  <ClassId>bpufoz</ClassId>
+  <Date>2010-03-18</Date>
+  <Time>13:10</Time>
+  <Locality>Rewa, Guyana</Locality>
+  <Latitude>NULL</Latitude>
+  <Longitude>NULL</Longitude>
+  <Elevation>100</Elevation>
+  <Author>Charlie Vogt</Author>
+  <AuthorID>NYTXYAQSTH</AuthorID>
+  <Content>call</Content>
+  <Comments>natural vocalization, a pair counter-calling at nest. I haven't heard this call in any recording and it sounded more similar to Rusty-margined Flycatcher but Restall mentions an excited chattered greeting  'ca-dede' or 'ca-dede-er'</Comments>
+  <Quality>2</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Tyrannidae</Family>
+  <Genus>Conopias</Genus>
+  <Species>parvus</Species>
+  <Sub-species />
+  <VernacularNames>Yellow-throated Flycatcher</VernacularNames>
+</Audio>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>26774</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN26774.wav</FileName>
+  <ClassId>ulrztt</ClassId>
+  <Date>2011-02-02</Date>
+  <Time>19:32</Time>
+  <Locality>FUNDEGAR ('Rio Blanco'), Manizales, Caldas</Locality>
+  <Latitude>5.074</Latitude>
+  <Longitude>-75.435</Longitude>
+  <Elevation>2500</Elevation>
+  <Author>Eric DeFonso</Author>
+  <AuthorID>KTLCZCRCQX</AuthorID>
+  <Content>song</Content>
+  <Comments>songs from a likely mated pair, probably ~100m from the lodge. recorded from the cabin.</Comments>
+  <Quality>2</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Strigiformes</Order>
+  <Family>Strigidae</Family>
+  <Genus>Megascops</Genus>
+  <Species>albogularis</Species>
+  <Sub-species />
+  <VernacularNames>White-throated Screech Owl</VernacularNames>
+</Audio>

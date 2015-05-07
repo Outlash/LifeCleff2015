@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>6960</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN6960.wav</FileName>
+  <ClassId>fpnmqt</ClassId>
+  <Date>2012-01-18</Date>
+  <Time>8:22</Time>
+  <Locality>KM85.3, RS-020 highway, near Sao Francisco do Paula, Rio Grande do Sul</Locality>
+  <Latitude>NULL</Latitude>
+  <Longitude>NULL</Longitude>
+  <Elevation>900</Elevation>
+  <Author>Jon King</Author>
+  <AuthorID>LNEEOOWCQR</AuthorID>
+  <Content>call</Content>
+  <Comments>Natural vocalisation. Distance to mic. 3m. Seen briefly near ground, sex not confirmed.</Comments>
+  <Quality>1</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Rhinocryptidae</Family>
+  <Genus>Scytalopus</Genus>
+  <Species>speluncae</Species>
+  <Sub-species />
+  <VernacularNames>Mouse-colored Tapaculo</VernacularNames>
+</Audio>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>13976</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN13976.wav</FileName>
+  <ClassId>armfvy</ClassId>
+  <Date>2008-03-16</Date>
+  <Time>07:10</Time>
+  <Locality>Bairro do Jaceguava, São Paulo, SP</Locality>
+  <Latitude>-23.752501</Latitude>
+  <Longitude>-46.735334</Longitude>
+  <Elevation>755</Elevation>
+  <Author>Marcos Melo</Author>
+  <AuthorID>MRGDYNJGUJ</AuthorID>
+  <Content>distress call</Content>
+  <Comments>two individuals</Comments>
+  <Quality>2</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Tyrannidae</Family>
+  <Genus>Camptostoma</Genus>
+  <Species>obsoletum</Species>
+  <Sub-species />
+  <VernacularNames>Southern Beardless Tyrannulet</VernacularNames>
+</Audio>

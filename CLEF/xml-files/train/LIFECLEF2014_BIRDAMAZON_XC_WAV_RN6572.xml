@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>6572</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN6572.wav</FileName>
+  <ClassId>feohaf</ClassId>
+  <Date>2000-11-30</Date>
+  <Time>05:59</Time>
+  <Locality>Serra do Navio, AP</Locality>
+  <Latitude>0.8926</Latitude>
+  <Longitude>-52.056</Longitude>
+  <Elevation>125</Elevation>
+  <Author>Jeremy Minns</Author>
+  <AuthorID>DGVLLRYDXS</AuthorID>
+  <Content>Dawn song</Content>
+  <Comments>Urban area. Natural.</Comments>
+  <Quality>2</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies>Ortalis motmot,Legatus leucophaius,Tyrannus melancholicus</BackgroundSpecies>
+  <Order>Passeriformes</Order>
+  <Family>Tyrannidae</Family>
+  <Genus>Elaenia</Genus>
+  <Species>flavogaster</Species>
+  <Sub-species>flavogaster</Sub-species>
+  <VernacularNames>Yellow-bellied Elaenia</VernacularNames>
+</Audio>

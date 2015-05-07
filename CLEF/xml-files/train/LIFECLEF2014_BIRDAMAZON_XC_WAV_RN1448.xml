@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>1448</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN1448.wav</FileName>
+  <ClassId>cthdvt</ClassId>
+  <Date>2003-05-24</Date>
+  <Time>?</Time>
+  <Locality>Cristalino Jungle Lodge, MT</Locality>
+  <Latitude>-9.5981</Latitude>
+  <Longitude>-55.932</Longitude>
+  <Elevation>?</Elevation>
+  <Author>Alexander Lees</Author>
+  <AuthorID>INDDBZAFJL</AuthorID>
+  <Content>song</Content>
+  <Comments>terra firme forest</Comments>
+  <Quality>2</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Tyrannidae</Family>
+  <Genus>Capsiempis</Genus>
+  <Species>flaveola</Species>
+  <Sub-species>flaveola</Sub-species>
+  <VernacularNames>Yellow Tyrannulet</VernacularNames>
+</Audio>

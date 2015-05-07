@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>30060</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN30060.wav</FileName>
+  <ClassId>uphahj</ClassId>
+  <Date>1996-04-05</Date>
+  <Time>?</Time>
+  <Locality>Hacienda Cardonal, Armero, Tolima</Locality>
+  <Latitude>5.066667</Latitude>
+  <Longitude>-74.80083</Longitude>
+  <Elevation />
+  <Author>Mauricio Álvarez Rebolledo (Colección de Sonidos Ambientales - Instituto Humboldt)</Author>
+  <AuthorID>XMFDPACYJN</AuthorID>
+  <Content>song</Content>
+  <Comments>BSA 4438To obtain a wav file of the original recording, please contact csa@humboldt.org.coplayback-used:no</Comments>
+  <Quality>4</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Accipitriformes</Order>
+  <Family>Accipitridae</Family>
+  <Genus>Rupornis</Genus>
+  <Species>magnirostris</Species>
+  <Sub-species />
+  <VernacularNames>Roadside Hawk</VernacularNames>
+</Audio>

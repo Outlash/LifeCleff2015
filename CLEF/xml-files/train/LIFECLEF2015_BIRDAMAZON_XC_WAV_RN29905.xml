@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>29905</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN29905.wav</FileName>
+  <ClassId>cwhfyt</ClassId>
+  <Date>2012-04-17</Date>
+  <Time>09:43</Time>
+  <Locality>RNA El Dorado, Sierra de Santa Marta, Magdalena</Locality>
+  <Latitude>11.1009</Latitude>
+  <Longitude>-74.072</Longitude>
+  <Elevation>1750</Elevation>
+  <Author>Jeremy Minns</Author>
+  <AuthorID>DGVLLRYDXS</AuthorID>
+  <Content>Song</Content>
+  <Comments>At edge of montane forest. Posted as mystery (forum Nr. 3579) and resolved.</Comments>
+  <Quality>2</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies>Henicorhina leucophrys</BackgroundSpecies>
+  <Order>Passeriformes</Order>
+  <Family>Vireonidae</Family>
+  <Genus>Vireo</Genus>
+  <Species>leucophrys</Species>
+  <Sub-species>mirandae</Sub-species>
+  <VernacularNames>Brown-capped Vireo</VernacularNames>
+</Audio>

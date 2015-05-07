@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>5684</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN5684.wav</FileName>
+  <ClassId>gsmjhm</ClassId>
+  <Date>2012-12-26</Date>
+  <Time>14:30</Time>
+  <Locality>Nova Veneza, Santa Catarina, Brazil</Locality>
+  <Latitude>-28.638</Latitude>
+  <Longitude>-49.498</Longitude>
+  <Elevation>120</Elevation>
+  <Author>João Gava</Author>
+  <AuthorID>CEKMJEZKSJ</AuthorID>
+  <Content>flight call</Content>
+  <Comments>bird-seen:yes</Comments>
+  <Quality>2</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies />
+  <Order>Psittaciformes</Order>
+  <Family>Psittacidae</Family>
+  <Genus>Pyrrhura</Genus>
+  <Species>frontalis</Species>
+  <Sub-species />
+  <VernacularNames>Maroon-bellied Parakeet</VernacularNames>
+</Audio>

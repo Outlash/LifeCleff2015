@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>26275</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN26275.wav</FileName>
+  <ClassId>ywpbix</ClassId>
+  <Date>2007-09-17</Date>
+  <Time>xxx</Time>
+  <Locality>Brownsberg</Locality>
+  <Latitude>4.9301</Latitude>
+  <Longitude>-55.2101</Longitude>
+  <Elevation>500</Elevation>
+  <Author>Otte Ottema</Author>
+  <AuthorID>ASEUAUOXZA</AuthorID>
+  <Content>song</Content>
+  <Comments />
+  <Quality>2</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Troglodytidae</Family>
+  <Genus>Cyphorhinus</Genus>
+  <Species>arada</Species>
+  <Sub-species />
+  <VernacularNames>Musician Wren</VernacularNames>
+</Audio>

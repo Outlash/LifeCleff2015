@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>13454</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN13454.wav</FileName>
+  <ClassId>mjpnmn</ClassId>
+  <Date>2009-08-17</Date>
+  <Time>5:10</Time>
+  <Locality>Ilha Paraíso, Jaguaripe, Bahia.</Locality>
+  <Latitude>NULL</Latitude>
+  <Longitude>NULL</Longitude>
+  <Elevation>?</Elevation>
+  <Author>Sidnei S. dos Santos</Author>
+  <AuthorID>BHODJXTHGQ</AuthorID>
+  <Content>Song</Content>
+  <Comments>After playback</Comments>
+  <Quality>2</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies />
+  <Order>Strigiformes</Order>
+  <Family>Strigidae</Family>
+  <Genus>Glaucidium</Genus>
+  <Species>brasilianum</Species>
+  <Sub-species />
+  <VernacularNames>Ferruginous Pygmy Owl</VernacularNames>
+</Audio>

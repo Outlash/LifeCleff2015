@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>25435</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN25435.wav</FileName>
+  <ClassId>htgkfv</ClassId>
+  <Date>2010-03-14</Date>
+  <Time>08:00</Time>
+  <Locality>Iwokrama Road, 15km SW Iwokrama International Center</Locality>
+  <Latitude>NULL</Latitude>
+  <Longitude>NULL</Longitude>
+  <Elevation>100</Elevation>
+  <Author>Charlie Vogt</Author>
+  <AuthorID>NYTXYAQSTH</AuthorID>
+  <Content>song</Content>
+  <Comments>after playback</Comments>
+  <Quality>3</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Tyrannidae</Family>
+  <Genus>Mionectes</Genus>
+  <Species>oleagineus</Species>
+  <Sub-species>chloronotus</Sub-species>
+  <VernacularNames>Ochre-bellied Flycatcher</VernacularNames>
+</Audio>

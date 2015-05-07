@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>5011</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN5011.wav</FileName>
+  <ClassId>bafzon</ClassId>
+  <Date>2005-12-06</Date>
+  <Time>06:14</Time>
+  <Locality>Ecoparque de Una, Bahia.</Locality>
+  <Latitude>-15.165</Latitude>
+  <Longitude>-39.0603</Longitude>
+  <Elevation>40</Elevation>
+  <Author>Brian Campbell</Author>
+  <AuthorID>GRCESHAGGH</AuthorID>
+  <Content>Song</Content>
+  <Comments>Lowland primary forest</Comments>
+  <Quality>3</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Formicariidae</Family>
+  <Genus>Formicarius</Genus>
+  <Species>colma</Species>
+  <Sub-species />
+  <VernacularNames>Rufous-capped Antthrush</VernacularNames>
+</Audio>

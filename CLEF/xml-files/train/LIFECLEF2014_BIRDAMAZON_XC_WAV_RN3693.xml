@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>3693</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN3693.wav</FileName>
+  <ClassId>qdjrwu</ClassId>
+  <Date>1997-07-23</Date>
+  <Time>17:35</Time>
+  <Locality>Road to Remanso, Lençóis, Chapada Diamantina, BA</Locality>
+  <Latitude>-12.5834</Latitude>
+  <Longitude>-41.3667</Longitude>
+  <Elevation>400</Elevation>
+  <Author>Jeremy Minns</Author>
+  <AuthorID>DGVLLRYDXS</AuthorID>
+  <Content>Long song</Content>
+  <Comments>Cultivations beside a lake.</Comments>
+  <Quality>2</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies>Nothura boraquira</BackgroundSpecies>
+  <Order>Tinamiformes</Order>
+  <Family>Tinamidae</Family>
+  <Genus>Crypturellus</Genus>
+  <Species>parvirostris</Species>
+  <Sub-species />
+  <VernacularNames>Small-billed Tinamou</VernacularNames>
+</Audio>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>21877</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN21877.wav</FileName>
+  <ClassId>aecmdb</ClassId>
+  <Date>2006-11-22</Date>
+  <Time>?</Time>
+  <Locality>Near Iwokrama</Locality>
+  <Latitude>NULL</Latitude>
+  <Longitude>NULL</Longitude>
+  <Elevation>20?</Elevation>
+  <Author>Frank Lambert</Author>
+  <AuthorID>YTUXOCTUEM</AuthorID>
+  <Content>song</Content>
+  <Comments>Guianan Warbling Antbird H. cantantor</Comments>
+  <Quality>0</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Thamnophilidae</Family>
+  <Genus>Hypocnemis</Genus>
+  <Species>cantator</Species>
+  <Sub-species>cantator</Sub-species>
+  <VernacularNames>Guianan Warbling Antbird</VernacularNames>
+</Audio>

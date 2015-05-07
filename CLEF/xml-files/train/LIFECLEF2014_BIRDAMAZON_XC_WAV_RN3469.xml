@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>3469</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN3469.wav</FileName>
+  <ClassId>unimmw</ClassId>
+  <Date>2007-08-01</Date>
+  <Time>08:05</Time>
+  <Locality>Pousada Rio Azul, PA</Locality>
+  <Latitude>-9.2456</Latitude>
+  <Longitude>-55.987</Longitude>
+  <Elevation>250</Elevation>
+  <Author>Bradley Davis</Author>
+  <AuthorID>YNXJLOESBB</AuthorID>
+  <Content>song</Content>
+  <Comments />
+  <Quality>1</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies>Vireo olivaceus,Tyranneutes stolzmanni,Cyanocompsa cyanoides,Myrmoborus myotherinus,Ara severus</BackgroundSpecies>
+  <Order>Trogoniformes</Order>
+  <Family>Trogonidae</Family>
+  <Genus>Trogon</Genus>
+  <Species>curucui</Species>
+  <Sub-species>curucui</Sub-species>
+  <VernacularNames>Blue-crowned Trogon</VernacularNames>
+</Audio>

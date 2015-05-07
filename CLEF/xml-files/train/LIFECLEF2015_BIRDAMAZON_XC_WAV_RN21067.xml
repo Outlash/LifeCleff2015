@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>21067</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN21067.wav</FileName>
+  <ClassId>cpcenp</ClassId>
+  <Date>2006-09-22</Date>
+  <Time>07:00</Time>
+  <Locality>Monte Alegre, state of Pará</Locality>
+  <Latitude>-2.0375</Latitude>
+  <Longitude>-54.1131</Longitude>
+  <Elevation>200</Elevation>
+  <Author>Sidnei de Melo Dantas</Author>
+  <AuthorID>NNCKQMBGPH</AuthorID>
+  <Content>song</Content>
+  <Comments>dry forest, in undergrowth</Comments>
+  <Quality>2</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies>Lophotriccus galeatus,Cercomacra tyrannina,Cantorchilus leucotis,Xenops minutus,Chiroxiphia pareola,Thamnophilus punctatus</BackgroundSpecies>
+  <Order>Passeriformes</Order>
+  <Family>Thamnophilidae</Family>
+  <Genus>Myrmeciza</Genus>
+  <Species>longipes</Species>
+  <Sub-species />
+  <VernacularNames>White-bellied Antbird</VernacularNames>
+</Audio>

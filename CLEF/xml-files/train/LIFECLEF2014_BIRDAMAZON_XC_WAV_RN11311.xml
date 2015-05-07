@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>11311</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN11311.wav</FileName>
+  <ClassId>drteex</ClassId>
+  <Date>2005-11-20</Date>
+  <Time>7:50</Time>
+  <Locality>Parque do Zizo, Sao Paulo State</Locality>
+  <Latitude>-24.017146</Latitude>
+  <Longitude>-47.81044</Longitude>
+  <Elevation>630</Elevation>
+  <Author>Bob Planqué</Author>
+  <AuthorID>OH38YHKJBS</AuthorID>
+  <Content>song</Content>
+  <Comments>a duetting pair</Comments>
+  <Quality>1</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies>Leptotila rufaxilla,Anabazenops fuscus,Drymophila ferruginea,Pyrrhura frontalis</BackgroundSpecies>
+  <Order>Gruiformes</Order>
+  <Family>Rallidae</Family>
+  <Genus>Aramides</Genus>
+  <Species>saracura</Species>
+  <Sub-species />
+  <VernacularNames>Slaty-breasted Wood Rail</VernacularNames>
+</Audio>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>26863</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN26863.wav</FileName>
+  <ClassId>ebdshm</ClassId>
+  <Date>2009-03-20</Date>
+  <Time>09:00</Time>
+  <Locality>Parque Regional Barbas-Bremen, Filandia, Quindio. Sector Barbas</Locality>
+  <Latitude>4.6717</Latitude>
+  <Longitude>-75.6283</Longitude>
+  <Elevation>1800</Elevation>
+  <Author>Oscar Humberto Marin-Gomez</Author>
+  <AuthorID>CSUHASNRSU</AuthorID>
+  <Content>call</Content>
+  <Comments>Ref: PNR Barbas 002A. 0658. En borde de bosque.  Bosque montano bajo. Vocalización Natural. Grabaciones realizadas junto con Pedro Jose Cardona Camacho.bird-seen:noplayback-used:no</Comments>
+  <Quality>2</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Turdidae</Family>
+  <Genus>Turdus</Genus>
+  <Species>ignobilis</Species>
+  <Sub-species />
+  <VernacularNames>Black-billed Thrush</VernacularNames>
+</Audio>

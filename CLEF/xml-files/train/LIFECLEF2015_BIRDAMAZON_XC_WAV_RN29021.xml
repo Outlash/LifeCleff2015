@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>29021</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN29021.wav</FileName>
+  <ClassId>ntdenx</ClassId>
+  <Date>2001-11-09</Date>
+  <Time>16:05</Time>
+  <Locality>N of Esplanada, Bahia</Locality>
+  <Latitude>-11.6489</Latitude>
+  <Longitude>-37.8901</Longitude>
+  <Elevation>140</Elevation>
+  <Author>Jeremy Minns</Author>
+  <AuthorID>DGVLLRYDXS</AuthorID>
+  <Content>Call</Content>
+  <Comments>Forest remnant beside the BR-101 highway. This is Call A in our DVD-ROM 'Birds of Brazil'.</Comments>
+  <Quality>2</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Tyrannidae</Family>
+  <Genus>Hemitriccus</Genus>
+  <Species>striaticollis</Species>
+  <Sub-species>striaticollis</Sub-species>
+  <VernacularNames>Stripe-necked Tody-Tyrant</VernacularNames>
+</Audio>

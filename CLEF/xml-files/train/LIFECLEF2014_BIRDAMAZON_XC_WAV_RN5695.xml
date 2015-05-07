@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>5695</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN5695.wav</FileName>
+  <ClassId>nabmpi</ClassId>
+  <Date>2011-06-25</Date>
+  <Time>09:00</Time>
+  <Locality>Santo Antônio do Pinhal, São Paulo</Locality>
+  <Latitude>-22.7876</Latitude>
+  <Longitude>-45.6842</Longitude>
+  <Elevation>1000</Elevation>
+  <Author>GABRIEL LEITE</Author>
+  <AuthorID>TGBFXDVERJ</AuthorID>
+  <Content>female, male, song</Content>
+  <Comments>bird-seen:yesplayback-used:no</Comments>
+  <Quality>3</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Furnariidae</Family>
+  <Genus>Furnarius</Genus>
+  <Species>rufus</Species>
+  <Sub-species />
+  <VernacularNames>Rufous Hornero</VernacularNames>
+</Audio>

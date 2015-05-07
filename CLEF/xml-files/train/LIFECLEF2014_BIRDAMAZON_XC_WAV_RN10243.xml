@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>10243</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN10243.wav</FileName>
+  <ClassId>azrobg</ClassId>
+  <Date>2007-08-05</Date>
+  <Time>07:31</Time>
+  <Locality>Bairro do Guaraú, Peruíbe-SP</Locality>
+  <Latitude>-24.3167</Latitude>
+  <Longitude>-47.01</Longitude>
+  <Elevation>0</Elevation>
+  <Author>Bruno Lima</Author>
+  <AuthorID>DVJCMXOTVL</AuthorID>
+  <Content>song</Content>
+  <Comments />
+  <Quality>4</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Thamnophilidae</Family>
+  <Genus>Herpsilochmus</Genus>
+  <Species>rufimarginatus</Species>
+  <Sub-species />
+  <VernacularNames>Rufous-winged Antwren</VernacularNames>
+</Audio>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>23081</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN23081.wav</FileName>
+  <ClassId>uvjypi</ClassId>
+  <Date>2004-08-13</Date>
+  <Time>17:40</Time>
+  <Locality>Ricaurte, RN La Planada, Narino</Locality>
+  <Latitude>1.0834</Latitude>
+  <Longitude>-77.8834</Longitude>
+  <Elevation>2000</Elevation>
+  <Author>Oscar Laverde</Author>
+  <AuthorID>WKVKSVMNDZ</AuthorID>
+  <Content>song</Content>
+  <Comments />
+  <Quality>1</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies>Henicorhina leucophrys</BackgroundSpecies>
+  <Order>Passeriformes</Order>
+  <Family>Turdidae</Family>
+  <Genus>Myadestes</Genus>
+  <Species>ralloides</Species>
+  <Sub-species />
+  <VernacularNames>Andean Solitaire</VernacularNames>
+</Audio>

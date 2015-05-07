@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>3668</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN3668.wav</FileName>
+  <ClassId>jeidcr</ClassId>
+  <Date>2011-07-08</Date>
+  <Time>10:30</Time>
+  <Locality>Alto Alegre do Pindaré, Maranhao</Locality>
+  <Latitude>-3.6668</Latitude>
+  <Longitude>-45.8465</Longitude>
+  <Elevation>20</Elevation>
+  <Author>GABRIEL LEITE</Author>
+  <AuthorID>TGBFXDVERJ</AuthorID>
+  <Content>call</Content>
+  <Comments>bird-seen:yesplayback-used:no</Comments>
+  <Quality>3</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Thraupidae</Family>
+  <Genus>Thraupis</Genus>
+  <Species>palmarum</Species>
+  <Sub-species />
+  <VernacularNames>Palm Tanager</VernacularNames>
+</Audio>

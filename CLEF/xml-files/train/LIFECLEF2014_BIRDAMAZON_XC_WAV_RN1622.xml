@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>1622</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN1622.wav</FileName>
+  <ClassId>gwzyoa</ClassId>
+  <Date>2011-08-10</Date>
+  <Time>17:45</Time>
+  <Locality>Cristalino Jungle Lodge, MT</Locality>
+  <Latitude>-9.5981</Latitude>
+  <Longitude>-55.932</Longitude>
+  <Elevation>200</Elevation>
+  <Author>Tayler Brooks</Author>
+  <AuthorID>ARFGONJCBJ</AuthorID>
+  <Content>call</Content>
+  <Comments>Natural vocalization. A male visiting small water hole in dense tangle not far from river's edge.</Comments>
+  <Quality>1</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Thamnophilidae</Family>
+  <Genus>Hylophylax</Genus>
+  <Species>naevius</Species>
+  <Sub-species>ochraceus</Sub-species>
+  <VernacularNames>Spot-backed Antbird</VernacularNames>
+</Audio>

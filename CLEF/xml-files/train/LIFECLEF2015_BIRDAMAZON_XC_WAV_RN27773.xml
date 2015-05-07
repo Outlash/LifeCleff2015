@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>27773</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN27773.wav</FileName>
+  <ClassId>mveelf</ClassId>
+  <Date>2005-09-30</Date>
+  <Time>8:00</Time>
+  <Locality>Manaus. INPA tower on ZF-2</Locality>
+  <Latitude>-2.5834</Latitude>
+  <Longitude>-60.1167</Longitude>
+  <Elevation>140</Elevation>
+  <Author>Richard C. Hoyer</Author>
+  <AuthorID>SRRRBQPENI</AuthorID>
+  <Content>flight call</Content>
+  <Comments />
+  <Quality>1</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies>Patagioenas plumbea,Trogon melanurus</BackgroundSpecies>
+  <Order>Psittaciformes</Order>
+  <Family>Psittacidae</Family>
+  <Genus>Pionus</Genus>
+  <Species>fuscus</Species>
+  <Sub-species />
+  <VernacularNames>Dusky Parrot</VernacularNames>
+</Audio>

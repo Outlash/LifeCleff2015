@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>5146</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN5146.wav</FileName>
+  <ClassId>jwatvd</ClassId>
+  <Date>2012-01-30</Date>
+  <Time>7:21</Time>
+  <Locality>Above Blumenau, Santa Catarina</Locality>
+  <Latitude>NULL</Latitude>
+  <Longitude>NULL</Longitude>
+  <Elevation>420</Elevation>
+  <Author>Jon King</Author>
+  <AuthorID>LNEEOOWCQR</AuthorID>
+  <Content>song</Content>
+  <Comments>After playback. Distance to mic. 10m. Watched singing from horizontal trunk 3m above ground.</Comments>
+  <Quality>1</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Grallariidae</Family>
+  <Genus>Grallaria</Genus>
+  <Species>varia</Species>
+  <Sub-species />
+  <VernacularNames>Variegated Antpitta</VernacularNames>
+</Audio>

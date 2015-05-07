@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>425</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN425.wav</FileName>
+  <ClassId>fakmli</ClassId>
+  <Date>2012-02-06</Date>
+  <Time>16:44</Time>
+  <Locality>Timbaúba, Pernambuco</Locality>
+  <Latitude>-7.6096</Latitude>
+  <Longitude>-35.3952</Longitude>
+  <Elevation>440</Elevation>
+  <Author>Marcus Braun</Author>
+  <AuthorID>EICLYDGEKS</AuthorID>
+  <Content>call</Content>
+  <Comments>Mata do Engenho Xixá, Macaparana. Interval shortened(4.5 s) between 1st and 2nd call, to diminish recording noisebird-seen:yesplayback-used:no</Comments>
+  <Quality>3</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Tyrannidae</Family>
+  <Genus>Platyrinchus</Genus>
+  <Species>mystaceus</Species>
+  <Sub-species />
+  <VernacularNames>White-throated Spadebill</VernacularNames>
+</Audio>

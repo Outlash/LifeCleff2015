@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>22476</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN22476.wav</FileName>
+  <ClassId>uizzbr</ClassId>
+  <Date>2012-07-21</Date>
+  <Time>10.15</Time>
+  <Locality>Rio Caura, Edo. Bolivar - Las Trincheras Lodge</Locality>
+  <Latitude>5.6159</Latitude>
+  <Longitude>-65.742</Longitude>
+  <Elevation>100</Elevation>
+  <Author>Thore Noernberg</Author>
+  <AuthorID>TTSQGWDDGW</AuthorID>
+  <Content>Call</Content>
+  <Comments>recorded on the Laja del Tigre Trail close to Yokore Island</Comments>
+  <Quality>2</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Cotingidae</Family>
+  <Genus>Lipaugus</Genus>
+  <Species>vociferans</Species>
+  <Sub-species />
+  <VernacularNames>Screaming Piha</VernacularNames>
+</Audio>

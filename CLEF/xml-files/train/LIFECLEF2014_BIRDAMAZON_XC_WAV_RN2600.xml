@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>2600</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN2600.wav</FileName>
+  <ClassId>kwwbda</ClassId>
+  <Date>2007-12-01</Date>
+  <Time>13:30</Time>
+  <Locality>Posse dos Coqueiros - Areal - RJ</Locality>
+  <Latitude>-22.2501</Latitude>
+  <Longitude>-43.2501</Longitude>
+  <Elevation>600</Elevation>
+  <Author>Ricardo Gagliardi</Author>
+  <AuthorID>YRDADNREOP</AuthorID>
+  <Content>song</Content>
+  <Comments />
+  <Quality>2</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies>Saltator similis</BackgroundSpecies>
+  <Order>Passeriformes</Order>
+  <Family>Thamnophilidae</Family>
+  <Genus>Thamnophilus</Genus>
+  <Species>caerulescens</Species>
+  <Sub-species />
+  <VernacularNames>Variable Antshrike</VernacularNames>
+</Audio>

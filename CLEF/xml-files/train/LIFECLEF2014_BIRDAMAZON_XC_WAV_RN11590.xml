@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>11590</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN11590.wav</FileName>
+  <ClassId>wmvjdr</ClassId>
+  <Date>1997-09-08</Date>
+  <Time>?</Time>
+  <Locality>Itatiaia NP, RJ</Locality>
+  <Latitude>-22.38</Latitude>
+  <Longitude>-44.63</Longitude>
+  <Elevation>?</Elevation>
+  <Author>Don Jones</Author>
+  <AuthorID>BCWZQTGMSO</AuthorID>
+  <Content>song</Content>
+  <Comments>Two songs</Comments>
+  <Quality>3</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Grallariidae</Family>
+  <Genus>Hylopezus</Genus>
+  <Species>nattereri</Species>
+  <Sub-species />
+  <VernacularNames>Speckle-breasted Antpitta</VernacularNames>
+</Audio>

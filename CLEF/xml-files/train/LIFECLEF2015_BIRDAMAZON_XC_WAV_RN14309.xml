@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>14309</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN14309.wav</FileName>
+  <ClassId>xlgbxs</ClassId>
+  <Date>2010-09-14</Date>
+  <Time>?</Time>
+  <Locality>Régina</Locality>
+  <Latitude>4.31667</Latitude>
+  <Longitude>-52.1333</Longitude>
+  <Elevation>60</Elevation>
+  <Author>Alexandre Renaudier</Author>
+  <AuthorID>GKADEITXTH</AuthorID>
+  <Content>song</Content>
+  <Comments>in response to playback</Comments>
+  <Quality>1</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Furnariidae</Family>
+  <Genus>Philydor</Genus>
+  <Species>pyrrhodes</Species>
+  <Sub-species />
+  <VernacularNames>Cinnamon-rumped Foliage-gleaner</VernacularNames>
+</Audio>

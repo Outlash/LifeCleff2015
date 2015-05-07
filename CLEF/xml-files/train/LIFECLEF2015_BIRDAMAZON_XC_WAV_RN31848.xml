@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>31848</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN31848.wav</FileName>
+  <ClassId>uiqpgc</ClassId>
+  <Date>1987-01-00</Date>
+  <Time>?</Time>
+  <Locality>PNN Amacaycau, Leticia, Amazonas</Locality>
+  <Latitude>-3.8717</Latitude>
+  <Longitude>-70.15</Longitude>
+  <Elevation>110</Elevation>
+  <Author>Frank Lambert</Author>
+  <AuthorID>YTUXOCTUEM</AuthorID>
+  <Content>call</Content>
+  <Comments>Probably an alarm call. Same bird as on XC163585bird-seen:yesplayback-used:no</Comments>
+  <Quality>2</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Turdidae</Family>
+  <Genus>Turdus</Genus>
+  <Species>albicollis</Species>
+  <Sub-species>phaeopygus</Sub-species>
+  <VernacularNames>White-necked Thrush</VernacularNames>
+</Audio>

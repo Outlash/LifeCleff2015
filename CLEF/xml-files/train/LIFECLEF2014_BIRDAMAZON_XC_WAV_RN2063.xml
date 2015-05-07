@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>2063</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN2063.wav</FileName>
+  <ClassId>ptfyqz</ClassId>
+  <Date>2009-08-24</Date>
+  <Time>18:20</Time>
+  <Locality>Goiânia,Goiás.</Locality>
+  <Latitude>NULL</Latitude>
+  <Longitude>NULL</Longitude>
+  <Elevation>690</Elevation>
+  <Author>Nunes D´Acosta</Author>
+  <AuthorID>OHHTDSDNBT</AuthorID>
+  <Content>song</Content>
+  <Comments>Setor Samambaia, área de mata-seca  com edificações entre  arvores.</Comments>
+  <Quality>2</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies />
+  <Order>Tinamiformes</Order>
+  <Family>Tinamidae</Family>
+  <Genus>Crypturellus</Genus>
+  <Species>undulatus</Species>
+  <Sub-species />
+  <VernacularNames>Undulated Tinamou</VernacularNames>
+</Audio>

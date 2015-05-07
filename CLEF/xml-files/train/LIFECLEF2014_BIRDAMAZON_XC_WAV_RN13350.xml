@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>13350</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN13350.wav</FileName>
+  <ClassId>relbkx</ClassId>
+  <Date>2012-07-18</Date>
+  <Time>09:00</Time>
+  <Locality>Santo Antônio do Leverger, Mato Grosso</Locality>
+  <Latitude>-15.8555</Latitude>
+  <Longitude>-56.0704</Longitude>
+  <Elevation>150</Elevation>
+  <Author>Eduardo D. Schultz</Author>
+  <AuthorID>QYOZQITVAC</AuthorID>
+  <Content>call, song</Content>
+  <Comments>bird-seen:yesplayback-used:yes</Comments>
+  <Quality>2</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Tyrannidae</Family>
+  <Genus>Tolmomyias</Genus>
+  <Species>sulphurescens</Species>
+  <Sub-species />
+  <VernacularNames>Yellow-olive Flatbill</VernacularNames>
+</Audio>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>17316</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN17316.wav</FileName>
+  <ClassId>tqvdsy</ClassId>
+  <Date>2012-09-08</Date>
+  <Time>05:57</Time>
+  <Locality>Reserve Naturelle Regionale Tresor, Roura</Locality>
+  <Latitude>4.6105</Latitude>
+  <Longitude>-52.2793</Longitude>
+  <Elevation>240</Elevation>
+  <Author>Jon King</Author>
+  <AuthorID>LNEEOOWCQR</AuthorID>
+  <Content>male, song</Content>
+  <Comments>Distance to mic. 10m. Very subdued pre-roost vocalisation. Visbile in roadside vines 4m above ground. Presumed male based on observations from previous evening. Definitely different individual from XC114434.bird-seen:yesplayback-used:no</Comments>
+  <Quality>3</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Strigiformes</Order>
+  <Family>Strigidae</Family>
+  <Genus>Lophostrix</Genus>
+  <Species>cristata</Species>
+  <Sub-species />
+  <VernacularNames>Crested Owl</VernacularNames>
+</Audio>

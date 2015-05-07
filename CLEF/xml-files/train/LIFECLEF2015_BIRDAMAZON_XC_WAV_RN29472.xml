@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>29472</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN29472.wav</FileName>
+  <ClassId>mbwjzf</ClassId>
+  <Date>2014-09-20</Date>
+  <Time>07:00</Time>
+  <Locality>Arroio do Meio, Arroio do Meio, Rio Grande do Sul</Locality>
+  <Latitude>-29.3374</Latitude>
+  <Longitude>-51.9334</Longitude>
+  <Elevation>440</Elevation>
+  <Author>Cleberton D. Bianchini</Author>
+  <AuthorID>FYHMASBKBC</AuthorID>
+  <Content>alarm call</Content>
+  <Comments>bird-seen:yesplayback-used:no</Comments>
+  <Quality>4</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Fringillidae</Family>
+  <Genus>Chlorophonia</Genus>
+  <Species>cyanea</Species>
+  <Sub-species />
+  <VernacularNames>Blue-naped Chlorophonia</VernacularNames>
+</Audio>

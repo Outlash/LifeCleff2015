@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>25952</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN25952.wav</FileName>
+  <ClassId>ckjsvo</ClassId>
+  <Date>2008-08-29</Date>
+  <Time>07:00</Time>
+  <Locality>Novo Progresso, Pará</Locality>
+  <Latitude>-7.1501</Latitude>
+  <Longitude>-55.4834</Longitude>
+  <Elevation>100</Elevation>
+  <Author>Sidnei Dantas</Author>
+  <AuthorID>NNCKQMBGPH</AuthorID>
+  <Content>song</Content>
+  <Comments />
+  <Quality>3</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies>Phoenicircus nigricollis</BackgroundSpecies>
+  <Order>Passeriformes</Order>
+  <Family>Furnariidae</Family>
+  <Genus>Dendrocolaptes</Genus>
+  <Species>picumnus</Species>
+  <Sub-species />
+  <VernacularNames>Black-banded Woodcreeper</VernacularNames>
+</Audio>

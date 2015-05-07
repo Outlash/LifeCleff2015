@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>17621</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN17621.wav</FileName>
+  <ClassId>yruddd</ClassId>
+  <Date>2011-05-22</Date>
+  <Time>06:26</Time>
+  <Locality>Paragominas, PA, Brazil, Bacia 549</Locality>
+  <Latitude>-3.8101</Latitude>
+  <Longitude>-48.377</Longitude>
+  <Elevation>?</Elevation>
+  <Author>Nargila Moura</Author>
+  <AuthorID>CWEIBYBYYD</AuthorID>
+  <Content>call</Content>
+  <Comments>primary forest</Comments>
+  <Quality>3</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies>Thamnomanes caesius,Hylophilus ochraceiceps,Ramphocaenus melanurus</BackgroundSpecies>
+  <Order>Piciformes</Order>
+  <Family>Picidae</Family>
+  <Genus>Piculus</Genus>
+  <Species>flavigula</Species>
+  <Sub-species>magnus</Sub-species>
+  <VernacularNames>Yellow-throated Woodpecker</VernacularNames>
+</Audio>

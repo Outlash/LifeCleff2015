@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>19286</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN19286.wav</FileName>
+  <ClassId>yyjrms</ClassId>
+  <Date>2010-11-30</Date>
+  <Time>?</Time>
+  <Locality>La Escalera, Sierra de Lema, Bolívar</Locality>
+  <Latitude>5.9656</Latitude>
+  <Longitude>-61.3917</Longitude>
+  <Elevation>?</Elevation>
+  <Author>Alexandre Renaudier</Author>
+  <AuthorID>GKADEITXTH</AuthorID>
+  <Content>call</Content>
+  <Comments />
+  <Quality>2</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Emberizidae</Family>
+  <Genus>Zonotrichia</Genus>
+  <Species>capensis</Species>
+  <Sub-species />
+  <VernacularNames>Rufous-collared Sparrow</VernacularNames>
+</Audio>

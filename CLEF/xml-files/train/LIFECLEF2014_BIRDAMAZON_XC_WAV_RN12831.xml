@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>12831</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN12831.wav</FileName>
+  <ClassId>myyugr</ClassId>
+  <Date>2013-07-13</Date>
+  <Time>16:30</Time>
+  <Locality>Campo Mourao, Paraná</Locality>
+  <Latitude>-24.0458</Latitude>
+  <Longitude>-52.3828</Longitude>
+  <Elevation>600</Elevation>
+  <Author>Luiz C.  Silva</Author>
+  <AuthorID>ORPKXJRFDZ</AuthorID>
+  <Content>call</Content>
+  <Comments>bird-seen:yesplayback-used:no</Comments>
+  <Quality>2</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Tyrannidae</Family>
+  <Genus>Machetornis</Genus>
+  <Species>rixosa</Species>
+  <Sub-species />
+  <VernacularNames>Cattle Tyrant</VernacularNames>
+</Audio>

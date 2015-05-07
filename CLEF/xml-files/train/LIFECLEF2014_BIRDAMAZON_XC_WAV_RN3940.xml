@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>3940</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN3940.wav</FileName>
+  <ClassId>fdhzmw</ClassId>
+  <Date>2003-05-20</Date>
+  <Time>10:00</Time>
+  <Locality>Sítio Água Azul, Bonito, Mato Grosso do Sul, Brazil</Locality>
+  <Latitude>NULL</Latitude>
+  <Longitude>NULL</Longitude>
+  <Elevation>340</Elevation>
+  <Author>Daniel De Granville</Author>
+  <AuthorID>CQDEBIMXQU</AuthorID>
+  <Content>alarm call</Content>
+  <Comments />
+  <Quality>0</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Furnariidae</Family>
+  <Genus>Hylocryptus</Genus>
+  <Species>rectirostris</Species>
+  <Sub-species />
+  <VernacularNames>Henna-capped Foliage-gleaner</VernacularNames>
+</Audio>

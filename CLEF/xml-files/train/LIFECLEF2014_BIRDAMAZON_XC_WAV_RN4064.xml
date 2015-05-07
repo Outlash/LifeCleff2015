@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>4064</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN4064.wav</FileName>
+  <ClassId>lgrpvc</ClassId>
+  <Date>2006-10-16</Date>
+  <Time>13:05</Time>
+  <Locality>Reserva Ecológica de Guapiaçu, RJ</Locality>
+  <Latitude>-22.5001</Latitude>
+  <Longitude>-42.7167</Longitude>
+  <Elevation>?</Elevation>
+  <Author>Leonardo Pimentel</Author>
+  <AuthorID>JHBOHGJALL</AuthorID>
+  <Content>Song</Content>
+  <Comments />
+  <Quality>2</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies>Chiroxiphia caudata,Basileuterus culicivorus,Myrmeciza loricata,Schiffornis virescens</BackgroundSpecies>
+  <Order>Passeriformes</Order>
+  <Family>Furnariidae</Family>
+  <Genus>Synallaxis</Genus>
+  <Species>ruficapilla</Species>
+  <Sub-species />
+  <VernacularNames>Rufous-capped Spinetail</VernacularNames>
+</Audio>

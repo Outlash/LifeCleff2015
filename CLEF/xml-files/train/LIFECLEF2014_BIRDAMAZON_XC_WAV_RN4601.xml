@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>4601</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN4601.wav</FileName>
+  <ClassId>fiennj</ClassId>
+  <Date>2005-06-00</Date>
+  <Time>8:40</Time>
+  <Locality>Mancha Verde, São Joao dos Patos - Maranhao State</Locality>
+  <Latitude>-6.5942</Latitude>
+  <Longitude>-43.617</Longitude>
+  <Elevation>?</Elevation>
+  <Author>Guilherme R R Brito</Author>
+  <AuthorID>OAYOBWYOOM</AuthorID>
+  <Content>song</Content>
+  <Comments>there was a couple</Comments>
+  <Quality>2</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Emberizidae</Family>
+  <Genus>Arremon</Genus>
+  <Species>taciturnus</Species>
+  <Sub-species />
+  <VernacularNames>Pectoral Sparrow</VernacularNames>
+</Audio>

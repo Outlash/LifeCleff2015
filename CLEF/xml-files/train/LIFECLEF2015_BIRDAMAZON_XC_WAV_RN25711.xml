@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>25711</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN25711.wav</FileName>
+  <ClassId>ixjdrc</ClassId>
+  <Date>2003-04-02</Date>
+  <Time>11:33</Time>
+  <Locality>Comodoro, Mato Grosso</Locality>
+  <Latitude>-13.3001</Latitude>
+  <Longitude>-59.8001</Longitude>
+  <Elevation>550</Elevation>
+  <Author>Jeremy Minns</Author>
+  <AuthorID>DGVLLRYDXS</AuthorID>
+  <Content>call, song</Content>
+  <Comments>campinarana, 6 km n. of townbird-seen:yesplayback-used:no</Comments>
+  <Quality>2</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Pipridae</Family>
+  <Genus>Dixiphia</Genus>
+  <Species>rubrocapilla</Species>
+  <Sub-species />
+  <VernacularNames>Red-headed Manakin</VernacularNames>
+</Audio>

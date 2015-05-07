@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>5939</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN5939.wav</FileName>
+  <ClassId>orktkw</ClassId>
+  <Date>2001-09-00</Date>
+  <Time>?:?</Time>
+  <Locality>PN Itatiaia, Rio de Janeiro</Locality>
+  <Latitude>NULL</Latitude>
+  <Longitude>NULL</Longitude>
+  <Elevation>?</Elevation>
+  <Author>Sofia Wasylyk</Author>
+  <AuthorID>LJJBXKZHHB</AuthorID>
+  <Content>song</Content>
+  <Comments>&lt;a href=http://www.xeno-canto.org/graphics/conosur.jpg rel=lightbox&gt;From Bird Sounds of Southern South America by Lopez-Lanus (2008)&lt;/a&gt;</Comments>
+  <Quality>2</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies />
+  <Order>Apodiformes</Order>
+  <Family>Trochilidae</Family>
+  <Genus>Leucochloris</Genus>
+  <Species>albicollis</Species>
+  <Sub-species />
+  <VernacularNames>White-throated Hummingbird</VernacularNames>
+</Audio>

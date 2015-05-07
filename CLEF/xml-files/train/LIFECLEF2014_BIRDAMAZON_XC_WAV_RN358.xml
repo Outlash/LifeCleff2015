@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>358</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN358.wav</FileName>
+  <ClassId>oxjndd</ClassId>
+  <Date>2008-04-24</Date>
+  <Time>5:00</Time>
+  <Locality>RPPN Serra Bonita, Camacan, Bahia.</Locality>
+  <Latitude>-15.3851</Latitude>
+  <Longitude>-39.5709</Longitude>
+  <Elevation>?</Elevation>
+  <Author>Sidnei S. dos Santos</Author>
+  <AuthorID>BHODJXTHGQ</AuthorID>
+  <Content>Song</Content>
+  <Comments>After playback</Comments>
+  <Quality>0</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies />
+  <Order>Strigiformes</Order>
+  <Family>Strigidae</Family>
+  <Genus>Glaucidium</Genus>
+  <Species>minutissimum</Species>
+  <Sub-species />
+  <VernacularNames>East Brazilian Pygmy Owl</VernacularNames>
+</Audio>

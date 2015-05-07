@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>20880</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN20880.wav</FileName>
+  <ClassId>hdcvoa</ClassId>
+  <Date>2010-03-19</Date>
+  <Time>17:25</Time>
+  <Locality>Honey Pond, Karanambu Ranch, Guyana</Locality>
+  <Latitude>NULL</Latitude>
+  <Longitude>NULL</Longitude>
+  <Elevation>100</Elevation>
+  <Author>Charlie Vogt</Author>
+  <AuthorID>NYTXYAQSTH</AuthorID>
+  <Content>call</Content>
+  <Comments>natural vocalization</Comments>
+  <Quality>3</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies>Pitangus sulphuratus</BackgroundSpecies>
+  <Order>Charadriiformes</Order>
+  <Family>Scolopacidae</Family>
+  <Genus>Tringa</Genus>
+  <Species>solitaria</Species>
+  <Sub-species />
+  <VernacularNames>Solitary Sandpiper</VernacularNames>
+</Audio>

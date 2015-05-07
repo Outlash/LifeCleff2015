@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>1327</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN1327.wav</FileName>
+  <ClassId>dhzucj</ClassId>
+  <Date>2007-11-16</Date>
+  <Time>10:40</Time>
+  <Locality>distrito São Luis, Londrina, PR</Locality>
+  <Latitude>NULL</Latitude>
+  <Longitude>NULL</Longitude>
+  <Elevation>565</Elevation>
+  <Author>Eduardo Patrial</Author>
+  <AuthorID>QEFRRVCRRP</AuthorID>
+  <Content>song</Content>
+  <Comments>First record for Londrina</Comments>
+  <Quality>0</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Thamnophilidae</Family>
+  <Genus>Drymophila</Genus>
+  <Species>ochropyga</Species>
+  <Sub-species />
+  <VernacularNames>Ochre-rumped Antbird</VernacularNames>
+</Audio>

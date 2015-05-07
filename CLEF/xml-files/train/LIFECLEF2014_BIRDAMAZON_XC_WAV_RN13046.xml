@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>13046</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN13046.wav</FileName>
+  <ClassId>nurzze</ClassId>
+  <Date>2010-12-03</Date>
+  <Time>?</Time>
+  <Locality>Belterra, Bacia 357, PA</Locality>
+  <Latitude>-3.372</Latitude>
+  <Longitude>-54.8478</Longitude>
+  <Elevation>?</Elevation>
+  <Author>Nargila Moura</Author>
+  <AuthorID>CWEIBYBYYD</AuthorID>
+  <Content>call</Content>
+  <Comments>primary forest</Comments>
+  <Quality>0</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies>Lipaugus vociferans,Amazona farinosa,Myrmotherula brachyura</BackgroundSpecies>
+  <Order>Columbiformes</Order>
+  <Family>Columbidae</Family>
+  <Genus>Patagioenas</Genus>
+  <Species>plumbea</Species>
+  <Sub-species>pallescens</Sub-species>
+  <VernacularNames>Plumbeous Pigeon</VernacularNames>
+</Audio>

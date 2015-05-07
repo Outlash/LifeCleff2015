@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>19536</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN19536.wav</FileName>
+  <ClassId>ppdwrk</ClassId>
+  <Date>2008-01-27</Date>
+  <Time>09:30</Time>
+  <Locality>Hato Pinero, Cojedes</Locality>
+  <Latitude>8.9498</Latitude>
+  <Longitude>-68.0831</Longitude>
+  <Elevation>70</Elevation>
+  <Author>Daniel Lane</Author>
+  <AuthorID>WOEAFQRMUD</AuthorID>
+  <Content>call</Content>
+  <Comments>Some calls from one bird (sex not indicated). Wingbeats were from Phalacrocorax.</Comments>
+  <Quality>2</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies>Phalacrocorax brasilianus,Coereba flaveola</BackgroundSpecies>
+  <Order>Coraciiformes</Order>
+  <Family>Alcedinidae</Family>
+  <Genus>Chloroceryle</Genus>
+  <Species>amazona</Species>
+  <Sub-species />
+  <VernacularNames>Amazon Kingfisher</VernacularNames>
+</Audio>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>33231</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN33231.wav</FileName>
+  <ClassId>fkjcci</ClassId>
+  <Date>2007-11-07</Date>
+  <Time>22:40</Time>
+  <Locality>Parque Regional Barbas-Bremen, Filandia, Quindio. Sector Bremen-La Popa</Locality>
+  <Latitude>4.6717</Latitude>
+  <Longitude>-75.6283</Longitude>
+  <Elevation>1800</Elevation>
+  <Author>Oscar Humberto Marin-Gomez</Author>
+  <AuthorID>CSUHASNRSU</AuthorID>
+  <Content>song</Content>
+  <Comments>OHM 004B 2443. Un individuo en bosque en regeneración.  Bosque montano bajo. 70m del Mic. Vocalización Natural. Cerca al campamento Bremenbird-seen:noplayback-used:no</Comments>
+  <Quality>2</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Strigiformes</Order>
+  <Family>Strigidae</Family>
+  <Genus>Strix</Genus>
+  <Species>virgata</Species>
+  <Sub-species />
+  <VernacularNames>Mottled Owl</VernacularNames>
+</Audio>

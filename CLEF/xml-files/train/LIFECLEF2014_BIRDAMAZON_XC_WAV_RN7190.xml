@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>7190</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN7190.wav</FileName>
+  <ClassId>jttuic</ClassId>
+  <Date>2005-03-27</Date>
+  <Time>20:30</Time>
+  <Locality>Araripe National Forest, Crato, Ceará State</Locality>
+  <Latitude>-7.2501</Latitude>
+  <Longitude>-39.5834</Longitude>
+  <Elevation>700</Elevation>
+  <Author>Ciro Albano</Author>
+  <AuthorID>MXVQPUKGWW</AuthorID>
+  <Content>song</Content>
+  <Comments />
+  <Quality>2</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies />
+  <Order>Caprimulgiformes</Order>
+  <Family>Nyctibiidae</Family>
+  <Genus>Nyctibius</Genus>
+  <Species>griseus</Species>
+  <Sub-species />
+  <VernacularNames>Common Potoo</VernacularNames>
+</Audio>

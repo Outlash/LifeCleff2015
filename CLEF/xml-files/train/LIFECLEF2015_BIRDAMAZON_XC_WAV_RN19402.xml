@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>19402</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN19402.wav</FileName>
+  <ClassId>uyjoqf</ClassId>
+  <Date>2013-02-25</Date>
+  <Time>08:30</Time>
+  <Locality>Piracicaba, São Paulo</Locality>
+  <Latitude>-22.6771</Latitude>
+  <Longitude>-47.9831</Longitude>
+  <Elevation>460</Elevation>
+  <Author>GABRIEL LEITE</Author>
+  <AuthorID>TGBFXDVERJ</AuthorID>
+  <Content>call</Content>
+  <Comments>bird-seen:yesplayback-used:no</Comments>
+  <Quality>1</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Charadriiformes</Order>
+  <Family>Recurvirostridae</Family>
+  <Genus>Himantopus</Genus>
+  <Species>melanurus</Species>
+  <Sub-species />
+  <VernacularNames>White-backed Stilt</VernacularNames>
+</Audio>

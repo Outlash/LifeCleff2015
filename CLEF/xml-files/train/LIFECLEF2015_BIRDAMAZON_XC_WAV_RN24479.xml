@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>24479</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN24479.wav</FileName>
+  <ClassId>rtygpf</ClassId>
+  <Date>2011-08-20</Date>
+  <Time>8:55</Time>
+  <Locality>Cristalino Jungle Lodge, MT</Locality>
+  <Latitude>-9.5981</Latitude>
+  <Longitude>-55.932</Longitude>
+  <Elevation>200</Elevation>
+  <Author>Tayler Brooks</Author>
+  <AuthorID>ARFGONJCBJ</AuthorID>
+  <Content>song</Content>
+  <Comments>In response to playback. In dry hilltop forest.</Comments>
+  <Quality>1</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Piciformes</Order>
+  <Family>Bucconidae</Family>
+  <Genus>Bucco</Genus>
+  <Species>tamatia</Species>
+  <Sub-species>hypnaleus</Sub-species>
+  <VernacularNames>Spotted Puffbird</VernacularNames>
+</Audio>

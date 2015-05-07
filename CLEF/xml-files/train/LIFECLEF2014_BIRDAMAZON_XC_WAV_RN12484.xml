@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>12484</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN12484.wav</FileName>
+  <ClassId>objnpr</ClassId>
+  <Date>2012-09-22</Date>
+  <Time>morning</Time>
+  <Locality>Parque Florestal Quedas do Rio Bonito</Locality>
+  <Latitude>-21.333</Latitude>
+  <Longitude>-44.984</Longitude>
+  <Elevation>1.140</Elevation>
+  <Author>Kassius K. Santos</Author>
+  <AuthorID>LDUBEBHXQK</AuthorID>
+  <Content>song</Content>
+  <Comments />
+  <Quality>2</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Parulidae</Family>
+  <Genus>Setophaga</Genus>
+  <Species>pitiayumi</Species>
+  <Sub-species />
+  <VernacularNames>Tropical Parula</VernacularNames>
+</Audio>

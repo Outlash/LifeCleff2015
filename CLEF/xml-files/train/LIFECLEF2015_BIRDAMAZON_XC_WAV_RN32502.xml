@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>32502</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN32502.wav</FileName>
+  <ClassId>wdmans</ClassId>
+  <Date>2010-06-26</Date>
+  <Time>08:29</Time>
+  <Locality>Montagne de Kaw - Roura</Locality>
+  <Latitude>NULL</Latitude>
+  <Longitude>NULL</Longitude>
+  <Elevation>?</Elevation>
+  <Author>Patrick INGREMEAU</Author>
+  <AuthorID>IIVTYSKEYX</AuthorID>
+  <Content>Song</Content>
+  <Comments />
+  <Quality>1</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Pipridae</Family>
+  <Genus>Lepidothrix</Genus>
+  <Species>serena</Species>
+  <Sub-species />
+  <VernacularNames>White-fronted Manakin</VernacularNames>
+</Audio>

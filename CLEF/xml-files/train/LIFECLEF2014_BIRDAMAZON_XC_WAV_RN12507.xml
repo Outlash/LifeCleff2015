@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>12507</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN12507.wav</FileName>
+  <ClassId>perzmu</ClassId>
+  <Date>2004-03-28</Date>
+  <Time>06:32</Time>
+  <Locality>Palmeiras, Chapada Diamantina, Bahia.</Locality>
+  <Latitude>-12.530434</Latitude>
+  <Longitude>-41.575699</Longitude>
+  <Elevation>800</Elevation>
+  <Author>Jeremy Minns</Author>
+  <AuthorID>DGVLLRYDXS</AuthorID>
+  <Content>Song</Content>
+  <Comments>Rio Preto. Bushy caatinga. On top of a bare tree. S‹o Francisco Sparrow is the song between 3.5 and 5.5 secs.</Comments>
+  <Quality>2</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies>Troglodytes aedon,Saltator similis,Arremon franciscanus</BackgroundSpecies>
+  <Order>Passeriformes</Order>
+  <Family>Coerebidae</Family>
+  <Genus>Coereba</Genus>
+  <Species>flaveola</Species>
+  <Sub-species>chloropyga</Sub-species>
+  <VernacularNames>Bananaquit</VernacularNames>
+</Audio>

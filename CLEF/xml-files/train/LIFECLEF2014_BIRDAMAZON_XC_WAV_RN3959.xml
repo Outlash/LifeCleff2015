@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>3959</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN3959.wav</FileName>
+  <ClassId>eupamv</ClassId>
+  <Date>2012-02-07</Date>
+  <Time>11:36</Time>
+  <Locality>Timbaúba, Pernambuco</Locality>
+  <Latitude>-7.6096</Latitude>
+  <Longitude>-35.3952</Longitude>
+  <Elevation>440</Elevation>
+  <Author>Marcus Braun</Author>
+  <AuthorID>EICLYDGEKS</AuthorID>
+  <Content>song</Content>
+  <Comments>Song with imitations.Mata do Engenho Xixa. Macaparanaplayback-used:no</Comments>
+  <Quality>4</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Fringillidae</Family>
+  <Genus>Euphonia</Genus>
+  <Species>violacea</Species>
+  <Sub-species />
+  <VernacularNames>Violaceous Euphonia</VernacularNames>
+</Audio>

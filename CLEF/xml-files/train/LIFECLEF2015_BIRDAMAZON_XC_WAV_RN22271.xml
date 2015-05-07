@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>22271</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN22271.wav</FileName>
+  <ClassId>vspudg</ClassId>
+  <Date>2008-08-01</Date>
+  <Time>17:58</Time>
+  <Locality>Presidente Figueiredo. Road off BR-174 at km 85</Locality>
+  <Latitude>-2.2334</Latitude>
+  <Longitude>-60.0167</Longitude>
+  <Elevation>120</Elevation>
+  <Author>Jeremy Minns</Author>
+  <AuthorID>DGVLLRYDXS</AuthorID>
+  <Content>Ramphastos tucanus, song</Content>
+  <Comments>terra firme forestbird-seen:noplayback-used:no</Comments>
+  <Quality>2</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Pipridae</Family>
+  <Genus>Tyranneutes</Genus>
+  <Species>virescens</Species>
+  <Sub-species />
+  <VernacularNames>Tiny Tyrant-Manakin</VernacularNames>
+</Audio>

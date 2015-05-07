@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>4598</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN4598.wav</FileName>
+  <ClassId>ljczsu</ClassId>
+  <Date>2012-09-03</Date>
+  <Time>08:00</Time>
+  <Locality>Atibaia, SP</Locality>
+  <Latitude>-23.2001</Latitude>
+  <Longitude>-46.5834</Longitude>
+  <Elevation>950</Elevation>
+  <Author>William Zaca</Author>
+  <AuthorID>QPVHQBUWGE</AuthorID>
+  <Content>call</Content>
+  <Comments />
+  <Quality>2</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Thraupidae</Family>
+  <Genus>Trichothraupis</Genus>
+  <Species>melanops</Species>
+  <Sub-species />
+  <VernacularNames>Black-goggled Tanager</VernacularNames>
+</Audio>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>1817</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN1817.wav</FileName>
+  <ClassId>gtpoqz</ClassId>
+  <Date>2004-02-23</Date>
+  <Time>?</Time>
+  <Locality>Parque Nacional Itatiaia (Hotel Simon), Rio de Janeiro</Locality>
+  <Latitude>NULL</Latitude>
+  <Longitude>NULL</Longitude>
+  <Elevation>?</Elevation>
+  <Author>Bernabe Lopez-Lanus</Author>
+  <AuthorID>BYLLSJRVDZ</AuthorID>
+  <Content>Call</Content>
+  <Comments />
+  <Quality>1</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies />
+  <Order>Apodiformes</Order>
+  <Family>Trochilidae</Family>
+  <Genus>Florisuga</Genus>
+  <Species>fusca</Species>
+  <Sub-species />
+  <VernacularNames>Black Jacobin</VernacularNames>
+</Audio>

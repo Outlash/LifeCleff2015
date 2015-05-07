@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>7406</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN7406.wav</FileName>
+  <ClassId>hwjycx</ClassId>
+  <Date>2006-12-25</Date>
+  <Time>18:10</Time>
+  <Locality>Porteiras, Altinho, Pernambuco</Locality>
+  <Latitude>-8.3</Latitude>
+  <Longitude>-37.75</Longitude>
+  <Elevation>460</Elevation>
+  <Author>Glauco Alves Pereira</Author>
+  <AuthorID>ZWEROGGYVP</AuthorID>
+  <Content>Song</Content>
+  <Comments />
+  <Quality>2</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies />
+  <Order>Caprimulgiformes</Order>
+  <Family>Caprimulgidae</Family>
+  <Genus>Setopagis</Genus>
+  <Species>parvula</Species>
+  <Sub-species />
+  <VernacularNames>Little Nightjar</VernacularNames>
+</Audio>

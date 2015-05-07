@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>2204</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN2204.wav</FileName>
+  <ClassId>liclqi</ClassId>
+  <Date>1999-09-15</Date>
+  <Time>17:51</Time>
+  <Locality>Reserva Extrativista Alto Juruá. Pedra Pintada</Locality>
+  <Latitude>-9.3828</Latitude>
+  <Longitude>-72.7106</Longitude>
+  <Elevation>230</Elevation>
+  <Author>Jeremy Minns</Author>
+  <AuthorID>DGVLLRYDXS</AuthorID>
+  <Content>Song</Content>
+  <Comments>Várzea forest.</Comments>
+  <Quality>1</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies>Crypturellus soui,Xiphorhynchus guttatus,Formicarius analis</BackgroundSpecies>
+  <Order>Passeriformes</Order>
+  <Family>Furnariidae</Family>
+  <Genus>Dendrexetastes</Genus>
+  <Species>rufigula</Species>
+  <Sub-species>devillei</Sub-species>
+  <VernacularNames>Cinnamon-throated Woodcreeper</VernacularNames>
+</Audio>

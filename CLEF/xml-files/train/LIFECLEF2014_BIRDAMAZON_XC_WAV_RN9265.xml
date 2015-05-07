@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>9265</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN9265.wav</FileName>
+  <ClassId>jirbln</ClassId>
+  <Date>2005-04-10</Date>
+  <Time>06:15</Time>
+  <Locality>Reserva Ecológica de Guapiaçu, RJ</Locality>
+  <Latitude>-22.5001</Latitude>
+  <Longitude>-42.7167</Longitude>
+  <Elevation>50</Elevation>
+  <Author>Nick Athanas</Author>
+  <AuthorID>XRABICUARW</AuthorID>
+  <Content>call</Content>
+  <Comments />
+  <Quality>1</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies>Troglodytes aedon,Todirostrum poliocephalum</BackgroundSpecies>
+  <Order>Piciformes</Order>
+  <Family>Picidae</Family>
+  <Genus>Melanerpes</Genus>
+  <Species>candidus</Species>
+  <Sub-species />
+  <VernacularNames>White Woodpecker</VernacularNames>
+</Audio>

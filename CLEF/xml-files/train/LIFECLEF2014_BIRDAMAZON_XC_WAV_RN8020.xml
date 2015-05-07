@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>8020</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN8020.wav</FileName>
+  <ClassId>jpjrlh</ClassId>
+  <Date>2002-09-12</Date>
+  <Time>11:38</Time>
+  <Locality>Serra dos Orgaos National Park. Teresopolis</Locality>
+  <Latitude>-22.4667</Latitude>
+  <Longitude>-43.01</Longitude>
+  <Elevation>1500</Elevation>
+  <Author>Jeremy Minns</Author>
+  <AuthorID>DGVLLRYDXS</AuthorID>
+  <Content>Whistles</Content>
+  <Comments>Pedra do Sino trail. Montane forest. Not seen.</Comments>
+  <Quality>1</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies>Tijuca atra</BackgroundSpecies>
+  <Order>Passeriformes</Order>
+  <Family>Thamnophilidae</Family>
+  <Genus>Mackenziaena</Genus>
+  <Species>leachii</Species>
+  <Sub-species />
+  <VernacularNames>Large-tailed Antshrike</VernacularNames>
+</Audio>

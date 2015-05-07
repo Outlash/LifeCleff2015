@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>4777</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN4777.wav</FileName>
+  <ClassId>vqsusq</ClassId>
+  <Date>2008-02-13</Date>
+  <Time>10:13</Time>
+  <Locality>Rio Negrinho, Santa Catarina</Locality>
+  <Latitude>-26.27864</Latitude>
+  <Longitude>-49.512634</Longitude>
+  <Elevation>792</Elevation>
+  <Author>Glauco Kohler &amp; Nicholas Kaminski</Author>
+  <AuthorID>JDNMEJOJEQ</AuthorID>
+  <Content>fight calls</Content>
+  <Comments />
+  <Quality>2</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Furnariidae</Family>
+  <Genus>Campylorhamphus</Genus>
+  <Species>falcularius</Species>
+  <Sub-species />
+  <VernacularNames>Black-billed Scythebill</VernacularNames>
+</Audio>

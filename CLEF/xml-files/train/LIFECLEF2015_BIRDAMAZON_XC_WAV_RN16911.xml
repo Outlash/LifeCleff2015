@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>16911</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN16911.wav</FileName>
+  <ClassId>amvexh</ClassId>
+  <Date>2010-09-14</Date>
+  <Time>?</Time>
+  <Locality>Régina</Locality>
+  <Latitude>4.31667</Latitude>
+  <Longitude>-52.1333</Longitude>
+  <Elevation>60</Elevation>
+  <Author>Alexandre Renaudier</Author>
+  <AuthorID>GKADEITXTH</AuthorID>
+  <Content>song</Content>
+  <Comments />
+  <Quality>1</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Thamnophilidae</Family>
+  <Genus>Myrmotherula</Genus>
+  <Species>surinamensis</Species>
+  <Sub-species />
+  <VernacularNames>Guianan Streaked Antwren</VernacularNames>
+</Audio>

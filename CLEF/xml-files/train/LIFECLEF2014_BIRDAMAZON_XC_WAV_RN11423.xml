@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>11423</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN11423.wav</FileName>
+  <ClassId>eupamv</ClassId>
+  <Date>2010-10-07</Date>
+  <Time>12:00</Time>
+  <Locality>Estrada do Portão, Parque Nacional do Viruá, Caracaraí, Roraima</Locality>
+  <Latitude>1.4851</Latitude>
+  <Longitude>-60.9921</Longitude>
+  <Elevation>90</Elevation>
+  <Author>Thiago Orsi Laranjeiras</Author>
+  <AuthorID>PMYLTPLTLT</AuthorID>
+  <Content>call, song</Content>
+  <Comments>bird-seen:yesplayback-used:yes</Comments>
+  <Quality>2</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Fringillidae</Family>
+  <Genus>Euphonia</Genus>
+  <Species>violacea</Species>
+  <Sub-species />
+  <VernacularNames>Violaceous Euphonia</VernacularNames>
+</Audio>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>16110</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN16110.wav</FileName>
+  <ClassId>mvdpht</ClassId>
+  <Date>2006-12-21</Date>
+  <Time>18:30</Time>
+  <Locality>Quebrada Grande-Caripe</Locality>
+  <Latitude>10.2056</Latitude>
+  <Longitude>-63.5173</Longitude>
+  <Elevation>1200</Elevation>
+  <Author>Doug Knapp</Author>
+  <AuthorID>BHRXQZEQFL</AuthorID>
+  <Content>Song</Content>
+  <Comments />
+  <Quality>1</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Furnariidae</Family>
+  <Genus>Xiphocolaptes</Genus>
+  <Species>promeropirhynchus</Species>
+  <Sub-species />
+  <VernacularNames>Strong-billed Woodcreeper</VernacularNames>
+</Audio>

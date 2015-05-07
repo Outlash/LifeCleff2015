@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>25564</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN25564.wav</FileName>
+  <ClassId>pbswuq</ClassId>
+  <Date>2011-03-31</Date>
+  <Time>07:30</Time>
+  <Locality>Bozano, Rio Grande do Sul</Locality>
+  <Latitude>-28.3758</Latitude>
+  <Longitude>-53.8115</Longitude>
+  <Elevation>380</Elevation>
+  <Author>Fernando Igor de Godoy</Author>
+  <AuthorID>CHDHFSVVIN</AuthorID>
+  <Content>song</Content>
+  <Comments>2 individuals - FNJV 30287bird-seen:yes</Comments>
+  <Quality>0</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Thraupidae</Family>
+  <Genus>Embernagra</Genus>
+  <Species>platensis</Species>
+  <Sub-species />
+  <VernacularNames>Pampa Finch</VernacularNames>
+</Audio>

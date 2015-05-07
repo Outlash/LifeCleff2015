@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>9204</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN9204.wav</FileName>
+  <ClassId>uiqpgc</ClassId>
+  <Date>2011-07-19</Date>
+  <Time>16:30</Time>
+  <Locality>Almeirim/Pará</Locality>
+  <Latitude>-1.095</Latitude>
+  <Longitude>-52.653</Longitude>
+  <Elevation>80</Elevation>
+  <Author>Christian B. Andretti</Author>
+  <AuthorID>EZSMXGTXKS</AuthorID>
+  <Content>call</Content>
+  <Comments>Bituba - Selective Loggingbird-seen:noplayback-used:no</Comments>
+  <Quality>0</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Turdidae</Family>
+  <Genus>Turdus</Genus>
+  <Species>albicollis</Species>
+  <Sub-species>phaeopygus</Sub-species>
+  <VernacularNames>White-necked Thrush</VernacularNames>
+</Audio>

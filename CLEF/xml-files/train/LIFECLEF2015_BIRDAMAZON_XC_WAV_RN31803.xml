@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>31803</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN31803.wav</FileName>
+  <ClassId>igtfqw</ClassId>
+  <Date>2009-11-14</Date>
+  <Time>15:55</Time>
+  <Locality>Praia do Gamela, Sirinhaém, Pernambuco</Locality>
+  <Latitude>-8.6114</Latitude>
+  <Longitude>-35.0392</Longitude>
+  <Elevation>0</Elevation>
+  <Author>Mauricio Cabral Periquito</Author>
+  <AuthorID>HERKCTHDZI</AuthorID>
+  <Content>Flying calls</Content>
+  <Comments />
+  <Quality>2</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies>Cyclarhis gujanensis,Thraupis sayaca</BackgroundSpecies>
+  <Order>Apodiformes</Order>
+  <Family>Apodidae</Family>
+  <Genus>Chaetura</Genus>
+  <Species>meridionalis</Species>
+  <Sub-species />
+  <VernacularNames>Sick's Swift</VernacularNames>
+</Audio>

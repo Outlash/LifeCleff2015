@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>3606</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN3606.wav</FileName>
+  <ClassId>feohaf</ClassId>
+  <Date>2013-10-20</Date>
+  <Time>16:30</Time>
+  <Locality>Estrada boiadeira, Tuneiras do Oeste.</Locality>
+  <Latitude>-23.9165</Latitude>
+  <Longitude>-52.7425</Longitude>
+  <Elevation>500</Elevation>
+  <Author>Luiz C.  Silva</Author>
+  <AuthorID>ORPKXJRFDZ</AuthorID>
+  <Content>call, song</Content>
+  <Comments>bird-seen:noplayback-used:no</Comments>
+  <Quality>1</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies>Elaenia flavogaster,Zonotrichia capensis,Piaya cayana,Ramphastos dicolorus,Furnarius rufus,Zenaida auriculata,Crotophaga ani,Geothlypis velata</BackgroundSpecies>
+  <Order>Passeriformes</Order>
+  <Family>Tyrannidae</Family>
+  <Genus>Elaenia</Genus>
+  <Species>flavogaster</Species>
+  <Sub-species />
+  <VernacularNames>Yellow-bellied Elaenia</VernacularNames>
+</Audio>

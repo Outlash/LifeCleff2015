@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>13628</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN13628.wav</FileName>
+  <ClassId>krpshi</ClassId>
+  <Date>2011-09-15</Date>
+  <Time>10:18</Time>
+  <Locality>Cristalino Jungle Lodge, MT</Locality>
+  <Latitude>-9.5981</Latitude>
+  <Longitude>-55.932</Longitude>
+  <Elevation>260</Elevation>
+  <Author>Eric DeFonso</Author>
+  <AuthorID>KTLCZCRCQX</AuthorID>
+  <Content>song</Content>
+  <Comments>Habitat is terra firme forest.bird-seen:noplayback-used:no</Comments>
+  <Quality>2</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies>Thamnophilus schistaceus</BackgroundSpecies>
+  <Order>Passeriformes</Order>
+  <Family>Thamnophilidae</Family>
+  <Genus>Cymbilaimus</Genus>
+  <Species>lineatus</Species>
+  <Sub-species />
+  <VernacularNames>Fasciated Antshrike</VernacularNames>
+</Audio>

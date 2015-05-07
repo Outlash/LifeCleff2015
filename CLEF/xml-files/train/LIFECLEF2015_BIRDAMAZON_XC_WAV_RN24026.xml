@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>24026</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN24026.wav</FileName>
+  <ClassId>xipjkx</ClassId>
+  <Date>2011-03-31</Date>
+  <Time>08:00</Time>
+  <Locality>Bozano, Rio Grande do Sul</Locality>
+  <Latitude>-28.3758</Latitude>
+  <Longitude>-53.8115</Longitude>
+  <Elevation>380</Elevation>
+  <Author>Fernando Igor de Godoy</Author>
+  <AuthorID>CHDHFSVVIN</AuthorID>
+  <Content>call</Content>
+  <Comments>bird-seen:yesplayback-used:no</Comments>
+  <Quality>0</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Icteridae</Family>
+  <Genus>Icterus</Genus>
+  <Species>pyrrhopterus</Species>
+  <Sub-species />
+  <VernacularNames>Variable Oriole</VernacularNames>
+</Audio>

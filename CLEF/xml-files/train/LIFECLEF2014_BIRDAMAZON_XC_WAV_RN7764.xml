@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>7764</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN7764.wav</FileName>
+  <ClassId>vcflij</ClassId>
+  <Date>2013-02-04</Date>
+  <Time>11:30</Time>
+  <Locality>Aracruz, Espirito Santo</Locality>
+  <Latitude>-19.8189</Latitude>
+  <Longitude>-40.2739</Longitude>
+  <Elevation>60</Elevation>
+  <Author>Noé Eiterer</Author>
+  <AuthorID>TWSKITNQOV</AuthorID>
+  <Content>song</Content>
+  <Comments>bird-seen:noplayback-used:yes</Comments>
+  <Quality>1</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies />
+  <Order>Gruiformes</Order>
+  <Family>Rallidae</Family>
+  <Genus>Laterallus</Genus>
+  <Species>viridis</Species>
+  <Sub-species />
+  <VernacularNames>Russet-crowned Crake</VernacularNames>
+</Audio>

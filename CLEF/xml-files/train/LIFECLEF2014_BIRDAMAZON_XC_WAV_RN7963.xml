@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>7963</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN7963.wav</FileName>
+  <ClassId>ssdpyu</ClassId>
+  <Date>2012-08-17</Date>
+  <Time>11am</Time>
+  <Locality>Jaguareguava valley,Bertioga,São Paulo State</Locality>
+  <Latitude>-23.832</Latitude>
+  <Longitude>-46.168</Longitude>
+  <Elevation>5</Elevation>
+  <Author>Antonio Silveira</Author>
+  <AuthorID>NBJQSQJRYH</AuthorID>
+  <Content>?</Content>
+  <Comments />
+  <Quality>2</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Troglodytidae</Family>
+  <Genus>Cantorchilus</Genus>
+  <Species>longirostris</Species>
+  <Sub-species />
+  <VernacularNames>Long-billed Wren</VernacularNames>
+</Audio>

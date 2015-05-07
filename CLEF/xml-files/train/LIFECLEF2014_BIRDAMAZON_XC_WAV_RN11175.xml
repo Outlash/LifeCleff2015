@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>11175</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN11175.wav</FileName>
+  <ClassId>kaobjf</ClassId>
+  <Date>2008-09-25</Date>
+  <Time>?</Time>
+  <Locality>Rio Tigre, Guatambu, Santa Catarina</Locality>
+  <Latitude>-27.140118</Latitude>
+  <Longitude>-52.783728</Longitude>
+  <Elevation>290</Elevation>
+  <Author>Adrian Eisen Rupp</Author>
+  <AuthorID>AOPMSCIDIA</AuthorID>
+  <Content>call</Content>
+  <Comments />
+  <Quality>2</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies>Saltator similis,Cyclarhis gujanensis</BackgroundSpecies>
+  <Order>Passeriformes</Order>
+  <Family>Tyrannidae</Family>
+  <Genus>Hemitriccus</Genus>
+  <Species>diops</Species>
+  <Sub-species />
+  <VernacularNames>Drab-breasted Bamboo Tyrant</VernacularNames>
+</Audio>

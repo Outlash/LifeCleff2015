@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>3331</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN3331.wav</FileName>
+  <ClassId>bafzon</ClassId>
+  <Date>2010-01-28</Date>
+  <Time>07:14</Time>
+  <Locality>Road to Remanso, Lençóis, Chapada Diamantina, BA</Locality>
+  <Latitude>-12.5834</Latitude>
+  <Longitude>-41.3667</Longitude>
+  <Elevation>400</Elevation>
+  <Author>Ciro Albano</Author>
+  <AuthorID>MXVQPUKGWW</AuthorID>
+  <Content>song after playback</Content>
+  <Comments />
+  <Quality>1</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Formicariidae</Family>
+  <Genus>Formicarius</Genus>
+  <Species>colma</Species>
+  <Sub-species>ruficeps</Sub-species>
+  <VernacularNames>Rufous-capped Antthrush</VernacularNames>
+</Audio>

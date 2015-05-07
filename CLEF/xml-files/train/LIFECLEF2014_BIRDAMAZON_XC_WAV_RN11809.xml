@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>11809</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN11809.wav</FileName>
+  <ClassId>cqbqgt</ClassId>
+  <Date>2006-08-05</Date>
+  <Time>17:40</Time>
+  <Locality>City of Aquiraz, state of Ceará, in a mangrove.</Locality>
+  <Latitude>-3.8667</Latitude>
+  <Longitude>-38.3834</Longitude>
+  <Elevation>12</Elevation>
+  <Author>Ciro Albano</Author>
+  <AuthorID>MXVQPUKGWW</AuthorID>
+  <Content>song</Content>
+  <Comments />
+  <Quality>3</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies>Myiozetetes similis</BackgroundSpecies>
+  <Order>Passeriformes</Order>
+  <Family>Furnariidae</Family>
+  <Genus>Dendroplex</Genus>
+  <Species>picus</Species>
+  <Sub-species />
+  <VernacularNames>Straight-billed Woodcreeper</VernacularNames>
+</Audio>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>2412</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN2412.wav</FileName>
+  <ClassId>vjavkh</ClassId>
+  <Date>2011-05-01</Date>
+  <Time>10:42</Time>
+  <Locality>Quatro Barras - Paraná State</Locality>
+  <Latitude>-25.346</Latitude>
+  <Longitude>-49.073</Longitude>
+  <Elevation>1000</Elevation>
+  <Author>Cid Espínola</Author>
+  <AuthorID>IRBNRXBEVU</AuthorID>
+  <Content>song</Content>
+  <Comments>After playback</Comments>
+  <Quality>1</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Thamnophilidae</Family>
+  <Genus>Rhopias</Genus>
+  <Species>gularis</Species>
+  <Sub-species />
+  <VernacularNames>Star-throated Antwren</VernacularNames>
+</Audio>

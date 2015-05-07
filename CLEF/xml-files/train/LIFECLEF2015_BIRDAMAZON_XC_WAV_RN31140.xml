@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>31140</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN31140.wav</FileName>
+  <ClassId>olrklp</ClassId>
+  <Date>2011-12-11</Date>
+  <Time>13:00</Time>
+  <Locality>Km 3 via Bolombolo - Concordia, Cauca Valley, Antioquia</Locality>
+  <Latitude>5.9661</Latitude>
+  <Longitude>-75.8546</Longitude>
+  <Elevation>820</Elevation>
+  <Author>Diego Calderon-F.</Author>
+  <AuthorID>OGATBVKNAG</AuthorID>
+  <Content>call</Content>
+  <Comments>bird-seen:yesplayback-used:yes</Comments>
+  <Quality>1</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Troglodytidae</Family>
+  <Genus>Thryophilus</Genus>
+  <Species>sernai</Species>
+  <Sub-species />
+  <VernacularNames>Antioquia Wren</VernacularNames>
+</Audio>

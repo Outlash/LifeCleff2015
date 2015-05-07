@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>1472</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN1472.wav</FileName>
+  <ClassId>yyvzjd</ClassId>
+  <Date>2011-08-23</Date>
+  <Time>17:10</Time>
+  <Locality>Cristalino Jungle Lodge, MT</Locality>
+  <Latitude>-9.5981</Latitude>
+  <Longitude>-55.932</Longitude>
+  <Elevation>200</Elevation>
+  <Author>Tayler Brooks</Author>
+  <AuthorID>ARFGONJCBJ</AuthorID>
+  <Content>call</Content>
+  <Comments>Natural vocalization.</Comments>
+  <Quality>1</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Furnariidae</Family>
+  <Genus>Automolus</Genus>
+  <Species>ochrolaemus</Species>
+  <Sub-species>auricularis</Sub-species>
+  <VernacularNames>Buff-throated Foliage-gleaner</VernacularNames>
+</Audio>

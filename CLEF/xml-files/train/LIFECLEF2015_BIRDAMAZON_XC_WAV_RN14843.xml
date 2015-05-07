@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>14843</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN14843.wav</FileName>
+  <ClassId>kmngzt</ClassId>
+  <Date>2012-01-16</Date>
+  <Time>08:00</Time>
+  <Locality>San Francisco (Jardin Encantado)</Locality>
+  <Latitude>4.972</Latitude>
+  <Longitude>-74.265</Longitude>
+  <Elevation>1500</Elevation>
+  <Author>Oswaldo Cortes</Author>
+  <AuthorID>VVDRVZCVWW</AuthorID>
+  <Content>song</Content>
+  <Comments />
+  <Quality>3</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Apodiformes</Order>
+  <Family>Trochilidae</Family>
+  <Genus>Amazilia</Genus>
+  <Species>cyanifrons</Species>
+  <Sub-species />
+  <VernacularNames>Indigo-capped Hummingbird</VernacularNames>
+</Audio>

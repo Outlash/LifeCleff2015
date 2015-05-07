@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>32150</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN32150.wav</FileName>
+  <ClassId>wgtqmw</ClassId>
+  <Date>1985-09-11</Date>
+  <Time>?</Time>
+  <Locality>San Carlos del Rio Negro, Amazonas</Locality>
+  <Latitude>1.9201</Latitude>
+  <Longitude>-67.0606</Longitude>
+  <Elevation>119</Elevation>
+  <Author>Chris Parrish</Author>
+  <AuthorID>IHIOGGZVQA</AuthorID>
+  <Content>song</Content>
+  <Comments />
+  <Quality>0</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Thamnophilidae</Family>
+  <Genus>Herpsilochmus</Genus>
+  <Species>dorsimaculatus</Species>
+  <Sub-species />
+  <VernacularNames>Spot-backed Antwren</VernacularNames>
+</Audio>

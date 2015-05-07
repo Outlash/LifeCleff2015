@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>11038</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN11038.wav</FileName>
+  <ClassId>uuvfxv</ClassId>
+  <Date>2008-08-09</Date>
+  <Time>pm</Time>
+  <Locality>Serra dos Carajás, PA</Locality>
+  <Latitude>-6.1603</Latitude>
+  <Longitude>-50.3459</Longitude>
+  <Elevation>680</Elevation>
+  <Author>Eduardo Patrial</Author>
+  <AuthorID>QEFRRVCRRP</AuthorID>
+  <Content>call, song</Content>
+  <Comments>At 'Canga - N2'.</Comments>
+  <Quality>2</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Parulidae</Family>
+  <Genus>Myiothlypis</Genus>
+  <Species>flaveola</Species>
+  <Sub-species />
+  <VernacularNames>Flavescent Warbler</VernacularNames>
+</Audio>

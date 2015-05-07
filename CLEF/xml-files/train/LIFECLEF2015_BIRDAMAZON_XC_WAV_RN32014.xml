@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>32014</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN32014.wav</FileName>
+  <ClassId>ptfyqz</ClassId>
+  <Date>2012-06-26</Date>
+  <Time>14:30</Time>
+  <Locality>San Jose de Guaviare - Departamento del Guaviare</Locality>
+  <Latitude>2.667</Latitude>
+  <Longitude>-72.6148</Longitude>
+  <Elevation>50</Elevation>
+  <Author>Oswaldo Cortes</Author>
+  <AuthorID>VVDRVZCVWW</AuthorID>
+  <Content>song</Content>
+  <Comments />
+  <Quality>4</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Tinamiformes</Order>
+  <Family>Tinamidae</Family>
+  <Genus>Crypturellus</Genus>
+  <Species>undulatus</Species>
+  <Sub-species />
+  <VernacularNames>Undulated Tinamou</VernacularNames>
+</Audio>

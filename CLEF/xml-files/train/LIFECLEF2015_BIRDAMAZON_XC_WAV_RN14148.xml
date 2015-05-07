@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>14148</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN14148.wav</FileName>
+  <ClassId>ssmptq</ClassId>
+  <Date>2011-12-05</Date>
+  <Time>08:00</Time>
+  <Locality>Humedal Jaboque, ciudad de Bogota</Locality>
+  <Latitude>4.7075</Latitude>
+  <Longitude>-74.1278</Longitude>
+  <Elevation>2600</Elevation>
+  <Author>Oswaldo Cortes</Author>
+  <AuthorID>VVDRVZCVWW</AuthorID>
+  <Content>call</Content>
+  <Comments />
+  <Quality>3</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Troglodytidae</Family>
+  <Genus>Cistothorus</Genus>
+  <Species>apolinari</Species>
+  <Sub-species />
+  <VernacularNames>Apolinar's Wren</VernacularNames>
+</Audio>

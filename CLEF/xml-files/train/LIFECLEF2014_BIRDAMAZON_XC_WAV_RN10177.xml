@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>10177</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN10177.wav</FileName>
+  <ClassId>lwkbdk</ClassId>
+  <Date>2009-07-29</Date>
+  <Time>07:40</Time>
+  <Locality>Cristalina, Goiás</Locality>
+  <Latitude>-16.770686</Latitude>
+  <Longitude>-47.612</Longitude>
+  <Elevation>1.100</Elevation>
+  <Author>Nunes D´Acosta</Author>
+  <AuthorID>OHHTDSDNBT</AuthorID>
+  <Content>Fligth</Content>
+  <Comments>Área com plantações de soja, com fragmentos de  campo-limpo-Córrego Cristal.</Comments>
+  <Quality>2</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies />
+  <Order>Tinamiformes</Order>
+  <Family>Tinamidae</Family>
+  <Genus>Nothura</Genus>
+  <Species>maculosa</Species>
+  <Sub-species />
+  <VernacularNames>Spotted Nothura</VernacularNames>
+</Audio>

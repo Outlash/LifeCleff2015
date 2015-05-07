@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>20082</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN20082.wav</FileName>
+  <ClassId>xpclwf</ClassId>
+  <Date>2013-01-09</Date>
+  <Time>10:00</Time>
+  <Locality>La Pedregoza, Puerto Carreño, Vichada</Locality>
+  <Latitude>6.1132</Latitude>
+  <Longitude>-67.7137</Longitude>
+  <Elevation>60</Elevation>
+  <Author>Sandra V. Valderrama &amp; David W. Bradley</Author>
+  <AuthorID>UOHFLNETZD</AuthorID>
+  <Content>call</Content>
+  <Comments>bird-seen:noplayback-used:no</Comments>
+  <Quality>1</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Icteridae</Family>
+  <Genus>Icterus</Genus>
+  <Species>cayanensis</Species>
+  <Sub-species>chrysocephalus</Sub-species>
+  <VernacularNames>Epaulet Oriole</VernacularNames>
+</Audio>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>22861</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN22861.wav</FileName>
+  <ClassId>qjwwgt</ClassId>
+  <Date>1991-01-26</Date>
+  <Time>?</Time>
+  <Locality>Arauca, Arauca, Caño Limón</Locality>
+  <Latitude>6.95</Latitude>
+  <Longitude>-71</Longitude>
+  <Elevation />
+  <Author>Gary Stiles (Colección de Sonidos Ambientales - Instituto Humboldt)</Author>
+  <AuthorID>XMFDPACYJN</AuthorID>
+  <Content>call</Content>
+  <Comments>BSA 10679To obtain a wav file of the original recording, please contact csa@humboldt.org.cobird-seen:noplayback-used:no</Comments>
+  <Quality>2</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Accipitriformes</Order>
+  <Family>Accipitridae</Family>
+  <Genus>Buteogallus</Genus>
+  <Species>urubitinga</Species>
+  <Sub-species />
+  <VernacularNames>Great Black Hawk</VernacularNames>
+</Audio>

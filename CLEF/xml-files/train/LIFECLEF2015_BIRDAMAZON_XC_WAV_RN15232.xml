@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>15232</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN15232.wav</FileName>
+  <ClassId>rdnizg</ClassId>
+  <Date>2005-07-05</Date>
+  <Time>9:50</Time>
+  <Locality>PNN Chingaza, sector Palacio</Locality>
+  <Latitude>4.5167</Latitude>
+  <Longitude>-73.7501</Longitude>
+  <Elevation>?</Elevation>
+  <Author>Oscar Laverde</Author>
+  <AuthorID>WKVKSVMNDZ</AuthorID>
+  <Content>call</Content>
+  <Comments />
+  <Quality>3</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Troglodytidae</Family>
+  <Genus>Cinnycerthia</Genus>
+  <Species>unirufa</Species>
+  <Sub-species />
+  <VernacularNames>Rufous Wren</VernacularNames>
+</Audio>

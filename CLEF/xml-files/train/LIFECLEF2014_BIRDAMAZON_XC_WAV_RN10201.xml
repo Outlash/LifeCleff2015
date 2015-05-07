@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>10201</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN10201.wav</FileName>
+  <ClassId>nntytu</ClassId>
+  <Date>2011-09-28</Date>
+  <Time>07:45</Time>
+  <Locality>Cristalino Jungle Lodge, MT</Locality>
+  <Latitude>-9.5981</Latitude>
+  <Longitude>-55.932</Longitude>
+  <Elevation>260</Elevation>
+  <Author>Eric DeFonso</Author>
+  <AuthorID>KTLCZCRCQX</AuthorID>
+  <Content>song</Content>
+  <Comments>Extended cut of somewhat distant, unseen bird along the Taboca trail, singing in undergrowth in terra firme forest.bird-seen:noplayback-used:no</Comments>
+  <Quality>2</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Thamnophilidae</Family>
+  <Genus>Pyriglena</Genus>
+  <Species>leuconota</Species>
+  <Sub-species />
+  <VernacularNames>White-backed Fire-eye</VernacularNames>
+</Audio>

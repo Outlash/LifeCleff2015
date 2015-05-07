@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>31264</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN31264.wav</FileName>
+  <ClassId>ejtezg</ClassId>
+  <Date>2012-03-00</Date>
+  <Time>07:00</Time>
+  <Locality>Montezuma Peak Road, Pueblo Rico, Risaralda, W Andes - Tatama National Park</Locality>
+  <Latitude>5.2431</Latitude>
+  <Longitude>-76.0964</Longitude>
+  <Elevation>2500</Elevation>
+  <Author>David Edwards</Author>
+  <AuthorID>AFEHYCAHZR</AuthorID>
+  <Content>call</Content>
+  <Comments>playback-used:no</Comments>
+  <Quality>2</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Troglodytidae</Family>
+  <Genus>Henicorhina</Genus>
+  <Species>negreti</Species>
+  <Sub-species />
+  <VernacularNames>Munchique Wood Wren</VernacularNames>
+</Audio>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>973</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN973.wav</FileName>
+  <ClassId>jefgxc</ClassId>
+  <Date>1998-01-20</Date>
+  <Time>07:17</Time>
+  <Locality>Ubatuba. Fazenda Cambucá</Locality>
+  <Latitude>-23.4001</Latitude>
+  <Longitude>-45.01</Longitude>
+  <Elevation>30</Elevation>
+  <Author>Jeremy Minns</Author>
+  <AuthorID>DGVLLRYDXS</AuthorID>
+  <Content>call</Content>
+  <Comments>Edge of humid forest. Two takes, natural and after playback.</Comments>
+  <Quality>2</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies>Vireo olivaceus</BackgroundSpecies>
+  <Order>Piciformes</Order>
+  <Family>Galbulidae</Family>
+  <Genus>Galbula</Genus>
+  <Species>ruficauda</Species>
+  <Sub-species>rufoviridis</Sub-species>
+  <VernacularNames>Rufous-tailed Jacamar</VernacularNames>
+</Audio>

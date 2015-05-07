@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>32797</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN32797.wav</FileName>
+  <ClassId>zzralp</ClassId>
+  <Date>2012-04-15</Date>
+  <Time>09:31</Time>
+  <Locality>San Lorenzo Ridge, Santa Marta Mts, Magdalena</Locality>
+  <Latitude>11.1237</Latitude>
+  <Longitude>-74.0614</Longitude>
+  <Elevation>2500</Elevation>
+  <Author>Jeremy Minns</Author>
+  <AuthorID>DGVLLRYDXS</AuthorID>
+  <Content>Song</Content>
+  <Comments>Edge of high altitude montane forest. After playback.</Comments>
+  <Quality>1</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Thraupidae</Family>
+  <Genus>Dubusia</Genus>
+  <Species>taeniata</Species>
+  <Sub-species>carrikeri</Sub-species>
+  <VernacularNames>Buff-breasted Mountain Tanager</VernacularNames>
+</Audio>

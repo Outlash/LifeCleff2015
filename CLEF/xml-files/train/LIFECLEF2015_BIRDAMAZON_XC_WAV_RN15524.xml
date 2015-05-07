@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>15524</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN15524.wav</FileName>
+  <ClassId>zuweoe</ClassId>
+  <Date>2008-05-19</Date>
+  <Time>06:30</Time>
+  <Locality>Dianópolis, Tocantins State</Locality>
+  <Latitude>-11.6278</Latitude>
+  <Longitude>-46.8206</Longitude>
+  <Elevation>600</Elevation>
+  <Author>Advaldo D. Prado</Author>
+  <AuthorID>LUMSAVGFDA</AuthorID>
+  <Content>Call</Content>
+  <Comments />
+  <Quality>1</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Thraupidae</Family>
+  <Genus>Compsothraupis</Genus>
+  <Species>loricata</Species>
+  <Sub-species />
+  <VernacularNames>Scarlet-throated Tanager</VernacularNames>
+</Audio>

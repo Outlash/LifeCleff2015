@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>31826</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN31826.wav</FileName>
+  <ClassId>mexmxs</ClassId>
+  <Date>2010-10-03</Date>
+  <Time>?</Time>
+  <Locality>Mont Itoupé</Locality>
+  <Latitude>3.01667</Latitude>
+  <Longitude>-53.0667</Longitude>
+  <Elevation>700</Elevation>
+  <Author>Alexandre Renaudier</Author>
+  <AuthorID>GKADEITXTH</AuthorID>
+  <Content>song</Content>
+  <Comments>in response to playback</Comments>
+  <Quality>1</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies>Lipaugus vociferans,Microbates collaris,Procnias albus,Querula purpurata</BackgroundSpecies>
+  <Order>Passeriformes</Order>
+  <Family>Furnariidae</Family>
+  <Genus>Automolus</Genus>
+  <Species>rubiginosus</Species>
+  <Sub-species />
+  <VernacularNames>Ruddy Foliage-gleaner</VernacularNames>
+</Audio>

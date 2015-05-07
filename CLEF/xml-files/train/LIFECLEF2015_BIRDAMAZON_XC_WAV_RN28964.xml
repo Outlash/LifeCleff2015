@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>28964</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN28964.wav</FileName>
+  <ClassId>busuhu</ClassId>
+  <Date>2005-06-27</Date>
+  <Time>5:51</Time>
+  <Locality>La Playa de Belen, ANUC Los Estoraques, Sector Piritama, Norte de Santander</Locality>
+  <Latitude>8.2167</Latitude>
+  <Longitude>-73.2334</Longitude>
+  <Elevation>1650</Elevation>
+  <Author>Oscar Laverde</Author>
+  <AuthorID>WKVKSVMNDZ</AuthorID>
+  <Content>song</Content>
+  <Comments />
+  <Quality>0</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Tyrannidae</Family>
+  <Genus>Atalotriccus</Genus>
+  <Species>pilaris</Species>
+  <Sub-species />
+  <VernacularNames>Pale-eyed Pygmy Tyrant</VernacularNames>
+</Audio>

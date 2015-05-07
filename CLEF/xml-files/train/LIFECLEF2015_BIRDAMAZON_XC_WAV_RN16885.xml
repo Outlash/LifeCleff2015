@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>16885</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN16885.wav</FileName>
+  <ClassId>ftvesx</ClassId>
+  <Date>2014-09-06</Date>
+  <Time>07:00</Time>
+  <Locality>Pueblo El Hatillo, San Juan de Capistrano, Anzoategui</Locality>
+  <Latitude>10.1234</Latitude>
+  <Longitude>-65.3668</Longitude>
+  <Elevation>0</Elevation>
+  <Author>Thore Noernberg</Author>
+  <AuthorID>TTSQGWDDGW</AuthorID>
+  <Content>flight call, song</Content>
+  <Comments>a couple perching close to the ground in a almendron bush and flying off - windy morning at the dune area of the beach bird-seen:yesplayback-used:no</Comments>
+  <Quality>2</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Psittaciformes</Order>
+  <Family>Psittacidae</Family>
+  <Genus>Thectocercus</Genus>
+  <Species>acuticaudatus</Species>
+  <Sub-species>koenigi</Sub-species>
+  <VernacularNames>Blue-crowned Parakeet</VernacularNames>
+</Audio>

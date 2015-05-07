@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>9822</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN9822.wav</FileName>
+  <ClassId>ephxxx</ClassId>
+  <Date>2008-12-30</Date>
+  <Time>13:45</Time>
+  <Locality>Curucutu Nucleus, State Park of the Serra do Mar -City: Itanhaém, São Paulo State</Locality>
+  <Latitude>-24.0398</Latitude>
+  <Longitude>-46.7762</Longitude>
+  <Elevation>50</Elevation>
+  <Author>Marcos Melo</Author>
+  <AuthorID>MRGDYNJGUJ</AuthorID>
+  <Content>call</Content>
+  <Comments />
+  <Quality>1</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies>Cacicus haemorrhous</BackgroundSpecies>
+  <Order>Passeriformes</Order>
+  <Family>Tyrannidae</Family>
+  <Genus>Legatus</Genus>
+  <Species>leucophaius</Species>
+  <Sub-species />
+  <VernacularNames>Piratic Flycatcher</VernacularNames>
+</Audio>

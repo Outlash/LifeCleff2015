@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>7376</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN7376.wav</FileName>
+  <ClassId>dawwtj</ClassId>
+  <Date>2006-08-14</Date>
+  <Time>13:30</Time>
+  <Locality>Reserva Ecológica de Guapiaçu, RJ</Locality>
+  <Latitude>-22.5001</Latitude>
+  <Longitude>-42.7167</Longitude>
+  <Elevation>?</Elevation>
+  <Author>Leonardo Pimentel</Author>
+  <AuthorID>JHBOHGJALL</AuthorID>
+  <Content>call, song</Content>
+  <Comments />
+  <Quality>2</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies>Vireo olivaceus,Dacnis cayana,Procnias nudicollis</BackgroundSpecies>
+  <Order>Trogoniformes</Order>
+  <Family>Trogonidae</Family>
+  <Genus>Trogon</Genus>
+  <Species>surrucura</Species>
+  <Sub-species />
+  <VernacularNames>Surucua Trogon</VernacularNames>
+</Audio>

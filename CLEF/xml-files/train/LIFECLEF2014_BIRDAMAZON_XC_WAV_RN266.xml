@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>266</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN266.wav</FileName>
+  <ClassId>dykocx</ClassId>
+  <Date>2008-09-14</Date>
+  <Time>11:16</Time>
+  <Locality>Reserva Biológica do Mato Grande - Arroio Grande, Rio Grande do Sul</Locality>
+  <Latitude>-32.1503</Latitude>
+  <Longitude>-52.7364</Longitude>
+  <Elevation>0</Elevation>
+  <Author>Fernando Jacobs</Author>
+  <AuthorID>MHHPJBCUXC</AuthorID>
+  <Content>duet, song</Content>
+  <Comments />
+  <Quality>2</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies />
+  <Order>Gruiformes</Order>
+  <Family>Rallidae</Family>
+  <Genus>Laterallus</Genus>
+  <Species>melanophaius</Species>
+  <Sub-species />
+  <VernacularNames>Rufous-sided Crake</VernacularNames>
+</Audio>

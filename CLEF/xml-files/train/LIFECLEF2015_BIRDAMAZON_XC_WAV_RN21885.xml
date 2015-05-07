@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>21885</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN21885.wav</FileName>
+  <ClassId>ikydur</ClassId>
+  <Date>2014-08-21</Date>
+  <Time>09:30</Time>
+  <Locality>Rogitama (Reserva Principe de Arcabuco)</Locality>
+  <Latitude>5.7796</Latitude>
+  <Longitude>-73.4464</Longitude>
+  <Elevation>2600</Elevation>
+  <Author>Oswaldo Cortes</Author>
+  <AuthorID>VVDRVZCVWW</AuthorID>
+  <Content>male, song</Content>
+  <Comments>bird-seen:yesplayback-used:no</Comments>
+  <Quality>3</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Apodiformes</Order>
+  <Family>Trochilidae</Family>
+  <Genus>Campylopterus</Genus>
+  <Species>falcatus</Species>
+  <Sub-species />
+  <VernacularNames>Lazuline Sabrewing</VernacularNames>
+</Audio>

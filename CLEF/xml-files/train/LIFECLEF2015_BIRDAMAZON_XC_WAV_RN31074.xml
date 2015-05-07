@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>31074</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN31074.wav</FileName>
+  <ClassId>zqzulo</ClassId>
+  <Date>1996-09-01</Date>
+  <Time>06:45</Time>
+  <Locality>Ubatuba, SP. Folha Seca.</Locality>
+  <Latitude>-23.5001</Latitude>
+  <Longitude>-45.2167</Longitude>
+  <Elevation>30</Elevation>
+  <Author>Jeremy Minns</Author>
+  <AuthorID>DGVLLRYDXS</AuthorID>
+  <Content>duet, song</Content>
+  <Comments>Same place. Natural.</Comments>
+  <Quality>2</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies>Thamnophilus caerulescens,Pyriglena leucoptera,Pachyramphus castaneus,Ramphocelus bresilius</BackgroundSpecies>
+  <Order>Gruiformes</Order>
+  <Family>Rallidae</Family>
+  <Genus>Amaurolimnas</Genus>
+  <Species>concolor</Species>
+  <Sub-species>castaneus</Sub-species>
+  <VernacularNames>Uniform Crake</VernacularNames>
+</Audio>

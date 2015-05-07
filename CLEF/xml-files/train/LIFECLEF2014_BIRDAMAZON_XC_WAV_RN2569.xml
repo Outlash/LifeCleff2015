@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>2569</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN2569.wav</FileName>
+  <ClassId>mkqlxe</ClassId>
+  <Date>2013-05-03</Date>
+  <Time>11:00</Time>
+  <Locality>Serra do Mar State Park. Cunha</Locality>
+  <Latitude>-23.267</Latitude>
+  <Longitude>-45.028</Longitude>
+  <Elevation>1100</Elevation>
+  <Author>Antonio Silveira</Author>
+  <AuthorID>NBJQSQJRYH</AuthorID>
+  <Content>call, male</Content>
+  <Comments>bird-seen:yesplayback-used:no</Comments>
+  <Quality>3</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Tyrannidae</Family>
+  <Genus>Myiozetetes</Genus>
+  <Species>similis</Species>
+  <Sub-species />
+  <VernacularNames>Social Flycatcher</VernacularNames>
+</Audio>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>5880</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN5880.wav</FileName>
+  <ClassId>cvyifz</ClassId>
+  <Date>2007-12-15</Date>
+  <Time>9:50</Time>
+  <Locality>Parque Nacional da Serra do Itajaí</Locality>
+  <Latitude>NULL</Latitude>
+  <Longitude>NULL</Longitude>
+  <Elevation>300</Elevation>
+  <Author>Glauco Kohler</Author>
+  <AuthorID>JDNMEJOJEQ</AuthorID>
+  <Content>Song</Content>
+  <Comments />
+  <Quality>0</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies>Piprites chloris,Chiroxiphia caudata,Turdus albicollis</BackgroundSpecies>
+  <Order>Passeriformes</Order>
+  <Family>Cardinalidae</Family>
+  <Genus>Habia</Genus>
+  <Species>rubica</Species>
+  <Sub-species />
+  <VernacularNames>Red-crowned Ant Tanager</VernacularNames>
+</Audio>

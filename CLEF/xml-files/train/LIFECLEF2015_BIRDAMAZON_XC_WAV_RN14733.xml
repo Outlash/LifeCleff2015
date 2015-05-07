@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>14733</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN14733.wav</FileName>
+  <ClassId>irujdx</ClassId>
+  <Date>2000-07-03</Date>
+  <Time>09:00</Time>
+  <Locality>Barrio El Poblado (alrededores de San Gil), Vereda Buenos Aires, municipio San Gil, Santander</Locality>
+  <Latitude>NULL</Latitude>
+  <Longitude>NULL</Longitude>
+  <Elevation>1100</Elevation>
+  <Author>Bernabe Lopez-Lanus</Author>
+  <AuthorID>BYLLSJRVDZ</AuthorID>
+  <Content>Call</Content>
+  <Comments />
+  <Quality>2</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Parulidae</Family>
+  <Genus>Basileuterus</Genus>
+  <Species>rufifrons</Species>
+  <Sub-species />
+  <VernacularNames>Rufous-capped Warbler</VernacularNames>
+</Audio>

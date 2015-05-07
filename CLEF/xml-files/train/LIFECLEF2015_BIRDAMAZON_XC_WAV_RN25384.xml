@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>25384</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN25384.wav</FileName>
+  <ClassId>lzezgo</ClassId>
+  <Date>2012-03-03</Date>
+  <Time>11:55</Time>
+  <Locality>Municipio El Calvario (Meta)</Locality>
+  <Latitude>4.368</Latitude>
+  <Longitude>-73.727</Longitude>
+  <Elevation>2100</Elevation>
+  <Author>Oswaldo Cortes</Author>
+  <AuthorID>VVDRVZCVWW</AuthorID>
+  <Content>song</Content>
+  <Comments />
+  <Quality>3</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Rhinocryptidae</Family>
+  <Genus>Scytalopus</Genus>
+  <Species>latrans</Species>
+  <Sub-species />
+  <VernacularNames>Blackish Tapaculo</VernacularNames>
+</Audio>

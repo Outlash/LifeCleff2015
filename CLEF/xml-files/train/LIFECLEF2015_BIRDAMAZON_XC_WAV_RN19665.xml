@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>19665</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN19665.wav</FileName>
+  <ClassId>szaokc</ClassId>
+  <Date>2006-08-11</Date>
+  <Time>11:09</Time>
+  <Locality>Rio Uraricoara, Roraima</Locality>
+  <Latitude>3.4676</Latitude>
+  <Longitude>-60.9112</Longitude>
+  <Elevation>80</Elevation>
+  <Author>Rolf A. de By</Author>
+  <AuthorID>PTYTXQRLSZ</AuthorID>
+  <Content>song</Content>
+  <Comments />
+  <Quality>2</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Vireonidae</Family>
+  <Genus>Hylophilus</Genus>
+  <Species>pectoralis</Species>
+  <Sub-species />
+  <VernacularNames>Ashy-headed Greenlet</VernacularNames>
+</Audio>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>12046</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN12046.wav</FileName>
+  <ClassId>athqge</ClassId>
+  <Date>2006-11-20</Date>
+  <Time>09:30</Time>
+  <Locality>Tucuruí dam, right margin of the lake, state of Pará</Locality>
+  <Latitude>-4.2327</Latitude>
+  <Longitude>-49.41194</Longitude>
+  <Elevation>70</Elevation>
+  <Author>Sidnei de Melo Dantas</Author>
+  <AuthorID>NNCKQMBGPH</AuthorID>
+  <Content>call</Content>
+  <Comments>edge of forest, in undergrowth</Comments>
+  <Quality>2</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies>Ramphastos tucanus,Cercomacra cinerascens</BackgroundSpecies>
+  <Order>Passeriformes</Order>
+  <Family>Thamnophilidae</Family>
+  <Genus>Thamnophilus</Genus>
+  <Species>amazonicus</Species>
+  <Sub-species />
+  <VernacularNames>Amazonian Antshrike</VernacularNames>
+</Audio>

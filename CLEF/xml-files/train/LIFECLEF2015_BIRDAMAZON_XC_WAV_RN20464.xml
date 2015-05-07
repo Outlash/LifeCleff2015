@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>20464</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN20464.wav</FileName>
+  <ClassId>ltwgth</ClassId>
+  <Date>2007-07-00</Date>
+  <Time>09:15</Time>
+  <Locality>Cristalino Jungle Lodge, MT</Locality>
+  <Latitude>-9.5981</Latitude>
+  <Longitude>-55.932</Longitude>
+  <Elevation>?</Elevation>
+  <Author>Eduardo Patrial</Author>
+  <AuthorID>QEFRRVCRRP</AuthorID>
+  <Content>song</Content>
+  <Comments>Taboca Trail</Comments>
+  <Quality>3</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Tityridae</Family>
+  <Genus>Laniocera</Genus>
+  <Species>hypopyrra</Species>
+  <Sub-species />
+  <VernacularNames>Cinereous Mourner</VernacularNames>
+</Audio>

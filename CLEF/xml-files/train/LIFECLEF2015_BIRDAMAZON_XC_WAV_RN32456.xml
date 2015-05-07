@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>32456</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN32456.wav</FileName>
+  <ClassId>tmmseh</ClassId>
+  <Date>2006-11-00</Date>
+  <Time>?:?</Time>
+  <Locality>Hato La Fe</Locality>
+  <Latitude>NULL</Latitude>
+  <Longitude>NULL</Longitude>
+  <Elevation>150</Elevation>
+  <Author>David Edwards</Author>
+  <AuthorID>AFEHYCAHZR</AuthorID>
+  <Content>call</Content>
+  <Comments />
+  <Quality>2</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Opisthocomiformes</Order>
+  <Family>Opisthocomidae</Family>
+  <Genus>Opisthocomus</Genus>
+  <Species>hoazin</Species>
+  <Sub-species />
+  <VernacularNames>Hoatzin</VernacularNames>
+</Audio>

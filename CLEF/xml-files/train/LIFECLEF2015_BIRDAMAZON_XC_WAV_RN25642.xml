@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>25642</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN25642.wav</FileName>
+  <ClassId>bcmlba</ClassId>
+  <Date>2011-08-15</Date>
+  <Time>08:00</Time>
+  <Locality>Parque Natural Sumapaz, Laguna de Chisaca</Locality>
+  <Latitude>NULL</Latitude>
+  <Longitude>NULL</Longitude>
+  <Elevation>3800</Elevation>
+  <Author>Oswaldo Cortes</Author>
+  <AuthorID>VVDRVZCVWW</AuthorID>
+  <Content>song</Content>
+  <Comments />
+  <Quality>3</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Charadriiformes</Order>
+  <Family>Scolopacidae</Family>
+  <Genus>Tringa</Genus>
+  <Species>flavipes</Species>
+  <Sub-species />
+  <VernacularNames>Lesser Yellowlegs</VernacularNames>
+</Audio>

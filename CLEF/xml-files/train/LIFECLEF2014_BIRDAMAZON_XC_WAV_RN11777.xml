@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>11777</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN11777.wav</FileName>
+  <ClassId>azrobg</ClassId>
+  <Date>2002-07-24</Date>
+  <Time>07:20</Time>
+  <Locality>Boa Nova, Wet Forest, state of Bahia</Locality>
+  <Latitude>-14.3834</Latitude>
+  <Longitude>-40.1001</Longitude>
+  <Elevation>825</Elevation>
+  <Author>Jeremy Minns</Author>
+  <AuthorID>DGVLLRYDXS</AuthorID>
+  <Content>Song</Content>
+  <Comments>Humid forest.</Comments>
+  <Quality>1</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies>Drymophila ferruginea,Phylloscartes oustaleti,Capsiempis flaveola,Colonia colonus,Sirystes sibilator,Pachyramphus castaneus,Cyclarhis gujanensis,Pheugopedius genibarbis,Basileuterus culicivorus</BackgroundSpecies>
+  <Order>Passeriformes</Order>
+  <Family>Thamnophilidae</Family>
+  <Genus>Herpsilochmus</Genus>
+  <Species>rufimarginatus</Species>
+  <Sub-species>rufimarginatus</Sub-species>
+  <VernacularNames>Rufous-winged Antwren</VernacularNames>
+</Audio>

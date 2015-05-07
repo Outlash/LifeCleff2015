@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>18356</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN18356.wav</FileName>
+  <ClassId>uqmxmf</ClassId>
+  <Date>2000-03-04</Date>
+  <Time>am</Time>
+  <Locality>Humedal de La Conejera (Bogota), Cundinamarca</Locality>
+  <Latitude>NULL</Latitude>
+  <Longitude>NULL</Longitude>
+  <Elevation>2600</Elevation>
+  <Author>Bernabe Lopez-Lanus</Author>
+  <AuthorID>BYLLSJRVDZ</AuthorID>
+  <Content>call, song</Content>
+  <Comments />
+  <Quality>1</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Icteridae</Family>
+  <Genus>Chrysomus</Genus>
+  <Species>icterocephalus</Species>
+  <Sub-species />
+  <VernacularNames>Yellow-hooded Blackbird</VernacularNames>
+</Audio>

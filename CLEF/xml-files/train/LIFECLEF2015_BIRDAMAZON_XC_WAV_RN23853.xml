@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>23853</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN23853.wav</FileName>
+  <ClassId>ottart</ClassId>
+  <Date>2007-11-07</Date>
+  <Time>14:00</Time>
+  <Locality>Parque Regional Barbas-Bremen, Filandia, Quindio. Sector Bremen-La Popa</Locality>
+  <Latitude>4.6717</Latitude>
+  <Longitude>-75.6283</Longitude>
+  <Elevation>1800</Elevation>
+  <Author>Oscar Humberto Marin-Gomez</Author>
+  <AuthorID>CSUHASNRSU</AuthorID>
+  <Content>Disstres call, bird in hand, call, male</Content>
+  <Comments>OHM 004B 0525. Capturado en interior de bosque. 30cm del Mic. Vocalización Natural. Cerca al campamento Bremenbird-seen:yesplayback-used:no</Comments>
+  <Quality>1</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Piciformes</Order>
+  <Family>Ramphastidae</Family>
+  <Genus>Aulacorhynchus</Genus>
+  <Species>haematopygus</Species>
+  <Sub-species />
+  <VernacularNames>Crimson-rumped Toucanet</VernacularNames>
+</Audio>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>10469</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN10469.wav</FileName>
+  <ClassId>nhvrzu</ClassId>
+  <Date>2005-10-29</Date>
+  <Time>06:15</Time>
+  <Locality>Serra dos Carajás. Grota Funda road</Locality>
+  <Latitude>-5.9642</Latitude>
+  <Longitude>-50.3653</Longitude>
+  <Elevation>240</Elevation>
+  <Author>Jeremy Minns</Author>
+  <AuthorID>DGVLLRYDXS</AuthorID>
+  <Content>Song</Content>
+  <Comments>Terra firme forest.</Comments>
+  <Quality>1</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Thamnophilidae</Family>
+  <Genus>Thamnophilus</Genus>
+  <Species>stictocephalus</Species>
+  <Sub-species>stictocephalus</Sub-species>
+  <VernacularNames>Natterer's Slaty Antshrike</VernacularNames>
+</Audio>

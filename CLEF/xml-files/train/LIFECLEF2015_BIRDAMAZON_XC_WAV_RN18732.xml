@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>18732</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN18732.wav</FileName>
+  <ClassId>rxaqum</ClassId>
+  <Date>2012-11-26</Date>
+  <Time>07:21</Time>
+  <Locality>Brownsberg Natuurpark, Brokopondo</Locality>
+  <Latitude>4.9459</Latitude>
+  <Longitude>-55.183</Longitude>
+  <Elevation>480</Elevation>
+  <Author>Jon King</Author>
+  <AuthorID>LNEEOOWCQR</AuthorID>
+  <Content>call, female</Content>
+  <Comments>Distance to mic. 10m. Call of (presumed) female perched on angled branch 1m above ground having been flushed from forest floor. Male audible singing in background. Pair subsequently seen moving together.bird-seen:yesplayback-used:no</Comments>
+  <Quality>2</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Grallariidae</Family>
+  <Genus>Myrmothera</Genus>
+  <Species>campanisona</Species>
+  <Sub-species />
+  <VernacularNames>Thrush-like Antpitta</VernacularNames>
+</Audio>

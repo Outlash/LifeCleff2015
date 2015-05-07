@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>28802</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN28802.wav</FileName>
+  <ClassId>yesktg</ClassId>
+  <Date>1998-11-25</Date>
+  <Time>12:27</Time>
+  <Locality>Pantanos del Quindio (Paramillo del Quindio), PN Los Nevados, Quindio</Locality>
+  <Latitude>NULL</Latitude>
+  <Longitude>NULL</Longitude>
+  <Elevation>4200</Elevation>
+  <Author>Bernabe Lopez-Lanus</Author>
+  <AuthorID>BYLLSJRVDZ</AuthorID>
+  <Content>Song</Content>
+  <Comments />
+  <Quality>2</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Fringillidae</Family>
+  <Genus>Spinus</Genus>
+  <Species>spinescens</Species>
+  <Sub-species />
+  <VernacularNames>Andean Siskin</VernacularNames>
+</Audio>

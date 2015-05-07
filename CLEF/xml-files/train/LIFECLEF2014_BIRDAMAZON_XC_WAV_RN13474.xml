@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>13474</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN13474.wav</FileName>
+  <ClassId>pswzyj</ClassId>
+  <Date>2010-01-16</Date>
+  <Time>08:45</Time>
+  <Locality>Salseiro, Vidal Ramos, Santa Catarina</Locality>
+  <Latitude>-27.39726</Latitude>
+  <Longitude>-49.379082</Longitude>
+  <Elevation>550</Elevation>
+  <Author>Evair Legal</Author>
+  <AuthorID>SMJXFKLATM</AuthorID>
+  <Content>song</Content>
+  <Comments />
+  <Quality>2</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Vireonidae</Family>
+  <Genus>Vireo</Genus>
+  <Species>olivaceus</Species>
+  <Sub-species />
+  <VernacularNames>Red-eyed Vireo</VernacularNames>
+</Audio>

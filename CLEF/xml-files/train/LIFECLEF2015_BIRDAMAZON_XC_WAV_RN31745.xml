@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>31745</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN31745.wav</FileName>
+  <ClassId>ffwvot</ClassId>
+  <Date>2011-11-28</Date>
+  <Time>09 00</Time>
+  <Locality>VPNN Isla de Salamanca</Locality>
+  <Latitude>10.981</Latitude>
+  <Longitude>-74.727</Longitude>
+  <Elevation>25</Elevation>
+  <Author>Walberto Naranjo</Author>
+  <AuthorID>CHKLMNWCZI</AuthorID>
+  <Content>song</Content>
+  <Comments />
+  <Quality>3</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Furnariidae</Family>
+  <Genus>Certhiaxis</Genus>
+  <Species>cinnamomeus</Species>
+  <Sub-species />
+  <VernacularNames>Yellow-chinned Spinetail</VernacularNames>
+</Audio>

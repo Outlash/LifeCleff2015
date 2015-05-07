@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>20992</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN20992.wav</FileName>
+  <ClassId>veiywt</ClassId>
+  <Date>2007-11-17</Date>
+  <Time>09:30</Time>
+  <Locality>Cueva Del Condor, Doradal, Antioquia</Locality>
+  <Latitude>5.922045</Latitude>
+  <Longitude>-74.823761</Longitude>
+  <Elevation>600</Elevation>
+  <Author>Diego Calderon-F.</Author>
+  <AuthorID>OGATBVKNAG</AuthorID>
+  <Content>call</Content>
+  <Comments>Perched in the top of a tree in the border of a forest and pasture</Comments>
+  <Quality>2</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Accipitriformes</Order>
+  <Family>Accipitridae</Family>
+  <Genus>Buteo</Genus>
+  <Species>nitidus</Species>
+  <Sub-species />
+  <VernacularNames>Grey-lined Hawk</VernacularNames>
+</Audio>

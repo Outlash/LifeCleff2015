@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>4808</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN4808.wav</FileName>
+  <ClassId>gwzyoa</ClassId>
+  <Date>2009-08-16</Date>
+  <Time>am</Time>
+  <Locality>Floresta Nacional de Carajás, PA</Locality>
+  <Latitude>NULL</Latitude>
+  <Longitude>NULL</Longitude>
+  <Elevation>?</Elevation>
+  <Author>Eduardo Patrial</Author>
+  <AuthorID>QEFRRVCRRP</AuthorID>
+  <Content>song</Content>
+  <Comments />
+  <Quality>1</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Thamnophilidae</Family>
+  <Genus>Hylophylax</Genus>
+  <Species>naevius</Species>
+  <Sub-species />
+  <VernacularNames>Spot-backed Antbird</VernacularNames>
+</Audio>

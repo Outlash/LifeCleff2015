@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>22841</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN22841.wav</FileName>
+  <ClassId>yjsier</ClassId>
+  <Date>2011-03-13</Date>
+  <Time>08:25</Time>
+  <Locality>Reserva Natural Cerro El Ingles, Valle del Cauca</Locality>
+  <Latitude>4.7417</Latitude>
+  <Longitude>-76.2962</Longitude>
+  <Elevation>2100</Elevation>
+  <Author>Oscar Humberto Marin-Gomez</Author>
+  <AuthorID>CSUHASNRSU</AuthorID>
+  <Content>song</Content>
+  <Comments>Ref: OHM71A 1351. Un individuo en interior de bosque, a 40m del mic. Bosque montano. Camino hacia La Florida. Vocalización Natural. Grabaciones junto con Diego Gomez Hoyos.bird-seen:noplayback-used:no</Comments>
+  <Quality>2</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Turdidae</Family>
+  <Genus>Turdus</Genus>
+  <Species>serranus</Species>
+  <Sub-species />
+  <VernacularNames>Glossy-black Thrush</VernacularNames>
+</Audio>

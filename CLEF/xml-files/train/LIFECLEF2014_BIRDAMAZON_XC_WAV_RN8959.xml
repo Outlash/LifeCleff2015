@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>8959</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN8959.wav</FileName>
+  <ClassId>cxxjnh</ClassId>
+  <Date>2005-06-26</Date>
+  <Time>09:30</Time>
+  <Locality>Taquara City Park - Duque de Caxias - RJ</Locality>
+  <Latitude>-22.5667</Latitude>
+  <Longitude>-43.2167</Longitude>
+  <Elevation>300</Elevation>
+  <Author>Ricardo Gagliardi</Author>
+  <AuthorID>YRDADNREOP</AuthorID>
+  <Content>song</Content>
+  <Comments />
+  <Quality>3</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Tityridae</Family>
+  <Genus>Pachyramphus</Genus>
+  <Species>marginatus</Species>
+  <Sub-species />
+  <VernacularNames>Black-capped Becard</VernacularNames>
+</Audio>

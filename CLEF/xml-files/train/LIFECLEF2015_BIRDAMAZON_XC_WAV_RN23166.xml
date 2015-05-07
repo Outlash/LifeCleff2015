@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>23166</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN23166.wav</FileName>
+  <ClassId>zmtiwk</ClassId>
+  <Date>2008-02-01</Date>
+  <Time>17:45</Time>
+  <Locality>Sierra Nevada de Santa Marta, Magdalena</Locality>
+  <Latitude>10.898042</Latitude>
+  <Longitude>-73.7677</Longitude>
+  <Elevation>1000</Elevation>
+  <Author>Herman van Oosten</Author>
+  <AuthorID>SNUDCZVUQK</AuthorID>
+  <Content>Song</Content>
+  <Comments>Bird not seen singing.</Comments>
+  <Quality>0</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Columbiformes</Order>
+  <Family>Columbidae</Family>
+  <Genus>Patagioenas</Genus>
+  <Species>speciosa</Species>
+  <Sub-species />
+  <VernacularNames>Scaled Pigeon</VernacularNames>
+</Audio>

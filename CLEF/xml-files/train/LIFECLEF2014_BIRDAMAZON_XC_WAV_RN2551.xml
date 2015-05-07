@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>2551</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN2551.wav</FileName>
+  <ClassId>thrclx</ClassId>
+  <Date>2003-04-02</Date>
+  <Time>07:31</Time>
+  <Locality>Comodoro, Mato Grosso</Locality>
+  <Latitude>-13.3001</Latitude>
+  <Longitude>-59.8001</Longitude>
+  <Elevation>600</Elevation>
+  <Author>Jeremy Minns</Author>
+  <AuthorID>DGVLLRYDXS</AuthorID>
+  <Content>Call</Content>
+  <Comments>Campinarana. Not seen vocalising but male seen after playback.</Comments>
+  <Quality>1</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Thamnophilidae</Family>
+  <Genus>Formicivora</Genus>
+  <Species>grisea</Species>
+  <Sub-species>grisea</Sub-species>
+  <VernacularNames>Southern White-fringed Antwren</VernacularNames>
+</Audio>

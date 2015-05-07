@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>20124</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN20124.wav</FileName>
+  <ClassId>smoutd</ClassId>
+  <Date>2008-01-09</Date>
+  <Time>07:00</Time>
+  <Locality>Parque Natural Cocuy</Locality>
+  <Latitude>NULL</Latitude>
+  <Longitude>NULL</Longitude>
+  <Elevation>4800</Elevation>
+  <Author>Oswaldo Cortes</Author>
+  <AuthorID>VVDRVZCVWW</AuthorID>
+  <Content>Song</Content>
+  <Comments />
+  <Quality>1</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Grallariidae</Family>
+  <Genus>Grallaria</Genus>
+  <Species>quitensis</Species>
+  <Sub-species />
+  <VernacularNames>Tawny Antpitta</VernacularNames>
+</Audio>

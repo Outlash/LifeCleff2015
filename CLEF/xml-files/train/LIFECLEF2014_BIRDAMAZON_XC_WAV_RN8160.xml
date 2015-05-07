@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>8160</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN8160.wav</FileName>
+  <ClassId>bbtkon</ClassId>
+  <Date>2006-02-02</Date>
+  <Time>09:00</Time>
+  <Locality>Km63 road off BR-174 north of Manaus, AM</Locality>
+  <Latitude>-2.4037</Latitude>
+  <Longitude>-60.01</Longitude>
+  <Elevation>100</Elevation>
+  <Author>Nick Athanas</Author>
+  <AuthorID>XRABICUARW</AuthorID>
+  <Content>call</Content>
+  <Comments>Male.</Comments>
+  <Quality>1</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies>Patagioenas plumbea</BackgroundSpecies>
+  <Order>Passeriformes</Order>
+  <Family>Thamnophilidae</Family>
+  <Genus>Percnostola</Genus>
+  <Species>rufifrons</Species>
+  <Sub-species>subcristata</Sub-species>
+  <VernacularNames>Black-headed Antbird</VernacularNames>
+</Audio>

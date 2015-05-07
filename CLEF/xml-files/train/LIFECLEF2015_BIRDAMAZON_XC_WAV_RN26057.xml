@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>26057</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN26057.wav</FileName>
+  <ClassId>drcmin</ClassId>
+  <Date>2007-01-08</Date>
+  <Time>12:30</Time>
+  <Locality>near Bruzual, Barinas</Locality>
+  <Latitude>NULL</Latitude>
+  <Longitude>NULL</Longitude>
+  <Elevation>?</Elevation>
+  <Author>Andrew Spencer</Author>
+  <AuthorID>CDTGHVBGZP</AuthorID>
+  <Content>song</Content>
+  <Comments>an alternate song type</Comments>
+  <Quality>1</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Thamnophilidae</Family>
+  <Genus>Sakesphorus</Genus>
+  <Species>canadensis</Species>
+  <Sub-species>intermedius</Sub-species>
+  <VernacularNames>Black-crested Antshrike</VernacularNames>
+</Audio>

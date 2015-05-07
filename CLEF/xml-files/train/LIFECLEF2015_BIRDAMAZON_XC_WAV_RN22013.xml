@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>22013</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN22013.wav</FileName>
+  <ClassId>lzezgo</ClassId>
+  <Date>2009-04-11</Date>
+  <Time>11:20</Time>
+  <Locality>Finca La Judea, Vereda Pedregales Alto, Génova, Quindio</Locality>
+  <Latitude>4.1543</Latitude>
+  <Longitude>-75.7191</Longitude>
+  <Elevation>3300</Elevation>
+  <Author>Oscar Humberto Marin-Gomez</Author>
+  <AuthorID>CSUHASNRSU</AuthorID>
+  <Content>call</Content>
+  <Comments>OHM060A. 1543.   Borde de bosque. 20m del mic.bird-seen:noplayback-used:no</Comments>
+  <Quality>3</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Rhinocryptidae</Family>
+  <Genus>Scytalopus</Genus>
+  <Species>latrans</Species>
+  <Sub-species />
+  <VernacularNames>Blackish Tapaculo</VernacularNames>
+</Audio>

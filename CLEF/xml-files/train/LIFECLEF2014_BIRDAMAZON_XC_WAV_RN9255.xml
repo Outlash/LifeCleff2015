@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>9255</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN9255.wav</FileName>
+  <ClassId>ppearp</ClassId>
+  <Date>2003-09-00</Date>
+  <Time>00:00</Time>
+  <Locality>Estação Ecológica de Murici, Alagoas</Locality>
+  <Latitude>-9.3001</Latitude>
+  <Longitude>-35.9334</Longitude>
+  <Elevation>?</Elevation>
+  <Author>Todd Mark</Author>
+  <AuthorID>CLKPHLYUHA</AuthorID>
+  <Content>song?</Content>
+  <Comments>ID not certain</Comments>
+  <Quality>3</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Tyrannidae</Family>
+  <Genus>Tolmomyias</Genus>
+  <Species>flaviventris</Species>
+  <Sub-species />
+  <VernacularNames>Ochre-lored Flatbill</VernacularNames>
+</Audio>

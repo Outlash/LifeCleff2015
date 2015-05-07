@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>19004</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN19004.wav</FileName>
+  <ClassId>wsyiro</ClassId>
+  <Date>0000-00-00</Date>
+  <Time>?:?</Time>
+  <Locality>Department of Magdalena, Parque Nacional Natural Tayrona</Locality>
+  <Latitude>11.27</Latitude>
+  <Longitude>-74.05</Longitude>
+  <Elevation>?</Elevation>
+  <Author>Frank Lambert</Author>
+  <AuthorID>YTUXOCTUEM</AuthorID>
+  <Content>song</Content>
+  <Comments>Previously published on AVoCet as &lt;a href=http://avocet.zoology.msu.edu/recordings/9218&gt;AV9218&lt;/a&gt;.  Certainty: 100%.  ID determined by: not specifically indicated, recordist normally sees birds recorded and indicates if any question. GPS: GeoHack.</Comments>
+  <Quality>2</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Turdidae</Family>
+  <Genus>Turdus</Genus>
+  <Species>flavipes</Species>
+  <Sub-species />
+  <VernacularNames>Yellow-legged Thrush</VernacularNames>
+</Audio>

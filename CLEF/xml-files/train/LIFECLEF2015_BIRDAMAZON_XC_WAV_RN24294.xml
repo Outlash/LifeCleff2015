@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>24294</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN24294.wav</FileName>
+  <ClassId>iydjte</ClassId>
+  <Date>2010-04-05</Date>
+  <Time>?:?</Time>
+  <Locality>Chingaza NP</Locality>
+  <Latitude>4.747</Latitude>
+  <Longitude>-73.8559</Longitude>
+  <Elevation>?</Elevation>
+  <Author>Fabrice Schmitt</Author>
+  <AuthorID>FPAGKPAQYO</AuthorID>
+  <Content>call</Content>
+  <Comments>after playback</Comments>
+  <Quality>1</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Furnariidae</Family>
+  <Genus>Asthenes</Genus>
+  <Species>fuliginosa</Species>
+  <Sub-species>fuliginosa</Sub-species>
+  <VernacularNames>White-chinned Thistletail</VernacularNames>
+</Audio>

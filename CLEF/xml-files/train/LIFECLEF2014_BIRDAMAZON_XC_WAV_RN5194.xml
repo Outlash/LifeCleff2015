@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>5194</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN5194.wav</FileName>
+  <ClassId>xywqxu</ClassId>
+  <Date>2008-10-02</Date>
+  <Time>06:00</Time>
+  <Locality>south of Lagoa do Morro do Forno, Três Cachoeiras/Dom Pedro de Alcântara border, Rio Grande do Sul state [-29,39, -49,895]</Locality>
+  <Latitude>NULL</Latitude>
+  <Longitude>NULL</Longitude>
+  <Elevation>25</Elevation>
+  <Author>Glayson Ariel Bencke</Author>
+  <AuthorID>TTSZOASMDV</AuthorID>
+  <Content>solo song</Content>
+  <Comments>decapitated song</Comments>
+  <Quality>2</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies />
+  <Order>Falconiformes</Order>
+  <Family>Falconidae</Family>
+  <Genus>Herpetotheres</Genus>
+  <Species>cachinnans</Species>
+  <Sub-species />
+  <VernacularNames>Laughing Falcon</VernacularNames>
+</Audio>

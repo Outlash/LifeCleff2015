@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>26470</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN26470.wav</FileName>
+  <ClassId>zxedcd</ClassId>
+  <Date>2001-05-28</Date>
+  <Time>07:30</Time>
+  <Locality>Reserva Los Besotes_Vereda Los Besotes (Cerro Los Besotes), municipio Valledupar, Cesar</Locality>
+  <Latitude>NULL</Latitude>
+  <Longitude>NULL</Longitude>
+  <Elevation>800</Elevation>
+  <Author>Bernabe Lopez-Lanus</Author>
+  <AuthorID>BYLLSJRVDZ</AuthorID>
+  <Content>Song</Content>
+  <Comments />
+  <Quality>3</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Troglodytidae</Family>
+  <Genus>Pheugopedius</Genus>
+  <Species>rutilus</Species>
+  <Sub-species>laetus ?</Sub-species>
+  <VernacularNames>Rufous-breasted Wren</VernacularNames>
+</Audio>

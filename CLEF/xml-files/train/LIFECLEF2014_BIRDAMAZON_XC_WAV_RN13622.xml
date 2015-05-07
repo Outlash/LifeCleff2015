@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>13622</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN13622.wav</FileName>
+  <ClassId>tkfjdd</ClassId>
+  <Date>2008-11-16</Date>
+  <Time>05:45</Time>
+  <Locality>APA Capivari Monos, São Paulo, SP</Locality>
+  <Latitude>-23.955667</Latitude>
+  <Longitude>-46.650334</Longitude>
+  <Elevation>780</Elevation>
+  <Author>Marcos Melo</Author>
+  <AuthorID>MRGDYNJGUJ</AuthorID>
+  <Content>song</Content>
+  <Comments>After to imitate the vocalization with the mouth the species answered and flied on my head</Comments>
+  <Quality>3</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies>Zonotrichia capensis,Tyrannus melancholicus,Myiodynastes maculatus</BackgroundSpecies>
+  <Order>Caprimulgiformes</Order>
+  <Family>Caprimulgidae</Family>
+  <Genus>Lurocalis</Genus>
+  <Species>semitorquatus</Species>
+  <Sub-species />
+  <VernacularNames>Short-tailed Nighthawk</VernacularNames>
+</Audio>

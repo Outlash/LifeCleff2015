@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>24564</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN24564.wav</FileName>
+  <ClassId>jncsmg</ClassId>
+  <Date>2002-07-11</Date>
+  <Time>?</Time>
+  <Locality>Ecoparque Los Besotes, Valledupar, Cesar</Locality>
+  <Latitude>10.57525</Latitude>
+  <Longitude>-73.31055</Longitude>
+  <Elevation>500</Elevation>
+  <Author>Mauricio Álvarez Rebolledo (Colección de Sonidos Ambientales - Instituto Humboldt)</Author>
+  <AuthorID>XMFDPACYJN</AuthorID>
+  <Content>song</Content>
+  <Comments>BSA 9664To obtain a wav file of the original recording, please contact csa@humboldt.org.coplayback-used:no</Comments>
+  <Quality>1</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Psittaciformes</Order>
+  <Family>Psittacidae</Family>
+  <Genus>Ara</Genus>
+  <Species>militaris</Species>
+  <Sub-species />
+  <VernacularNames>Military Macaw</VernacularNames>
+</Audio>

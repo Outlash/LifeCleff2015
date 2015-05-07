@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>11323</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN11323.wav</FileName>
+  <ClassId>uvfjyo</ClassId>
+  <Date>2001-09-24</Date>
+  <Time>10:29</Time>
+  <Locality>Paratí. Patrimônio</Locality>
+  <Latitude>-23.3501</Latitude>
+  <Longitude>-44.7167</Longitude>
+  <Elevation>50</Elevation>
+  <Author>Jeremy Minns</Author>
+  <AuthorID>DGVLLRYDXS</AuthorID>
+  <Content>call, song</Content>
+  <Comments>Edge of humid forest. Male. These are Calls A and B in our DVD-ROM 'Birds of Brazil'.</Comments>
+  <Quality>2</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies>Brotogeris tirica</BackgroundSpecies>
+  <Order>Passeriformes</Order>
+  <Family>Thraupidae</Family>
+  <Genus>Hemithraupis</Genus>
+  <Species>ruficapilla</Species>
+  <Sub-species>ruficapilla</Sub-species>
+  <VernacularNames>Rufous-headed Tanager</VernacularNames>
+</Audio>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>909</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN909.wav</FileName>
+  <ClassId>jorqun</ClassId>
+  <Date>2006-04-09</Date>
+  <Time>14:34</Time>
+  <Locality>09001 Coqueiro - São Lourenço do Sul, Rio Grande do Sul</Locality>
+  <Latitude>-31.3653</Latitude>
+  <Longitude>-51.9784</Longitude>
+  <Elevation>100</Elevation>
+  <Author>Fernando Jacobs</Author>
+  <AuthorID>MHHPJBCUXC</AuthorID>
+  <Content>song</Content>
+  <Comments />
+  <Quality>0</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Thraupidae</Family>
+  <Genus>Volatinia</Genus>
+  <Species>jacarina</Species>
+  <Sub-species />
+  <VernacularNames>Blue-black Grassquit</VernacularNames>
+</Audio>

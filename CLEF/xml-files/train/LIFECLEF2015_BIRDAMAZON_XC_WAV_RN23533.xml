@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>23533</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN23533.wav</FileName>
+  <ClassId>zfacpp</ClassId>
+  <Date>2011-06-30</Date>
+  <Time>10:00</Time>
+  <Locality>Bellavista Reserve, Victoria, Caldas</Locality>
+  <Latitude>5.4309</Latitude>
+  <Longitude>-74.9159</Longitude>
+  <Elevation>950</Elevation>
+  <Author>Andrew Spencer</Author>
+  <AuthorID>CDTGHVBGZP</AuthorID>
+  <Content>song</Content>
+  <Comments>natural vocalization, song from a male bird, with two-three others singing nearby.</Comments>
+  <Quality>1</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Thamnophilidae</Family>
+  <Genus>Myrmeciza</Genus>
+  <Species>palliata</Species>
+  <Sub-species />
+  <VernacularNames>Magdalena Antbird</VernacularNames>
+</Audio>

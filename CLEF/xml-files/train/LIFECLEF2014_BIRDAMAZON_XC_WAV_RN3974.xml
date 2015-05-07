@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>3974</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN3974.wav</FileName>
+  <ClassId>nabmpi</ClassId>
+  <Date>2009-12-28</Date>
+  <Time>16:10</Time>
+  <Locality>Águas Claras, Brusque, Santa Catarina</Locality>
+  <Latitude>-27.144</Latitude>
+  <Longitude>-48.908</Longitude>
+  <Elevation>45</Elevation>
+  <Author>Evair Legal</Author>
+  <AuthorID>SMJXFKLATM</AuthorID>
+  <Content>song</Content>
+  <Comments />
+  <Quality>2</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Furnariidae</Family>
+  <Genus>Furnarius</Genus>
+  <Species>rufus</Species>
+  <Sub-species />
+  <VernacularNames>Rufous Hornero</VernacularNames>
+</Audio>

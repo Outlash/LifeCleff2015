@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>5907</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN5907.wav</FileName>
+  <ClassId>ggcbtt</ClassId>
+  <Date>2012-05-13</Date>
+  <Time>10:00</Time>
+  <Locality>Água Doce, Santa Catarina</Locality>
+  <Latitude>-26.6806</Latitude>
+  <Longitude>-51.7236</Longitude>
+  <Elevation>1200</Elevation>
+  <Author>Alexandre Bianco</Author>
+  <AuthorID>ODNEDFESFY</AuthorID>
+  <Content>alarm call, song</Content>
+  <Comments>bird-seen:yesplayback-used:no</Comments>
+  <Quality>1</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Corvidae</Family>
+  <Genus>Cyanocorax</Genus>
+  <Species>chrysops</Species>
+  <Sub-species />
+  <VernacularNames>Plush-crested Jay</VernacularNames>
+</Audio>

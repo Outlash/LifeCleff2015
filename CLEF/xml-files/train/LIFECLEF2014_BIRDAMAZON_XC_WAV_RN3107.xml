@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>3107</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN3107.wav</FileName>
+  <ClassId>zsqhks</ClassId>
+  <Date>2009-05-08</Date>
+  <Time>08:10</Time>
+  <Locality>Goiânia, Goias. Setor Jaó, Av. Maracanã Quadra 102.</Locality>
+  <Latitude>NULL</Latitude>
+  <Longitude>NULL</Longitude>
+  <Elevation>640</Elevation>
+  <Author>Nunes D'Acosta</Author>
+  <AuthorID>OHHTDSDNBT</AuthorID>
+  <Content>?</Content>
+  <Comments>Macho  circulando  em volta da femea e vocalizando.</Comments>
+  <Quality>2</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies />
+  <Order>Columbiformes</Order>
+  <Family>Columbidae</Family>
+  <Genus>Columbina</Genus>
+  <Species>squammata</Species>
+  <Sub-species />
+  <VernacularNames>Scaled Dove</VernacularNames>
+</Audio>

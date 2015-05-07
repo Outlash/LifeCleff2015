@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>5679</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN5679.wav</FileName>
+  <ClassId>nnuubm</ClassId>
+  <Date>2012-05-30</Date>
+  <Time>00:00:24</Time>
+  <Locality>Fazenda Santa Terezinha / Bofete / SP</Locality>
+  <Latitude>-23.0489</Latitude>
+  <Longitude>-48.1817</Longitude>
+  <Elevation>509</Elevation>
+  <Author>Cleusson Brusatti Bortoelto</Author>
+  <AuthorID>JEJVOEERCO</AuthorID>
+  <Content>?</Content>
+  <Comments>Fazenda Santa Terezinha / Bofete/SP</Comments>
+  <Quality>0</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Icteridae</Family>
+  <Genus>Pseudoleistes</Genus>
+  <Species>guirahuro</Species>
+  <Sub-species />
+  <VernacularNames>Yellow-rumped Marshbird</VernacularNames>
+</Audio>

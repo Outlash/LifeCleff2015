@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>32828</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN32828.wav</FileName>
+  <ClassId>lgdqns</ClassId>
+  <Date>2010-03-11</Date>
+  <Time>?</Time>
+  <Locality>Ouanary aircraft and digue</Locality>
+  <Latitude>4.215</Latitude>
+  <Longitude>-51.665</Longitude>
+  <Elevation>2</Elevation>
+  <Author>Renaudier Alexandre</Author>
+  <AuthorID>GKADEITXTH</AuthorID>
+  <Content>flight call</Content>
+  <Comments>2 birds in flight</Comments>
+  <Quality>1</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies>Cantorchilus leucotis</BackgroundSpecies>
+  <Order>Psittaciformes</Order>
+  <Family>Psittacidae</Family>
+  <Genus>Amazona</Genus>
+  <Species>amazonica</Species>
+  <Sub-species />
+  <VernacularNames>Orange-winged Amazon</VernacularNames>
+</Audio>

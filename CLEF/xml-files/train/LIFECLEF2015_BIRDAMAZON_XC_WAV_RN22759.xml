@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>22759</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN22759.wav</FileName>
+  <ClassId>vvablg</ClassId>
+  <Date>2014-03-07</Date>
+  <Time>11:30</Time>
+  <Locality>Bairro do Guaraú, Peruíbe, São Paulo State</Locality>
+  <Latitude>-24.3167</Latitude>
+  <Longitude>-47.01</Longitude>
+  <Elevation>10</Elevation>
+  <Author>Bruno Lima</Author>
+  <AuthorID>DVJCMXOTVL</AuthorID>
+  <Content>flight call</Content>
+  <Comments>bird-seen:yesplayback-used:no</Comments>
+  <Quality>1</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Apodiformes</Order>
+  <Family>Apodidae</Family>
+  <Genus>Chaetura</Genus>
+  <Species>cinereiventris</Species>
+  <Sub-species />
+  <VernacularNames>Grey-rumped Swift</VernacularNames>
+</Audio>

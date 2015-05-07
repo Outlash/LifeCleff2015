@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>22791</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN22791.wav</FileName>
+  <ClassId>vkdyyr</ClassId>
+  <Date>2007-11-12</Date>
+  <Time>06:00</Time>
+  <Locality>Parque Regional Barbas-Bremen, Filandia, Quindio. Sector Bremen-La Popa</Locality>
+  <Latitude>4.6717</Latitude>
+  <Longitude>-75.6283</Longitude>
+  <Elevation>1800</Elevation>
+  <Author>Oscar Humberto Marin-Gomez</Author>
+  <AuthorID>CSUHASNRSU</AuthorID>
+  <Content>Dawn song, flight call</Content>
+  <Comments>Ref: OHM005B 0235. Low Montane Forest. 25m distace to Mic. Natural Vocalization.bird-seen:yesplayback-used:no</Comments>
+  <Quality>1</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Apodiformes</Order>
+  <Family>Trochilidae</Family>
+  <Genus>Phaethornis</Genus>
+  <Species>guy</Species>
+  <Sub-species />
+  <VernacularNames>Green Hermit</VernacularNames>
+</Audio>

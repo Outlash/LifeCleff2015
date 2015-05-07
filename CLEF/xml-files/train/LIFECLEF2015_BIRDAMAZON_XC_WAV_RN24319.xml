@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>24319</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN24319.wav</FileName>
+  <ClassId>uvevgr</ClassId>
+  <Date>2013-06-25</Date>
+  <Time>09:00</Time>
+  <Locality>National Parks facilities, Santa Marta Mountains, Magdalena</Locality>
+  <Latitude>11.1116</Latitude>
+  <Longitude>-74.0553</Longitude>
+  <Elevation>2150</Elevation>
+  <Author>Diego Calderon-F.</Author>
+  <AuthorID>OGATBVKNAG</AuthorID>
+  <Content>song</Content>
+  <Comments>bird-seen:yesplayback-used:yes</Comments>
+  <Quality>1</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies>Colibri coruscans,Psittacara wagleri</BackgroundSpecies>
+  <Order>Passeriformes</Order>
+  <Family>Grallariidae</Family>
+  <Genus>Grallaria</Genus>
+  <Species>bangsi</Species>
+  <Sub-species />
+  <VernacularNames>Santa Marta Antpitta</VernacularNames>
+</Audio>

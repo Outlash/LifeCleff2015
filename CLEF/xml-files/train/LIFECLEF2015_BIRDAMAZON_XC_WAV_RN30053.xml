@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>30053</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN30053.wav</FileName>
+  <ClassId>ltetho</ClassId>
+  <Date>2013-11-15</Date>
+  <Time>09:00</Time>
+  <Locality>Reserva Biológica do Aguaí, Nova Veneza, Santa Catarina, Brazil</Locality>
+  <Latitude>-28.6494</Latitude>
+  <Longitude>-49.6695</Longitude>
+  <Elevation>320</Elevation>
+  <Author>João Gava</Author>
+  <AuthorID>CEKMJEZKSJ</AuthorID>
+  <Content>song</Content>
+  <Comments>bird-seen:yesplayback-used:yes</Comments>
+  <Quality>2</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Thraupidae</Family>
+  <Genus>Thraupis</Genus>
+  <Species>cyanoptera</Species>
+  <Sub-species />
+  <VernacularNames>Azure-shouldered Tanager</VernacularNames>
+</Audio>

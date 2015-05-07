@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>4010</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN4010.wav</FileName>
+  <ClassId>ajqxje</ClassId>
+  <Date>1999-12-00</Date>
+  <Time>8am</Time>
+  <Locality>Intervales State Park, Guapiara,São Paulo State,Brazil</Locality>
+  <Latitude>-24.291</Latitude>
+  <Longitude>-48.351</Longitude>
+  <Elevation>800</Elevation>
+  <Author>Antonio Silveira</Author>
+  <AuthorID>NBJQSQJRYH</AuthorID>
+  <Content>song</Content>
+  <Comments />
+  <Quality>0</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Cotingidae</Family>
+  <Genus>Carpornis</Genus>
+  <Species>cucullata</Species>
+  <Sub-species />
+  <VernacularNames>Hooded Berryeater</VernacularNames>
+</Audio>

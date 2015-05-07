@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>1144</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN1144.wav</FileName>
+  <ClassId>syipvo</ClassId>
+  <Date>2011-10-01</Date>
+  <Time>09:00</Time>
+  <Locality>RPPN Galheiro, Perdizes, MG, Brazil</Locality>
+  <Latitude>-19.2773</Latitude>
+  <Longitude>-47.2893</Longitude>
+  <Elevation>900</Elevation>
+  <Author>Bruno Arantes de Andrade Bueno</Author>
+  <AuthorID>BIZLGNOPNS</AuthorID>
+  <Content>song</Content>
+  <Comments>Recorded on mesophilous semi-deciduous forest patch in a cloudy windless day, using Sennheiser K6/ME67 mic and Sony MZ-R700 recorder. bird-seen:noplayback-used:no</Comments>
+  <Quality>1</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Turdidae</Family>
+  <Genus>Turdus</Genus>
+  <Species>subalaris</Species>
+  <Sub-species />
+  <VernacularNames>Eastern Slaty Thrush</VernacularNames>
+</Audio>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>33273</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN33273.wav</FileName>
+  <ClassId>qalmsn</ClassId>
+  <Date>2013-02-01</Date>
+  <Time>09:00</Time>
+  <Locality>Itaituba, Para</Locality>
+  <Latitude>-5.1894</Latitude>
+  <Longitude>-56.7554</Longitude>
+  <Elevation>110</Elevation>
+  <Author>GABRIEL LEITE</Author>
+  <AuthorID>TGBFXDVERJ</AuthorID>
+  <Content>song</Content>
+  <Comments>bird-seen:yesplayback-used:yes</Comments>
+  <Quality>1</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Galliformes</Order>
+  <Family>Odontophoridae</Family>
+  <Genus>Odontophorus</Genus>
+  <Species>gujanensis</Species>
+  <Sub-species />
+  <VernacularNames>Marbled Wood Quail</VernacularNames>
+</Audio>

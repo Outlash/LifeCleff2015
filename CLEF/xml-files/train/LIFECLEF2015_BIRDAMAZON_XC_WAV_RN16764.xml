@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>16764</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN16764.wav</FileName>
+  <ClassId>pprfie</ClassId>
+  <Date>2007-05-02</Date>
+  <Time>8:00</Time>
+  <Locality>Colombia, Tolima, Ibagué, ambala, Reserva</Locality>
+  <Latitude>4.4667</Latitude>
+  <Longitude>-75.2001</Longitude>
+  <Elevation>1800</Elevation>
+  <Author>Yair G Molina - Martínez</Author>
+  <AuthorID>UQUOPFIYYQ</AuthorID>
+  <Content>Song</Content>
+  <Comments />
+  <Quality>5</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Vireonidae</Family>
+  <Genus>Cyclarhis</Genus>
+  <Species>gujanensis</Species>
+  <Sub-species />
+  <VernacularNames>Rufous-browed Peppershrike</VernacularNames>
+</Audio>

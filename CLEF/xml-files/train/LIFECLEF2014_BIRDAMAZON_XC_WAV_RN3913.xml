@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>3913</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN3913.wav</FileName>
+  <ClassId>bskumd</ClassId>
+  <Date>2013-01-20</Date>
+  <Time>07:30</Time>
+  <Locality>São José dos Campos-São Paulo</Locality>
+  <Latitude>-22.9167</Latitude>
+  <Longitude>-46.0155</Longitude>
+  <Elevation>1100</Elevation>
+  <Author>Rodrigo Dela Rosa de Souza</Author>
+  <AuthorID>VGXDJMKETZ</AuthorID>
+  <Content>female, song</Content>
+  <Comments>bird-seen:yesplayback-used:yes</Comments>
+  <Quality>3</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Thamnophilidae</Family>
+  <Genus>Hypoedaleus</Genus>
+  <Species>guttatus</Species>
+  <Sub-species />
+  <VernacularNames>Spot-backed Antshrike</VernacularNames>
+</Audio>

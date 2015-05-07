@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>23532</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN23532.wav</FileName>
+  <ClassId>zpvuom</ClassId>
+  <Date>2013-01-07</Date>
+  <Time>07:00</Time>
+  <Locality>Cano Abujene - Delta Amacuro</Locality>
+  <Latitude>9.904</Latitude>
+  <Longitude>-62.798</Longitude>
+  <Elevation>20</Elevation>
+  <Author>Thore Noernberg</Author>
+  <AuthorID>TTSQGWDDGW</AuthorID>
+  <Content>call</Content>
+  <Comments>Recorded from a moving boat (engine noise in background) bird-seen:noplayback-used:no</Comments>
+  <Quality>2</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Gruiformes</Order>
+  <Family>Rallidae</Family>
+  <Genus>Aramides</Genus>
+  <Species>cajaneus</Species>
+  <Sub-species />
+  <VernacularNames>Grey-necked Wood Rail</VernacularNames>
+</Audio>

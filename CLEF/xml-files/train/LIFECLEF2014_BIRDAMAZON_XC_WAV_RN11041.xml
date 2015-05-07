@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>11041</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN11041.wav</FileName>
+  <ClassId>gtmyeh</ClassId>
+  <Date>2009-10-16</Date>
+  <Time>11:00h</Time>
+  <Locality>Mata Ombrofila TO-226, Nova Olinda, Tocantins</Locality>
+  <Latitude>-7.48</Latitude>
+  <Longitude>-48.46</Longitude>
+  <Elevation>310</Elevation>
+  <Author>Tulio Dornas</Author>
+  <AuthorID>MTUQGBMRNC</AuthorID>
+  <Content>song</Content>
+  <Comments>More details in article submetted.</Comments>
+  <Quality>3</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies />
+  <Order>Piciformes</Order>
+  <Family>Picidae</Family>
+  <Genus>Celeus</Genus>
+  <Species>obrieni</Species>
+  <Sub-species />
+  <VernacularNames>Kaempfer's Woodpecker</VernacularNames>
+</Audio>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>546</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN546.wav</FileName>
+  <ClassId>yyjrms</ClassId>
+  <Date>2002-10-28</Date>
+  <Time>17:51</Time>
+  <Locality>Parque Nacional da Serra do Cipó, Minas Gerais State</Locality>
+  <Latitude>-19.3481</Latitude>
+  <Longitude>-43.6189</Longitude>
+  <Elevation>1200</Elevation>
+  <Author>Jeremy Minns</Author>
+  <AuthorID>DGVLLRYDXS</AuthorID>
+  <Content>Song</Content>
+  <Comments>Road to Serra Morena. Rocky cerrado.</Comments>
+  <Quality>1</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Emberizidae</Family>
+  <Genus>Zonotrichia</Genus>
+  <Species>capensis</Species>
+  <Sub-species>subtorquata</Sub-species>
+  <VernacularNames>Rufous-collared Sparrow</VernacularNames>
+</Audio>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>23794</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN23794.wav</FileName>
+  <ClassId>cqbxux</ClassId>
+  <Date>2010-07-07</Date>
+  <Time>?</Time>
+  <Locality>Roura, Cacao</Locality>
+  <Latitude>4.548</Latitude>
+  <Longitude>-52.473</Longitude>
+  <Elevation>366</Elevation>
+  <Author>Renaudier Alexandre</Author>
+  <AuthorID>GKADEITXTH</AuthorID>
+  <Content>call</Content>
+  <Comments />
+  <Quality>2</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies>Cymbilaimus lineatus</BackgroundSpecies>
+  <Order>Passeriformes</Order>
+  <Family>Thamnophilidae</Family>
+  <Genus>Frederickena</Genus>
+  <Species>viridis</Species>
+  <Sub-species />
+  <VernacularNames>Black-throated Antshrike</VernacularNames>
+</Audio>

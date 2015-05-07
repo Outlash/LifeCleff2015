@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>24420</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN24420.wav</FileName>
+  <ClassId>cnlalq</ClassId>
+  <Date>2010-01-08</Date>
+  <Time>09:30</Time>
+  <Locality>Santa Cecilia, Serrania de San Lucas</Locality>
+  <Latitude>7.9759</Latitude>
+  <Longitude>-74.2153</Longitude>
+  <Elevation>1550</Elevation>
+  <Author>Thomas Donegan</Author>
+  <AuthorID>OXSIOLJJUP</AuthorID>
+  <Content>Contact calls</Content>
+  <Comments>Contact or alarm calls of a pair, soon after release from mist-netting</Comments>
+  <Quality>3</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Thamnophilidae</Family>
+  <Genus>Cercomacra</Genus>
+  <Species>parkeri</Species>
+  <Sub-species />
+  <VernacularNames>Parker's Antbird</VernacularNames>
+</Audio>

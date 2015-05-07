@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>27449</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN27449.wav</FileName>
+  <ClassId>zwedij</ClassId>
+  <Date>2010-04-17</Date>
+  <Time>7:00</Time>
+  <Locality>Guatemala - Kourou</Locality>
+  <Latitude>NULL</Latitude>
+  <Longitude>NULL</Longitude>
+  <Elevation>0</Elevation>
+  <Author>Patrick INGREMEAU</Author>
+  <AuthorID>IIVTYSKEYX</AuthorID>
+  <Content>song</Content>
+  <Comments />
+  <Quality>1</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies>Phaethornis longuemareus,Galbula galbula</BackgroundSpecies>
+  <Order>Passeriformes</Order>
+  <Family>Thamnophilidae</Family>
+  <Genus>Sclateria</Genus>
+  <Species>naevia</Species>
+  <Sub-species />
+  <VernacularNames>Silvered Antbird</VernacularNames>
+</Audio>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>18527</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN18527.wav</FileName>
+  <ClassId>gkeewf</ClassId>
+  <Date>2005-08-14</Date>
+  <Time>6:40:00</Time>
+  <Locality>Huila, San Agustín, Reserva Los Yalcones, El Palmar. Interfluvio Quebrada El Palmar - Rio Balseros</Locality>
+  <Latitude>1.795556</Latitude>
+  <Longitude>-76.35139</Longitude>
+  <Elevation>2484</Elevation>
+  <Author>Diego Calderón (Colección de Sonidos Ambientales - Instituto Humboldt)</Author>
+  <AuthorID>XMFDPACYJN</AuthorID>
+  <Content>call</Content>
+  <Comments>BSA 16577To obtain a wav file of the original recording, please contact csa@humboldt.org.cobird-seen:noplayback-used:no</Comments>
+  <Quality>1</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies>Grallaria ruficapilla</BackgroundSpecies>
+  <Order>Apodiformes</Order>
+  <Family>Trochilidae</Family>
+  <Genus>Adelomyia</Genus>
+  <Species>melanogenys</Species>
+  <Sub-species />
+  <VernacularNames>Speckled Hummingbird</VernacularNames>
+</Audio>

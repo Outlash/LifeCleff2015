@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>22124</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN22124.wav</FileName>
+  <ClassId>aziqpv</ClassId>
+  <Date>2008-02-21</Date>
+  <Time>11:10</Time>
+  <Locality>Rogitama (Reserva Principe de Arcabuco)</Locality>
+  <Latitude>5.779625</Latitude>
+  <Longitude>-73.44635</Longitude>
+  <Elevation>2500</Elevation>
+  <Author>Herman van Oosten</Author>
+  <AuthorID>SNUDCZVUQK</AuthorID>
+  <Content>flight call</Content>
+  <Comments>For the collection.</Comments>
+  <Quality>3</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Thraupidae</Family>
+  <Genus>Sicalis</Genus>
+  <Species>luteola</Species>
+  <Sub-species />
+  <VernacularNames>Grassland Yellow Finch</VernacularNames>
+</Audio>

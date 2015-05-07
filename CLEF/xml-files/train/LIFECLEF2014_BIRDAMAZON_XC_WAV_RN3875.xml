@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>3875</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN3875.wav</FileName>
+  <ClassId>obfbve</ClassId>
+  <Date>2011-02-18</Date>
+  <Time>10:00</Time>
+  <Locality>Porto Velho, Rondônia</Locality>
+  <Latitude>-8.8552</Latitude>
+  <Longitude>-64.1245</Longitude>
+  <Elevation>100</Elevation>
+  <Author>GABRIEL LEITE</Author>
+  <AuthorID>TGBFXDVERJ</AuthorID>
+  <Content>song</Content>
+  <Comments>bird-seen:noplayback-used:no</Comments>
+  <Quality>4</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies />
+  <Order>Pelecaniformes</Order>
+  <Family>Ardeidae</Family>
+  <Genus>Zebrilus</Genus>
+  <Species>undulatus</Species>
+  <Sub-species />
+  <VernacularNames>Zigzag Heron</VernacularNames>
+</Audio>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>15414</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN15414.wav</FileName>
+  <ClassId>fakmli</ClassId>
+  <Date>2006-01-00</Date>
+  <Time>xx:xx</Time>
+  <Locality>Honduras Alto, El Carmen, Serrania de los Yariguies</Locality>
+  <Latitude>6.6212</Latitude>
+  <Longitude>-73.5003</Longitude>
+  <Elevation>1600</Elevation>
+  <Author>Thomas Donegan</Author>
+  <AuthorID>OXSIOLJJUP</AuthorID>
+  <Content>?</Content>
+  <Comments>Former mystery 1017.</Comments>
+  <Quality>3</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies>Henicorhina leucophrys</BackgroundSpecies>
+  <Order>Passeriformes</Order>
+  <Family>Tyrannidae</Family>
+  <Genus>Platyrinchus</Genus>
+  <Species>mystaceus</Species>
+  <Sub-species />
+  <VernacularNames>White-throated Spadebill</VernacularNames>
+</Audio>

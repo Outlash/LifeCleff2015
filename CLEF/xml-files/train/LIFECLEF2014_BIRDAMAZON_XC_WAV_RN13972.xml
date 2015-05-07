@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>13972</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN13972.wav</FileName>
+  <ClassId>inrkmj</ClassId>
+  <Date>2007-06-17</Date>
+  <Time>09:27</Time>
+  <Locality>near Arroio Santa Bárbara - Pelotas, Rio Grande do Sul</Locality>
+  <Latitude>-31.7184</Latitude>
+  <Longitude>-52.3276</Longitude>
+  <Elevation>12</Elevation>
+  <Author>Fernando Jacobs</Author>
+  <AuthorID>MHHPJBCUXC</AuthorID>
+  <Content>call</Content>
+  <Comments />
+  <Quality>1</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies>Anumbius annumbi,Pitangus sulphuratus</BackgroundSpecies>
+  <Order>Passeriformes</Order>
+  <Family>Furnariidae</Family>
+  <Genus>Synallaxis</Genus>
+  <Species>spixi</Species>
+  <Sub-species />
+  <VernacularNames>Spix's Spinetail</VernacularNames>
+</Audio>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>27746</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN27746.wav</FileName>
+  <ClassId>fpfbua</ClassId>
+  <Date>2002-02-09</Date>
+  <Time>10:00</Time>
+  <Locality>Peruacu, Minas Gerais</Locality>
+  <Latitude>NULL</Latitude>
+  <Longitude>NULL</Longitude>
+  <Elevation>?</Elevation>
+  <Author>Dave Beadle</Author>
+  <AuthorID>ETVSBTKLBC</AuthorID>
+  <Content>song</Content>
+  <Comments />
+  <Quality>1</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies>Formicivora melanogaster,Crypturellus noctivagus,Thamnophilus pelzelni</BackgroundSpecies>
+  <Order>Passeriformes</Order>
+  <Family>Furnariidae</Family>
+  <Genus>Synallaxis</Genus>
+  <Species>scutata</Species>
+  <Sub-species />
+  <VernacularNames>Ochre-cheeked Spinetail</VernacularNames>
+</Audio>

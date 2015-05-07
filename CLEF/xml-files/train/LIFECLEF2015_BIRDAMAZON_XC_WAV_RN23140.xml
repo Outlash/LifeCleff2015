@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>23140</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN23140.wav</FileName>
+  <ClassId>uvjypi</ClassId>
+  <Date>2007-12-17</Date>
+  <Time>11:20</Time>
+  <Locality>Parque Regional Barbas-Bremen, Filandia, Quindio. Sector Barbas</Locality>
+  <Latitude>4.6717</Latitude>
+  <Longitude>-75.6283</Longitude>
+  <Elevation>1900</Elevation>
+  <Author>Oscar Humberto Marin-Gomez</Author>
+  <AuthorID>CSUHASNRSU</AuthorID>
+  <Content>Distress call in hand</Content>
+  <Comments>Ref: OHM15A 1255bird-seen:yesplayback-used:no</Comments>
+  <Quality>1</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Turdidae</Family>
+  <Genus>Myadestes</Genus>
+  <Species>ralloides</Species>
+  <Sub-species />
+  <VernacularNames>Andean Solitaire</VernacularNames>
+</Audio>

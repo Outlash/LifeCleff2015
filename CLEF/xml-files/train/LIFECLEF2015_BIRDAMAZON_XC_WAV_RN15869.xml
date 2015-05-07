@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>15869</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN15869.wav</FileName>
+  <ClassId>oiorva</ClassId>
+  <Date>2012-04-22</Date>
+  <Time>11:21</Time>
+  <Locality>Montezuma Peak Road, Pueblo Rico, Risaralda, W Andes - Tatama National Park</Locality>
+  <Latitude>5.2431</Latitude>
+  <Longitude>-76.0964</Longitude>
+  <Elevation>2200</Elevation>
+  <Author>Jeremy Minns</Author>
+  <AuthorID>DGVLLRYDXS</AuthorID>
+  <Content>Song</Content>
+  <Comments>Montane forest.</Comments>
+  <Quality>1</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies>Henicorhina leucophrys</BackgroundSpecies>
+  <Order>Passeriformes</Order>
+  <Family>Parulidae</Family>
+  <Genus>Myioborus</Genus>
+  <Species>miniatus</Species>
+  <Sub-species>ballux</Sub-species>
+  <VernacularNames>Slate-throated Whitestart</VernacularNames>
+</Audio>

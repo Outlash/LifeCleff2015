@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>16593</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN16593.wav</FileName>
+  <ClassId>zsdjkk</ClassId>
+  <Date>2010-01-19</Date>
+  <Time>10:30h</Time>
+  <Locality>Mata Agua Fria, Pres. Kennedy, Tocantins</Locality>
+  <Latitude>-8.532</Latitude>
+  <Longitude>-48.462</Longitude>
+  <Elevation>270</Elevation>
+  <Author>Tulio Dornas</Author>
+  <AuthorID>MTUQGBMRNC</AuthorID>
+  <Content>song</Content>
+  <Comments>The volume the vocalization is low. More details in article submetted</Comments>
+  <Quality>0</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Piciformes</Order>
+  <Family>Ramphastidae</Family>
+  <Genus>Selenidera</Genus>
+  <Species>gouldii</Species>
+  <Sub-species />
+  <VernacularNames>Gould's Toucanet</VernacularNames>
+</Audio>

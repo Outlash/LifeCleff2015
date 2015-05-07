@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>90</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN90.wav</FileName>
+  <ClassId>rstljd</ClassId>
+  <Date>2010-12-08</Date>
+  <Time>08:30</Time>
+  <Locality>Rio Branco, Parque Nacional do Viruá, Caracaraí, Roraima</Locality>
+  <Latitude>1.2574</Latitude>
+  <Longitude>-61.2965</Longitude>
+  <Elevation>60</Elevation>
+  <Author>Thiago Orsi Laranjeiras</Author>
+  <AuthorID>PMYLTPLTLT</AuthorID>
+  <Content>call</Content>
+  <Comments>bird-seen:noplayback-used:yes</Comments>
+  <Quality>2</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Tyrannidae</Family>
+  <Genus>Hemitriccus</Genus>
+  <Species>minor</Species>
+  <Sub-species />
+  <VernacularNames>Snethlage's Tody-Tyrant</VernacularNames>
+</Audio>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>19699</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN19699.wav</FileName>
+  <ClassId>sgsdgm</ClassId>
+  <Date>2013-01-06</Date>
+  <Time>15:30</Time>
+  <Locality>La Pedregoza, Puerto Carreño, Vichada</Locality>
+  <Latitude>6.1132</Latitude>
+  <Longitude>-67.7137</Longitude>
+  <Elevation>60</Elevation>
+  <Author>David Bradley y Sandra Valderrama</Author>
+  <AuthorID>MCNTDLDTOO</AuthorID>
+  <Content>song</Content>
+  <Comments>www.pedregoza.org</Comments>
+  <Quality>3</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Icteridae</Family>
+  <Genus>Cacicus</Genus>
+  <Species>cela</Species>
+  <Sub-species />
+  <VernacularNames>Yellow-rumped Cacique</VernacularNames>
+</Audio>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>16255</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN16255.wav</FileName>
+  <ClassId>xychdo</ClassId>
+  <Date>1998-02-28</Date>
+  <Time>?</Time>
+  <Locality>Rancho Grande, Parque Nacional Henri Pittier, Aragua</Locality>
+  <Latitude>10.3492</Latitude>
+  <Longitude>-67.6851</Longitude>
+  <Elevation>?</Elevation>
+  <Author>Don Jones</Author>
+  <AuthorID>BCWZQTGMSO</AuthorID>
+  <Content>song</Content>
+  <Comments />
+  <Quality>2</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Troglodytidae</Family>
+  <Genus>Troglodytes</Genus>
+  <Species>aedon</Species>
+  <Sub-species />
+  <VernacularNames>House Wren</VernacularNames>
+</Audio>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>6039</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN6039.wav</FileName>
+  <ClassId>nknnjw</ClassId>
+  <Date>2011-06-24</Date>
+  <Time>16:44</Time>
+  <Locality>Porto Alegre, RS</Locality>
+  <Latitude>-30.107</Latitude>
+  <Longitude>-51.064</Longitude>
+  <Elevation>15</Elevation>
+  <Author>Gilberto Sander MUller</Author>
+  <AuthorID>YXIUXLVTAI</AuthorID>
+  <Content>song</Content>
+  <Comments />
+  <Quality>2</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Parulidae</Family>
+  <Genus>Myiothlypis</Genus>
+  <Species>leucoblephara</Species>
+  <Sub-species />
+  <VernacularNames>White-rimmed Warbler</VernacularNames>
+</Audio>

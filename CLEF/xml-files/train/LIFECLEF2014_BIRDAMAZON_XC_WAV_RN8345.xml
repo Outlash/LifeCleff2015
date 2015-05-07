@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>8345</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN8345.wav</FileName>
+  <ClassId>doafbd</ClassId>
+  <Date>2000-09-17</Date>
+  <Time>07:20</Time>
+  <Locality>Alta Floresta, Mato Grosso. Near Hotel Floresta Amazônica</Locality>
+  <Latitude>-8.385</Latitude>
+  <Longitude>-52.031</Longitude>
+  <Elevation>250</Elevation>
+  <Author>Jeremy Minns</Author>
+  <AuthorID>DGVLLRYDXS</AuthorID>
+  <Content>Call</Content>
+  <Comments>Terra firme forest.</Comments>
+  <Quality>0</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies>Xiphorhynchus guttatus</BackgroundSpecies>
+  <Order>Passeriformes</Order>
+  <Family>Thamnophilidae</Family>
+  <Genus>Hypocnemis</Genus>
+  <Species>striata</Species>
+  <Sub-species>implicata</Sub-species>
+  <VernacularNames>Spix's Warbling Antbird</VernacularNames>
+</Audio>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>22848</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN22848.wav</FileName>
+  <ClassId>qvcasw</ClassId>
+  <Date>1994-03-16</Date>
+  <Time>?</Time>
+  <Locality>Caldas, Norcasia, Corregimiento de Norcasia-La Acacia-Campamento Miel 1</Locality>
+  <Latitude>5.574167</Latitude>
+  <Longitude>-74.9</Longitude>
+  <Elevation>571</Elevation>
+  <Author>Gary Stiles (Colección de Sonidos Ambientales - Instituto Humboldt)</Author>
+  <AuthorID>XMFDPACYJN</AuthorID>
+  <Content>song</Content>
+  <Comments>BSA 11138To obtain a wav file of the original recording, please contact csa@humboldt.org.cobird-seen:noplayback-used:no</Comments>
+  <Quality>2</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies>Tapera naevia</BackgroundSpecies>
+  <Order>Passeriformes</Order>
+  <Family>Furnariidae</Family>
+  <Genus>Synallaxis</Genus>
+  <Species>albescens</Species>
+  <Sub-species />
+  <VernacularNames>Pale-breasted Spinetail</VernacularNames>
+</Audio>

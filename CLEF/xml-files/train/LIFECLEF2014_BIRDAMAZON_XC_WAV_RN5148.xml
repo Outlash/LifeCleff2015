@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>5148</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN5148.wav</FileName>
+  <ClassId>ytroxk</ClassId>
+  <Date>2012-10-30</Date>
+  <Time>10:00</Time>
+  <Locality>Ibirapuera Park,São Paulo city,São Paulo State</Locality>
+  <Latitude>-23.59</Latitude>
+  <Longitude>-46.66</Longitude>
+  <Elevation>750</Elevation>
+  <Author>Antonio Silveira</Author>
+  <AuthorID>NBJQSQJRYH</AuthorID>
+  <Content>male, song</Content>
+  <Comments>bird-seen:yesplayback-used:no</Comments>
+  <Quality>3</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Turdidae</Family>
+  <Genus>Turdus</Genus>
+  <Species>amaurochalinus</Species>
+  <Sub-species />
+  <VernacularNames>Creamy-bellied Thrush</VernacularNames>
+</Audio>

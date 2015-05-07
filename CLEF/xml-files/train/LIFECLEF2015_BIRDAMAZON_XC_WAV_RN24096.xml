@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>24096</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN24096.wav</FileName>
+  <ClassId>uarutv</ClassId>
+  <Date>2014-07-21</Date>
+  <Time>16:00</Time>
+  <Locality>Reserva Florestal Adolpho Ducke, Manaus, Amazonas</Locality>
+  <Latitude>-2.9948</Latitude>
+  <Longitude>-59.9378</Longitude>
+  <Elevation>80</Elevation>
+  <Author>Rodrigo Dela Rosa</Author>
+  <AuthorID>VGXDJMKETZ</AuthorID>
+  <Content>call</Content>
+  <Comments>bird-seen:noplayback-used:no</Comments>
+  <Quality>2</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Tyrannidae</Family>
+  <Genus>Hemitriccus</Genus>
+  <Species>zosterops</Species>
+  <Sub-species />
+  <VernacularNames>White-eyed Tody-Tyrant</VernacularNames>
+</Audio>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>26084</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN26084.wav</FileName>
+  <ClassId>zjxuhs</ClassId>
+  <Date>2002-10-30</Date>
+  <Time>16:10</Time>
+  <Locality>Parque Nacional Serra da Canastra, São Roque de Minas, MG</Locality>
+  <Latitude>-20.24528</Latitude>
+  <Longitude>-46.36583</Longitude>
+  <Elevation>1350</Elevation>
+  <Author>Jeremy Minns</Author>
+  <AuthorID>DGVLLRYDXS</AuthorID>
+  <Content>call</Content>
+  <Comments>Abandoned farm near Cachoeira do Rolinho. Natural calls by four males and one female plumaged bird.</Comments>
+  <Quality>2</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies>Rhynchotus rufescens</BackgroundSpecies>
+  <Order>Passeriformes</Order>
+  <Family>Thraupidae</Family>
+  <Genus>Sporophila</Genus>
+  <Species>plumbea</Species>
+  <Sub-species>plumbea</Sub-species>
+  <VernacularNames>Plumbeous Seedeater</VernacularNames>
+</Audio>

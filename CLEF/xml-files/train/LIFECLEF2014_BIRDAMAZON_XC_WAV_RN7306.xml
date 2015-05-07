@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>7306</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN7306.wav</FileName>
+  <ClassId>rogygm</ClassId>
+  <Date>1999-05-11</Date>
+  <Time>08:00</Time>
+  <Locality>Boa Nova, Wet Forest, state of Bahia</Locality>
+  <Latitude>-14.3834</Latitude>
+  <Longitude>-40.1001</Longitude>
+  <Elevation>825</Elevation>
+  <Author>Jeremy Minns</Author>
+  <AuthorID>DGVLLRYDXS</AuthorID>
+  <Content>Variant of normal song</Content>
+  <Comments>Humid forest.</Comments>
+  <Quality>2</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies>Sirystes sibilator</BackgroundSpecies>
+  <Order>Passeriformes</Order>
+  <Family>Cotingidae</Family>
+  <Genus>Lipaugus</Genus>
+  <Species>lanioides</Species>
+  <Sub-species />
+  <VernacularNames>Cinnamon-vented Piha</VernacularNames>
+</Audio>

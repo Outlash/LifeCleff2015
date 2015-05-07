@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>29432</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN29432.wav</FileName>
+  <ClassId>uxoaxq</ClassId>
+  <Date>2012-04-12</Date>
+  <Time>13:49</Time>
+  <Locality>PNN Chingaza. Monte Redondo</Locality>
+  <Latitude>4.6334</Latitude>
+  <Longitude>-73.7167</Longitude>
+  <Elevation>3025</Elevation>
+  <Author>Jeremy Minns</Author>
+  <AuthorID>DGVLLRYDXS</AuthorID>
+  <Content>Call</Content>
+  <Comments>Montane forest edge. Pair</Comments>
+  <Quality>0</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Tyrannidae</Family>
+  <Genus>Mecocerculus</Genus>
+  <Species>leucophrys</Species>
+  <Sub-species>setophagoides</Sub-species>
+  <VernacularNames>White-throated Tyrannulet</VernacularNames>
+</Audio>

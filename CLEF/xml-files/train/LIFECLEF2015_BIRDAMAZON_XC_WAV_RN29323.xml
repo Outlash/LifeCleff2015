@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>29323</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN29323.wav</FileName>
+  <ClassId>aezhvb</ClassId>
+  <Date>2007-10-11</Date>
+  <Time>18:49</Time>
+  <Locality>Jundiá, Parque Nacional da Serra do Itajaí, Apiúna, Santa Catarina</Locality>
+  <Latitude>-27.1203</Latitude>
+  <Longitude>-49.2548</Longitude>
+  <Elevation>600</Elevation>
+  <Author>Adrian Eisen Rupp</Author>
+  <AuthorID>AOPMSCIDIA</AuthorID>
+  <Content>song</Content>
+  <Comments />
+  <Quality>3</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Caprimulgiformes</Order>
+  <Family>Caprimulgidae</Family>
+  <Genus>Antrostomus</Genus>
+  <Species>sericocaudatus</Species>
+  <Sub-species>sericocaudatus</Sub-species>
+  <VernacularNames>Silky-tailed Nightjar</VernacularNames>
+</Audio>

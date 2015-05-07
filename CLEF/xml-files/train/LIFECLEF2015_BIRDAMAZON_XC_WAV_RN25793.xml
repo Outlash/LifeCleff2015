@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>25793</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN25793.wav</FileName>
+  <ClassId>opckrh</ClassId>
+  <Date>2012-06-28</Date>
+  <Time>07:08</Time>
+  <Locality>San Jose de Guaviare - Departamento del Guaviare</Locality>
+  <Latitude>2.667</Latitude>
+  <Longitude>-72.615</Longitude>
+  <Elevation>50</Elevation>
+  <Author>Oswaldo Cortes</Author>
+  <AuthorID>VVDRVZCVWW</AuthorID>
+  <Content>song</Content>
+  <Comments />
+  <Quality>3</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Piciformes</Order>
+  <Family>Bucconidae</Family>
+  <Genus>Bucco</Genus>
+  <Species>capensis</Species>
+  <Sub-species />
+  <VernacularNames>Collared Puffbird</VernacularNames>
+</Audio>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>21620</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN21620.wav</FileName>
+  <ClassId>edquox</ClassId>
+  <Date>2012-02-09</Date>
+  <Time>06:44</Time>
+  <Locality>Soata (Reserva de Aves para Amazilia castaneiventris y Macroagelaius)</Locality>
+  <Latitude>6.3001</Latitude>
+  <Longitude>-72.7167</Longitude>
+  <Elevation>2300</Elevation>
+  <Author>Oswaldo Cortes</Author>
+  <AuthorID>VVDRVZCVWW</AuthorID>
+  <Content>call</Content>
+  <Comments />
+  <Quality>3</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Tyrannidae</Family>
+  <Genus>Ochthoeca</Genus>
+  <Species>cinnamomeiventris</Species>
+  <Sub-species />
+  <VernacularNames>Slaty-backed Chat-Tyrant</VernacularNames>
+</Audio>

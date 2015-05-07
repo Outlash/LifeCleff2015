@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>31747</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN31747.wav</FileName>
+  <ClassId>uvjypi</ClassId>
+  <Date>2009-04-16</Date>
+  <Time>07:00</Time>
+  <Locality>FARALLON DE MEDINA</Locality>
+  <Latitude>4.5834</Latitude>
+  <Longitude>-73.4834</Longitude>
+  <Elevation>2200</Elevation>
+  <Author>Oswaldo Cortes</Author>
+  <AuthorID>VVDRVZCVWW</AuthorID>
+  <Content>song</Content>
+  <Comments />
+  <Quality>1</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Turdidae</Family>
+  <Genus>Myadestes</Genus>
+  <Species>ralloides</Species>
+  <Sub-species />
+  <VernacularNames>Andean Solitaire</VernacularNames>
+</Audio>

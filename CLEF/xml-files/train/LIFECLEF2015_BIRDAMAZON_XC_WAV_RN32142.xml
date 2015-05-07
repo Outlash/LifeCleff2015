@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>32142</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN32142.wav</FileName>
+  <ClassId>nuejcm</ClassId>
+  <Date>2014-04-07</Date>
+  <Time>19:30</Time>
+  <Locality>Guararema, São Paulo</Locality>
+  <Latitude>-23.3874</Latitude>
+  <Longitude>-46.0478</Longitude>
+  <Elevation>600</Elevation>
+  <Author>GABRIEL LEITE</Author>
+  <AuthorID>TGBFXDVERJ</AuthorID>
+  <Content>song</Content>
+  <Comments>bird-seen:noplayback-used:yes</Comments>
+  <Quality>1</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Strigiformes</Order>
+  <Family>Strigidae</Family>
+  <Genus>Aegolius</Genus>
+  <Species>harrisii</Species>
+  <Sub-species />
+  <VernacularNames>Buff-fronted Owl</VernacularNames>
+</Audio>

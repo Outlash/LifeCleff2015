@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>2420</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN2420.wav</FileName>
+  <ClassId>jirbln</ClassId>
+  <Date>2011-09-01</Date>
+  <Time>08:40</Time>
+  <Locality>Pantanal Wildlife Center, MT</Locality>
+  <Latitude>-16.7581</Latitude>
+  <Longitude>-56.8764</Longitude>
+  <Elevation>110</Elevation>
+  <Author>Eric DeFonso</Author>
+  <AuthorID>KTLCZCRCQX</AuthorID>
+  <Content>call</Content>
+  <Comments>Bird was perched atop a snag ~30m away. Noise below 100 Hz filtered. Habitat is tropical deciduous woodland in dry season.bird-seen:yesplayback-used:no</Comments>
+  <Quality>2</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies />
+  <Order>Piciformes</Order>
+  <Family>Picidae</Family>
+  <Genus>Melanerpes</Genus>
+  <Species>candidus</Species>
+  <Sub-species />
+  <VernacularNames>White Woodpecker</VernacularNames>
+</Audio>

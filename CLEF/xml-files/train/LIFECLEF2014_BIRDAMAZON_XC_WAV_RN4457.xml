@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>4457</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN4457.wav</FileName>
+  <ClassId>vixeni</ClassId>
+  <Date>2008-08-18</Date>
+  <Time>07:20</Time>
+  <Locality>Parque Estadual Mata dos Godoy, Londrina, Parana</Locality>
+  <Latitude>-23.4501</Latitude>
+  <Longitude>-51.2334</Longitude>
+  <Elevation>493</Elevation>
+  <Author>Eduardo Patrial</Author>
+  <AuthorID>QEFRRVCRRP</AuthorID>
+  <Content>song</Content>
+  <Comments>song from one female.</Comments>
+  <Quality>5</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies>Automolus leucophthalmus</BackgroundSpecies>
+  <Order>Passeriformes</Order>
+  <Family>Thraupidae</Family>
+  <Genus>Pyrrhocoma</Genus>
+  <Species>ruficeps</Species>
+  <Sub-species />
+  <VernacularNames>Chestnut-headed Tanager</VernacularNames>
+</Audio>

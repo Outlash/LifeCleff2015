@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>32469</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN32469.wav</FileName>
+  <ClassId>qtegfa</ClassId>
+  <Date>2010-07-28</Date>
+  <Time>07:00</Time>
+  <Locality>Paragominas, PA, Brazil, Bacia 147</Locality>
+  <Latitude>-3.9187</Latitude>
+  <Longitude>-47.177</Longitude>
+  <Elevation>?</Elevation>
+  <Author>Nargila Moura</Author>
+  <AuthorID>CWEIBYBYYD</AuthorID>
+  <Content>song</Content>
+  <Comments>selectively-logged primary forest</Comments>
+  <Quality>2</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies>Attila spadiceus,Querula purpurata</BackgroundSpecies>
+  <Order>Apodiformes</Order>
+  <Family>Trochilidae</Family>
+  <Genus>Phaethornis</Genus>
+  <Species>superciliosus</Species>
+  <Sub-species>muelleri</Sub-species>
+  <VernacularNames>Long-tailed Hermit</VernacularNames>
+</Audio>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>11796</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN11796.wav</FileName>
+  <ClassId>gshgib</ClassId>
+  <Date>2010-10-03</Date>
+  <Time>16:30</Time>
+  <Locality>Parque Natural do Caraça, MG</Locality>
+  <Latitude>-20.41</Latitude>
+  <Longitude>-43.35</Longitude>
+  <Elevation>1910</Elevation>
+  <Author>Odirlei Vieira da Fonseca</Author>
+  <AuthorID>PHUJYQLGTN</AuthorID>
+  <Content>song</Content>
+  <Comments>Spontaneous song. Campos rupestres in Pico do Solbird-seen:yesplayback-used:no</Comments>
+  <Quality>1</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Furnariidae</Family>
+  <Genus>Asthenes</Genus>
+  <Species>moreirae</Species>
+  <Sub-species />
+  <VernacularNames>Itatiaia Spinetail</VernacularNames>
+</Audio>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>21359</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN21359.wav</FileName>
+  <ClassId>uaciky</ClassId>
+  <Date>2012-06-17</Date>
+  <Time>10:00</Time>
+  <Locality>El Carmen, Choco</Locality>
+  <Latitude>5.7334</Latitude>
+  <Longitude>-76.2465</Longitude>
+  <Elevation>650</Elevation>
+  <Author>Edwar H Guarín</Author>
+  <AuthorID>NQMGMOJOHV</AuthorID>
+  <Content>male</Content>
+  <Comments>bird-seen:yesplayback-used:no</Comments>
+  <Quality>1</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Rhinocryptidae</Family>
+  <Genus>Scytalopus</Genus>
+  <Species>sp.nov.Alto_Pisones</Species>
+  <Sub-species />
+  <VernacularNames>Alto Pisones' Tapaculo</VernacularNames>
+</Audio>

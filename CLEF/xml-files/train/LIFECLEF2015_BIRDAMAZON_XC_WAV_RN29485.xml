@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>29485</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN29485.wav</FileName>
+  <ClassId>flxqxu</ClassId>
+  <Date>1998-08-18</Date>
+  <Time>07:25</Time>
+  <Locality>Finca San Jose, Quebrada La Selva (sobre Toche), Cajamarca, Tolima</Locality>
+  <Latitude>NULL</Latitude>
+  <Longitude>NULL</Longitude>
+  <Elevation>2742</Elevation>
+  <Author>Bernabe Lopez-Lanus</Author>
+  <AuthorID>BYLLSJRVDZ</AuthorID>
+  <Content>Song</Content>
+  <Comments />
+  <Quality>1</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Thraupidae</Family>
+  <Genus>Buthraupis</Genus>
+  <Species>montana</Species>
+  <Sub-species />
+  <VernacularNames>Hooded Mountain Tanager</VernacularNames>
+</Audio>

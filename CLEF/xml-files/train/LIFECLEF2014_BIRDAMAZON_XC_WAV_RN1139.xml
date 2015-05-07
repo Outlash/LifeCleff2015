@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>1139</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN1139.wav</FileName>
+  <ClassId>syipvo</ClassId>
+  <Date>2008-01-11</Date>
+  <Time>09:00</Time>
+  <Locality>Canela, Rio Grande do Sul</Locality>
+  <Latitude>-29.3219</Latitude>
+  <Longitude>-50.8189</Longitude>
+  <Elevation>800</Elevation>
+  <Author>Antonio Silveira</Author>
+  <AuthorID>NBJQSQJRYH</AuthorID>
+  <Content>male, song</Content>
+  <Comments>Recorded in FLONA (National Forest) of Canela, near Canela, Rio Grande do Sul State, Brazilbird-seen:yesplayback-used:no</Comments>
+  <Quality>0</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Turdidae</Family>
+  <Genus>Turdus</Genus>
+  <Species>subalaris</Species>
+  <Sub-species />
+  <VernacularNames>Eastern Slaty Thrush</VernacularNames>
+</Audio>

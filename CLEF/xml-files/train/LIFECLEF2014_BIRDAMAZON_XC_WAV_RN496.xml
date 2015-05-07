@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>496</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN496.wav</FileName>
+  <ClassId>gzfudv</ClassId>
+  <Date>2009-12-29</Date>
+  <Time>09:40</Time>
+  <Locality>Santa Vitória, MG</Locality>
+  <Latitude>-18.849</Latitude>
+  <Longitude>-50.12</Longitude>
+  <Elevation>?</Elevation>
+  <Author>Ricardo Gagliardi</Author>
+  <AuthorID>YRDADNREOP</AuthorID>
+  <Content>call, flight call</Content>
+  <Comments />
+  <Quality>1</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies>Guira guira</BackgroundSpecies>
+  <Order>Psittaciformes</Order>
+  <Family>Psittacidae</Family>
+  <Genus>Orthopsittaca</Genus>
+  <Species>manilatus</Species>
+  <Sub-species />
+  <VernacularNames>Red-bellied Macaw</VernacularNames>
+</Audio>

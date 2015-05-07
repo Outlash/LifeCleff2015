@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>10074</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN10074.wav</FileName>
+  <ClassId>gycosl</ClassId>
+  <Date>2011-05-22</Date>
+  <Time>16:30</Time>
+  <Locality>Banhado do Maçarico region, Rio Grande, Rio Grande do Sul</Locality>
+  <Latitude>-32.111</Latitude>
+  <Longitude>-52.261</Longitude>
+  <Elevation>3</Elevation>
+  <Author>Rafael Antunes Dias</Author>
+  <AuthorID>XJSWEWQCEC</AuthorID>
+  <Content>flight call</Content>
+  <Comments>Distant, windy, only to document the species</Comments>
+  <Quality>4</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies>Pitangus sulphuratus</BackgroundSpecies>
+  <Order>Charadriiformes</Order>
+  <Family>Scolopacidae</Family>
+  <Genus>Gallinago</Genus>
+  <Species>paraguaiae</Species>
+  <Sub-species />
+  <VernacularNames>South American Snipe</VernacularNames>
+</Audio>

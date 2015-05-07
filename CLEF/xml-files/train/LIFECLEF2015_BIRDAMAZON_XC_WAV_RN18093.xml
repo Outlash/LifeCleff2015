@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>18093</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN18093.wav</FileName>
+  <ClassId>mwmwbb</ClassId>
+  <Date>2013-08-03</Date>
+  <Time>07:30</Time>
+  <Locality>15 km east of São Jose dos Pinhais, Paraná</Locality>
+  <Latitude>-25.5709</Latitude>
+  <Longitude>-49.0573</Longitude>
+  <Elevation>900</Elevation>
+  <Author>Teus Luijendijk</Author>
+  <AuthorID>VLNULZJNSX</AuthorID>
+  <Content>song</Content>
+  <Comments>Recording slightly filtered (below 600 Hz).Bird quite close, though not seen. Same calls audible as in XC59015, but unfortunately not in this recording.One song strophe presented here, lasting 2 min 22 s.bird-seen:noplayback-used:no</Comments>
+  <Quality>2</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Rhinocryptidae</Family>
+  <Genus>Scytalopus</Genus>
+  <Species>iraiensis</Species>
+  <Sub-species />
+  <VernacularNames>Marsh Tapaculo</VernacularNames>
+</Audio>

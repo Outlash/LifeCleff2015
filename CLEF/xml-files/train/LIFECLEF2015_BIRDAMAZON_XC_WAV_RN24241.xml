@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>24241</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN24241.wav</FileName>
+  <ClassId>anfvsy</ClassId>
+  <Date>2011-05-22</Date>
+  <Time>08:00</Time>
+  <Locality>Casa del Sol Naciente, San Agustin, Huila</Locality>
+  <Latitude>1.887</Latitude>
+  <Longitude>-76.2628</Longitude>
+  <Elevation>200</Elevation>
+  <Author>Oswaldo Cortes</Author>
+  <AuthorID>VVDRVZCVWW</AuthorID>
+  <Content>song</Content>
+  <Comments />
+  <Quality>3</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Psittaciformes</Order>
+  <Family>Psittacidae</Family>
+  <Genus>Psittacara</Genus>
+  <Species>wagleri</Species>
+  <Sub-species />
+  <VernacularNames>Scarlet-fronted Parakeet</VernacularNames>
+</Audio>

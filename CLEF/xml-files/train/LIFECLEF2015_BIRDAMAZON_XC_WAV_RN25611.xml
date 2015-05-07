@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>25611</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN25611.wav</FileName>
+  <ClassId>bgaifs</ClassId>
+  <Date>2009-10-17</Date>
+  <Time>17:40</Time>
+  <Locality>zone Aya, Trinité Nature Reserve</Locality>
+  <Latitude>4.6006</Latitude>
+  <Longitude>-53.412</Longitude>
+  <Elevation>120</Elevation>
+  <Author>Olivier Claessens</Author>
+  <AuthorID>KRQYNRSSDF</AuthorID>
+  <Content>song</Content>
+  <Comments>after playback</Comments>
+  <Quality>2</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Furnariidae</Family>
+  <Genus>Deconychura</Genus>
+  <Species>stictolaema</Species>
+  <Sub-species />
+  <VernacularNames>Spot-throated Woodcreeper</VernacularNames>
+</Audio>

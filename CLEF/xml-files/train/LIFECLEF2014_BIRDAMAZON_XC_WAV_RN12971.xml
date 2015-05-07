@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>12971</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN12971.wav</FileName>
+  <ClassId>sijyjc</ClassId>
+  <Date>2012-10-20</Date>
+  <Time>09:30</Time>
+  <Locality>Rio Grande do Sul</Locality>
+  <Latitude>-31.4151</Latitude>
+  <Longitude>-53.8799</Longitude>
+  <Elevation>190</Elevation>
+  <Author>Alexandre Bianco</Author>
+  <AuthorID>ODNEDFESFY</AuthorID>
+  <Content>song</Content>
+  <Comments>bird-seen:yesplayback-used:no</Comments>
+  <Quality>2</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies />
+  <Order>Anseriformes</Order>
+  <Family>Anhimidae</Family>
+  <Genus>Chauna</Genus>
+  <Species>torquata</Species>
+  <Sub-species />
+  <VernacularNames>Southern Screamer</VernacularNames>
+</Audio>

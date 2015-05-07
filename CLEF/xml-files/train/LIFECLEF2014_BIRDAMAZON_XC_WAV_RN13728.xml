@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>13728</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN13728.wav</FileName>
+  <ClassId>ombazy</ClassId>
+  <Date>2009-10-02</Date>
+  <Time>?</Time>
+  <Locality>Caetité, state of Bahia, 5 Km south from Brejinho das Ametistas</Locality>
+  <Latitude>-14.3073</Latitude>
+  <Longitude>-42.5406</Longitude>
+  <Elevation>950</Elevation>
+  <Author>Ciro Albano</Author>
+  <AuthorID>MXVQPUKGWW</AuthorID>
+  <Content>song after playback</Content>
+  <Comments />
+  <Quality>2</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Furnariidae</Family>
+  <Genus>Campylorhamphus</Genus>
+  <Species>trochilirostris</Species>
+  <Sub-species>major</Sub-species>
+  <VernacularNames>Red-billed Scythebill</VernacularNames>
+</Audio>

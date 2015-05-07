@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>20909</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN20909.wav</FileName>
+  <ClassId>bumkxs</ClassId>
+  <Date>2006-11-23</Date>
+  <Time>10:10</Time>
+  <Locality>piton de l'Armontabo</Locality>
+  <Latitude>3.7348</Latitude>
+  <Longitude>-52.3206</Longitude>
+  <Elevation>150</Elevation>
+  <Author>Olivier Claessens</Author>
+  <AuthorID>KRQYNRSSDF</AuthorID>
+  <Content>song</Content>
+  <Comments>unusual song</Comments>
+  <Quality>2</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Cardinalidae</Family>
+  <Genus>Saltator</Genus>
+  <Species>maximus</Species>
+  <Sub-species>maximus</Sub-species>
+  <VernacularNames>Buff-throated Saltator</VernacularNames>
+</Audio>

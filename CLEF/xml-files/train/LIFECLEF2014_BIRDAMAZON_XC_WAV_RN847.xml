@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>847</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN847.wav</FileName>
+  <ClassId>ztxztb</ClassId>
+  <Date>2011-05-20</Date>
+  <Time>08:30</Time>
+  <Locality>Viçosa, Minas Gerais</Locality>
+  <Latitude>-20.79</Latitude>
+  <Longitude>-42.8882</Longitude>
+  <Elevation>800</Elevation>
+  <Author>Noé Eiterer</Author>
+  <AuthorID>TWSKITNQOV</AuthorID>
+  <Content>call</Content>
+  <Comments />
+  <Quality>3</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Thraupidae</Family>
+  <Genus>Ramphocelus</Genus>
+  <Species>bresilius</Species>
+  <Sub-species />
+  <VernacularNames>Brazilian Tanager</VernacularNames>
+</Audio>

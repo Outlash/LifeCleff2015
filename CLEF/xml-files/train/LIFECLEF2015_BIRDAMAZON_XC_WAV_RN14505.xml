@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>14505</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN14505.wav</FileName>
+  <ClassId>bhxqpi</ClassId>
+  <Date>2014-01-12</Date>
+  <Time>08:00</Time>
+  <Locality>RPPN Serra Bonita, Camacan, Bahia.</Locality>
+  <Latitude>-15.3851</Latitude>
+  <Longitude>-39.5709</Longitude>
+  <Elevation>850</Elevation>
+  <Author>Niels Poul Dreyer</Author>
+  <AuthorID>YIQSVPAMDQ</AuthorID>
+  <Content>song</Content>
+  <Comments>bird-seen:yes</Comments>
+  <Quality>0</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Thamnophilidae</Family>
+  <Genus>Myrmeciza</Genus>
+  <Species>loricata</Species>
+  <Sub-species />
+  <VernacularNames>White-bibbed Antbird</VernacularNames>
+</Audio>

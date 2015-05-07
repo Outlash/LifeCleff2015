@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>1591</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN1591.wav</FileName>
+  <ClassId>hkgozq</ClassId>
+  <Date>2003-02-14</Date>
+  <Time>08:01</Time>
+  <Locality>Intervales State Park. Bocanha and Lageado</Locality>
+  <Latitude>-24.2667</Latitude>
+  <Longitude>-48.4501</Longitude>
+  <Elevation>800</Elevation>
+  <Author>Jeremy Minns</Author>
+  <AuthorID>DGVLLRYDXS</AuthorID>
+  <Content>Song</Content>
+  <Comments>Caverna dos Paiva. Secondary montane forest. Perched in small tree, c. 4 m above ground.</Comments>
+  <Quality>2</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies />
+  <Order>Apodiformes</Order>
+  <Family>Trochilidae</Family>
+  <Genus>Phaethornis</Genus>
+  <Species>eurynome</Species>
+  <Sub-species>eurynome</Sub-species>
+  <VernacularNames>Scale-throated Hermit</VernacularNames>
+</Audio>

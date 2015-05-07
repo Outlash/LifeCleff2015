@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>29224</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN29224.wav</FileName>
+  <ClassId>uytsig</ClassId>
+  <Date>2014-09-13</Date>
+  <Time>07:13</Time>
+  <Locality>Londrina State University (near  Londrina), Londrina, Parana</Locality>
+  <Latitude>-23.3254</Latitude>
+  <Longitude>-51.1996</Longitude>
+  <Elevation>600</Elevation>
+  <Author>Gabriel Rosa</Author>
+  <AuthorID>GXMOPUMWMA</AuthorID>
+  <Content>call</Content>
+  <Comments>original: GMR_20140913_071358bird-seen:yesplayback-used:no</Comments>
+  <Quality>1</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Turdidae</Family>
+  <Genus>Turdus</Genus>
+  <Species>leucomelas</Species>
+  <Sub-species />
+  <VernacularNames>Pale-breasted Thrush</VernacularNames>
+</Audio>

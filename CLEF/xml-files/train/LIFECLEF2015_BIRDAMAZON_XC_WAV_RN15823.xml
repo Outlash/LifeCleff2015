@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>15823</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN15823.wav</FileName>
+  <ClassId>uqmxmf</ClassId>
+  <Date>2011-12-05</Date>
+  <Time>08:00</Time>
+  <Locality>Humedal Jaboque, ciudad de Bogota</Locality>
+  <Latitude>4.7075</Latitude>
+  <Longitude>-74.1278</Longitude>
+  <Elevation>2300</Elevation>
+  <Author>Oswaldo Cortes</Author>
+  <AuthorID>VVDRVZCVWW</AuthorID>
+  <Content>song</Content>
+  <Comments />
+  <Quality>3</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Icteridae</Family>
+  <Genus>Chrysomus</Genus>
+  <Species>icterocephalus</Species>
+  <Sub-species />
+  <VernacularNames>Yellow-hooded Blackbird</VernacularNames>
+</Audio>

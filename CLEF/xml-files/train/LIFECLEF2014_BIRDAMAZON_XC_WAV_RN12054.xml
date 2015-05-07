@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>12054</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN12054.wav</FileName>
+  <ClassId>ebxlim</ClassId>
+  <Date>2012-10-31</Date>
+  <Time>17:30</Time>
+  <Locality>Poconé, Mato Grosso</Locality>
+  <Latitude>-16.5617</Latitude>
+  <Longitude>-56.6984</Longitude>
+  <Elevation>120</Elevation>
+  <Author>Paulo Affonso Fonseca Pires Neto</Author>
+  <AuthorID>QOMWCAGQJX</AuthorID>
+  <Content>call</Content>
+  <Comments>bird-seen:yes</Comments>
+  <Quality>2</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Thamnophilidae</Family>
+  <Genus>Taraba</Genus>
+  <Species>major</Species>
+  <Sub-species />
+  <VernacularNames>Great Antshrike</VernacularNames>
+</Audio>

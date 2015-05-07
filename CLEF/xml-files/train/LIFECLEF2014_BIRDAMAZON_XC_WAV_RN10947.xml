@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>10947</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN10947.wav</FileName>
+  <ClassId>hdkmhj</ClassId>
+  <Date>2006-10-22</Date>
+  <Time>9:25</Time>
+  <Locality>Praça da Jaqueira, Recife, Pernambuco</Locality>
+  <Latitude>-8.036815</Latitude>
+  <Longitude>-34.904702</Longitude>
+  <Elevation>0</Elevation>
+  <Author>Mauricio Cabral Periquito</Author>
+  <AuthorID>HERKCTHDZI</AuthorID>
+  <Content>call</Content>
+  <Comments>A little flock of four individuals</Comments>
+  <Quality>4</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Tyrannidae</Family>
+  <Genus>Fluvicola</Genus>
+  <Species>nengeta</Species>
+  <Sub-species />
+  <VernacularNames>Masked Water Tyrant</VernacularNames>
+</Audio>

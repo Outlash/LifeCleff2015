@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>14108</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN14108.wav</FileName>
+  <ClassId>aaogct</ClassId>
+  <Date>2000-01-12</Date>
+  <Time>06:04</Time>
+  <Locality>Aquidauana</Locality>
+  <Latitude>-20.4834</Latitude>
+  <Longitude>-55.8167</Longitude>
+  <Elevation>174</Elevation>
+  <Author>Jeremy Minns</Author>
+  <AuthorID>DGVLLRYDXS</AuthorID>
+  <Content>Song</Content>
+  <Comments>Road to Barra Mansa. Pasture in cerrado with bushes and patches of forest.</Comments>
+  <Quality>2</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies>Crypturellus parvirostris,Leptotila verreauxi,Poecilotriccus latirostris</BackgroundSpecies>
+  <Order>Passeriformes</Order>
+  <Family>Icteridae</Family>
+  <Genus>Icterus</Genus>
+  <Species>croconotus</Species>
+  <Sub-species>strictifrons</Sub-species>
+  <VernacularNames>Orange-backed Troupial</VernacularNames>
+</Audio>

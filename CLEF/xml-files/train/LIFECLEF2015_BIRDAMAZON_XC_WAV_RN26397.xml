@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>26397</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN26397.wav</FileName>
+  <ClassId>ppearp</ClassId>
+  <Date>2013-07-02</Date>
+  <Time>09:30</Time>
+  <Locality>Playa Güio - San José del Guaviare</Locality>
+  <Latitude>2.5828</Latitude>
+  <Longitude>-72.717</Longitude>
+  <Elevation>180</Elevation>
+  <Author>Manuel Sanchez</Author>
+  <AuthorID>BBFFGHPZZQ</AuthorID>
+  <Content>call, song</Content>
+  <Comments>Beginning with raspy notes.bird-seen:yesplayback-used:no</Comments>
+  <Quality>1</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies>Anhima cornuta</BackgroundSpecies>
+  <Order>Passeriformes</Order>
+  <Family>Tyrannidae</Family>
+  <Genus>Tolmomyias</Genus>
+  <Species>flaviventris</Species>
+  <Sub-species>undetermined</Sub-species>
+  <VernacularNames>Ochre-lored Flatbill</VernacularNames>
+</Audio>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>331</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN331.wav</FileName>
+  <ClassId>eejqqp</ClassId>
+  <Date>2012-02-07</Date>
+  <Time>7</Time>
+  <Locality>Banhado do Maçarico region, Rio Grande, Rio Grande do Sul</Locality>
+  <Latitude>-32.519</Latitude>
+  <Longitude>-52.477</Longitude>
+  <Elevation>3</Elevation>
+  <Author>Rafael Antunes Dias</Author>
+  <AuthorID>XJSWEWQCEC</AuthorID>
+  <Content>call</Content>
+  <Comments>In grassland in grassland-wetland mosaic</Comments>
+  <Quality>2</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies>Xolmis irupero,Furnarius rufus,Pitangus sulphuratus,Guira guira,Myiopsitta monachus</BackgroundSpecies>
+  <Order>Passeriformes</Order>
+  <Family>Furnariidae</Family>
+  <Genus>Anumbius</Genus>
+  <Species>annumbi</Species>
+  <Sub-species />
+  <VernacularNames>Firewood-gatherer</VernacularNames>
+</Audio>

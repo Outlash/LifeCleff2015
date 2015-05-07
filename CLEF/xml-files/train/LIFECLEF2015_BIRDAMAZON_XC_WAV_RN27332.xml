@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>27332</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN27332.wav</FileName>
+  <ClassId>cqqgho</ClassId>
+  <Date>2008-02-02</Date>
+  <Time>10:30</Time>
+  <Locality>Minca, Magdalena</Locality>
+  <Latitude>11.15</Latitude>
+  <Longitude>-74.11667</Longitude>
+  <Elevation>700</Elevation>
+  <Author>Herman van Oosten</Author>
+  <AuthorID>SNUDCZVUQK</AuthorID>
+  <Content>Song</Content>
+  <Comments>Alas, the best I apparently recorded of this man-like song.</Comments>
+  <Quality>2</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Troglodytidae</Family>
+  <Genus>Thryophilus</Genus>
+  <Species>rufalbus</Species>
+  <Sub-species />
+  <VernacularNames>Rufous-and-white Wren</VernacularNames>
+</Audio>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>12414</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN12414.wav</FileName>
+  <ClassId>mfqpdt</ClassId>
+  <Date>2009-09-09</Date>
+  <Time>15:30</Time>
+  <Locality>Cristalino Jungle Lodge, MT</Locality>
+  <Latitude>-9.5981</Latitude>
+  <Longitude>-55.932</Longitude>
+  <Elevation>250</Elevation>
+  <Author>Andrew Spencer</Author>
+  <AuthorID>CDTGHVBGZP</AuthorID>
+  <Content>call, song</Content>
+  <Comments>calls and some song from a group of four birds</Comments>
+  <Quality>1</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies />
+  <Order>Piciformes</Order>
+  <Family>Galbulidae</Family>
+  <Genus>Galbula</Genus>
+  <Species>leucogastra</Species>
+  <Sub-species />
+  <VernacularNames>Bronzy Jacamar</VernacularNames>
+</Audio>

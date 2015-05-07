@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>23210</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN23210.wav</FileName>
+  <ClassId>dgocsv</ClassId>
+  <Date>2007-08-10</Date>
+  <Time>10:15</Time>
+  <Locality>Humedal de Cordoba, Bogota, Cundinamarca</Locality>
+  <Latitude>NULL</Latitude>
+  <Longitude>NULL</Longitude>
+  <Elevation>2600</Elevation>
+  <Author>Bernabe Lopez-Lanus</Author>
+  <AuthorID>BYLLSJRVDZ</AuthorID>
+  <Content>Call</Content>
+  <Comments />
+  <Quality>3</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Psittaciformes</Order>
+  <Family>Psittacidae</Family>
+  <Genus>Forpus</Genus>
+  <Species>conspicillatus</Species>
+  <Sub-species>conspicillatus</Sub-species>
+  <VernacularNames>Spectacled Parrotlet</VernacularNames>
+</Audio>

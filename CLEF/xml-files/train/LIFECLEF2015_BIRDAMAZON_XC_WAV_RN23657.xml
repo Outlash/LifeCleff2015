@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>23657</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN23657.wav</FileName>
+  <ClassId>hijhrx</ClassId>
+  <Date>2010-04-18</Date>
+  <Time>9:30 PM</Time>
+  <Locality>Reinita Azul ProAves reserve</Locality>
+  <Latitude>6.8464</Latitude>
+  <Longitude>-73.3751</Longitude>
+  <Elevation>?</Elevation>
+  <Author>Fabrice Schmitt</Author>
+  <AuthorID>FPAGKPAQYO</AuthorID>
+  <Content>song</Content>
+  <Comments>without playback</Comments>
+  <Quality>1</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Strigiformes</Order>
+  <Family>Strigidae</Family>
+  <Genus>Megascops</Genus>
+  <Species>choliba</Species>
+  <Sub-species />
+  <VernacularNames>Tropical Screech Owl</VernacularNames>
+</Audio>

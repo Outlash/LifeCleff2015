@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>25519</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN25519.wav</FileName>
+  <ClassId>xkvxmc</ClassId>
+  <Date>2008-01-31</Date>
+  <Time>14:30</Time>
+  <Locality>Cotumbo road, Aragua</Locality>
+  <Latitude>10.4167</Latitude>
+  <Longitude>-67.7834</Longitude>
+  <Elevation>60</Elevation>
+  <Author>Daniel Lane</Author>
+  <AuthorID>WOEAFQRMUD</AuthorID>
+  <Content>call</Content>
+  <Comments>Natural calls from unseen individual in dense vegetation along creek.</Comments>
+  <Quality>2</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Turdidae</Family>
+  <Genus>Turdus</Genus>
+  <Species>nudigenis</Species>
+  <Sub-species />
+  <VernacularNames>Spectacled Thrush</VernacularNames>
+</Audio>

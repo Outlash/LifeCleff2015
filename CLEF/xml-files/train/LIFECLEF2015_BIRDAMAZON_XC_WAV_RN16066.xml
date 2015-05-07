@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>16066</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN16066.wav</FileName>
+  <ClassId>dvpcru</ClassId>
+  <Date>2000-04-15</Date>
+  <Time>08:00</Time>
+  <Locality>Laguna de Pedro Palo, Tena, Cundinamarca</Locality>
+  <Latitude>NULL</Latitude>
+  <Longitude>NULL</Longitude>
+  <Elevation>2150</Elevation>
+  <Author>Bernabe Lopez-Lanus</Author>
+  <AuthorID>BYLLSJRVDZ</AuthorID>
+  <Content>song</Content>
+  <Comments>Also Coereba flaveola</Comments>
+  <Quality>2</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies>Coereba flaveola</BackgroundSpecies>
+  <Order>Piciformes</Order>
+  <Family>Bucconidae</Family>
+  <Genus>Malacoptila</Genus>
+  <Species>mystacalis</Species>
+  <Sub-species />
+  <VernacularNames>Moustached Puffbird</VernacularNames>
+</Audio>

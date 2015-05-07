@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>30400</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN30400.wav</FileName>
+  <ClassId>zreufv</ClassId>
+  <Date>2010-11-02</Date>
+  <Time>09:13</Time>
+  <Locality>Sitio Tomio, Salete, Santa Catarina State</Locality>
+  <Latitude>-26.995</Latitude>
+  <Longitude>-50.014</Longitude>
+  <Elevation>460</Elevation>
+  <Author>Douglas Meyer</Author>
+  <AuthorID>MNENFHYTAE</AuthorID>
+  <Content>male, song</Content>
+  <Comments>bird-seen:yesplayback-used:no</Comments>
+  <Quality>0</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Tityridae</Family>
+  <Genus>Pachyramphus</Genus>
+  <Species>polychopterus</Species>
+  <Sub-species />
+  <VernacularNames>White-winged Becard</VernacularNames>
+</Audio>

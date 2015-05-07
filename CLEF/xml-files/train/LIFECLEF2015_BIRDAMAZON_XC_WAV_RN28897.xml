@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>28897</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN28897.wav</FileName>
+  <ClassId>cwhfyt</ClassId>
+  <Date>2009-01-00</Date>
+  <Time>xx:xx</Time>
+  <Locality>RNA El Dorado, Sierra de Santa Marta, Magdalena</Locality>
+  <Latitude>11.1009</Latitude>
+  <Longitude>-74.072</Longitude>
+  <Elevation>1800</Elevation>
+  <Author>Thomas Donegan</Author>
+  <AuthorID>OXSIOLJJUP</AuthorID>
+  <Content>Call</Content>
+  <Comments>ID'd on the recording by Trevor Ellery</Comments>
+  <Quality>2</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Vireonidae</Family>
+  <Genus>Vireo</Genus>
+  <Species>leucophrys</Species>
+  <Sub-species />
+  <VernacularNames>Brown-capped Vireo</VernacularNames>
+</Audio>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>8908</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN8908.wav</FileName>
+  <ClassId>zyxlne</ClassId>
+  <Date>2003-03-30</Date>
+  <Time>11:51</Time>
+  <Locality>Guajará-Mirim, RO</Locality>
+  <Latitude>-10.8814</Latitude>
+  <Longitude>-65.2501</Longitude>
+  <Elevation>130</Elevation>
+  <Author>Jeremy Minns</Author>
+  <AuthorID>DGVLLRYDXS</AuthorID>
+  <Content>Song</Content>
+  <Comments>Terra firme forest.</Comments>
+  <Quality>2</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies>Myrmeciza hemimelaena</BackgroundSpecies>
+  <Order>Passeriformes</Order>
+  <Family>Thamnophilidae</Family>
+  <Genus>Thamnomanes</Genus>
+  <Species>saturninus</Species>
+  <Sub-species>saturninus</Sub-species>
+  <VernacularNames>Saturnine Antshrike</VernacularNames>
+</Audio>

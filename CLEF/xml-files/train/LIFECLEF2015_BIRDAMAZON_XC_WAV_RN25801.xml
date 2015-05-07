@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>25801</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN25801.wav</FileName>
+  <ClassId>tftkvo</ClassId>
+  <Date>1993-12-30</Date>
+  <Time>?</Time>
+  <Locality>Cundinamarca, Tabio, Finca Agua Caliente, 1Km al oeste de Tabio</Locality>
+  <Latitude>4.918611</Latitude>
+  <Longitude>-74.11667</Longitude>
+  <Elevation>2600</Elevation>
+  <Author>Gary Stiles (Colección de Sonidos Ambientales - Instituto Humboldt)</Author>
+  <AuthorID>XMFDPACYJN</AuthorID>
+  <Content>song</Content>
+  <Comments>BSA 10985To obtain a wav file of the original recording, please contact csa@humboldt.org.cobird-seen:noplayback-used:no</Comments>
+  <Quality>5</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Furnariidae</Family>
+  <Genus>Synallaxis</Genus>
+  <Species>subpudica</Species>
+  <Sub-species />
+  <VernacularNames>Silvery-throated Spinetail</VernacularNames>
+</Audio>

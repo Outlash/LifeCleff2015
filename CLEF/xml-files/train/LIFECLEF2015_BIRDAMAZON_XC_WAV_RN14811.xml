@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>14811</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN14811.wav</FileName>
+  <ClassId>sjimuc</ClassId>
+  <Date>2011-07-16</Date>
+  <Time>?</Time>
+  <Locality>vereda El Delirio, Orocue, Casanare</Locality>
+  <Latitude>4.8</Latitude>
+  <Longitude>-71.35</Longitude>
+  <Elevation>130</Elevation>
+  <Author>Sergio Chaparro Herrera</Author>
+  <AuthorID>RJLERWCWGE</AuthorID>
+  <Content>song</Content>
+  <Comments>bird-seen:yesplayback-used:no</Comments>
+  <Quality>0</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Thamnophilidae</Family>
+  <Genus>Hypocnemoides</Genus>
+  <Species>melanopogon</Species>
+  <Sub-species />
+  <VernacularNames>Black-chinned Antbird</VernacularNames>
+</Audio>

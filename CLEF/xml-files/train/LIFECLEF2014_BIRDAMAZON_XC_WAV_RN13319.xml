@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>13319</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN13319.wav</FileName>
+  <ClassId>mztxid</ClassId>
+  <Date>2005-04-10</Date>
+  <Time>10:05</Time>
+  <Locality>Reserva Ecológica de Guapiaçu, RJ</Locality>
+  <Latitude>-22.5001</Latitude>
+  <Longitude>-42.7167</Longitude>
+  <Elevation>35</Elevation>
+  <Author>Nick Athanas</Author>
+  <AuthorID>XRABICUARW</AuthorID>
+  <Content>song</Content>
+  <Comments>Song from a pair.</Comments>
+  <Quality>2</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies>Troglodytes aedon,Volatinia jacarina</BackgroundSpecies>
+  <Order>Passeriformes</Order>
+  <Family>Thraupidae</Family>
+  <Genus>Thraupis</Genus>
+  <Species>sayaca</Species>
+  <Sub-species>sayaca</Sub-species>
+  <VernacularNames>Sayaca Tanager</VernacularNames>
+</Audio>

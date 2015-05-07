@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>18899</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN18899.wav</FileName>
+  <ClassId>skjryu</ClassId>
+  <Date>2008-01-16</Date>
+  <Time>10:30</Time>
+  <Locality>Parque Regional Barbas-Bremen, Filandia, Quindio. Sector Barbas</Locality>
+  <Latitude>4.6717</Latitude>
+  <Longitude>-75.6283</Longitude>
+  <Elevation>1800</Elevation>
+  <Author>Oscar Humberto Marin-Gomez</Author>
+  <AuthorID>CSUHASNRSU</AuthorID>
+  <Content>call</Content>
+  <Comments>OHM022A 0320. Two individuals singing actively in the Canopy. In the Background Cauca Poison Frog (Andinobates bombetes)bird-seen:yesplayback-used:no</Comments>
+  <Quality>1</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Tyrannidae</Family>
+  <Genus>Zimmerius</Genus>
+  <Species>chrysops</Species>
+  <Sub-species />
+  <VernacularNames>Golden-faced Tyrannulet</VernacularNames>
+</Audio>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>10255</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN10255.wav</FileName>
+  <ClassId>vjavkh</ClassId>
+  <Date>2004-04-07</Date>
+  <Time>06:49</Time>
+  <Locality>Intervales State Park. Carmo road</Locality>
+  <Latitude>-24.2834</Latitude>
+  <Longitude>-48.4334</Longitude>
+  <Elevation>800</Elevation>
+  <Author>Jeremy Minns</Author>
+  <AuthorID>DGVLLRYDXS</AuthorID>
+  <Content>call</Content>
+  <Comments>Humid forest. Two birds vocalizing. This is Call B in our DVD-ROM 'Birds of Brazil'.</Comments>
+  <Quality>1</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies>Drymophila ferruginea</BackgroundSpecies>
+  <Order>Passeriformes</Order>
+  <Family>Thamnophilidae</Family>
+  <Genus>Rhopias</Genus>
+  <Species>gularis</Species>
+  <Sub-species />
+  <VernacularNames>Star-throated Antwren</VernacularNames>
+</Audio>

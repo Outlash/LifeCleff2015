@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>13640</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN13640.wav</FileName>
+  <ClassId>nknnjw</ClassId>
+  <Date>2011-04-25</Date>
+  <Time>1:00 PM</Time>
+  <Locality>Serra de Geral</Locality>
+  <Latitude>-29.0778</Latitude>
+  <Longitude>-49.9973</Longitude>
+  <Elevation>?</Elevation>
+  <Author>Fabrice Schmitt</Author>
+  <AuthorID>FPAGKPAQYO</AuthorID>
+  <Content>song</Content>
+  <Comments>without playback</Comments>
+  <Quality>1</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Parulidae</Family>
+  <Genus>Myiothlypis</Genus>
+  <Species>leucoblephara</Species>
+  <Sub-species />
+  <VernacularNames>White-rimmed Warbler</VernacularNames>
+</Audio>

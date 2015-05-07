@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>18788</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN18788.wav</FileName>
+  <ClassId>upfjhp</ClassId>
+  <Date>1998-11-21</Date>
+  <Time>08:30</Time>
+  <Locality>El Bosque, Reserva Zona Alta Rio Quindio, Quindio</Locality>
+  <Latitude>NULL</Latitude>
+  <Longitude>NULL</Longitude>
+  <Elevation>3400</Elevation>
+  <Author>Bernabe Lopez-Lanus</Author>
+  <AuthorID>BYLLSJRVDZ</AuthorID>
+  <Content>call, song</Content>
+  <Comments>Two birds. Listen the SONG!, must to be a true species: C. tolimae</Comments>
+  <Quality>2</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Troglodytidae</Family>
+  <Genus>Cistothorus</Genus>
+  <Species>platensis</Species>
+  <Sub-species>tolimae</Sub-species>
+  <VernacularNames>Sedge Wren</VernacularNames>
+</Audio>

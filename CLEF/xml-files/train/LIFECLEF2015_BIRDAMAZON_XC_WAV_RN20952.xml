@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>20952</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN20952.wav</FileName>
+  <ClassId>ytwasa</ClassId>
+  <Date>2009-11-11</Date>
+  <Time>7:30</Time>
+  <Locality>Balbina, Presidente Figueiredo, Amazonas (S1 56' W59 25')</Locality>
+  <Latitude>NULL</Latitude>
+  <Longitude>NULL</Longitude>
+  <Elevation>50</Elevation>
+  <Author>Marco Aurélio-Silva</Author>
+  <AuthorID>MHNPLZNVHP</AuthorID>
+  <Content>alarm call</Content>
+  <Comments />
+  <Quality>3</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Troglodytidae</Family>
+  <Genus>Henicorhina</Genus>
+  <Species>leucosticta</Species>
+  <Sub-species />
+  <VernacularNames>White-breasted Wood Wren</VernacularNames>
+</Audio>

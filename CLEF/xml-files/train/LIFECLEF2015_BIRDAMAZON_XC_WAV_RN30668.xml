@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>30668</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN30668.wav</FileName>
+  <ClassId>lgpxjn</ClassId>
+  <Date>2002-10-29</Date>
+  <Time>09:20</Time>
+  <Locality>Parque Nacional da Serra do Cipó, Minas Gerais State</Locality>
+  <Latitude>-19.3481</Latitude>
+  <Longitude>-43.6189</Longitude>
+  <Elevation>1200</Elevation>
+  <Author>Jeremy Minns</Author>
+  <AuthorID>DGVLLRYDXS</AuthorID>
+  <Content>Song</Content>
+  <Comments>Rocky cerrado.</Comments>
+  <Quality>2</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Tyrannidae</Family>
+  <Genus>Elaenia</Genus>
+  <Species>chiriquensis</Species>
+  <Sub-species>albivertex</Sub-species>
+  <VernacularNames>Lesser Elaenia</VernacularNames>
+</Audio>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>10797</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN10797.wav</FileName>
+  <ClassId>dkinxl</ClassId>
+  <Date>2002-11-28</Date>
+  <Time>07:06</Time>
+  <Locality>Santa Catarina, near Urubici</Locality>
+  <Latitude>-27.83</Latitude>
+  <Longitude>-49.58</Longitude>
+  <Elevation>915</Elevation>
+  <Author>Jeremy Minns</Author>
+  <AuthorID>DGVLLRYDXS</AuthorID>
+  <Content>flight call</Content>
+  <Comments>Same place. Single bird.</Comments>
+  <Quality>2</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies />
+  <Order>Psittaciformes</Order>
+  <Family>Psittacidae</Family>
+  <Genus>Amazona</Genus>
+  <Species>vinacea</Species>
+  <Sub-species />
+  <VernacularNames>Vinaceous-breasted Amazon</VernacularNames>
+</Audio>

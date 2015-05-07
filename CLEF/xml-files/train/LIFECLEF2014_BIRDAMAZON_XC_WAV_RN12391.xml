@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>12391</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN12391.wav</FileName>
+  <ClassId>bljpac</ClassId>
+  <Date>2008-02-05</Date>
+  <Time>10:45</Time>
+  <Locality>Birigui, Sao Paulo state</Locality>
+  <Latitude>-21.2451</Latitude>
+  <Longitude>-50.3734</Longitude>
+  <Elevation>390</Elevation>
+  <Author>Joao Menezes</Author>
+  <AuthorID>BEYMZHZHIB</AuthorID>
+  <Content>Calls (possibly alarm calls)</Content>
+  <Comments />
+  <Quality>1</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies>Crotophaga ani</BackgroundSpecies>
+  <Order>Pelecaniformes</Order>
+  <Family>Ardeidae</Family>
+  <Genus>Butorides</Genus>
+  <Species>striata</Species>
+  <Sub-species />
+  <VernacularNames>Striated Heron</VernacularNames>
+</Audio>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>3760</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN3760.wav</FileName>
+  <ClassId>dzaamy</ClassId>
+  <Date>2011-01-05</Date>
+  <Time>10:00</Time>
+  <Locality>Ubatuba-São Paulo</Locality>
+  <Latitude>NULL</Latitude>
+  <Longitude>NULL</Longitude>
+  <Elevation>15</Elevation>
+  <Author>Rodrigo Dela rosa</Author>
+  <AuthorID>VGXDJMKETZ</AuthorID>
+  <Content>Song</Content>
+  <Comments />
+  <Quality>1</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies>Trogon viridis,Chiroxiphia caudata</BackgroundSpecies>
+  <Order>Passeriformes</Order>
+  <Family>Furnariidae</Family>
+  <Genus>Sclerurus</Genus>
+  <Species>mexicanus</Species>
+  <Sub-species />
+  <VernacularNames>Tawny-throated Leaftosser</VernacularNames>
+</Audio>

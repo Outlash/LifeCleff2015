@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>16629</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN16629.wav</FileName>
+  <ClassId>tamtav</ClassId>
+  <Date>2001-05-26</Date>
+  <Time>pm</Time>
+  <Locality>Reserva Los Besotes_Vereda Los Besotes (Cerro Los Besotes), municipio Valledupar, Cesar</Locality>
+  <Latitude>NULL</Latitude>
+  <Longitude>NULL</Longitude>
+  <Elevation>300</Elevation>
+  <Author>Bernabe Lopez-Lanus</Author>
+  <AuthorID>BYLLSJRVDZ</AuthorID>
+  <Content>Trisyllabic song</Content>
+  <Comments>Three-syllabic song. This game bird is locally know by the hunters as  'Juan Bobo' by phonetic. 'Juan Bobo' mean 'Silly John' :-)... The hunters make this whistles by self to attract the birds, and work!</Comments>
+  <Quality>1</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Tinamiformes</Order>
+  <Family>Tinamidae</Family>
+  <Genus>Crypturellus</Genus>
+  <Species>erythropus</Species>
+  <Sub-species>idoneus</Sub-species>
+  <VernacularNames>Red-legged Tinamou</VernacularNames>
+</Audio>

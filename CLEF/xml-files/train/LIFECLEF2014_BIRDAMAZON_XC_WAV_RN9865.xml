@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>9865</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN9865.wav</FileName>
+  <ClassId>hdtboj</ClassId>
+  <Date>2004-02-22</Date>
+  <Time>xx:xx</Time>
+  <Locality>Parque Nacional Itatiaia (Hotel Simon), Rio de Janeiro</Locality>
+  <Latitude>NULL</Latitude>
+  <Longitude>NULL</Longitude>
+  <Elevation>1080</Elevation>
+  <Author>Bernabe Lopez-Lanus</Author>
+  <AuthorID>BYLLSJRVDZ</AuthorID>
+  <Content>Call</Content>
+  <Comments />
+  <Quality>0</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Tyrannidae</Family>
+  <Genus>Hirundinea</Genus>
+  <Species>ferruginea</Species>
+  <Sub-species>bellicosa</Sub-species>
+  <VernacularNames>Cliff Flycatcher</VernacularNames>
+</Audio>

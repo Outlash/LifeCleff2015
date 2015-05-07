@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>10332</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN10332.wav</FileName>
+  <ClassId>nkvtmg</ClassId>
+  <Date>2005-11-23</Date>
+  <Time>10:00</Time>
+  <Locality>Porteiras, Altinho, Pernambuco</Locality>
+  <Latitude>-8.3</Latitude>
+  <Longitude>-37.75</Longitude>
+  <Elevation>340</Elevation>
+  <Author>Glauco Alves Pereira</Author>
+  <AuthorID>ZWEROGGYVP</AuthorID>
+  <Content>song</Content>
+  <Comments>caatinga</Comments>
+  <Quality>1</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies>Cyclarhis gujanensis</BackgroundSpecies>
+  <Order>Columbiformes</Order>
+  <Family>Columbidae</Family>
+  <Genus>Leptotila</Genus>
+  <Species>verreauxi</Species>
+  <Sub-species />
+  <VernacularNames>White-tipped Dove</VernacularNames>
+</Audio>

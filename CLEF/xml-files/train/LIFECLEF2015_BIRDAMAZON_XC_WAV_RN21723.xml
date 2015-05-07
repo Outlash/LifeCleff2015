@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>21723</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN21723.wav</FileName>
+  <ClassId>mlluku</ClassId>
+  <Date>2013-01-16</Date>
+  <Time>07:30</Time>
+  <Locality>Araripe National Forest, Crato, Ceará State</Locality>
+  <Latitude>-7.2501</Latitude>
+  <Longitude>-39.5834</Longitude>
+  <Elevation>900</Elevation>
+  <Author>Dan Lane</Author>
+  <AuthorID>WOEAFQRMUD</AuthorID>
+  <Content>song</Content>
+  <Comments>Natural song from an unseen bird &lt; 2m from the ground within short-stature (canopy about 10-12m) sandy-soil forest. bird-seen:noplayback-used:no</Comments>
+  <Quality>2</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies>Myiothlypis flaveola</BackgroundSpecies>
+  <Order>Passeriformes</Order>
+  <Family>Grallariidae</Family>
+  <Genus>Hylopezus</Genus>
+  <Species>ochroleucus</Species>
+  <Sub-species />
+  <VernacularNames>White-browed Antpitta</VernacularNames>
+</Audio>

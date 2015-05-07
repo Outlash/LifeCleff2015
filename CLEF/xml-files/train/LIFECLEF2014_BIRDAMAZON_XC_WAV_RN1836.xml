@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>1836</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN1836.wav</FileName>
+  <ClassId>eupamv</ClassId>
+  <Date>2008-06-14</Date>
+  <Time>11:00</Time>
+  <Locality>?</Locality>
+  <Latitude>NULL</Latitude>
+  <Longitude>NULL</Longitude>
+  <Elevation>600</Elevation>
+  <Author>www.aapimentao.com.br</Author>
+  <AuthorID>VVQBELMRMH</AuthorID>
+  <Content>?</Content>
+  <Comments>*admin note: coordinates originally entered as (-5.9667, 143.0667)*</Comments>
+  <Quality>1</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Fringillidae</Family>
+  <Genus>Euphonia</Genus>
+  <Species>violacea</Species>
+  <Sub-species />
+  <VernacularNames>Violaceous Euphonia</VernacularNames>
+</Audio>

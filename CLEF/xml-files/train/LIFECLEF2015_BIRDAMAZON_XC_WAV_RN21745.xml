@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>21745</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN21745.wav</FileName>
+  <ClassId>vmhibv</ClassId>
+  <Date>2013-05-22</Date>
+  <Time>17:00</Time>
+  <Locality>Camarones</Locality>
+  <Latitude>11.4317</Latitude>
+  <Longitude>-73.0714</Longitude>
+  <Elevation>0</Elevation>
+  <Author>Diego Calderon-F.</Author>
+  <AuthorID>OGATBVKNAG</AuthorID>
+  <Content>call</Content>
+  <Comments>bird-seen:yesplayback-used:yes</Comments>
+  <Quality>3</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Furnariidae</Family>
+  <Genus>Synallaxis</Genus>
+  <Species>candei</Species>
+  <Sub-species>venezuelensis</Sub-species>
+  <VernacularNames>White-whiskered Spinetail</VernacularNames>
+</Audio>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>15723</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN15723.wav</FileName>
+  <ClassId>nehqqq</ClassId>
+  <Date>2012-07-22</Date>
+  <Time>13:00</Time>
+  <Locality>AICA La Patasola, Vereda Boquía, Salento, Quindio</Locality>
+  <Latitude>4.6861</Latitude>
+  <Longitude>-75.5472</Longitude>
+  <Elevation>2300</Elevation>
+  <Author>Oscar H. Marín-Gómez</Author>
+  <AuthorID>CSUHASNRSU</AuthorID>
+  <Content>Antifonal Duetting, song</Content>
+  <Comments>Ref OHM100S.  Rewritten to XC128604. Two individuals singing in forest edge. 15m to Mic. Montane Forest.bird-seen:yesplayback-used:no</Comments>
+  <Quality>2</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Vireonidae</Family>
+  <Genus>Cyclarhis</Genus>
+  <Species>nigrirostris</Species>
+  <Sub-species />
+  <VernacularNames>Black-billed Peppershrike</VernacularNames>
+</Audio>

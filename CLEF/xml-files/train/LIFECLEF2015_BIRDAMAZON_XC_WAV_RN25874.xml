@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>25874</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN25874.wav</FileName>
+  <ClassId>xlnesq</ClassId>
+  <Date>2008-04-10</Date>
+  <Time>08:30</Time>
+  <Locality>Zapatoca, Santander Department</Locality>
+  <Latitude>6.8241</Latitude>
+  <Longitude>-73.212</Longitude>
+  <Elevation>850</Elevation>
+  <Author>Sandra V. Valderrama</Author>
+  <AuthorID>UOHFLNETZD</AuthorID>
+  <Content>song</Content>
+  <Comments>bird-seen:yesplayback-used:no</Comments>
+  <Quality>1</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Icteridae</Family>
+  <Genus>Icterus</Genus>
+  <Species>icterus</Species>
+  <Sub-species />
+  <VernacularNames>Venezuelan Troupial</VernacularNames>
+</Audio>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>22747</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN22747.wav</FileName>
+  <ClassId>pfbymd</ClassId>
+  <Date>1998-05-11</Date>
+  <Time>?</Time>
+  <Locality>SFF Iguaque, Chiquiza, Boyacá</Locality>
+  <Latitude>5.633333</Latitude>
+  <Longitude>-73.48333</Longitude>
+  <Elevation>2700-3000</Elevation>
+  <Author>Mauricio Álvarez Rebolledo (Colección de Sonidos Ambientales - Instituto Humboldt)</Author>
+  <AuthorID>XMFDPACYJN</AuthorID>
+  <Content>Mecánico/call</Content>
+  <Comments>BSA 10370To obtain a wav file of the original recording, please contact csa@humboldt.org.cobird-seen:yesplayback-used:no</Comments>
+  <Quality>2</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies>Troglodytes aedon</BackgroundSpecies>
+  <Order>Apodiformes</Order>
+  <Family>Trochilidae</Family>
+  <Genus>Heliangelus</Genus>
+  <Species>amethysticollis</Species>
+  <Sub-species />
+  <VernacularNames>Amethyst-throated Sunangel</VernacularNames>
+</Audio>

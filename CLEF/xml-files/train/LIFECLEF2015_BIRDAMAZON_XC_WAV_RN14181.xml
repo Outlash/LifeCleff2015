@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>14181</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN14181.wav</FileName>
+  <ClassId>fswlca</ClassId>
+  <Date>2005-07-00</Date>
+  <Time>xx:xx</Time>
+  <Locality>La Luchata, above Galan, Serrania de los Yariguies, Santander</Locality>
+  <Latitude>6.6292</Latitude>
+  <Longitude>-73.3151</Longitude>
+  <Elevation>2000</Elevation>
+  <Author>Thomas Donegan</Author>
+  <AuthorID>OXSIOLJJUP</AuthorID>
+  <Content>Song</Content>
+  <Comments>Unknown mystery in background</Comments>
+  <Quality>2</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Thamnophilidae</Family>
+  <Genus>Thamnophilus</Genus>
+  <Species>unicolor</Species>
+  <Sub-species />
+  <VernacularNames>Uniform Antshrike</VernacularNames>
+</Audio>

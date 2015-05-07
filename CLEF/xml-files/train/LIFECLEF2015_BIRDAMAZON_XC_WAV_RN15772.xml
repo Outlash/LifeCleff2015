@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>15772</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN15772.wav</FileName>
+  <ClassId>txbnxk</ClassId>
+  <Date>2014-07-28</Date>
+  <Time>13:30</Time>
+  <Locality>Bituima, Cundinamarca</Locality>
+  <Latitude>4.8724</Latitude>
+  <Longitude>-74.5405</Longitude>
+  <Elevation>1400</Elevation>
+  <Author>Juan David González Barreto</Author>
+  <AuthorID>EYWGVLKVUN</AuthorID>
+  <Content>alarm call</Content>
+  <Comments>bird-seen:noplayback-used:no</Comments>
+  <Quality>3</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Troglodytidae</Family>
+  <Genus>Pheugopedius</Genus>
+  <Species>sclateri</Species>
+  <Sub-species />
+  <VernacularNames>Speckle-breasted Wren</VernacularNames>
+</Audio>

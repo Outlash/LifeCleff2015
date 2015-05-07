@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>25209</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN25209.wav</FileName>
+  <ClassId>fjiyjf</ClassId>
+  <Date>2012-07-21</Date>
+  <Time>12:09</Time>
+  <Locality>Serra do Brigadeiro State Park, Araponga, Minas Gerais</Locality>
+  <Latitude>-20.6878</Latitude>
+  <Longitude>-42.4551</Longitude>
+  <Elevation>1570</Elevation>
+  <Author>Luiz Gabriel Mazzoni</Author>
+  <AuthorID>MPOKMOFDDX</AuthorID>
+  <Content>male, song</Content>
+  <Comments>In the trail to Pico do Boné. Small clumps of bamboo.bird-seen:yesplayback-used:yes""</Comments>
+  <Quality>1</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies>Mackenziaena severa,Drymophila ochropyga</BackgroundSpecies>
+  <Order>Passeriformes</Order>
+  <Family>Thamnophilidae</Family>
+  <Genus>Drymophila</Genus>
+  <Species>genei</Species>
+  <Sub-species />
+  <VernacularNames>Rufous-tailed Antbird</VernacularNames>
+</Audio>

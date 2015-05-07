@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>22059</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN22059.wav</FileName>
+  <ClassId>uaciky</ClassId>
+  <Date>2013-03-27</Date>
+  <Time>14:00</Time>
+  <Locality>Parque Natural Tatama</Locality>
+  <Latitude>5.113</Latitude>
+  <Longitude>-76.165</Longitude>
+  <Elevation>1800</Elevation>
+  <Author>Oswaldo Cortes</Author>
+  <AuthorID>VVDRVZCVWW</AuthorID>
+  <Content>song</Content>
+  <Comments>bird-seen:yesplayback-used:no</Comments>
+  <Quality>1</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Rhinocryptidae</Family>
+  <Genus>Scytalopus</Genus>
+  <Species>sp.nov.Alto_Pisones</Species>
+  <Sub-species />
+  <VernacularNames>Alto Pisones' Tapaculo</VernacularNames>
+</Audio>

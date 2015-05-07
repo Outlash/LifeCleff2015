@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>26948</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN26948.wav</FileName>
+  <ClassId>fevggo</ClassId>
+  <Date>2013-06-25</Date>
+  <Time>06:00</Time>
+  <Locality>Ramal Seringal Cachoeira, Xapuri, Acre</Locality>
+  <Latitude>-10.8954</Latitude>
+  <Longitude>-68.3632</Longitude>
+  <Elevation>260</Elevation>
+  <Author>Fernando Igor de Godoy</Author>
+  <AuthorID>CHDHFSVVIN</AuthorID>
+  <Content>song</Content>
+  <Comments>bird-seen:noplayback-used:no</Comments>
+  <Quality>3</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Furnariidae</Family>
+  <Genus>Lepidocolaptes</Genus>
+  <Species>albolineatus</Species>
+  <Sub-species>fatimalimae</Sub-species>
+  <VernacularNames>Lineated Woodcreeper</VernacularNames>
+</Audio>

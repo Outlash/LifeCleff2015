@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>12462</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN12462.wav</FileName>
+  <ClassId>dngkxz</ClassId>
+  <Date>2011-07-05</Date>
+  <Time>05:00</Time>
+  <Locality>Manaus, Amazonas</Locality>
+  <Latitude>-2.602</Latitude>
+  <Longitude>-59.9242</Longitude>
+  <Elevation>140</Elevation>
+  <Author>Gabriel McCrate</Author>
+  <AuthorID>QTARYWCTXX</AuthorID>
+  <Content>call, song</Content>
+  <Comments>Another recording with two mystery birds. Right after the Attila spadiceus there is a long decreasing sequence of notes that i don´t know what it could be. And right above it there is 3 short Wee notes that i also don´t know. Any help is greatly appreciated.bird-seen:noplayback-used:no</Comments>
+  <Quality>1</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies>Attila spadiceus,Lipaugus vociferans</BackgroundSpecies>
+  <Order>Passeriformes</Order>
+  <Family>Tyrannidae</Family>
+  <Genus>Tolmomyias</Genus>
+  <Species>poliocephalus</Species>
+  <Sub-species />
+  <VernacularNames>Grey-crowned Flatbill</VernacularNames>
+</Audio>

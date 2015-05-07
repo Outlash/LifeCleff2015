@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>22575</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN22575.wav</FileName>
+  <ClassId>nieuqt</ClassId>
+  <Date>2010-10-07</Date>
+  <Time>07:59</Time>
+  <Locality>Paragominas, PA, Brazil, Bacia 245</Locality>
+  <Latitude>-3.1253</Latitude>
+  <Longitude>-46.8456</Longitude>
+  <Elevation>?</Elevation>
+  <Author>Nargila Moura</Author>
+  <AuthorID>CWEIBYBYYD</AuthorID>
+  <Content>song</Content>
+  <Comments>primary forest</Comments>
+  <Quality>3</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies>Formicarius colma,Dixiphia rubrocapilla</BackgroundSpecies>
+  <Order>Falconiformes</Order>
+  <Family>Falconidae</Family>
+  <Genus>Falco</Genus>
+  <Species>rufigularis</Species>
+  <Sub-species>rufigularis</Sub-species>
+  <VernacularNames>Bat Falcon</VernacularNames>
+</Audio>

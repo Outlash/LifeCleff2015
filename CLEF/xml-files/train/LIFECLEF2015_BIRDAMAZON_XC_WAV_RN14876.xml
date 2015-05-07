@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>14876</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN14876.wav</FileName>
+  <ClassId>ozjitk</ClassId>
+  <Date>2014-08-20</Date>
+  <Time>10:30</Time>
+  <Locality>Passo do Lontra, Pantanal de Miranda, MS</Locality>
+  <Latitude>-19.2667</Latitude>
+  <Longitude>-57.0167</Longitude>
+  <Elevation>90</Elevation>
+  <Author>Gabriel Rosa</Author>
+  <AuthorID>GXMOPUMWMA</AuthorID>
+  <Content>song</Content>
+  <Comments />
+  <Quality>1</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Icteridae</Family>
+  <Genus>Molothrus</Genus>
+  <Species>oryzivorus</Species>
+  <Sub-species />
+  <VernacularNames>Giant Cowbird</VernacularNames>
+</Audio>

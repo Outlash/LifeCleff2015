@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>30947</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN30947.wav</FileName>
+  <ClassId>hwqenp</ClassId>
+  <Date>2007-12-02</Date>
+  <Time>05:45</Time>
+  <Locality>Parque Regional Barbas-Bremen, Filandia, Quindio. Sector Bremen-La Popa</Locality>
+  <Latitude>4.6717</Latitude>
+  <Longitude>-75.6283</Longitude>
+  <Elevation>1850</Elevation>
+  <Author>Oscar Humberto Marin-Gomez</Author>
+  <AuthorID>CSUHASNRSU</AuthorID>
+  <Content>Dawn chorus, call, song</Content>
+  <Comments>Ref: OHM11B 0959bird-seen:noplayback-used:no</Comments>
+  <Quality>2</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies>Arremon brunneinucha,Trogon collaris,Hylophilus semibrunneus,Setophaga pitiayumi,Pogonotriccus ophthalmicus</BackgroundSpecies>
+  <Order>Passeriformes</Order>
+  <Family>Thamnophilidae</Family>
+  <Genus>Dysithamnus</Genus>
+  <Species>mentalis</Species>
+  <Sub-species />
+  <VernacularNames>Plain Antvireo</VernacularNames>
+</Audio>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>11612</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN11612.wav</FileName>
+  <ClassId>vifxpb</ClassId>
+  <Date>2009-09-18</Date>
+  <Time>07:00</Time>
+  <Locality>Fazenda Irani, Irani - SC</Locality>
+  <Latitude>NULL</Latitude>
+  <Longitude>NULL</Longitude>
+  <Elevation>940</Elevation>
+  <Author>Leonardo R. Deconto</Author>
+  <AuthorID>VPUQSZGRCI</AuthorID>
+  <Content>song</Content>
+  <Comments />
+  <Quality>2</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies />
+  <Order>Falconiformes</Order>
+  <Family>Falconidae</Family>
+  <Genus>Micrastur</Genus>
+  <Species>ruficollis</Species>
+  <Sub-species />
+  <VernacularNames>Barred Forest Falcon</VernacularNames>
+</Audio>

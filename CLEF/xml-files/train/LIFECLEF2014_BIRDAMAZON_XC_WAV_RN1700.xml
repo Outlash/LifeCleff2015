@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>1700</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN1700.wav</FileName>
+  <ClassId>zcwqjv</ClassId>
+  <Date>1993-01-20</Date>
+  <Time>?</Time>
+  <Locality>Fazenda das Araras, Ruta Transpantaneira, Pocone, Mato Grosso</Locality>
+  <Latitude>-16.512178</Latitude>
+  <Longitude>-56.712627</Longitude>
+  <Elevation>?</Elevation>
+  <Author>Bernabe Lopez-Lanus</Author>
+  <AuthorID>BYLLSJRVDZ</AuthorID>
+  <Content>call</Content>
+  <Comments>Some birds. Perched in Mauritia palms. 99%</Comments>
+  <Quality>2</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies />
+  <Order>Psittaciformes</Order>
+  <Family>Psittacidae</Family>
+  <Genus>Ara</Genus>
+  <Species>ararauna</Species>
+  <Sub-species />
+  <VernacularNames>Blue-and-yellow Macaw</VernacularNames>
+</Audio>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>5539</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN5539.wav</FileName>
+  <ClassId>pdkcpg</ClassId>
+  <Date>2002-07-25</Date>
+  <Time>06:36</Time>
+  <Locality>Boa Nova, BA - dry forest</Locality>
+  <Latitude>-14.3834</Latitude>
+  <Longitude>-40.2001</Longitude>
+  <Elevation>740</Elevation>
+  <Author>Jeremy Minns</Author>
+  <AuthorID>DGVLLRYDXS</AuthorID>
+  <Content>call</Content>
+  <Comments>Bushes in open area at edge of dry forest.</Comments>
+  <Quality>1</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Thamnophilidae</Family>
+  <Genus>Myrmorchilus</Genus>
+  <Species>strigilatus</Species>
+  <Sub-species>strigilatus</Sub-species>
+  <VernacularNames>Stripe-backed Antbird</VernacularNames>
+</Audio>

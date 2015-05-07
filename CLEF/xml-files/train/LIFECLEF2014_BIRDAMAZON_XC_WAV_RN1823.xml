@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>1823</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN1823.wav</FileName>
+  <ClassId>hijhrx</ClassId>
+  <Date>2003-08-16</Date>
+  <Time>04:00</Time>
+  <Locality>Estação Ecológica de Murici, Alagoas</Locality>
+  <Latitude>-9.3001</Latitude>
+  <Longitude>-35.9334</Longitude>
+  <Elevation>550</Elevation>
+  <Author>Glauco Alves Pereira</Author>
+  <AuthorID>ZWEROGGYVP</AuthorID>
+  <Content>song</Content>
+  <Comments>observed in open area.</Comments>
+  <Quality>1</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies>Nyctidromus albicollis</BackgroundSpecies>
+  <Order>Strigiformes</Order>
+  <Family>Strigidae</Family>
+  <Genus>Megascops</Genus>
+  <Species>choliba</Species>
+  <Sub-species />
+  <VernacularNames>Tropical Screech Owl</VernacularNames>
+</Audio>

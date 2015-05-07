@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>29436</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN29436.wav</FileName>
+  <ClassId>gcyuvy</ClassId>
+  <Date>2011-04-02</Date>
+  <Time>09:00</Time>
+  <Locality>Pacangê forest, Michelin reserve, Ituberá, BA</Locality>
+  <Latitude>-13.8367</Latitude>
+  <Longitude>-39.2409</Longitude>
+  <Elevation>140</Elevation>
+  <Author>Juha Honkala</Author>
+  <AuthorID>UTCLOBFQPH</AuthorID>
+  <Content>call</Content>
+  <Comments>Edge of forestbird-seen:noplayback-used:no</Comments>
+  <Quality>2</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Tyrannidae</Family>
+  <Genus>Attila</Genus>
+  <Species>spadiceus</Species>
+  <Sub-species>uropygiatus</Sub-species>
+  <VernacularNames>Bright-rumped Attila</VernacularNames>
+</Audio>

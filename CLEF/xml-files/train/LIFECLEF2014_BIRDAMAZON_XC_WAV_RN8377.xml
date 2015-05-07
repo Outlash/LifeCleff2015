@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>8377</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN8377.wav</FileName>
+  <ClassId>armfvy</ClassId>
+  <Date>2011-06-12</Date>
+  <Time>11:00</Time>
+  <Locality>São José dos Campos-São Paulo</Locality>
+  <Latitude>-22.8745</Latitude>
+  <Longitude>-45.8655</Longitude>
+  <Elevation>1500</Elevation>
+  <Author>Rodrigo Dela Rosa de Souza</Author>
+  <AuthorID>VGXDJMKETZ</AuthorID>
+  <Content>call, song</Content>
+  <Comments>bird-seen:yesplayback-used:no</Comments>
+  <Quality>3</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Tyrannidae</Family>
+  <Genus>Camptostoma</Genus>
+  <Species>obsoletum</Species>
+  <Sub-species />
+  <VernacularNames>Southern Beardless Tyrannulet</VernacularNames>
+</Audio>

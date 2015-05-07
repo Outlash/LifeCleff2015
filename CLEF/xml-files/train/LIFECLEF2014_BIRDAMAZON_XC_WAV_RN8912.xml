@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>8912</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN8912.wav</FileName>
+  <ClassId>gsmjhm</ClassId>
+  <Date>2013-06-12</Date>
+  <Time>10:30</Time>
+  <Locality>Palma Sola, Santa Catarina</Locality>
+  <Latitude>-26.3247</Latitude>
+  <Longitude>-53.2885</Longitude>
+  <Elevation>850</Elevation>
+  <Author>Paulo Affonso Fonseca Pires Neto</Author>
+  <AuthorID>QOMWCAGQJX</AuthorID>
+  <Content>alarm call, flight call</Content>
+  <Comments>bird-seen:yesplayback-used:no</Comments>
+  <Quality>1</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies />
+  <Order>Psittaciformes</Order>
+  <Family>Psittacidae</Family>
+  <Genus>Pyrrhura</Genus>
+  <Species>frontalis</Species>
+  <Sub-species />
+  <VernacularNames>Maroon-bellied Parakeet</VernacularNames>
+</Audio>

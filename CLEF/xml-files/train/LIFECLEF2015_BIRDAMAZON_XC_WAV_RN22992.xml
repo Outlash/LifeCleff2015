@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>22992</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN22992.wav</FileName>
+  <ClassId>uxuaio</ClassId>
+  <Date>2000-03-18</Date>
+  <Time>08:27</Time>
+  <Locality>Laguna de Pedro Palo, Tena, Cundinamarca</Locality>
+  <Latitude>NULL</Latitude>
+  <Longitude>NULL</Longitude>
+  <Elevation>2100</Elevation>
+  <Author>Bernabe Lopez-Lanus</Author>
+  <AuthorID>BYLLSJRVDZ</AuthorID>
+  <Content>Song</Content>
+  <Comments>Response after playback</Comments>
+  <Quality>1</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Troglodytidae</Family>
+  <Genus>Pheugopedius</Genus>
+  <Species>mystacalis</Species>
+  <Sub-species>macrurus</Sub-species>
+  <VernacularNames>Whiskered Wren</VernacularNames>
+</Audio>

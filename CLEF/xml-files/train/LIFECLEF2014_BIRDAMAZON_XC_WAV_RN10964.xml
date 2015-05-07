@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>10964</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN10964.wav</FileName>
+  <ClassId>qwxjxm</ClassId>
+  <Date>2007-11-10</Date>
+  <Time>16:32</Time>
+  <Locality>Spitzkopf, Parque Nacional da Serra do Itajaí,Blumenau, Santa Catarina</Locality>
+  <Latitude>-27.0237</Latitude>
+  <Longitude>-49.1273</Longitude>
+  <Elevation>700</Elevation>
+  <Author>Adrian Eisen Rupp</Author>
+  <AuthorID>AOPMSCIDIA</AuthorID>
+  <Content>song</Content>
+  <Comments />
+  <Quality>3</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies>Hemitriccus obsoletus,Cyclarhis gujanensis</BackgroundSpecies>
+  <Order>Passeriformes</Order>
+  <Family>Tyrannidae</Family>
+  <Genus>Cnemotriccus</Genus>
+  <Species>fuscatus</Species>
+  <Sub-species>fuscatus</Sub-species>
+  <VernacularNames>Fuscous Flycatcher</VernacularNames>
+</Audio>

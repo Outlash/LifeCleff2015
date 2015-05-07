@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>7466</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN7466.wav</FileName>
+  <ClassId>qlwaes</ClassId>
+  <Date>2013-02-02</Date>
+  <Time>09:30</Time>
+  <Locality>Santa Teresa, Espirito Santo</Locality>
+  <Latitude>-19.934</Latitude>
+  <Longitude>-40.5962</Longitude>
+  <Elevation>650</Elevation>
+  <Author>Noé Eiterer</Author>
+  <AuthorID>TWSKITNQOV</AuthorID>
+  <Content>song</Content>
+  <Comments>bird-seen:yesplayback-used:no</Comments>
+  <Quality>3</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Furnariidae</Family>
+  <Genus>Xiphorhynchus</Genus>
+  <Species>fuscus</Species>
+  <Sub-species />
+  <VernacularNames>Lesser Woodcreeper</VernacularNames>
+</Audio>

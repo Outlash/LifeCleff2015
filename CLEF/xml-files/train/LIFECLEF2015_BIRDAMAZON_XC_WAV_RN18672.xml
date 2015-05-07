@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>18672</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN18672.wav</FileName>
+  <ClassId>etzhjw</ClassId>
+  <Date>2012-09-05</Date>
+  <Time>07:02</Time>
+  <Locality>Campo Belo do Sul, Santa Catarina</Locality>
+  <Latitude>-28.0068</Latitude>
+  <Longitude>-50.8742</Longitude>
+  <Elevation>900</Elevation>
+  <Author>Douglas Meyer</Author>
+  <AuthorID>MNENFHYTAE</AuthorID>
+  <Content>song</Content>
+  <Comments>bird-seen:yesplayback-used:no</Comments>
+  <Quality>2</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Tyrannidae</Family>
+  <Genus>Phyllomyias</Genus>
+  <Species>virescens</Species>
+  <Sub-species />
+  <VernacularNames>Greenish Tyrannulet</VernacularNames>
+</Audio>

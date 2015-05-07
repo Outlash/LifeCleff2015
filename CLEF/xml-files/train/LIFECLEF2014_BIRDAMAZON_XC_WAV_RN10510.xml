@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>10510</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN10510.wav</FileName>
+  <ClassId>leuotc</ClassId>
+  <Date>2000-12-03</Date>
+  <Time>07:23</Time>
+  <Locality>Porto Grande, AP. Hotel Sonho Meu</Locality>
+  <Latitude>0.6834</Latitude>
+  <Longitude>-51.4834</Longitude>
+  <Elevation>60</Elevation>
+  <Author>Jeremy Minns</Author>
+  <AuthorID>DGVLLRYDXS</AuthorID>
+  <Content>Song</Content>
+  <Comments>Terra firme forest.</Comments>
+  <Quality>1</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies>Ramphastos vitellinus,Attila spadiceus</BackgroundSpecies>
+  <Order>Passeriformes</Order>
+  <Family>Furnariidae</Family>
+  <Genus>Dendrocolaptes</Genus>
+  <Species>certhia</Species>
+  <Sub-species>certhia</Sub-species>
+  <VernacularNames>Amazonian Barred Woodcreeper</VernacularNames>
+</Audio>

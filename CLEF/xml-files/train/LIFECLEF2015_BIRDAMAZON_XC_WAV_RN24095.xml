@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>24095</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN24095.wav</FileName>
+  <ClassId>ntezht</ClassId>
+  <Date>2007-05-25</Date>
+  <Time>?:?</Time>
+  <Locality>RNA El Mirador, Génova, Quindío</Locality>
+  <Latitude>4.1395</Latitude>
+  <Longitude>-75.7356</Longitude>
+  <Elevation>3200</Elevation>
+  <Author>Frank Lambert</Author>
+  <AuthorID>YTUXOCTUEM</AuthorID>
+  <Content>flight call</Content>
+  <Comments>flight calls near nest site</Comments>
+  <Quality>0</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Psittaciformes</Order>
+  <Family>Psittacidae</Family>
+  <Genus>Hapalopsittaca</Genus>
+  <Species>fuertesi</Species>
+  <Sub-species />
+  <VernacularNames>Fuertes's Parrot</VernacularNames>
+</Audio>

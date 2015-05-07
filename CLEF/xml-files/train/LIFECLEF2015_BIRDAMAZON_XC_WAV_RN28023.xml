@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>28023</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN28023.wav</FileName>
+  <ClassId>bjsvvq</ClassId>
+  <Date>2008-01-23</Date>
+  <Time>08:45</Time>
+  <Locality>San Isidro quarry, Barinas</Locality>
+  <Latitude>8.8323</Latitude>
+  <Longitude>-70.5801</Longitude>
+  <Elevation>1500</Elevation>
+  <Author>Daniel Lane</Author>
+  <AuthorID>WOEAFQRMUD</AuthorID>
+  <Content>song</Content>
+  <Comments>Response to playback. About 1-2m up in second growth brush.</Comments>
+  <Quality>2</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies>Psarocolius angustifrons</BackgroundSpecies>
+  <Order>Passeriformes</Order>
+  <Family>Furnariidae</Family>
+  <Genus>Synallaxis</Genus>
+  <Species>cinnamomea</Species>
+  <Sub-species>aveledoi</Sub-species>
+  <VernacularNames>Stripe-breasted Spinetail</VernacularNames>
+</Audio>

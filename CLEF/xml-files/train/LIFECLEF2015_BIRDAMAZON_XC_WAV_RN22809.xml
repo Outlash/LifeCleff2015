@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>22809</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN22809.wav</FileName>
+  <ClassId>veelze</ClassId>
+  <Date>2012-04-17</Date>
+  <Time>17:31</Time>
+  <Locality>Minca, Magdalena</Locality>
+  <Latitude>11.15</Latitude>
+  <Longitude>-74.11667</Longitude>
+  <Elevation>650</Elevation>
+  <Author>Jeremy Minns</Author>
+  <AuthorID>DGVLLRYDXS</AuthorID>
+  <Content>Song</Content>
+  <Comments>Secondary scrub beside road. In upper story of an emergent.</Comments>
+  <Quality>1</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Furnariidae</Family>
+  <Genus>Xiphorhynchus</Genus>
+  <Species>susurrans</Species>
+  <Sub-species>nana</Sub-species>
+  <VernacularNames>Cocoa Woodcreeper</VernacularNames>
+</Audio>

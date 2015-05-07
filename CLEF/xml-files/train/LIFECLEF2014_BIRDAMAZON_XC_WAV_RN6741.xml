@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>6741</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN6741.wav</FileName>
+  <ClassId>uuvfxv</ClassId>
+  <Date>2010-04-30</Date>
+  <Time>7:02</Time>
+  <Locality>Parque Estadual Mata dos Godoy, Londrina, Parana</Locality>
+  <Latitude>-23.322</Latitude>
+  <Longitude>-51.152</Longitude>
+  <Elevation>600</Elevation>
+  <Author>Renan Campos de Oliveira</Author>
+  <AuthorID>SDARDTGGWP</AuthorID>
+  <Content>Song</Content>
+  <Comments>The bird was very close to microphone</Comments>
+  <Quality>1</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Parulidae</Family>
+  <Genus>Myiothlypis</Genus>
+  <Species>flaveola</Species>
+  <Sub-species />
+  <VernacularNames>Flavescent Warbler</VernacularNames>
+</Audio>

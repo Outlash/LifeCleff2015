@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>10204</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN10204.wav</FileName>
+  <ClassId>rxywkl</ClassId>
+  <Date>2013-07-14</Date>
+  <Time>08:30</Time>
+  <Locality>Rio Branco, Acre</Locality>
+  <Latitude>-9.8823</Latitude>
+  <Longitude>-67.9175</Longitude>
+  <Elevation>200</Elevation>
+  <Author>Rodrigo Dela Rosa</Author>
+  <AuthorID>VGXDJMKETZ</AuthorID>
+  <Content>song</Content>
+  <Comments>playback-used:yes</Comments>
+  <Quality>3</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Tyrannidae</Family>
+  <Genus>Phaeomyias</Genus>
+  <Species>murina</Species>
+  <Sub-species />
+  <VernacularNames>Mouse-colored Tyrannulet</VernacularNames>
+</Audio>

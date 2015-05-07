@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>2093</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN2093.wav</FileName>
+  <ClassId>nrzcow</ClassId>
+  <Date>2009-11-23</Date>
+  <Time>?</Time>
+  <Locality>Bom Jardim da Serra, Santa Catarina</Locality>
+  <Latitude>-28.4673</Latitude>
+  <Longitude>-49.6125</Longitude>
+  <Elevation>1400</Elevation>
+  <Author>Adrian Eisen Rupp</Author>
+  <AuthorID>AOPMSCIDIA</AuthorID>
+  <Content>call</Content>
+  <Comments />
+  <Quality>1</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies />
+  <Order>Piciformes</Order>
+  <Family>Picidae</Family>
+  <Genus>Colaptes</Genus>
+  <Species>campestris</Species>
+  <Sub-species />
+  <VernacularNames>Campo Flicker</VernacularNames>
+</Audio>

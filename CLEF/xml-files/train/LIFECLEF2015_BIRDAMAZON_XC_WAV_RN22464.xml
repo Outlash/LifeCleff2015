@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>22464</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN22464.wav</FileName>
+  <ClassId>upfjhp</ClassId>
+  <Date>1998-11-23</Date>
+  <Time>08:13</Time>
+  <Locality>Finca Buenos Aires, vereda Cocora (Quebrada Cardenas), Quindio</Locality>
+  <Latitude>NULL</Latitude>
+  <Longitude>NULL</Longitude>
+  <Elevation>3700</Elevation>
+  <Author>Bernabe Lopez-Lanus</Author>
+  <AuthorID>BYLLSJRVDZ</AuthorID>
+  <Content>Song</Content>
+  <Comments />
+  <Quality>1</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Troglodytidae</Family>
+  <Genus>Cistothorus</Genus>
+  <Species>platensis</Species>
+  <Sub-species>tolimae</Sub-species>
+  <VernacularNames>Sedge Wren</VernacularNames>
+</Audio>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>4943</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN4943.wav</FileName>
+  <ClassId>breyju</ClassId>
+  <Date>2008-10-12</Date>
+  <Time>06:40</Time>
+  <Locality>Palmeiras, Chapada Diamantina, Bahia.</Locality>
+  <Latitude>-12.530434</Latitude>
+  <Longitude>-41.575699</Longitude>
+  <Elevation>784</Elevation>
+  <Author>Ciro Albano</Author>
+  <AuthorID>MXVQPUKGWW</AuthorID>
+  <Content>song after play-back</Content>
+  <Comments>img:http://ciroalbano.multiply.com/photos/album/8/8#177</Comments>
+  <Quality>1</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies>Megaxenops parnaguae,Sakesphorus cristatus,Megarynchus pitangua</BackgroundSpecies>
+  <Order>Passeriformes</Order>
+  <Family>Emberizidae</Family>
+  <Genus>Arremon</Genus>
+  <Species>franciscanus</Species>
+  <Sub-species />
+  <VernacularNames>Sao Francisco Sparrow</VernacularNames>
+</Audio>

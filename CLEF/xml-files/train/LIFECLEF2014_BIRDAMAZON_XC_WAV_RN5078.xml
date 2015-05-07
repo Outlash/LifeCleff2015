@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>5078</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN5078.wav</FileName>
+  <ClassId>nrlglm</ClassId>
+  <Date>2013-02-22</Date>
+  <Time>10:00</Time>
+  <Locality>Piracicaba, São Paulo</Locality>
+  <Latitude>-22.6771</Latitude>
+  <Longitude>-47.9831</Longitude>
+  <Elevation>460</Elevation>
+  <Author>GABRIEL LEITE</Author>
+  <AuthorID>TGBFXDVERJ</AuthorID>
+  <Content>song</Content>
+  <Comments>bird-seen:yesplayback-used:no</Comments>
+  <Quality>2</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies />
+  <Order>Falconiformes</Order>
+  <Family>Falconidae</Family>
+  <Genus>Caracara</Genus>
+  <Species>plancus</Species>
+  <Sub-species />
+  <VernacularNames>Southern Crested Caracara</VernacularNames>
+</Audio>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>32232</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN32232.wav</FileName>
+  <ClassId>bsewbt</ClassId>
+  <Date>2011-03-17</Date>
+  <Time>07:05</Time>
+  <Locality>Brownsberg</Locality>
+  <Latitude>4.9301</Latitude>
+  <Longitude>-55.2101</Longitude>
+  <Elevation>450</Elevation>
+  <Author>Daniel Lane</Author>
+  <AuthorID>WOEAFQRMUD</AuthorID>
+  <Content>call, song</Content>
+  <Comments>Natural vocalizations, first 'dawn song' followed by 'ter-tick' calls. Bird singing about 5m up in dead branches of small tree at edge of parking area. Between vocalizations, it smeared coughed-up seeds on branches. Before last two songs, it flew and grabbed some more berries from a mistletoe before returning to perch and singing some more.</Comments>
+  <Quality>2</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies>Xiphorhynchus guttatus</BackgroundSpecies>
+  <Order>Passeriformes</Order>
+  <Family>Tyrannidae</Family>
+  <Genus>Zimmerius</Genus>
+  <Species>acer</Species>
+  <Sub-species />
+  <VernacularNames>Guianan Tyrannulet</VernacularNames>
+</Audio>

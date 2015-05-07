@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>26100</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN26100.wav</FileName>
+  <ClassId>eydhxz</ClassId>
+  <Date>2000-01-17</Date>
+  <Time>06:00</Time>
+  <Locality>Passo do Lontra, Pantanal de Miranda, MS</Locality>
+  <Latitude>-19.26667</Latitude>
+  <Longitude>-57.01667</Longitude>
+  <Elevation>90</Elevation>
+  <Author>Jeremy Minns</Author>
+  <AuthorID>DGVLLRYDXS</AuthorID>
+  <Content>Song</Content>
+  <Comments>Fazenda Santa Clara, at first light. Unseen bird singing in pasture with bushes.</Comments>
+  <Quality>2</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies>Crypturellus undulatus,Furnarius rufus,Saltator coerulescens</BackgroundSpecies>
+  <Order>Passeriformes</Order>
+  <Family>Thraupidae</Family>
+  <Genus>Coryphospingus</Genus>
+  <Species>cucullatus</Species>
+  <Sub-species>rubescens</Sub-species>
+  <VernacularNames>Red Pileated Finch</VernacularNames>
+</Audio>

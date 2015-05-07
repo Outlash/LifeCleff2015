@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>1562</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN1562.wav</FileName>
+  <ClassId>pogkwe</ClassId>
+  <Date>2004-04-05</Date>
+  <Time>09:07</Time>
+  <Locality>Intervales State Park. Carmo road</Locality>
+  <Latitude>-24.2834</Latitude>
+  <Longitude>-48.4334</Longitude>
+  <Elevation>800</Elevation>
+  <Author>Jeremy Minns</Author>
+  <AuthorID>DGVLLRYDXS</AuthorID>
+  <Content>Call</Content>
+  <Comments>Humid forest. Female plumaged bird. This is Call B in our DVD-ROM 'Birds of Brazil'.</Comments>
+  <Quality>2</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies>Biatas nigropectus,Pyriglena leucoptera</BackgroundSpecies>
+  <Order>Piciformes</Order>
+  <Family>Picidae</Family>
+  <Genus>Veniliornis</Genus>
+  <Species>spilogaster</Species>
+  <Sub-species />
+  <VernacularNames>White-spotted Woodpecker</VernacularNames>
+</Audio>

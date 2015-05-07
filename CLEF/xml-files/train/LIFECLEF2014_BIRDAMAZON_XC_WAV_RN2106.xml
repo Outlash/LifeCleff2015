@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>2106</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN2106.wav</FileName>
+  <ClassId>ekfrhz</ClassId>
+  <Date>2003-04-13</Date>
+  <Time>07:23</Time>
+  <Locality>Pousada Thaimaçu. Rio Cururu</Locality>
+  <Latitude>-8.9167</Latitude>
+  <Longitude>-56.6667</Longitude>
+  <Elevation>180</Elevation>
+  <Author>Jeremy Minns</Author>
+  <AuthorID>DGVLLRYDXS</AuthorID>
+  <Content>call</Content>
+  <Comments>Terra firme forest. Perched in the canopy.</Comments>
+  <Quality>2</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies />
+  <Order>Accipitriformes</Order>
+  <Family>Accipitridae</Family>
+  <Genus>Leucopternis</Genus>
+  <Species>kuhli</Species>
+  <Sub-species />
+  <VernacularNames>White-browed Hawk</VernacularNames>
+</Audio>

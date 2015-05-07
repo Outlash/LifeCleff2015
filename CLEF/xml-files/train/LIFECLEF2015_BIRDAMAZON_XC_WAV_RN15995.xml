@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>15995</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN15995.wav</FileName>
+  <ClassId>mxeleb</ClassId>
+  <Date>2014-08-17</Date>
+  <Time>11:30</Time>
+  <Locality>Passo do Lontra, Pantanal de Miranda, MS</Locality>
+  <Latitude>-19.2667</Latitude>
+  <Longitude>-57.0167</Longitude>
+  <Elevation>90</Elevation>
+  <Author>Gabriel Rosa</Author>
+  <AuthorID>GXMOPUMWMA</AuthorID>
+  <Content>Duet</Content>
+  <Comments>original: GMR_20140817_115538bird-seen:yesplayback-used:no</Comments>
+  <Quality>1</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Psittaciformes</Order>
+  <Family>Psittacidae</Family>
+  <Genus>Myiopsitta</Genus>
+  <Species>monachus</Species>
+  <Sub-species />
+  <VernacularNames>Monk Parakeet</VernacularNames>
+</Audio>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>2880</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN2880.wav</FileName>
+  <ClassId>sgfjyn</ClassId>
+  <Date>2011-02-23</Date>
+  <Time>08:25</Time>
+  <Locality>10 km S Pocone on Transpantaneira, Mato Grosso</Locality>
+  <Latitude>-16.362</Latitude>
+  <Longitude>-56.648</Longitude>
+  <Elevation>115</Elevation>
+  <Author>Daniel Lane</Author>
+  <AuthorID>WOEAFQRMUD</AuthorID>
+  <Content>duet, song</Content>
+  <Comments>Response to playback by pair (male lower-pitched, female higher) about 7-12m up in short-stature semi-evergreen woodland.</Comments>
+  <Quality>2</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies>Hylophilus pectoralis,Tolmomyias sulphurescens,Synallaxis albilora,Crypturellus undulatus,Basileuterus culicivorus,Conirostrum speciosum,Galbula ruficauda</BackgroundSpecies>
+  <Order>Passeriformes</Order>
+  <Family>Thamnophilidae</Family>
+  <Genus>Herpsilochmus</Genus>
+  <Species>longirostris</Species>
+  <Sub-species />
+  <VernacularNames>Large-billed Antwren</VernacularNames>
+</Audio>

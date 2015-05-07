@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>29337</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN29337.wav</FileName>
+  <ClassId>vxjqml</ClassId>
+  <Date>2011-05-24</Date>
+  <Time>08:33</Time>
+  <Locality>Guatambú, Santa Catarina</Locality>
+  <Latitude>-27.1852</Latitude>
+  <Longitude>-52.7748</Longitude>
+  <Elevation>320</Elevation>
+  <Author>Douglas Meyer</Author>
+  <AuthorID>MNENFHYTAE</AuthorID>
+  <Content>song</Content>
+  <Comments>bird-seen:yesplayback-used:yes</Comments>
+  <Quality>0</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Tyrannidae</Family>
+  <Genus>Corythopis</Genus>
+  <Species>delalandi</Species>
+  <Sub-species />
+  <VernacularNames>Southern Antpipit</VernacularNames>
+</Audio>

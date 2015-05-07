@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>22906</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN22906.wav</FileName>
+  <ClassId>rdpjcl</ClassId>
+  <Date>2010-10-09</Date>
+  <Time>10:00</Time>
+  <Locality>São josé dos Campos/SP</Locality>
+  <Latitude>-23.135</Latitude>
+  <Longitude>-45.95</Longitude>
+  <Elevation>700</Elevation>
+  <Author>Rodrigo Dela Rosa</Author>
+  <AuthorID>VGXDJMKETZ</AuthorID>
+  <Content>Song</Content>
+  <Comments />
+  <Quality>2</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies>Myiodynastes maculatus</BackgroundSpecies>
+  <Order>Apodiformes</Order>
+  <Family>Trochilidae</Family>
+  <Genus>Amazilia</Genus>
+  <Species>lactea</Species>
+  <Sub-species />
+  <VernacularNames>Sapphire-spangled Emerald</VernacularNames>
+</Audio>

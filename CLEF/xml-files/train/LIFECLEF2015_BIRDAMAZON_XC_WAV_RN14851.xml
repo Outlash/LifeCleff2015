@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>14851</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN14851.wav</FileName>
+  <ClassId>xrkpcj</ClassId>
+  <Date>2008-02-02</Date>
+  <Time>16:20</Time>
+  <Locality>Kalashe, Magdalena</Locality>
+  <Latitude>NULL</Latitude>
+  <Longitude>NULL</Longitude>
+  <Elevation>700</Elevation>
+  <Author>Herman van OOsten</Author>
+  <AuthorID>SNUDCZVUQK</AuthorID>
+  <Content>lekking</Content>
+  <Comments>Subadult males, I've seen two full adult ones, but away from the lekking area. Not sure about altitude.</Comments>
+  <Quality>2</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Pipridae</Family>
+  <Genus>Chiroxiphia</Genus>
+  <Species>lanceolata</Species>
+  <Sub-species />
+  <VernacularNames>Lance-tailed Manakin</VernacularNames>
+</Audio>

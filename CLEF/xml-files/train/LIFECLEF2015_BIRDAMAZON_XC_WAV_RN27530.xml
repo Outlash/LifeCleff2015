@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>27530</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN27530.wav</FileName>
+  <ClassId>fxwyhh</ClassId>
+  <Date>2007-01-04</Date>
+  <Time>08:30</Time>
+  <Locality>Rio Caura south of Maripa, Bolivar</Locality>
+  <Latitude>7.1167</Latitude>
+  <Longitude>-64.9667</Longitude>
+  <Elevation>?</Elevation>
+  <Author>Andrew Spencer</Author>
+  <AuthorID>CDTGHVBGZP</AuthorID>
+  <Content>call</Content>
+  <Comments />
+  <Quality>1</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Tyrannidae</Family>
+  <Genus>Platyrinchus</Genus>
+  <Species>platyrhynchos</Species>
+  <Sub-species>platyrhynchos</Sub-species>
+  <VernacularNames>White-crested Spadebill</VernacularNames>
+</Audio>

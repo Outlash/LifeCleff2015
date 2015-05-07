@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>3696</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN3696.wav</FileName>
+  <ClassId>tmlmmx</ClassId>
+  <Date>2012-10-12</Date>
+  <Time>17:30</Time>
+  <Locality>Fazenda Santa Tereza, Rio Pixaim, Mato Grosso</Locality>
+  <Latitude>-16.7501</Latitude>
+  <Longitude>-56.8501</Longitude>
+  <Elevation>110</Elevation>
+  <Author>Andrew Spencer</Author>
+  <AuthorID>CDTGHVBGZP</AuthorID>
+  <Content>call</Content>
+  <Comments>wicka' calls from a pair of birds in response to playback.bird-seen:yesplayback-used:yes</Comments>
+  <Quality>1</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies />
+  <Order>Piciformes</Order>
+  <Family>Picidae</Family>
+  <Genus>Colaptes</Genus>
+  <Species>melanochloros</Species>
+  <Sub-species>nattereri</Sub-species>
+  <VernacularNames>Green-barred Woodpecker</VernacularNames>
+</Audio>

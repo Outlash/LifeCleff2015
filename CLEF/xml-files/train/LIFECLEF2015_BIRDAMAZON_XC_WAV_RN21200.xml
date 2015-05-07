@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>21200</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN21200.wav</FileName>
+  <ClassId>perzmu</ClassId>
+  <Date>2010-07-06</Date>
+  <Time>?</Time>
+  <Locality>Roura, Cacao</Locality>
+  <Latitude>4.548</Latitude>
+  <Longitude>-52.473</Longitude>
+  <Elevation>150</Elevation>
+  <Author>Renaudier Alexandre</Author>
+  <AuthorID>GKADEITXTH</AuthorID>
+  <Content>Song</Content>
+  <Comments>a bird singing in canopy of rainforest</Comments>
+  <Quality>2</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Coerebidae</Family>
+  <Genus>Coereba</Genus>
+  <Species>flaveola</Species>
+  <Sub-species>minima</Sub-species>
+  <VernacularNames>Bananaquit</VernacularNames>
+</Audio>

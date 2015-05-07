@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>12188</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN12188.wav</FileName>
+  <ClassId>vzrhzv</ClassId>
+  <Date>2000-11-24</Date>
+  <Time>06:42</Time>
+  <Locality>Parque Nacional da Amazônia</Locality>
+  <Latitude>-4.5167</Latitude>
+  <Longitude>-56.3001</Longitude>
+  <Elevation>50</Elevation>
+  <Author>Jeremy Minns</Author>
+  <AuthorID>DGVLLRYDXS</AuthorID>
+  <Content>Song</Content>
+  <Comments>Terra firme forest.</Comments>
+  <Quality>1</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies>Myrmoborus myotherinus</BackgroundSpecies>
+  <Order>Passeriformes</Order>
+  <Family>Thamnophilidae</Family>
+  <Genus>Thamnophilus</Genus>
+  <Species>aethiops</Species>
+  <Sub-species>punctuliger</Sub-species>
+  <VernacularNames>White-shouldered Antshrike</VernacularNames>
+</Audio>

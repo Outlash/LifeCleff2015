@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>22831</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN22831.wav</FileName>
+  <ClassId>xqglsv</ClassId>
+  <Date>2012-11-06</Date>
+  <Time>08:00</Time>
+  <Locality>Barão de Melgaço, RPPN SESC Pantanal</Locality>
+  <Latitude>-16.7692</Latitude>
+  <Longitude>-56.1712</Longitude>
+  <Elevation>130</Elevation>
+  <Author>Paulo Affonso Fonseca Pires Neto</Author>
+  <AuthorID>QOMWCAGQJX</AuthorID>
+  <Content>call</Content>
+  <Comments>bird-seen:noplayback-used:no</Comments>
+  <Quality>2</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Coraciiformes</Order>
+  <Family>Momotidae</Family>
+  <Genus>Momotus</Genus>
+  <Species>momota</Species>
+  <Sub-species />
+  <VernacularNames>Amazonian Motmot</VernacularNames>
+</Audio>

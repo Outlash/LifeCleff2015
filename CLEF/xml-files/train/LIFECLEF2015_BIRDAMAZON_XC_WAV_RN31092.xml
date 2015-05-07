@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>31092</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN31092.wav</FileName>
+  <ClassId>byvvse</ClassId>
+  <Date>2001-10-00</Date>
+  <Time>?:?</Time>
+  <Locality>Serra dos Órgãos National Park - RJ</Locality>
+  <Latitude>-22.448</Latitude>
+  <Longitude>-43.01</Longitude>
+  <Elevation>?</Elevation>
+  <Author>John van der Woude</Author>
+  <AuthorID>LDKAWQWMRJ</AuthorID>
+  <Content>song</Content>
+  <Comments>trip:http://home.tiscali.nl/~jvanderw/brazil01/summary.html</Comments>
+  <Quality>2</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Tityridae</Family>
+  <Genus>Oxyruncus</Genus>
+  <Species>cristatus</Species>
+  <Sub-species />
+  <VernacularNames>Sharpbill</VernacularNames>
+</Audio>

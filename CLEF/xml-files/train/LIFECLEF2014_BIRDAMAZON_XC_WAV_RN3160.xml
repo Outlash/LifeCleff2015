@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>3160</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN3160.wav</FileName>
+  <ClassId>ggcbtt</ClassId>
+  <Date>2010-04-14</Date>
+  <Time>?</Time>
+  <Locality>Foz Rio Tigre, Guatambú, Santa Catarina</Locality>
+  <Latitude>-27.187</Latitude>
+  <Longitude>-52.778</Longitude>
+  <Elevation>350</Elevation>
+  <Author>Evair Legal</Author>
+  <AuthorID>SMJXFKLATM</AuthorID>
+  <Content>call</Content>
+  <Comments />
+  <Quality>2</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Corvidae</Family>
+  <Genus>Cyanocorax</Genus>
+  <Species>chrysops</Species>
+  <Sub-species />
+  <VernacularNames>Plush-crested Jay</VernacularNames>
+</Audio>

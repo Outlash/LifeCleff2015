@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>13103</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN13103.wav</FileName>
+  <ClassId>zcwqjv</ClassId>
+  <Date>2006-05-07</Date>
+  <Time>16:00</Time>
+  <Locality>Region of Mutum River, Barão de Melgaço, MT</Locality>
+  <Latitude>-16.353</Latitude>
+  <Longitude>-55.852</Longitude>
+  <Elevation>140</Elevation>
+  <Author>Antonio Silveira</Author>
+  <AuthorID>NBJQSQJRYH</AuthorID>
+  <Content>song</Content>
+  <Comments>bird-seen:yesplayback-used:no</Comments>
+  <Quality>2</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies />
+  <Order>Psittaciformes</Order>
+  <Family>Psittacidae</Family>
+  <Genus>Ara</Genus>
+  <Species>ararauna</Species>
+  <Sub-species />
+  <VernacularNames>Blue-and-yellow Macaw</VernacularNames>
+</Audio>

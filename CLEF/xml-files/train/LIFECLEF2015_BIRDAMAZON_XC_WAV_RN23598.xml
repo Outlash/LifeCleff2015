@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>23598</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN23598.wav</FileName>
+  <ClassId>uxoaxq</ClassId>
+  <Date>1990-04-03</Date>
+  <Time>?</Time>
+  <Locality>Cundinamarca, Guasca, Cerro La Cruz</Locality>
+  <Latitude>4.816667</Latitude>
+  <Longitude>-73.9</Longitude>
+  <Elevation />
+  <Author>Gary Stiles (Colección de Sonidos Ambientales - Instituto Humboldt)</Author>
+  <AuthorID>XMFDPACYJN</AuthorID>
+  <Content>call</Content>
+  <Comments>BSA 10734To obtain a wav file of the original recording, please contact csa@humboldt.org.cobird-seen:noplayback-used:no</Comments>
+  <Quality>2</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Tyrannidae</Family>
+  <Genus>Mecocerculus</Genus>
+  <Species>leucophrys</Species>
+  <Sub-species />
+  <VernacularNames>White-throated Tyrannulet</VernacularNames>
+</Audio>

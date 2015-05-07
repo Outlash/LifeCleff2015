@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>11795</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN11795.wav</FileName>
+  <ClassId>ljczsu</ClassId>
+  <Date>2007-06-06</Date>
+  <Time>9:10</Time>
+  <Locality>Reserva Ecológica de Guapiaçu, RJ</Locality>
+  <Latitude>-22.5001</Latitude>
+  <Longitude>-42.7167</Longitude>
+  <Elevation>?</Elevation>
+  <Author>Leonardo Pimentel</Author>
+  <AuthorID>JHBOHGJALL</AuthorID>
+  <Content>Call</Content>
+  <Comments />
+  <Quality>1</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies>Rhytipterna simplex</BackgroundSpecies>
+  <Order>Passeriformes</Order>
+  <Family>Thraupidae</Family>
+  <Genus>Trichothraupis</Genus>
+  <Species>melanops</Species>
+  <Sub-species />
+  <VernacularNames>Black-goggled Tanager</VernacularNames>
+</Audio>

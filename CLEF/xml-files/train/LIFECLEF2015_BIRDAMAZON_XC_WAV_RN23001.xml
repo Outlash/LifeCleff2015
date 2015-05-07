@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>23001</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN23001.wav</FileName>
+  <ClassId>ioaqnm</ClassId>
+  <Date>2005-07-05</Date>
+  <Time>08:00</Time>
+  <Locality>Parque Nacional Natural Macuira</Locality>
+  <Latitude>12.16</Latitude>
+  <Longitude>-71.331</Longitude>
+  <Elevation>500</Elevation>
+  <Author>Oswaldo Cortes</Author>
+  <AuthorID>VVDRVZCVWW</AuthorID>
+  <Content>song</Content>
+  <Comments />
+  <Quality>2</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Cuculiformes</Order>
+  <Family>Cuculidae</Family>
+  <Genus>Piaya</Genus>
+  <Species>cayana</Species>
+  <Sub-species />
+  <VernacularNames>Squirrel Cuckoo</VernacularNames>
+</Audio>

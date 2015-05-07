@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>16232</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN16232.wav</FileName>
+  <ClassId>vspgzn</ClassId>
+  <Date>0000-00-00</Date>
+  <Time>08:30</Time>
+  <Locality>Cristalino Jungle Lodge, MT</Locality>
+  <Latitude>-9.5981</Latitude>
+  <Longitude>-55.932</Longitude>
+  <Elevation>250</Elevation>
+  <Author>Andrew Spencer</Author>
+  <AuthorID>CDTGHVBGZP</AuthorID>
+  <Content>call</Content>
+  <Comments>calls from a female bird</Comments>
+  <Quality>1</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Pipridae</Family>
+  <Genus>Lepidothrix</Genus>
+  <Species>nattereri</Species>
+  <Sub-species />
+  <VernacularNames>Snow-capped Manakin</VernacularNames>
+</Audio>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>13166</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN13166.wav</FileName>
+  <ClassId>ccxate</ClassId>
+  <Date>2002-04-02</Date>
+  <Time>13:05</Time>
+  <Locality>Campos do Jordão, SP</Locality>
+  <Latitude>-22.7667</Latitude>
+  <Longitude>-45.6001</Longitude>
+  <Elevation>1700</Elevation>
+  <Author>Jeremy Minns</Author>
+  <AuthorID>DGVLLRYDXS</AuthorID>
+  <Content>duet, song</Content>
+  <Comments>Road to Horto Florestal. Scattered araucarias in open area at edge of town. After playback.</Comments>
+  <Quality>1</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies>Pardirallus nigricans</BackgroundSpecies>
+  <Order>Passeriformes</Order>
+  <Family>Furnariidae</Family>
+  <Genus>Leptasthenura</Genus>
+  <Species>setaria</Species>
+  <Sub-species />
+  <VernacularNames>Araucaria Tit-Spinetail</VernacularNames>
+</Audio>

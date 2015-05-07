@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>19840</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN19840.wav</FileName>
+  <ClassId>jatqgd</ClassId>
+  <Date>2004-08-14</Date>
+  <Time>17:45</Time>
+  <Locality>Páramo de Frontino</Locality>
+  <Latitude>6.4334</Latitude>
+  <Longitude>-76.0834</Longitude>
+  <Elevation>3150</Elevation>
+  <Author>Niels Krabbe</Author>
+  <AuthorID>XTVEPHMPPJ</AuthorID>
+  <Content>end of male song</Content>
+  <Comments>Collected. Tape ref. B 243</Comments>
+  <Quality>1</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Rhinocryptidae</Family>
+  <Genus>Myornis</Genus>
+  <Species>senilis</Species>
+  <Sub-species />
+  <VernacularNames>Ash-colored Tapaculo</VernacularNames>
+</Audio>

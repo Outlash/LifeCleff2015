@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>25302</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN25302.wav</FileName>
+  <ClassId>pgnepr</ClassId>
+  <Date>2004-08-12</Date>
+  <Time>06:00</Time>
+  <Locality>Páramo de Frontino</Locality>
+  <Latitude>6.4334</Latitude>
+  <Longitude>-76.0834</Longitude>
+  <Elevation>3300</Elevation>
+  <Author>Niels Krabbe</Author>
+  <AuthorID>XTVEPHMPPJ</AuthorID>
+  <Content>song</Content>
+  <Comments>Tape ref. B 438</Comments>
+  <Quality>3</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Grallariidae</Family>
+  <Genus>Grallaria</Genus>
+  <Species>nuchalis</Species>
+  <Sub-species />
+  <VernacularNames>Chestnut-naped Antpitta</VernacularNames>
+</Audio>

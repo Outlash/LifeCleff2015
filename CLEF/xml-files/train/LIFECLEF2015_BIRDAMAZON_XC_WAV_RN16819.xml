@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>16819</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN16819.wav</FileName>
+  <ClassId>smnliu</ClassId>
+  <Date>2010-01-30</Date>
+  <Time>?</Time>
+  <Locality>Barra do Monte Alegre, Chapecó, Santa Catarina</Locality>
+  <Latitude>-27.2353</Latitude>
+  <Longitude>-52.5856</Longitude>
+  <Elevation>395</Elevation>
+  <Author>Adrian Eisen Rupp</Author>
+  <AuthorID>AOPMSCIDIA</AuthorID>
+  <Content>song</Content>
+  <Comments />
+  <Quality>2</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Tityridae</Family>
+  <Genus>Tityra</Genus>
+  <Species>cayana</Species>
+  <Sub-species />
+  <VernacularNames>Black-tailed Tityra</VernacularNames>
+</Audio>

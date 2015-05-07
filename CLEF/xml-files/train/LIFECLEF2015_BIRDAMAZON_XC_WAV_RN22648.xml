@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>22648</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN22648.wav</FileName>
+  <ClassId>wnszlf</ClassId>
+  <Date>2007-05-11</Date>
+  <Time>?</Time>
+  <Locality>RNA Hormiguero de Torcoroma, Ocaña, Norte de Santander</Locality>
+  <Latitude>8.2031</Latitude>
+  <Longitude>-73.3798</Longitude>
+  <Elevation>1660</Elevation>
+  <Author>Frank Lambert</Author>
+  <AuthorID>YTUXOCTUEM</AuthorID>
+  <Content>drumming</Content>
+  <Comments>natural drumming. playback of this gave a call response, see XC16692</Comments>
+  <Quality>3</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Piciformes</Order>
+  <Family>Picidae</Family>
+  <Genus>Colaptes</Genus>
+  <Species>rubiginosus</Species>
+  <Sub-species />
+  <VernacularNames>Golden-olive Woodpecker</VernacularNames>
+</Audio>

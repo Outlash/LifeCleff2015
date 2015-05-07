@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>6853</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN6853.wav</FileName>
+  <ClassId>ngukgn</ClassId>
+  <Date>2013-07-15</Date>
+  <Time>17:00</Time>
+  <Locality>Senador Guiomard, Acre</Locality>
+  <Latitude>-10.1453</Latitude>
+  <Longitude>-67.7537</Longitude>
+  <Elevation>180</Elevation>
+  <Author>Rodrigo Dela Rosa</Author>
+  <AuthorID>VGXDJMKETZ</AuthorID>
+  <Content>song</Content>
+  <Comments>bird-seen:yesplayback-used:yes</Comments>
+  <Quality>1</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Troglodytidae</Family>
+  <Genus>Microcerculus</Genus>
+  <Species>marginatus</Species>
+  <Sub-species />
+  <VernacularNames>Southern Nightingale-Wren</VernacularNames>
+</Audio>

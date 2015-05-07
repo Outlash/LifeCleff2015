@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>3975</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN3975.wav</FileName>
+  <ClassId>ombazy</ClassId>
+  <Date>2010-04-30</Date>
+  <Time>08:48</Time>
+  <Locality>Pacangê forest, Michelin reserve, Ituberá, BA</Locality>
+  <Latitude>-13.8367</Latitude>
+  <Longitude>-39.2409</Longitude>
+  <Elevation>100</Elevation>
+  <Author>Ciro Albano</Author>
+  <AuthorID>MXVQPUKGWW</AuthorID>
+  <Content>call</Content>
+  <Comments />
+  <Quality>2</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies>Thamnophilus ambiguus</BackgroundSpecies>
+  <Order>Passeriformes</Order>
+  <Family>Furnariidae</Family>
+  <Genus>Campylorhamphus</Genus>
+  <Species>trochilirostris</Species>
+  <Sub-species>trochilirostris</Sub-species>
+  <VernacularNames>Red-billed Scythebill</VernacularNames>
+</Audio>

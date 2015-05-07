@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>6205</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN6205.wav</FileName>
+  <ClassId>cyghvw</ClassId>
+  <Date>1992-10-00</Date>
+  <Time>09:00</Time>
+  <Locality>Itapecerica da Serra,SP, Brazil</Locality>
+  <Latitude>-23.786</Latitude>
+  <Longitude>-46.871</Longitude>
+  <Elevation>900</Elevation>
+  <Author>Antonio Silveira</Author>
+  <AuthorID>NBJQSQJRYH</AuthorID>
+  <Content>call, male</Content>
+  <Comments>bird-seen:yesplayback-used:no</Comments>
+  <Quality>3</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies />
+  <Order>Falconiformes</Order>
+  <Family>Falconidae</Family>
+  <Genus>Micrastur</Genus>
+  <Species>semitorquatus</Species>
+  <Sub-species />
+  <VernacularNames>Collared Forest Falcon</VernacularNames>
+</Audio>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>14736</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN14736.wav</FileName>
+  <ClassId>kvowbh</ClassId>
+  <Date>2012-09-16</Date>
+  <Time>11:40</Time>
+  <Locality>Saul, St Laurent Du Maroni</Locality>
+  <Latitude>3.6217</Latitude>
+  <Longitude>-53.2088</Longitude>
+  <Elevation>210</Elevation>
+  <Author>Jon King</Author>
+  <AuthorID>LNEEOOWCQR</AuthorID>
+  <Content>call, female, male</Content>
+  <Comments>Distance to mic. 4m. Natural calls of both members of pair as I passed by on trail.bird-seen:yesplayback-used:no</Comments>
+  <Quality>1</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Thamnophilidae</Family>
+  <Genus>Myrmeciza</Genus>
+  <Species>ferruginea</Species>
+  <Sub-species />
+  <VernacularNames>Ferruginous-backed Antbird</VernacularNames>
+</Audio>

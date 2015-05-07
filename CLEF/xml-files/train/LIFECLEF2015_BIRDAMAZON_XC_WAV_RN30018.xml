@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>30018</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN30018.wav</FileName>
+  <ClassId>pdkcpg</ClassId>
+  <Date>2013-12-02</Date>
+  <Time>10:00</Time>
+  <Locality>Maracás, Bahia</Locality>
+  <Latitude>-13.4359</Latitude>
+  <Longitude>-40.4327</Longitude>
+  <Elevation>1000</Elevation>
+  <Author>Roney Assis Souza</Author>
+  <AuthorID>AJYSYOLBOF</AuthorID>
+  <Content>male, song</Content>
+  <Comments>bird-seen:yesplayback-used:no</Comments>
+  <Quality>2</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Thamnophilidae</Family>
+  <Genus>Myrmorchilus</Genus>
+  <Species>strigilatus</Species>
+  <Sub-species />
+  <VernacularNames>Stripe-backed Antbird</VernacularNames>
+</Audio>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>22666</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN22666.wav</FileName>
+  <ClassId>fpypli</ClassId>
+  <Date>2002-06-26</Date>
+  <Time>09:51</Time>
+  <Locality>Reserva Iguaque (SFF), Villa de Leyva, Boyaca</Locality>
+  <Latitude>NULL</Latitude>
+  <Longitude>NULL</Longitude>
+  <Elevation>2850</Elevation>
+  <Author>Bernabe Lopez-Lanus</Author>
+  <AuthorID>BYLLSJRVDZ</AuthorID>
+  <Content>Song</Content>
+  <Comments />
+  <Quality>3</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Thraupidae</Family>
+  <Genus>Anisognathus</Genus>
+  <Species>igniventris</Species>
+  <Sub-species />
+  <VernacularNames>Scarlet-bellied Mountain Tanager</VernacularNames>
+</Audio>

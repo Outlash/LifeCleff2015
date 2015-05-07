@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>13421</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN13421.wav</FileName>
+  <ClassId>lksjxc</ClassId>
+  <Date>2004-07-10</Date>
+  <Time>07:00</Time>
+  <Locality>Mata de Aldeia, Camaragibe, Pernambuco</Locality>
+  <Latitude>-8.0167</Latitude>
+  <Longitude>-34.9667</Longitude>
+  <Elevation>50</Elevation>
+  <Author>Sidnei de Melo Dantas</Author>
+  <AuthorID>NNCKQMBGPH</AuthorID>
+  <Content>call?</Content>
+  <Comments>a male, on the edge of secondary forest</Comments>
+  <Quality>2</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Tyrannidae</Family>
+  <Genus>Myiopagis</Genus>
+  <Species>caniceps</Species>
+  <Sub-species />
+  <VernacularNames>Grey Elaenia</VernacularNames>
+</Audio>

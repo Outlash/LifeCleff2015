@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>8003</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN8003.wav</FileName>
+  <ClassId>unimmw</ClassId>
+  <Date>2004-04-05</Date>
+  <Time>?</Time>
+  <Locality>Cristalino Jungle Lodge, MT</Locality>
+  <Latitude>-9.5981</Latitude>
+  <Longitude>-55.932</Longitude>
+  <Elevation>250</Elevation>
+  <Author>Bradley Davis</Author>
+  <AuthorID>YNXJLOESBB</AuthorID>
+  <Content>song</Content>
+  <Comments />
+  <Quality>4</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies>Lipaugus vociferans,Momotus momota,Tyranneutes stolzmanni</BackgroundSpecies>
+  <Order>Trogoniformes</Order>
+  <Family>Trogonidae</Family>
+  <Genus>Trogon</Genus>
+  <Species>curucui</Species>
+  <Sub-species>curucui</Sub-species>
+  <VernacularNames>Blue-crowned Trogon</VernacularNames>
+</Audio>

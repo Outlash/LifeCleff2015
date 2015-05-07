@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>8681</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN8681.wav</FileName>
+  <ClassId>fevggo</ClassId>
+  <Date>2011-05-17</Date>
+  <Time>10:18</Time>
+  <Locality>Paragominas, PA, Brazil, Bacia 549</Locality>
+  <Latitude>-3.8101</Latitude>
+  <Longitude>-48.377</Longitude>
+  <Elevation>?</Elevation>
+  <Author>Alexander Lees</Author>
+  <AuthorID>INDDBZAFJL</AuthorID>
+  <Content>song</Content>
+  <Comments>selectively-logged primary forest</Comments>
+  <Quality>2</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies>Lamprospiza melanoleuca,Tangara punctata,Tangara gyrola</BackgroundSpecies>
+  <Order>Passeriformes</Order>
+  <Family>Furnariidae</Family>
+  <Genus>Lepidocolaptes</Genus>
+  <Species>albolineatus</Species>
+  <Sub-species>layardi</Sub-species>
+  <VernacularNames>Lineated Woodcreeper</VernacularNames>
+</Audio>

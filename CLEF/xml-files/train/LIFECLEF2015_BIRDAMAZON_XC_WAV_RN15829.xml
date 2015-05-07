@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>15829</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN15829.wav</FileName>
+  <ClassId>wxqfzo</ClassId>
+  <Date>2010-12-16</Date>
+  <Time>10:15</Time>
+  <Locality>Mitu. Vaupes</Locality>
+  <Latitude>1.226</Latitude>
+  <Longitude>-70.233</Longitude>
+  <Elevation>300</Elevation>
+  <Author>Pablo Florez</Author>
+  <AuthorID>ISWBQKPBGS</AuthorID>
+  <Content>?</Content>
+  <Comments />
+  <Quality>2</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Pipridae</Family>
+  <Genus>Dixiphia</Genus>
+  <Species>erythrocephala</Species>
+  <Sub-species />
+  <VernacularNames>Golden-headed Manakin</VernacularNames>
+</Audio>

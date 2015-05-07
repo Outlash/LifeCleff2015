@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>11907</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN11907.wav</FileName>
+  <ClassId>mwocnj</ClassId>
+  <Date>2012-04-27</Date>
+  <Time>10:43pm</Time>
+  <Locality>Corvo Road, Quatro Barras, Paraná</Locality>
+  <Latitude>-25.3364472206229</Latitude>
+  <Longitude>-48.9130039214433</Longitude>
+  <Elevation>900</Elevation>
+  <Author>Adrian Eisen Rupp</Author>
+  <AuthorID>AOPMSCIDIA</AuthorID>
+  <Content>call</Content>
+  <Comments />
+  <Quality>1</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Thamnophilidae</Family>
+  <Genus>Drymophila</Genus>
+  <Species>malura</Species>
+  <Sub-species />
+  <VernacularNames>Dusky-tailed Antbird</VernacularNames>
+</Audio>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>15701</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN15701.wav</FileName>
+  <ClassId>rlqpij</ClassId>
+  <Date>2011-12-31</Date>
+  <Time>13:58</Time>
+  <Locality>Rio do Campo, Santa Catarina</Locality>
+  <Latitude>-26.8927</Latitude>
+  <Longitude>-50.0756</Longitude>
+  <Elevation>750</Elevation>
+  <Author>Douglas Meyer</Author>
+  <AuthorID>MNENFHYTAE</AuthorID>
+  <Content>call, male, song</Content>
+  <Comments>bird-seen:yesplayback-used:no</Comments>
+  <Quality>0</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Tyrannidae</Family>
+  <Genus>Myiodynastes</Genus>
+  <Species>maculatus</Species>
+  <Sub-species />
+  <VernacularNames>Streaked Flycatcher</VernacularNames>
+</Audio>

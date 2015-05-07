@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>20132</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN20132.wav</FileName>
+  <ClassId>upfjhp</ClassId>
+  <Date>1998-11-30</Date>
+  <Time>14:05</Time>
+  <Locality>Laguna La Cubierta (origen Quebrada San Pacho), PN Los Nevados, Risaralda</Locality>
+  <Latitude>NULL</Latitude>
+  <Longitude>NULL</Longitude>
+  <Elevation>3850</Elevation>
+  <Author>Bernabe Lopez-Lanus</Author>
+  <AuthorID>BYLLSJRVDZ</AuthorID>
+  <Content>call, song</Content>
+  <Comments>Two birds</Comments>
+  <Quality>3</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Troglodytidae</Family>
+  <Genus>Cistothorus</Genus>
+  <Species>platensis</Species>
+  <Sub-species>tolimae</Sub-species>
+  <VernacularNames>Sedge Wren</VernacularNames>
+</Audio>

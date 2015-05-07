@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>29368</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN29368.wav</FileName>
+  <ClassId>tftkvo</ClassId>
+  <Date>2002-06-09</Date>
+  <Time>xx:xx</Time>
+  <Locality>Villa de Leyva (Nido Verde), Boyaca</Locality>
+  <Latitude>NULL</Latitude>
+  <Longitude>NULL</Longitude>
+  <Elevation>2000</Elevation>
+  <Author>Bernabe Lopez-Lanus</Author>
+  <AuthorID>BYLLSJRVDZ</AuthorID>
+  <Content>Song</Content>
+  <Comments>Original cut</Comments>
+  <Quality>0</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Furnariidae</Family>
+  <Genus>Synallaxis</Genus>
+  <Species>subpudica</Species>
+  <Sub-species />
+  <VernacularNames>Silvery-throated Spinetail</VernacularNames>
+</Audio>

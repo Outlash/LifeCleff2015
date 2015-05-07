@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>19680</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN19680.wav</FileName>
+  <ClassId>tadaeg</ClassId>
+  <Date>2012-02-13</Date>
+  <Time>08:26</Time>
+  <Locality>Reserva Natural Mesenia - Paramillo</Locality>
+  <Latitude>5.4828</Latitude>
+  <Longitude>-75.8959</Longitude>
+  <Elevation>2300</Elevation>
+  <Author>Oswaldo Cortes</Author>
+  <AuthorID>VVDRVZCVWW</AuthorID>
+  <Content>song</Content>
+  <Comments />
+  <Quality>1</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Rhinocryptidae</Family>
+  <Genus>Scytalopus</Genus>
+  <Species>spillmanni</Species>
+  <Sub-species />
+  <VernacularNames>Spillmann's Tapaculo</VernacularNames>
+</Audio>

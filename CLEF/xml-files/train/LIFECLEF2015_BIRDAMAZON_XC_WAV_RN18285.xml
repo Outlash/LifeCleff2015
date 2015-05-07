@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>18285</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN18285.wav</FileName>
+  <ClassId>bjsvvq</ClassId>
+  <Date>2010-01-21</Date>
+  <Time>11:00</Time>
+  <Locality>Laguna Tabacal</Locality>
+  <Latitude>5.0209</Latitude>
+  <Longitude>-74.302</Longitude>
+  <Elevation>1350</Elevation>
+  <Author>Frank Lambert</Author>
+  <AuthorID>YTUXOCTUEM</AuthorID>
+  <Content>call</Content>
+  <Comments />
+  <Quality>1</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies>Myrmeciza immaculata</BackgroundSpecies>
+  <Order>Passeriformes</Order>
+  <Family>Furnariidae</Family>
+  <Genus>Synallaxis</Genus>
+  <Species>cinnamomea</Species>
+  <Sub-species />
+  <VernacularNames>Stripe-breasted Spinetail</VernacularNames>
+</Audio>

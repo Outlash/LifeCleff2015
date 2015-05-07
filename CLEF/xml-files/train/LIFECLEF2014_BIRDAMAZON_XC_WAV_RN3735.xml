@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>3735</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN3735.wav</FileName>
+  <ClassId>nurzze</ClassId>
+  <Date>2003-00-00</Date>
+  <Time>0:29s</Time>
+  <Locality>Serra do Mar National Park - Santa Virginia - Sao Paulo State</Locality>
+  <Latitude>-23.3933</Latitude>
+  <Longitude>-45.1503</Longitude>
+  <Elevation>1000</Elevation>
+  <Author>Guilherme R R Brito</Author>
+  <AuthorID>OAYOBWYOOM</AuthorID>
+  <Content>song</Content>
+  <Comments>raining (a lot!!)</Comments>
+  <Quality>0</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies />
+  <Order>Columbiformes</Order>
+  <Family>Columbidae</Family>
+  <Genus>Patagioenas</Genus>
+  <Species>plumbea</Species>
+  <Sub-species />
+  <VernacularNames>Plumbeous Pigeon</VernacularNames>
+</Audio>

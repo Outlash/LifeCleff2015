@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>22014</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN22014.wav</FileName>
+  <ClassId>ywownv</ClassId>
+  <Date>2012-06-07</Date>
+  <Time>06:47</Time>
+  <Locality>Arauca, Laguna Rodriguera</Locality>
+  <Latitude>7.092</Latitude>
+  <Longitude>-70.697</Longitude>
+  <Elevation>100</Elevation>
+  <Author>Oswaldo Cortes</Author>
+  <AuthorID>VVDRVZCVWW</AuthorID>
+  <Content>?</Content>
+  <Comments />
+  <Quality>4</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Galliformes</Order>
+  <Family>Cracidae</Family>
+  <Genus>Ortalis</Genus>
+  <Species>ruficauda</Species>
+  <Sub-species />
+  <VernacularNames>Rufous-vented Chachalaca</VernacularNames>
+</Audio>

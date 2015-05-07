@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>22445</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN22445.wav</FileName>
+  <ClassId>fvftkw</ClassId>
+  <Date>2011-02-01</Date>
+  <Time>10:00</Time>
+  <Locality>FUNDEGAR ('Rio Blanco'), Manizales, Caldas</Locality>
+  <Latitude>5.074</Latitude>
+  <Longitude>-75.435</Longitude>
+  <Elevation>2600</Elevation>
+  <Author>Eric DeFonso</Author>
+  <AuthorID>KTLCZCRCQX</AuthorID>
+  <Content>song</Content>
+  <Comments>singing a single descending note from ecotone separating closed forest from hilly cleared area.</Comments>
+  <Quality>2</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Tyrannidae</Family>
+  <Genus>Elaenia</Genus>
+  <Species>frantzii</Species>
+  <Sub-species />
+  <VernacularNames>Mountain Elaenia</VernacularNames>
+</Audio>

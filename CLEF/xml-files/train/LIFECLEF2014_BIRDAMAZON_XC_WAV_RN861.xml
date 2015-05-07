@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>861</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN861.wav</FileName>
+  <ClassId>ktgebu</ClassId>
+  <Date>2011-06-20</Date>
+  <Time>07:00</Time>
+  <Locality>São José dos Campos-São Paulo</Locality>
+  <Latitude>-22.8745</Latitude>
+  <Longitude>-45.8655</Longitude>
+  <Elevation>1500</Elevation>
+  <Author>GABRIEL LEITE</Author>
+  <AuthorID>TGBFXDVERJ</AuthorID>
+  <Content>call</Content>
+  <Comments>bird-seen:noplayback-used:no</Comments>
+  <Quality>2</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Formicariidae</Family>
+  <Genus>Chamaeza</Genus>
+  <Species>ruficauda</Species>
+  <Sub-species />
+  <VernacularNames>Rufous-tailed Antthrush</VernacularNames>
+</Audio>

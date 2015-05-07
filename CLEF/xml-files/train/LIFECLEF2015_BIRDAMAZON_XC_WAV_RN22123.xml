@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>22123</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN22123.wav</FileName>
+  <ClassId>mddteh</ClassId>
+  <Date>2005-09-28</Date>
+  <Time>9:00</Time>
+  <Locality>Ilha Anavilhanas, west of Manaus</Locality>
+  <Latitude>-2.9426</Latitude>
+  <Longitude>-60.4834</Longitude>
+  <Elevation>6</Elevation>
+  <Author>Richard C. Hoyer</Author>
+  <AuthorID>SRRRBQPENI</AuthorID>
+  <Content>call, song</Content>
+  <Comments>in response to playback</Comments>
+  <Quality>0</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Tyrannidae</Family>
+  <Genus>Myiopagis</Genus>
+  <Species>gaimardii</Species>
+  <Sub-species />
+  <VernacularNames>Forest Elaenia</VernacularNames>
+</Audio>

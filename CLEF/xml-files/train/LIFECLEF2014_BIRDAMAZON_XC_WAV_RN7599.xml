@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>7599</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN7599.wav</FileName>
+  <ClassId>eupamv</ClassId>
+  <Date>2004-01-01</Date>
+  <Time>9:00</Time>
+  <Locality>Parque Dois Irmãos, Recife, Pernambuco</Locality>
+  <Latitude>-8.0539</Latitude>
+  <Longitude>-34.8809</Longitude>
+  <Elevation>0</Elevation>
+  <Author>Mauricio Cabral Periquito</Author>
+  <AuthorID>HERKCTHDZI</AuthorID>
+  <Content>Mimicry of Buteo magnirostris</Content>
+  <Comments />
+  <Quality>0</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies>Porphyrio martinicus</BackgroundSpecies>
+  <Order>Passeriformes</Order>
+  <Family>Fringillidae</Family>
+  <Genus>Euphonia</Genus>
+  <Species>violacea</Species>
+  <Sub-species />
+  <VernacularNames>Violaceous Euphonia</VernacularNames>
+</Audio>

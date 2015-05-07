@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>32373</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN32373.wav</FileName>
+  <ClassId>ziirhl</ClassId>
+  <Date>2013-05-02</Date>
+  <Time>16:00</Time>
+  <Locality>Iguatama, Minas Gerais</Locality>
+  <Latitude>-20.1774</Latitude>
+  <Longitude>-45.7082</Longitude>
+  <Elevation>700</Elevation>
+  <Author>João Antônio de B. Vitto</Author>
+  <AuthorID>RIVNLYTULO</AuthorID>
+  <Content>call, song</Content>
+  <Comments>bird-seen:yesplayback-used:no</Comments>
+  <Quality>0</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Icteridae</Family>
+  <Genus>Cacicus</Genus>
+  <Species>haemorrhous</Species>
+  <Sub-species />
+  <VernacularNames>Red-rumped Cacique</VernacularNames>
+</Audio>

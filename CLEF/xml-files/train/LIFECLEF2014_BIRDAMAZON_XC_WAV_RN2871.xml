@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>2871</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN2871.wav</FileName>
+  <ClassId>dykocx</ClassId>
+  <Date>2010-09-30</Date>
+  <Time>18:00</Time>
+  <Locality>Paragominas, PA, Brazil, Bacia 443</Locality>
+  <Latitude>-3.4614</Latitude>
+  <Longitude>-47.0648</Longitude>
+  <Elevation>?</Elevation>
+  <Author>Alexander Lees</Author>
+  <AuthorID>INDDBZAFJL</AuthorID>
+  <Content>call</Content>
+  <Comments>pasture by a lake</Comments>
+  <Quality>2</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies>Progne chalybea</BackgroundSpecies>
+  <Order>Gruiformes</Order>
+  <Family>Rallidae</Family>
+  <Genus>Laterallus</Genus>
+  <Species>melanophaius</Species>
+  <Sub-species />
+  <VernacularNames>Rufous-sided Crake</VernacularNames>
+</Audio>

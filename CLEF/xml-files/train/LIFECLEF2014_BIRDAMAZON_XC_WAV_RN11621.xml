@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>11621</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN11621.wav</FileName>
+  <ClassId>eejqqp</ClassId>
+  <Date>2007-05-07</Date>
+  <Time>?:?</Time>
+  <Locality>São Francisco de Paula, Rio Grande do Sul</Locality>
+  <Latitude>-29.454</Latitude>
+  <Longitude>-50.58</Longitude>
+  <Elevation>?</Elevation>
+  <Author>Bernabe Lopez-Lanus</Author>
+  <AuthorID>BYLLSJRVDZ</AuthorID>
+  <Content>song</Content>
+  <Comments>&lt;a href=http://www.xeno-canto.org/graphics/conosur.jpg rel=lightbox&gt;From Bird Sounds of Southern South America by Lopez-Lanus (2008)&lt;/a&gt;</Comments>
+  <Quality>2</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Furnariidae</Family>
+  <Genus>Anumbius</Genus>
+  <Species>annumbi</Species>
+  <Sub-species />
+  <VernacularNames>Firewood-gatherer</VernacularNames>
+</Audio>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>590</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN590.wav</FileName>
+  <ClassId>mwocnj</ClassId>
+  <Date>1994-02-10</Date>
+  <Time>09:00</Time>
+  <Locality>Itapecerica da Serra,SP, Brazil</Locality>
+  <Latitude>-23.786</Latitude>
+  <Longitude>-46.871</Longitude>
+  <Elevation>900</Elevation>
+  <Author>Antonio Silveira</Author>
+  <AuthorID>NBJQSQJRYH</AuthorID>
+  <Content>call, female, male, song</Content>
+  <Comments>A couple call (male and female) and singing (male) after play-back.bird-seen:yesplayback-used:yes</Comments>
+  <Quality>0</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Thamnophilidae</Family>
+  <Genus>Drymophila</Genus>
+  <Species>malura</Species>
+  <Sub-species />
+  <VernacularNames>Dusky-tailed Antbird</VernacularNames>
+</Audio>

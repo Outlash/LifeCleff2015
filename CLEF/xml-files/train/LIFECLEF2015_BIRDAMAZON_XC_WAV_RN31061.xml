@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>31061</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN31061.wav</FileName>
+  <ClassId>cqbqgt</ClassId>
+  <Date>2009-02-25</Date>
+  <Time>08:30</Time>
+  <Locality>Munoz, Apure</Locality>
+  <Latitude>7.7143</Latitude>
+  <Longitude>-69.3326</Longitude>
+  <Elevation>80</Elevation>
+  <Author>Fernand DEROUSSEN</Author>
+  <AuthorID>UXGZWVYDFE</AuthorID>
+  <Content>song</Content>
+  <Comments>bird-seen:yesplayback-used:no</Comments>
+  <Quality>1</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Furnariidae</Family>
+  <Genus>Dendroplex</Genus>
+  <Species>picus</Species>
+  <Sub-species />
+  <VernacularNames>Straight-billed Woodcreeper</VernacularNames>
+</Audio>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>17331</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN17331.wav</FileName>
+  <ClassId>ewisum</ClassId>
+  <Date>2002-00-00</Date>
+  <Time>xx:xx</Time>
+  <Locality>Agua de la Virgen, Ocaña, Dpto Norte de Santander</Locality>
+  <Latitude>8.2167</Latitude>
+  <Longitude>-73.4001</Longitude>
+  <Elevation>1500</Elevation>
+  <Author>Thomas Donegan</Author>
+  <AuthorID>OXSIOLJJUP</AuthorID>
+  <Content>call</Content>
+  <Comments>Former Mystery 1202, ID thanks to Pai-Luiz 1465</Comments>
+  <Quality>3</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Parulidae</Family>
+  <Genus>Basileuterus</Genus>
+  <Species>culicivorus</Species>
+  <Sub-species />
+  <VernacularNames>Golden-crowned Warbler</VernacularNames>
+</Audio>

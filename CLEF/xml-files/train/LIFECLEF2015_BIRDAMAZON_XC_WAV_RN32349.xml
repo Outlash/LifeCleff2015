@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>32349</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN32349.wav</FileName>
+  <ClassId>olrklp</ClassId>
+  <Date>2014-08-28</Date>
+  <Time>09:30</Time>
+  <Locality>Anzá Antioquia Colombia</Locality>
+  <Latitude>NULL</Latitude>
+  <Longitude>NULL</Longitude>
+  <Elevation>700</Elevation>
+  <Author>A Edwar H Guarín</Author>
+  <AuthorID>NQMGMOJOHV</AuthorID>
+  <Content>song</Content>
+  <Comments>bird-seen:yesplayback-used:no</Comments>
+  <Quality>1</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Troglodytidae</Family>
+  <Genus>Thryophilus</Genus>
+  <Species>sernai</Species>
+  <Sub-species />
+  <VernacularNames>Antioquia Wren</VernacularNames>
+</Audio>

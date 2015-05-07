@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>15888</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN15888.wav</FileName>
+  <ClassId>kgrlhv</ClassId>
+  <Date>2012-05-07</Date>
+  <Time>22:09</Time>
+  <Locality>Vidal Ramos, Santa Catarina</Locality>
+  <Latitude>-27.3514</Latitude>
+  <Longitude>-49.3535</Longitude>
+  <Elevation>500</Elevation>
+  <Author>Douglas Meyer</Author>
+  <AuthorID>MNENFHYTAE</AuthorID>
+  <Content>call, song</Content>
+  <Comments>bird-seen:yesplayback-used:no</Comments>
+  <Quality>0</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Strigiformes</Order>
+  <Family>Strigidae</Family>
+  <Genus>Megascops</Genus>
+  <Species>sanctaecatarinae</Species>
+  <Sub-species />
+  <VernacularNames>Long-tufted Screech Owl</VernacularNames>
+</Audio>

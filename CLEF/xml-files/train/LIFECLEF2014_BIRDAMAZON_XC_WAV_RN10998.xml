@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>10998</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN10998.wav</FileName>
+  <ClassId>uvfjyo</ClassId>
+  <Date>2002-09-11</Date>
+  <Time>08:34</Time>
+  <Locality>Teresópolis, RJ. Canoas</Locality>
+  <Latitude>-22.4001</Latitude>
+  <Longitude>-42.9001</Longitude>
+  <Elevation>900</Elevation>
+  <Author>Jeremy Minns</Author>
+  <AuthorID>DGVLLRYDXS</AuthorID>
+  <Content>call</Content>
+  <Comments>Fazenda Lagoinhas. Montane secondary growth.  These are Calls B and C in our DVD-ROM 'Birds of Brazil'.</Comments>
+  <Quality>2</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies>Crypturellus obsoletus,Batara cinerea,Anabazenops fuscus,Procnias nudicollis,Cyclarhis gujanensis</BackgroundSpecies>
+  <Order>Passeriformes</Order>
+  <Family>Thraupidae</Family>
+  <Genus>Hemithraupis</Genus>
+  <Species>ruficapilla</Species>
+  <Sub-species>ruficapilla</Sub-species>
+  <VernacularNames>Rufous-headed Tanager</VernacularNames>
+</Audio>

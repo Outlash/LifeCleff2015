@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>5097</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN5097.wav</FileName>
+  <ClassId>gvqejj</ClassId>
+  <Date>2009-08-20</Date>
+  <Time>?</Time>
+  <Locality>Fazenda Santa Rita, Parque Nacional da Serra do Itajaí, Indaial, Santa Catarina</Locality>
+  <Latitude>-27.1073</Latitude>
+  <Longitude>-49.1573</Longitude>
+  <Elevation>740</Elevation>
+  <Author>Adrian Eisen Rupp</Author>
+  <AuthorID>AOPMSCIDIA</AuthorID>
+  <Content>call</Content>
+  <Comments />
+  <Quality>2</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies />
+  <Order>Piciformes</Order>
+  <Family>Picidae</Family>
+  <Genus>Campephilus</Genus>
+  <Species>robustus</Species>
+  <Sub-species />
+  <VernacularNames>Robust Woodpecker</VernacularNames>
+</Audio>

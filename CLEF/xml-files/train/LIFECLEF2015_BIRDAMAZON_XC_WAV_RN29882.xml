@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>29882</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN29882.wav</FileName>
+  <ClassId>qfjwpy</ClassId>
+  <Date>2005-07-12</Date>
+  <Time>08:00</Time>
+  <Locality>Albania (Guajira)</Locality>
+  <Latitude>11.162</Latitude>
+  <Longitude>-72.5778</Longitude>
+  <Elevation>400</Elevation>
+  <Author>Oswaldo Cortes</Author>
+  <AuthorID>VVDRVZCVWW</AuthorID>
+  <Content>call</Content>
+  <Comments />
+  <Quality>3</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Charadriiformes</Order>
+  <Family>Charadriidae</Family>
+  <Genus>Vanellus</Genus>
+  <Species>chilensis</Species>
+  <Sub-species />
+  <VernacularNames>Southern Lapwing</VernacularNames>
+</Audio>

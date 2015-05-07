@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>31596</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN31596.wav</FileName>
+  <ClassId>exsmje</ClassId>
+  <Date>2007-12-02</Date>
+  <Time>09:50</Time>
+  <Locality>Parque Regional Barbas-Bremen, Filandia, Quindio. Sector Bremen-La Popa</Locality>
+  <Latitude>4.6717</Latitude>
+  <Longitude>-75.6283</Longitude>
+  <Elevation>1850</Elevation>
+  <Author>Oscar Humberto Marin-Gomez</Author>
+  <AuthorID>CSUHASNRSU</AuthorID>
+  <Content>call</Content>
+  <Comments>Ref: OHM11B 2422bird-seen:noplayback-used:no</Comments>
+  <Quality>3</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Trogoniformes</Order>
+  <Family>Trogonidae</Family>
+  <Genus>Trogon</Genus>
+  <Species>collaris</Species>
+  <Sub-species />
+  <VernacularNames>Collared Trogon</VernacularNames>
+</Audio>

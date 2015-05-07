@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>9735</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN9735.wav</FileName>
+  <ClassId>uphahj</ClassId>
+  <Date>2009-12-01</Date>
+  <Time>12:04</Time>
+  <Locality>Londrina - PR</Locality>
+  <Latitude>-23.3001</Latitude>
+  <Longitude>-51.1501</Longitude>
+  <Elevation>600</Elevation>
+  <Author>Renan Campos de Oliveira</Author>
+  <AuthorID>SDARDTGGWP</AuthorID>
+  <Content>alarm call</Content>
+  <Comments />
+  <Quality>2</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies />
+  <Order>Accipitriformes</Order>
+  <Family>Accipitridae</Family>
+  <Genus>Rupornis</Genus>
+  <Species>magnirostris</Species>
+  <Sub-species />
+  <VernacularNames>Roadside Hawk</VernacularNames>
+</Audio>

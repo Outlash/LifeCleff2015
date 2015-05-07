@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>11671</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN11671.wav</FileName>
+  <ClassId>vnmlmt</ClassId>
+  <Date>2012-11-25</Date>
+  <Time>07:30</Time>
+  <Locality>Canudos, Bahia</Locality>
+  <Latitude>-9.9501</Latitude>
+  <Longitude>-39.1501</Longitude>
+  <Elevation>400</Elevation>
+  <Author>GABRIEL LEITE</Author>
+  <AuthorID>TGBFXDVERJ</AuthorID>
+  <Content>male, song</Content>
+  <Comments>bird-seen:yesplayback-used:yes</Comments>
+  <Quality>2</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Thamnophilidae</Family>
+  <Genus>Thamnophilus</Genus>
+  <Species>doliatus</Species>
+  <Sub-species>capistratus</Sub-species>
+  <VernacularNames>Barred Antshrike</VernacularNames>
+</Audio>

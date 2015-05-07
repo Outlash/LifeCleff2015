@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>828</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN828.wav</FileName>
+  <ClassId>lgdqns</ClassId>
+  <Date>2003-04-02</Date>
+  <Time>06:00</Time>
+  <Locality>Comodoro, Mato Grosso</Locality>
+  <Latitude>-13.3001</Latitude>
+  <Longitude>-59.8001</Longitude>
+  <Elevation>600</Elevation>
+  <Author>Jeremy Minns</Author>
+  <AuthorID>DGVLLRYDXS</AuthorID>
+  <Content>call</Content>
+  <Comments>Campinarana' (forest on white sand). Fly over by two birds with others further off.</Comments>
+  <Quality>2</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies />
+  <Order>Psittaciformes</Order>
+  <Family>Psittacidae</Family>
+  <Genus>Amazona</Genus>
+  <Species>amazonica</Species>
+  <Sub-species />
+  <VernacularNames>Orange-winged Amazon</VernacularNames>
+</Audio>

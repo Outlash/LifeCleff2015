@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>12798</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN12798.wav</FileName>
+  <ClassId>jpjrlh</ClassId>
+  <Date>2006-04-04</Date>
+  <Time>11:15</Time>
+  <Locality>Araucarias National Park, Passos Maia, Santa Catarina</Locality>
+  <Latitude>-26.820394</Latitude>
+  <Longitude>-51.957436</Longitude>
+  <Elevation>850</Elevation>
+  <Author>Raphael Eduardo F. Santos</Author>
+  <AuthorID>TXWLKRXOWP</AuthorID>
+  <Content>call</Content>
+  <Comments />
+  <Quality>5</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Thamnophilidae</Family>
+  <Genus>Mackenziaena</Genus>
+  <Species>leachii</Species>
+  <Sub-species />
+  <VernacularNames>Large-tailed Antshrike</VernacularNames>
+</Audio>

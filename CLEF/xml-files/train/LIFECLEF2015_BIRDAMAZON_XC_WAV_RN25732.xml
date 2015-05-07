@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>25732</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN25732.wav</FileName>
+  <ClassId>cvnsao</ClassId>
+  <Date>2014-01-22</Date>
+  <Time>17:30</Time>
+  <Locality>Petrolândia, Santa Catarina</Locality>
+  <Latitude>-27.513</Latitude>
+  <Longitude>-49.6931</Longitude>
+  <Elevation>480</Elevation>
+  <Author>Glauco Kohler</Author>
+  <AuthorID>JDNMEJOJEQ</AuthorID>
+  <Content>call</Content>
+  <Comments>bird-seen:noplayback-used:no</Comments>
+  <Quality>1</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies>Tachyphonus coronatus,Myiodynastes maculatus</BackgroundSpecies>
+  <Order>Passeriformes</Order>
+  <Family>Thamnophilidae</Family>
+  <Genus>Drymophila</Genus>
+  <Species>rubricollis</Species>
+  <Sub-species />
+  <VernacularNames>Bertoni's Antbird</VernacularNames>
+</Audio>

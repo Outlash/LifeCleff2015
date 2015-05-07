@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>1404</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN1404.wav</FileName>
+  <ClassId>xychdo</ClassId>
+  <Date>2010-01-19</Date>
+  <Time>18:00</Time>
+  <Locality>RPPN Prima Luna, Nova Trento, Santa Catarina</Locality>
+  <Latitude>-27.258</Latitude>
+  <Longitude>-49.02</Longitude>
+  <Elevation>380</Elevation>
+  <Author>Evair Legal</Author>
+  <AuthorID>SMJXFKLATM</AuthorID>
+  <Content>call</Content>
+  <Comments>Ssp: musculus.</Comments>
+  <Quality>2</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Troglodytidae</Family>
+  <Genus>Troglodytes</Genus>
+  <Species>aedon</Species>
+  <Sub-species />
+  <VernacularNames>House Wren</VernacularNames>
+</Audio>

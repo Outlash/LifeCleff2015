@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>4756</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN4756.wav</FileName>
+  <ClassId>pugeru</ClassId>
+  <Date>2002-06-08</Date>
+  <Time>6:08</Time>
+  <Locality>Agua Fria Road, Chapada dos Guimaraes, MT</Locality>
+  <Latitude>-15.1</Latitude>
+  <Longitude>-55.61667</Longitude>
+  <Elevation>?</Elevation>
+  <Author>Paul Donahue</Author>
+  <AuthorID>LLRXADGTBA</AuthorID>
+  <Content>song</Content>
+  <Comments />
+  <Quality>1</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies />
+  <Order>Apodiformes</Order>
+  <Family>Trochilidae</Family>
+  <Genus>Colibri</Genus>
+  <Species>serrirostris</Species>
+  <Sub-species />
+  <VernacularNames>White-vented Violetear</VernacularNames>
+</Audio>

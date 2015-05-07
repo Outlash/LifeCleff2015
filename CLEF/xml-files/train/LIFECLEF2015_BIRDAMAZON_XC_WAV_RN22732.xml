@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>22732</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN22732.wav</FileName>
+  <ClassId>qldqit</ClassId>
+  <Date>1996-07-20</Date>
+  <Time>10:20</Time>
+  <Locality>Itanhaém, SP. Rio Preto</Locality>
+  <Latitude>-24.1834</Latitude>
+  <Longitude>-46.9001</Longitude>
+  <Elevation>15</Elevation>
+  <Author>Dante Buzzetti</Author>
+  <AuthorID>YOXWKYFZAP</AuthorID>
+  <Content>call</Content>
+  <Comments>bird-seen:yesplayback-used:no</Comments>
+  <Quality>1</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Furnariidae</Family>
+  <Genus>Philydor</Genus>
+  <Species>atricapillus</Species>
+  <Sub-species />
+  <VernacularNames>Black-capped Foliage-gleaner</VernacularNames>
+</Audio>

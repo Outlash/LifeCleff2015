@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>12993</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN12993.wav</FileName>
+  <ClassId>ekarsb</ClassId>
+  <Date>2009-04-26</Date>
+  <Time>10:00</Time>
+  <Locality>São Geraldo do Araguaia, Para</Locality>
+  <Latitude>-6.3262</Latitude>
+  <Longitude>-48.539</Longitude>
+  <Elevation>140</Elevation>
+  <Author>GABRIEL LEITE</Author>
+  <AuthorID>TGBFXDVERJ</AuthorID>
+  <Content>male, song</Content>
+  <Comments>bird-seen:yesplayback-used:yes</Comments>
+  <Quality>2</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Thamnophilidae</Family>
+  <Genus>Myrmoborus</Genus>
+  <Species>myotherinus</Species>
+  <Sub-species />
+  <VernacularNames>Black-faced Antbird</VernacularNames>
+</Audio>

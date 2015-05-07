@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>18204</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN18204.wav</FileName>
+  <ClassId>dfxend</ClassId>
+  <Date>2009-10-06</Date>
+  <Time>06:30</Time>
+  <Locality>Cristalino Jungle Lodge, MT</Locality>
+  <Latitude>-9.5981</Latitude>
+  <Longitude>-55.932</Longitude>
+  <Elevation>250</Elevation>
+  <Author>Andrew Spencer</Author>
+  <AuthorID>CDTGHVBGZP</AuthorID>
+  <Content>call</Content>
+  <Comments>calls from an adult bird near a fledged juvenile</Comments>
+  <Quality>3</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Piciformes</Order>
+  <Family>Bucconidae</Family>
+  <Genus>Monasa</Genus>
+  <Species>morphoeus</Species>
+  <Sub-species />
+  <VernacularNames>White-fronted Nunbird</VernacularNames>
+</Audio>

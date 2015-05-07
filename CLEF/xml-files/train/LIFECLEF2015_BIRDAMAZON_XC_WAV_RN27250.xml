@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>27250</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN27250.wav</FileName>
+  <ClassId>nieuqt</ClassId>
+  <Date>2011-03-14</Date>
+  <Time>9-00</Time>
+  <Locality>Bachaquero</Locality>
+  <Latitude>9.9039</Latitude>
+  <Longitude>-71.1039</Longitude>
+  <Elevation>15</Elevation>
+  <Author>Albert Lastukhin</Author>
+  <AuthorID>LELYWQKUZX</AuthorID>
+  <Content>Call</Content>
+  <Comments />
+  <Quality>2</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Falconiformes</Order>
+  <Family>Falconidae</Family>
+  <Genus>Falco</Genus>
+  <Species>rufigularis</Species>
+  <Sub-species />
+  <VernacularNames>Bat Falcon</VernacularNames>
+</Audio>

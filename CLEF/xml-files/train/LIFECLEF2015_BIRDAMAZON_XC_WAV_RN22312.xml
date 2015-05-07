@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>22312</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN22312.wav</FileName>
+  <ClassId>ipvlig</ClassId>
+  <Date>2012-12-01</Date>
+  <Time>01:30</Time>
+  <Locality>Santander, Municipio de Vetas, Paramo de Santurban</Locality>
+  <Latitude>7.332</Latitude>
+  <Longitude>-72.8584</Longitude>
+  <Elevation>3500</Elevation>
+  <Author>Oswaldo Cortes</Author>
+  <AuthorID>VVDRVZCVWW</AuthorID>
+  <Content>song</Content>
+  <Comments>Habitat, Oak Forestbird-seen:yesplayback-used:no</Comments>
+  <Quality>0</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies>Hemispingus superciliaris</BackgroundSpecies>
+  <Order>Passeriformes</Order>
+  <Family>Parulidae</Family>
+  <Genus>Myioborus</Genus>
+  <Species>ornatus</Species>
+  <Sub-species />
+  <VernacularNames>Golden-fronted Whitestart</VernacularNames>
+</Audio>

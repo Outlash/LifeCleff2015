@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>25833</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN25833.wav</FileName>
+  <ClassId>sjjpbk</ClassId>
+  <Date>2010-02-05</Date>
+  <Time>06:20</Time>
+  <Locality>Aguas da Prata, SP</Locality>
+  <Latitude>-21.932</Latitude>
+  <Longitude>-46.715</Longitude>
+  <Elevation>900</Elevation>
+  <Author>Marcos Melo</Author>
+  <AuthorID>MRGDYNJGUJ</AuthorID>
+  <Content>song</Content>
+  <Comments />
+  <Quality>1</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Thraupidae</Family>
+  <Genus>Thlypopsis</Genus>
+  <Species>sordida</Species>
+  <Sub-species />
+  <VernacularNames>Orange-headed Tanager</VernacularNames>
+</Audio>

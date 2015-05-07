@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>8841</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN8841.wav</FileName>
+  <ClassId>yyjrms</ClassId>
+  <Date>2010-09-18</Date>
+  <Time>08:40</Time>
+  <Locality>Pousada Recanto dos Passaros, Ubatuba - SP</Locality>
+  <Latitude>-23.436</Latitude>
+  <Longitude>-45.088</Longitude>
+  <Elevation>10</Elevation>
+  <Author>Marcos Melo</Author>
+  <AuthorID>MRGDYNJGUJ</AuthorID>
+  <Content>song</Content>
+  <Comments />
+  <Quality>3</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Emberizidae</Family>
+  <Genus>Zonotrichia</Genus>
+  <Species>capensis</Species>
+  <Sub-species>subtorquata</Sub-species>
+  <VernacularNames>Rufous-collared Sparrow</VernacularNames>
+</Audio>

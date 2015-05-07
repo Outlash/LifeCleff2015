@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>4962</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN4962.wav</FileName>
+  <ClassId>hendyi</ClassId>
+  <Date>1997-09-25</Date>
+  <Time>?</Time>
+  <Locality>Fazenda Canabrava, Curaçá, Bahia</Locality>
+  <Latitude>-9.01</Latitude>
+  <Longitude>-39.9001</Longitude>
+  <Elevation>?</Elevation>
+  <Author>Juan Mazar Barnett</Author>
+  <AuthorID>KVDIDMAVLE</AuthorID>
+  <Content>Calls (song?)</Content>
+  <Comments>cd:http://www.birdsongs.com/Bolivia/main.htm</Comments>
+  <Quality>2</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies>Cariama cristata,Columbina squammata,Camptostoma obsoletum,Pitangus sulphuratus</BackgroundSpecies>
+  <Order>Passeriformes</Order>
+  <Family>Tyrannidae</Family>
+  <Genus>Empidonomus</Genus>
+  <Species>varius</Species>
+  <Sub-species />
+  <VernacularNames>Variegated Flycatcher</VernacularNames>
+</Audio>

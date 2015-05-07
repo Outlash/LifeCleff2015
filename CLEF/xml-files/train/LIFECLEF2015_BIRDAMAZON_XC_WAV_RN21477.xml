@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>21477</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN21477.wav</FileName>
+  <ClassId>flxqxu</ClassId>
+  <Date>2009-04-10</Date>
+  <Time>06:30</Time>
+  <Locality>Finca La Judea, Vereda Pedregales Alto, Génova, Quindio</Locality>
+  <Latitude>4.1543</Latitude>
+  <Longitude>-75.7191</Longitude>
+  <Elevation>3200</Elevation>
+  <Author>Oscar Humberto Marin-Gomez</Author>
+  <AuthorID>CSUHASNRSU</AuthorID>
+  <Content>song</Content>
+  <Comments>OHM059B 1402. Dos individuos observados en borde de bosque. 30m del mic.bird-seen:yesplayback-used:no</Comments>
+  <Quality>3</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Thraupidae</Family>
+  <Genus>Buthraupis</Genus>
+  <Species>montana</Species>
+  <Sub-species />
+  <VernacularNames>Hooded Mountain Tanager</VernacularNames>
+</Audio>

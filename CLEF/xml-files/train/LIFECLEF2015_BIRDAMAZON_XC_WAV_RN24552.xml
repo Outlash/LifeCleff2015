@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>24552</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN24552.wav</FileName>
+  <ClassId>kaivna</ClassId>
+  <Date>2007-06-06</Date>
+  <Time>?</Time>
+  <Locality>RNA El Mirador, Génova, Quindío</Locality>
+  <Latitude>4.1395</Latitude>
+  <Longitude>-75.7356</Longitude>
+  <Elevation>2800</Elevation>
+  <Author>Frank Lambert</Author>
+  <AuthorID>YTUXOCTUEM</AuthorID>
+  <Content>song</Content>
+  <Comments>same bird as XC16846. recorded just south of the reserve</Comments>
+  <Quality>2</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Galliformes</Order>
+  <Family>Odontophoridae</Family>
+  <Genus>Odontophorus</Genus>
+  <Species>hyperythrus</Species>
+  <Sub-species />
+  <VernacularNames>Chestnut Wood Quail</VernacularNames>
+</Audio>

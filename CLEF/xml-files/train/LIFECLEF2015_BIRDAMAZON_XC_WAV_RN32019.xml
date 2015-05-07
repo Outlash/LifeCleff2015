@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>32019</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN32019.wav</FileName>
+  <ClassId>hzjuvh</ClassId>
+  <Date>2014-07-21</Date>
+  <Time>09:00</Time>
+  <Locality>ZF2 km 34, 80km north of Manaus</Locality>
+  <Latitude>-2.609</Latitude>
+  <Longitude>-60.2091</Longitude>
+  <Elevation>110</Elevation>
+  <Author>Rodrigo Dela Rosa</Author>
+  <AuthorID>VGXDJMKETZ</AuthorID>
+  <Content>flight call, song</Content>
+  <Comments>bird-seen:yesplayback-used:no</Comments>
+  <Quality>3</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Psittaciformes</Order>
+  <Family>Psittacidae</Family>
+  <Genus>Brotogeris</Genus>
+  <Species>chrysoptera</Species>
+  <Sub-species />
+  <VernacularNames>Golden-winged Parakeet</VernacularNames>
+</Audio>

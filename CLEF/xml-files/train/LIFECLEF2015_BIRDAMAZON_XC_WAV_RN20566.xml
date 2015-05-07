@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>20566</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN20566.wav</FileName>
+  <ClassId>qqrfhs</ClassId>
+  <Date>2014-02-02</Date>
+  <Time>11:00</Time>
+  <Locality>Dusky-starfrontlet Reserve. Urrao. Antioquia</Locality>
+  <Latitude>6.444</Latitude>
+  <Longitude>-76.113</Longitude>
+  <Elevation>3500</Elevation>
+  <Author>Oswaldo Cortes</Author>
+  <AuthorID>VVDRVZCVWW</AuthorID>
+  <Content>song</Content>
+  <Comments>bird-seen:yesplayback-used:no</Comments>
+  <Quality>4</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Rhinocryptidae</Family>
+  <Genus>Scytalopus</Genus>
+  <Species>canus</Species>
+  <Sub-species />
+  <VernacularNames>Paramillo Tapaculo</VernacularNames>
+</Audio>

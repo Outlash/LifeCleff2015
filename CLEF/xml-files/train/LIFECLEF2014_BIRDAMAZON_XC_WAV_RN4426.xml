@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>4426</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN4426.wav</FileName>
+  <ClassId>fotnep</ClassId>
+  <Date>2011-08-05</Date>
+  <Time>17:20</Time>
+  <Locality>Cristalino Jungle Lodge, MT</Locality>
+  <Latitude>-9.5981</Latitude>
+  <Longitude>-55.932</Longitude>
+  <Elevation>200</Elevation>
+  <Author>Tayler Brooks</Author>
+  <AuthorID>ARFGONJCBJ</AuthorID>
+  <Content>call, song</Content>
+  <Comments>Natural vocalization. First calls, then quiet complex song later in the cut.</Comments>
+  <Quality>2</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Thraupidae</Family>
+  <Genus>Dacnis</Genus>
+  <Species>cayana</Species>
+  <Sub-species>cayana</Sub-species>
+  <VernacularNames>Blue Dacnis</VernacularNames>
+</Audio>

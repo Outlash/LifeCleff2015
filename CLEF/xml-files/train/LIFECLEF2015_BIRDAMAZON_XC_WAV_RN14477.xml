@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>14477</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN14477.wav</FileName>
+  <ClassId>jceldx</ClassId>
+  <Date>2008-08-18</Date>
+  <Time>?</Time>
+  <Locality>Bolivar, El Pauji road, Uaiparu</Locality>
+  <Latitude>NULL</Latitude>
+  <Longitude>NULL</Longitude>
+  <Elevation>?</Elevation>
+  <Author>Alexandre Renaudier</Author>
+  <AuthorID>GKADEITXTH</AuthorID>
+  <Content>song</Content>
+  <Comments>after playback</Comments>
+  <Quality>1</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Furnariidae</Family>
+  <Genus>Synallaxis</Genus>
+  <Species>rutilans</Species>
+  <Sub-species />
+  <VernacularNames>Ruddy Spinetail</VernacularNames>
+</Audio>

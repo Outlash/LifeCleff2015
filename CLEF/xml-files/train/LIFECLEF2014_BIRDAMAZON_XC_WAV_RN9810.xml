@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>9810</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN9810.wav</FileName>
+  <ClassId>ifsjcq</ClassId>
+  <Date>2002-01-05</Date>
+  <Time>?:?</Time>
+  <Locality>A 4 km de Francisco Sa, Minas Gerais</Locality>
+  <Latitude>NULL</Latitude>
+  <Longitude>NULL</Longitude>
+  <Elevation>?</Elevation>
+  <Author>Rosendo Fraga</Author>
+  <AuthorID>JQSYKZHEMB</AuthorID>
+  <Content>song</Content>
+  <Comments>&lt;a href=http://www.xeno-canto.org/graphics/conosur.jpg rel=lightbox&gt;From Bird Sounds of Southern South America by Lopez-Lanus (2008)&lt;/a&gt;</Comments>
+  <Quality>2</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Emberizidae</Family>
+  <Genus>Ammodramus</Genus>
+  <Species>humeralis</Species>
+  <Sub-species />
+  <VernacularNames>Grassland Sparrow</VernacularNames>
+</Audio>

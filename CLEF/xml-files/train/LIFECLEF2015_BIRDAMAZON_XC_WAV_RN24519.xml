@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>24519</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN24519.wav</FileName>
+  <ClassId>zsdjkk</ClassId>
+  <Date>2011-09-14</Date>
+  <Time>07:00</Time>
+  <Locality>Cristalino Jungle Lodge, MT</Locality>
+  <Latitude>-9.5981</Latitude>
+  <Longitude>-55.932</Longitude>
+  <Elevation>260</Elevation>
+  <Author>Eric DeFonso</Author>
+  <AuthorID>KTLCZCRCQX</AuthorID>
+  <Content>song</Content>
+  <Comments>Small glitch in first 10 sec of recording - had to cut out an unexplained 2-sec gap. Terra firme forest.bird-seen:noplayback-used:no</Comments>
+  <Quality>2</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Piciformes</Order>
+  <Family>Ramphastidae</Family>
+  <Genus>Selenidera</Genus>
+  <Species>gouldii</Species>
+  <Sub-species />
+  <VernacularNames>Gould's Toucanet</VernacularNames>
+</Audio>

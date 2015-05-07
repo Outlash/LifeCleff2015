@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>3399</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN3399.wav</FileName>
+  <ClassId>ztxztb</ClassId>
+  <Date>2008-03-23</Date>
+  <Time>08:30</Time>
+  <Locality>Parque Estadual Paulo Cézar Vinha- ES</Locality>
+  <Latitude>NULL</Latitude>
+  <Longitude>NULL</Longitude>
+  <Elevation>0</Elevation>
+  <Author>Filipe Terra Delboni, José Silvério Lemos</Author>
+  <AuthorID>TTTHVXGOWS</AuthorID>
+  <Content>song</Content>
+  <Comments />
+  <Quality>2</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Thraupidae</Family>
+  <Genus>Ramphocelus</Genus>
+  <Species>bresilius</Species>
+  <Sub-species />
+  <VernacularNames>Brazilian Tanager</VernacularNames>
+</Audio>

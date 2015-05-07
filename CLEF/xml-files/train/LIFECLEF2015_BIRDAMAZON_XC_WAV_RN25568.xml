@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>25568</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN25568.wav</FileName>
+  <ClassId>ipaxqr</ClassId>
+  <Date>2013-02-02</Date>
+  <Time>15:30</Time>
+  <Locality>Santa Teresa, Espirito Santo</Locality>
+  <Latitude>-19.934</Latitude>
+  <Longitude>-40.5962</Longitude>
+  <Elevation>650</Elevation>
+  <Author>Noé Eiterer</Author>
+  <AuthorID>TWSKITNQOV</AuthorID>
+  <Content>call, song</Content>
+  <Comments>bird-seen:yesplayback-used:no</Comments>
+  <Quality>2</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Galliformes</Order>
+  <Family>Cracidae</Family>
+  <Genus>Penelope</Genus>
+  <Species>obscura</Species>
+  <Sub-species />
+  <VernacularNames>Dusky-legged Guan</VernacularNames>
+</Audio>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>7572</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN7572.wav</FileName>
+  <ClassId>ktgebu</ClassId>
+  <Date>2010-08-27</Date>
+  <Time>06:57</Time>
+  <Locality>Itatiaia NP, RJ</Locality>
+  <Latitude>-22.3798</Latitude>
+  <Longitude>-44.6301</Longitude>
+  <Elevation>1700</Elevation>
+  <Author>Herman van Oosten</Author>
+  <AuthorID>SNUDCZVUQK</AuthorID>
+  <Content>song</Content>
+  <Comments>Wow, wonderfully seen at around 15m. First ever seen Chamaeza, what a pattern!</Comments>
+  <Quality>1</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Formicariidae</Family>
+  <Genus>Chamaeza</Genus>
+  <Species>ruficauda</Species>
+  <Sub-species />
+  <VernacularNames>Rufous-tailed Antthrush</VernacularNames>
+</Audio>

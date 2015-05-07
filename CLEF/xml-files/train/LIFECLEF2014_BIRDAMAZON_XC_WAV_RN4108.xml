@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>4108</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN4108.wav</FileName>
+  <ClassId>inrkmj</ClassId>
+  <Date>2006-08-24</Date>
+  <Time>09:00</Time>
+  <Locality>Santo Antonio do Pinhal, São Paulo State</Locality>
+  <Latitude>-22.8893</Latitude>
+  <Longitude>-45.6861</Longitude>
+  <Elevation>1300</Elevation>
+  <Author>Antonio Silveira</Author>
+  <AuthorID>NBJQSQJRYH</AuthorID>
+  <Content>male, song</Content>
+  <Comments>bird-seen:yesplayback-used:no</Comments>
+  <Quality>1</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Furnariidae</Family>
+  <Genus>Synallaxis</Genus>
+  <Species>spixi</Species>
+  <Sub-species />
+  <VernacularNames>Spix's Spinetail</VernacularNames>
+</Audio>

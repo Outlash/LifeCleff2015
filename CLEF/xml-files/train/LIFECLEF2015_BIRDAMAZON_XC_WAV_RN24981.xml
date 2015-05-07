@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>24981</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN24981.wav</FileName>
+  <ClassId>rwcqbe</ClassId>
+  <Date>1996-08-16</Date>
+  <Time>?</Time>
+  <Locality>Córdoba, Bolívar</Locality>
+  <Latitude>9.63</Latitude>
+  <Longitude>-74.91222</Longitude>
+  <Elevation>120</Elevation>
+  <Author>Mauricio Álvarez Rebolledo (Colección de Sonidos Ambientales - Instituto Humboldt)</Author>
+  <AuthorID>XMFDPACYJN</AuthorID>
+  <Content>song</Content>
+  <Comments>BSA 10026To obtain a wav file of the original recording, please contact csa@humboldt.org.coplayback-used:no</Comments>
+  <Quality>4</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Galliformes</Order>
+  <Family>Cracidae</Family>
+  <Genus>Ortalis</Genus>
+  <Species>garrula</Species>
+  <Sub-species />
+  <VernacularNames>Chestnut-winged Chachalaca</VernacularNames>
+</Audio>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>26642</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN26642.wav</FileName>
+  <ClassId>nrlglm</ClassId>
+  <Date>2012-04-15</Date>
+  <Time>15:36</Time>
+  <Locality>Vidal Ramos, Santa Catarina</Locality>
+  <Latitude>-27.3546</Latitude>
+  <Longitude>-49.3459</Longitude>
+  <Elevation>360</Elevation>
+  <Author>Douglas Meyer</Author>
+  <AuthorID>MNENFHYTAE</AuthorID>
+  <Content>song</Content>
+  <Comments>bird-seen:yesplayback-used:no</Comments>
+  <Quality>0</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Falconiformes</Order>
+  <Family>Falconidae</Family>
+  <Genus>Caracara</Genus>
+  <Species>plancus</Species>
+  <Sub-species />
+  <VernacularNames>Southern Crested Caracara</VernacularNames>
+</Audio>

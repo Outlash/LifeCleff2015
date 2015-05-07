@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>22913</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN22913.wav</FileName>
+  <ClassId>dxtjbh</ClassId>
+  <Date>2011-11-07</Date>
+  <Time>07:30</Time>
+  <Locality>DMI Agualinda, Apia, Risaralda</Locality>
+  <Latitude>5.128</Latitude>
+  <Longitude>-75.932</Longitude>
+  <Elevation>2100</Elevation>
+  <Author>Diego Calderon-F.</Author>
+  <AuthorID>OGATBVKNAG</AuthorID>
+  <Content>Song</Content>
+  <Comments>NEW for the Western Andes of Colombia... will be soon published: Calderón-Franco, Zuleta Marín &amp; Ayerbe-Quiñones. 2011. ATLAPETES FLAVICEPS TAMBIÉN SE ENCUENTRA EN LA CORDILLERA OCCIDENTAL DE LOS ANDES EN COLOMBIA. Boletín SAO.</Comments>
+  <Quality>1</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies>Pheugopedius mystacalis</BackgroundSpecies>
+  <Order>Passeriformes</Order>
+  <Family>Emberizidae</Family>
+  <Genus>Atlapetes</Genus>
+  <Species>flaviceps</Species>
+  <Sub-species />
+  <VernacularNames>Yellow-headed Brush Finch</VernacularNames>
+</Audio>

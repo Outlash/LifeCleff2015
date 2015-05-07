@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>22334</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN22334.wav</FileName>
+  <ClassId>vofzgr</ClassId>
+  <Date>2009-04-10</Date>
+  <Time>14:00</Time>
+  <Locality>Finca La Judea, Vereda Pedregales Alto, Génova, Quindio</Locality>
+  <Latitude>4.1543</Latitude>
+  <Longitude>-75.7191</Longitude>
+  <Elevation>3300</Elevation>
+  <Author>Oscar Humberto Marin-Gomez</Author>
+  <AuthorID>CSUHASNRSU</AuthorID>
+  <Content>Contact calls, call</Content>
+  <Comments>OHM059B. 0438.  Grupo de cinco individuos en zona abierta, potrero.bird-seen:yesplayback-used:no</Comments>
+  <Quality>3</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Fringillidae</Family>
+  <Genus>Spinus</Genus>
+  <Species>magellanica</Species>
+  <Sub-species />
+  <VernacularNames>Hooded Siskin</VernacularNames>
+</Audio>

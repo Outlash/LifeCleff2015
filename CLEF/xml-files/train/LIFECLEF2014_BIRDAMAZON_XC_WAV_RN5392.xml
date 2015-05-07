@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>5392</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN5392.wav</FileName>
+  <ClassId>nurzze</ClassId>
+  <Date>2009-01-23</Date>
+  <Time>06:55</Time>
+  <Locality>RPPN Serra Bonita, Camacan, Bahia.</Locality>
+  <Latitude>-15.3851</Latitude>
+  <Longitude>-39.5709</Longitude>
+  <Elevation>700</Elevation>
+  <Author>Sidnei S. dos Santos</Author>
+  <AuthorID>BHODJXTHGQ</AuthorID>
+  <Content>Song</Content>
+  <Comments />
+  <Quality>2</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies />
+  <Order>Columbiformes</Order>
+  <Family>Columbidae</Family>
+  <Genus>Patagioenas</Genus>
+  <Species>plumbea</Species>
+  <Sub-species />
+  <VernacularNames>Plumbeous Pigeon</VernacularNames>
+</Audio>

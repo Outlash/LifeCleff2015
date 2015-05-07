@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>10260</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN10260.wav</FileName>
+  <ClassId>wpfguq</ClassId>
+  <Date>2005-11-24</Date>
+  <Time>5:50</Time>
+  <Locality>Parque do Zizo, Sao Paulo State</Locality>
+  <Latitude>-24.017146</Latitude>
+  <Longitude>-47.81044</Longitude>
+  <Elevation>630</Elevation>
+  <Author>Bob Planqué</Author>
+  <AuthorID>OH38YHKJBS</AuthorID>
+  <Content>song</Content>
+  <Comments>calling from undergrowth with lots of bamboo</Comments>
+  <Quality>3</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies>Micrastur ruficollis</BackgroundSpecies>
+  <Order>Passeriformes</Order>
+  <Family>Conopophagidae</Family>
+  <Genus>Conopophaga</Genus>
+  <Species>lineata</Species>
+  <Sub-species />
+  <VernacularNames>Rufous Gnateater</VernacularNames>
+</Audio>

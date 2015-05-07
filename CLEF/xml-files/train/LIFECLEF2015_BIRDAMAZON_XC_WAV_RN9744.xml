@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>9744</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN9744.wav</FileName>
+  <ClassId>smnliu</ClassId>
+  <Date>2014-10-18</Date>
+  <Time>09:00</Time>
+  <Locality>Estrada dos Imigrantes, Nova Veneza, Santa Catarina</Locality>
+  <Latitude>-28.6431</Latitude>
+  <Longitude>-49.471</Longitude>
+  <Elevation>160</Elevation>
+  <Author>João Gava Just</Author>
+  <AuthorID>CEKMJEZKSJ</AuthorID>
+  <Content>song</Content>
+  <Comments>Forest edge perched in Eucalyptus sp.bird-seen:yesplayback-used:no</Comments>
+  <Quality>3</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Tityridae</Family>
+  <Genus>Tityra</Genus>
+  <Species>cayana</Species>
+  <Sub-species />
+  <VernacularNames>Black-tailed Tityra</VernacularNames>
+</Audio>

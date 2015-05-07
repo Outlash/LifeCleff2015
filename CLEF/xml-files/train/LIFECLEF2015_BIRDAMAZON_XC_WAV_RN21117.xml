@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>21117</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN21117.wav</FileName>
+  <ClassId>dxyjmg</ClassId>
+  <Date>2007-01-13</Date>
+  <Time>08:00</Time>
+  <Locality>Barinas, San Isidro Tunnel Road</Locality>
+  <Latitude>8.8501</Latitude>
+  <Longitude>-70.5667</Longitude>
+  <Elevation>?</Elevation>
+  <Author>Andrew Spencer</Author>
+  <AuthorID>CDTGHVBGZP</AuthorID>
+  <Content>song</Content>
+  <Comments />
+  <Quality>1</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Turdidae</Family>
+  <Genus>Turdus</Genus>
+  <Species>olivater</Species>
+  <Sub-species />
+  <VernacularNames>Black-hooded Thrush</VernacularNames>
+</Audio>

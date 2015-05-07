@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>29026</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN29026.wav</FileName>
+  <ClassId>viluoh</ClassId>
+  <Date>2005-11-18</Date>
+  <Time>07:17</Time>
+  <Locality>Arbalaez (Cundinamarca), en la finca El Placer</Locality>
+  <Latitude>4.01</Latitude>
+  <Longitude>-74.01</Longitude>
+  <Elevation>1950</Elevation>
+  <Author>Oswaldo Cortes</Author>
+  <AuthorID>VVDRVZCVWW</AuthorID>
+  <Content>song</Content>
+  <Comments>vocalizacion de individuo adulto</Comments>
+  <Quality>3</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Tyrannidae</Family>
+  <Genus>Pitangus</Genus>
+  <Species>sulphuratus</Species>
+  <Sub-species />
+  <VernacularNames>Great Kiskadee</VernacularNames>
+</Audio>

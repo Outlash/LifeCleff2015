@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>5915</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN5915.wav</FileName>
+  <ClassId>mwocnj</ClassId>
+  <Date>2009-03-01</Date>
+  <Time>06:50</Time>
+  <Locality>APA Capivari Monos, São Paulo, SP</Locality>
+  <Latitude>-23.955667</Latitude>
+  <Longitude>-46.650334</Longitude>
+  <Elevation>?</Elevation>
+  <Author>Marcos Melo</Author>
+  <AuthorID>MRGDYNJGUJ</AuthorID>
+  <Content>song</Content>
+  <Comments />
+  <Quality>2</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies>Geothlypis velata,Carpornis cucullata</BackgroundSpecies>
+  <Order>Passeriformes</Order>
+  <Family>Thamnophilidae</Family>
+  <Genus>Drymophila</Genus>
+  <Species>malura</Species>
+  <Sub-species />
+  <VernacularNames>Dusky-tailed Antbird</VernacularNames>
+</Audio>

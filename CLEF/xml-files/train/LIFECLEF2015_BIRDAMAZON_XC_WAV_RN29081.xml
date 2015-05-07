@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>29081</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN29081.wav</FileName>
+  <ClassId>xqglsv</ClassId>
+  <Date>2011-10-07</Date>
+  <Time>?</Time>
+  <Locality>Maripasoula, Grand Inini</Locality>
+  <Latitude>NULL</Latitude>
+  <Longitude>NULL</Longitude>
+  <Elevation>90</Elevation>
+  <Author>Alexandre Renaudier</Author>
+  <AuthorID>GKADEITXTH</AuthorID>
+  <Content>call</Content>
+  <Comments />
+  <Quality>3</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies>Perissocephalus tricolor,Patagioenas subvinacea,Hypocnemis cantator,Myiopagis gaimardii</BackgroundSpecies>
+  <Order>Coraciiformes</Order>
+  <Family>Momotidae</Family>
+  <Genus>Momotus</Genus>
+  <Species>momota</Species>
+  <Sub-species />
+  <VernacularNames>Amazonian Motmot</VernacularNames>
+</Audio>

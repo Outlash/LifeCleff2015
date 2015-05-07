@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>12659</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN12659.wav</FileName>
+  <ClassId>yplahx</ClassId>
+  <Date>2009-08-23</Date>
+  <Time>10:30</Time>
+  <Locality>Trilha do Buritizal - Serra do Viruá - Parque Nacional do Viruá</Locality>
+  <Latitude>1.4829</Latitude>
+  <Longitude>-60.9891</Longitude>
+  <Elevation>90</Elevation>
+  <Author>Thiago Orsi Laranjeiras</Author>
+  <AuthorID>PMYLTPLTLT</AuthorID>
+  <Content>song</Content>
+  <Comments />
+  <Quality>4</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Polioptilidae</Family>
+  <Genus>Ramphocaenus</Genus>
+  <Species>melanurus</Species>
+  <Sub-species />
+  <VernacularNames>Long-billed Gnatwren</VernacularNames>
+</Audio>

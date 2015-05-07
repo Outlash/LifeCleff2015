@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>16518</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN16518.wav</FileName>
+  <ClassId>knpxmw</ClassId>
+  <Date>2005-06-00</Date>
+  <Time>7:10</Time>
+  <Locality>Mata dos Jegues, Guadalupe - Piaui State</Locality>
+  <Latitude>-6.766557</Latitude>
+  <Longitude>-43.82068</Longitude>
+  <Elevation>?</Elevation>
+  <Author>Guilherme R R Brito</Author>
+  <AuthorID>OAYOBWYOOM</AuthorID>
+  <Content>song</Content>
+  <Comments>song</Comments>
+  <Quality>1</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Piciformes</Order>
+  <Family>Bucconidae</Family>
+  <Genus>Monasa</Genus>
+  <Species>nigrifrons</Species>
+  <Sub-species />
+  <VernacularNames>Black-fronted Nunbird</VernacularNames>
+</Audio>

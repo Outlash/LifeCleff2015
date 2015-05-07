@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>20229</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN20229.wav</FileName>
+  <ClassId>omjzdy</ClassId>
+  <Date>2012-07-25</Date>
+  <Time>11:00</Time>
+  <Locality>DMI Cuchilla del san juan , Apia risaralda</Locality>
+  <Latitude>5.193</Latitude>
+  <Longitude>-75.956</Longitude>
+  <Elevation>2200</Elevation>
+  <Author>Julian Andres Zuleta Marín</Author>
+  <AuthorID>AMCJKUNQOR</AuthorID>
+  <Content>song</Content>
+  <Comments>bird-seen:no</Comments>
+  <Quality>3</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies>Cacicus uropygialis</BackgroundSpecies>
+  <Order>Passeriformes</Order>
+  <Family>Formicariidae</Family>
+  <Genus>Chamaeza</Genus>
+  <Species>turdina</Species>
+  <Sub-species />
+  <VernacularNames>Schwartz's Antthrush</VernacularNames>
+</Audio>

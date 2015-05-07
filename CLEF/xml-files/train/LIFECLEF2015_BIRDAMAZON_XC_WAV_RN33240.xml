@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>33240</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN33240.wav</FileName>
+  <ClassId>rbdxus</ClassId>
+  <Date>2011-11-25</Date>
+  <Time>08:30</Time>
+  <Locality>Ribeirãozinho, Mato Grosso</Locality>
+  <Latitude>-16.5194</Latitude>
+  <Longitude>-52.6994</Longitude>
+  <Elevation>500</Elevation>
+  <Author>Eduardo D. Schultz</Author>
+  <AuthorID>QYOZQITVAC</AuthorID>
+  <Content>call</Content>
+  <Comments />
+  <Quality>1</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies>Vireo olivaceus,Crypturellus undulatus,Hemithraupis guira</BackgroundSpecies>
+  <Order>Passeriformes</Order>
+  <Family>Thraupidae</Family>
+  <Genus>Ramphocelus</Genus>
+  <Species>carbo</Species>
+  <Sub-species />
+  <VernacularNames>Silver-beaked Tanager</VernacularNames>
+</Audio>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>6440</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN6440.wav</FileName>
+  <ClassId>xzvjkj</ClassId>
+  <Date>2002-09-00</Date>
+  <Time>08:00</Time>
+  <Locality>Cristalino Jungle Lodge, MT</Locality>
+  <Latitude>-9.5981</Latitude>
+  <Longitude>-55.932</Longitude>
+  <Elevation>260</Elevation>
+  <Author>Antonio Silveira</Author>
+  <AuthorID>NBJQSQJRYH</AuthorID>
+  <Content>song</Content>
+  <Comments>bird-seen:noplayback-used:no</Comments>
+  <Quality>0</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Tityridae</Family>
+  <Genus>Schiffornis</Genus>
+  <Species>turdina</Species>
+  <Sub-species />
+  <VernacularNames>Brown-winged Schiffornis</VernacularNames>
+</Audio>

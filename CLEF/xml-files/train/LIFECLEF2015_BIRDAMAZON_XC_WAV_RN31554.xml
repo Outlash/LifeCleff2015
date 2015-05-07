@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>31554</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN31554.wav</FileName>
+  <ClassId>tadaeg</ClassId>
+  <Date>2004-08-24</Date>
+  <Time>06:56</Time>
+  <Locality>Mesenia, Risaralda</Locality>
+  <Latitude>5.459478</Latitude>
+  <Longitude>-75.900421</Longitude>
+  <Elevation>2400</Elevation>
+  <Author>Niels Krabbe</Author>
+  <AuthorID>XTVEPHMPPJ</AuthorID>
+  <Content>song</Content>
+  <Comments>Tape ref. B 70-77</Comments>
+  <Quality>1</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies>Synallaxis unirufa,Scytalopus vicinior</BackgroundSpecies>
+  <Order>Passeriformes</Order>
+  <Family>Rhinocryptidae</Family>
+  <Genus>Scytalopus</Genus>
+  <Species>spillmanni</Species>
+  <Sub-species />
+  <VernacularNames>Spillmann's Tapaculo</VernacularNames>
+</Audio>

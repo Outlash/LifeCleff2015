@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>20570</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN20570.wav</FileName>
+  <ClassId>qwxjxm</ClassId>
+  <Date>2014-05-12</Date>
+  <Time>07:00</Time>
+  <Locality>Saracá-Taquera National Forest, Porto Trombetas, PA</Locality>
+  <Latitude>-1.6667</Latitude>
+  <Longitude>-56.01</Longitude>
+  <Elevation>50</Elevation>
+  <Author>Sidnei Dantas</Author>
+  <AuthorID>NNCKQMBGPH</AuthorID>
+  <Content>call</Content>
+  <Comments>in a campina patch. Intervals between calls reduced.bird-seen:noplayback-used:no</Comments>
+  <Quality>3</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Tyrannidae</Family>
+  <Genus>Cnemotriccus</Genus>
+  <Species>fuscatus</Species>
+  <Sub-species>duidae</Sub-species>
+  <VernacularNames>Fuscous Flycatcher</VernacularNames>
+</Audio>

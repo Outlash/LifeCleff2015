@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>16361</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN16361.wav</FileName>
+  <ClassId>smoutd</ClassId>
+  <Date>2011-06-06</Date>
+  <Time>11:10</Time>
+  <Locality>Parque Nacional Natural Chingaza, Cundinamarca</Locality>
+  <Latitude>4.747</Latitude>
+  <Longitude>-73.856</Longitude>
+  <Elevation>3400</Elevation>
+  <Author>Andrew Spencer</Author>
+  <AuthorID>CDTGHVBGZP</AuthorID>
+  <Content>song</Content>
+  <Comments>natural vocalization, from a bird singing in some low bamboo and scrub in the paramo.</Comments>
+  <Quality>1</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Grallariidae</Family>
+  <Genus>Grallaria</Genus>
+  <Species>quitensis</Species>
+  <Sub-species>alticola</Sub-species>
+  <VernacularNames>Tawny Antpitta</VernacularNames>
+</Audio>

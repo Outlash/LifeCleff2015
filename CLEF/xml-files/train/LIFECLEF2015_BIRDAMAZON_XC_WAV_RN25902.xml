@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>25902</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN25902.wav</FileName>
+  <ClassId>viluoh</ClassId>
+  <Date>2013-11-16</Date>
+  <Time>06:43</Time>
+  <Locality>Reserva La Romera, Sabaneta, Antioquia</Locality>
+  <Latitude>6.1298</Latitude>
+  <Longitude>-75.5999</Longitude>
+  <Elevation>1900</Elevation>
+  <Author>Danny Zapata-Henao</Author>
+  <AuthorID>AHYWLCEJLP</AuthorID>
+  <Content>song</Content>
+  <Comments>bird-seen:yesplayback-used:no</Comments>
+  <Quality>0</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Tyrannidae</Family>
+  <Genus>Pitangus</Genus>
+  <Species>sulphuratus</Species>
+  <Sub-species />
+  <VernacularNames>Great Kiskadee</VernacularNames>
+</Audio>

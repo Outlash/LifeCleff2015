@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>6610</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN6610.wav</FileName>
+  <ClassId>cmlkob</ClassId>
+  <Date>2006-04-15</Date>
+  <Time>05:30</Time>
+  <Locality>Porteiras, Altinho, Pernambuco</Locality>
+  <Latitude>-8.3</Latitude>
+  <Longitude>-37.75</Longitude>
+  <Elevation>360</Elevation>
+  <Author>Glauco Alves Pereira</Author>
+  <AuthorID>ZWEROGGYVP</AuthorID>
+  <Content>call, song</Content>
+  <Comments>Caatinga habitat</Comments>
+  <Quality>2</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Tityridae</Family>
+  <Genus>Pachyramphus</Genus>
+  <Species>viridis</Species>
+  <Sub-species />
+  <VernacularNames>Green-backed Becard</VernacularNames>
+</Audio>

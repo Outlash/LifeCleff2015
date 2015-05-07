@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>12230</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN12230.wav</FileName>
+  <ClassId>liclqi</ClassId>
+  <Date>2006-06-01</Date>
+  <Time>05:40</Time>
+  <Locality>Alta Floresta, MT</Locality>
+  <Latitude>-9.8781</Latitude>
+  <Longitude>-56.0981</Longitude>
+  <Elevation>290</Elevation>
+  <Author>Bradley Davis</Author>
+  <AuthorID>YNXJLOESBB</AuthorID>
+  <Content>dawn song</Content>
+  <Comments>not seen.</Comments>
+  <Quality>2</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies>Xiphocolaptes promeropirhynchus,Momotus momota</BackgroundSpecies>
+  <Order>Passeriformes</Order>
+  <Family>Furnariidae</Family>
+  <Genus>Dendrexetastes</Genus>
+  <Species>rufigula</Species>
+  <Sub-species>moniliger</Sub-species>
+  <VernacularNames>Cinnamon-throated Woodcreeper</VernacularNames>
+</Audio>

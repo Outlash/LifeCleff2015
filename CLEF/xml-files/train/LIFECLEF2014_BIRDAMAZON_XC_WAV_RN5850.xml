@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>5850</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN5850.wav</FileName>
+  <ClassId>qpxgvo</ClassId>
+  <Date>2006-03-16</Date>
+  <Time>09:45</Time>
+  <Locality>Pousada Caiman, Forest patch, Matto Grosso do Sul state</Locality>
+  <Latitude>-20.054</Latitude>
+  <Longitude>-56.436</Longitude>
+  <Elevation>190</Elevation>
+  <Author>Daniel Lane</Author>
+  <AuthorID>WOEAFQRMUD</AuthorID>
+  <Content>song</Content>
+  <Comments>Song of an unseen individual (about 4-5m up) in understory of semi-deciduous woodland with Guadua bamboo understory. Based on voice, I originally thought this might be an H. minor type, but new experience with the same vocalization in La Paz make me think it is probably a vocalization of H. margaritaceiventer. Any comments on this would be welcome!bird-seen:noplayback-used:no</Comments>
+  <Quality>2</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies>Myiothlypis flaveola</BackgroundSpecies>
+  <Order>Passeriformes</Order>
+  <Family>Tyrannidae</Family>
+  <Genus>Hemitriccus</Genus>
+  <Species>margaritaceiventer</Species>
+  <Sub-species />
+  <VernacularNames>Pearly-vented Tody-Tyrant</VernacularNames>
+</Audio>

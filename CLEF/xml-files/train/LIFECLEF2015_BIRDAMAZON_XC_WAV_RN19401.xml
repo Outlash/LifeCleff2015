@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>19401</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN19401.wav</FileName>
+  <ClassId>ypmevr</ClassId>
+  <Date>2014-08-20</Date>
+  <Time>17:00</Time>
+  <Locality>Balneário Camboriú, Balneário Camboriú, Santa Catarina</Locality>
+  <Latitude>-26.9862</Latitude>
+  <Longitude>-48.6476</Longitude>
+  <Elevation>70</Elevation>
+  <Author>Roberto Buss Stringari</Author>
+  <AuthorID>TLLUGZINYM</AuthorID>
+  <Content>call</Content>
+  <Comments>bird-seen:yesplayback-used:no</Comments>
+  <Quality>1</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Conopophagidae</Family>
+  <Genus>Conopophaga</Genus>
+  <Species>melanops</Species>
+  <Sub-species>melanops</Sub-species>
+  <VernacularNames>Black-cheeked Gnateater</VernacularNames>
+</Audio>

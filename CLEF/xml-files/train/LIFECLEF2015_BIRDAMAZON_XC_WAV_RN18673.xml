@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>18673</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN18673.wav</FileName>
+  <ClassId>khvgmu</ClassId>
+  <Date>2006-01-07</Date>
+  <Time>7:45</Time>
+  <Locality>Otanche, Boyacá, Otanche, La Ye, Serranía de las Quinchas</Locality>
+  <Latitude>5.8167</Latitude>
+  <Longitude>-74.3001</Longitude>
+  <Elevation>1450</Elevation>
+  <Author>Oscar Laverde</Author>
+  <AuthorID>WKVKSVMNDZ</AuthorID>
+  <Content>song</Content>
+  <Comments />
+  <Quality>2</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Thamnophilidae</Family>
+  <Genus>Myrmeciza</Genus>
+  <Species>immaculata</Species>
+  <Sub-species />
+  <VernacularNames>Blue-lored Antbird</VernacularNames>
+</Audio>

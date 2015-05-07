@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>2082</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN2082.wav</FileName>
+  <ClassId>pazlce</ClassId>
+  <Date>2006-09-21</Date>
+  <Time>07:00</Time>
+  <Locality>Monte Alegre, state of Pará</Locality>
+  <Latitude>-2.0375</Latitude>
+  <Longitude>-54.1131</Longitude>
+  <Elevation>100</Elevation>
+  <Author>Sidnei Dantas</Author>
+  <AuthorID>NNCKQMBGPH</AuthorID>
+  <Content>call</Content>
+  <Comments>white sand forest.</Comments>
+  <Quality>0</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Tyrannidae</Family>
+  <Genus>Lophotriccus</Genus>
+  <Species>galeatus</Species>
+  <Sub-species />
+  <VernacularNames>Helmeted Pygmy Tyrant</VernacularNames>
+</Audio>

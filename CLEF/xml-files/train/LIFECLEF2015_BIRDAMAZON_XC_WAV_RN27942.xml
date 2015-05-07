@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>27942</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN27942.wav</FileName>
+  <ClassId>espdgz</ClassId>
+  <Date>2008-07-17</Date>
+  <Time>?</Time>
+  <Locality>Apa do Rio São Bartolomeu, DF</Locality>
+  <Latitude>-15.666</Latitude>
+  <Longitude>-47.73</Longitude>
+  <Elevation>1120</Elevation>
+  <Author>Pedro Diniz</Author>
+  <AuthorID>ASCUKOCOCY</AuthorID>
+  <Content>Subsong</Content>
+  <Comments>subsong mixing alarm and agonistic calls, adult song, contact calls</Comments>
+  <Quality>0</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies>Phacellodomus rufifrons,Elaenia cristata</BackgroundSpecies>
+  <Order>Passeriformes</Order>
+  <Family>Thraupidae</Family>
+  <Genus>Charitospiza</Genus>
+  <Species>eucosma</Species>
+  <Sub-species />
+  <VernacularNames>Coal-crested Finch</VernacularNames>
+</Audio>

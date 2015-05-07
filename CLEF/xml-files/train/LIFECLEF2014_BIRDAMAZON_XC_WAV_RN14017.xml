@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>14017</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN14017.wav</FileName>
+  <ClassId>tyqwsc</ClassId>
+  <Date>2007-08-02</Date>
+  <Time>09:34</Time>
+  <Locality>Pousada Rio Azul, PA</Locality>
+  <Latitude>-9.2456</Latitude>
+  <Longitude>-55.987</Longitude>
+  <Elevation>240</Elevation>
+  <Author>Bradley Davis</Author>
+  <AuthorID>YNXJLOESBB</AuthorID>
+  <Content>song</Content>
+  <Comments>a pair seen moving with a large canopy flock</Comments>
+  <Quality>2</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies>Thamnophilus palliatus,Myrmotherula sclateri</BackgroundSpecies>
+  <Order>Passeriformes</Order>
+  <Family>Troglodytidae</Family>
+  <Genus>Odontorchilus</Genus>
+  <Species>cinereus</Species>
+  <Sub-species />
+  <VernacularNames>Tooth-billed Wren</VernacularNames>
+</Audio>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>22688</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN22688.wav</FileName>
+  <ClassId>gsmjhm</ClassId>
+  <Date>2013-11-23</Date>
+  <Time>16:30</Time>
+  <Locality>Ilhabela, São Paulo</Locality>
+  <Latitude>-23.8312</Latitude>
+  <Longitude>-45.3495</Longitude>
+  <Elevation>190</Elevation>
+  <Author>Eduardo D. Schultz</Author>
+  <AuthorID>QYOZQITVAC</AuthorID>
+  <Content>call, song</Content>
+  <Comments>About 10 individuals perched, then flyingbird-seen:yesplayback-used:no</Comments>
+  <Quality>0</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Psittaciformes</Order>
+  <Family>Psittacidae</Family>
+  <Genus>Pyrrhura</Genus>
+  <Species>frontalis</Species>
+  <Sub-species />
+  <VernacularNames>Maroon-bellied Parakeet</VernacularNames>
+</Audio>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>23350</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN23350.wav</FileName>
+  <ClassId>bjvdzx</ClassId>
+  <Date>2011-06-11</Date>
+  <Time>09:30</Time>
+  <Locality>Mitu, Vaupes</Locality>
+  <Latitude>1.2598</Latitude>
+  <Longitude>-70.2367</Longitude>
+  <Elevation>190</Elevation>
+  <Author>Andrew Spencer</Author>
+  <AuthorID>CDTGHVBGZP</AuthorID>
+  <Content>call</Content>
+  <Comments>natural vocalization, alarm calls from a bird low in dense brush.</Comments>
+  <Quality>1</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Troglodytidae</Family>
+  <Genus>Pheugopedius</Genus>
+  <Species>coraya</Species>
+  <Sub-species>griseipectus?</Sub-species>
+  <VernacularNames>Coraya Wren</VernacularNames>
+</Audio>

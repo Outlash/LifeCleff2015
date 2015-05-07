@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>4692</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN4692.wav</FileName>
+  <ClassId>enlzwu</ClassId>
+  <Date>2006-02-01</Date>
+  <Time>7:00</Time>
+  <Locality>Cachoeira, Bahia.</Locality>
+  <Latitude>NULL</Latitude>
+  <Longitude>NULL</Longitude>
+  <Elevation>?</Elevation>
+  <Author>Sidnei S. dos Santos</Author>
+  <AuthorID>BHODJXTHGQ</AuthorID>
+  <Content>Song</Content>
+  <Comments />
+  <Quality>0</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Thraupidae</Family>
+  <Genus>Oryzoborus</Genus>
+  <Species>angolensis</Species>
+  <Sub-species />
+  <VernacularNames>Chestnut-bellied Seed Finch</VernacularNames>
+</Audio>

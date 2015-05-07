@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>8444</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN8444.wav</FileName>
+  <ClassId>hendyi</ClassId>
+  <Date>2010-10-03</Date>
+  <Time>?</Time>
+  <Locality>São josé dos Campos/SP</Locality>
+  <Latitude>-23.135</Latitude>
+  <Longitude>-45.95</Longitude>
+  <Elevation>700</Elevation>
+  <Author>Rodrigo Dela Rosa</Author>
+  <AuthorID>VGXDJMKETZ</AuthorID>
+  <Content>Call</Content>
+  <Comments />
+  <Quality>1</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Tyrannidae</Family>
+  <Genus>Empidonomus</Genus>
+  <Species>varius</Species>
+  <Sub-species />
+  <VernacularNames>Variegated Flycatcher</VernacularNames>
+</Audio>

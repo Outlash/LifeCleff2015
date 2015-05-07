@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>24025</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN24025.wav</FileName>
+  <ClassId>ffvgyk</ClassId>
+  <Date>2005-06-26</Date>
+  <Time>5:29</Time>
+  <Locality>La Playa de Belen, ANUC Los Estoraques, Sector Piritama, Norte de Santander</Locality>
+  <Latitude>8.2167</Latitude>
+  <Longitude>-73.2334</Longitude>
+  <Elevation>1650</Elevation>
+  <Author>Oscar Laverde</Author>
+  <AuthorID>WKVKSVMNDZ</AuthorID>
+  <Content>song</Content>
+  <Comments>Muy lejos, muy bajito el volumen de grabacion</Comments>
+  <Quality>3</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Troglodytidae</Family>
+  <Genus>Henicorhina</Genus>
+  <Species>leucophrys</Species>
+  <Sub-species />
+  <VernacularNames>Grey-breasted Wood Wren</VernacularNames>
+</Audio>

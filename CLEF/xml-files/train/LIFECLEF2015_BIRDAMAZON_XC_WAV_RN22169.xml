@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>22169</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN22169.wav</FileName>
+  <ClassId>qhsdfp</ClassId>
+  <Date>2000-09-27</Date>
+  <Time>xx:xx</Time>
+  <Locality>Entre La Romelia y El Planchon (PNN Munchique), Charguayaco, Vereda La Romelia, Mpio El Tambo, Cauca</Locality>
+  <Latitude>NULL</Latitude>
+  <Longitude>NULL</Longitude>
+  <Elevation>2300</Elevation>
+  <Author>Bernabe Lopez-Lanus</Author>
+  <AuthorID>BYLLSJRVDZ</AuthorID>
+  <Content>Song</Content>
+  <Comments />
+  <Quality>4</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Grallariidae</Family>
+  <Genus>Grallaricula</Genus>
+  <Species>nana</Species>
+  <Sub-species>nana</Sub-species>
+  <VernacularNames>Slaty-crowned Antpitta</VernacularNames>
+</Audio>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>20252</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN20252.wav</FileName>
+  <ClassId>xkktdr</ClassId>
+  <Date>2009-09-15</Date>
+  <Time>08:00</Time>
+  <Locality>FARALLON DE MEDINA</Locality>
+  <Latitude>4.5834</Latitude>
+  <Longitude>-73.4834</Longitude>
+  <Elevation>1700</Elevation>
+  <Author>Oswaldo Cortes</Author>
+  <AuthorID>VVDRVZCVWW</AuthorID>
+  <Content>song</Content>
+  <Comments />
+  <Quality>3</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Thraupidae</Family>
+  <Genus>Tangara</Genus>
+  <Species>arthus</Species>
+  <Sub-species />
+  <VernacularNames>Golden Tanager</VernacularNames>
+</Audio>

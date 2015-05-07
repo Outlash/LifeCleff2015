@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>21743</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN21743.wav</FileName>
+  <ClassId>xcuxll</ClassId>
+  <Date>2010-01-06</Date>
+  <Time>07:30</Time>
+  <Locality>Sonsón, Antioquia, Vereda San Francisco, Cerro de las Palomas, Páramo de Sonsón</Locality>
+  <Latitude>5.716</Latitude>
+  <Longitude>-75.2583</Longitude>
+  <Elevation>2800</Elevation>
+  <Author>Oscar H. Marín-Gómez</Author>
+  <AuthorID>CSUHASNRSU</AuthorID>
+  <Content>call</Content>
+  <Comments>Ref: OHM067B 0507. Un individuo en claro de bosque dominado por roble. Distancia de 20 m al microfono.bird-seen:noplayback-used:no</Comments>
+  <Quality>3</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies>Colibri thalassinus,Zimmerius chrysops,Atlapetes schistaceus</BackgroundSpecies>
+  <Order>Passeriformes</Order>
+  <Family>Tyrannidae</Family>
+  <Genus>Myiarchus</Genus>
+  <Species>cephalotes</Species>
+  <Sub-species />
+  <VernacularNames>Pale-edged Flycatcher</VernacularNames>
+</Audio>

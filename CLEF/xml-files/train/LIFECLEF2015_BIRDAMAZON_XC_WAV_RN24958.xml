@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>24958</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN24958.wav</FileName>
+  <ClassId>wszyfh</ClassId>
+  <Date>2010-02-07</Date>
+  <Time>08:30</Time>
+  <Locality>near La Minca below RNA El Dorado, Sierra de Santa Marta, Magdalena</Locality>
+  <Latitude>11.1334</Latitude>
+  <Longitude>-74.1001</Longitude>
+  <Elevation>600</Elevation>
+  <Author>Frank Lambert</Author>
+  <AuthorID>YTUXOCTUEM</AuthorID>
+  <Content>call</Content>
+  <Comments>pair</Comments>
+  <Quality>0</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Thamnophilidae</Family>
+  <Genus>Thamnophilus</Genus>
+  <Species>melanonotus</Species>
+  <Sub-species />
+  <VernacularNames>Black-backed Antshrike</VernacularNames>
+</Audio>

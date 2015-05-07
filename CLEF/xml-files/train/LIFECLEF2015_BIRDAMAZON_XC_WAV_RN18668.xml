@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>18668</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN18668.wav</FileName>
+  <ClassId>azrobg</ClassId>
+  <Date>2011-04-12</Date>
+  <Time>08:19</Time>
+  <Locality>Penha, Penha, Santa Catarina</Locality>
+  <Latitude>-26.7873</Latitude>
+  <Longitude>-48.5937</Longitude>
+  <Elevation>60</Elevation>
+  <Author>Douglas Meyer</Author>
+  <AuthorID>MNENFHYTAE</AuthorID>
+  <Content>song</Content>
+  <Comments>bird-seen:yesplayback-used:no</Comments>
+  <Quality>3</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Thamnophilidae</Family>
+  <Genus>Herpsilochmus</Genus>
+  <Species>rufimarginatus</Species>
+  <Sub-species />
+  <VernacularNames>Rufous-winged Antwren</VernacularNames>
+</Audio>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>27309</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN27309.wav</FileName>
+  <ClassId>efzmgo</ClassId>
+  <Date>2013-01-29</Date>
+  <Time>05:00</Time>
+  <Locality>SFF Otun-Quimbaya, Pereira, Risaralda, C Andes</Locality>
+  <Latitude>4.727</Latitude>
+  <Longitude>-75.577</Longitude>
+  <Elevation>1900</Elevation>
+  <Author>Diego Calderon-F.</Author>
+  <AuthorID>OGATBVKNAG</AuthorID>
+  <Content>song</Content>
+  <Comments>Up to 3 individuals singing this early morning before dawnbird-seen:noplayback-used:no</Comments>
+  <Quality>0</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies>Megascops colombianus</BackgroundSpecies>
+  <Order>Galliformes</Order>
+  <Family>Cracidae</Family>
+  <Genus>Aburria</Genus>
+  <Species>aburri</Species>
+  <Sub-species />
+  <VernacularNames>Wattled Guan</VernacularNames>
+</Audio>

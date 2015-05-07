@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>1686</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN1686.wav</FileName>
+  <ClassId>ombazy</ClassId>
+  <Date>2013-01-29</Date>
+  <Time>17:00</Time>
+  <Locality>RPPN Estação Veracel, Porto Seguro, Bahia</Locality>
+  <Latitude>-16.3458</Latitude>
+  <Longitude>-39.1395</Longitude>
+  <Elevation>90</Elevation>
+  <Author>Dan Lane</Author>
+  <AuthorID>WOEAFQRMUD</AuthorID>
+  <Content>song</Content>
+  <Comments>Response to playback from a bird (same as in XC123270) perched about 12-15m up in subcanopy of tall trees in white sand forest. Agitated, flitted its wings with every head movement. Playback is edited out, shortening some spaces between vocalizations.bird-seen:yesplayback-used:yes</Comments>
+  <Quality>2</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies>Schiffornis turdina,Piculus flavigula,Tolmomyias flaviventris</BackgroundSpecies>
+  <Order>Passeriformes</Order>
+  <Family>Furnariidae</Family>
+  <Genus>Campylorhamphus</Genus>
+  <Species>trochilirostris</Species>
+  <Sub-species />
+  <VernacularNames>Red-billed Scythebill</VernacularNames>
+</Audio>

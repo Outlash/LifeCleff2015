@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>17674</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN17674.wav</FileName>
+  <ClassId>rojrwf</ClassId>
+  <Date>2012-11-29</Date>
+  <Time>05:00</Time>
+  <Locality>Canudos, Bahia</Locality>
+  <Latitude>-9.9501</Latitude>
+  <Longitude>-39.1501</Longitude>
+  <Elevation>400</Elevation>
+  <Author>GABRIEL LEITE</Author>
+  <AuthorID>TGBFXDVERJ</AuthorID>
+  <Content>song</Content>
+  <Comments>bird-seen:noplayback-used:no</Comments>
+  <Quality>2</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Caprimulgiformes</Order>
+  <Family>Caprimulgidae</Family>
+  <Genus>Systellura</Genus>
+  <Species>longirostris</Species>
+  <Sub-species />
+  <VernacularNames>Band-winged Nightjar</VernacularNames>
+</Audio>

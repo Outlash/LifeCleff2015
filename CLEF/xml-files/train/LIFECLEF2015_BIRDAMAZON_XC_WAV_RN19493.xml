@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>19493</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN19493.wav</FileName>
+  <ClassId>peiocp</ClassId>
+  <Date>2011-02-15</Date>
+  <Time>17:35</Time>
+  <Locality>Parque Estadual Intervales, SP</Locality>
+  <Latitude>-24.2759</Latitude>
+  <Longitude>-48.4181</Longitude>
+  <Elevation>850</Elevation>
+  <Author>Daniel Lane</Author>
+  <AuthorID>WOEAFQRMUD</AuthorID>
+  <Content>call</Content>
+  <Comments>Alarm (to our presence?) from a bird carrying food as it sat in crown of tree about 12m.</Comments>
+  <Quality>2</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies>Carpornis cucullata,Syndactyla rufosuperciliata</BackgroundSpecies>
+  <Order>Passeriformes</Order>
+  <Family>Tyrannidae</Family>
+  <Genus>Conopias</Genus>
+  <Species>trivirgatus</Species>
+  <Sub-species />
+  <VernacularNames>Three-striped Flycatcher</VernacularNames>
+</Audio>

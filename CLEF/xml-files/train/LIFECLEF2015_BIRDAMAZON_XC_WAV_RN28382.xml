@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>28382</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN28382.wav</FileName>
+  <ClassId>oublby</ClassId>
+  <Date>2011-04-01</Date>
+  <Time>?</Time>
+  <Locality>Sinnamary, savanes de la piste de St Elie</Locality>
+  <Latitude>NULL</Latitude>
+  <Longitude>NULL</Longitude>
+  <Elevation>9</Elevation>
+  <Author>Alexandre Renaudier</Author>
+  <AuthorID>GKADEITXTH</AuthorID>
+  <Content>call</Content>
+  <Comments />
+  <Quality>2</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Coraciiformes</Order>
+  <Family>Alcedinidae</Family>
+  <Genus>Megaceryle</Genus>
+  <Species>torquata</Species>
+  <Sub-species />
+  <VernacularNames>Ringed Kingfisher</VernacularNames>
+</Audio>

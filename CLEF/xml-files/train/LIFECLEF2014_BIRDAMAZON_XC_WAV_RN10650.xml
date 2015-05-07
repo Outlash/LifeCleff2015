@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>10650</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN10650.wav</FileName>
+  <ClassId>xzyogt</ClassId>
+  <Date>2005-06-12</Date>
+  <Time>06:00</Time>
+  <Locality>Chico Mendes City Park - RJ</Locality>
+  <Latitude>-23.02583</Latitude>
+  <Longitude>-43.471098</Longitude>
+  <Elevation>5</Elevation>
+  <Author>Ricardo Gagliardi</Author>
+  <AuthorID>YRDADNREOP</AuthorID>
+  <Content>song</Content>
+  <Comments />
+  <Quality>1</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Furnariidae</Family>
+  <Genus>Furnarius</Genus>
+  <Species>figulus</Species>
+  <Sub-species />
+  <VernacularNames>Band-tailed Hornero</VernacularNames>
+</Audio>

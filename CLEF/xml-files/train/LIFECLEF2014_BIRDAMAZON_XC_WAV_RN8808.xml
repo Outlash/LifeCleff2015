@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>8808</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN8808.wav</FileName>
+  <ClassId>ekfrhz</ClassId>
+  <Date>2000-09-07</Date>
+  <Time>08:08</Time>
+  <Locality>Parque Nacional da Amazônia</Locality>
+  <Latitude>-4.5167</Latitude>
+  <Longitude>-56.3001</Longitude>
+  <Elevation>50</Elevation>
+  <Author>Jeremy Minns</Author>
+  <AuthorID>DGVLLRYDXS</AuthorID>
+  <Content>call</Content>
+  <Comments>Terra firme forest. In canopy. Not seen.</Comments>
+  <Quality>2</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies>Myrmotherula sclateri</BackgroundSpecies>
+  <Order>Accipitriformes</Order>
+  <Family>Accipitridae</Family>
+  <Genus>Leucopternis</Genus>
+  <Species>kuhli</Species>
+  <Sub-species />
+  <VernacularNames>White-browed Hawk</VernacularNames>
+</Audio>

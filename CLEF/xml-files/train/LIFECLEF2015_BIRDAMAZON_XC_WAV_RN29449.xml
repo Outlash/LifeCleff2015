@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>29449</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN29449.wav</FileName>
+  <ClassId>qvcasw</ClassId>
+  <Date>2014-08-15</Date>
+  <Time>06:30</Time>
+  <Locality>Finca Cachicamo, Santa Ines - Caripe area, Monagas</Locality>
+  <Latitude>10.1988</Latitude>
+  <Longitude>-63.4418</Longitude>
+  <Elevation>900</Elevation>
+  <Author>Thore Noernberg</Author>
+  <AuthorID>TTSQGWDDGW</AuthorID>
+  <Content>song</Content>
+  <Comments>bird singing in the entrance of the farm in secondary forest bird-seen:noplayback-used:no</Comments>
+  <Quality>1</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Furnariidae</Family>
+  <Genus>Synallaxis</Genus>
+  <Species>albescens</Species>
+  <Sub-species>trinitatis</Sub-species>
+  <VernacularNames>Pale-breasted Spinetail</VernacularNames>
+</Audio>

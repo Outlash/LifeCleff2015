@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>8496</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN8496.wav</FileName>
+  <ClassId>muhjso</ClassId>
+  <Date>2003-11-15</Date>
+  <Time>?</Time>
+  <Locality>Mogi das Cruzes, Sao Paolo State</Locality>
+  <Latitude>-23.52</Latitude>
+  <Longitude>-46.18</Longitude>
+  <Elevation>700</Elevation>
+  <Author>Carlos Candia-Gallardo</Author>
+  <AuthorID>CXQSLQJCAG</AuthorID>
+  <Content>song</Content>
+  <Comments />
+  <Quality>1</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Tyrannidae</Family>
+  <Genus>Lathrotriccus</Genus>
+  <Species>euleri</Species>
+  <Sub-species />
+  <VernacularNames>Euler's Flycatcher</VernacularNames>
+</Audio>

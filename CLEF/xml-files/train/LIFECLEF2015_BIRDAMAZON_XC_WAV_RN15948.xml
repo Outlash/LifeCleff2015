@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>15948</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN15948.wav</FileName>
+  <ClassId>crqoog</ClassId>
+  <Date>2004-08-08</Date>
+  <Time>18:15</Time>
+  <Locality>Ricaurte, RN La Planada, Narino</Locality>
+  <Latitude>1.0834</Latitude>
+  <Longitude>-77.8834</Longitude>
+  <Elevation>2000</Elevation>
+  <Author>Oscar Laverde</Author>
+  <AuthorID>WKVKSVMNDZ</AuthorID>
+  <Content>song</Content>
+  <Comments />
+  <Quality>1</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Tyrannidae</Family>
+  <Genus>Myiodynastes</Genus>
+  <Species>chrysocephalus</Species>
+  <Sub-species />
+  <VernacularNames>Golden-crowned Flycatcher</VernacularNames>
+</Audio>

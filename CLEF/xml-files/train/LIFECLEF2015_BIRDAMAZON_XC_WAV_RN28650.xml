@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>28650</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN28650.wav</FileName>
+  <ClassId>smoutd</ClassId>
+  <Date>2008-05-02</Date>
+  <Time>06:20</Time>
+  <Locality>Finca el Vergel, Vereda Toche, limite entre Cajamarca y Salento  entre Quindio y Tolima</Locality>
+  <Latitude>4.6432</Latitude>
+  <Longitude>-75.4131</Longitude>
+  <Elevation>3600</Elevation>
+  <Author>Oscar Humberto Marin-Gomez</Author>
+  <AuthorID>CSUHASNRSU</AuthorID>
+  <Content>song</Content>
+  <Comments>Ref OHM025A  1330.  Subparamo. 100m del Mic. Vocalización Natural. Camino hacia la Primavera. Grabaciones realizadas en compañía  de Diego Duque Montoya.bird-seen:noplayback-used:no</Comments>
+  <Quality>4</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Grallariidae</Family>
+  <Genus>Grallaria</Genus>
+  <Species>quitensis</Species>
+  <Sub-species />
+  <VernacularNames>Tawny Antpitta</VernacularNames>
+</Audio>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>13641</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN13641.wav</FileName>
+  <ClassId>ltmvlu</ClassId>
+  <Date>2009-08-18</Date>
+  <Time>18:20</Time>
+  <Locality>Goiânia, Goiás.</Locality>
+  <Latitude>-16.691448</Latitude>
+  <Longitude>-49.266815</Longitude>
+  <Elevation>670</Elevation>
+  <Author>Nunes D´Acosta</Author>
+  <AuthorID>OHHTDSDNBT</AuthorID>
+  <Content>song</Content>
+  <Comments>Fêmea  vocalizando dentro de abrigo ( oco de  arvore) ou ninho.</Comments>
+  <Quality>1</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Furnariidae</Family>
+  <Genus>Xiphorhynchus</Genus>
+  <Species>guttatus</Species>
+  <Sub-species />
+  <VernacularNames>Buff-throated Woodcreeper</VernacularNames>
+</Audio>

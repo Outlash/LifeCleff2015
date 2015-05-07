@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>318</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN318.wav</FileName>
+  <ClassId>zxtbno</ClassId>
+  <Date>2008-04-27</Date>
+  <Time>16:20</Time>
+  <Locality>ESEC Terra do Meio, Altamira/PA</Locality>
+  <Latitude>-6.1873</Latitude>
+  <Longitude>-54.0837</Longitude>
+  <Elevation>199</Elevation>
+  <Author>Fernando Fávaro</Author>
+  <AuthorID>QTNGUZTTQM</AuthorID>
+  <Content>song</Content>
+  <Comments>Terra Firme forest.</Comments>
+  <Quality>2</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies>Microcerculus marginatus,Saltator maximus</BackgroundSpecies>
+  <Order>Passeriformes</Order>
+  <Family>Furnariidae</Family>
+  <Genus>Automolus</Genus>
+  <Species>paraensis</Species>
+  <Sub-species />
+  <VernacularNames>Para Foliage-gleaner</VernacularNames>
+</Audio>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>19388</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN19388.wav</FileName>
+  <ClassId>sjimuc</ClassId>
+  <Date>2010-10-12</Date>
+  <Time>08:12</Time>
+  <Locality>Puerto Lopez, Rio Humea (meta)</Locality>
+  <Latitude>4.155</Latitude>
+  <Longitude>-72.923</Longitude>
+  <Elevation>100</Elevation>
+  <Author>Oswaldo Cortes</Author>
+  <AuthorID>VVDRVZCVWW</AuthorID>
+  <Content>song</Content>
+  <Comments>male</Comments>
+  <Quality>0</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies>Myrmoborus leucophrys</BackgroundSpecies>
+  <Order>Passeriformes</Order>
+  <Family>Thamnophilidae</Family>
+  <Genus>Hypocnemoides</Genus>
+  <Species>melanopogon</Species>
+  <Sub-species />
+  <VernacularNames>Black-chinned Antbird</VernacularNames>
+</Audio>

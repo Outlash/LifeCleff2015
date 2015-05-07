@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>161</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN161.wav</FileName>
+  <ClassId>izpyuo</ClassId>
+  <Date>2005-11-25</Date>
+  <Time>12:00</Time>
+  <Locality>Parque do Zizo, Sao Paulo State</Locality>
+  <Latitude>-24.017146</Latitude>
+  <Longitude>-47.81044</Longitude>
+  <Elevation>630</Elevation>
+  <Author>Bob Planqué</Author>
+  <AuthorID>OH38YHKJBS</AuthorID>
+  <Content>call</Content>
+  <Comments>At feeder. First short and soft, later louder, more sweeping calls, seemingly to indicate that coast was clear. img:http://www.cs.bris.ac.uk/home/planque/Zizo/golden_chev.jpg</Comments>
+  <Quality>3</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies>Cissopis leverianus,Cacicus haemorrhous,Anabazenops fuscus</BackgroundSpecies>
+  <Order>Passeriformes</Order>
+  <Family>Thraupidae</Family>
+  <Genus>Thraupis</Genus>
+  <Species>ornata</Species>
+  <Sub-species />
+  <VernacularNames>Golden-chevroned Tanager</VernacularNames>
+</Audio>

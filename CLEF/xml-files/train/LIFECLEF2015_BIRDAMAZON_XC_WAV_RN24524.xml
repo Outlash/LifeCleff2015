@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>24524</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN24524.wav</FileName>
+  <ClassId>mppolc</ClassId>
+  <Date>2012-04-22</Date>
+  <Time>08:04</Time>
+  <Locality>Montezuma Peak Road, Pueblo Rico, Risaralda, W Andes - Tatama National Park</Locality>
+  <Latitude>5.2431</Latitude>
+  <Longitude>-76.0964</Longitude>
+  <Elevation>2480</Elevation>
+  <Author>Jeremy Minns</Author>
+  <AuthorID>DGVLLRYDXS</AuthorID>
+  <Content>Song</Content>
+  <Comments>High altitude montane forest.Pair, after playback.</Comments>
+  <Quality>0</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies>Henicorhina negreti</BackgroundSpecies>
+  <Order>Passeriformes</Order>
+  <Family>Thraupidae</Family>
+  <Genus>Diglossa</Genus>
+  <Species>gloriosissima</Species>
+  <Sub-species>gloriosissima</Sub-species>
+  <VernacularNames>Chestnut-bellied Flowerpiercer</VernacularNames>
+</Audio>

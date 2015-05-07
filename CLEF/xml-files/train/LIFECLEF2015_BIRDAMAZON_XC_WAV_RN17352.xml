@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>17352</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN17352.wav</FileName>
+  <ClassId>ynwbeg</ClassId>
+  <Date>2004-06-09</Date>
+  <Time>?:?</Time>
+  <Locality>Cristalino Jungle Lodge, MT</Locality>
+  <Latitude>-9.5981</Latitude>
+  <Longitude>-55.932</Longitude>
+  <Elevation>240</Elevation>
+  <Author>Frank Lambert</Author>
+  <AuthorID>YTUXOCTUEM</AuthorID>
+  <Content>song</Content>
+  <Comments>Previously published on AVoCet as &lt;a href=http://avocet.zoology.msu.edu/recordings/10141&gt;AV10141&lt;/a&gt;.  Certainty: 100%.  ID determined by: not seen. GPS: Google Earth. second half</Comments>
+  <Quality>3</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Piciformes</Order>
+  <Family>Bucconidae</Family>
+  <Genus>Notharchus</Genus>
+  <Species>ordii</Species>
+  <Sub-species />
+  <VernacularNames>Brown-banded Puffbird</VernacularNames>
+</Audio>

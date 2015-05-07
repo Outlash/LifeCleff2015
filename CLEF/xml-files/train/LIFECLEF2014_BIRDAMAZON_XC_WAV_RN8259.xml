@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>8259</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN8259.wav</FileName>
+  <ClassId>nxdwzm</ClassId>
+  <Date>2001-01-15</Date>
+  <Time>07:35</Time>
+  <Locality>Reserva Natural da Vale - Linhares, Espirito Santo</Locality>
+  <Latitude>-19.1456</Latitude>
+  <Longitude>-40.0645</Longitude>
+  <Elevation>40</Elevation>
+  <Author>Jeremy Minns</Author>
+  <AuthorID>DGVLLRYDXS</AuthorID>
+  <Content>call, song</Content>
+  <Comments>Lowland forest. Natural sounds of two birds, chasing each other about in the understorey.</Comments>
+  <Quality>2</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies>Crypturellus soui,Amazona amazonica,Setophaga pitiayumi</BackgroundSpecies>
+  <Order>Passeriformes</Order>
+  <Family>Furnariidae</Family>
+  <Genus>Automolus</Genus>
+  <Species>leucophthalmus</Species>
+  <Sub-species>sulphurascens</Sub-species>
+  <VernacularNames>White-eyed Foliage-gleaner</VernacularNames>
+</Audio>

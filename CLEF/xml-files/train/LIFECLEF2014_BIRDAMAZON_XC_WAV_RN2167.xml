@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>2167</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN2167.wav</FileName>
+  <ClassId>nhvrzu</ClassId>
+  <Date>2009-04-20</Date>
+  <Time>09:30</Time>
+  <Locality>Tocantins</Locality>
+  <Latitude>-6.1351</Latitude>
+  <Longitude>-48.2355</Longitude>
+  <Elevation>140</Elevation>
+  <Author>GABRIEL LEITE</Author>
+  <AuthorID>TGBFXDVERJ</AuthorID>
+  <Content>male, song</Content>
+  <Comments>bird-seen:yesplayback-used:yes</Comments>
+  <Quality>2</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Thamnophilidae</Family>
+  <Genus>Thamnophilus</Genus>
+  <Species>stictocephalus</Species>
+  <Sub-species />
+  <VernacularNames>Natterer's Slaty Antshrike</VernacularNames>
+</Audio>

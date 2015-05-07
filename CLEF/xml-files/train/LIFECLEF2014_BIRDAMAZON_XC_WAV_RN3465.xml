@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>3465</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN3465.wav</FileName>
+  <ClassId>fofjao</ClassId>
+  <Date>2010-02-13</Date>
+  <Time>19:40</Time>
+  <Locality>Área  úmida aos pés de um morro ás  margens  do córrego Cristal - Cristalina, Goiás.</Locality>
+  <Latitude>NULL</Latitude>
+  <Longitude>NULL</Longitude>
+  <Elevation>990</Elevation>
+  <Author>Nunes D´Acosta</Author>
+  <AuthorID>OHHTDSDNBT</AuthorID>
+  <Content>VocaliaÃ§Ã£o</Content>
+  <Comments>Vocaliando no início da noite dentro do ninho com apenas  01 ovo - ninho dentro de touceiras de capim  tipo  Andropogon ssp.</Comments>
+  <Quality>3</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies />
+  <Order>Strigiformes</Order>
+  <Family>Strigidae</Family>
+  <Genus>Asio</Genus>
+  <Species>flammeus</Species>
+  <Sub-species />
+  <VernacularNames>Short-eared Owl</VernacularNames>
+</Audio>

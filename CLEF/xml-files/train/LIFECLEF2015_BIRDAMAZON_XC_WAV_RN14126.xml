@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>14126</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN14126.wav</FileName>
+  <ClassId>ytwsmv</ClassId>
+  <Date>2009-02-11</Date>
+  <Time>08:00</Time>
+  <Locality>Henri Pittier National Park, Mario Briceno Iragorry, Aragua</Locality>
+  <Latitude>10.3495</Latitude>
+  <Longitude>-67.6843</Longitude>
+  <Elevation>1200</Elevation>
+  <Author>Fernand DEROUSSEN</Author>
+  <AuthorID>UXGZWVYDFE</AuthorID>
+  <Content>song</Content>
+  <Comments>bird-seen:yesplayback-used:no</Comments>
+  <Quality>1</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Piciformes</Order>
+  <Family>Ramphastidae</Family>
+  <Genus>Aulacorhynchus</Genus>
+  <Species>sulcatus</Species>
+  <Sub-species />
+  <VernacularNames>Groove-billed Toucanet</VernacularNames>
+</Audio>

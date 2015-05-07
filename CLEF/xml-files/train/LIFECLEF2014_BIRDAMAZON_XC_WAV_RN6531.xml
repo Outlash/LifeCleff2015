@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>6531</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN6531.wav</FileName>
+  <ClassId>xunfjj</ClassId>
+  <Date>2006-05-04</Date>
+  <Time>17:38</Time>
+  <Locality>Parque do Zizo, Sao Paulo state</Locality>
+  <Latitude>-24.017146</Latitude>
+  <Longitude>-47.81044</Longitude>
+  <Elevation>650</Elevation>
+  <Author>Jeremy Minns</Author>
+  <AuthorID>DGVLLRYDXS</AuthorID>
+  <Content>Call</Content>
+  <Comments>In garden of pousada. This is Call A in our DVD-ROM 'Birds of Brazil'.</Comments>
+  <Quality>2</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Turdidae</Family>
+  <Genus>Turdus</Genus>
+  <Species>rufiventris</Species>
+  <Sub-species>rufiventris</Sub-species>
+  <VernacularNames>Rufous-bellied Thrush</VernacularNames>
+</Audio>

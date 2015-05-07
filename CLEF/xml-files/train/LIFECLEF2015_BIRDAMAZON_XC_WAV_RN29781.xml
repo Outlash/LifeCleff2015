@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>29781</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN29781.wav</FileName>
+  <ClassId>mvdpht</ClassId>
+  <Date>2014-03-19</Date>
+  <Time>16:40</Time>
+  <Locality>Gachetá, Cundinamarca</Locality>
+  <Latitude>4.8812</Latitude>
+  <Longitude>-73.6926</Longitude>
+  <Elevation>2500</Elevation>
+  <Author>Sergio Chaparro-Herrera</Author>
+  <AuthorID>RJLERWCWGE</AuthorID>
+  <Content>Llamados de polluelos, call</Content>
+  <Comments>bird-seen:yesplayback-used:no</Comments>
+  <Quality>3</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Furnariidae</Family>
+  <Genus>Xiphocolaptes</Genus>
+  <Species>promeropirhynchus</Species>
+  <Sub-species />
+  <VernacularNames>Strong-billed Woodcreeper</VernacularNames>
+</Audio>

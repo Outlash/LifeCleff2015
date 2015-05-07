@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>21154</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN21154.wav</FileName>
+  <ClassId>jefgxc</ClassId>
+  <Date>2008-02-05</Date>
+  <Time>08:10</Time>
+  <Locality>El canon del Rio Claro, Antioquia</Locality>
+  <Latitude>5.8334</Latitude>
+  <Longitude>-74.8667</Longitude>
+  <Elevation>600</Elevation>
+  <Author>Herman van Oosten</Author>
+  <AuthorID>SNUDCZVUQK</AuthorID>
+  <Content>?</Content>
+  <Comments>Cut the pause in between.</Comments>
+  <Quality>2</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies>Formicarius analis</BackgroundSpecies>
+  <Order>Piciformes</Order>
+  <Family>Galbulidae</Family>
+  <Genus>Galbula</Genus>
+  <Species>ruficauda</Species>
+  <Sub-species />
+  <VernacularNames>Rufous-tailed Jacamar</VernacularNames>
+</Audio>

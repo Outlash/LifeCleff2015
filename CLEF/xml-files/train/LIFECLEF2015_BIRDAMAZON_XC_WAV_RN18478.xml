@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>18478</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN18478.wav</FileName>
+  <ClassId>iwssmb</ClassId>
+  <Date>2005-07-00</Date>
+  <Time>xx:xx</Time>
+  <Locality>La Luchata, above Galan, Serrania de los Yariguies, Santander</Locality>
+  <Latitude>6.6292</Latitude>
+  <Longitude>-73.3151</Longitude>
+  <Elevation>2000</Elevation>
+  <Author>Thomas Donegan</Author>
+  <AuthorID>OXSIOLJJUP</AuthorID>
+  <Content>call</Content>
+  <Comments />
+  <Quality>0</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Corvidae</Family>
+  <Genus>Cyanocorax</Genus>
+  <Species>yncas</Species>
+  <Sub-species />
+  <VernacularNames>Inca Jay</VernacularNames>
+</Audio>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>913</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN913.wav</FileName>
+  <ClassId>szldxi</ClassId>
+  <Date>2002-04-03</Date>
+  <Time>16:53</Time>
+  <Locality>Campos do Jordão, SP</Locality>
+  <Latitude>-22.7667</Latitude>
+  <Longitude>-45.6001</Longitude>
+  <Elevation>1700</Elevation>
+  <Author>Jeremy Minns</Author>
+  <AuthorID>DGVLLRYDXS</AuthorID>
+  <Content>Call</Content>
+  <Comments>Near the Horto Florestal. Montane gallery forest. This is Call A in our DVD-ROM 'Birds of Brazil'.</Comments>
+  <Quality>1</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies>Phylloscartes ventralis,Pachyramphus polychopterus</BackgroundSpecies>
+  <Order>Passeriformes</Order>
+  <Family>Tyrannidae</Family>
+  <Genus>Elaenia</Genus>
+  <Species>mesoleuca</Species>
+  <Sub-species />
+  <VernacularNames>Olivaceous Elaenia</VernacularNames>
+</Audio>

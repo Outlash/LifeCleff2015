@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>14446</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN14446.wav</FileName>
+  <ClassId>fwafrc</ClassId>
+  <Date>2014-03-27</Date>
+  <Time>12:30</Time>
+  <Locality>Parque Estadual da Serra do Mar, São Luís do Paraitinga, SP</Locality>
+  <Latitude>-23.3284</Latitude>
+  <Longitude>-45.2832</Longitude>
+  <Elevation>1000</Elevation>
+  <Author>Alex Lees</Author>
+  <AuthorID>INDDBZAFJL</AuthorID>
+  <Content>song</Content>
+  <Comments>bird-seen:yesplayback-used:no</Comments>
+  <Quality>2</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies>Pachyramphus castaneus,Basileuterus culicivorus</BackgroundSpecies>
+  <Order>Passeriformes</Order>
+  <Family>Thamnophilidae</Family>
+  <Genus>Terenura</Genus>
+  <Species>maculata</Species>
+  <Sub-species />
+  <VernacularNames>Streak-capped Antwren</VernacularNames>
+</Audio>

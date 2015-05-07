@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>2396</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN2396.wav</FileName>
+  <ClassId>jorqun</ClassId>
+  <Date>2008-03-04</Date>
+  <Time>7:52</Time>
+  <Locality>Emas National Park, Goias state</Locality>
+  <Latitude>-18.098866</Latitude>
+  <Longitude>-52.874451</Longitude>
+  <Elevation>830</Elevation>
+  <Author>Bradley Davis</Author>
+  <AuthorID>YNXJLOESBB</AuthorID>
+  <Content>song</Content>
+  <Comments />
+  <Quality>1</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Thraupidae</Family>
+  <Genus>Volatinia</Genus>
+  <Species>jacarina</Species>
+  <Sub-species />
+  <VernacularNames>Blue-black Grassquit</VernacularNames>
+</Audio>

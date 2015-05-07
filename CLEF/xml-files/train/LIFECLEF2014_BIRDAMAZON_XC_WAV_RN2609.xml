@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>2609</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN2609.wav</FileName>
+  <ClassId>yofmmq</ClassId>
+  <Date>2002-07-01</Date>
+  <Time>10:34</Time>
+  <Locality>Baía de Guaratuba</Locality>
+  <Latitude>-25.8667</Latitude>
+  <Longitude>-48.6501</Longitude>
+  <Elevation>10</Elevation>
+  <Author>Jeremy Minns</Author>
+  <AuthorID>DGVLLRYDXS</AuthorID>
+  <Content>Contact and other calls</Content>
+  <Comments>Reed bed about 10 km inland from mouth of bay. Natural sounds of pair of birds around a nest which they were building.</Comments>
+  <Quality>2</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Furnariidae</Family>
+  <Genus>Phleocryptes</Genus>
+  <Species>melanops</Species>
+  <Sub-species>melanops</Sub-species>
+  <VernacularNames>Wren-like Rushbird</VernacularNames>
+</Audio>

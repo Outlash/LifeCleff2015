@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>1620</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN1620.wav</FileName>
+  <ClassId>nrjjbm</ClassId>
+  <Date>2013-03-06</Date>
+  <Time>16:00</Time>
+  <Locality>Guarulhos, São Paulo</Locality>
+  <Latitude>-23.3861</Latitude>
+  <Longitude>-46.5319</Longitude>
+  <Elevation>800</Elevation>
+  <Author>Marcelo Marcelino</Author>
+  <AuthorID>SVVXZLHVXD</AuthorID>
+  <Content>song</Content>
+  <Comments>bird-seen:yesplayback-used:no</Comments>
+  <Quality>2</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies>Lochmias nematura</BackgroundSpecies>
+  <Order>Passeriformes</Order>
+  <Family>Furnariidae</Family>
+  <Genus>Lochmias</Genus>
+  <Species>nematura</Species>
+  <Sub-species />
+  <VernacularNames>Sharp-tailed Streamcreeper</VernacularNames>
+</Audio>

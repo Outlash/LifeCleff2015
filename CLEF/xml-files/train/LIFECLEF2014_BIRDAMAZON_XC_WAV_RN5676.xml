@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>5676</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN5676.wav</FileName>
+  <ClassId>jgbztp</ClassId>
+  <Date>2012-01-13</Date>
+  <Time>09:30</Time>
+  <Locality>Viçosa, Minas Gerais</Locality>
+  <Latitude>-20.8004</Latitude>
+  <Longitude>-42.8884</Longitude>
+  <Elevation>800</Elevation>
+  <Author>Noé Eiterer</Author>
+  <AuthorID>TWSKITNQOV</AuthorID>
+  <Content>song</Content>
+  <Comments>bird-seen:yesplayback-used:yes</Comments>
+  <Quality>2</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Thraupidae</Family>
+  <Genus>Tiaris</Genus>
+  <Species>fuliginosus</Species>
+  <Sub-species />
+  <VernacularNames>Sooty Grassquit</VernacularNames>
+</Audio>

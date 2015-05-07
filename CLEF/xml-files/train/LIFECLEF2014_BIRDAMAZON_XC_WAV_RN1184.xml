@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>1184</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN1184.wav</FileName>
+  <ClassId>krpshi</ClassId>
+  <Date>2002-01-30</Date>
+  <Time>08:44</Time>
+  <Locality>Serra dos Carajás. Road to Salobo</Locality>
+  <Latitude>-6.0501</Latitude>
+  <Longitude>-50.2667</Longitude>
+  <Elevation>660</Elevation>
+  <Author>Jeremy Minns</Author>
+  <AuthorID>DGVLLRYDXS</AuthorID>
+  <Content>Song</Content>
+  <Comments>Terra firme forest.</Comments>
+  <Quality>0</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies>Lipaugus vociferans,Ramphocaenus melanurus,Lanio versicolor</BackgroundSpecies>
+  <Order>Passeriformes</Order>
+  <Family>Thamnophilidae</Family>
+  <Genus>Cymbilaimus</Genus>
+  <Species>lineatus</Species>
+  <Sub-species>intermedius</Sub-species>
+  <VernacularNames>Fasciated Antshrike</VernacularNames>
+</Audio>

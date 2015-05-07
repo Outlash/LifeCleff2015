@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>11714</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN11714.wav</FileName>
+  <ClassId>nntytu</ClassId>
+  <Date>2009-04-26</Date>
+  <Time>09:00</Time>
+  <Locality>São Geraldo do Araguaia, Para</Locality>
+  <Latitude>-6.3262</Latitude>
+  <Longitude>-48.539</Longitude>
+  <Elevation>140</Elevation>
+  <Author>GABRIEL LEITE</Author>
+  <AuthorID>TGBFXDVERJ</AuthorID>
+  <Content>male, song</Content>
+  <Comments>bird-seen:yesplayback-used:yes</Comments>
+  <Quality>2</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Thamnophilidae</Family>
+  <Genus>Pyriglena</Genus>
+  <Species>leuconota</Species>
+  <Sub-species />
+  <VernacularNames>White-backed Fire-eye</VernacularNames>
+</Audio>

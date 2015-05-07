@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>9295</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN9295.wav</FileName>
+  <ClassId>wmvjdr</ClassId>
+  <Date>2008-04-27</Date>
+  <Time>13:23</Time>
+  <Locality>Estrada da Graciosa, PR</Locality>
+  <Latitude>NULL</Latitude>
+  <Longitude>NULL</Longitude>
+  <Elevation>900</Elevation>
+  <Author>Bradley Davis</Author>
+  <AuthorID>YNXJLOESBB</AuthorID>
+  <Content>song</Content>
+  <Comments />
+  <Quality>2</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Grallariidae</Family>
+  <Genus>Hylopezus</Genus>
+  <Species>nattereri</Species>
+  <Sub-species />
+  <VernacularNames>Speckle-breasted Antpitta</VernacularNames>
+</Audio>

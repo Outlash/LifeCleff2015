@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>9813</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN9813.wav</FileName>
+  <ClassId>xunfjj</ClassId>
+  <Date>2011-11-30</Date>
+  <Time>09:16</Time>
+  <Locality>Ubatuba, Praia Vermelho do Sul, SP</Locality>
+  <Latitude>-23.511</Latitude>
+  <Longitude>-45.1758</Longitude>
+  <Elevation>10</Elevation>
+  <Author>Eric DeFonso</Author>
+  <AuthorID>KTLCZCRCQX</AuthorID>
+  <Content>song</Content>
+  <Comments>Song bout from a bird in a residential neighborhood. Noise filtered below 400Hz, and signal amplified 10dB. Habitat is coastal lowland Atlantic forest with some introduced nonnative plantings.bird-seen:yesplayback-used:no</Comments>
+  <Quality>2</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Turdidae</Family>
+  <Genus>Turdus</Genus>
+  <Species>rufiventris</Species>
+  <Sub-species />
+  <VernacularNames>Rufous-bellied Thrush</VernacularNames>
+</Audio>

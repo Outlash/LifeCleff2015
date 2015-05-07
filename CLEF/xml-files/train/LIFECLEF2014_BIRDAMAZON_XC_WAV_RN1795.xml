@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>1795</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN1795.wav</FileName>
+  <ClassId>aeqwqe</ClassId>
+  <Date>2005-06-00</Date>
+  <Time>9:05</Time>
+  <Locality>Raimundinho Doce, São Joao dos Patos - Maranhao State</Locality>
+  <Latitude>-6.6628</Latitude>
+  <Longitude>-43.5812</Longitude>
+  <Elevation>?</Elevation>
+  <Author>Guilherme R R Brito</Author>
+  <AuthorID>OAYOBWYOOM</AuthorID>
+  <Content>song</Content>
+  <Comments>couple as nuclear species of a mixed flock (Herpsilochmus atricapillus, Leptopogon amaurocephalus, Miobius atricapilus, Thamnophilus pelzelni)</Comments>
+  <Quality>3</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Thamnophilidae</Family>
+  <Genus>Herpsilochmus</Genus>
+  <Species>atricapillus</Species>
+  <Sub-species />
+  <VernacularNames>Black-capped Antwren</VernacularNames>
+</Audio>

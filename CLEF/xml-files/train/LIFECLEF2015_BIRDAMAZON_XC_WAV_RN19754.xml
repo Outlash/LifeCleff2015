@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>19754</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN19754.wav</FileName>
+  <ClassId>kvowbh</ClassId>
+  <Date>2008-06-13</Date>
+  <Time>am</Time>
+  <Locality>Saracá-Taquera National Forest, Porto Trombetas, PA</Locality>
+  <Latitude>-1.6667</Latitude>
+  <Longitude>-56.01</Longitude>
+  <Elevation>40</Elevation>
+  <Author>Eduardo Patrial</Author>
+  <AuthorID>QEFRRVCRRP</AuthorID>
+  <Content>song</Content>
+  <Comments>Near Lago do Batata, varzea forest.</Comments>
+  <Quality>1</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Thamnophilidae</Family>
+  <Genus>Myrmeciza</Genus>
+  <Species>ferruginea</Species>
+  <Sub-species />
+  <VernacularNames>Ferruginous-backed Antbird</VernacularNames>
+</Audio>

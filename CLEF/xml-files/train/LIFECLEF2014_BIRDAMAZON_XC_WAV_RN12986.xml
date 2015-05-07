@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>12986</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN12986.wav</FileName>
+  <ClassId>oxhigs</ClassId>
+  <Date>2011-07-08</Date>
+  <Time>10:30</Time>
+  <Locality>Alto Alegre do Pindaré, Maranhao</Locality>
+  <Latitude>-3.6668</Latitude>
+  <Longitude>-45.8465</Longitude>
+  <Elevation>20</Elevation>
+  <Author>GABRIEL LEITE</Author>
+  <AuthorID>TGBFXDVERJ</AuthorID>
+  <Content>call, female, male</Content>
+  <Comments>bird-seen:yesplayback-used:no</Comments>
+  <Quality>2</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies />
+  <Order>Cuculiformes</Order>
+  <Family>Cuculidae</Family>
+  <Genus>Crotophaga</Genus>
+  <Species>ani</Species>
+  <Sub-species />
+  <VernacularNames>Smooth-billed Ani</VernacularNames>
+</Audio>

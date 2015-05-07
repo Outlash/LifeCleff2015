@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>378</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN378.wav</FileName>
+  <ClassId>yudfzp</ClassId>
+  <Date>1998-03-14</Date>
+  <Time>06:17</Time>
+  <Locality>Altos, Piaui</Locality>
+  <Latitude>-5.0501</Latitude>
+  <Longitude>-42.5501</Longitude>
+  <Elevation>100</Elevation>
+  <Author>Jeremy Minns</Author>
+  <AuthorID>DGVLLRYDXS</AuthorID>
+  <Content>duet, song</Content>
+  <Comments>Disturbed humid forest.</Comments>
+  <Quality>2</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies>Thamnophilus pelzelni,Herpsilochmus atricapillus,Saltator maximus,Coryphospingus pileatus</BackgroundSpecies>
+  <Order>Passeriformes</Order>
+  <Family>Troglodytidae</Family>
+  <Genus>Pheugopedius</Genus>
+  <Species>genibarbis</Species>
+  <Sub-species>genibarbis</Sub-species>
+  <VernacularNames>Moustached Wren</VernacularNames>
+</Audio>

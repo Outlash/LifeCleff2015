@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>11731</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN11731.wav</FileName>
+  <ClassId>tyqwsc</ClassId>
+  <Date>2011-01-23</Date>
+  <Time>10:00</Time>
+  <Locality>Tapajos National Forest, Bacia 363, Santarem</Locality>
+  <Latitude>-3.294</Latitude>
+  <Longitude>-54.998</Longitude>
+  <Elevation>?</Elevation>
+  <Author>Alexander Lees</Author>
+  <AuthorID>INDDBZAFJL</AuthorID>
+  <Content>song</Content>
+  <Comments>undisturbed primary forest</Comments>
+  <Quality>2</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies>Ramphastos tucanus,Ramphastos vitellinus,Glyphorynchus spirurus,Myrmotherula brachyura,Herpsilochmus rufimarginatus,Zimmerius acer,Dixiphia rubrocapilla</BackgroundSpecies>
+  <Order>Passeriformes</Order>
+  <Family>Troglodytidae</Family>
+  <Genus>Odontorchilus</Genus>
+  <Species>cinereus</Species>
+  <Sub-species />
+  <VernacularNames>Tooth-billed Wren</VernacularNames>
+</Audio>

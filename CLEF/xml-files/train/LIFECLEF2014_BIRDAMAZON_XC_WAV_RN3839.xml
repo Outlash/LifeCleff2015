@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>3839</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN3839.wav</FileName>
+  <ClassId>thrclx</ClassId>
+  <Date>2010-11-20</Date>
+  <Time>?</Time>
+  <Locality>Bacia 103, Santarem</Locality>
+  <Latitude>-2.6228</Latitude>
+  <Longitude>-54.957</Longitude>
+  <Elevation>?</Elevation>
+  <Author>Nargila Moura</Author>
+  <AuthorID>CWEIBYBYYD</AuthorID>
+  <Content>song</Content>
+  <Comments>Secondary forest</Comments>
+  <Quality>0</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies>Crotophaga ani,Thraupis palmarum,Cantorchilus leucotis,Vireo olivaceus,Phaeomyias murina</BackgroundSpecies>
+  <Order>Passeriformes</Order>
+  <Family>Thamnophilidae</Family>
+  <Genus>Formicivora</Genus>
+  <Species>grisea</Species>
+  <Sub-species>grisea</Sub-species>
+  <VernacularNames>Southern White-fringed Antwren</VernacularNames>
+</Audio>

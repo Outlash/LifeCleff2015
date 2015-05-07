@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>21817</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN21817.wav</FileName>
+  <ClassId>cmcyuw</ClassId>
+  <Date>2012-07-19</Date>
+  <Time>06.10</Time>
+  <Locality>Orinoquia Lodge, Orinoco River Edo. Amazonas</Locality>
+  <Latitude>5.441</Latitude>
+  <Longitude>-67.621</Longitude>
+  <Elevation>150</Elevation>
+  <Author>Thore Noernberg</Author>
+  <AuthorID>TTSQGWDDGW</AuthorID>
+  <Content>Song</Content>
+  <Comments>bird singing close to the Orinoco River only 5 meters away from me</Comments>
+  <Quality>4</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Troglodytidae</Family>
+  <Genus>Cantorchilus</Genus>
+  <Species>leucotis</Species>
+  <Sub-species>venezuelanus</Sub-species>
+  <VernacularNames>Buff-breasted Wren</VernacularNames>
+</Audio>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>9075</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN9075.wav</FileName>
+  <ClassId>ietadq</ClassId>
+  <Date>2006-01-09</Date>
+  <Time>05:45</Time>
+  <Locality>Araripe National Forest, Crato, Ceará State</Locality>
+  <Latitude>-7.2501</Latitude>
+  <Longitude>-39.5834</Longitude>
+  <Elevation>950</Elevation>
+  <Author>Nick Athanas</Author>
+  <AuthorID>XRABICUARW</AuthorID>
+  <Content>song</Content>
+  <Comments />
+  <Quality>1</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies>Trogon curucui,Turdus leucomelas</BackgroundSpecies>
+  <Order>Passeriformes</Order>
+  <Family>Vireonidae</Family>
+  <Genus>Hylophilus</Genus>
+  <Species>amaurocephalus</Species>
+  <Sub-species />
+  <VernacularNames>Grey-eyed Greenlet</VernacularNames>
+</Audio>

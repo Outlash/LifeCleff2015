@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>22270</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN22270.wav</FileName>
+  <ClassId>bsewbt</ClassId>
+  <Date>1994-07-16</Date>
+  <Time>?</Time>
+  <Locality>Rio Grande, Sierra de Imataca, Bolivar</Locality>
+  <Latitude>8.1101</Latitude>
+  <Longitude>-61.6714</Longitude>
+  <Elevation>320</Elevation>
+  <Author>Allen T. Chartier</Author>
+  <AuthorID>AZXTZTQJRO</AuthorID>
+  <Content>Call?</Content>
+  <Comments />
+  <Quality>2</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies>Cercomacra cinerascens,Myrmothera campanisona</BackgroundSpecies>
+  <Order>Passeriformes</Order>
+  <Family>Tyrannidae</Family>
+  <Genus>Zimmerius</Genus>
+  <Species>acer</Species>
+  <Sub-species />
+  <VernacularNames>Guianan Tyrannulet</VernacularNames>
+</Audio>

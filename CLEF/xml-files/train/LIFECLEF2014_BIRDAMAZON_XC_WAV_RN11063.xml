@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>11063</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN11063.wav</FileName>
+  <ClassId>gwzyoa</ClassId>
+  <Date>1999-09-19</Date>
+  <Time>06:05</Time>
+  <Locality>Reserva Extrativista Alto Juruá. Caipora</Locality>
+  <Latitude>-9.3167</Latitude>
+  <Longitude>-72.6834</Longitude>
+  <Elevation>230</Elevation>
+  <Author>Jeremy Minns</Author>
+  <AuthorID>DGVLLRYDXS</AuthorID>
+  <Content>call, song</Content>
+  <Comments>Terra firme forest. Pair, singing together after playback.</Comments>
+  <Quality>1</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Thamnophilidae</Family>
+  <Genus>Hylophylax</Genus>
+  <Species>naevius</Species>
+  <Sub-species>inexpectatus</Sub-species>
+  <VernacularNames>Spot-backed Antbird</VernacularNames>
+</Audio>

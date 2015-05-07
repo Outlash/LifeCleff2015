@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>8691</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN8691.wav</FileName>
+  <ClassId>bogxos</ClassId>
+  <Date>2003-05-18</Date>
+  <Time>10:40</Time>
+  <Locality>RPPN Mata do Bituri, Brejo da Madre de Deus, Pernambuco</Locality>
+  <Latitude>NULL</Latitude>
+  <Longitude>NULL</Longitude>
+  <Elevation>1100</Elevation>
+  <Author>Glauco Alves Pereira</Author>
+  <AuthorID>ZWEROGGYVP</AuthorID>
+  <Content>Song</Content>
+  <Comments>Edge of forest</Comments>
+  <Quality>3</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Tyrannidae</Family>
+  <Genus>Megarynchus</Genus>
+  <Species>pitangua</Species>
+  <Sub-species />
+  <VernacularNames>Boat-billed Flycatcher</VernacularNames>
+</Audio>

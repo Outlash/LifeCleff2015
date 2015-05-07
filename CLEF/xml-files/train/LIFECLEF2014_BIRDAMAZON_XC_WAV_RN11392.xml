@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>11392</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN11392.wav</FileName>
+  <ClassId>wwgoay</ClassId>
+  <Date>2003-11-10</Date>
+  <Time>08:30</Time>
+  <Locality>Paratí. Patrimônio</Locality>
+  <Latitude>-23.3501</Latitude>
+  <Longitude>-44.7167</Longitude>
+  <Elevation>50</Elevation>
+  <Author>Jeremy Minns</Author>
+  <AuthorID>DGVLLRYDXS</AuthorID>
+  <Content>call</Content>
+  <Comments>Humid forest on hillside. Pair in fruiting tree.</Comments>
+  <Quality>1</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies>Herpsilochmus rufimarginatus,Chiroxiphia caudata</BackgroundSpecies>
+  <Order>Passeriformes</Order>
+  <Family>Thraupidae</Family>
+  <Genus>Tangara</Genus>
+  <Species>cyanocephala</Species>
+  <Sub-species>cyanocephala</Sub-species>
+  <VernacularNames>Red-necked Tanager</VernacularNames>
+</Audio>

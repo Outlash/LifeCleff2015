@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>29265</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN29265.wav</FileName>
+  <ClassId>uphahj</ClassId>
+  <Date>2011-06-08</Date>
+  <Time>14:00</Time>
+  <Locality>Mitu, Vaupes</Locality>
+  <Latitude>1.2598</Latitude>
+  <Longitude>-70.2367</Longitude>
+  <Elevation>190</Elevation>
+  <Author>Andrew Spencer</Author>
+  <AuthorID>CDTGHVBGZP</AuthorID>
+  <Content>call</Content>
+  <Comments>calls from a perched bird.</Comments>
+  <Quality>1</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Accipitriformes</Order>
+  <Family>Accipitridae</Family>
+  <Genus>Rupornis</Genus>
+  <Species>magnirostris</Species>
+  <Sub-species>magnirostris</Sub-species>
+  <VernacularNames>Roadside Hawk</VernacularNames>
+</Audio>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>9482</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN9482.wav</FileName>
+  <ClassId>asvgnp</ClassId>
+  <Date>2001-03-16</Date>
+  <Time>08:06</Time>
+  <Locality>Tiradentes. Serra de São José</Locality>
+  <Latitude>-21.1001</Latitude>
+  <Longitude>-44.2001</Longitude>
+  <Elevation>1050</Elevation>
+  <Author>Jeremy Minns</Author>
+  <AuthorID>DGVLLRYDXS</AuthorID>
+  <Content>call</Content>
+  <Comments>Cerrado. At first perched, then in flight.</Comments>
+  <Quality>2</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies>Eupsittula aurea</BackgroundSpecies>
+  <Order>Falconiformes</Order>
+  <Family>Falconidae</Family>
+  <Genus>Milvago</Genus>
+  <Species>chimachima</Species>
+  <Sub-species />
+  <VernacularNames>Yellow-headed Caracara</VernacularNames>
+</Audio>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>25472</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN25472.wav</FileName>
+  <ClassId>vspudg</ClassId>
+  <Date>2012-09-12</Date>
+  <Time>09:50</Time>
+  <Locality>Saul, St Laurent Du Maroni</Locality>
+  <Latitude>3.6217</Latitude>
+  <Longitude>-53.2088</Longitude>
+  <Elevation>210</Elevation>
+  <Author>Jon King</Author>
+  <AuthorID>LNEEOOWCQR</AuthorID>
+  <Content>song</Content>
+  <Comments>Distance to mic. 5m. Sentier Roche Bateau. Both natural and after playback song accompanied by bizarre insect-like whirring flight between branches.bird-seen:yesplayback-used:yes</Comments>
+  <Quality>2</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Pipridae</Family>
+  <Genus>Tyranneutes</Genus>
+  <Species>virescens</Species>
+  <Sub-species />
+  <VernacularNames>Tiny Tyrant-Manakin</VernacularNames>
+</Audio>

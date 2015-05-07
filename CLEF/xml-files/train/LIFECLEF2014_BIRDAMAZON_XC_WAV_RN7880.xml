@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>7880</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN7880.wav</FileName>
+  <ClassId>sdpuyf</ClassId>
+  <Date>2010-07-25</Date>
+  <Time>08:20</Time>
+  <Locality>Presidente Figueiredo, Amazonas</Locality>
+  <Latitude>-2.028</Latitude>
+  <Longitude>-59.997</Longitude>
+  <Elevation>50</Elevation>
+  <Author>Marcos Melo</Author>
+  <AuthorID>MRGDYNJGUJ</AuthorID>
+  <Content>song</Content>
+  <Comments>up 30m. on the canopy,</Comments>
+  <Quality>3</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies>Tyrannulus elatus,Ramphocelus carbo,Ramphocelus carbo</BackgroundSpecies>
+  <Order>Passeriformes</Order>
+  <Family>Tyrannidae</Family>
+  <Genus>Rhytipterna</Genus>
+  <Species>simplex</Species>
+  <Sub-species />
+  <VernacularNames>Greyish Mourner</VernacularNames>
+</Audio>

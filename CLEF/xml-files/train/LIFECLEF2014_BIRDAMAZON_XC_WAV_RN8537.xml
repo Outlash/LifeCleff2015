@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>8537</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN8537.wav</FileName>
+  <ClassId>maqvgn</ClassId>
+  <Date>2010-07-25</Date>
+  <Time>08:00</Time>
+  <Locality>Presidente Figueiredo, Amazonas</Locality>
+  <Latitude>-2.028</Latitude>
+  <Longitude>-59.997</Longitude>
+  <Elevation>50</Elevation>
+  <Author>Marcos Melo</Author>
+  <AuthorID>MRGDYNJGUJ</AuthorID>
+  <Content>song</Content>
+  <Comments>3 indiv foraging on the canopy (up 25-30m)</Comments>
+  <Quality>3</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies>Thamnophilus murinus,Lipaugus vociferans,Vireo olivaceus</BackgroundSpecies>
+  <Order>Passeriformes</Order>
+  <Family>Cardinalidae</Family>
+  <Genus>Caryothraustes</Genus>
+  <Species>canadensis</Species>
+  <Sub-species />
+  <VernacularNames>Yellow-green Grosbeak</VernacularNames>
+</Audio>

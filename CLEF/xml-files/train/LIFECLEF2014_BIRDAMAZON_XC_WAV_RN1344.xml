@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>1344</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN1344.wav</FileName>
+  <ClassId>gsmjhm</ClassId>
+  <Date>2013-06-23</Date>
+  <Time>10:00</Time>
+  <Locality>Araponga, Minas Gerais</Locality>
+  <Latitude>-20.6665</Latitude>
+  <Longitude>-42.5222</Longitude>
+  <Elevation>950</Elevation>
+  <Author>Noé Eiterer</Author>
+  <AuthorID>TWSKITNQOV</AuthorID>
+  <Content>flight call</Content>
+  <Comments>bird-seen:yesplayback-used:no</Comments>
+  <Quality>1</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies />
+  <Order>Psittaciformes</Order>
+  <Family>Psittacidae</Family>
+  <Genus>Pyrrhura</Genus>
+  <Species>frontalis</Species>
+  <Sub-species />
+  <VernacularNames>Maroon-bellied Parakeet</VernacularNames>
+</Audio>

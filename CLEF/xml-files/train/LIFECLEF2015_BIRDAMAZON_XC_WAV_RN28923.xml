@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>28923</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN28923.wav</FileName>
+  <ClassId>crqoog</ClassId>
+  <Date>2010-02-02</Date>
+  <Time>07:00</Time>
+  <Locality>El 18, Valle del Cauca</Locality>
+  <Latitude>3.4853</Latitude>
+  <Longitude>-76.6178</Longitude>
+  <Elevation>1900</Elevation>
+  <Author>Frank Lambert</Author>
+  <AuthorID>YTUXOCTUEM</AuthorID>
+  <Content>call</Content>
+  <Comments>perched then flying away</Comments>
+  <Quality>2</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Tyrannidae</Family>
+  <Genus>Myiodynastes</Genus>
+  <Species>chrysocephalus</Species>
+  <Sub-species />
+  <VernacularNames>Golden-crowned Flycatcher</VernacularNames>
+</Audio>

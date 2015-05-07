@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>30456</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN30456.wav</FileName>
+  <ClassId>mrhqhi</ClassId>
+  <Date>2007-12-02</Date>
+  <Time>6:35</Time>
+  <Locality>Amazonas, Leticia, Reserva Biológica El Zafire</Locality>
+  <Latitude>-4.005333</Latitude>
+  <Longitude>-69.89875</Longitude>
+  <Elevation>150</Elevation>
+  <Author>Mauricio Álvarez Rebolledo (Colección de Sonidos Ambientales - Instituto Humboldt)</Author>
+  <AuthorID>XMFDPACYJN</AuthorID>
+  <Content>song</Content>
+  <Comments>BSA 31291To obtain a wav file of the original recording, please contact csa@humboldt.org.cobird-seen:noplayback-used:no</Comments>
+  <Quality>1</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Piciformes</Order>
+  <Family>Picidae</Family>
+  <Genus>Celeus</Genus>
+  <Species>grammicus</Species>
+  <Sub-species />
+  <VernacularNames>Scaly-breasted Woodpecker</VernacularNames>
+</Audio>

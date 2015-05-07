@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>2182</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN2182.wav</FileName>
+  <ClassId>ewytof</ClassId>
+  <Date>2009-01-04</Date>
+  <Time>07:40</Time>
+  <Locality>Curucutu Nucleus, State Park of the Serra do Mar -City: Itanhaém, São Paulo State</Locality>
+  <Latitude>-24.0398</Latitude>
+  <Longitude>-46.7762</Longitude>
+  <Elevation>200</Elevation>
+  <Author>Marcos Melo</Author>
+  <AuthorID>MRGDYNJGUJ</AuthorID>
+  <Content>song</Content>
+  <Comments />
+  <Quality>2</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies>Chiroxiphia caudata,Drymophila squamata</BackgroundSpecies>
+  <Order>Passeriformes</Order>
+  <Family>Thamnophilidae</Family>
+  <Genus>Mackenziaena</Genus>
+  <Species>severa</Species>
+  <Sub-species />
+  <VernacularNames>Tufted Antshrike</VernacularNames>
+</Audio>

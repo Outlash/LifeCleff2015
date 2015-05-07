@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>23271</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN23271.wav</FileName>
+  <ClassId>loavzh</ClassId>
+  <Date>2008-10-16</Date>
+  <Time>07:00</Time>
+  <Locality>Iguaque National Park (near  Paipa), Boyaca</Locality>
+  <Latitude>5.9336</Latitude>
+  <Longitude>-73.2294</Longitude>
+  <Elevation>2900</Elevation>
+  <Author>Johana Zuluaga-Bonilla</Author>
+  <AuthorID>USBAJUDGYL</AuthorID>
+  <Content>song</Content>
+  <Comments>bird-seen:yesplayback-used:no</Comments>
+  <Quality>1</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Galliformes</Order>
+  <Family>Odontophoridae</Family>
+  <Genus>Colinus</Genus>
+  <Species>cristatus</Species>
+  <Sub-species />
+  <VernacularNames>Crested Bobwhite</VernacularNames>
+</Audio>

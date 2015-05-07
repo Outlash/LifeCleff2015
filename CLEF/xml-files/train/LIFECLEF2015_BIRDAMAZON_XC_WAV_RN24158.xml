@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>24158</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN24158.wav</FileName>
+  <ClassId>mrzhnn</ClassId>
+  <Date>1985-04-22</Date>
+  <Time>?</Time>
+  <Locality>San Carlos del Rio Negro, Amazonas</Locality>
+  <Latitude>1.9201</Latitude>
+  <Longitude>-67.0606</Longitude>
+  <Elevation>119</Elevation>
+  <Author>Chris Parrish</Author>
+  <AuthorID>IHIOGGZVQA</AuthorID>
+  <Content>song</Content>
+  <Comments>bushy thicket on white sand</Comments>
+  <Quality>3</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Pipridae</Family>
+  <Genus>Neopelma</Genus>
+  <Species>chrysocephalum</Species>
+  <Sub-species />
+  <VernacularNames>Saffron-crested Tyrant-Manakin</VernacularNames>
+</Audio>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>7026</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN7026.wav</FileName>
+  <ClassId>ajwuzt</ClassId>
+  <Date>2003-12-04</Date>
+  <Time>08:36</Time>
+  <Locality>Pousada Araras, Pantanal, MT</Locality>
+  <Latitude>-16.5167</Latitude>
+  <Longitude>-56.7167</Longitude>
+  <Elevation>120</Elevation>
+  <Author>Jeremy Minns</Author>
+  <AuthorID>DGVLLRYDXS</AuthorID>
+  <Content>duet, song</Content>
+  <Comments>Same two birds.</Comments>
+  <Quality>1</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies>Pitangus sulphuratus,Hylophilus pectoralis</BackgroundSpecies>
+  <Order>Passeriformes</Order>
+  <Family>Cardinalidae</Family>
+  <Genus>Saltator</Genus>
+  <Species>coerulescens</Species>
+  <Sub-species>coerulescens</Sub-species>
+  <VernacularNames>Greyish Saltator</VernacularNames>
+</Audio>

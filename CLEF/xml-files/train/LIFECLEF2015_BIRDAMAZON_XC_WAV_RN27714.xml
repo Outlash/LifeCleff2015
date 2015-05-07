@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>27714</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN27714.wav</FileName>
+  <ClassId>dzaamy</ClassId>
+  <Date>2009-12-26</Date>
+  <Time>09:05</Time>
+  <Locality>Parque Nacional Yacambú, Lara</Locality>
+  <Latitude>9.7031</Latitude>
+  <Longitude>-69.6048</Longitude>
+  <Elevation>1700</Elevation>
+  <Author>Jose Gustavo Leon</Author>
+  <AuthorID>LLKOBLCMMG</AuthorID>
+  <Content>song</Content>
+  <Comments />
+  <Quality>1</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Furnariidae</Family>
+  <Genus>Sclerurus</Genus>
+  <Species>mexicanus</Species>
+  <Sub-species>andinus</Sub-species>
+  <VernacularNames>Tawny-throated Leaftosser</VernacularNames>
+</Audio>

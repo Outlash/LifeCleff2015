@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>7936</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN7936.wav</FileName>
+  <ClassId>qoqtfu</ClassId>
+  <Date>2001-10-25</Date>
+  <Time>10:58</Time>
+  <Locality>Perequê - Angra dos Reis - RJ</Locality>
+  <Latitude>-23.012</Latitude>
+  <Longitude>-44.5351</Longitude>
+  <Elevation>50</Elevation>
+  <Author>Jeremy Minns</Author>
+  <AuthorID>DGVLLRYDXS</AuthorID>
+  <Content>call, song</Content>
+  <Comments>Scrubby secondary growth beside Rio Mambucaba. Calls of a bird perched in a bare tree, followed by the song of the same or another bird on landing on the same perch.</Comments>
+  <Quality>1</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies>Mackenziaena severa,Todirostrum poliocephalum,Turdus rufiventris</BackgroundSpecies>
+  <Order>Passeriformes</Order>
+  <Family>Hirundinidae</Family>
+  <Genus>Stelgidopteryx</Genus>
+  <Species>ruficollis</Species>
+  <Sub-species>ruficollis</Sub-species>
+  <VernacularNames>Southern Rough-winged Swallow</VernacularNames>
+</Audio>

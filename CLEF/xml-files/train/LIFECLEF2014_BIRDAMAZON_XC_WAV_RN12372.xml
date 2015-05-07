@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>12372</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN12372.wav</FileName>
+  <ClassId>ywuvnu</ClassId>
+  <Date>2005-11-17</Date>
+  <Time>17:10</Time>
+  <Locality>Tucuruí dam, right margin of the lake, state of Pará</Locality>
+  <Latitude>-4.2327</Latitude>
+  <Longitude>-49.41194</Longitude>
+  <Elevation>50</Elevation>
+  <Author>Sidnei de Melo Dantas</Author>
+  <AuthorID>NNCKQMBGPH</AuthorID>
+  <Content>song</Content>
+  <Comments>undergrowth of land forest. Two individuals, not seen</Comments>
+  <Quality>2</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies>Xiphorhynchus guttatus,Cyclarhis gujanensis</BackgroundSpecies>
+  <Order>Tinamiformes</Order>
+  <Family>Tinamidae</Family>
+  <Genus>Crypturellus</Genus>
+  <Species>cinereus</Species>
+  <Sub-species />
+  <VernacularNames>Cinereous Tinamou</VernacularNames>
+</Audio>

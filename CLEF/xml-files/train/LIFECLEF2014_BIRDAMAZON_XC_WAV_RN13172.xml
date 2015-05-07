@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>13172</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN13172.wav</FileName>
+  <ClassId>uydzcv</ClassId>
+  <Date>2010-12-03</Date>
+  <Time>06:18</Time>
+  <Locality>Belterra, Bacia 357, PA</Locality>
+  <Latitude>-3.372</Latitude>
+  <Longitude>-54.848</Longitude>
+  <Elevation>?</Elevation>
+  <Author>Nargila Moura</Author>
+  <AuthorID>CWEIBYBYYD</AuthorID>
+  <Content>dawn song</Content>
+  <Comments>Primary forest</Comments>
+  <Quality>0</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies>Ramphastos tucanus,Cercomacra cinerascens,Saltator grossus,Myiopagis gaimardii</BackgroundSpecies>
+  <Order>Passeriformes</Order>
+  <Family>Tyrannidae</Family>
+  <Genus>Tolmomyias</Genus>
+  <Species>assimilis</Species>
+  <Sub-species>paraensis</Sub-species>
+  <VernacularNames>Zimmer's Flatbill</VernacularNames>
+</Audio>

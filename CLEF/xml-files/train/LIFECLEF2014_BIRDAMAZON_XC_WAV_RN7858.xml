@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>7858</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN7858.wav</FileName>
+  <ClassId>oxhigs</ClassId>
+  <Date>2008-10-15</Date>
+  <Time>12:35</Time>
+  <Locality>Embrapa/Soja, Londrina - PR</Locality>
+  <Latitude>-23.1839</Latitude>
+  <Longitude>-51.1848</Longitude>
+  <Elevation>600</Elevation>
+  <Author>Renan Campos de Oliveira</Author>
+  <AuthorID>SDARDTGGWP</AuthorID>
+  <Content>Call</Content>
+  <Comments />
+  <Quality>2</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies />
+  <Order>Cuculiformes</Order>
+  <Family>Cuculidae</Family>
+  <Genus>Crotophaga</Genus>
+  <Species>ani</Species>
+  <Sub-species />
+  <VernacularNames>Smooth-billed Ani</VernacularNames>
+</Audio>

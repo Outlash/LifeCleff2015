@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>29559</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN29559.wav</FileName>
+  <ClassId>uipfam</ClassId>
+  <Date>2013-03-14</Date>
+  <Time>07:00</Time>
+  <Locality>Eliseu Martins - Piauí State</Locality>
+  <Latitude>-8.102</Latitude>
+  <Longitude>-43.677</Longitude>
+  <Elevation>260</Elevation>
+  <Author>Eduardo D. Schultz</Author>
+  <AuthorID>QYOZQITVAC</AuthorID>
+  <Content>song</Content>
+  <Comments>A transition area of cerrado and caatingabird-seen:yes</Comments>
+  <Quality>0</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Thamnophilidae</Family>
+  <Genus>Formicivora</Genus>
+  <Species>melanogaster</Species>
+  <Sub-species />
+  <VernacularNames>Black-bellied Antwren</VernacularNames>
+</Audio>

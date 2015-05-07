@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>15291</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN15291.wav</FileName>
+  <ClassId>ftvesx</ClassId>
+  <Date>2009-11-02</Date>
+  <Time>08:30</Time>
+  <Locality>Tocantins</Locality>
+  <Latitude>-10.0906</Latitude>
+  <Longitude>-46.8155</Longitude>
+  <Elevation>340</Elevation>
+  <Author>GABRIEL LEITE</Author>
+  <AuthorID>TGBFXDVERJ</AuthorID>
+  <Content>call, song</Content>
+  <Comments>bird-seen:yesplayback-used:no</Comments>
+  <Quality>2</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Psittaciformes</Order>
+  <Family>Psittacidae</Family>
+  <Genus>Thectocercus</Genus>
+  <Species>acuticaudatus</Species>
+  <Sub-species />
+  <VernacularNames>Blue-crowned Parakeet</VernacularNames>
+</Audio>

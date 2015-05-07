@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>32240</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN32240.wav</FileName>
+  <ClassId>wwbydf</ClassId>
+  <Date>2013-03-23</Date>
+  <Time>14:07</Time>
+  <Locality>Cajamarca, Tolima</Locality>
+  <Latitude>4.4837</Latitude>
+  <Longitude>-75.4797</Longitude>
+  <Elevation>2800</Elevation>
+  <Author>Oscar H. Marín-Gómez</Author>
+  <AuthorID>CSUHASNRSU</AuthorID>
+  <Content>Contact calls</Content>
+  <Comments>Ref: OHM394. Bosque montano alto. Borde de bosque. Dos individuos  en estrato bajo. Distancia de 7m entre ellosbird-seen:yesplayback-used:no</Comments>
+  <Quality>1</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Troglodytidae</Family>
+  <Genus>Troglodytes</Genus>
+  <Species>solstitialis</Species>
+  <Sub-species />
+  <VernacularNames>Mountain Wren</VernacularNames>
+</Audio>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>1137</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN1137.wav</FileName>
+  <ClassId>gupfgh</ClassId>
+  <Date>2010-12-08</Date>
+  <Time>06:30</Time>
+  <Locality>Bacia 199 Santarem PA</Locality>
+  <Latitude>-2.8528</Latitude>
+  <Longitude>-54.7951</Longitude>
+  <Elevation>?</Elevation>
+  <Author>Alexander Lees</Author>
+  <AuthorID>INDDBZAFJL</AuthorID>
+  <Content>call</Content>
+  <Comments>primary forest (logged and burnt)</Comments>
+  <Quality>0</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies>Amazona amazonica,Automolus rufipileatus,Xenops minutus,Myrmeciza hemimelaena,Phlegopsis nigromaculata,Attila spadiceus,Manacus manacus</BackgroundSpecies>
+  <Order>Passeriformes</Order>
+  <Family>Thamnophilidae</Family>
+  <Genus>Thamnomanes</Genus>
+  <Species>caesius</Species>
+  <Sub-species>hoffmannsi</Sub-species>
+  <VernacularNames>Cinereous Antshrike</VernacularNames>
+</Audio>

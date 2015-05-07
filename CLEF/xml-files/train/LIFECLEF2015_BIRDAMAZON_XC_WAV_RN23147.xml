@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>23147</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN23147.wav</FileName>
+  <ClassId>ehpgkp</ClassId>
+  <Date>2009-02-10</Date>
+  <Time>09:00</Time>
+  <Locality>Henri Pittier National Park, Mario Briceno Iragorry, Aragua</Locality>
+  <Latitude>10.3495</Latitude>
+  <Longitude>-67.6843</Longitude>
+  <Elevation>1200</Elevation>
+  <Author>Fernand DEROUSSEN</Author>
+  <AuthorID>UXGZWVYDFE</AuthorID>
+  <Content>song</Content>
+  <Comments>bird-seen:yesplayback-used:no</Comments>
+  <Quality>1</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Formicariidae</Family>
+  <Genus>Formicarius</Genus>
+  <Species>analis</Species>
+  <Sub-species>saturatus</Sub-species>
+  <VernacularNames>Black-faced Antthrush</VernacularNames>
+</Audio>

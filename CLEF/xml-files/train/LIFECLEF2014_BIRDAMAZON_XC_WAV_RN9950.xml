@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>9950</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN9950.wav</FileName>
+  <ClassId>fwafrc</ClassId>
+  <Date>2002-08-01</Date>
+  <Time>09:28</Time>
+  <Locality>Perequê - Angra dos Reis - RJ</Locality>
+  <Latitude>-23.012</Latitude>
+  <Longitude>-44.5351</Longitude>
+  <Elevation>50</Elevation>
+  <Author>Jeremy Minns</Author>
+  <AuthorID>DGVLLRYDXS</AuthorID>
+  <Content>Call</Content>
+  <Comments>Lowland secondary growth and overgrown plantations. Male. This is Call C in our DVD-ROM 'Birds of Brazil'.</Comments>
+  <Quality>1</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies>Procnias nudicollis</BackgroundSpecies>
+  <Order>Passeriformes</Order>
+  <Family>Thamnophilidae</Family>
+  <Genus>Terenura</Genus>
+  <Species>maculata</Species>
+  <Sub-species />
+  <VernacularNames>Streak-capped Antwren</VernacularNames>
+</Audio>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>7750</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN7750.wav</FileName>
+  <ClassId>gcyzcu</ClassId>
+  <Date>2005-03-01</Date>
+  <Time>05:30</Time>
+  <Locality>Boa Esperança dam, Guadalupe, Piauí State</Locality>
+  <Latitude>-6.7667</Latitude>
+  <Longitude>-43.6487</Longitude>
+  <Elevation>220</Elevation>
+  <Author>Sidnei Dantas</Author>
+  <AuthorID>NNCKQMBGPH</AuthorID>
+  <Content>song</Content>
+  <Comments>Semideciduous forest, by the edge of the dam.bird-seen:yesplayback-used:no</Comments>
+  <Quality>3</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies>Troglodytes aedon,Myiozetetes cayanensis</BackgroundSpecies>
+  <Order>Psittaciformes</Order>
+  <Family>Psittacidae</Family>
+  <Genus>Diopsittaca</Genus>
+  <Species>nobilis</Species>
+  <Sub-species>cumanensis</Sub-species>
+  <VernacularNames>Red-shouldered Macaw</VernacularNames>
+</Audio>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>5820</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN5820.wav</FileName>
+  <ClassId>unimmw</ClassId>
+  <Date>2006-01-10</Date>
+  <Time>16:00</Time>
+  <Locality>Araripe National Forest, Crato, Ceará State</Locality>
+  <Latitude>-7.2501</Latitude>
+  <Longitude>-39.5834</Longitude>
+  <Elevation>950</Elevation>
+  <Author>Nick Athanas</Author>
+  <AuthorID>XRABICUARW</AuthorID>
+  <Content>song</Content>
+  <Comments />
+  <Quality>2</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies>Turdus leucomelas,Myiothlypis flaveola,Herpsilochmus atricapillus,Neopelma pallescens</BackgroundSpecies>
+  <Order>Trogoniformes</Order>
+  <Family>Trogonidae</Family>
+  <Genus>Trogon</Genus>
+  <Species>curucui</Species>
+  <Sub-species>curucui</Sub-species>
+  <VernacularNames>Blue-crowned Trogon</VernacularNames>
+</Audio>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>4339</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN4339.wav</FileName>
+  <ClassId>pprfie</ClassId>
+  <Date>2008-05-19</Date>
+  <Time>16:30</Time>
+  <Locality>Dianópolis, Tocantins State</Locality>
+  <Latitude>-11.6278</Latitude>
+  <Longitude>-46.8206</Longitude>
+  <Elevation>600</Elevation>
+  <Author>Advaldo D. Prado</Author>
+  <AuthorID>LUMSAVGFDA</AuthorID>
+  <Content>Song</Content>
+  <Comments />
+  <Quality>4</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Vireonidae</Family>
+  <Genus>Cyclarhis</Genus>
+  <Species>gujanensis</Species>
+  <Sub-species />
+  <VernacularNames>Rufous-browed Peppershrike</VernacularNames>
+</Audio>

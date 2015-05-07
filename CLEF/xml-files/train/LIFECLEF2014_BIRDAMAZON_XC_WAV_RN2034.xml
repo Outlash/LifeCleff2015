@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>2034</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN2034.wav</FileName>
+  <ClassId>wbapfb</ClassId>
+  <Date>2010-01-19</Date>
+  <Time>07:00</Time>
+  <Locality>RPPN Prima Luna, Nova Trento, Santa Catarina</Locality>
+  <Latitude>-27.258</Latitude>
+  <Longitude>-49.02</Longitude>
+  <Elevation>380</Elevation>
+  <Author>Evair Legal</Author>
+  <AuthorID>SMJXFKLATM</AuthorID>
+  <Content>call</Content>
+  <Comments />
+  <Quality>0</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Fringillidae</Family>
+  <Genus>Euphonia</Genus>
+  <Species>pectoralis</Species>
+  <Sub-species />
+  <VernacularNames>Chestnut-bellied Euphonia</VernacularNames>
+</Audio>

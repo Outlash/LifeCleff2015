@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>32903</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN32903.wav</FileName>
+  <ClassId>gcyzcu</ClassId>
+  <Date>2010-03-13</Date>
+  <Time>06:04</Time>
+  <Locality>Botanic Gardens, Georgetown</Locality>
+  <Latitude>6.7901</Latitude>
+  <Longitude>-58.1628</Longitude>
+  <Elevation>15</Elevation>
+  <Author>Charlie Vogt</Author>
+  <AuthorID>NYTXYAQSTH</AuthorID>
+  <Content>call</Content>
+  <Comments>natural vocalization, perched</Comments>
+  <Quality>2</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies>Saltator coerulescens,Todirostrum cinereum,Pitangus sulphuratus,Ornithion brunneicapillus,Tyrannus melancholicus</BackgroundSpecies>
+  <Order>Psittaciformes</Order>
+  <Family>Psittacidae</Family>
+  <Genus>Diopsittaca</Genus>
+  <Species>nobilis</Species>
+  <Sub-species />
+  <VernacularNames>Red-shouldered Macaw</VernacularNames>
+</Audio>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>25318</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN25318.wav</FileName>
+  <ClassId>qvcasw</ClassId>
+  <Date>2014-03-12</Date>
+  <Time>15:00</Time>
+  <Locality>Libano, Tolima</Locality>
+  <Latitude>4.9075</Latitude>
+  <Longitude>-75.0447</Longitude>
+  <Elevation>1500</Elevation>
+  <Author>Jeisson Poveda</Author>
+  <AuthorID>CVJNYXJFAW</AuthorID>
+  <Content>song</Content>
+  <Comments>bird-seen:yesplayback-used:no</Comments>
+  <Quality>2</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Furnariidae</Family>
+  <Genus>Synallaxis</Genus>
+  <Species>albescens</Species>
+  <Sub-species />
+  <VernacularNames>Pale-breasted Spinetail</VernacularNames>
+</Audio>

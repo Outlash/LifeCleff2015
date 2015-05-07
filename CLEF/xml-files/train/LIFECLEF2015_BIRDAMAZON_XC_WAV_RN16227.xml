@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>16227</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN16227.wav</FileName>
+  <ClassId>yugnvo</ClassId>
+  <Date>2014-04-29</Date>
+  <Time>10:03</Time>
+  <Locality>Doutor Pedrinho, Santa Catarina</Locality>
+  <Latitude>-26.7691</Latitude>
+  <Longitude>-49.452</Longitude>
+  <Elevation>550</Elevation>
+  <Author>Douglas Meyer</Author>
+  <AuthorID>MNENFHYTAE</AuthorID>
+  <Content>call, song</Content>
+  <Comments>bird-seen:yesplayback-used:no</Comments>
+  <Quality>2</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Coraciiformes</Order>
+  <Family>Alcedinidae</Family>
+  <Genus>Chloroceryle</Genus>
+  <Species>americana</Species>
+  <Sub-species />
+  <VernacularNames>Green Kingfisher</VernacularNames>
+</Audio>

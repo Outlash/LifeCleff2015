@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>6471</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN6471.wav</FileName>
+  <ClassId>jefgxc</ClassId>
+  <Date>2004-12-26</Date>
+  <Time>?</Time>
+  <Locality>Barbalha, Chapado do Araripe, south of Ceará State.</Locality>
+  <Latitude>-7.3834</Latitude>
+  <Longitude>-39.3501</Longitude>
+  <Elevation>650</Elevation>
+  <Author>Thieres Pinto</Author>
+  <AuthorID>MXVQPUKGWW</AuthorID>
+  <Content>song - a pair</Content>
+  <Comments />
+  <Quality>1</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies>Pheugopedius genibarbis,Basileuterus culicivorus</BackgroundSpecies>
+  <Order>Piciformes</Order>
+  <Family>Galbulidae</Family>
+  <Genus>Galbula</Genus>
+  <Species>ruficauda</Species>
+  <Sub-species />
+  <VernacularNames>Rufous-tailed Jacamar</VernacularNames>
+</Audio>

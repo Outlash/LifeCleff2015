@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>20105</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN20105.wav</FileName>
+  <ClassId>jefgxc</ClassId>
+  <Date>2013-12-14</Date>
+  <Time>08:01</Time>
+  <Locality>El Bagre, Antioquia</Locality>
+  <Latitude>7.9253</Latitude>
+  <Longitude>-74.7835</Longitude>
+  <Elevation>40</Elevation>
+  <Author>Johnnier A. Arango-Bermúdez</Author>
+  <AuthorID>OWMTIWETTG</AuthorID>
+  <Content>call</Content>
+  <Comments>Foothill secondary forest close to a swamp. 3 mt to the ground. Audacity's Lowpass filter used to reduce background noise.bird-seen:noplayback-used:no</Comments>
+  <Quality>0</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies>Thamnophilus nigriceps,Pheugopedius fasciatoventris,Ortalis garrula</BackgroundSpecies>
+  <Order>Piciformes</Order>
+  <Family>Galbulidae</Family>
+  <Genus>Galbula</Genus>
+  <Species>ruficauda</Species>
+  <Sub-species />
+  <VernacularNames>Rufous-tailed Jacamar</VernacularNames>
+</Audio>

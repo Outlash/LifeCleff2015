@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>13340</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN13340.wav</FileName>
+  <ClassId>ioaqnm</ClassId>
+  <Date>2012-09-25</Date>
+  <Time>11:30</Time>
+  <Locality>Nova Veneza, Santa Catarina, Brazil</Locality>
+  <Latitude>-28.638</Latitude>
+  <Longitude>-49.498</Longitude>
+  <Elevation>250</Elevation>
+  <Author>João Gava</Author>
+  <AuthorID>CEKMJEZKSJ</AuthorID>
+  <Content>flight call</Content>
+  <Comments>bird-seen:yesplayback-used:no</Comments>
+  <Quality>3</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies />
+  <Order>Cuculiformes</Order>
+  <Family>Cuculidae</Family>
+  <Genus>Piaya</Genus>
+  <Species>cayana</Species>
+  <Sub-species />
+  <VernacularNames>Squirrel Cuckoo</VernacularNames>
+</Audio>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>2628</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN2628.wav</FileName>
+  <ClassId>jefgxc</ClassId>
+  <Date>2007-07-30</Date>
+  <Time>07:57</Time>
+  <Locality>Pousada Rio Azul, PA</Locality>
+  <Latitude>-9.2456</Latitude>
+  <Longitude>-55.987</Longitude>
+  <Elevation>220</Elevation>
+  <Author>Bradley Davis</Author>
+  <AuthorID>YNXJLOESBB</AuthorID>
+  <Content>song</Content>
+  <Comments />
+  <Quality>0</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies>Trogon collaris,Saltator grossus,Legatus leucophaius,Myiopagis gaimardii,Myrmotherula brachyura</BackgroundSpecies>
+  <Order>Piciformes</Order>
+  <Family>Galbulidae</Family>
+  <Genus>Galbula</Genus>
+  <Species>ruficauda</Species>
+  <Sub-species />
+  <VernacularNames>Rufous-tailed Jacamar</VernacularNames>
+</Audio>

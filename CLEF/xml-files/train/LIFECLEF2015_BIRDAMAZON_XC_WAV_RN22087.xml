@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>22087</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN22087.wav</FileName>
+  <ClassId>glsklv</ClassId>
+  <Date>2010-07-14</Date>
+  <Time>?</Time>
+  <Locality>Roura, Montagne Maripa</Locality>
+  <Latitude>4.442</Latitude>
+  <Longitude>-52.368</Longitude>
+  <Elevation>20</Elevation>
+  <Author>Renaudier Alexandre</Author>
+  <AuthorID>GKADEITXTH</AuthorID>
+  <Content>song</Content>
+  <Comments>response to playback</Comments>
+  <Quality>2</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies>Cercomacra cinerascens,Lophotriccus vitiosus,Saltator grossus</BackgroundSpecies>
+  <Order>Passeriformes</Order>
+  <Family>Tyrannidae</Family>
+  <Genus>Platyrinchus</Genus>
+  <Species>saturatus</Species>
+  <Sub-species />
+  <VernacularNames>Cinnamon-crested Spadebill</VernacularNames>
+</Audio>

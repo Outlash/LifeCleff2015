@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>4182</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN4182.wav</FileName>
+  <ClassId>xxjaog</ClassId>
+  <Date>2010-11-03</Date>
+  <Time>06:15</Time>
+  <Locality>Paragominas, PA, Brazil, Bacia 423</Locality>
+  <Latitude>-3.519</Latitude>
+  <Longitude>-47.504</Longitude>
+  <Elevation>?</Elevation>
+  <Author>Nargila Moura</Author>
+  <AuthorID>CWEIBYBYYD</AuthorID>
+  <Content>song</Content>
+  <Comments>secondary forest</Comments>
+  <Quality>2</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies>Tapera naevia,Phaethornis ruber,Thamnophilus aethiops,Cercomacra laeta,Ramphocelus carbo,Caryothraustes canadensis</BackgroundSpecies>
+  <Order>Passeriformes</Order>
+  <Family>Thraupidae</Family>
+  <Genus>Hemithraupis</Genus>
+  <Species>guira</Species>
+  <Sub-species />
+  <VernacularNames>Guira Tanager</VernacularNames>
+</Audio>

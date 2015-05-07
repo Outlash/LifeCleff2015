@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>17155</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN17155.wav</FileName>
+  <ClassId>pfeffq</ClassId>
+  <Date>2001-11-12</Date>
+  <Time>09:37</Time>
+  <Locality>Estação Ecológica de Murici, Alagoas</Locality>
+  <Latitude>-9.3001</Latitude>
+  <Longitude>-35.9334</Longitude>
+  <Elevation>550</Elevation>
+  <Author>Jeremy Minns</Author>
+  <AuthorID>DGVLLRYDXS</AuthorID>
+  <Content>call, song</Content>
+  <Comments>Humid forest. Natural sounds of a pair in the canopy. The male appeared to be moulting. Includes imitation of Piratic Flycatcher.</Comments>
+  <Quality>2</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies>Manacus manacus,Chiroxiphia pareola</BackgroundSpecies>
+  <Order>Passeriformes</Order>
+  <Family>Fringillidae</Family>
+  <Genus>Euphonia</Genus>
+  <Species>cyanocephala</Species>
+  <Sub-species>aureata</Sub-species>
+  <VernacularNames>Golden-rumped Euphonia</VernacularNames>
+</Audio>

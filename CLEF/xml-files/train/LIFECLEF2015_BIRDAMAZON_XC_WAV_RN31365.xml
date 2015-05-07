@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>31365</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN31365.wav</FileName>
+  <ClassId>kndwgb</ClassId>
+  <Date>2013-03-08</Date>
+  <Time>16:30</Time>
+  <Locality>Libano, Tolima</Locality>
+  <Latitude>4.9241</Latitude>
+  <Longitude>-75.0553</Longitude>
+  <Elevation>1530</Elevation>
+  <Author>Jeisson Poveda</Author>
+  <AuthorID>CVJNYXJFAW</AuthorID>
+  <Content>call, male</Content>
+  <Comments>bird-seen:yesplayback-used:no</Comments>
+  <Quality>1</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies>Crotophaga ani,Pheugopedius mystacalis</BackgroundSpecies>
+  <Order>Passeriformes</Order>
+  <Family>Thraupidae</Family>
+  <Genus>Ramphocelus</Genus>
+  <Species>dimidiatus</Species>
+  <Sub-species />
+  <VernacularNames>Crimson-backed Tanager</VernacularNames>
+</Audio>

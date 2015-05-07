@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>19103</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN19103.wav</FileName>
+  <ClassId>smulfl</ClassId>
+  <Date>2010-01-08</Date>
+  <Time>09:30</Time>
+  <Locality>Santa Cecilia, Serrania de San Lucas</Locality>
+  <Latitude>7.9759</Latitude>
+  <Longitude>-74.2153</Longitude>
+  <Elevation>1550</Elevation>
+  <Author>Thomas Donegan</Author>
+  <AuthorID>OXSIOLJJUP</AuthorID>
+  <Content>Song</Content>
+  <Comments>Species confirmed at site by mist-netting, this on in a mixed flock</Comments>
+  <Quality>3</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Furnariidae</Family>
+  <Genus>Cranioleuca</Genus>
+  <Species>erythrops</Species>
+  <Sub-species />
+  <VernacularNames>Red-faced Spinetail</VernacularNames>
+</Audio>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>26788</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN26788.wav</FileName>
+  <ClassId>twfkxc</ClassId>
+  <Date>2011-03-28</Date>
+  <Time>12:30</Time>
+  <Locality>La Soledad Tunnel, 20 km NW Barinitas, Barinas</Locality>
+  <Latitude>8.8526</Latitude>
+  <Longitude>-70.5806</Longitude>
+  <Elevation>1600</Elevation>
+  <Author>Albert Lastukhin</Author>
+  <AuthorID>LELYWQKUZX</AuthorID>
+  <Content>call</Content>
+  <Comments>1 and 23 sdsbird-seen:noplayback-used:no</Comments>
+  <Quality>3</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies>Ortalis ruficauda</BackgroundSpecies>
+  <Order>Passeriformes</Order>
+  <Family>Furnariidae</Family>
+  <Genus>Synallaxis</Genus>
+  <Species>unirufa</Species>
+  <Sub-species>meridana</Sub-species>
+  <VernacularNames>Rufous Spinetail</VernacularNames>
+</Audio>

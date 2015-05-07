@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>9790</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN9790.wav</FileName>
+  <ClassId>iutawf</ClassId>
+  <Date>2009-11-02</Date>
+  <Time>08:30</Time>
+  <Locality>Tocantins</Locality>
+  <Latitude>-10.0906</Latitude>
+  <Longitude>-46.8155</Longitude>
+  <Elevation>340</Elevation>
+  <Author>GABRIEL LEITE</Author>
+  <AuthorID>TGBFXDVERJ</AuthorID>
+  <Content>call, female, male</Content>
+  <Comments>bird-seen:yesplayback-used:no</Comments>
+  <Quality>3</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Thamnophilidae</Family>
+  <Genus>Formicivora</Genus>
+  <Species>rufa</Species>
+  <Sub-species />
+  <VernacularNames>Rusty-backed Antwren</VernacularNames>
+</Audio>

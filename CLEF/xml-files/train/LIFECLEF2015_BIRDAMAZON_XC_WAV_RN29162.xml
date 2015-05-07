@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>29162</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN29162.wav</FileName>
+  <ClassId>glznwe</ClassId>
+  <Date>2010-01-31</Date>
+  <Time>8:35</Time>
+  <Locality>R. N. Rio Blanco, Caldas</Locality>
+  <Latitude>5.0834</Latitude>
+  <Longitude>-75.5001</Longitude>
+  <Elevation>2600</Elevation>
+  <Author>David Geale</Author>
+  <AuthorID>SBFBVYGIJC</AuthorID>
+  <Content>Call?</Content>
+  <Comments>At least 3 birds present (vocalizing?). Basileuterus (Russet-crowned?) in BG.</Comments>
+  <Quality>2</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Tyrannidae</Family>
+  <Genus>Leptopogon</Genus>
+  <Species>rufipectus</Species>
+  <Sub-species />
+  <VernacularNames>Rufous-breasted Flycatcher</VernacularNames>
+</Audio>

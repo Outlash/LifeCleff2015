@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>15371</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN15371.wav</FileName>
+  <ClassId>ewisum</ClassId>
+  <Date>2006-06-03</Date>
+  <Time>07:00</Time>
+  <Locality>Serra de Baturité, Ceará</Locality>
+  <Latitude>-4.2334</Latitude>
+  <Longitude>-38.9167</Longitude>
+  <Elevation>750</Elevation>
+  <Author>Sidnei de Melo Dantas</Author>
+  <AuthorID>NNCKQMBGPH</AuthorID>
+  <Content>song</Content>
+  <Comments>the second sequence is mixed with a sequence of Parula pitiayumi""</Comments>
+  <Quality>3</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies>Myiozetetes similis,Brotogeris chiriri,Setophaga pitiayumi</BackgroundSpecies>
+  <Order>Passeriformes</Order>
+  <Family>Parulidae</Family>
+  <Genus>Basileuterus</Genus>
+  <Species>culicivorus</Species>
+  <Sub-species />
+  <VernacularNames>Golden-crowned Warbler</VernacularNames>
+</Audio>

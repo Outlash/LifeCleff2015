@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>33151</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN33151.wav</FileName>
+  <ClassId>enwiay</ClassId>
+  <Date>2011-03-30</Date>
+  <Time>07:30</Time>
+  <Locality>Ijuí, Rio Grande do Sul</Locality>
+  <Latitude>-28.3864</Latitude>
+  <Longitude>-53.8633</Longitude>
+  <Elevation>320</Elevation>
+  <Author>Fernando Igor de Godoy</Author>
+  <AuthorID>CHDHFSVVIN</AuthorID>
+  <Content>call</Content>
+  <Comments>FNJV 30236</Comments>
+  <Quality>0</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Tinamiformes</Order>
+  <Family>Tinamidae</Family>
+  <Genus>Crypturellus</Genus>
+  <Species>tataupa</Species>
+  <Sub-species />
+  <VernacularNames>Tataupa Tinamou</VernacularNames>
+</Audio>

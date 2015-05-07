@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>4913</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN4913.wav</FileName>
+  <ClassId>ssdpyu</ClassId>
+  <Date>2006-06-28</Date>
+  <Time>9:50</Time>
+  <Locality>Reserva Ecológica de Guapiaçu, RJ</Locality>
+  <Latitude>-22.5001</Latitude>
+  <Longitude>-42.7167</Longitude>
+  <Elevation>?</Elevation>
+  <Author>Leonardo Pimentel</Author>
+  <AuthorID>JHBOHGJALL</AuthorID>
+  <Content>Song</Content>
+  <Comments>After playback</Comments>
+  <Quality>2</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Troglodytidae</Family>
+  <Genus>Cantorchilus</Genus>
+  <Species>longirostris</Species>
+  <Sub-species />
+  <VernacularNames>Long-billed Wren</VernacularNames>
+</Audio>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>18798</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN18798.wav</FileName>
+  <ClassId>ummihq</ClassId>
+  <Date>2013-11-02</Date>
+  <Time>14:25</Time>
+  <Locality>Sabaneta, Antioquia</Locality>
+  <Latitude>6.1422</Latitude>
+  <Longitude>-75.6172</Longitude>
+  <Elevation>1600</Elevation>
+  <Author>Danny Zapata-Henao</Author>
+  <AuthorID>AHYWLCEJLP</AuthorID>
+  <Content>song</Content>
+  <Comments>3 birds were perched on the roof of the house next door, so I took advantage of the situation and record them.bird-seen:yesplayback-used:no</Comments>
+  <Quality>3</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Tyrannidae</Family>
+  <Genus>Myiozetetes</Genus>
+  <Species>cayanensis</Species>
+  <Sub-species />
+  <VernacularNames>Rusty-margined Flycatcher</VernacularNames>
+</Audio>

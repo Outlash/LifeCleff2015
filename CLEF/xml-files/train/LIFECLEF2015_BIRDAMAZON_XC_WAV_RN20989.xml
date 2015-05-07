@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>20989</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN20989.wav</FileName>
+  <ClassId>bfwanm</ClassId>
+  <Date>2002-06-26</Date>
+  <Time>07:30</Time>
+  <Locality>Reserva Iguaque (SFF), Villa de Leyva, Boyaca</Locality>
+  <Latitude>NULL</Latitude>
+  <Longitude>NULL</Longitude>
+  <Elevation>2850</Elevation>
+  <Author>Bernabe Lopez-Lanus</Author>
+  <AuthorID>BYLLSJRVDZ</AuthorID>
+  <Content>Alarm flight call</Content>
+  <Comments />
+  <Quality>3</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Galliformes</Order>
+  <Family>Cracidae</Family>
+  <Genus>Penelope</Genus>
+  <Species>montagnii</Species>
+  <Sub-species>montagnii</Sub-species>
+  <VernacularNames>Andean Guan</VernacularNames>
+</Audio>

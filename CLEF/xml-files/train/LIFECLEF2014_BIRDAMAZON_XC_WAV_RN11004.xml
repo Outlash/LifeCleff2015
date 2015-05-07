@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>11004</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN11004.wav</FileName>
+  <ClassId>jcyhxm</ClassId>
+  <Date>2005-09-04</Date>
+  <Time>07:30</Time>
+  <Locality>Serra de Baturité, Ceará</Locality>
+  <Latitude>-4.2334</Latitude>
+  <Longitude>-38.9167</Longitude>
+  <Elevation>800</Elevation>
+  <Author>Ciro Albano</Author>
+  <AuthorID>MXVQPUKGWW</AuthorID>
+  <Content>song</Content>
+  <Comments />
+  <Quality>4</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies>Myiozetetes similis</BackgroundSpecies>
+  <Order>Piciformes</Order>
+  <Family>Picidae</Family>
+  <Genus>Celeus</Genus>
+  <Species>flavescens</Species>
+  <Sub-species />
+  <VernacularNames>Blond-crested Woodpecker</VernacularNames>
+</Audio>

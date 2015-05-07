@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>12501</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN12501.wav</FileName>
+  <ClassId>jttuic</ClassId>
+  <Date>2007-10-28</Date>
+  <Time>01:30</Time>
+  <Locality>Taquaril - Petrópolis - RJ</Locality>
+  <Latitude>-22.3023</Latitude>
+  <Longitude>-43.077</Longitude>
+  <Elevation>1000</Elevation>
+  <Author>Ricardo Gagliardi</Author>
+  <AuthorID>YRDADNREOP</AuthorID>
+  <Content>song</Content>
+  <Comments>Pousada Paraíso area</Comments>
+  <Quality>3</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies />
+  <Order>Caprimulgiformes</Order>
+  <Family>Nyctibiidae</Family>
+  <Genus>Nyctibius</Genus>
+  <Species>griseus</Species>
+  <Sub-species />
+  <VernacularNames>Common Potoo</VernacularNames>
+</Audio>

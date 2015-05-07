@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>27716</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN27716.wav</FileName>
+  <ClassId>cpigyt</ClassId>
+  <Date>1991-12-07</Date>
+  <Time>?</Time>
+  <Locality>Cundinamarca, Guasca, Reserva Forestal Río Blanco, Finca Carpatos, Palacio</Locality>
+  <Latitude>4.7</Latitude>
+  <Longitude>-73.85</Longitude>
+  <Elevation>3000</Elevation>
+  <Author>Gary Stiles (Colección de Sonidos Ambientales - Instituto Humboldt)</Author>
+  <AuthorID>XMFDPACYJN</AuthorID>
+  <Content>song</Content>
+  <Comments>BSA 10840To obtain a wav file of the original recording, please contact csa@humboldt.org.cobird-seen:noplayback-used:no</Comments>
+  <Quality>2</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Piciformes</Order>
+  <Family>Ramphastidae</Family>
+  <Genus>Andigena</Genus>
+  <Species>nigrirostris</Species>
+  <Sub-species />
+  <VernacularNames>Black-billed Mountain Toucan</VernacularNames>
+</Audio>

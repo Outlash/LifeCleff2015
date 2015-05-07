@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>31824</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN31824.wav</FileName>
+  <ClassId>qhhmch</ClassId>
+  <Date>2012-04-17</Date>
+  <Time>08:07</Time>
+  <Locality>Below RNA El Dorado, Sierra de Santa Marta, Magdalena</Locality>
+  <Latitude>11.0998</Latitude>
+  <Longitude>-74.0751</Longitude>
+  <Elevation>1850</Elevation>
+  <Author>Jeremy Minns</Author>
+  <AuthorID>DGVLLRYDXS</AuthorID>
+  <Content>Song</Content>
+  <Comments>Montane forest. Single bird, after playback.</Comments>
+  <Quality>0</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Furnariidae</Family>
+  <Genus>Cranioleuca</Genus>
+  <Species>hellmayri</Species>
+  <Sub-species />
+  <VernacularNames>Streak-capped Spinetail</VernacularNames>
+</Audio>

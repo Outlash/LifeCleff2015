@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>25663</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN25663.wav</FileName>
+  <ClassId>qgjcrn</ClassId>
+  <Date>2002-09-07</Date>
+  <Time>?</Time>
+  <Locality>Reserva Hidrográfica, Forestal, y Parque Ecológico Río Blanco, El Desquite - La Navarra, Manizales, Caldas</Locality>
+  <Latitude>5.0725</Latitude>
+  <Longitude>-75.53333</Longitude>
+  <Elevation>2500</Elevation>
+  <Author>Andrés Mauricio López (Colección de Sonidos Ambientales - Instituto Humboldt)</Author>
+  <AuthorID>XMFDPACYJN</AuthorID>
+  <Content>song</Content>
+  <Comments>BSA 13281To obtain a wav file of the original recording, please contact csa@humboldt.org.coplayback-used:no</Comments>
+  <Quality>1</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Psittaciformes</Order>
+  <Family>Psittacidae</Family>
+  <Genus>Hapalopsittaca</Genus>
+  <Species>amazonina</Species>
+  <Sub-species />
+  <VernacularNames>Rusty-faced Parrot</VernacularNames>
+</Audio>

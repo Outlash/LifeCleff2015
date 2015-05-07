@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>8244</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN8244.wav</FileName>
+  <ClassId>uwehqf</ClassId>
+  <Date>2005-07-17</Date>
+  <Time>08:00</Time>
+  <Locality>Tucuruí dam, right margin of the lake, state of Pará</Locality>
+  <Latitude>-4.2327</Latitude>
+  <Longitude>-49.41194</Longitude>
+  <Elevation>70</Elevation>
+  <Author>Sidnei de Melo Dantas</Author>
+  <AuthorID>NNCKQMBGPH</AuthorID>
+  <Content>call, song</Content>
+  <Comments>canopy of land forest</Comments>
+  <Quality>3</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies>Lipaugus vociferans,Veniliornis affinis,Ramphastos vitellinus</BackgroundSpecies>
+  <Order>Piciformes</Order>
+  <Family>Ramphastidae</Family>
+  <Genus>Pteroglossus</Genus>
+  <Species>aracari</Species>
+  <Sub-species />
+  <VernacularNames>Black-necked Aracari</VernacularNames>
+</Audio>

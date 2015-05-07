@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>4458</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN4458.wav</FileName>
+  <ClassId>vxglzx</ClassId>
+  <Date>2003-02-12</Date>
+  <Time>08:03</Time>
+  <Locality>Intervales State Park. Carmo road</Locality>
+  <Latitude>-24.2834</Latitude>
+  <Longitude>-48.4334</Longitude>
+  <Elevation>800</Elevation>
+  <Author>Jeremy Minns</Author>
+  <AuthorID>DGVLLRYDXS</AuthorID>
+  <Content>Various different calls</Content>
+  <Comments>Pair. A long, varied series of vocalizations after playback of previous recording of song.</Comments>
+  <Quality>1</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies>Conopophaga lineata,Chamaeza meruloides,Anabazenops fuscus,Attila phoenicurus,Myiothlypis leucoblephara</BackgroundSpecies>
+  <Order>Passeriformes</Order>
+  <Family>Thamnophilidae</Family>
+  <Genus>Biatas</Genus>
+  <Species>nigropectus</Species>
+  <Sub-species />
+  <VernacularNames>White-bearded Antshrike</VernacularNames>
+</Audio>

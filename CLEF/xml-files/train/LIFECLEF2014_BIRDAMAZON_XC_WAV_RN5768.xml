@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>5768</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN5768.wav</FileName>
+  <ClassId>wkjlrj</ClassId>
+  <Date>2008-06-22</Date>
+  <Time>?</Time>
+  <Locality>RPPN Chácara Edith, Brusque, Santa Catarina</Locality>
+  <Latitude>-27.1017</Latitude>
+  <Longitude>-48.8887</Longitude>
+  <Elevation>53</Elevation>
+  <Author>Adrian Eisen Rupp</Author>
+  <AuthorID>AOPMSCIDIA</AuthorID>
+  <Content>call</Content>
+  <Comments />
+  <Quality>2</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies>Formicarius colma,Chiroxiphia caudata</BackgroundSpecies>
+  <Order>Passeriformes</Order>
+  <Family>Pipridae</Family>
+  <Genus>Manacus</Genus>
+  <Species>manacus</Species>
+  <Sub-species />
+  <VernacularNames>White-bearded Manakin</VernacularNames>
+</Audio>

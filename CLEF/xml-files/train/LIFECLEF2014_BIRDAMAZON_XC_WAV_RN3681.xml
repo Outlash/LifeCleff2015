@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>3681</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN3681.wav</FileName>
+  <ClassId>yilzpe</ClassId>
+  <Date>2012-10-05</Date>
+  <Time>08:30</Time>
+  <Locality>Viçosa, Minas Gerais</Locality>
+  <Latitude>-20.79</Latitude>
+  <Longitude>-42.8882</Longitude>
+  <Elevation>800</Elevation>
+  <Author>Noé Eiterer</Author>
+  <AuthorID>TWSKITNQOV</AuthorID>
+  <Content>song</Content>
+  <Comments>bird-seen:yesplayback-used:yes</Comments>
+  <Quality>1</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Tyrannidae</Family>
+  <Genus>Leptopogon</Genus>
+  <Species>amaurocephalus</Species>
+  <Sub-species>amaurocephalus</Sub-species>
+  <VernacularNames>Sepia-capped Flycatcher</VernacularNames>
+</Audio>

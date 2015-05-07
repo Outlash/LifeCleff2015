@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>14899</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN14899.wav</FileName>
+  <ClassId>jmefjy</ClassId>
+  <Date>2005-08-15</Date>
+  <Time>?</Time>
+  <Locality>Huila, San Agustín, Reserva Los Yalcones, El Palmar. Interfluvio Quebrada El Palmar - Rio Balseros</Locality>
+  <Latitude>1.795556</Latitude>
+  <Longitude>-76.35139</Longitude>
+  <Elevation>2500</Elevation>
+  <Author>Diego Calderón (Colección de Sonidos Ambientales - Instituto Humboldt)</Author>
+  <AuthorID>XMFDPACYJN</AuthorID>
+  <Content>song</Content>
+  <Comments>BSA 16599To obtain a wav file of the original recording, please contact csa@humboldt.org.cobird-seen:noplayback-used:no</Comments>
+  <Quality>4</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies>Basileuterus culicivorus</BackgroundSpecies>
+  <Order>Trogoniformes</Order>
+  <Family>Trogonidae</Family>
+  <Genus>Trogon</Genus>
+  <Species>personatus</Species>
+  <Sub-species />
+  <VernacularNames>Masked Trogon</VernacularNames>
+</Audio>

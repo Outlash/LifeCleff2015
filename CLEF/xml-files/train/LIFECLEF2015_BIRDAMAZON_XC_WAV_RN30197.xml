@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>30197</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN30197.wav</FileName>
+  <ClassId>vvablg</ClassId>
+  <Date>2014-08-30</Date>
+  <Time>17:00</Time>
+  <Locality>Caraguatatuba, Caraguatatuba, São Paulo</Locality>
+  <Latitude>-23.5632</Latitude>
+  <Longitude>-45.291</Longitude>
+  <Elevation>40</Elevation>
+  <Author>Rodrigo Dela Rosa</Author>
+  <AuthorID>VGXDJMKETZ</AuthorID>
+  <Content>flight call, song</Content>
+  <Comments>bird-seen:yesplayback-used:no</Comments>
+  <Quality>3</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Apodiformes</Order>
+  <Family>Apodidae</Family>
+  <Genus>Chaetura</Genus>
+  <Species>cinereiventris</Species>
+  <Sub-species />
+  <VernacularNames>Grey-rumped Swift</VernacularNames>
+</Audio>

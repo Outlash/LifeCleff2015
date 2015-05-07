@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>20237</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN20237.wav</FileName>
+  <ClassId>ffvgyk</ClassId>
+  <Date>2000-11-02</Date>
+  <Time>07:07</Time>
+  <Locality>Hacienda Cincinnati, Vereda Campano (camino a San Lorenzo), Santa Marta, Magdalena</Locality>
+  <Latitude>NULL</Latitude>
+  <Longitude>NULL</Longitude>
+  <Elevation>1300</Elevation>
+  <Author>Bernabe Lopez-Lanus</Author>
+  <AuthorID>BYLLSJRVDZ</AuthorID>
+  <Content>duet, song</Content>
+  <Comments />
+  <Quality>2</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Troglodytidae</Family>
+  <Genus>Henicorhina</Genus>
+  <Species>leucophrys</Species>
+  <Sub-species>bangsi</Sub-species>
+  <VernacularNames>Grey-breasted Wood Wren</VernacularNames>
+</Audio>

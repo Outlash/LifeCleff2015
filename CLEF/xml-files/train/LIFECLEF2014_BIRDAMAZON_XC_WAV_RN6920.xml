@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>6920</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN6920.wav</FileName>
+  <ClassId>vxjqml</ClassId>
+  <Date>1999-06-28</Date>
+  <Time>07:00</Time>
+  <Locality>Teresópolis, RJ. Garrafão</Locality>
+  <Latitude>-22.5001</Latitude>
+  <Longitude>-42.9167</Longitude>
+  <Elevation>500</Elevation>
+  <Author>Jeremy Minns</Author>
+  <AuthorID>DGVLLRYDXS</AuthorID>
+  <Content>?</Content>
+  <Comments>Humid forest on slopes of the Serra dos Órgãos.</Comments>
+  <Quality>1</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Tyrannidae</Family>
+  <Genus>Corythopis</Genus>
+  <Species>delalandi</Species>
+  <Sub-species />
+  <VernacularNames>Southern Antpipit</VernacularNames>
+</Audio>

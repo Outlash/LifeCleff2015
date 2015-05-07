@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>6704</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN6704.wav</FileName>
+  <ClassId>ioaqnm</ClassId>
+  <Date>2011-10-11</Date>
+  <Time>09:00</Time>
+  <Locality>Fazenda Bolandeira,Comandatuba,Una,Bahia State</Locality>
+  <Latitude>-15.348</Latitude>
+  <Longitude>-38.989</Longitude>
+  <Elevation>10</Elevation>
+  <Author>Antonio Silveira</Author>
+  <AuthorID>NBJQSQJRYH</AuthorID>
+  <Content>alarm call</Content>
+  <Comments>An unusual vocalization of alarm this species. The bird was perched on a big tree in the field. I believe that the alarm was because of a hawk that was near.bird-seen:yesplayback-used:no</Comments>
+  <Quality>3</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies />
+  <Order>Cuculiformes</Order>
+  <Family>Cuculidae</Family>
+  <Genus>Piaya</Genus>
+  <Species>cayana</Species>
+  <Sub-species />
+  <VernacularNames>Squirrel Cuckoo</VernacularNames>
+</Audio>

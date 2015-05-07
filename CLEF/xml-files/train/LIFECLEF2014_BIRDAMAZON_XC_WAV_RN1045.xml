@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>1045</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN1045.wav</FileName>
+  <ClassId>gkpnfs</ClassId>
+  <Date>2001-07-05</Date>
+  <Time>?</Time>
+  <Locality>Araçoiaba da Serra, São Paulo</Locality>
+  <Latitude>-22.83293</Latitude>
+  <Longitude>-48.16384</Longitude>
+  <Elevation>?</Elevation>
+  <Author>Luiz Fernando Figueiredo</Author>
+  <AuthorID>EYYKGDWADQ</AuthorID>
+  <Content>song</Content>
+  <Comments />
+  <Quality>4</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies />
+  <Order>Columbiformes</Order>
+  <Family>Columbidae</Family>
+  <Genus>Patagioenas</Genus>
+  <Species>picazuro</Species>
+  <Sub-species />
+  <VernacularNames>Picazuro Pigeon</VernacularNames>
+</Audio>

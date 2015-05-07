@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>13527</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN13527.wav</FileName>
+  <ClassId>dmowwi</ClassId>
+  <Date>2010-10-08</Date>
+  <Time>05:49</Time>
+  <Locality>Paragominas, PA, Brazil, Bacia 245</Locality>
+  <Latitude>-3.1253</Latitude>
+  <Longitude>-46.8456</Longitude>
+  <Elevation>?</Elevation>
+  <Author>Nargila Moura</Author>
+  <AuthorID>CWEIBYBYYD</AuthorID>
+  <Content>call, song</Content>
+  <Comments>overgrown cattle pasture</Comments>
+  <Quality>2</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies>Elaenia flavogaster,Camptostoma obsoletum,Phaeomyias murina</BackgroundSpecies>
+  <Order>Passeriformes</Order>
+  <Family>Tyrannidae</Family>
+  <Genus>Todirostrum</Genus>
+  <Species>cinereum</Species>
+  <Sub-species>cearae</Sub-species>
+  <VernacularNames>Common Tody-Flycatcher</VernacularNames>
+</Audio>

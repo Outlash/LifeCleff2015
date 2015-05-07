@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>13497</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN13497.wav</FileName>
+  <ClassId>wmvjdr</ClassId>
+  <Date>2011-04-03</Date>
+  <Time>12:29</Time>
+  <Locality>Quatro Barras, Paraná State</Locality>
+  <Latitude>-25.3584841716935</Latitude>
+  <Longitude>-49.0717391925864</Longitude>
+  <Elevation>1000</Elevation>
+  <Author>Cid Espínola</Author>
+  <AuthorID>IRBNRXBEVU</AuthorID>
+  <Content>song</Content>
+  <Comments />
+  <Quality>2</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Grallariidae</Family>
+  <Genus>Hylopezus</Genus>
+  <Species>nattereri</Species>
+  <Sub-species />
+  <VernacularNames>Speckle-breasted Antpitta</VernacularNames>
+</Audio>

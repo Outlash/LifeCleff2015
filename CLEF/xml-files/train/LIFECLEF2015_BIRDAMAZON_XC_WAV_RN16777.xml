@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>16777</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN16777.wav</FileName>
+  <ClassId>gmeajz</ClassId>
+  <Date>2005-01-23</Date>
+  <Time>?</Time>
+  <Locality>Onverwacht</Locality>
+  <Latitude>5.5834</Latitude>
+  <Longitude>-55.1667</Longitude>
+  <Elevation>?</Elevation>
+  <Author>Otte Ottema</Author>
+  <AuthorID>ASEUAUOXZA</AuthorID>
+  <Content>song</Content>
+  <Comments>link:http://www.planktonik.com/birdingsuriname/</Comments>
+  <Quality>5</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Pipridae</Family>
+  <Genus>Chiroxiphia</Genus>
+  <Species>pareola</Species>
+  <Sub-species />
+  <VernacularNames>Blue-backed Manakin</VernacularNames>
+</Audio>

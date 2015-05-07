@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>22314</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN22314.wav</FileName>
+  <ClassId>fpfbua</ClassId>
+  <Date>1999-05-08</Date>
+  <Time>06:55</Time>
+  <Locality>Lencois, Bahia</Locality>
+  <Latitude>-12.6001</Latitude>
+  <Longitude>-41.4001</Longitude>
+  <Elevation>400</Elevation>
+  <Author>Jeremy Minns</Author>
+  <AuthorID>DGVLLRYDXS</AuthorID>
+  <Content>Call</Content>
+  <Comments>Road to Usina Velha. Secondary forest. This is Call A in our DVD-ROM 'Birds of Brazil'.</Comments>
+  <Quality>1</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies>Thamnophilus pelzelni</BackgroundSpecies>
+  <Order>Passeriformes</Order>
+  <Family>Furnariidae</Family>
+  <Genus>Synallaxis</Genus>
+  <Species>scutata</Species>
+  <Sub-species>scutata</Sub-species>
+  <VernacularNames>Ochre-cheeked Spinetail</VernacularNames>
+</Audio>

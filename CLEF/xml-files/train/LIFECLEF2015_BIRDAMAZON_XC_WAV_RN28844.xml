@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>28844</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN28844.wav</FileName>
+  <ClassId>vqpvft</ClassId>
+  <Date>2011-12-30</Date>
+  <Time>08:00</Time>
+  <Locality>Parque Nacional Natural Chingaza, Cundinamarca</Locality>
+  <Latitude>4.747</Latitude>
+  <Longitude>-73.8559</Longitude>
+  <Elevation>3200</Elevation>
+  <Author>Oswaldo Cortes</Author>
+  <AuthorID>VVDRVZCVWW</AuthorID>
+  <Content>song</Content>
+  <Comments />
+  <Quality>3</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Icteridae</Family>
+  <Genus>Sturnella</Genus>
+  <Species>magna</Species>
+  <Sub-species />
+  <VernacularNames>Eastern Meadowlark</VernacularNames>
+</Audio>

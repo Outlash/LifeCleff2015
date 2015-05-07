@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>27133</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN27133.wav</FileName>
+  <ClassId>wdzykr</ClassId>
+  <Date>2013-07-12</Date>
+  <Time>09:30</Time>
+  <Locality>Reserva Natural Mesenia - Paramillo</Locality>
+  <Latitude>5.483</Latitude>
+  <Longitude>-75.896</Longitude>
+  <Elevation>2320</Elevation>
+  <Author>Diego Calderon-F.</Author>
+  <AuthorID>OGATBVKNAG</AuthorID>
+  <Content>call</Content>
+  <Comments>A couple responding with calls to playback.bird-seen:yesplayback-used:yes</Comments>
+  <Quality>0</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies>Myadestes ralloides,Pyrrhomyias cinnamomeus</BackgroundSpecies>
+  <Order>Passeriformes</Order>
+  <Family>Tyrannidae</Family>
+  <Genus>Myiophobus</Genus>
+  <Species>flavicans</Species>
+  <Sub-species>flavicans</Sub-species>
+  <VernacularNames>Flavescent Flycatcher</VernacularNames>
+</Audio>

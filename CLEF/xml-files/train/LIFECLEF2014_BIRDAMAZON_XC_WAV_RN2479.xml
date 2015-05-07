@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>2479</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN2479.wav</FileName>
+  <ClassId>fdggbs</ClassId>
+  <Date>2007-04-14</Date>
+  <Time>10:40</Time>
+  <Locality>Frade - Angra dos Reis - RJ</Locality>
+  <Latitude>-22.9612</Latitude>
+  <Longitude>-44.4334</Longitude>
+  <Elevation>50</Elevation>
+  <Author>Ricardo Gagliardi</Author>
+  <AuthorID>YRDADNREOP</AuthorID>
+  <Content>call, song</Content>
+  <Comments />
+  <Quality>2</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies>Tolmomyias sulphurescens,Terenura maculata,Drymophila ferruginea</BackgroundSpecies>
+  <Order>Passeriformes</Order>
+  <Family>Thamnophilidae</Family>
+  <Genus>Dysithamnus</Genus>
+  <Species>stictothorax</Species>
+  <Sub-species />
+  <VernacularNames>Spot-breasted Antvireo</VernacularNames>
+</Audio>

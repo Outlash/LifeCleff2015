@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>8290</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN8290.wav</FileName>
+  <ClassId>bpyrxb</ClassId>
+  <Date>2006-11-28</Date>
+  <Time>10:15</Time>
+  <Locality>Tucuruí dam, right margin of the lake, state of Pará</Locality>
+  <Latitude>-4.2327</Latitude>
+  <Longitude>-49.41194</Longitude>
+  <Elevation>70</Elevation>
+  <Author>Sidnei de Melo Dantas</Author>
+  <AuthorID>NNCKQMBGPH</AuthorID>
+  <Content>call</Content>
+  <Comments>perched, 4 m high, in undergrowth</Comments>
+  <Quality>2</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies>Ramphocelus carbo,Isleria hauxwelli,Ramphastos tucanus,Pandion haliaetus</BackgroundSpecies>
+  <Order>Passeriformes</Order>
+  <Family>Tyrannidae</Family>
+  <Genus>Myiornis</Genus>
+  <Species>ecaudatus</Species>
+  <Sub-species />
+  <VernacularNames>Short-tailed Pygmy Tyrant</VernacularNames>
+</Audio>

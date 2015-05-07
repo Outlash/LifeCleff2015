@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>32360</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN32360.wav</FileName>
+  <ClassId>rndrjp</ClassId>
+  <Date>2009-11-08</Date>
+  <Time>08:30</Time>
+  <Locality>Rio Grande forest reserve, Bolívar</Locality>
+  <Latitude>7.5591</Latitude>
+  <Longitude>-60.9225</Longitude>
+  <Elevation>160</Elevation>
+  <Author>Joe Klaiber</Author>
+  <AuthorID>TNPOVFLZMY</AuthorID>
+  <Content>song</Content>
+  <Comments>bird-seen:yesplayback-used:no</Comments>
+  <Quality>2</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Piciformes</Order>
+  <Family>Galbulidae</Family>
+  <Genus>Jacamerops</Genus>
+  <Species>aureus</Species>
+  <Sub-species />
+  <VernacularNames>Great Jacamar</VernacularNames>
+</Audio>

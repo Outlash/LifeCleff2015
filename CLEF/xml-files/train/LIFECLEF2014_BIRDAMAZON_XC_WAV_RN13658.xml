@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>13658</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN13658.wav</FileName>
+  <ClassId>ngukgn</ClassId>
+  <Date>2006-04-29</Date>
+  <Time>08:00</Time>
+  <Locality>Uacari Reserve, left bank of Middle Juruá River</Locality>
+  <Latitude>NULL</Latitude>
+  <Longitude>NULL</Longitude>
+  <Elevation>?</Elevation>
+  <Author>Thiago Vernaschi V. Costa</Author>
+  <AuthorID>FPHQAPNAFU</AuthorID>
+  <Content>song</Content>
+  <Comments />
+  <Quality>2</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Troglodytidae</Family>
+  <Genus>Microcerculus</Genus>
+  <Species>marginatus</Species>
+  <Sub-species />
+  <VernacularNames>Southern Nightingale-Wren</VernacularNames>
+</Audio>

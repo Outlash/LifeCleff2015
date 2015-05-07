@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>140</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN140.wav</FileName>
+  <ClassId>exwfyy</ClassId>
+  <Date>2011-08-05</Date>
+  <Time>16:30</Time>
+  <Locality>Cristalino Jungle Lodge, MT</Locality>
+  <Latitude>-9.5981</Latitude>
+  <Longitude>-55.932</Longitude>
+  <Elevation>200</Elevation>
+  <Author>Tayler Brooks</Author>
+  <AuthorID>ARFGONJCBJ</AuthorID>
+  <Content>song</Content>
+  <Comments>In response to playback.</Comments>
+  <Quality>1</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Thamnophilidae</Family>
+  <Genus>Myrmeciza</Genus>
+  <Species>atrothorax</Species>
+  <Sub-species>melanura</Sub-species>
+  <VernacularNames>Black-throated Antbird</VernacularNames>
+</Audio>

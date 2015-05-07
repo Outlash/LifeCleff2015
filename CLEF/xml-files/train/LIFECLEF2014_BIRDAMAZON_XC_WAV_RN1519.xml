@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>1519</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN1519.wav</FileName>
+  <ClassId>cqbqgt</ClassId>
+  <Date>1999-05-07</Date>
+  <Time>07:15</Time>
+  <Locality>Chapada Diamantina. APA de Marimbus-Iraquara</Locality>
+  <Latitude>-12.6167</Latitude>
+  <Longitude>-41.3167</Longitude>
+  <Elevation>340</Elevation>
+  <Author>Jeremy Minns</Author>
+  <AuthorID>DGVLLRYDXS</AuthorID>
+  <Content>Song</Content>
+  <Comments>Forest edge beside wetland.</Comments>
+  <Quality>1</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies>Thamnophilus pelzelni,Synallaxis frontalis,Cacicus haemorrhous</BackgroundSpecies>
+  <Order>Passeriformes</Order>
+  <Family>Furnariidae</Family>
+  <Genus>Dendroplex</Genus>
+  <Species>picus</Species>
+  <Sub-species>picus</Sub-species>
+  <VernacularNames>Straight-billed Woodcreeper</VernacularNames>
+</Audio>

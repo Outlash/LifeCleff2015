@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>16197</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN16197.wav</FileName>
+  <ClassId>njvtdj</ClassId>
+  <Date>2007-11-12</Date>
+  <Time>05:35</Time>
+  <Locality>Parque Regional Barbas-Bremen, Filandia, Quindio. Sector Bremen-La Popa</Locality>
+  <Latitude>4.6717</Latitude>
+  <Longitude>-75.6283</Longitude>
+  <Elevation>1800</Elevation>
+  <Author>Oscar Humberto Marin-Gomez</Author>
+  <AuthorID>CSUHASNRSU</AuthorID>
+  <Content>Dawn song, song</Content>
+  <Comments>Ref: OHM005A 0640. Continuación de XC130089bird-seen:noplayback-used:no</Comments>
+  <Quality>2</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Coraciiformes</Order>
+  <Family>Momotidae</Family>
+  <Genus>Momotus</Genus>
+  <Species>aequatorialis</Species>
+  <Sub-species />
+  <VernacularNames>Andean Motmot</VernacularNames>
+</Audio>

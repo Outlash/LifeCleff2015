@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>21530</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN21530.wav</FileName>
+  <ClassId>fkjcci</ClassId>
+  <Date>2011-03-15</Date>
+  <Time>20:00</Time>
+  <Locality>Bachaquero</Locality>
+  <Latitude>9.9039</Latitude>
+  <Longitude>-71.1039</Longitude>
+  <Elevation>0</Elevation>
+  <Author>Albert Lastukhin</Author>
+  <AuthorID>LELYWQKUZX</AuthorID>
+  <Content>call</Content>
+  <Comments>bird-seen:noplayback-used:no</Comments>
+  <Quality>3</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Strigiformes</Order>
+  <Family>Strigidae</Family>
+  <Genus>Strix</Genus>
+  <Species>virgata</Species>
+  <Sub-species />
+  <VernacularNames>Mottled Owl</VernacularNames>
+</Audio>

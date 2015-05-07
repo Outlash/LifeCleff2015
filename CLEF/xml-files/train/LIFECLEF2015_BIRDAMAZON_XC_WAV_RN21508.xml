@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>21508</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN21508.wav</FileName>
+  <ClassId>zcwqjv</ClassId>
+  <Date>2011-03-07</Date>
+  <Time>07:25</Time>
+  <Locality>Foengoe Island, Coppename River</Locality>
+  <Latitude>4.725</Latitude>
+  <Longitude>-56.206</Longitude>
+  <Elevation>60</Elevation>
+  <Author>Daniel Lane</Author>
+  <AuthorID>WOEAFQRMUD</AuthorID>
+  <Content>flight call</Content>
+  <Comments>Natural flight calls from group of three overflying canopy by airstrip.</Comments>
+  <Quality>2</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies>Ramphocaenus melanurus</BackgroundSpecies>
+  <Order>Psittaciformes</Order>
+  <Family>Psittacidae</Family>
+  <Genus>Ara</Genus>
+  <Species>ararauna</Species>
+  <Sub-species />
+  <VernacularNames>Blue-and-yellow Macaw</VernacularNames>
+</Audio>

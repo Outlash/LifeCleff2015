@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>22296</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN22296.wav</FileName>
+  <ClassId>ytwsmv</ClassId>
+  <Date>2007-01-13</Date>
+  <Time>11:50</Time>
+  <Locality>Barinas, San Isidro Tunnel Road</Locality>
+  <Latitude>8.8501</Latitude>
+  <Longitude>-70.5667</Longitude>
+  <Elevation>?</Elevation>
+  <Author>Andrew Spencer</Author>
+  <AuthorID>CDTGHVBGZP</AuthorID>
+  <Content>song</Content>
+  <Comments>noisy waterfall in the background</Comments>
+  <Quality>3</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Piciformes</Order>
+  <Family>Ramphastidae</Family>
+  <Genus>Aulacorhynchus</Genus>
+  <Species>sulcatus</Species>
+  <Sub-species>calorhynchus</Sub-species>
+  <VernacularNames>Groove-billed Toucanet</VernacularNames>
+</Audio>

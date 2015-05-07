@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>15620</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN15620.wav</FileName>
+  <ClassId>gzfudv</ClassId>
+  <Date>2013-03-04</Date>
+  <Time>09:00</Time>
+  <Locality>Puerto Lopez, Meta</Locality>
+  <Latitude>4.1809</Latitude>
+  <Longitude>-72.9136</Longitude>
+  <Elevation>170</Elevation>
+  <Author>Oswaldo Cortes</Author>
+  <AuthorID>VVDRVZCVWW</AuthorID>
+  <Content>flight call</Content>
+  <Comments>bird-seen:yesplayback-used:no</Comments>
+  <Quality>1</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Psittaciformes</Order>
+  <Family>Psittacidae</Family>
+  <Genus>Orthopsittaca</Genus>
+  <Species>manilatus</Species>
+  <Sub-species />
+  <VernacularNames>Red-bellied Macaw</VernacularNames>
+</Audio>

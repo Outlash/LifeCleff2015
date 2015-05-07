@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>7722</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN7722.wav</FileName>
+  <ClassId>ajwuzt</ClassId>
+  <Date>1993-11-18</Date>
+  <Time>?</Time>
+  <Locality>South of Pixaim, Mato Grosso</Locality>
+  <Latitude>-16.7626</Latitude>
+  <Longitude>-56.8528</Longitude>
+  <Elevation>115</Elevation>
+  <Author>Allen T. Chartier</Author>
+  <AuthorID>AZXTZTQJRO</AuthorID>
+  <Content>Song</Content>
+  <Comments>Leptotila sp. in background</Comments>
+  <Quality>4</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Cardinalidae</Family>
+  <Genus>Saltator</Genus>
+  <Species>coerulescens</Species>
+  <Sub-species>coerulescens?</Sub-species>
+  <VernacularNames>Greyish Saltator</VernacularNames>
+</Audio>

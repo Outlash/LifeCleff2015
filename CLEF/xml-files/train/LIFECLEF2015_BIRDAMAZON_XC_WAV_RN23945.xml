@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>23945</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN23945.wav</FileName>
+  <ClassId>qwmkxk</ClassId>
+  <Date>2014-05-20</Date>
+  <Time>17:00</Time>
+  <Locality>Serra da Piedade, Caeté, Minas Gerais</Locality>
+  <Latitude>-19.8086</Latitude>
+  <Longitude>-43.6527</Longitude>
+  <Elevation>1200</Elevation>
+  <Author>Luiz Gabriel Mazzoni</Author>
+  <AuthorID>MPOKMOFDDX</AuthorID>
+  <Content>song</Content>
+  <Comments>Marsh.bird-seen:yesplayback-used:yes</Comments>
+  <Quality>1</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Gruiformes</Order>
+  <Family>Rallidae</Family>
+  <Genus>Laterallus</Genus>
+  <Species>leucopyrrhus</Species>
+  <Sub-species />
+  <VernacularNames>Red-and-white Crake</VernacularNames>
+</Audio>

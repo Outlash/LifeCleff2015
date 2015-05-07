@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>7738</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN7738.wav</FileName>
+  <ClassId>aeqwqe</ClassId>
+  <Date>2009-12-10</Date>
+  <Time>05:42</Time>
+  <Locality>São Sebastião das Águas Claras, Nova Lima, Minas Gerais State</Locality>
+  <Latitude>NULL</Latitude>
+  <Longitude>NULL</Longitude>
+  <Elevation>1.280</Elevation>
+  <Author>Helberth Cardoso</Author>
+  <AuthorID>XIRUVWSNEN</AuthorID>
+  <Content>Song</Content>
+  <Comments>Male song</Comments>
+  <Quality>1</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Thamnophilidae</Family>
+  <Genus>Herpsilochmus</Genus>
+  <Species>atricapillus</Species>
+  <Sub-species />
+  <VernacularNames>Black-capped Antwren</VernacularNames>
+</Audio>

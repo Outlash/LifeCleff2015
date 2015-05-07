@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>7274</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN7274.wav</FileName>
+  <ClassId>yjatvw</ClassId>
+  <Date>2009-08-05</Date>
+  <Time>19:10</Time>
+  <Locality>Reservatório do Guarapiranga, São Paulo, SP</Locality>
+  <Latitude>-23.7192</Latitude>
+  <Longitude>-46.717</Longitude>
+  <Elevation>760</Elevation>
+  <Author>Marcos Melo</Author>
+  <AuthorID>MRGDYNJGUJ</AuthorID>
+  <Content>song</Content>
+  <Comments />
+  <Quality>1</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies />
+  <Order>Strigiformes</Order>
+  <Family>Strigidae</Family>
+  <Genus>Pseudoscops</Genus>
+  <Species>clamator</Species>
+  <Sub-species />
+  <VernacularNames>Striped Owl</VernacularNames>
+</Audio>

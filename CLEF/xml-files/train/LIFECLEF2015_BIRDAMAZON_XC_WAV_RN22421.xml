@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>22421</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN22421.wav</FileName>
+  <ClassId>uphahj</ClassId>
+  <Date>1998-07-18</Date>
+  <Time>15:30</Time>
+  <Locality>Finca La Selva (Quebrada San Jose), sobre Toche, Cajamarca, Tolima</Locality>
+  <Latitude>NULL</Latitude>
+  <Longitude>NULL</Longitude>
+  <Elevation>2600</Elevation>
+  <Author>Bernabe Lopez-Lanus</Author>
+  <AuthorID>BYLLSJRVDZ</AuthorID>
+  <Content>Alarm call</Content>
+  <Comments />
+  <Quality>2</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Accipitriformes</Order>
+  <Family>Accipitridae</Family>
+  <Genus>Rupornis</Genus>
+  <Species>magnirostris</Species>
+  <Sub-species>magnirostris</Sub-species>
+  <VernacularNames>Roadside Hawk</VernacularNames>
+</Audio>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>3993</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN3993.wav</FileName>
+  <ClassId>mxeleb</ClassId>
+  <Date>2010-05-19</Date>
+  <Time>10:49</Time>
+  <Locality>Pantanal do Miranda - MS</Locality>
+  <Latitude>-19.5512</Latitude>
+  <Longitude>-57.012</Longitude>
+  <Elevation>100</Elevation>
+  <Author>Renan Campos de Oliveira</Author>
+  <AuthorID>SDARDTGGWP</AuthorID>
+  <Content>call</Content>
+  <Comments />
+  <Quality>1</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies />
+  <Order>Psittaciformes</Order>
+  <Family>Psittacidae</Family>
+  <Genus>Myiopsitta</Genus>
+  <Species>monachus</Species>
+  <Sub-species />
+  <VernacularNames>Monk Parakeet</VernacularNames>
+</Audio>

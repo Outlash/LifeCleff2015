@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>20940</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN20940.wav</FileName>
+  <ClassId>bfwanm</ClassId>
+  <Date>2008-05-04</Date>
+  <Time>09:30</Time>
+  <Locality>Finca el Vergel, Vereda Toche, limite entre Cajamarca y Salento  entre Quindio y Tolima</Locality>
+  <Latitude>4.6432</Latitude>
+  <Longitude>-75.4131</Longitude>
+  <Elevation>3500</Elevation>
+  <Author>Oscar Humberto Marin-Gomez</Author>
+  <AuthorID>CSUHASNRSU</AuthorID>
+  <Content>call</Content>
+  <Comments>Ref OHM025B 2046. Dos individuos en plantación n de Aliso.  Vocalización Natural. Camino hacia la Primavera. Grabaciones realizadas en compañía de Diego Duque Montoya.bird-seen:yesplayback-used:no</Comments>
+  <Quality>3</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Galliformes</Order>
+  <Family>Cracidae</Family>
+  <Genus>Penelope</Genus>
+  <Species>montagnii</Species>
+  <Sub-species />
+  <VernacularNames>Andean Guan</VernacularNames>
+</Audio>

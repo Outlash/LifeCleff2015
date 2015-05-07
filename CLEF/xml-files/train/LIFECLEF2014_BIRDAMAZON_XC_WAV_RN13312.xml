@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>13312</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN13312.wav</FileName>
+  <ClassId>tyqwsc</ClassId>
+  <Date>2009-06-03</Date>
+  <Time>06:50</Time>
+  <Locality>Right bank of Rio Teles Pires, Jacareacanga, Para</Locality>
+  <Latitude>-9.3109</Latitude>
+  <Longitude>-56.7781</Longitude>
+  <Elevation>190</Elevation>
+  <Author>Guilherme R R Brito</Author>
+  <AuthorID>OAYOBWYOOM</AuthorID>
+  <Content>song</Content>
+  <Comments>discussed in the mysteries page (cat.n 1054)</Comments>
+  <Quality>2</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies>Trogon collaris,Xiphorhynchus guttatus,Hylophilus semicinereus,Myiornis ecaudatus,Crypturellus strigulosus</BackgroundSpecies>
+  <Order>Passeriformes</Order>
+  <Family>Troglodytidae</Family>
+  <Genus>Odontorchilus</Genus>
+  <Species>cinereus</Species>
+  <Sub-species />
+  <VernacularNames>Tooth-billed Wren</VernacularNames>
+</Audio>

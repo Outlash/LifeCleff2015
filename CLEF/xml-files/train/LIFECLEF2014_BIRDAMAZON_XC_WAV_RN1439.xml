@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>1439</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN1439.wav</FileName>
+  <ClassId>tovyzm</ClassId>
+  <Date>2013-08-04</Date>
+  <Time>11:00</Time>
+  <Locality>São José dos Campos, São Paulo</Locality>
+  <Latitude>-23.0726</Latitude>
+  <Longitude>-45.9388</Longitude>
+  <Elevation>700</Elevation>
+  <Author>Rodrigo Dela Rosa</Author>
+  <AuthorID>VGXDJMKETZ</AuthorID>
+  <Content>call, song</Content>
+  <Comments>bird-seen:yesplayback-used:yes</Comments>
+  <Quality>2</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies />
+  <Order>Accipitriformes</Order>
+  <Family>Accipitridae</Family>
+  <Genus>Spizaetus</Genus>
+  <Species>tyrannus</Species>
+  <Sub-species />
+  <VernacularNames>Black Hawk-Eagle</VernacularNames>
+</Audio>

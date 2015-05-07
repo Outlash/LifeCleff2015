@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>9520</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN9520.wav</FileName>
+  <ClassId>ewisum</ClassId>
+  <Date>2006-04-26</Date>
+  <Time>7:00</Time>
+  <Locality>Andarai, Bahia.</Locality>
+  <Latitude>-12.772</Latitude>
+  <Longitude>-41.3159</Longitude>
+  <Elevation>?</Elevation>
+  <Author>Sidnei S. dos Santos</Author>
+  <AuthorID>BHODJXTHGQ</AuthorID>
+  <Content>Call, Song</Content>
+  <Comments>After playback</Comments>
+  <Quality>0</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Parulidae</Family>
+  <Genus>Basileuterus</Genus>
+  <Species>culicivorus</Species>
+  <Sub-species />
+  <VernacularNames>Golden-crowned Warbler</VernacularNames>
+</Audio>

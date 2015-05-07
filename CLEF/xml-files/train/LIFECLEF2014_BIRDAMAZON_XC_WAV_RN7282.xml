@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>7282</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN7282.wav</FileName>
+  <ClassId>pprfie</ClassId>
+  <Date>2004-01-07</Date>
+  <Time>10am</Time>
+  <Locality>Santo Antonio do Pinhal-São Paulo State</Locality>
+  <Latitude>-22.854</Latitude>
+  <Longitude>-45.671</Longitude>
+  <Elevation>1.270</Elevation>
+  <Author>Antonio Silveira</Author>
+  <AuthorID>NBJQSQJRYH</AuthorID>
+  <Content>song</Content>
+  <Comments />
+  <Quality>1</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Vireonidae</Family>
+  <Genus>Cyclarhis</Genus>
+  <Species>gujanensis</Species>
+  <Sub-species />
+  <VernacularNames>Rufous-browed Peppershrike</VernacularNames>
+</Audio>

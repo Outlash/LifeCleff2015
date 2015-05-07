@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>22291</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN22291.wav</FileName>
+  <ClassId>bnwtxt</ClassId>
+  <Date>2005-10-27</Date>
+  <Time>16:30</Time>
+  <Locality>Serra dos Carajás. Rio Itacaiúnas</Locality>
+  <Latitude>-5.8667</Latitude>
+  <Longitude>-50.4834</Longitude>
+  <Elevation>170</Elevation>
+  <Author>Jeremy Minns</Author>
+  <AuthorID>DGVLLRYDXS</AuthorID>
+  <Content>Call</Content>
+  <Comments>Open area in terra firme forest.Two birds perched in a cecropia.</Comments>
+  <Quality>0</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Piciformes</Order>
+  <Family>Galbulidae</Family>
+  <Genus>Brachygalba</Genus>
+  <Species>lugubris</Species>
+  <Sub-species>naumburgae</Sub-species>
+  <VernacularNames>Brown Jacamar</VernacularNames>
+</Audio>

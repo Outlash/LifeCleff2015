@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>17694</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN17694.wav</FileName>
+  <ClassId>ssjqni</ClassId>
+  <Date>2014-01-31</Date>
+  <Time>10:30</Time>
+  <Locality>Sabanitas, Inirida, Guainia</Locality>
+  <Latitude>3.8809</Latitude>
+  <Longitude>-67.8813</Longitude>
+  <Elevation>90</Elevation>
+  <Author>Ottavio Janni</Author>
+  <AuthorID>PWMAZXONXH</AuthorID>
+  <Content>call</Content>
+  <Comments>Calls from small flock, probably a family party. A female Black-chinned Antbird also seemed to be associating with this flock. In tall white-sand forest.bird-seen:yesplayback-used:no</Comments>
+  <Quality>0</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Thamnophilidae</Family>
+  <Genus>Myrmotherula</Genus>
+  <Species>axillaris</Species>
+  <Sub-species />
+  <VernacularNames>White-flanked Antwren</VernacularNames>
+</Audio>

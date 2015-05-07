@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>12621</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN12621.wav</FileName>
+  <ClassId>vumzkv</ClassId>
+  <Date>2009-01-21</Date>
+  <Time>5:44</Time>
+  <Locality>RPPN Serra Bonita, Camacan, Bahia</Locality>
+  <Latitude>NULL</Latitude>
+  <Longitude>NULL</Longitude>
+  <Elevation>650</Elevation>
+  <Author>Sidnei S. dos Santos</Author>
+  <AuthorID>BHODJXTHGQ</AuthorID>
+  <Content>Song</Content>
+  <Comments>Resposta a playback</Comments>
+  <Quality>2</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Furnariidae</Family>
+  <Genus>Cichlocolaptes</Genus>
+  <Species>leucophrus</Species>
+  <Sub-species />
+  <VernacularNames>Pale-browed Treehunter</VernacularNames>
+</Audio>

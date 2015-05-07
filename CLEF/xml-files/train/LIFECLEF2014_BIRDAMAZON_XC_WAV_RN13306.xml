@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>13306</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN13306.wav</FileName>
+  <ClassId>fxwyhh</ClassId>
+  <Date>2010-07-23</Date>
+  <Time>08:00</Time>
+  <Locality>Presidente Figueiredo, Amazonas</Locality>
+  <Latitude>-2.028</Latitude>
+  <Longitude>-59.997</Longitude>
+  <Elevation>50</Elevation>
+  <Author>Marcos Melo</Author>
+  <AuthorID>MRGDYNJGUJ</AuthorID>
+  <Content>call</Content>
+  <Comments />
+  <Quality>3</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies>Patagioenas plumbea</BackgroundSpecies>
+  <Order>Passeriformes</Order>
+  <Family>Tyrannidae</Family>
+  <Genus>Platyrinchus</Genus>
+  <Species>platyrhynchos</Species>
+  <Sub-species />
+  <VernacularNames>White-crested Spadebill</VernacularNames>
+</Audio>

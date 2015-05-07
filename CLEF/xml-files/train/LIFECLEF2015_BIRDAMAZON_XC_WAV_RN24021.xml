@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>24021</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN24021.wav</FileName>
+  <ClassId>ngukgn</ClassId>
+  <Date>2013-06-13</Date>
+  <Time>09:04</Time>
+  <Locality>Ecolodge El Almejal</Locality>
+  <Latitude>6.1133</Latitude>
+  <Longitude>-77.4336</Longitude>
+  <Elevation>120</Elevation>
+  <Author>Nick Athanas</Author>
+  <AuthorID>XRABICUARW</AuthorID>
+  <Content>song</Content>
+  <Comments>A complete song. I lost a lot of blood while making this recording... [Link to photo of the same bird in this recording](http://antpitta.com/images/photos/wrens/Scaly-breasted-Wren-almejal_9331.jpg)bird-seen:yesplayback-used:yes</Comments>
+  <Quality>1</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies>Patagioenas goodsoni,Pteroglossus sanguineus,Myrmeciza exsul,Pyrilia pulchra,Notharchus pectoralis</BackgroundSpecies>
+  <Order>Passeriformes</Order>
+  <Family>Troglodytidae</Family>
+  <Genus>Microcerculus</Genus>
+  <Species>marginatus</Species>
+  <Sub-species>occidentalis</Sub-species>
+  <VernacularNames>Southern Nightingale-Wren</VernacularNames>
+</Audio>

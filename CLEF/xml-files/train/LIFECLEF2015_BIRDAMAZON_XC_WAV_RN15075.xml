@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>15075</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN15075.wav</FileName>
+  <ClassId>hijhrx</ClassId>
+  <Date>1999-09-02</Date>
+  <Time>night</Time>
+  <Locality>Finca La Rivera, Roncesvalles, Tolima</Locality>
+  <Latitude>NULL</Latitude>
+  <Longitude>NULL</Longitude>
+  <Elevation>2800</Elevation>
+  <Author>Bernabe Lopez-Lanus</Author>
+  <AuthorID>BYLLSJRVDZ</AuthorID>
+  <Content>Call</Content>
+  <Comments />
+  <Quality>1</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Strigiformes</Order>
+  <Family>Strigidae</Family>
+  <Genus>Megascops</Genus>
+  <Species>choliba</Species>
+  <Sub-species>cruciger</Sub-species>
+  <VernacularNames>Tropical Screech Owl</VernacularNames>
+</Audio>

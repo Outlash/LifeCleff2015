@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>32536</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN32536.wav</FileName>
+  <ClassId>iazbts</ClassId>
+  <Date>2008-06-29</Date>
+  <Time>?:?</Time>
+  <Locality>Mana, village</Locality>
+  <Latitude>5.656985</Latitude>
+  <Longitude>-53.774986</Longitude>
+  <Elevation>2</Elevation>
+  <Author>Alexandre Renaudier</Author>
+  <AuthorID>GKADEITXTH</AuthorID>
+  <Content>?</Content>
+  <Comments>natural recording</Comments>
+  <Quality>1</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies>Columbina passerina</BackgroundSpecies>
+  <Order>Passeriformes</Order>
+  <Family>Icteridae</Family>
+  <Genus>Quiscalus</Genus>
+  <Species>lugubris</Species>
+  <Sub-species>lugubris</Sub-species>
+  <VernacularNames>Carib Grackle</VernacularNames>
+</Audio>

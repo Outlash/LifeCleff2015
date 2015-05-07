@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>28832</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN28832.wav</FileName>
+  <ClassId>wlxghh</ClassId>
+  <Date>2007-01-02</Date>
+  <Time>07:30</Time>
+  <Locality>Capuchinbird Road, Bolivar</Locality>
+  <Latitude>NULL</Latitude>
+  <Longitude>NULL</Longitude>
+  <Elevation>?</Elevation>
+  <Author>Andrew Spencer</Author>
+  <AuthorID>CDTGHVBGZP</AuthorID>
+  <Content>lekking</Content>
+  <Comments>an alternate song type, perhaps given in response to playback?</Comments>
+  <Quality>2</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Cotingidae</Family>
+  <Genus>Perissocephalus</Genus>
+  <Species>tricolor</Species>
+  <Sub-species />
+  <VernacularNames>Capuchinbird</VernacularNames>
+</Audio>

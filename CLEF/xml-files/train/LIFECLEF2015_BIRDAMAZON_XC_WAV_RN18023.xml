@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>18023</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN18023.wav</FileName>
+  <ClassId>uxuaio</ClassId>
+  <Date>2014-03-14</Date>
+  <Time>09:30</Time>
+  <Locality>Macanal, Boyaca</Locality>
+  <Latitude>4.9761</Latitude>
+  <Longitude>-73.3034</Longitude>
+  <Elevation>1900</Elevation>
+  <Author>Juan Sebastián León Lleras</Author>
+  <AuthorID>KURCGJCGSW</AuthorID>
+  <Content>song</Content>
+  <Comments>bird-seen:yesplayback-used:no</Comments>
+  <Quality>2</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Troglodytidae</Family>
+  <Genus>Pheugopedius</Genus>
+  <Species>mystacalis</Species>
+  <Sub-species />
+  <VernacularNames>Whiskered Wren</VernacularNames>
+</Audio>

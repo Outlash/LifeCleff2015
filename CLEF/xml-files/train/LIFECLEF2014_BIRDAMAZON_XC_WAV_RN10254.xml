@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>10254</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN10254.wav</FileName>
+  <ClassId>vvhcgg</ClassId>
+  <Date>2009-11-22</Date>
+  <Time>?</Time>
+  <Locality>Bom Jardim da Serra, Santa Catarina</Locality>
+  <Latitude>-28.4673</Latitude>
+  <Longitude>-49.6125</Longitude>
+  <Elevation>1400</Elevation>
+  <Author>Adrian Eisen Rupp</Author>
+  <AuthorID>AOPMSCIDIA</AuthorID>
+  <Content>song</Content>
+  <Comments />
+  <Quality>1</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies>Stephanophorus diadematus</BackgroundSpecies>
+  <Order>Passeriformes</Order>
+  <Family>Thraupidae</Family>
+  <Genus>Poospiza</Genus>
+  <Species>cabanisi</Species>
+  <Sub-species />
+  <VernacularNames>Grey-throated Warbling Finch</VernacularNames>
+</Audio>

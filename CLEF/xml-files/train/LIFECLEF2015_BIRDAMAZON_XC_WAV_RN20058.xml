@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>20058</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN20058.wav</FileName>
+  <ClassId>xdszwe</ClassId>
+  <Date>2011-06-12</Date>
+  <Time>07:10</Time>
+  <Locality>Saül</Locality>
+  <Latitude>3.6167</Latitude>
+  <Longitude>-53.2001</Longitude>
+  <Elevation>230</Elevation>
+  <Author>Patrick Ingremeau</Author>
+  <AuthorID>IIVTYSKEYX</AuthorID>
+  <Content>call ?</Content>
+  <Comments />
+  <Quality>1</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies>Psarocolius viridis</BackgroundSpecies>
+  <Order>Psittaciformes</Order>
+  <Family>Psittacidae</Family>
+  <Genus>Ara</Genus>
+  <Species>severus</Species>
+  <Sub-species />
+  <VernacularNames>Chestnut-fronted Macaw</VernacularNames>
+</Audio>

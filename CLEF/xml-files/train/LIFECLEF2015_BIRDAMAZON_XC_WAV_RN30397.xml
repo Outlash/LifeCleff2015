@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>30397</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN30397.wav</FileName>
+  <ClassId>cpzzjy</ClassId>
+  <Date>2011-01-23</Date>
+  <Time>9am</Time>
+  <Locality>Comandatuba Island, Una,Bahia, Brazil</Locality>
+  <Latitude>-15.355</Latitude>
+  <Longitude>-38.982</Longitude>
+  <Elevation>0</Elevation>
+  <Author>Antonio Silveira</Author>
+  <AuthorID>NBJQSQJRYH</AuthorID>
+  <Content>male, song</Content>
+  <Comments>bird-seen:yesplayback-used:no</Comments>
+  <Quality>0</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Mimidae</Family>
+  <Genus>Mimus</Genus>
+  <Species>gilvus</Species>
+  <Sub-species />
+  <VernacularNames>Tropical Mockingbird</VernacularNames>
+</Audio>

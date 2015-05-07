@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>7836</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN7836.wav</FileName>
+  <ClassId>jcyhxm</ClassId>
+  <Date>2012-09-03</Date>
+  <Time>10am</Time>
+  <Locality>Botanic Garden of São Paulo, São Paulo State,Brazil</Locality>
+  <Latitude>-23.639</Latitude>
+  <Longitude>-46.619</Longitude>
+  <Elevation>700</Elevation>
+  <Author>Antonio Silveira</Author>
+  <AuthorID>NBJQSQJRYH</AuthorID>
+  <Content>song</Content>
+  <Comments />
+  <Quality>2</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies />
+  <Order>Piciformes</Order>
+  <Family>Picidae</Family>
+  <Genus>Celeus</Genus>
+  <Species>flavescens</Species>
+  <Sub-species />
+  <VernacularNames>Blond-crested Woodpecker</VernacularNames>
+</Audio>

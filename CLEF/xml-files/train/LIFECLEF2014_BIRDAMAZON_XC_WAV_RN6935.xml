@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>6935</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN6935.wav</FileName>
+  <ClassId>ciptfb</ClassId>
+  <Date>2005-12-26</Date>
+  <Time>04:50</Time>
+  <Locality>Porteiras, Altinho, Pernambuco</Locality>
+  <Latitude>-8.3</Latitude>
+  <Longitude>-37.75</Longitude>
+  <Elevation>340</Elevation>
+  <Author>Glauco Alves Pereira</Author>
+  <AuthorID>ZWEROGGYVP</AuthorID>
+  <Content>song</Content>
+  <Comments />
+  <Quality>0</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies>Nystalus maculatus,Tapera naevia</BackgroundSpecies>
+  <Order>Passeriformes</Order>
+  <Family>Thraupidae</Family>
+  <Genus>Paroaria</Genus>
+  <Species>dominicana</Species>
+  <Sub-species />
+  <VernacularNames>Red-cowled Cardinal</VernacularNames>
+</Audio>

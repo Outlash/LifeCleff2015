@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>1471</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN1471.wav</FileName>
+  <ClassId>ifsjcq</ClassId>
+  <Date>2006-05-21</Date>
+  <Time>10:37</Time>
+  <Locality>Massambará/Vassouras RJ</Locality>
+  <Latitude>-22.398332</Latitude>
+  <Longitude>-43.673744</Longitude>
+  <Elevation>434</Elevation>
+  <Author>Rodolfo Eller</Author>
+  <AuthorID>CZFOSLNGBO</AuthorID>
+  <Content>call</Content>
+  <Comments>score for whole recording</Comments>
+  <Quality>4</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Emberizidae</Family>
+  <Genus>Ammodramus</Genus>
+  <Species>humeralis</Species>
+  <Sub-species />
+  <VernacularNames>Grassland Sparrow</VernacularNames>
+</Audio>

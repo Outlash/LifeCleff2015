@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>13195</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN13195.wav</FileName>
+  <ClassId>nipfbr</ClassId>
+  <Date>2012-07-15</Date>
+  <Time>13:49</Time>
+  <Locality>Assentamentos no pé da Serra Grande-Pão de Açúcar-alagoas-Brasil</Locality>
+  <Latitude>-9.661</Latitude>
+  <Longitude>-37.412</Longitude>
+  <Elevation>200</Elevation>
+  <Author>pedroteia</Author>
+  <AuthorID>BZVNDWLRSQ</AuthorID>
+  <Content>song</Content>
+  <Comments>estava bem proximo do esconderijo que fiz</Comments>
+  <Quality>2</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Furnariidae</Family>
+  <Genus>Synallaxis</Genus>
+  <Species>frontalis</Species>
+  <Sub-species />
+  <VernacularNames>Sooty-fronted Spinetail</VernacularNames>
+</Audio>

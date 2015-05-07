@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>139</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN139.wav</FileName>
+  <ClassId>bcbkld</ClassId>
+  <Date>2010-02-11</Date>
+  <Time>?</Time>
+  <Locality>RPPN Prima Luna, Nova Trento, Santa Catarina</Locality>
+  <Latitude>-27.258</Latitude>
+  <Longitude>-49.02</Longitude>
+  <Elevation>550</Elevation>
+  <Author>Evair Legal</Author>
+  <AuthorID>SMJXFKLATM</AuthorID>
+  <Content>song</Content>
+  <Comments />
+  <Quality>1</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies>Attila phoenicurus</BackgroundSpecies>
+  <Order>Passeriformes</Order>
+  <Family>Furnariidae</Family>
+  <Genus>Xenops</Genus>
+  <Species>rutilans</Species>
+  <Sub-species />
+  <VernacularNames>Streaked Xenops</VernacularNames>
+</Audio>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>27950</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN27950.wav</FileName>
+  <ClassId>kvowbh</ClassId>
+  <Date>2010-07-14</Date>
+  <Time>?</Time>
+  <Locality>Roura, Montagne Maripa</Locality>
+  <Latitude>4.442</Latitude>
+  <Longitude>-52.368</Longitude>
+  <Elevation>20</Elevation>
+  <Author>Alexandre Renaudier</Author>
+  <AuthorID>GKADEITXTH</AuthorID>
+  <Content>song</Content>
+  <Comments>natural recording</Comments>
+  <Quality>2</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies>Saltator grossus,Trogon viridis,Trogon melanurus</BackgroundSpecies>
+  <Order>Passeriformes</Order>
+  <Family>Thamnophilidae</Family>
+  <Genus>Myrmeciza</Genus>
+  <Species>ferruginea</Species>
+  <Sub-species>ferruginea</Sub-species>
+  <VernacularNames>Ferruginous-backed Antbird</VernacularNames>
+</Audio>

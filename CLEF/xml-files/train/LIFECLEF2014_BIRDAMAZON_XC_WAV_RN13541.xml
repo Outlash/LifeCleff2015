@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>13541</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN13541.wav</FileName>
+  <ClassId>nlducw</ClassId>
+  <Date>2006-11-16</Date>
+  <Time>10:30</Time>
+  <Locality>Hotel Donati, Itatiaia NP, Rio de Janeiro state</Locality>
+  <Latitude>-22.4334</Latitude>
+  <Longitude>-44.6334</Longitude>
+  <Elevation>950</Elevation>
+  <Author>Daniel Lane</Author>
+  <AuthorID>WOEAFQRMUD</AuthorID>
+  <Content>daytime song</Content>
+  <Comments>Natural daytime song from a a bird 2-8m up, actively foraging. Sitting on dead branches below canopy of broken woodland on hotel grounds.</Comments>
+  <Quality>2</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies>Todirostrum poliocephalum,Cacicus haemorrhous,Megarynchus pitangua,Thraupis palmarum,Myiozetetes similis,Brotogeris tirica,Cyclarhis gujanensis,Cranioleuca pallida</BackgroundSpecies>
+  <Order>Passeriformes</Order>
+  <Family>Tyrannidae</Family>
+  <Genus>Contopus</Genus>
+  <Species>cinereus</Species>
+  <Sub-species>cinereus</Sub-species>
+  <VernacularNames>Tropical Pewee</VernacularNames>
+</Audio>

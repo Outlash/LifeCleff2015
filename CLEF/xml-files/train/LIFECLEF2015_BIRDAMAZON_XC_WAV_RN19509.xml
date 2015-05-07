@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>19509</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN19509.wav</FileName>
+  <ClassId>cyghvw</ClassId>
+  <Date>2012-03-16</Date>
+  <Time>18:00</Time>
+  <Locality>Urussanga, Santa Catarina</Locality>
+  <Latitude>-28.5186</Latitude>
+  <Longitude>-49.3243</Longitude>
+  <Elevation>60</Elevation>
+  <Author>João Antônio de B. Vitto</Author>
+  <AuthorID>RIVNLYTULO</AuthorID>
+  <Content>call</Content>
+  <Comments>bird-seen:noplayback-used:no</Comments>
+  <Quality>3</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Falconiformes</Order>
+  <Family>Falconidae</Family>
+  <Genus>Micrastur</Genus>
+  <Species>semitorquatus</Species>
+  <Sub-species />
+  <VernacularNames>Collared Forest Falcon</VernacularNames>
+</Audio>

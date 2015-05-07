@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>14719</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN14719.wav</FileName>
+  <ClassId>swkumm</ClassId>
+  <Date>2010-01-17</Date>
+  <Time>7:50</Time>
+  <Locality>Manaure, Cesar. Serranía Perija</Locality>
+  <Latitude>NULL</Latitude>
+  <Longitude>NULL</Longitude>
+  <Elevation>650</Elevation>
+  <Author>Pablo Florez</Author>
+  <AuthorID>ISWBQKPBGS</AuthorID>
+  <Content>?</Content>
+  <Comments />
+  <Quality>1</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Thraupidae</Family>
+  <Genus>Rhodinocichla</Genus>
+  <Species>rosea</Species>
+  <Sub-species />
+  <VernacularNames>Rosy Thrush-Tanager</VernacularNames>
+</Audio>

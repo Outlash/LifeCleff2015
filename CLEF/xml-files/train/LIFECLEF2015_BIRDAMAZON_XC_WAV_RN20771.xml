@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>20771</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN20771.wav</FileName>
+  <ClassId>itupcv</ClassId>
+  <Date>2000-11-02</Date>
+  <Time>xx:xx</Time>
+  <Locality>San Lorenzo arriba (PNN Sierra Nevada de Santa Marta), Vereda San Lorenzo, Mpio San Lorenzo, Magdalena</Locality>
+  <Latitude>NULL</Latitude>
+  <Longitude>NULL</Longitude>
+  <Elevation>2300</Elevation>
+  <Author>Bernabe Lopez-Lanus</Author>
+  <AuthorID>BYLLSJRVDZ</AuthorID>
+  <Content>Song</Content>
+  <Comments />
+  <Quality>0</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Furnariidae</Family>
+  <Genus>Synallaxis</Genus>
+  <Species>fuscorufa</Species>
+  <Sub-species />
+  <VernacularNames>Rusty-headed Spinetail</VernacularNames>
+</Audio>

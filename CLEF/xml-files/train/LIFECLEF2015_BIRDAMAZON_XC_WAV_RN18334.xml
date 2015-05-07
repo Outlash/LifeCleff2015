@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>18334</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN18334.wav</FileName>
+  <ClassId>oinzpv</ClassId>
+  <Date>1993-03-00</Date>
+  <Time>?</Time>
+  <Locality>Fazenda California, Bahia [I don't know the exact location]</Locality>
+  <Latitude>-10.9284</Latitude>
+  <Longitude>-38.7268</Longitude>
+  <Elevation>460</Elevation>
+  <Author>Frank Lambert</Author>
+  <AuthorID>YTUXOCTUEM</AuthorID>
+  <Content>call</Content>
+  <Comments>bird-seen:yes</Comments>
+  <Quality>2</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Corvidae</Family>
+  <Genus>Cyanocorax</Genus>
+  <Species>cyanopogon</Species>
+  <Sub-species />
+  <VernacularNames>White-naped Jay</VernacularNames>
+</Audio>

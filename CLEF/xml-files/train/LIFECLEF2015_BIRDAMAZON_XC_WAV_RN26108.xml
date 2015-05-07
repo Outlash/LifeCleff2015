@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>26108</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN26108.wav</FileName>
+  <ClassId>ynwbeg</ClassId>
+  <Date>2014-10-12</Date>
+  <Time>10:00</Time>
+  <Locality>Cristalino Jungle Lodge, MT</Locality>
+  <Latitude>-9.5981</Latitude>
+  <Longitude>-55.932</Longitude>
+  <Elevation>260</Elevation>
+  <Author>Andrew Spencer</Author>
+  <AuthorID>CDTGHVBGZP</AuthorID>
+  <Content>song</Content>
+  <Comments>song duet from a pair of birds perched near the top of a distant large tree in an area of deciduous forest on top of a rocky hill surrounded by primary rainforest.bird-seen:yesplayback-used:yes</Comments>
+  <Quality>1</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Piciformes</Order>
+  <Family>Bucconidae</Family>
+  <Genus>Notharchus</Genus>
+  <Species>ordii</Species>
+  <Sub-species />
+  <VernacularNames>Brown-banded Puffbird</VernacularNames>
+</Audio>

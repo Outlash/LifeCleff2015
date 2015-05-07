@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>775</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN775.wav</FileName>
+  <ClassId>cmcyuw</ClassId>
+  <Date>2011-09-04</Date>
+  <Time>06:15</Time>
+  <Locality>Pantanal Wildlife Center, MT</Locality>
+  <Latitude>-16.7581</Latitude>
+  <Longitude>-56.8764</Longitude>
+  <Elevation>110</Elevation>
+  <Author>Eric DeFonso</Author>
+  <AuthorID>KTLCZCRCQX</AuthorID>
+  <Content>song</Content>
+  <Comments>Several bursts of natural song. Habitat is gallery forest amid tropical deciduous woodland.bird-seen:yesplayback-used:no</Comments>
+  <Quality>1</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Troglodytidae</Family>
+  <Genus>Cantorchilus</Genus>
+  <Species>leucotis</Species>
+  <Sub-species />
+  <VernacularNames>Buff-breasted Wren</VernacularNames>
+</Audio>

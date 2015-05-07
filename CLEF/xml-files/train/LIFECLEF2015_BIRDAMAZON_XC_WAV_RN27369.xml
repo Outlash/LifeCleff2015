@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>27369</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN27369.wav</FileName>
+  <ClassId>vnhvbs</ClassId>
+  <Date>2004-06-12</Date>
+  <Time>?:?</Time>
+  <Locality>Cristalino Jungle Lodge, MT</Locality>
+  <Latitude>-9.5981</Latitude>
+  <Longitude>-55.932</Longitude>
+  <Elevation>240</Elevation>
+  <Author>Frank Lambert</Author>
+  <AuthorID>YTUXOCTUEM</AuthorID>
+  <Content>song</Content>
+  <Comments>Previously published on AVoCet as &lt;a href=http://avocet.zoology.msu.edu/recordings/10094&gt;AV10094&lt;/a&gt;.  Certainty: 100%.  ID determined by: not specifically indicated, recordist normally sees birds recorded and indicates if any question, matches XC cuts. GPS: Google Earth. could include calls</Comments>
+  <Quality>2</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Vireonidae</Family>
+  <Genus>Hylophilus</Genus>
+  <Species>hypoxanthus</Species>
+  <Sub-species />
+  <VernacularNames>Dusky-capped Greenlet</VernacularNames>
+</Audio>

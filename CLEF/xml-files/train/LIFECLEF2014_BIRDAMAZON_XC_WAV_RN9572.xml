@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>9572</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN9572.wav</FileName>
+  <ClassId>wbapfb</ClassId>
+  <Date>2013-03-22</Date>
+  <Time>15:30</Time>
+  <Locality>Rio de Janeiro, Itatiaia National Park</Locality>
+  <Latitude>-22.3</Latitude>
+  <Longitude>-44.6</Longitude>
+  <Elevation>1400</Elevation>
+  <Author>William Zaca</Author>
+  <AuthorID>QPVHQBUWGE</AuthorID>
+  <Content>song</Content>
+  <Comments>bird-seen:yesplayback-used:no</Comments>
+  <Quality>2</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Fringillidae</Family>
+  <Genus>Euphonia</Genus>
+  <Species>pectoralis</Species>
+  <Sub-species />
+  <VernacularNames>Chestnut-bellied Euphonia</VernacularNames>
+</Audio>

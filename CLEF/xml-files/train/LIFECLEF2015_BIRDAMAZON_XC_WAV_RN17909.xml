@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>17909</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN17909.wav</FileName>
+  <ClassId>tpirmi</ClassId>
+  <Date>2009-06-17</Date>
+  <Time>17:30</Time>
+  <Locality>Parque Regional Barbas-Bremen, Filandia, Quindio. Sector Barbas</Locality>
+  <Latitude>4.6717</Latitude>
+  <Longitude>-75.6283</Longitude>
+  <Elevation>1800</Elevation>
+  <Author>Oscar Humberto Marin-Gomez</Author>
+  <AuthorID>CSUHASNRSU</AuthorID>
+  <Content>song</Content>
+  <Comments>Ref: PNR Barbas 005A 0111. Bosque montano bajo. Vocalización Natural. Grabaciones realizadas junto con Pedro Jose Cardona Camacho.bird-seen:yesplayback-used:no</Comments>
+  <Quality>2</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Thraupidae</Family>
+  <Genus>Pipraeidea</Genus>
+  <Species>melanonota</Species>
+  <Sub-species />
+  <VernacularNames>Fawn-breasted Tanager</VernacularNames>
+</Audio>

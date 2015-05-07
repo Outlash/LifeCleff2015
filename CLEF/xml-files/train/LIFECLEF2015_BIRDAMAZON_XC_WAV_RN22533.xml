@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>22533</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN22533.wav</FileName>
+  <ClassId>azkncx</ClassId>
+  <Date>2010-11-18</Date>
+  <Time>?</Time>
+  <Locality>Karasabai</Locality>
+  <Latitude>4.0334</Latitude>
+  <Longitude>-59.5334</Longitude>
+  <Elevation>?</Elevation>
+  <Author>Alexandre Renaudier</Author>
+  <AuthorID>GKADEITXTH</AuthorID>
+  <Content>flight call</Content>
+  <Comments>4 birds in flight</Comments>
+  <Quality>2</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies>Mimus gilvus,Campylorhynchus griseus</BackgroundSpecies>
+  <Order>Psittaciformes</Order>
+  <Family>Psittacidae</Family>
+  <Genus>Amazona</Genus>
+  <Species>ochrocephala</Species>
+  <Sub-species />
+  <VernacularNames>Yellow-crowned Amazon</VernacularNames>
+</Audio>

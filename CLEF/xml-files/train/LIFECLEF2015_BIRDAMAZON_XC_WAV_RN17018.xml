@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>17018</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN17018.wav</FileName>
+  <ClassId>cvyifz</ClassId>
+  <Date>2013-10-09</Date>
+  <Time>08:00</Time>
+  <Locality>Capanema, Parana</Locality>
+  <Latitude>-25.692</Latitude>
+  <Longitude>-53.8</Longitude>
+  <Elevation>360</Elevation>
+  <Author>André J. PIeri</Author>
+  <AuthorID>MQVGMZQRIN</AuthorID>
+  <Content>alarm call, male, song</Content>
+  <Comments />
+  <Quality>1</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Cardinalidae</Family>
+  <Genus>Habia</Genus>
+  <Species>rubica</Species>
+  <Sub-species>rubica</Sub-species>
+  <VernacularNames>Red-crowned Ant Tanager</VernacularNames>
+</Audio>

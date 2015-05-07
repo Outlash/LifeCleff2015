@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>23629</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN23629.wav</FileName>
+  <ClassId>esguzq</ClassId>
+  <Date>2008-01-00</Date>
+  <Time>?:?</Time>
+  <Locality>Henry Pittier NP Choroni road pass</Locality>
+  <Latitude>NULL</Latitude>
+  <Longitude>NULL</Longitude>
+  <Elevation>1500</Elevation>
+  <Author>Joe Klaiber</Author>
+  <AuthorID>TNPOVFLZMY</AuthorID>
+  <Content>song</Content>
+  <Comments>link:http://www.birds-venezuela.de</Comments>
+  <Quality>3</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Formicariidae</Family>
+  <Genus>Chamaeza</Genus>
+  <Species>campanisona</Species>
+  <Sub-species />
+  <VernacularNames>Short-tailed Antthrush</VernacularNames>
+</Audio>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>14520</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN14520.wav</FileName>
+  <ClassId>rbfolt</ClassId>
+  <Date>2009-06-24</Date>
+  <Time>11:21</Time>
+  <Locality>Parque Regional Barbas-Bremen, Filandia, Quindio. Sector Barbas</Locality>
+  <Latitude>4.6717</Latitude>
+  <Longitude>-75.6283</Longitude>
+  <Elevation>1800</Elevation>
+  <Author>Oscar Humberto Marin-Gomez</Author>
+  <AuthorID>CSUHASNRSU</AuthorID>
+  <Content>call, female</Content>
+  <Comments>Ref: PNR Barbas 005B. 1534.  Bosque montano bajo. Vocalización Natural. Grabaciones realizadas junto con Pedro Jose Cardona Camacho.bird-seen:yesplayback-used:no</Comments>
+  <Quality>2</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Apodiformes</Order>
+  <Family>Trochilidae</Family>
+  <Genus>Ocreatus</Genus>
+  <Species>underwoodii</Species>
+  <Sub-species />
+  <VernacularNames>Booted Racket-tail</VernacularNames>
+</Audio>

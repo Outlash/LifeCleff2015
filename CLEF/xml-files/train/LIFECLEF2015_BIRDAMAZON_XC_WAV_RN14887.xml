@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>14887</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN14887.wav</FileName>
+  <ClassId>yyjrms</ClassId>
+  <Date>2011-03-13</Date>
+  <Time>7-20</Time>
+  <Locality>Timotes</Locality>
+  <Latitude>8.9848</Latitude>
+  <Longitude>-70.7548</Longitude>
+  <Elevation>2250</Elevation>
+  <Author>Albert Lastukhin</Author>
+  <AuthorID>LELYWQKUZX</AuthorID>
+  <Content>male, song</Content>
+  <Comments />
+  <Quality>2</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies>Sturnella magna</BackgroundSpecies>
+  <Order>Passeriformes</Order>
+  <Family>Emberizidae</Family>
+  <Genus>Zonotrichia</Genus>
+  <Species>capensis</Species>
+  <Sub-species />
+  <VernacularNames>Rufous-collared Sparrow</VernacularNames>
+</Audio>

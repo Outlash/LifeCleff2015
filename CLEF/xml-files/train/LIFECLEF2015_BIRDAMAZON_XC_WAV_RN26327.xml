@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>26327</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN26327.wav</FileName>
+  <ClassId>ozjitk</ClassId>
+  <Date>2000-07-28</Date>
+  <Time>08:55</Time>
+  <Locality>Juntas, Municipio de Ibague, Tolima</Locality>
+  <Latitude>NULL</Latitude>
+  <Longitude>NULL</Longitude>
+  <Elevation>2100</Elevation>
+  <Author>Bernabe Lopez-Lanus</Author>
+  <AuthorID>BYLLSJRVDZ</AuthorID>
+  <Content>call</Content>
+  <Comments />
+  <Quality>3</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Icteridae</Family>
+  <Genus>Molothrus</Genus>
+  <Species>oryzivorus</Species>
+  <Sub-species />
+  <VernacularNames>Giant Cowbird</VernacularNames>
+</Audio>

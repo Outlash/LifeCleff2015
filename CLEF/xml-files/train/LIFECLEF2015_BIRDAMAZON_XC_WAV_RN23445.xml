@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>23445</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN23445.wav</FileName>
+  <ClassId>tadaeg</ClassId>
+  <Date>2014-06-29</Date>
+  <Time>08:30</Time>
+  <Locality>Jardin, Antioquia</Locality>
+  <Latitude>5.5457</Latitude>
+  <Longitude>-75.7985</Longitude>
+  <Elevation>2600</Elevation>
+  <Author>leandro vargas</Author>
+  <AuthorID>ENWMMTKORK</AuthorID>
+  <Content>song</Content>
+  <Comments>bird-seen:noplayback-used:no</Comments>
+  <Quality>0</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Rhinocryptidae</Family>
+  <Genus>Scytalopus</Genus>
+  <Species>spillmanni</Species>
+  <Sub-species />
+  <VernacularNames>Spillmann's Tapaculo</VernacularNames>
+</Audio>

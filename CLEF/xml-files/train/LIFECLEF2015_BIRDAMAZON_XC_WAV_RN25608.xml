@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>25608</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN25608.wav</FileName>
+  <ClassId>ummlql</ClassId>
+  <Date>2012-01-31</Date>
+  <Time>08:34</Time>
+  <Locality>Anita Garibaldi, Santa Catarina</Locality>
+  <Latitude>-27.7818</Latitude>
+  <Longitude>-51.1108</Longitude>
+  <Elevation>800</Elevation>
+  <Author>Douglas Meyer</Author>
+  <AuthorID>MNENFHYTAE</AuthorID>
+  <Content>song</Content>
+  <Comments>bird-seen:yesplayback-used:no</Comments>
+  <Quality>3</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Accipitriformes</Order>
+  <Family>Accipitridae</Family>
+  <Genus>Elanoides</Genus>
+  <Species>forficatus</Species>
+  <Sub-species />
+  <VernacularNames>Swallow-tailed Kite</VernacularNames>
+</Audio>

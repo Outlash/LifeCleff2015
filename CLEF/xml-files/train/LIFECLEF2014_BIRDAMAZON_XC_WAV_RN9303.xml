@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>9303</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN9303.wav</FileName>
+  <ClassId>kunsua</ClassId>
+  <Date>1997-11-06</Date>
+  <Time>18:03</Time>
+  <Locality>Itatiaia National Park - Agulhas Negras road</Locality>
+  <Latitude>-22.3667</Latitude>
+  <Longitude>-44.7334</Longitude>
+  <Elevation>1760</Elevation>
+  <Author>Jeremy Minns</Author>
+  <AuthorID>DGVLLRYDXS</AuthorID>
+  <Content>Song</Content>
+  <Comments>Montane forest. On log beside road.</Comments>
+  <Quality>2</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies>Myiothlypis leucoblephara,Chamaeza ruficauda</BackgroundSpecies>
+  <Order>Passeriformes</Order>
+  <Family>Furnariidae</Family>
+  <Genus>Sclerurus</Genus>
+  <Species>scansor</Species>
+  <Sub-species>scansor</Sub-species>
+  <VernacularNames>Rufous-breasted Leaftosser</VernacularNames>
+</Audio>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>7222</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN7222.wav</FileName>
+  <ClassId>dhzucj</ClassId>
+  <Date>2009-06-21</Date>
+  <Time>10:00</Time>
+  <Locality>Vila Itoupava, Blumenau, Santa Catarina</Locality>
+  <Latitude>-26.6695</Latitude>
+  <Longitude>-49.0278</Longitude>
+  <Elevation>250</Elevation>
+  <Author>Adrian Eisen Rupp</Author>
+  <AuthorID>AOPMSCIDIA</AuthorID>
+  <Content>song</Content>
+  <Comments />
+  <Quality>2</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Thamnophilidae</Family>
+  <Genus>Drymophila</Genus>
+  <Species>ochropyga</Species>
+  <Sub-species />
+  <VernacularNames>Ochre-rumped Antbird</VernacularNames>
+</Audio>

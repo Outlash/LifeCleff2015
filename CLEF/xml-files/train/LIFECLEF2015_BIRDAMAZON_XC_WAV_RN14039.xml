@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>14039</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN14039.wav</FileName>
+  <ClassId>qgrzoy</ClassId>
+  <Date>2012-11-21</Date>
+  <Time>09:00</Time>
+  <Locality>Murici, Alagoas</Locality>
+  <Latitude>-9.3001</Latitude>
+  <Longitude>-35.9334</Longitude>
+  <Elevation>110</Elevation>
+  <Author>Fernando Igor de Godoy</Author>
+  <AuthorID>CHDHFSVVIN</AuthorID>
+  <Content>call</Content>
+  <Comments>FNJV 30323bird-seen:noplayback-used:no</Comments>
+  <Quality>0</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Tyrannidae</Family>
+  <Genus>Hemitriccus</Genus>
+  <Species>griseipectus</Species>
+  <Sub-species>naumburgae</Sub-species>
+  <VernacularNames>White-bellied Tody-Tyrant</VernacularNames>
+</Audio>

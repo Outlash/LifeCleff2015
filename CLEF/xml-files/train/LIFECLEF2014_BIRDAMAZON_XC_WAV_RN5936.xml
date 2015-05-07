@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>5936</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN5936.wav</FileName>
+  <ClassId>armfvy</ClassId>
+  <Date>2001-11-24</Date>
+  <Time>05:30</Time>
+  <Locality>Chapada Diamantina. Lençóis/Capão trail</Locality>
+  <Latitude>-12.5167</Latitude>
+  <Longitude>-41.4334</Longitude>
+  <Elevation>750</Elevation>
+  <Author>Jeremy Minns</Author>
+  <AuthorID>DGVLLRYDXS</AuthorID>
+  <Content>Dawn song</Content>
+  <Comments>Cerrado on rocky ground and campo rupestre</Comments>
+  <Quality>1</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies>Cyclarhis gujanensis</BackgroundSpecies>
+  <Order>Passeriformes</Order>
+  <Family>Tyrannidae</Family>
+  <Genus>Camptostoma</Genus>
+  <Species>obsoletum</Species>
+  <Sub-species>cinerascens</Sub-species>
+  <VernacularNames>Southern Beardless Tyrannulet</VernacularNames>
+</Audio>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>8095</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN8095.wav</FileName>
+  <ClassId>atrqbr</ClassId>
+  <Date>2010-03-11</Date>
+  <Time>15:19</Time>
+  <Locality>Fazenda Colorado, Londrina - PR</Locality>
+  <Latitude>-23.4673</Latitude>
+  <Longitude>-51.0356</Longitude>
+  <Elevation>600</Elevation>
+  <Author>Renan Campos de Oliveira</Author>
+  <AuthorID>SDARDTGGWP</AuthorID>
+  <Content>call</Content>
+  <Comments>Group flying by</Comments>
+  <Quality>0</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies />
+  <Order>Psittaciformes</Order>
+  <Family>Psittacidae</Family>
+  <Genus>Pionus</Genus>
+  <Species>maximiliani</Species>
+  <Sub-species />
+  <VernacularNames>Scaly-headed Parrot</VernacularNames>
+</Audio>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>4045</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN4045.wav</FileName>
+  <ClassId>ifsjcq</ClassId>
+  <Date>2008-09-12</Date>
+  <Time>10:40</Time>
+  <Locality>Pq. Consciencia Negra, São Paulo, SP</Locality>
+  <Latitude>-23.590834</Latitude>
+  <Longitude>-46.386501</Longitude>
+  <Elevation>750</Elevation>
+  <Author>Marcos Melo</Author>
+  <AuthorID>MRGDYNJGUJ</AuthorID>
+  <Content>song</Content>
+  <Comments />
+  <Quality>2</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Emberizidae</Family>
+  <Genus>Ammodramus</Genus>
+  <Species>humeralis</Species>
+  <Sub-species />
+  <VernacularNames>Grassland Sparrow</VernacularNames>
+</Audio>

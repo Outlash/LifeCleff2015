@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>12199</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN12199.wav</FileName>
+  <ClassId>ixjdrc</ClassId>
+  <Date>2001-11-11</Date>
+  <Time>07:59</Time>
+  <Locality>Estação Ecológica de Murici, Alagoas</Locality>
+  <Latitude>-9.3001</Latitude>
+  <Longitude>-35.9334</Longitude>
+  <Elevation>550</Elevation>
+  <Author>Jeremy Minns</Author>
+  <AuthorID>DGVLLRYDXS</AuthorID>
+  <Content>Vocalizations while displaying</Content>
+  <Comments>Humid forest. Calls by one or both of two female plumaged birds displaying. One bird would point its tail towards the other, vibrate the tail up and down and raise its wings above its back.</Comments>
+  <Quality>1</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies>Hemitriccus griseipectus</BackgroundSpecies>
+  <Order>Passeriformes</Order>
+  <Family>Pipridae</Family>
+  <Genus>Dixiphia</Genus>
+  <Species>rubrocapilla</Species>
+  <Sub-species />
+  <VernacularNames>Red-headed Manakin</VernacularNames>
+</Audio>

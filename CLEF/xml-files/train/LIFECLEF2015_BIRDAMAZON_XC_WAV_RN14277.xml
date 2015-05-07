@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>14277</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN14277.wav</FileName>
+  <ClassId>zdvfva</ClassId>
+  <Date>2013-04-17</Date>
+  <Time>06:00</Time>
+  <Locality>Ilhéus, Bahia</Locality>
+  <Latitude>-14.9931</Latitude>
+  <Longitude>-39.0008</Longitude>
+  <Elevation>20</Elevation>
+  <Author>Alex Lees</Author>
+  <AuthorID>INDDBZAFJL</AuthorID>
+  <Content>call, song</Content>
+  <Comments>in restinga forestbird-seen:yesplayback-used:no</Comments>
+  <Quality>2</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies>Tolmomyias flaviventris,Pachyramphus marginatus</BackgroundSpecies>
+  <Order>Passeriformes</Order>
+  <Family>Thamnophilidae</Family>
+  <Genus>Herpsilochmus</Genus>
+  <Species>pileatus</Species>
+  <Sub-species />
+  <VernacularNames>Bahia Antwren</VernacularNames>
+</Audio>

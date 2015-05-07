@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>24672</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN24672.wav</FileName>
+  <ClassId>uydzcv</ClassId>
+  <Date>2006-08-18</Date>
+  <Time>09:29</Time>
+  <Locality>El canon del Rio Claro, Antioquia</Locality>
+  <Latitude>5.8334</Latitude>
+  <Longitude>-74.8667</Longitude>
+  <Elevation>380</Elevation>
+  <Author>Oswaldo Cortes</Author>
+  <AuthorID>VVDRVZCVWW</AuthorID>
+  <Content>song</Content>
+  <Comments />
+  <Quality>4</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Tyrannidae</Family>
+  <Genus>Tolmomyias</Genus>
+  <Species>assimilis</Species>
+  <Sub-species />
+  <VernacularNames>Zimmer's Flatbill</VernacularNames>
+</Audio>

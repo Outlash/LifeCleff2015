@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>7793</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN7793.wav</FileName>
+  <ClassId>oinzpv</ClassId>
+  <Date>2002-02-09</Date>
+  <Time>09:20</Time>
+  <Locality>Cavernas do Peruaçu National Park</Locality>
+  <Latitude>-15.0334</Latitude>
+  <Longitude>-44.2501</Longitude>
+  <Elevation>750</Elevation>
+  <Author>Jeremy Minns</Author>
+  <AuthorID>DGVLLRYDXS</AuthorID>
+  <Content>Call</Content>
+  <Comments>Semi-deciduous forest. This is Call A in our DVD-ROM 'Birds of Brazil'.</Comments>
+  <Quality>2</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies>Crypturellus noctivagus,Pachyramphus polychopterus,Cyclarhis gujanensis</BackgroundSpecies>
+  <Order>Passeriformes</Order>
+  <Family>Corvidae</Family>
+  <Genus>Cyanocorax</Genus>
+  <Species>cyanopogon</Species>
+  <Sub-species />
+  <VernacularNames>White-naped Jay</VernacularNames>
+</Audio>

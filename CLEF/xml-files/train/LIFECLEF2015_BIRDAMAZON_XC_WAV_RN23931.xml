@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>23931</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN23931.wav</FileName>
+  <ClassId>iwssmb</ClassId>
+  <Date>2014-06-23</Date>
+  <Time>15:30</Time>
+  <Locality>Libano, Tolima</Locality>
+  <Latitude>4.9253</Latitude>
+  <Longitude>-75.0882</Longitude>
+  <Elevation>1800</Elevation>
+  <Author>Jeisson Poveda</Author>
+  <AuthorID>CVJNYXJFAW</AuthorID>
+  <Content>song</Content>
+  <Comments>bird-seen:yesplayback-used:no</Comments>
+  <Quality>3</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Corvidae</Family>
+  <Genus>Cyanocorax</Genus>
+  <Species>yncas</Species>
+  <Sub-species>cyanodorsalis</Sub-species>
+  <VernacularNames>Inca Jay</VernacularNames>
+</Audio>

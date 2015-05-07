@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>30583</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN30583.wav</FileName>
+  <ClassId>plhrrz</ClassId>
+  <Date>2013-02-02</Date>
+  <Time>11:30</Time>
+  <Locality>Pão de Açúcar, Alagoas</Locality>
+  <Latitude>-9.7326</Latitude>
+  <Longitude>-37.4351</Longitude>
+  <Elevation>90</Elevation>
+  <Author>pedrotêia</Author>
+  <AuthorID>BZVNDWLRSQ</AuthorID>
+  <Content>call, song</Content>
+  <Comments>bird-seen:yesplayback-used:no</Comments>
+  <Quality>3</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Accipitriformes</Order>
+  <Family>Accipitridae</Family>
+  <Genus>Geranoaetus</Genus>
+  <Species>melanoleucus</Species>
+  <Sub-species />
+  <VernacularNames>Black-chested Buzzard-Eagle</VernacularNames>
+</Audio>

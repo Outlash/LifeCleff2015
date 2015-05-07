@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>19565</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN19565.wav</FileName>
+  <ClassId>ephxxx</ClassId>
+  <Date>2007-08-30</Date>
+  <Time>?:?</Time>
+  <Locality>Awala-Yalimapo</Locality>
+  <Latitude>5.7334</Latitude>
+  <Longitude>-53.9001</Longitude>
+  <Elevation>4</Elevation>
+  <Author>Alexandre Renaudier</Author>
+  <AuthorID>GKADEITXTH</AuthorID>
+  <Content>?</Content>
+  <Comments>natural recording</Comments>
+  <Quality>1</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Tyrannidae</Family>
+  <Genus>Legatus</Genus>
+  <Species>leucophaius</Species>
+  <Sub-species />
+  <VernacularNames>Piratic Flycatcher</VernacularNames>
+</Audio>

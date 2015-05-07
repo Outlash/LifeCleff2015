@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>22413</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN22413.wav</FileName>
+  <ClassId>tkoszd</ClassId>
+  <Date>2010-10-19</Date>
+  <Time>5:38</Time>
+  <Locality>Belterra-Pará  (Basin 261)</Locality>
+  <Latitude>NULL</Latitude>
+  <Longitude>NULL</Longitude>
+  <Elevation>125</Elevation>
+  <Author>Christian Borges Andretti</Author>
+  <AuthorID>EZSMXGTXKS</AuthorID>
+  <Content>call, song</Content>
+  <Comments>Basin 261 - Flona do Tapajós. Two individuals</Comments>
+  <Quality>1</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Caprimulgiformes</Order>
+  <Family>Nyctibiidae</Family>
+  <Genus>Nyctibius</Genus>
+  <Species>leucopterus</Species>
+  <Sub-species />
+  <VernacularNames>White-winged Potoo</VernacularNames>
+</Audio>

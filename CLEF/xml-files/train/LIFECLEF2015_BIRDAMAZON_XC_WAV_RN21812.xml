@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>21812</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN21812.wav</FileName>
+  <ClassId>cpdfzn</ClassId>
+  <Date>2005-07-00</Date>
+  <Time>07:00</Time>
+  <Locality>Galan, Santander, Yariguies, 06º38N, 73º19W</Locality>
+  <Latitude>6.6334</Latitude>
+  <Longitude>-73.3167</Longitude>
+  <Elevation>1250</Elevation>
+  <Author>Thomas Donegan</Author>
+  <AuthorID>OXSIOLJJUP</AuthorID>
+  <Content>Song</Content>
+  <Comments>ref: Donegan TM, Avendaño JE, Briceño ER &amp; Huertas BC. 2007. Bird range extensions with taxonomic and ecological notes from Serranía de los Yariguíes, Colombias new National Park. Bulletin of the British Ornithologists' Club 127(3): 172-213.</Comments>
+  <Quality>4</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Troglodytidae</Family>
+  <Genus>Thryophilus</Genus>
+  <Species>nicefori</Species>
+  <Sub-species />
+  <VernacularNames>Niceforo's Wren</VernacularNames>
+</Audio>

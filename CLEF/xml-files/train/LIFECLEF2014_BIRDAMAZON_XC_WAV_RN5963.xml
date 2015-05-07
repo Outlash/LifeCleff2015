@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>5963</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN5963.wav</FileName>
+  <ClassId>kpfbdp</ClassId>
+  <Date>2005-06-00</Date>
+  <Time>16:48</Time>
+  <Locality>Praia dos Indianos, Guadalupe, Piaui state</Locality>
+  <Latitude>-6.7467</Latitude>
+  <Longitude>-43.8384</Longitude>
+  <Elevation>?</Elevation>
+  <Author>Guilherme R R Brito</Author>
+  <AuthorID>OAYOBWYOOM</AuthorID>
+  <Content>song</Content>
+  <Comments />
+  <Quality>1</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies />
+  <Order>Cuculiformes</Order>
+  <Family>Cuculidae</Family>
+  <Genus>Dromococcyx</Genus>
+  <Species>phasianellus</Species>
+  <Sub-species />
+  <VernacularNames>Pheasant Cuckoo</VernacularNames>
+</Audio>

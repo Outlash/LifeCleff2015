@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>23110</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN23110.wav</FileName>
+  <ClassId>jjapvq</ClassId>
+  <Date>2008-01-23</Date>
+  <Time>09:00</Time>
+  <Locality>San Isidro quarry, Barinas</Locality>
+  <Latitude>8.8323</Latitude>
+  <Longitude>-70.5801</Longitude>
+  <Elevation>1500</Elevation>
+  <Author>Daniel Lane</Author>
+  <AuthorID>WOEAFQRMUD</AuthorID>
+  <Content>song</Content>
+  <Comments>Response to playback from dense understory beside shade coffee plantation.</Comments>
+  <Quality>2</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies>Myiozetetes cayanensis,Setophaga fusca</BackgroundSpecies>
+  <Order>Passeriformes</Order>
+  <Family>Grallariidae</Family>
+  <Genus>Grallaricula</Genus>
+  <Species>ferrugineipectus</Species>
+  <Sub-species>ferrugineipectus</Sub-species>
+  <VernacularNames>Rusty-breasted Antpitta</VernacularNames>
+</Audio>

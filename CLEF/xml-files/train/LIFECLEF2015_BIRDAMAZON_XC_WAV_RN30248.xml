@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>30248</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN30248.wav</FileName>
+  <ClassId>dmowwi</ClassId>
+  <Date>2000-03-18</Date>
+  <Time>14:38</Time>
+  <Locality>Laguna de Pedro Palo, Tena, Cundinamarca</Locality>
+  <Latitude>NULL</Latitude>
+  <Longitude>NULL</Longitude>
+  <Elevation>2200</Elevation>
+  <Author>Bernabe Lopez-Lanus</Author>
+  <AuthorID>BYLLSJRVDZ</AuthorID>
+  <Content>Song</Content>
+  <Comments />
+  <Quality>1</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Tyrannidae</Family>
+  <Genus>Todirostrum</Genus>
+  <Species>cinereum</Species>
+  <Sub-species>cinereum</Sub-species>
+  <VernacularNames>Common Tody-Flycatcher</VernacularNames>
+</Audio>

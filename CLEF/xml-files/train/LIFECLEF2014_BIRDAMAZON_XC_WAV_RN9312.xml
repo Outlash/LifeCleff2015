@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>9312</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN9312.wav</FileName>
+  <ClassId>zdicwn</ClassId>
+  <Date>2001-07-11</Date>
+  <Time>09:30</Time>
+  <Locality>Boa Vista. Ilha São José</Locality>
+  <Latitude>2.9501</Latitude>
+  <Longitude>-60.5167</Longitude>
+  <Elevation>70</Elevation>
+  <Author>Jeremy Minns</Author>
+  <AuthorID>DGVLLRYDXS</AuthorID>
+  <Content>Call</Content>
+  <Comments>Same bird as in XC103592, after playback.</Comments>
+  <Quality>1</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies>Tolmomyias flaviventris</BackgroundSpecies>
+  <Order>Passeriformes</Order>
+  <Family>Tyrannidae</Family>
+  <Genus>Myiopagis</Genus>
+  <Species>viridicata</Species>
+  <Sub-species>viridicata</Sub-species>
+  <VernacularNames>Greenish Elaenia</VernacularNames>
+</Audio>

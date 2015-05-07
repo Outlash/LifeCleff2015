@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>20165</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN20165.wav</FileName>
+  <ClassId>uolxzk</ClassId>
+  <Date>2011-02-27</Date>
+  <Time>11:00</Time>
+  <Locality>5 km NNE Guayabetal</Locality>
+  <Latitude>4.261</Latitude>
+  <Longitude>-73.81</Longitude>
+  <Elevation>2200</Elevation>
+  <Author>Niels Krabbe</Author>
+  <AuthorID>XTVEPHMPPJ</AuthorID>
+  <Content>song</Content>
+  <Comments />
+  <Quality>0</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Piciformes</Order>
+  <Family>Ramphastidae</Family>
+  <Genus>Aulacorhynchus</Genus>
+  <Species>albivitta</Species>
+  <Sub-species>albivitta</Sub-species>
+  <VernacularNames>White-throated Toucanet</VernacularNames>
+</Audio>

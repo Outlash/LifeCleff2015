@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>32444</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN32444.wav</FileName>
+  <ClassId>arlrfh</ClassId>
+  <Date>0000-00-00</Date>
+  <Time>?:?</Time>
+  <Locality>Awala-Yalimapo, digue</Locality>
+  <Latitude>5.73778</Latitude>
+  <Longitude>-53.945961</Longitude>
+  <Elevation>2</Elevation>
+  <Author>Alexandre Renaudier</Author>
+  <AuthorID>GKADEITXTH</AuthorID>
+  <Content>calls at rest</Content>
+  <Comments>natural recording</Comments>
+  <Quality>1</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies>Sakesphorus canadensis,Sakesphorus canadensis,Picumnus cirratus,Cantorchilus leucotis</BackgroundSpecies>
+  <Order>Cuculiformes</Order>
+  <Family>Cuculidae</Family>
+  <Genus>Crotophaga</Genus>
+  <Species>major</Species>
+  <Sub-species />
+  <VernacularNames>Greater Ani</VernacularNames>
+</Audio>

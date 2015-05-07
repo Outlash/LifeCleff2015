@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>14305</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN14305.wav</FileName>
+  <ClassId>kcjurp</ClassId>
+  <Date>2013-07-21</Date>
+  <Time>11:15</Time>
+  <Locality>Campo Bonito 2, Parana</Locality>
+  <Latitude>-24.9979</Latitude>
+  <Longitude>-53.0361</Longitude>
+  <Elevation>750</Elevation>
+  <Author>Teus Luijendijk</Author>
+  <AuthorID>VLNULZJNSX</AuthorID>
+  <Content>call</Content>
+  <Comments>Six birds.Slightly filtered &lt;400 Hz.bird-seen:yesplayback-used:no</Comments>
+  <Quality>2</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies>Elaenia obscura</BackgroundSpecies>
+  <Order>Passeriformes</Order>
+  <Family>Thraupidae</Family>
+  <Genus>Cissopis</Genus>
+  <Species>leverianus</Species>
+  <Sub-species>major</Sub-species>
+  <VernacularNames>Magpie Tanager</VernacularNames>
+</Audio>

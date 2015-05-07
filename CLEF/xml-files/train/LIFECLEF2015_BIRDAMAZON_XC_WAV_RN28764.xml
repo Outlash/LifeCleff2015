@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>28764</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN28764.wav</FileName>
+  <ClassId>relbkx</ClassId>
+  <Date>2014-07-09</Date>
+  <Time>10:00</Time>
+  <Locality>APA Dunas, Pelotas, Rio Grande do Sul</Locality>
+  <Latitude>-31.7673</Latitude>
+  <Longitude>-52.2495</Longitude>
+  <Elevation>10</Elevation>
+  <Author>Fernando Jacobs</Author>
+  <AuthorID>MHHPJBCUXC</AuthorID>
+  <Content>call, song</Content>
+  <Comments>bird-seen:yesplayback-used:no</Comments>
+  <Quality>1</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Tyrannidae</Family>
+  <Genus>Tolmomyias</Genus>
+  <Species>sulphurescens</Species>
+  <Sub-species />
+  <VernacularNames>Yellow-olive Flatbill</VernacularNames>
+</Audio>

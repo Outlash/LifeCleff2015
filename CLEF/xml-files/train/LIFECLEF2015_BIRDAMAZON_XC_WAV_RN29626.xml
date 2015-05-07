@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>29626</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN29626.wav</FileName>
+  <ClassId>ywuvnu</ClassId>
+  <Date>2000-04-21</Date>
+  <Time>xx:xx</Time>
+  <Locality>Finca La Pradera, Parroquia Remolinos, Municipio Puerto Lopez, Meta</Locality>
+  <Latitude>NULL</Latitude>
+  <Longitude>NULL</Longitude>
+  <Elevation>400</Elevation>
+  <Author>Bernabe Lopez-Lanus</Author>
+  <AuthorID>BYLLSJRVDZ</AuthorID>
+  <Content>Song</Content>
+  <Comments>One recording: cut 2 from the previous cut</Comments>
+  <Quality>1</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies>Myrmeciza atrothorax</BackgroundSpecies>
+  <Order>Tinamiformes</Order>
+  <Family>Tinamidae</Family>
+  <Genus>Crypturellus</Genus>
+  <Species>cinereus</Species>
+  <Sub-species />
+  <VernacularNames>Cinereous Tinamou</VernacularNames>
+</Audio>

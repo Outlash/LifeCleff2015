@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>27977</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN27977.wav</FileName>
+  <ClassId>qdcutc</ClassId>
+  <Date>2002-01-00</Date>
+  <Time>xx:xx</Time>
+  <Locality>Ocaña, Agua de la Virgen, Cerro de la virgen, Norte de Santander</Locality>
+  <Latitude>8.2167</Latitude>
+  <Longitude>-73.4001</Longitude>
+  <Elevation>1600</Elevation>
+  <Author>Thomas Donegan</Author>
+  <AuthorID>OXSIOLJJUP</AuthorID>
+  <Content>Song</Content>
+  <Comments>Formerly mystery 688. Also Ciccada.  Notes following loud initial song not certainly of this species.</Comments>
+  <Quality>5</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Icteridae</Family>
+  <Genus>Psarocolius</Genus>
+  <Species>angustifrons</Species>
+  <Sub-species />
+  <VernacularNames>Russet-backed Oropendola</VernacularNames>
+</Audio>

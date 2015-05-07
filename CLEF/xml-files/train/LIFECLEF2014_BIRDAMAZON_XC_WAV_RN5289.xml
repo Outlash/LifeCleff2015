@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>5289</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN5289.wav</FileName>
+  <ClassId>ssjqni</ClassId>
+  <Date>2002-09-26</Date>
+  <Time>16:30</Time>
+  <Locality>Rio Negro. Remanso</Locality>
+  <Latitude>-1.3834</Latitude>
+  <Longitude>-61.6334</Longitude>
+  <Elevation>20</Elevation>
+  <Author>Jeremy Minns</Author>
+  <AuthorID>DGVLLRYDXS</AuthorID>
+  <Content>Call</Content>
+  <Comments>Igapó forest on river island. Male.</Comments>
+  <Quality>2</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Thamnophilidae</Family>
+  <Genus>Myrmotherula</Genus>
+  <Species>axillaris</Species>
+  <Sub-species>axillaris</Sub-species>
+  <VernacularNames>White-flanked Antwren</VernacularNames>
+</Audio>

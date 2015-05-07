@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>1333</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN1333.wav</FileName>
+  <ClassId>uvsyop</ClassId>
+  <Date>2010-07-22</Date>
+  <Time>10:23</Time>
+  <Locality>Caminho do Itupava</Locality>
+  <Latitude>-25.425</Latitude>
+  <Longitude>-48.917</Longitude>
+  <Elevation>226</Elevation>
+  <Author>Teus Luijendijk</Author>
+  <AuthorID>VLNULZJNSX</AuthorID>
+  <Content>call</Content>
+  <Comments />
+  <Quality>0</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies />
+  <Order>Apodiformes</Order>
+  <Family>Trochilidae</Family>
+  <Genus>Thalurania</Genus>
+  <Species>glaucopis</Species>
+  <Sub-species />
+  <VernacularNames>Violet-capped Woodnymph</VernacularNames>
+</Audio>

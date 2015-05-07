@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>14096</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN14096.wav</FileName>
+  <ClassId>dgocsv</ClassId>
+  <Date>2010-04-25</Date>
+  <Time>09:00</Time>
+  <Locality>Reserva Natural La Montaña del Ocaso, Quimbaya, Quindío</Locality>
+  <Latitude>NULL</Latitude>
+  <Longitude>NULL</Longitude>
+  <Elevation>1000</Elevation>
+  <Author>Oscar H. Marín-Gómez</Author>
+  <AuthorID>CSUHASNRSU</AuthorID>
+  <Content>female, male, song</Content>
+  <Comments>Ref OCA 118. Regrabacion de XC128457bird-seen:yesplayback-used:no</Comments>
+  <Quality>2</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Psittaciformes</Order>
+  <Family>Psittacidae</Family>
+  <Genus>Forpus</Genus>
+  <Species>conspicillatus</Species>
+  <Sub-species />
+  <VernacularNames>Spectacled Parrotlet</VernacularNames>
+</Audio>

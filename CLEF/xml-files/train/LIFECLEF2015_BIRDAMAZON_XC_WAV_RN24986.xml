@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>24986</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN24986.wav</FileName>
+  <ClassId>tlnmxr</ClassId>
+  <Date>2010-01-10</Date>
+  <Time>05:45</Time>
+  <Locality>Santa Cecilia, Serrania de San Lucas</Locality>
+  <Latitude>7.9759</Latitude>
+  <Longitude>-74.2153</Longitude>
+  <Elevation>1550</Elevation>
+  <Author>Thomas Donegan</Author>
+  <AuthorID>OXSIOLJJUP</AuthorID>
+  <Content>Song</Content>
+  <Comments>Dawn song, bird not seen in half-light</Comments>
+  <Quality>4</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Furnariidae</Family>
+  <Genus>Syndactyla</Genus>
+  <Species>subalaris</Species>
+  <Sub-species />
+  <VernacularNames>Lineated Foliage-gleaner</VernacularNames>
+</Audio>

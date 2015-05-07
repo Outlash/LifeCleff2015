@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>22772</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN22772.wav</FileName>
+  <ClassId>wckepf</ClassId>
+  <Date>2014-09-13</Date>
+  <Time>10:00</Time>
+  <Locality>Lajeado, Lajeado, Rio Grande do Sul</Locality>
+  <Latitude>-29.4613</Latitude>
+  <Longitude>-51.9493</Longitude>
+  <Elevation>30</Elevation>
+  <Author>Cleberton D. Bianchini</Author>
+  <AuthorID>FYHMASBKBC</AuthorID>
+  <Content>call</Content>
+  <Comments>bird-seen:no</Comments>
+  <Quality>0</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Tyrannidae</Family>
+  <Genus>Euscarthmus</Genus>
+  <Species>meloryphus</Species>
+  <Sub-species />
+  <VernacularNames>Tawny-crowned Pygmy Tyrant</VernacularNames>
+</Audio>

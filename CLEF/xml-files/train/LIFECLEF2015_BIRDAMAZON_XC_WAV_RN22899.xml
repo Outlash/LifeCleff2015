@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>22899</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN22899.wav</FileName>
+  <ClassId>azrobg</ClassId>
+  <Date>2010-01-10</Date>
+  <Time>14:00</Time>
+  <Locality>Santa Cecilia, Serrania de San Lucas</Locality>
+  <Latitude>7.9759</Latitude>
+  <Longitude>-74.2153</Longitude>
+  <Elevation>1600</Elevation>
+  <Author>Thomas Donegan</Author>
+  <AuthorID>OXSIOLJJUP</AuthorID>
+  <Content>Song</Content>
+  <Comments>ID  from a mystery by S Mayer. In a mixed species flock.</Comments>
+  <Quality>4</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Thamnophilidae</Family>
+  <Genus>Herpsilochmus</Genus>
+  <Species>rufimarginatus</Species>
+  <Sub-species />
+  <VernacularNames>Rufous-winged Antwren</VernacularNames>
+</Audio>

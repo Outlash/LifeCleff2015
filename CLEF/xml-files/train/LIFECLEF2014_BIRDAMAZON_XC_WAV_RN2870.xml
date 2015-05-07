@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>2870</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN2870.wav</FileName>
+  <ClassId>mbwjzf</ClassId>
+  <Date>2006-08-21</Date>
+  <Time>12:05</Time>
+  <Locality>Sao Jose dos Campos, state of Sao Paulo</Locality>
+  <Latitude>-23.0401</Latitude>
+  <Longitude>-46.0328</Longitude>
+  <Elevation>800</Elevation>
+  <Author>Carlos Candia-Gallardo</Author>
+  <AuthorID>CXQSLQJCAG</AuthorID>
+  <Content>call</Content>
+  <Comments>Well-preserved montane forest canopy</Comments>
+  <Quality>3</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies>Tolmomyias sulphurescens,Saltator similis</BackgroundSpecies>
+  <Order>Passeriformes</Order>
+  <Family>Fringillidae</Family>
+  <Genus>Chlorophonia</Genus>
+  <Species>cyanea</Species>
+  <Sub-species />
+  <VernacularNames>Blue-naped Chlorophonia</VernacularNames>
+</Audio>

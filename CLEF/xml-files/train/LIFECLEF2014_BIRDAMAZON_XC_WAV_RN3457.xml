@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>3457</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN3457.wav</FileName>
+  <ClassId>jpjrlh</ClassId>
+  <Date>2007-09-08</Date>
+  <Time>14:00</Time>
+  <Locality>Serra dos Órgãos National Park - RJ</Locality>
+  <Latitude>-22.448</Latitude>
+  <Longitude>-43.01</Longitude>
+  <Elevation>1900</Elevation>
+  <Author>Ricardo Gagliardi</Author>
+  <AuthorID>YRDADNREOP</AuthorID>
+  <Content>song</Content>
+  <Comments />
+  <Quality>2</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies>Tangara desmaresti</BackgroundSpecies>
+  <Order>Passeriformes</Order>
+  <Family>Thamnophilidae</Family>
+  <Genus>Mackenziaena</Genus>
+  <Species>leachii</Species>
+  <Sub-species />
+  <VernacularNames>Large-tailed Antshrike</VernacularNames>
+</Audio>

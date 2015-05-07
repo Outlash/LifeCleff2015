@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>28886</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN28886.wav</FileName>
+  <ClassId>fdjofa</ClassId>
+  <Date>2009-11-06</Date>
+  <Time>10:30</Time>
+  <Locality>Estação de Pesquisa do Canguçu - Pium - Tocantins State</Locality>
+  <Latitude>-9.9826</Latitude>
+  <Longitude>-50.0151</Longitude>
+  <Elevation>180</Elevation>
+  <Author>GABRIEL LEITE</Author>
+  <AuthorID>TGBFXDVERJ</AuthorID>
+  <Content>flight call</Content>
+  <Comments>bird-seen:yesplayback-used:no</Comments>
+  <Quality>2</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Psittaciformes</Order>
+  <Family>Psittacidae</Family>
+  <Genus>Pionus</Genus>
+  <Species>menstruus</Species>
+  <Sub-species />
+  <VernacularNames>Blue-headed Parrot</VernacularNames>
+</Audio>

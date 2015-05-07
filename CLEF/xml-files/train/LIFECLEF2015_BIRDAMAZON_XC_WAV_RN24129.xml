@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>24129</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN24129.wav</FileName>
+  <ClassId>skjryu</ClassId>
+  <Date>2005-07-00</Date>
+  <Time>xx:xx</Time>
+  <Locality>La Luchata, above Galan, Serrania de los Yariguies, Santander</Locality>
+  <Latitude>6.6292</Latitude>
+  <Longitude>-73.3151</Longitude>
+  <Elevation>2000</Elevation>
+  <Author>Thomas Donegan</Author>
+  <AuthorID>OXSIOLJJUP</AuthorID>
+  <Content>Song</Content>
+  <Comments />
+  <Quality>2</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Tyrannidae</Family>
+  <Genus>Zimmerius</Genus>
+  <Species>chrysops</Species>
+  <Sub-species />
+  <VernacularNames>Golden-faced Tyrannulet</VernacularNames>
+</Audio>

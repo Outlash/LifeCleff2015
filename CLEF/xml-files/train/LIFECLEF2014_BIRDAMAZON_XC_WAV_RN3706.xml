@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>3706</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN3706.wav</FileName>
+  <ClassId>bmiqmk</ClassId>
+  <Date>2008-08-15</Date>
+  <Time>07:55</Time>
+  <Locality>Bairro do Jaceguava, São Paulo, SP</Locality>
+  <Latitude>-23.752501</Latitude>
+  <Longitude>-46.735334</Longitude>
+  <Elevation>760</Elevation>
+  <Author>Marcos Melo</Author>
+  <AuthorID>MRGDYNJGUJ</AuthorID>
+  <Content>song of dance (lek)</Content>
+  <Comments>Six males and one female dancing</Comments>
+  <Quality>3</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies>Basileuterus culicivorus,Habia rubica,Cyclarhis gujanensis</BackgroundSpecies>
+  <Order>Passeriformes</Order>
+  <Family>Pipridae</Family>
+  <Genus>Chiroxiphia</Genus>
+  <Species>caudata</Species>
+  <Sub-species />
+  <VernacularNames>Blue Manakin</VernacularNames>
+</Audio>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>2178</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN2178.wav</FileName>
+  <ClassId>rdftli</ClassId>
+  <Date>2012-11-29</Date>
+  <Time>08:00</Time>
+  <Locality>Pernambuco</Locality>
+  <Latitude>-8.6587</Latitude>
+  <Longitude>-35.8999</Longitude>
+  <Elevation>460</Elevation>
+  <Author>GABRIEL LEITE</Author>
+  <AuthorID>TGBFXDVERJ</AuthorID>
+  <Content>song</Content>
+  <Comments>bird-seen:yesplayback-used:no</Comments>
+  <Quality>2</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies />
+  <Order>Apodiformes</Order>
+  <Family>Trochilidae</Family>
+  <Genus>Hylocharis</Genus>
+  <Species>cyanus</Species>
+  <Sub-species />
+  <VernacularNames>White-chinned Sapphire</VernacularNames>
+</Audio>

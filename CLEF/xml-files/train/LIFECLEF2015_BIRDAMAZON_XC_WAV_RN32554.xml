@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>32554</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN32554.wav</FileName>
+  <ClassId>nieuqt</ClassId>
+  <Date>2011-03-02</Date>
+  <Time>09:30</Time>
+  <Locality>Barinitas, Bolivar, Barinas</Locality>
+  <Latitude>8.8128</Latitude>
+  <Longitude>-70.5066</Longitude>
+  <Elevation>800</Elevation>
+  <Author>Albert Lastukhin</Author>
+  <AuthorID>LELYWQKUZX</AuthorID>
+  <Content>call</Content>
+  <Comments>bird-seen:yesplayback-used:no</Comments>
+  <Quality>3</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies>Ortalis ruficauda,Psarocolius decumanus</BackgroundSpecies>
+  <Order>Falconiformes</Order>
+  <Family>Falconidae</Family>
+  <Genus>Falco</Genus>
+  <Species>rufigularis</Species>
+  <Sub-species />
+  <VernacularNames>Bat Falcon</VernacularNames>
+</Audio>

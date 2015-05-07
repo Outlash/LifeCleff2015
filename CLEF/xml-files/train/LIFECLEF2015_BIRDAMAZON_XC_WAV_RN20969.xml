@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>20969</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN20969.wav</FileName>
+  <ClassId>aiigbg</ClassId>
+  <Date>2014-01-18</Date>
+  <Time>16:00</Time>
+  <Locality>Irani, Santa Catarina</Locality>
+  <Latitude>-26.9888</Latitude>
+  <Longitude>-51.9358</Longitude>
+  <Elevation>1000</Elevation>
+  <Author>Roberto Buss Stringari</Author>
+  <AuthorID>TLLUGZINYM</AuthorID>
+  <Content>call, song</Content>
+  <Comments>bird-seen:noplayback-used:no</Comments>
+  <Quality>1</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Furnariidae</Family>
+  <Genus>Sittasomus</Genus>
+  <Species>griseicapillus</Species>
+  <Sub-species />
+  <VernacularNames>Olivaceous Woodcreeper</VernacularNames>
+</Audio>

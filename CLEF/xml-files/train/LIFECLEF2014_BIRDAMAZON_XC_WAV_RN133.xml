@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>133</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN133.wav</FileName>
+  <ClassId>thrclx</ClassId>
+  <Date>2001-11-11</Date>
+  <Time>07:23</Time>
+  <Locality>Estação Ecológica de Murici, Alagoas</Locality>
+  <Latitude>-9.3001</Latitude>
+  <Longitude>-35.9334</Longitude>
+  <Elevation>550</Elevation>
+  <Author>Jeremy Minns</Author>
+  <AuthorID>DGVLLRYDXS</AuthorID>
+  <Content>Call</Content>
+  <Comments>Humid forest. Pair. This is Call A in our DVD-ROM 'Birds of Brazil'.</Comments>
+  <Quality>1</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies>Tolmomyias flaviventris,Elaenia flavogaster</BackgroundSpecies>
+  <Order>Passeriformes</Order>
+  <Family>Thamnophilidae</Family>
+  <Genus>Formicivora</Genus>
+  <Species>grisea</Species>
+  <Sub-species>grisea</Sub-species>
+  <VernacularNames>Southern White-fringed Antwren</VernacularNames>
+</Audio>

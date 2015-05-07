@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>21369</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN21369.wav</FileName>
+  <ClassId>hejxxz</ClassId>
+  <Date>2007-12-00</Date>
+  <Time>?:?</Time>
+  <Locality>Llanos - Cano Cuaritico</Locality>
+  <Latitude>NULL</Latitude>
+  <Longitude>NULL</Longitude>
+  <Elevation>50</Elevation>
+  <Author>Joe Klaiber</Author>
+  <AuthorID>TNPOVFLZMY</AuthorID>
+  <Content>song</Content>
+  <Comments>link:http://www.birds-venezuela.de</Comments>
+  <Quality>3</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Charadriiformes</Order>
+  <Family>Laridae</Family>
+  <Genus>Phaetusa</Genus>
+  <Species>simplex</Species>
+  <Sub-species />
+  <VernacularNames>Large-billed Tern</VernacularNames>
+</Audio>

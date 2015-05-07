@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>31664</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN31664.wav</FileName>
+  <ClassId>iiwvue</ClassId>
+  <Date>2008-04-00</Date>
+  <Time>?:?</Time>
+  <Locality>Caura - Las Trincheras</Locality>
+  <Latitude>6.963</Latitude>
+  <Longitude>-64.899</Longitude>
+  <Elevation>50</Elevation>
+  <Author>Joe Klaiber</Author>
+  <AuthorID>TNPOVFLZMY</AuthorID>
+  <Content>song</Content>
+  <Comments>link:http://www.birds-venezuela.de</Comments>
+  <Quality>3</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Troglodytidae</Family>
+  <Genus>Campylorhynchus</Genus>
+  <Species>griseus</Species>
+  <Sub-species />
+  <VernacularNames>Bicolored Wren</VernacularNames>
+</Audio>

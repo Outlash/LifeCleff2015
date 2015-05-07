@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>8029</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN8029.wav</FileName>
+  <ClassId>dfegpk</ClassId>
+  <Date>2001-06-28</Date>
+  <Time>6:56</Time>
+  <Locality>Vicinity of the Adventista's Acampoeste, Bahia</Locality>
+  <Latitude>-12.4501</Latitude>
+  <Longitude>-45.2834</Longitude>
+  <Elevation>?</Elevation>
+  <Author>Paul Donahue</Author>
+  <AuthorID>LLRXADGTBA</AuthorID>
+  <Content>call</Content>
+  <Comments />
+  <Quality>3</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies />
+  <Order>Psittaciformes</Order>
+  <Family>Psittacidae</Family>
+  <Genus>Amazona</Genus>
+  <Species>aestiva</Species>
+  <Sub-species />
+  <VernacularNames>Turquoise-fronted Amazon</VernacularNames>
+</Audio>

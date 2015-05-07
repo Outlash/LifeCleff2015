@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>16803</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN16803.wav</FileName>
+  <ClassId>cchgxy</ClassId>
+  <Date>2007-01-13</Date>
+  <Time>08:00</Time>
+  <Locality>San Isidro Tunnel Road, Barinas</Locality>
+  <Latitude>NULL</Latitude>
+  <Longitude>NULL</Longitude>
+  <Elevation>1450</Elevation>
+  <Author>Andrew Spencer</Author>
+  <AuthorID>CDTGHVBGZP</AuthorID>
+  <Content>flight call</Content>
+  <Comments />
+  <Quality>1</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Hirundinidae</Family>
+  <Genus>Notiochelidon</Genus>
+  <Species>cyanoleuca</Species>
+  <Sub-species />
+  <VernacularNames>Blue-and-white Swallow</VernacularNames>
+</Audio>

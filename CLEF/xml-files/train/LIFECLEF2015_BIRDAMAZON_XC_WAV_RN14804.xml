@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>14804</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN14804.wav</FileName>
+  <ClassId>jovoql</ClassId>
+  <Date>2005-03-26</Date>
+  <Time>?:?</Time>
+  <Locality>Tafelberg</Locality>
+  <Latitude>3.9201</Latitude>
+  <Longitude>-56.17</Longitude>
+  <Elevation>?</Elevation>
+  <Author>Otte Ottema</Author>
+  <AuthorID>ASEUAUOXZA</AuthorID>
+  <Content>song?</Content>
+  <Comments>male</Comments>
+  <Quality>1</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Caprimulgiformes</Order>
+  <Family>Caprimulgidae</Family>
+  <Genus>Nyctipolus</Genus>
+  <Species>nigrescens</Species>
+  <Sub-species />
+  <VernacularNames>Blackish Nightjar</VernacularNames>
+</Audio>

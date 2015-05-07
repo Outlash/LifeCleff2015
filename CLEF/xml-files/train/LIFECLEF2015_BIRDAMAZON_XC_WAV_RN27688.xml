@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>27688</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN27688.wav</FileName>
+  <ClassId>djamod</ClassId>
+  <Date>1991-04-17</Date>
+  <Time>?</Time>
+  <Locality>Cundinamarca, Bogotá D.C., Parque La Florida</Locality>
+  <Latitude>4.716667</Latitude>
+  <Longitude>-74.15</Longitude>
+  <Elevation>2600</Elevation>
+  <Author>Gary Stiles (Colección de Sonidos Ambientales - Instituto Humboldt)</Author>
+  <AuthorID>XMFDPACYJN</AuthorID>
+  <Content>song</Content>
+  <Comments>BSA 10737To obtain a wav file of the original recording, please contact csa@humboldt.org.cobird-seen:yesplayback-used:no</Comments>
+  <Quality>2</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Gruiformes</Order>
+  <Family>Rallidae</Family>
+  <Genus>Rallus</Genus>
+  <Species>semiplumbeus</Species>
+  <Sub-species />
+  <VernacularNames>Bogota Rail</VernacularNames>
+</Audio>

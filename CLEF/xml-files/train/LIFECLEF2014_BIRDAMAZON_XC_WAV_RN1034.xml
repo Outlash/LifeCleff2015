@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>1034</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN1034.wav</FileName>
+  <ClassId>vumzkv</ClassId>
+  <Date>2011-03-01</Date>
+  <Time>16:25</Time>
+  <Locality>RPPN Chácara Edith, Brusque, Santa Catarina</Locality>
+  <Latitude>-27.1017</Latitude>
+  <Longitude>-48.8887</Longitude>
+  <Elevation>30</Elevation>
+  <Author>Glauco Kohler</Author>
+  <AuthorID>JDNMEJOJEQ</AuthorID>
+  <Content>call</Content>
+  <Comments />
+  <Quality>2</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Furnariidae</Family>
+  <Genus>Cichlocolaptes</Genus>
+  <Species>leucophrus</Species>
+  <Sub-species />
+  <VernacularNames>Pale-browed Treehunter</VernacularNames>
+</Audio>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>17059</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN17059.wav</FileName>
+  <ClassId>fvhrfq</ClassId>
+  <Date>1999-10-16</Date>
+  <Time>11:00</Time>
+  <Locality>Serra da Cantareira State Park. São Paulo</Locality>
+  <Latitude>-23.4667</Latitude>
+  <Longitude>-46.6167</Longitude>
+  <Elevation>900</Elevation>
+  <Author>Antonio Silveira</Author>
+  <AuthorID>NBJQSQJRYH</AuthorID>
+  <Content>call, female</Content>
+  <Comments>bird-seen:noplayback-used:no</Comments>
+  <Quality>1</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Tinamiformes</Order>
+  <Family>Tinamidae</Family>
+  <Genus>Tinamus</Genus>
+  <Species>solitarius</Species>
+  <Sub-species />
+  <VernacularNames>Solitary Tinamou</VernacularNames>
+</Audio>

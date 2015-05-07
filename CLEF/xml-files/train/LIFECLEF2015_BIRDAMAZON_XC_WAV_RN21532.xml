@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>21532</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN21532.wav</FileName>
+  <ClassId>aksucy</ClassId>
+  <Date>2003-02-24</Date>
+  <Time>10:05</Time>
+  <Locality>Finca Merenberg</Locality>
+  <Latitude>2.2001</Latitude>
+  <Longitude>-76.1001</Longitude>
+  <Elevation>2300</Elevation>
+  <Author>Niels Krabbe</Author>
+  <AuthorID>XTVEPHMPPJ</AuthorID>
+  <Content>call after playback</Content>
+  <Comments>Dense understory in fragmented humid oak forest. Tape ref. B 560-562</Comments>
+  <Quality>1</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Rhinocryptidae</Family>
+  <Genus>Scytalopus</Genus>
+  <Species>rodriguezi</Species>
+  <Sub-species />
+  <VernacularNames>Upper Magdalena Tapaculo</VernacularNames>
+</Audio>

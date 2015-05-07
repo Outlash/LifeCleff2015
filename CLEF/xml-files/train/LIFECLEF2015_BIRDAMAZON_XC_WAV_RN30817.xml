@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>30817</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN30817.wav</FileName>
+  <ClassId>hejxxz</ClassId>
+  <Date>2008-12-17</Date>
+  <Time>11:00</Time>
+  <Locality>Ciénaga de Palagua, Puerto Boyaca, Boyaca</Locality>
+  <Latitude>NULL</Latitude>
+  <Longitude>NULL</Longitude>
+  <Elevation>148</Elevation>
+  <Author>Johana Zuluaga Bonilla</Author>
+  <AuthorID>USBAJUDGYL</AuthorID>
+  <Content>song</Content>
+  <Comments />
+  <Quality>2</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Charadriiformes</Order>
+  <Family>Laridae</Family>
+  <Genus>Phaetusa</Genus>
+  <Species>simplex</Species>
+  <Sub-species />
+  <VernacularNames>Large-billed Tern</VernacularNames>
+</Audio>

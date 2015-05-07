@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>21815</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN21815.wav</FileName>
+  <ClassId>cmcyuw</ClassId>
+  <Date>2005-06-15</Date>
+  <Time>08:00</Time>
+  <Locality>Albania (Guajira)</Locality>
+  <Latitude>11.162</Latitude>
+  <Longitude>-72.5778</Longitude>
+  <Elevation>400</Elevation>
+  <Author>Oswaldo Cortes</Author>
+  <AuthorID>VVDRVZCVWW</AuthorID>
+  <Content>call</Content>
+  <Comments />
+  <Quality>0</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Troglodytidae</Family>
+  <Genus>Cantorchilus</Genus>
+  <Species>leucotis</Species>
+  <Sub-species />
+  <VernacularNames>Buff-breasted Wren</VernacularNames>
+</Audio>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>24972</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN24972.wav</FileName>
+  <ClassId>vmtbxc</ClassId>
+  <Date>2010-01-20</Date>
+  <Time>07:30</Time>
+  <Locality>Laguna Pedro Palo, Cundinamarca</Locality>
+  <Latitude>NULL</Latitude>
+  <Longitude>NULL</Longitude>
+  <Elevation>2000</Elevation>
+  <Author>Frank Lambert</Author>
+  <AuthorID>YTUXOCTUEM</AuthorID>
+  <Content>song</Content>
+  <Comments />
+  <Quality>3</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Gruiformes</Order>
+  <Family>Rallidae</Family>
+  <Genus>Laterallus</Genus>
+  <Species>albigularis</Species>
+  <Sub-species>cerdaleus</Sub-species>
+  <VernacularNames>White-throated Crake</VernacularNames>
+</Audio>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>12137</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN12137.wav</FileName>
+  <ClassId>ltmght</ClassId>
+  <Date>2002-08-12</Date>
+  <Time>10:33</Time>
+  <Locality>Parque Estadual Intervales. Barra Grande</Locality>
+  <Latitude>-24.2667</Latitude>
+  <Longitude>-48.3834</Longitude>
+  <Elevation>800</Elevation>
+  <Author>Jeremy Minns</Author>
+  <AuthorID>DGVLLRYDXS</AuthorID>
+  <Content>Call</Content>
+  <Comments>Track with secondary forest on one side and scrub on the other. Natural calls of bird in low, dense vegetation. This is Call B in our DVD-ROM 'Birds of Brazil'.</Comments>
+  <Quality>2</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Rhinocryptidae</Family>
+  <Genus>Eleoscytalopus</Genus>
+  <Species>indigoticus</Species>
+  <Sub-species />
+  <VernacularNames>White-breasted Tapaculo</VernacularNames>
+</Audio>

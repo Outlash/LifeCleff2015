@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>26075</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN26075.wav</FileName>
+  <ClassId>txvjdt</ClassId>
+  <Date>2010-07-05</Date>
+  <Time>13:10</Time>
+  <Locality>Roura, Cacao</Locality>
+  <Latitude>4.548</Latitude>
+  <Longitude>-52.473</Longitude>
+  <Elevation>150</Elevation>
+  <Author>Renaudier Alexandre</Author>
+  <AuthorID>GKADEITXTH</AuthorID>
+  <Content>alarm call</Content>
+  <Comments>natural recording</Comments>
+  <Quality>1</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Furnariidae</Family>
+  <Genus>Sclerurus</Genus>
+  <Species>rufigularis</Species>
+  <Sub-species>fulvigularis</Sub-species>
+  <VernacularNames>Short-billed Leaftosser</VernacularNames>
+</Audio>

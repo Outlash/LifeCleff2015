@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>9992</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN9992.wav</FileName>
+  <ClassId>uizzbr</ClassId>
+  <Date>2003-08-12</Date>
+  <Time>10:00</Time>
+  <Locality>Bahia, Una, Ecoparque</Locality>
+  <Latitude>-15.3</Latitude>
+  <Longitude>-39.1</Longitude>
+  <Elevation>60</Elevation>
+  <Author>Antonio Silveira</Author>
+  <AuthorID>NBJQSQJRYH</AuthorID>
+  <Content>male, song</Content>
+  <Comments>bird-seen:yesplayback-used:no</Comments>
+  <Quality>1</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Cotingidae</Family>
+  <Genus>Lipaugus</Genus>
+  <Species>vociferans</Species>
+  <Sub-species />
+  <VernacularNames>Screaming Piha</VernacularNames>
+</Audio>

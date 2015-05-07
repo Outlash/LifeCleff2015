@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>2366</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN2366.wav</FileName>
+  <ClassId>qdjrwu</ClassId>
+  <Date>2011-01-07</Date>
+  <Time>17h00</Time>
+  <Locality>Barão de Angra - Três Rios - RJ</Locality>
+  <Latitude>NULL</Latitude>
+  <Longitude>NULL</Longitude>
+  <Elevation>550</Elevation>
+  <Author>Rafael Bessa</Author>
+  <AuthorID>XTUTZUMSFW</AuthorID>
+  <Content>Song</Content>
+  <Comments />
+  <Quality>3</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies />
+  <Order>Tinamiformes</Order>
+  <Family>Tinamidae</Family>
+  <Genus>Crypturellus</Genus>
+  <Species>parvirostris</Species>
+  <Sub-species />
+  <VernacularNames>Small-billed Tinamou</VernacularNames>
+</Audio>

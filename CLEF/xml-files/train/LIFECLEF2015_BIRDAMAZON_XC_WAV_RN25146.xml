@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>25146</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN25146.wav</FileName>
+  <ClassId>ypmevr</ClassId>
+  <Date>2013-12-19</Date>
+  <Time>07:00</Time>
+  <Locality>Ilhabela, São Paulo</Locality>
+  <Latitude>-23.8312</Latitude>
+  <Longitude>-45.3495</Longitude>
+  <Elevation>190</Elevation>
+  <Author>Eduardo D. Schultz</Author>
+  <AuthorID>QYOZQITVAC</AuthorID>
+  <Content>call</Content>
+  <Comments>bird-seen:yesplayback-used:no</Comments>
+  <Quality>0</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Conopophagidae</Family>
+  <Genus>Conopophaga</Genus>
+  <Species>melanops</Species>
+  <Sub-species />
+  <VernacularNames>Black-cheeked Gnateater</VernacularNames>
+</Audio>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>18746</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN18746.wav</FileName>
+  <ClassId>etnvbo</ClassId>
+  <Date>2005-08-21</Date>
+  <Time>15:26</Time>
+  <Locality>Tena, Laguna de pedro palo, Cundinamarca</Locality>
+  <Latitude>4.6501</Latitude>
+  <Longitude>-74.3834</Longitude>
+  <Elevation>2000</Elevation>
+  <Author>Oscar Laverde</Author>
+  <AuthorID>WKVKSVMNDZ</AuthorID>
+  <Content>song</Content>
+  <Comments>canto que siempre realiza al llegar a un arbol aislado o a un borde. Al tiempo la pareja se acerca, en unos pocos casos van reunidas.</Comments>
+  <Quality>2</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Thraupidae</Family>
+  <Genus>Tangara</Genus>
+  <Species>heinei</Species>
+  <Sub-species />
+  <VernacularNames>Black-capped Tanager</VernacularNames>
+</Audio>

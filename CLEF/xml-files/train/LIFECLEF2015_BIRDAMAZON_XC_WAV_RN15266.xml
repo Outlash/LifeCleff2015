@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>15266</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN15266.wav</FileName>
+  <ClassId>ttmtic</ClassId>
+  <Date>2009-08-05</Date>
+  <Time>05:40</Time>
+  <Locality>Ome Ecological Station, Purite River, Amazonas dep. 70 Km N of Leticia</Locality>
+  <Latitude>NULL</Latitude>
+  <Longitude>NULL</Longitude>
+  <Elevation>110</Elevation>
+  <Author>Gabriela Navarrete Forero</Author>
+  <AuthorID>LEHRZWLXDV</AuthorID>
+  <Content>duet, song</Content>
+  <Comments>Duet, link:www.ornitologiacolombiana.org/oc9/Resumenes%20Tesis%20OC9.pdf</Comments>
+  <Quality>1</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Tinamiformes</Order>
+  <Family>Tinamidae</Family>
+  <Genus>Tinamus</Genus>
+  <Species>major</Species>
+  <Sub-species />
+  <VernacularNames>Great Tinamou</VernacularNames>
+</Audio>

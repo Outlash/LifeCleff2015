@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>13626</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN13626.wav</FileName>
+  <ClassId>xhgzss</ClassId>
+  <Date>2007-09-02</Date>
+  <Time>11:30</Time>
+  <Locality>Açude da Concórdia - Valença - RJ</Locality>
+  <Latitude>-22.3001</Latitude>
+  <Longitude>-43.6667</Longitude>
+  <Elevation>?</Elevation>
+  <Author>Ricardo Gagliardi</Author>
+  <AuthorID>YRDADNREOP</AuthorID>
+  <Content>song</Content>
+  <Comments />
+  <Quality>3</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies>Myrmeciza loricata,Basileuterus culicivorus,Attila rufus</BackgroundSpecies>
+  <Order>Passeriformes</Order>
+  <Family>Furnariidae</Family>
+  <Genus>Dendrocincla</Genus>
+  <Species>turdina</Species>
+  <Sub-species>turdina</Sub-species>
+  <VernacularNames>Plain-winged Woodcreeper</VernacularNames>
+</Audio>

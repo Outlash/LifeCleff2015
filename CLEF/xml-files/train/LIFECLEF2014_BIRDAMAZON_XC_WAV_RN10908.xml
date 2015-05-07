@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>10908</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN10908.wav</FileName>
+  <ClassId>vjukoo</ClassId>
+  <Date>2006-11-05</Date>
+  <Time>05:59</Time>
+  <Locality>Parque do Zizo, Sao Paulo state</Locality>
+  <Latitude>-24.017146</Latitude>
+  <Longitude>-47.81044</Longitude>
+  <Elevation>650</Elevation>
+  <Author>Jeremy Minns</Author>
+  <AuthorID>DGVLLRYDXS</AuthorID>
+  <Content>Song</Content>
+  <Comments>Edge of humid forest. Two song bouts by a bird moving about in the upper midstorey.</Comments>
+  <Quality>2</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies>Grallaria varia,Tolmomyias sulphurescens,Attila phoenicurus,Vireo olivaceus</BackgroundSpecies>
+  <Order>Passeriformes</Order>
+  <Family>Tyrannidae</Family>
+  <Genus>Attila</Genus>
+  <Species>rufus</Species>
+  <Sub-species>rufus</Sub-species>
+  <VernacularNames>Grey-hooded Attila</VernacularNames>
+</Audio>

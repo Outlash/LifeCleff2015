@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>21936</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN21936.wav</FileName>
+  <ClassId>ugoxqz</ClassId>
+  <Date>2012-07-03</Date>
+  <Time>7:15 AM</Time>
+  <Locality />
+  <Latitude>NULL</Latitude>
+  <Longitude>NULL</Longitude>
+  <Elevation>772</Elevation>
+  <Author>Kassius K. Santos</Author>
+  <AuthorID>LDUBEBHXQK</AuthorID>
+  <Content>song</Content>
+  <Comments />
+  <Quality>1</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Apodiformes</Order>
+  <Family>Trochilidae</Family>
+  <Genus>Phaethornis</Genus>
+  <Species>pretrei</Species>
+  <Sub-species />
+  <VernacularNames>Planalto Hermit</VernacularNames>
+</Audio>

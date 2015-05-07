@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>11561</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN11561.wav</FileName>
+  <ClassId>pbqnkl</ClassId>
+  <Date>2006-09-21</Date>
+  <Time>?</Time>
+  <Locality>Inhotim, Brumadinho, Minas Gerais State</Locality>
+  <Latitude>-20.123894</Latitude>
+  <Longitude>-44.219091</Longitude>
+  <Elevation>770</Elevation>
+  <Author>Helberth Cardoso</Author>
+  <AuthorID>XIRUVWSNEN</AuthorID>
+  <Content>Chorus</Content>
+  <Comments />
+  <Quality>1</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies />
+  <Order>Cuculiformes</Order>
+  <Family>Cuculidae</Family>
+  <Genus>Guira</Genus>
+  <Species>guira</Species>
+  <Sub-species />
+  <VernacularNames>Guira Cuckoo</VernacularNames>
+</Audio>

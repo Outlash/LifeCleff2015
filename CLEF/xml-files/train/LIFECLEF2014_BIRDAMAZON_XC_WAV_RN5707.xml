@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>5707</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN5707.wav</FileName>
+  <ClassId>hwjycx</ClassId>
+  <Date>2010-07-18</Date>
+  <Time>18:30</Time>
+  <Locality>Palmeirante</Locality>
+  <Latitude>-7.955</Latitude>
+  <Longitude>-48.301</Longitude>
+  <Elevation>250</Elevation>
+  <Author>Evair Legal</Author>
+  <AuthorID>SMJXFKLATM</AuthorID>
+  <Content>song</Content>
+  <Comments />
+  <Quality>3</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies />
+  <Order>Caprimulgiformes</Order>
+  <Family>Caprimulgidae</Family>
+  <Genus>Setopagis</Genus>
+  <Species>parvula</Species>
+  <Sub-species />
+  <VernacularNames>Little Nightjar</VernacularNames>
+</Audio>

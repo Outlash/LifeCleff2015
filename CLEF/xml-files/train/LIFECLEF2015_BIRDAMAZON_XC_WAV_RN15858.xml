@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>15858</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN15858.wav</FileName>
+  <ClassId>xychdo</ClassId>
+  <Date>2000-11-03</Date>
+  <Time>am</Time>
+  <Locality>Humedal de La Conejera (Bogota), Cundinamarca</Locality>
+  <Latitude>NULL</Latitude>
+  <Longitude>NULL</Longitude>
+  <Elevation>2600</Elevation>
+  <Author>Bernabe Lopez-Lanus</Author>
+  <AuthorID>BYLLSJRVDZ</AuthorID>
+  <Content>Alarm call</Content>
+  <Comments>Response after playback. Extract of a longer series of similar calls</Comments>
+  <Quality>1</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Troglodytidae</Family>
+  <Genus>Troglodytes</Genus>
+  <Species>aedon</Species>
+  <Sub-species>columbae</Sub-species>
+  <VernacularNames>House Wren</VernacularNames>
+</Audio>

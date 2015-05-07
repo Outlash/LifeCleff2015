@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>31124</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN31124.wav</FileName>
+  <ClassId>iwohai</ClassId>
+  <Date>2004-02-16</Date>
+  <Time>am</Time>
+  <Locality>Praia do Felix, Ubatuba, Sao Paulo</Locality>
+  <Latitude>NULL</Latitude>
+  <Longitude>NULL</Longitude>
+  <Elevation>20</Elevation>
+  <Author>Bernabe Lopez-Lanus</Author>
+  <AuthorID>BYLLSJRVDZ</AuthorID>
+  <Content>Contact call</Content>
+  <Comments />
+  <Quality>1</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Apodiformes</Order>
+  <Family>Trochilidae</Family>
+  <Genus>Eupetomena</Genus>
+  <Species>macroura</Species>
+  <Sub-species>cyanoviridis</Sub-species>
+  <VernacularNames>Swallow-tailed Hummingbird</VernacularNames>
+</Audio>

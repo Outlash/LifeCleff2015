@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>9259</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN9259.wav</FileName>
+  <ClassId>htgkfv</ClassId>
+  <Date>2005-01-08</Date>
+  <Time>06:30</Time>
+  <Locality>Timbaúba, Pernambuco</Locality>
+  <Latitude>-7.6096</Latitude>
+  <Longitude>-35.3952</Longitude>
+  <Elevation>440</Elevation>
+  <Author>Sidnei Dantas</Author>
+  <AuthorID>NNCKQMBGPH</AuthorID>
+  <Content>song</Content>
+  <Comments>Undergrowth of montane atlantic forest, in a mixed flock. Record filtered and edited.bird-seen:yesplayback-used:no</Comments>
+  <Quality>4</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies>Herpsilochmus rufimarginatus,Terenura sicki</BackgroundSpecies>
+  <Order>Passeriformes</Order>
+  <Family>Tyrannidae</Family>
+  <Genus>Mionectes</Genus>
+  <Species>oleagineus</Species>
+  <Sub-species>oleagineus</Sub-species>
+  <VernacularNames>Ochre-bellied Flycatcher</VernacularNames>
+</Audio>

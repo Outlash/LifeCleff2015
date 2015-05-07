@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>2896</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN2896.wav</FileName>
+  <ClassId>jorqun</ClassId>
+  <Date>2002-02-05</Date>
+  <Time>07:40</Time>
+  <Locality>Guaraí, Tocantins</Locality>
+  <Latitude>-8.7834</Latitude>
+  <Longitude>-48.4001</Longitude>
+  <Elevation>260</Elevation>
+  <Author>Jeremy Minns</Author>
+  <AuthorID>DGVLLRYDXS</AuthorID>
+  <Content>Song during display flight</Content>
+  <Comments>Cerrado. Natural song of male, making a short vertical display flight with each song. Perched in the bare branches of a small tree.</Comments>
+  <Quality>2</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies>Columbina squammata,Psittacara leucophthalmus</BackgroundSpecies>
+  <Order>Passeriformes</Order>
+  <Family>Thraupidae</Family>
+  <Genus>Volatinia</Genus>
+  <Species>jacarina</Species>
+  <Sub-species>jacarina</Sub-species>
+  <VernacularNames>Blue-black Grassquit</VernacularNames>
+</Audio>

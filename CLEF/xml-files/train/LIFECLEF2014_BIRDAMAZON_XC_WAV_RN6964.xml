@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>6964</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN6964.wav</FileName>
+  <ClassId>lsoxmb</ClassId>
+  <Date>2002-10-30</Date>
+  <Time>07:36</Time>
+  <Locality>Parque Nacional Serra da Canastra, São Roque de Minas, MG</Locality>
+  <Latitude>-20.24528</Latitude>
+  <Longitude>-46.36583</Longitude>
+  <Elevation>1350</Elevation>
+  <Author>Jeremy Minns</Author>
+  <AuthorID>DGVLLRYDXS</AuthorID>
+  <Content>Song</Content>
+  <Comments>Cerrado. Abandoned farm buildings with a few trees. Natural song of a single bird on top of a tree. The bird sang non-stop for more than five minutes.</Comments>
+  <Quality>2</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies>Patagioenas cayennensis,Zonotrichia capensis,Ammodramus humeralis,Sicalis citrina</BackgroundSpecies>
+  <Order>Passeriformes</Order>
+  <Family>Mimidae</Family>
+  <Genus>Mimus</Genus>
+  <Species>saturninus</Species>
+  <Sub-species>frater</Sub-species>
+  <VernacularNames>Chalk-browed Mockingbird</VernacularNames>
+</Audio>

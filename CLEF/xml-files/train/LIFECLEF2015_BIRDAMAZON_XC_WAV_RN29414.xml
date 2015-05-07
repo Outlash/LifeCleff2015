@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>29414</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN29414.wav</FileName>
+  <ClassId>pnosvx</ClassId>
+  <Date>2012-03-03</Date>
+  <Time>09:22</Time>
+  <Locality>Municipio El Calvario (Meta)</Locality>
+  <Latitude>4.368</Latitude>
+  <Longitude>-73.727</Longitude>
+  <Elevation>2100</Elevation>
+  <Author>Oswaldo Cortes</Author>
+  <AuthorID>VVDRVZCVWW</AuthorID>
+  <Content>song</Content>
+  <Comments />
+  <Quality>2</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies>Scytalopus latrans</BackgroundSpecies>
+  <Order>Columbiformes</Order>
+  <Family>Columbidae</Family>
+  <Genus>Geotrygon</Genus>
+  <Species>montana</Species>
+  <Sub-species />
+  <VernacularNames>Ruddy Quail-Dove</VernacularNames>
+</Audio>

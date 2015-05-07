@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>25637</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN25637.wav</FileName>
+  <ClassId>xzvjkj</ClassId>
+  <Date>2011-06-08</Date>
+  <Time>14:00</Time>
+  <Locality>Mitu, Vaupes</Locality>
+  <Latitude>1.2598</Latitude>
+  <Longitude>-70.2367</Longitude>
+  <Elevation>190</Elevation>
+  <Author>Andrew Spencer</Author>
+  <AuthorID>CDTGHVBGZP</AuthorID>
+  <Content>song</Content>
+  <Comments>natural vocalization</Comments>
+  <Quality>1</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Tityridae</Family>
+  <Genus>Schiffornis</Genus>
+  <Species>turdina</Species>
+  <Sub-species>amazonum</Sub-species>
+  <VernacularNames>Brown-winged Schiffornis</VernacularNames>
+</Audio>

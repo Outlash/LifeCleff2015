@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>6422</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN6422.wav</FileName>
+  <ClassId>cmlkob</ClassId>
+  <Date>2001-09-10</Date>
+  <Time>06:00</Time>
+  <Locality>Perequê - Angra dos Reis - RJ</Locality>
+  <Latitude>-23.012</Latitude>
+  <Longitude>-44.5351</Longitude>
+  <Elevation>50</Elevation>
+  <Author>Jeremy Minns</Author>
+  <AuthorID>DGVLLRYDXS</AuthorID>
+  <Content>call, song</Content>
+  <Comments>Large solitary tree in scrubby area near humid forest. Two birds.</Comments>
+  <Quality>2</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies>Tolmomyias sulphurescens</BackgroundSpecies>
+  <Order>Passeriformes</Order>
+  <Family>Tityridae</Family>
+  <Genus>Pachyramphus</Genus>
+  <Species>viridis</Species>
+  <Sub-species>viridis</Sub-species>
+  <VernacularNames>Green-backed Becard</VernacularNames>
+</Audio>

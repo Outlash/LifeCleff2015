@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>3859</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN3859.wav</FileName>
+  <ClassId>sijyjc</ClassId>
+  <Date>2013-09-09</Date>
+  <Time>18:00</Time>
+  <Locality>Tanquã, Rio Piracicaba, Piracicaba, São Paulo</Locality>
+  <Latitude>-22.6771</Latitude>
+  <Longitude>-47.9831</Longitude>
+  <Elevation>460</Elevation>
+  <Author>Robson Silva e Silva</Author>
+  <AuthorID>WZSVLIHYQF</AuthorID>
+  <Content>song</Content>
+  <Comments>bird-seen:yesplayback-used:no</Comments>
+  <Quality>1</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies>Himantopus melanurus</BackgroundSpecies>
+  <Order>Anseriformes</Order>
+  <Family>Anhimidae</Family>
+  <Genus>Chauna</Genus>
+  <Species>torquata</Species>
+  <Sub-species />
+  <VernacularNames>Southern Screamer</VernacularNames>
+</Audio>

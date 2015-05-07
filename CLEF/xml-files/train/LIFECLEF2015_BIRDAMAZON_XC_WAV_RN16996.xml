@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>16996</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN16996.wav</FileName>
+  <ClassId>fyzdky</ClassId>
+  <Date>2008-07-20</Date>
+  <Time>09:50</Time>
+  <Locality>R. N. Rio Blanco, Caldas</Locality>
+  <Latitude>5.0834</Latitude>
+  <Longitude>-75.5001</Longitude>
+  <Elevation>2600</Elevation>
+  <Author>Andrew Spencer</Author>
+  <AuthorID>CDTGHVBGZP</AuthorID>
+  <Content>song</Content>
+  <Comments />
+  <Quality>2</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Apodiformes</Order>
+  <Family>Trochilidae</Family>
+  <Genus>Boissonneaua</Genus>
+  <Species>flavescens</Species>
+  <Sub-species>flavescens</Sub-species>
+  <VernacularNames>Buff-tailed Coronet</VernacularNames>
+</Audio>

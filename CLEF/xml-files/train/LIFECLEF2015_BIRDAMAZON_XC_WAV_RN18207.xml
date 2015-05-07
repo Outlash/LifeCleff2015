@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>18207</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN18207.wav</FileName>
+  <ClassId>zufgrw</ClassId>
+  <Date>2009-02-18</Date>
+  <Time>16:30</Time>
+  <Locality>Barinitas, Bolivar, Barinas</Locality>
+  <Latitude>8.8863</Latitude>
+  <Longitude>-70.4877</Longitude>
+  <Elevation>1400</Elevation>
+  <Author>Fernand DEROUSSEN</Author>
+  <AuthorID>UXGZWVYDFE</AuthorID>
+  <Content>call, female</Content>
+  <Comments>bird-seen:yesplayback-used:no</Comments>
+  <Quality>1</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Fringillidae</Family>
+  <Genus>Euphonia</Genus>
+  <Species>laniirostris</Species>
+  <Sub-species />
+  <VernacularNames>Thick-billed Euphonia</VernacularNames>
+</Audio>

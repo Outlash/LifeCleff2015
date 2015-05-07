@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>6699</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN6699.wav</FileName>
+  <ClassId>hrszxx</ClassId>
+  <Date>1999-10-00</Date>
+  <Time>10am</Time>
+  <Locality>Bairro do Guaraú, Peruíbe, São Paulo State</Locality>
+  <Latitude>-24.375</Latitude>
+  <Longitude>-47.026</Longitude>
+  <Elevation>5</Elevation>
+  <Author>Antonio Silveira</Author>
+  <AuthorID>NBJQSQJRYH</AuthorID>
+  <Content>song</Content>
+  <Comments>bird-seen:yesplayback-used:no</Comments>
+  <Quality>1</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Corvidae</Family>
+  <Genus>Cyanocorax</Genus>
+  <Species>caeruleus</Species>
+  <Sub-species />
+  <VernacularNames>Azure Jay</VernacularNames>
+</Audio>

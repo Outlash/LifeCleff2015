@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>25039</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN25039.wav</FileName>
+  <ClassId>jefgxc</ClassId>
+  <Date>2013-04-23</Date>
+  <Time>17:00</Time>
+  <Locality>Belo Vale, Minas Gerais</Locality>
+  <Latitude>-20.4082</Latitude>
+  <Longitude>-44.0279</Longitude>
+  <Elevation>800</Elevation>
+  <Author>João Antônio de B. Vitto</Author>
+  <AuthorID>RIVNLYTULO</AuthorID>
+  <Content>call</Content>
+  <Comments>bird-seen:noplayback-used:no</Comments>
+  <Quality>0</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Piciformes</Order>
+  <Family>Galbulidae</Family>
+  <Genus>Galbula</Genus>
+  <Species>ruficauda</Species>
+  <Sub-species />
+  <VernacularNames>Rufous-tailed Jacamar</VernacularNames>
+</Audio>

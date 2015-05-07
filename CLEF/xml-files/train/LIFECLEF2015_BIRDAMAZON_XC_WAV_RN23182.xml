@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>23182</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN23182.wav</FileName>
+  <ClassId>vsywgi</ClassId>
+  <Date>2011-03-23</Date>
+  <Time>06:30</Time>
+  <Locality>Puerto Ajacucho</Locality>
+  <Latitude>5.6709</Latitude>
+  <Longitude>-67.5551</Longitude>
+  <Elevation>160</Elevation>
+  <Author>Albert Lastukhin</Author>
+  <AuthorID>LELYWQKUZX</AuthorID>
+  <Content>flight call</Content>
+  <Comments>playback-used:no</Comments>
+  <Quality>4</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Psittaciformes</Order>
+  <Family>Psittacidae</Family>
+  <Genus>Ara</Genus>
+  <Species>macao</Species>
+  <Sub-species />
+  <VernacularNames>Scarlet Macaw</VernacularNames>
+</Audio>

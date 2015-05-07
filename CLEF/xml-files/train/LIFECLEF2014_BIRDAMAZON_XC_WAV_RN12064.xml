@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>12064</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN12064.wav</FileName>
+  <ClassId>vumzkv</ClassId>
+  <Date>2009-01-13</Date>
+  <Time>?</Time>
+  <Locality>Morro do Cachorro, Blumenau, Santa Catarina</Locality>
+  <Latitude>-26.7776</Latitude>
+  <Longitude>-49.0401</Longitude>
+  <Elevation>500</Elevation>
+  <Author>Adrian Eisen Rupp</Author>
+  <AuthorID>AOPMSCIDIA</AuthorID>
+  <Content>song</Content>
+  <Comments />
+  <Quality>1</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies>Vireo olivaceus</BackgroundSpecies>
+  <Order>Passeriformes</Order>
+  <Family>Furnariidae</Family>
+  <Genus>Cichlocolaptes</Genus>
+  <Species>leucophrus</Species>
+  <Sub-species />
+  <VernacularNames>Pale-browed Treehunter</VernacularNames>
+</Audio>

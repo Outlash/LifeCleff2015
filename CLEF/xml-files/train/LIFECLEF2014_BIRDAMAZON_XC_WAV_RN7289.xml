@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>7289</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN7289.wav</FileName>
+  <ClassId>scjydk</ClassId>
+  <Date>2008-02-24</Date>
+  <Time>08:30</Time>
+  <Locality>Serra dos Carajás, PA</Locality>
+  <Latitude>-6.1603</Latitude>
+  <Longitude>-50.3459</Longitude>
+  <Elevation>400</Elevation>
+  <Author>Sidnei Dantas</Author>
+  <AuthorID>NNCKQMBGPH</AuthorID>
+  <Content>flight call</Content>
+  <Comments>not seen</Comments>
+  <Quality>3</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies>Cercomacra cinerascens</BackgroundSpecies>
+  <Order>Psittaciformes</Order>
+  <Family>Psittacidae</Family>
+  <Genus>Anodorhynchus</Genus>
+  <Species>hyacinthinus</Species>
+  <Sub-species />
+  <VernacularNames>Hyacinth Macaw</VernacularNames>
+</Audio>

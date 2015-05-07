@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>20062</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN20062.wav</FileName>
+  <ClassId>uphahj</ClassId>
+  <Date>1996-08-16</Date>
+  <Time>?</Time>
+  <Locality>Córdoba, Bolívar</Locality>
+  <Latitude>9.63</Latitude>
+  <Longitude>-74.91222</Longitude>
+  <Elevation>120</Elevation>
+  <Author>Mauricio Álvarez Rebolledo (Colección de Sonidos Ambientales - Instituto Humboldt)</Author>
+  <AuthorID>XMFDPACYJN</AuthorID>
+  <Content>song</Content>
+  <Comments>BSA 4617To obtain a wav file of the original recording, please contact csa@humboldt.org.coplayback-used:no</Comments>
+  <Quality>2</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Accipitriformes</Order>
+  <Family>Accipitridae</Family>
+  <Genus>Rupornis</Genus>
+  <Species>magnirostris</Species>
+  <Sub-species />
+  <VernacularNames>Roadside Hawk</VernacularNames>
+</Audio>

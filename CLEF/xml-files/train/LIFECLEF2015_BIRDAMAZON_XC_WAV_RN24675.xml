@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>24675</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN24675.wav</FileName>
+  <ClassId>upfjhp</ClassId>
+  <Date>2010-11-22</Date>
+  <Time>?</Time>
+  <Locality>Rio Kukenan camp on the way to Cerro Roraima, Bolivar</Locality>
+  <Latitude>5.1323</Latitude>
+  <Longitude>-60.8001</Longitude>
+  <Elevation>?</Elevation>
+  <Author>Alexandre Renaudier</Author>
+  <AuthorID>GKADEITXTH</AuthorID>
+  <Content>song</Content>
+  <Comments />
+  <Quality>1</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Troglodytidae</Family>
+  <Genus>Cistothorus</Genus>
+  <Species>platensis</Species>
+  <Sub-species>alticola?</Sub-species>
+  <VernacularNames>Sedge Wren</VernacularNames>
+</Audio>

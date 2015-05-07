@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>2949</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN2949.wav</FileName>
+  <ClassId>ppearp</ClassId>
+  <Date>2013-02-01</Date>
+  <Time>13:30</Time>
+  <Locality>Aracruz, Espirito Santo</Locality>
+  <Latitude>-19.8189</Latitude>
+  <Longitude>-40.2739</Longitude>
+  <Elevation>60</Elevation>
+  <Author>Noé Eiterer</Author>
+  <AuthorID>TWSKITNQOV</AuthorID>
+  <Content>call</Content>
+  <Comments>bird-seen:yesplayback-used:yes</Comments>
+  <Quality>2</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Tyrannidae</Family>
+  <Genus>Tolmomyias</Genus>
+  <Species>flaviventris</Species>
+  <Sub-species />
+  <VernacularNames>Ochre-lored Flatbill</VernacularNames>
+</Audio>

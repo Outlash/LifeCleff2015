@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>27669</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN27669.wav</FileName>
+  <ClassId>vnkcgy</ClassId>
+  <Date>2008-06-11</Date>
+  <Time>08:30</Time>
+  <Locality>Reserva La Montaña, Alto Quindío, Salento, Quindío</Locality>
+  <Latitude>4.6548</Latitude>
+  <Longitude>-75.4666</Longitude>
+  <Elevation>2800</Elevation>
+  <Author>Oscar H. Marín-Gómez</Author>
+  <AuthorID>CSUHASNRSU</AuthorID>
+  <Content>call</Content>
+  <Comments>bird-seen:yesplayback-used:no</Comments>
+  <Quality>3</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Corvidae</Family>
+  <Genus>Cyanolyca</Genus>
+  <Species>armillata</Species>
+  <Sub-species />
+  <VernacularNames>Black-collared Jay</VernacularNames>
+</Audio>

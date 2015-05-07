@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>28098</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN28098.wav</FileName>
+  <ClassId>pazlce</ClassId>
+  <Date>2012-09-26</Date>
+  <Time>07:27</Time>
+  <Locality>Reserve Naturelle Regionale Tresor, Roura</Locality>
+  <Latitude>4.6105</Latitude>
+  <Longitude>-52.2793</Longitude>
+  <Elevation>240</Elevation>
+  <Author>Jon King</Author>
+  <AuthorID>LNEEOOWCQR</AuthorID>
+  <Content>song</Content>
+  <Comments>Distance to mic. 5m. Directly overhead in vine tangle at roadside.bird-seen:yesplayback-used:yes</Comments>
+  <Quality>1</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Tyrannidae</Family>
+  <Genus>Lophotriccus</Genus>
+  <Species>galeatus</Species>
+  <Sub-species />
+  <VernacularNames>Helmeted Pygmy Tyrant</VernacularNames>
+</Audio>

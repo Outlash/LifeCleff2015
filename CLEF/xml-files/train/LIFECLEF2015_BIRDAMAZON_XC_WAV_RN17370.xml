@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>17370</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN17370.wav</FileName>
+  <ClassId>cqbqgt</ClassId>
+  <Date>2013-01-08</Date>
+  <Time>06:30</Time>
+  <Locality>Cano Abujene - Delta Amacuro</Locality>
+  <Latitude>9.904</Latitude>
+  <Longitude>-62.798</Longitude>
+  <Elevation>20</Elevation>
+  <Author>Thore Noernberg</Author>
+  <AuthorID>TTSQGWDDGW</AuthorID>
+  <Content>call</Content>
+  <Comments>bird calling from a small tree - short distance bird-seen:yesplayback-used:no</Comments>
+  <Quality>1</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Furnariidae</Family>
+  <Genus>Dendroplex</Genus>
+  <Species>picus</Species>
+  <Sub-species />
+  <VernacularNames>Straight-billed Woodcreeper</VernacularNames>
+</Audio>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>26926</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN26926.wav</FileName>
+  <ClassId>ytwasa</ClassId>
+  <Date>2011-05-27</Date>
+  <Time>?</Time>
+  <Locality>saint-Georges, piste de Saut Maripa</Locality>
+  <Latitude>3.950143</Latitude>
+  <Longitude>-51.794735</Longitude>
+  <Elevation>30</Elevation>
+  <Author>Alexandre Renaudier</Author>
+  <AuthorID>GKADEITXTH</AuthorID>
+  <Content>call</Content>
+  <Comments />
+  <Quality>2</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Troglodytidae</Family>
+  <Genus>Henicorhina</Genus>
+  <Species>leucosticta</Species>
+  <Sub-species />
+  <VernacularNames>White-breasted Wood Wren</VernacularNames>
+</Audio>

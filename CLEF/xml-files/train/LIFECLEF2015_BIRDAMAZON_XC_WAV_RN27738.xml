@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>27738</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN27738.wav</FileName>
+  <ClassId>ziirhl</ClassId>
+  <Date>2014-05-22</Date>
+  <Time>11:00</Time>
+  <Locality>Cachoeira, Itatiaia NP, Rio de Janeiro state</Locality>
+  <Latitude>-22.434</Latitude>
+  <Longitude>-44.621</Longitude>
+  <Elevation>1100</Elevation>
+  <Author>Ricardo José Mitidieri</Author>
+  <AuthorID>CFRYARSVHN</AuthorID>
+  <Content>song</Content>
+  <Comments>bird-seen:yesplayback-used:no</Comments>
+  <Quality>4</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies>Sporophila frontalis</BackgroundSpecies>
+  <Order>Passeriformes</Order>
+  <Family>Icteridae</Family>
+  <Genus>Cacicus</Genus>
+  <Species>haemorrhous</Species>
+  <Sub-species>affinis</Sub-species>
+  <VernacularNames>Red-rumped Cacique</VernacularNames>
+</Audio>

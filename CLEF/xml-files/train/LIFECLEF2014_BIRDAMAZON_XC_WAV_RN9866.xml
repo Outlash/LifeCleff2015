@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>9866</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN9866.wav</FileName>
+  <ClassId>esguzq</ClassId>
+  <Date>2010-01-25</Date>
+  <Time>am</Time>
+  <Locality>Guaramiranga, Serra de Baturité, State of Ceará</Locality>
+  <Latitude>-4.250551</Latitude>
+  <Longitude>-38.939838</Longitude>
+  <Elevation>?</Elevation>
+  <Author>Eduardo Patrial</Author>
+  <AuthorID>QEFRRVCRRP</AuthorID>
+  <Content>song</Content>
+  <Comments />
+  <Quality>2</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Formicariidae</Family>
+  <Genus>Chamaeza</Genus>
+  <Species>campanisona</Species>
+  <Sub-species />
+  <VernacularNames>Short-tailed Antthrush</VernacularNames>
+</Audio>

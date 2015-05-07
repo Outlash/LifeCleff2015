@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>31191</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN31191.wav</FileName>
+  <ClassId>cpcenp</ClassId>
+  <Date>2010-03-29</Date>
+  <Time>10:50</Time>
+  <Locality>El Calabazo, Tayrona National Natural Park, Sierra Nevada de Santa Marta</Locality>
+  <Latitude>11.2039982527036</Latitude>
+  <Longitude>-73.8185119628906</Longitude>
+  <Elevation>390</Elevation>
+  <Author>Jorge Muñoz</Author>
+  <AuthorID>SAJLATXYOO</AuthorID>
+  <Content>Song</Content>
+  <Comments>Close to lek of Chiroxiphia lanceolata, at ground, under bush in primary humid forest at Sierra Nevada de Santa Marta</Comments>
+  <Quality>0</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Thamnophilidae</Family>
+  <Genus>Myrmeciza</Genus>
+  <Species>longipes</Species>
+  <Sub-species />
+  <VernacularNames>White-bellied Antbird</VernacularNames>
+</Audio>

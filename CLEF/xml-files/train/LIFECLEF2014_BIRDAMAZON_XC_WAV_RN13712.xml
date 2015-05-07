@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>13712</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN13712.wav</FileName>
+  <ClassId>armfvy</ClassId>
+  <Date>0000-00-00</Date>
+  <Time>?</Time>
+  <Locality>Fazenda Cerro Azul, Rio Negrinho, Santa Catarina</Locality>
+  <Latitude>-26.7048</Latitude>
+  <Longitude>-49.6042</Longitude>
+  <Elevation>960</Elevation>
+  <Author>Adrian Eisen Rupp</Author>
+  <AuthorID>AOPMSCIDIA</AuthorID>
+  <Content>song</Content>
+  <Comments />
+  <Quality>2</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Tyrannidae</Family>
+  <Genus>Camptostoma</Genus>
+  <Species>obsoletum</Species>
+  <Sub-species />
+  <VernacularNames>Southern Beardless Tyrannulet</VernacularNames>
+</Audio>

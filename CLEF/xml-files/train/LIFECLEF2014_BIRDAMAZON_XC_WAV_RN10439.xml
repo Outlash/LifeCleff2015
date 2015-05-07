@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>10439</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN10439.wav</FileName>
+  <ClassId>mkqlxe</ClassId>
+  <Date>2010-09-00</Date>
+  <Time>?</Time>
+  <Locality>Campo Mourão, Paraná</Locality>
+  <Latitude>NULL</Latitude>
+  <Longitude>NULL</Longitude>
+  <Elevation>350</Elevation>
+  <Author>luiz shrike</Author>
+  <AuthorID>ORPKXJRFDZ</AuthorID>
+  <Content>call</Content>
+  <Comments />
+  <Quality>3</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies>Tapera naevia,Pitangus sulphuratus</BackgroundSpecies>
+  <Order>Passeriformes</Order>
+  <Family>Tyrannidae</Family>
+  <Genus>Myiozetetes</Genus>
+  <Species>similis</Species>
+  <Sub-species />
+  <VernacularNames>Social Flycatcher</VernacularNames>
+</Audio>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>2200</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN2200.wav</FileName>
+  <ClassId>gaggjv</ClassId>
+  <Date>2011-11-11</Date>
+  <Time>10:30</Time>
+  <Locality>Trilha da Figueira, Tavares, Rio Grande do Sul</Locality>
+  <Latitude>-31.3266</Latitude>
+  <Longitude>-51.0719</Longitude>
+  <Elevation>10</Elevation>
+  <Author>Rafael Antunes Dias</Author>
+  <AuthorID>XJSWEWQCEC</AuthorID>
+  <Content>song</Content>
+  <Comments>In forest near the Lagoa do Peixe.bird-seen:yesplayback-used:yes</Comments>
+  <Quality>2</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies>Turdus rufiventris</BackgroundSpecies>
+  <Order>Passeriformes</Order>
+  <Family>Cardinalidae</Family>
+  <Genus>Saltator</Genus>
+  <Species>similis</Species>
+  <Sub-species />
+  <VernacularNames>Green-winged Saltator</VernacularNames>
+</Audio>

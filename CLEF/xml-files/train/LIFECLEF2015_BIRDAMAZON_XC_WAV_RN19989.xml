@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>19989</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN19989.wav</FileName>
+  <ClassId>wgtqmw</ClassId>
+  <Date>1998-12-14</Date>
+  <Time>07:35</Time>
+  <Locality>Manaus. INPA tower on ZF-2</Locality>
+  <Latitude>-2.5834</Latitude>
+  <Longitude>-60.1167</Longitude>
+  <Elevation>100</Elevation>
+  <Author>Jeremy Minns</Author>
+  <AuthorID>DGVLLRYDXS</AuthorID>
+  <Content>duet, song</Content>
+  <Comments>Terra firme forest.</Comments>
+  <Quality>2</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies>Patagioenas subvinacea,Thraupis palmarum</BackgroundSpecies>
+  <Order>Passeriformes</Order>
+  <Family>Thamnophilidae</Family>
+  <Genus>Herpsilochmus</Genus>
+  <Species>dorsimaculatus</Species>
+  <Sub-species />
+  <VernacularNames>Spot-backed Antwren</VernacularNames>
+</Audio>

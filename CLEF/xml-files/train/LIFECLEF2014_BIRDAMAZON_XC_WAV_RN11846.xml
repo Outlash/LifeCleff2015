@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>11846</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN11846.wav</FileName>
+  <ClassId>aeqwqe</ClassId>
+  <Date>1998-12-26</Date>
+  <Time>09:03</Time>
+  <Locality>Parque Nacional da Serra do Cipó, Minas Gerais State</Locality>
+  <Latitude>-19.3481</Latitude>
+  <Longitude>-43.6189</Longitude>
+  <Elevation>890</Elevation>
+  <Author>Rolf A. de By</Author>
+  <AuthorID>PTYTXQRLSZ</AuthorID>
+  <Content>song</Content>
+  <Comments />
+  <Quality>1</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies>Herpsilochmus atricapillus</BackgroundSpecies>
+  <Order>Passeriformes</Order>
+  <Family>Thamnophilidae</Family>
+  <Genus>Herpsilochmus</Genus>
+  <Species>atricapillus</Species>
+  <Sub-species />
+  <VernacularNames>Black-capped Antwren</VernacularNames>
+</Audio>

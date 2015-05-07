@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>17223</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN17223.wav</FileName>
+  <ClassId>bcieap</ClassId>
+  <Date>2013-06-23</Date>
+  <Time>05:30</Time>
+  <Locality>El Campano, above Minca, Santa Marta Mountains</Locality>
+  <Latitude>11.1118</Latitude>
+  <Longitude>-74.0976</Longitude>
+  <Elevation>1350</Elevation>
+  <Author>Diego Calderon-F.</Author>
+  <AuthorID>OGATBVKNAG</AuthorID>
+  <Content>song</Content>
+  <Comments>2 individuals forraging in the canopy early morningbird-seen:yesplayback-used:no</Comments>
+  <Quality>0</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies>Henicorhina leucophrys,Grallaricula ferrugineipectus</BackgroundSpecies>
+  <Order>Passeriformes</Order>
+  <Family>Parulidae</Family>
+  <Genus>Myiothlypis</Genus>
+  <Species>conspicillata</Species>
+  <Sub-species />
+  <VernacularNames>White-lored Warbler</VernacularNames>
+</Audio>

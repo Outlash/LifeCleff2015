@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>30224</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN30224.wav</FileName>
+  <ClassId>fxwyhh</ClassId>
+  <Date>2012-09-16</Date>
+  <Time>17:15</Time>
+  <Locality>Saul, St Laurent Du Maroni</Locality>
+  <Latitude>3.6217</Latitude>
+  <Longitude>-53.2088</Longitude>
+  <Elevation>210</Elevation>
+  <Author>Jon King</Author>
+  <AuthorID>LNEEOOWCQR</AuthorID>
+  <Content>song</Content>
+  <Comments>Distance to mic. 6m. Sentier Gors Arbres. Response by same individual to playback of XC114293.bird-seen:yesplayback-used:yes</Comments>
+  <Quality>1</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Tyrannidae</Family>
+  <Genus>Platyrinchus</Genus>
+  <Species>platyrhynchos</Species>
+  <Sub-species />
+  <VernacularNames>White-crested Spadebill</VernacularNames>
+</Audio>

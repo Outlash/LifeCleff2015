@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>12560</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN12560.wav</FileName>
+  <ClassId>rndrjp</ClassId>
+  <Date>2011-02-07</Date>
+  <Time>06:00</Time>
+  <Locality>Bacia 260, Santarem PA</Locality>
+  <Latitude>-3.013</Latitude>
+  <Longitude>-54.883</Longitude>
+  <Elevation>?</Elevation>
+  <Author>Nargila Moura</Author>
+  <AuthorID>CWEIBYBYYD</AuthorID>
+  <Content>song</Content>
+  <Comments>primary forest</Comments>
+  <Quality>0</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies>Dendrocolaptes certhia,Saltator grossus,Ramphastos tucanus</BackgroundSpecies>
+  <Order>Piciformes</Order>
+  <Family>Galbulidae</Family>
+  <Genus>Jacamerops</Genus>
+  <Species>aureus</Species>
+  <Sub-species>ridgwayi</Sub-species>
+  <VernacularNames>Great Jacamar</VernacularNames>
+</Audio>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>24795</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN24795.wav</FileName>
+  <ClassId>muhjso</ClassId>
+  <Date>2013-02-17</Date>
+  <Time>09:30</Time>
+  <Locality>Reserva Playa Guio, San José de Guaviare, Departamento de Guaviare</Locality>
+  <Latitude>2.667</Latitude>
+  <Longitude>-72.615</Longitude>
+  <Elevation>190</Elevation>
+  <Author>Juan Pablo López-Ordóñez</Author>
+  <AuthorID>UAYUTDXXII</AuthorID>
+  <Content>song</Content>
+  <Comments>Un individuo observado en borde de bosque de Varzea, en cercanias al Río Guaviare. Cantaba persistentemente a baja altura.bird-seen:yesplayback-used:no</Comments>
+  <Quality>1</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies>Columbina squammata</BackgroundSpecies>
+  <Order>Passeriformes</Order>
+  <Family>Tyrannidae</Family>
+  <Genus>Lathrotriccus</Genus>
+  <Species>euleri</Species>
+  <Sub-species />
+  <VernacularNames>Euler's Flycatcher</VernacularNames>
+</Audio>

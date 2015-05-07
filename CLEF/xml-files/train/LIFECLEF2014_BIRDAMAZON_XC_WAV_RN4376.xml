@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>4376</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN4376.wav</FileName>
+  <ClassId>rlqpij</ClassId>
+  <Date>2012-09-18</Date>
+  <Time>09:30</Time>
+  <Locality>Universidade Federal de Juiz de Fora, MG</Locality>
+  <Latitude>-21.776</Latitude>
+  <Longitude>-43.371</Longitude>
+  <Elevation>880</Elevation>
+  <Author>Marco Manhães</Author>
+  <AuthorID>ZLBYQGJAJN</AuthorID>
+  <Content>call</Content>
+  <Comments />
+  <Quality>2</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Tyrannidae</Family>
+  <Genus>Myiodynastes</Genus>
+  <Species>maculatus</Species>
+  <Sub-species />
+  <VernacularNames>Streaked Flycatcher</VernacularNames>
+</Audio>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>2954</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN2954.wav</FileName>
+  <ClassId>ktgebu</ClassId>
+  <Date>2010-01-30</Date>
+  <Time>17:00</Time>
+  <Locality>Angelina, Santa Catarina</Locality>
+  <Latitude>-27.5667</Latitude>
+  <Longitude>-49.01</Longitude>
+  <Elevation>830</Elevation>
+  <Author>Evair Legal</Author>
+  <AuthorID>SMJXFKLATM</AuthorID>
+  <Content>call</Content>
+  <Comments />
+  <Quality>2</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies>Vireo olivaceus</BackgroundSpecies>
+  <Order>Passeriformes</Order>
+  <Family>Formicariidae</Family>
+  <Genus>Chamaeza</Genus>
+  <Species>ruficauda</Species>
+  <Sub-species />
+  <VernacularNames>Rufous-tailed Antthrush</VernacularNames>
+</Audio>

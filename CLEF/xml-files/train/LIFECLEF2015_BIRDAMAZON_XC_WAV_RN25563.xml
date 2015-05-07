@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>25563</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN25563.wav</FileName>
+  <ClassId>xsrvcv</ClassId>
+  <Date>2000-06-19</Date>
+  <Time>10:41</Time>
+  <Locality>Estacion La Pradera (parte alta), Municipio Don Matias, Antioquia</Locality>
+  <Latitude>NULL</Latitude>
+  <Longitude>NULL</Longitude>
+  <Elevation>1550</Elevation>
+  <Author>Bernabe Lopez-Lanus</Author>
+  <AuthorID>BYLLSJRVDZ</AuthorID>
+  <Content>Call</Content>
+  <Comments />
+  <Quality>1</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Piciformes</Order>
+  <Family>Capitonidae</Family>
+  <Genus>Capito</Genus>
+  <Species>hypoleucus</Species>
+  <Sub-species />
+  <VernacularNames>White-mantled Barbet</VernacularNames>
+</Audio>

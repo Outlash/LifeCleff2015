@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>26168</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN26168.wav</FileName>
+  <ClassId>pexhzz</ClassId>
+  <Date>1985-02-18</Date>
+  <Time>?</Time>
+  <Locality>10 km SE La Azulita, Merida</Locality>
+  <Latitude>8.6445</Latitude>
+  <Longitude>-71.382</Longitude>
+  <Elevation>2300</Elevation>
+  <Author>Chris Parrish</Author>
+  <AuthorID>IHIOGGZVQA</AuthorID>
+  <Content>Squeek and song.</Content>
+  <Comments>40 sec interval deleted.</Comments>
+  <Quality>2</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Rhinocryptidae</Family>
+  <Genus>Scytalopus</Genus>
+  <Species>meridanus</Species>
+  <Sub-species />
+  <VernacularNames>Merida Tapaculo</VernacularNames>
+</Audio>

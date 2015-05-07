@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>25239</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN25239.wav</FileName>
+  <ClassId>ksohyj</ClassId>
+  <Date>2006-08-07</Date>
+  <Time>18:30</Time>
+  <Locality>20km south of Coro, Falcón</Locality>
+  <Latitude>11.3206</Latitude>
+  <Longitude>-69.6651</Longitude>
+  <Elevation>60</Elevation>
+  <Author>Nick Athanas</Author>
+  <AuthorID>XRABICUARW</AuthorID>
+  <Content>song</Content>
+  <Comments>Song from one male, with another unseen individual joining near the end.</Comments>
+  <Quality>2</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies>Eupsittula pertinax</BackgroundSpecies>
+  <Order>Passeriformes</Order>
+  <Family>Cardinalidae</Family>
+  <Genus>Cardinalis</Genus>
+  <Species>phoeniceus</Species>
+  <Sub-species />
+  <VernacularNames>Vermilion Cardinal</VernacularNames>
+</Audio>

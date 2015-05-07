@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>5157</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN5157.wav</FileName>
+  <ClassId>uwehqf</ClassId>
+  <Date>2000-11-27</Date>
+  <Time>09:48</Time>
+  <Locality>Tapajós National Forest</Locality>
+  <Latitude>-3.4834</Latitude>
+  <Longitude>-54.9167</Longitude>
+  <Elevation>50</Elevation>
+  <Author>Jeremy Minns</Author>
+  <AuthorID>DGVLLRYDXS</AuthorID>
+  <Content>Song</Content>
+  <Comments>Terra firme forest.</Comments>
+  <Quality>1</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies />
+  <Order>Piciformes</Order>
+  <Family>Ramphastidae</Family>
+  <Genus>Pteroglossus</Genus>
+  <Species>aracari</Species>
+  <Sub-species>aracari</Sub-species>
+  <VernacularNames>Black-necked Aracari</VernacularNames>
+</Audio>

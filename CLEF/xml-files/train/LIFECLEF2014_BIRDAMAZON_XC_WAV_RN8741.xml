@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>8741</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN8741.wav</FileName>
+  <ClassId>wvgogb</ClassId>
+  <Date>1997-09-15</Date>
+  <Time>?</Time>
+  <Locality>Serra do Cipo, Minas Gerais</Locality>
+  <Latitude>-19.7714</Latitude>
+  <Longitude>-43.6551</Longitude>
+  <Elevation>?</Elevation>
+  <Author>Don Jones</Author>
+  <AuthorID>BCWZQTGMSO</AuthorID>
+  <Content>song</Content>
+  <Comments />
+  <Quality>2</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies />
+  <Order>Cariamiformes</Order>
+  <Family>Cariamidae</Family>
+  <Genus>Cariama</Genus>
+  <Species>cristata</Species>
+  <Sub-species />
+  <VernacularNames>Red-legged Seriema</VernacularNames>
+</Audio>

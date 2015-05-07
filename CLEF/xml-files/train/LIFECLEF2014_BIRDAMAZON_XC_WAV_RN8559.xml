@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>8559</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN8559.wav</FileName>
+  <ClassId>bjvdzx</ClassId>
+  <Date>2011-08-25</Date>
+  <Time>10:30</Time>
+  <Locality>Parauapebas, Para</Locality>
+  <Latitude>-6.1924</Latitude>
+  <Longitude>-50.202</Longitude>
+  <Elevation>550</Elevation>
+  <Author>GABRIEL LEITE</Author>
+  <AuthorID>TGBFXDVERJ</AuthorID>
+  <Content>call, song</Content>
+  <Comments>bird-seen:yesplayback-used:no</Comments>
+  <Quality>2</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Troglodytidae</Family>
+  <Genus>Pheugopedius</Genus>
+  <Species>coraya</Species>
+  <Sub-species />
+  <VernacularNames>Coraya Wren</VernacularNames>
+</Audio>

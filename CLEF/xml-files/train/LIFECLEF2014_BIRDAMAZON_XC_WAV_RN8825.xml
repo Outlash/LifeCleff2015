@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>8825</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN8825.wav</FileName>
+  <ClassId>yudfzp</ClassId>
+  <Date>2012-10-04</Date>
+  <Time>17:15</Time>
+  <Locality>Pousada Penhasco, Chapada dos Guimarães, Mato Grosso</Locality>
+  <Latitude>-15.4776</Latitude>
+  <Longitude>-55.7585</Longitude>
+  <Elevation>800</Elevation>
+  <Author>Andrew Spencer</Author>
+  <AuthorID>CDTGHVBGZP</AuthorID>
+  <Content>call</Content>
+  <Comments>natural vocalizations, multiple call types from a pair of birds moving low through a dense bamboo thicket.bird-seen:yesplayback-used:no</Comments>
+  <Quality>1</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Troglodytidae</Family>
+  <Genus>Pheugopedius</Genus>
+  <Species>genibarbis</Species>
+  <Sub-species>intercedens</Sub-species>
+  <VernacularNames>Moustached Wren</VernacularNames>
+</Audio>

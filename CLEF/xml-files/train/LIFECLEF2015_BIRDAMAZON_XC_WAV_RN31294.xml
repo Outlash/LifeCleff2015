@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>31294</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN31294.wav</FileName>
+  <ClassId>enlzwu</ClassId>
+  <Date>2013-11-26</Date>
+  <Time>08:00</Time>
+  <Locality>Rosário Oeste, Mato Grosso</Locality>
+  <Latitude>-14.8264</Latitude>
+  <Longitude>-56.4241</Longitude>
+  <Elevation>200</Elevation>
+  <Author>João Antônio de B. Vitto</Author>
+  <AuthorID>RIVNLYTULO</AuthorID>
+  <Content>male, song</Content>
+  <Comments>bird-seen:yesplayback-used:yes</Comments>
+  <Quality>0</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Thraupidae</Family>
+  <Genus>Oryzoborus</Genus>
+  <Species>angolensis</Species>
+  <Sub-species />
+  <VernacularNames>Chestnut-bellied Seed Finch</VernacularNames>
+</Audio>

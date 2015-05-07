@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>9921</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN9921.wav</FileName>
+  <ClassId>eofsmg</ClassId>
+  <Date>2004-08-18</Date>
+  <Time>15:00</Time>
+  <Locality>Serra do Mar State Park. Cunha</Locality>
+  <Latitude>-23.267</Latitude>
+  <Longitude>-45.028</Longitude>
+  <Elevation>1100</Elevation>
+  <Author>Antonio Silveira</Author>
+  <AuthorID>NBJQSQJRYH</AuthorID>
+  <Content>male, song</Content>
+  <Comments>Territorial singing. Several males singing  in the valley in the middle of  the Atlantic Forest. This sound was taken of the video made by us. This is the first recorded voice for the region. see note in http://www.aultimaarcadenoe.com.br/wp-content/uploads/2011/06/PrimeiroregistrodocTijucaatra-NCunha-AS-Arca_2.pdf.  bird-seen:yesplayback-used:yes</Comments>
+  <Quality>2</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Cotingidae</Family>
+  <Genus>Tijuca</Genus>
+  <Species>atra</Species>
+  <Sub-species />
+  <VernacularNames>Black-and-gold Cotinga</VernacularNames>
+</Audio>

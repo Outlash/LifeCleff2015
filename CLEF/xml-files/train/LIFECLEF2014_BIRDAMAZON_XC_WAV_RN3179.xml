@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>3179</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN3179.wav</FileName>
+  <ClassId>fpnmqt</ClassId>
+  <Date>2012-06-03</Date>
+  <Time>07:30</Time>
+  <Locality>Mata dos Caetés, Vargem Alta, Espírito Santo</Locality>
+  <Latitude>-20.4573</Latitude>
+  <Longitude>-40.9921</Longitude>
+  <Elevation>1200</Elevation>
+  <Author>José Almir Jacomelli Junior</Author>
+  <AuthorID>GBKFZLQTNG</AuthorID>
+  <Content>After playback, song</Content>
+  <Comments>bird-seen:noplayback-used:yes</Comments>
+  <Quality>1</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Rhinocryptidae</Family>
+  <Genus>Scytalopus</Genus>
+  <Species>speluncae</Species>
+  <Sub-species />
+  <VernacularNames>Mouse-colored Tapaculo</VernacularNames>
+</Audio>

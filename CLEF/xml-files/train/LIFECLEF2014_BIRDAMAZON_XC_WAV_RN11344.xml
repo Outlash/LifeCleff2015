@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>11344</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN11344.wav</FileName>
+  <ClassId>pscjat</ClassId>
+  <Date>2011-07-19</Date>
+  <Time>6:44</Time>
+  <Locality>Iporá, State of Goiás</Locality>
+  <Latitude>-16.445634</Latitude>
+  <Longitude>-51.120071</Longitude>
+  <Elevation>650</Elevation>
+  <Author>Daniel Blamires</Author>
+  <AuthorID>ZLNOGADASD</AuthorID>
+  <Content>call</Content>
+  <Comments />
+  <Quality>1</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies>Passer domesticus</BackgroundSpecies>
+  <Order>Passeriformes</Order>
+  <Family>Thraupidae</Family>
+  <Genus>Sicalis</Genus>
+  <Species>flaveola</Species>
+  <Sub-species />
+  <VernacularNames>Saffron Finch</VernacularNames>
+</Audio>

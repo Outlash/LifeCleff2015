@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>539</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN539.wav</FileName>
+  <ClassId>hzjuvh</ClassId>
+  <Date>2011-05-19</Date>
+  <Time>09:43</Time>
+  <Locality>Paragominas, PA, Brazil, Bacia 549</Locality>
+  <Latitude>-3.8101</Latitude>
+  <Longitude>-48.377</Longitude>
+  <Elevation>?</Elevation>
+  <Author>Nargila Moura</Author>
+  <AuthorID>CWEIBYBYYD</AuthorID>
+  <Content>flight call</Content>
+  <Comments>primary forest</Comments>
+  <Quality>3</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies>Monasa morphoeus,Piprites chloris</BackgroundSpecies>
+  <Order>Psittaciformes</Order>
+  <Family>Psittacidae</Family>
+  <Genus>Brotogeris</Genus>
+  <Species>chrysoptera</Species>
+  <Sub-species>tuipara</Sub-species>
+  <VernacularNames>Golden-winged Parakeet</VernacularNames>
+</Audio>

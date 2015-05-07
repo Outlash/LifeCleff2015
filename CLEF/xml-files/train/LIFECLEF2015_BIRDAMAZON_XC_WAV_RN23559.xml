@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>23559</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN23559.wav</FileName>
+  <ClassId>uydzcv</ClassId>
+  <Date>2014-03-15</Date>
+  <Time>07:00</Time>
+  <Locality>Chupinguaia, Rondônia</Locality>
+  <Latitude>-12.2417</Latitude>
+  <Longitude>-60.7141</Longitude>
+  <Elevation>340</Elevation>
+  <Author>GABRIEL LEITE</Author>
+  <AuthorID>TGBFXDVERJ</AuthorID>
+  <Content>song</Content>
+  <Comments>bird-seen:noplayback-used:no</Comments>
+  <Quality>2</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Tyrannidae</Family>
+  <Genus>Tolmomyias</Genus>
+  <Species>assimilis</Species>
+  <Sub-species>assimilis</Sub-species>
+  <VernacularNames>Zimmer's Flatbill</VernacularNames>
+</Audio>

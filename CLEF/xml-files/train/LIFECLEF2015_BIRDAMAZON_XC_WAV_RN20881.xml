@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>20881</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN20881.wav</FileName>
+  <ClassId>dvpcru</ClassId>
+  <Date>2010-01-20</Date>
+  <Time>09:30</Time>
+  <Locality>Laguna Pedro Palo, Cundinamarca</Locality>
+  <Latitude>NULL</Latitude>
+  <Longitude>NULL</Longitude>
+  <Elevation>2050</Elevation>
+  <Author>Frank Lambert</Author>
+  <AuthorID>YTUXOCTUEM</AuthorID>
+  <Content>Song</Content>
+  <Comments />
+  <Quality>0</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Piciformes</Order>
+  <Family>Bucconidae</Family>
+  <Genus>Malacoptila</Genus>
+  <Species>mystacalis</Species>
+  <Sub-species />
+  <VernacularNames>Moustached Puffbird</VernacularNames>
+</Audio>

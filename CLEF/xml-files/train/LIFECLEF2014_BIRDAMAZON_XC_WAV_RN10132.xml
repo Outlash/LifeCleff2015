@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>10132</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN10132.wav</FileName>
+  <ClassId>dvcjbu</ClassId>
+  <Date>2008-07-00</Date>
+  <Time>21:05</Time>
+  <Locality>Fazenda Castanheiras (APA -Bororé - Colonia) São Paulo, SP</Locality>
+  <Latitude>-23.8081</Latitude>
+  <Longitude>-46.6498</Longitude>
+  <Elevation>760</Elevation>
+  <Author>Marcos Melo</Author>
+  <AuthorID>MRGDYNJGUJ</AuthorID>
+  <Content>song</Content>
+  <Comments>In response of playback</Comments>
+  <Quality>1</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies />
+  <Order>Strigiformes</Order>
+  <Family>Strigidae</Family>
+  <Genus>Pulsatrix</Genus>
+  <Species>koeniswaldiana</Species>
+  <Sub-species />
+  <VernacularNames>Tawny-browed Owl</VernacularNames>
+</Audio>

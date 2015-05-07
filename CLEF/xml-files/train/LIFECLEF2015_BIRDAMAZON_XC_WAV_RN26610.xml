@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>26610</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN26610.wav</FileName>
+  <ClassId>nsmtcj</ClassId>
+  <Date>2010-10-31</Date>
+  <Time>7:26</Time>
+  <Locality>Belterra, PA - Bacia 399</Locality>
+  <Latitude>-2.844</Latitude>
+  <Longitude>-54.833</Longitude>
+  <Elevation>?</Elevation>
+  <Author>Christian Borges Andretti</Author>
+  <AuthorID>EZSMXGTXKS</AuthorID>
+  <Content>call</Content>
+  <Comments />
+  <Quality>4</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies>Lipaugus vociferans</BackgroundSpecies>
+  <Order>Piciformes</Order>
+  <Family>Picidae</Family>
+  <Genus>Veniliornis</Genus>
+  <Species>affinis</Species>
+  <Sub-species />
+  <VernacularNames>Red-stained Woodpecker</VernacularNames>
+</Audio>

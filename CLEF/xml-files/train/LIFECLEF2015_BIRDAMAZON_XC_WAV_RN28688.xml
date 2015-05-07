@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>28688</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN28688.wav</FileName>
+  <ClassId>ajwuzt</ClassId>
+  <Date>2009-12-15</Date>
+  <Time>06:30</Time>
+  <Locality>Romulo Gallegos, Apure</Locality>
+  <Latitude>6.8397</Latitude>
+  <Longitude>-69.5468</Longitude>
+  <Elevation>90</Elevation>
+  <Author>Joe Klaiber</Author>
+  <AuthorID>TNPOVFLZMY</AuthorID>
+  <Content>song</Content>
+  <Comments>bird-seen:yesplayback-used:no</Comments>
+  <Quality>2</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Cardinalidae</Family>
+  <Genus>Saltator</Genus>
+  <Species>coerulescens</Species>
+  <Sub-species />
+  <VernacularNames>Greyish Saltator</VernacularNames>
+</Audio>

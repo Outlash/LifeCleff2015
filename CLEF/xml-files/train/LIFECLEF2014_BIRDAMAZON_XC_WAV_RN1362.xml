@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>1362</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN1362.wav</FileName>
+  <ClassId>vjukoo</ClassId>
+  <Date>2009-05-03</Date>
+  <Time>07:10</Time>
+  <Locality>APA Capivari Monos, São Paulo, SP</Locality>
+  <Latitude>-23.9556</Latitude>
+  <Longitude>-46.6503</Longitude>
+  <Elevation>780</Elevation>
+  <Author>Marcos Melo</Author>
+  <AuthorID>MRGDYNJGUJ</AuthorID>
+  <Content>alarm call</Content>
+  <Comments />
+  <Quality>2</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Tyrannidae</Family>
+  <Genus>Attila</Genus>
+  <Species>rufus</Species>
+  <Sub-species />
+  <VernacularNames>Grey-hooded Attila</VernacularNames>
+</Audio>

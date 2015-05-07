@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>5029</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN5029.wav</FileName>
+  <ClassId>rxgdwi</ClassId>
+  <Date>2011-07-15</Date>
+  <Time>08:00</Time>
+  <Locality>Almeirim/Pará</Locality>
+  <Latitude>-1.095</Latitude>
+  <Longitude>-52.653</Longitude>
+  <Elevation>80</Elevation>
+  <Author>Christian B. Andretti</Author>
+  <AuthorID>EZSMXGTXKS</AuthorID>
+  <Content>song</Content>
+  <Comments>Bituba - Selective Loggingbird-seen:noplayback-used:no</Comments>
+  <Quality>3</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies>Tyranneutes virescens,Ramphastos tucanus</BackgroundSpecies>
+  <Order>Columbiformes</Order>
+  <Family>Columbidae</Family>
+  <Genus>Patagioenas</Genus>
+  <Species>subvinacea</Species>
+  <Sub-species>purpureotincta ??</Sub-species>
+  <VernacularNames>Ruddy Pigeon</VernacularNames>
+</Audio>

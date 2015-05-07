@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>28763</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN28763.wav</FileName>
+  <ClassId>fvhrfq</ClassId>
+  <Date>2012-12-23</Date>
+  <Time>13:00</Time>
+  <Locality>Serra da Cantareira State Park (Pedra Grande), São Paulo</Locality>
+  <Latitude>-23.4349</Latitude>
+  <Longitude>-46.6469</Longitude>
+  <Elevation>800</Elevation>
+  <Author>Bruno Arantes de Andrade Bueno</Author>
+  <AuthorID>BIZLGNOPNS</AuthorID>
+  <Content>song</Content>
+  <Comments>Solitary Tinamou's chororocada song. This is the same individual heard in the background of [XC115825](http://xeno-canto.org/115825).Montane Forest. Lightweight rain drops can be heard in the recording. Recorded using Sony ICD-PX312 personal recorder.bird-seen:noplayback-used:no""</Comments>
+  <Quality>2</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies>Herpsilochmus rufimarginatus</BackgroundSpecies>
+  <Order>Tinamiformes</Order>
+  <Family>Tinamidae</Family>
+  <Genus>Tinamus</Genus>
+  <Species>solitarius</Species>
+  <Sub-species />
+  <VernacularNames>Solitary Tinamou</VernacularNames>
+</Audio>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>3421</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN3421.wav</FileName>
+  <ClassId>uvfjyo</ClassId>
+  <Date>1997-11-09</Date>
+  <Time>09:01</Time>
+  <Locality>Reserva Biológica A. Ruschi, ES</Locality>
+  <Latitude>-19.8834</Latitude>
+  <Longitude>-40.5834</Longitude>
+  <Elevation>750</Elevation>
+  <Author>Jeremy Minns</Author>
+  <AuthorID>DGVLLRYDXS</AuthorID>
+  <Content>Call</Content>
+  <Comments>Montane forest. This is Call B in our DVD-ROM 'Birds of Brazil'.</Comments>
+  <Quality>2</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies>Turdus albicollis,Thraupis ornata</BackgroundSpecies>
+  <Order>Passeriformes</Order>
+  <Family>Thraupidae</Family>
+  <Genus>Hemithraupis</Genus>
+  <Species>ruficapilla</Species>
+  <Sub-species>ruficapilla</Sub-species>
+  <VernacularNames>Rufous-headed Tanager</VernacularNames>
+</Audio>

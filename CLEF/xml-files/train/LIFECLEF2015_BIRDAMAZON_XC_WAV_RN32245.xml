@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>32245</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN32245.wav</FileName>
+  <ClassId>hzjuvh</ClassId>
+  <Date>2010-07-03</Date>
+  <Time>07:53</Time>
+  <Locality>Montagne de Kaw - Roura</Locality>
+  <Latitude>NULL</Latitude>
+  <Longitude>NULL</Longitude>
+  <Elevation>?</Elevation>
+  <Author>Patrick INGREMEAU</Author>
+  <AuthorID>IIVTYSKEYX</AuthorID>
+  <Content>flight call</Content>
+  <Comments>Group of 15 birds flying around me</Comments>
+  <Quality>0</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies>Ramphocaenus melanurus</BackgroundSpecies>
+  <Order>Psittaciformes</Order>
+  <Family>Psittacidae</Family>
+  <Genus>Brotogeris</Genus>
+  <Species>chrysoptera</Species>
+  <Sub-species />
+  <VernacularNames>Golden-winged Parakeet</VernacularNames>
+</Audio>

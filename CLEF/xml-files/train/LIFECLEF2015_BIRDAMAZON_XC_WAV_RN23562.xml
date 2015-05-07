@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>23562</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN23562.wav</FileName>
+  <ClassId>zreufv</ClassId>
+  <Date>2007-12-16</Date>
+  <Time>06:10</Time>
+  <Locality>Parque Regional Barbas-Bremen, Filandia, Quindio. Sector Barbas</Locality>
+  <Latitude>4.6717</Latitude>
+  <Longitude>-75.6283</Longitude>
+  <Elevation>1900</Elevation>
+  <Author>Oscar Humberto Marin-Gomez</Author>
+  <AuthorID>CSUHASNRSU</AuthorID>
+  <Content>female, song</Content>
+  <Comments>Ref: OHM14B 1826bird-seen:noplayback-used:no</Comments>
+  <Quality>3</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Tityridae</Family>
+  <Genus>Pachyramphus</Genus>
+  <Species>polychopterus</Species>
+  <Sub-species />
+  <VernacularNames>White-winged Becard</VernacularNames>
+</Audio>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>24891</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN24891.wav</FileName>
+  <ClassId>bgaifs</ClassId>
+  <Date>2003-11-28</Date>
+  <Time>07:37</Time>
+  <Locality>Cristalino Jungle Lodge, MT</Locality>
+  <Latitude>-9.5981</Latitude>
+  <Longitude>-55.932</Longitude>
+  <Elevation>250</Elevation>
+  <Author>Jeremy Minns</Author>
+  <AuthorID>DGVLLRYDXS</AuthorID>
+  <Content>Song</Content>
+  <Comments>Terra firme forest. Five natural songs and two after playback.</Comments>
+  <Quality>2</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies>Crypturellus cinereus</BackgroundSpecies>
+  <Order>Passeriformes</Order>
+  <Family>Furnariidae</Family>
+  <Genus>Deconychura</Genus>
+  <Species>stictolaema</Species>
+  <Sub-species>stictolaema</Sub-species>
+  <VernacularNames>Spot-throated Woodcreeper</VernacularNames>
+</Audio>

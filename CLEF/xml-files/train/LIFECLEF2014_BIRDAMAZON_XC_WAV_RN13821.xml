@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>13821</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN13821.wav</FileName>
+  <ClassId>yplahx</ClassId>
+  <Date>2000-08-05</Date>
+  <Time>09:25</Time>
+  <Locality>Itanhaem. Chacaras Bopiranga</Locality>
+  <Latitude>-24.1834</Latitude>
+  <Longitude>-46.9001</Longitude>
+  <Elevation>10</Elevation>
+  <Author>Jeremy Minns</Author>
+  <AuthorID>DGVLLRYDXS</AuthorID>
+  <Content>call</Content>
+  <Comments>Coastal white sand forest. Single bird foraging in midstorey.</Comments>
+  <Quality>2</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Polioptilidae</Family>
+  <Genus>Ramphocaenus</Genus>
+  <Species>melanurus</Species>
+  <Sub-species>melanurus</Sub-species>
+  <VernacularNames>Long-billed Gnatwren</VernacularNames>
+</Audio>

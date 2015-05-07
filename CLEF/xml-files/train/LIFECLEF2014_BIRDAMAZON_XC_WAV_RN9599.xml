@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>9599</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN9599.wav</FileName>
+  <ClassId>kunsua</ClassId>
+  <Date>2006-03-08</Date>
+  <Time>07:00</Time>
+  <Locality>Serra da Aratanha, Pacatuba, state of Ceará</Locality>
+  <Latitude>-3.9667</Latitude>
+  <Longitude>-38.6334</Longitude>
+  <Elevation>450</Elevation>
+  <Author>Ciro Albano</Author>
+  <AuthorID>MXVQPUKGWW</AuthorID>
+  <Content>call, song</Content>
+  <Comments />
+  <Quality>3</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies>Cyclarhis gujanensis,Turdus leucomelas</BackgroundSpecies>
+  <Order>Passeriformes</Order>
+  <Family>Furnariidae</Family>
+  <Genus>Sclerurus</Genus>
+  <Species>scansor</Species>
+  <Sub-species>cearensis</Sub-species>
+  <VernacularNames>Rufous-breasted Leaftosser</VernacularNames>
+</Audio>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>25873</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN25873.wav</FileName>
+  <ClassId>uaciky</ClassId>
+  <Date>2011-06-24</Date>
+  <Time>08:00</Time>
+  <Locality>RNA Las Tangaras, Choco</Locality>
+  <Latitude>5.729</Latitude>
+  <Longitude>-76.244</Longitude>
+  <Elevation>1700</Elevation>
+  <Author>Andrew Spencer</Author>
+  <AuthorID>CDTGHVBGZP</AuthorID>
+  <Content>song</Content>
+  <Comments>natural vocalization, first part of the song missed.</Comments>
+  <Quality>1</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Rhinocryptidae</Family>
+  <Genus>Scytalopus</Genus>
+  <Species>sp.nov.Alto_Pisones</Species>
+  <Sub-species />
+  <VernacularNames>Alto Pisones' Tapaculo</VernacularNames>
+</Audio>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>9228</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN9228.wav</FileName>
+  <ClassId>xyvbwf</ClassId>
+  <Date>2000-09-11</Date>
+  <Time>06:45</Time>
+  <Locality>Alta Floresta, Mato Grosso. Near Hotel Floresta Amazônica</Locality>
+  <Latitude>-8.385</Latitude>
+  <Longitude>-52.031</Longitude>
+  <Elevation>250</Elevation>
+  <Author>Jeremy Minns</Author>
+  <AuthorID>DGVLLRYDXS</AuthorID>
+  <Content>Song</Content>
+  <Comments>Terra firme forest.</Comments>
+  <Quality>1</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies>Myrmeciza hemimelaena,Thamnophilus schistaceus,Ara severus</BackgroundSpecies>
+  <Order>Passeriformes</Order>
+  <Family>Thamnophilidae</Family>
+  <Genus>Microrhopias</Genus>
+  <Species>quixensis</Species>
+  <Sub-species>bicolor</Sub-species>
+  <VernacularNames>Dot-winged Antwren</VernacularNames>
+</Audio>

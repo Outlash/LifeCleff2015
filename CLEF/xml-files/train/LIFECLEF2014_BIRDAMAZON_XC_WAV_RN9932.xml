@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>9932</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN9932.wav</FileName>
+  <ClassId>rndrjp</ClassId>
+  <Date>2011-09-11</Date>
+  <Time>09:00</Time>
+  <Locality>Parauapebas, Para</Locality>
+  <Latitude>-6.1242</Latitude>
+  <Longitude>-50.4382</Longitude>
+  <Elevation>650</Elevation>
+  <Author>GABRIEL LEITE</Author>
+  <AuthorID>TGBFXDVERJ</AuthorID>
+  <Content>song</Content>
+  <Comments>bird-seen:noplayback-used:no</Comments>
+  <Quality>4</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies />
+  <Order>Piciformes</Order>
+  <Family>Galbulidae</Family>
+  <Genus>Jacamerops</Genus>
+  <Species>aureus</Species>
+  <Sub-species />
+  <VernacularNames>Great Jacamar</VernacularNames>
+</Audio>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>19612</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN19612.wav</FileName>
+  <ClassId>oprcxm</ClassId>
+  <Date>1994-06-12</Date>
+  <Time>11:10</Time>
+  <Locality>Antioquia: Alto Gallinazo: 0605N 7537W</Locality>
+  <Latitude>6.0834</Latitude>
+  <Longitude>-75.6167</Longitude>
+  <Elevation>2100</Elevation>
+  <Author>Niels Krabbe</Author>
+  <AuthorID>XTVEPHMPPJ</AuthorID>
+  <Content>call</Content>
+  <Comments>Ref.: NK LXXXA 276-284</Comments>
+  <Quality>0</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Accipitriformes</Order>
+  <Family>Accipitridae</Family>
+  <Genus>Geranoaetus</Genus>
+  <Species>albicaudatus</Species>
+  <Sub-species />
+  <VernacularNames>White-tailed Hawk</VernacularNames>
+</Audio>

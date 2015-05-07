@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>18329</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN18329.wav</FileName>
+  <ClassId>vspgzn</ClassId>
+  <Date>2000-09-07</Date>
+  <Time>10:47</Time>
+  <Locality>Parque Nacional da Amazônia</Locality>
+  <Latitude>-4.5167</Latitude>
+  <Longitude>-56.3001</Longitude>
+  <Elevation>90</Elevation>
+  <Author>Jeremy Minns</Author>
+  <AuthorID>DGVLLRYDXS</AuthorID>
+  <Content>song</Content>
+  <Comments>Uruá trail - terra firme forestbird-seen:noplayback-used:yes</Comments>
+  <Quality>2</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Pipridae</Family>
+  <Genus>Lepidothrix</Genus>
+  <Species>nattereri</Species>
+  <Sub-species>nattereri (ssp. assumed from locality)</Sub-species>
+  <VernacularNames>Snow-capped Manakin</VernacularNames>
+</Audio>

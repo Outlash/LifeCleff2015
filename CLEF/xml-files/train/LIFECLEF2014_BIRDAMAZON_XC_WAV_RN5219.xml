@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>5219</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN5219.wav</FileName>
+  <ClassId>uizzbr</ClassId>
+  <Date>2009-02-10</Date>
+  <Time>10:00</Time>
+  <Locality>Parque Estadual do Conduru, Uruçuca-BA</Locality>
+  <Latitude>NULL</Latitude>
+  <Longitude>NULL</Longitude>
+  <Elevation>?</Elevation>
+  <Author>Guilherme Serpa</Author>
+  <AuthorID>ZIEUWTHKRO</AuthorID>
+  <Content>song</Content>
+  <Comments />
+  <Quality>2</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Cotingidae</Family>
+  <Genus>Lipaugus</Genus>
+  <Species>vociferans</Species>
+  <Sub-species />
+  <VernacularNames>Screaming Piha</VernacularNames>
+</Audio>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>4517</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN4517.wav</FileName>
+  <ClassId>pprfie</ClassId>
+  <Date>2009-11-15</Date>
+  <Time>13h20min</Time>
+  <Locality>APA Macaé de Cima - Nova Friburgo</Locality>
+  <Latitude>NULL</Latitude>
+  <Longitude>NULL</Longitude>
+  <Elevation>1000</Elevation>
+  <Author>Fábio Francisco Carnaval de Andrade</Author>
+  <AuthorID>XIIEEVYWZB</AuthorID>
+  <Content>?</Content>
+  <Comments />
+  <Quality>3</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Vireonidae</Family>
+  <Genus>Cyclarhis</Genus>
+  <Species>gujanensis</Species>
+  <Sub-species />
+  <VernacularNames>Rufous-browed Peppershrike</VernacularNames>
+</Audio>

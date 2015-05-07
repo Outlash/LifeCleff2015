@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>8907</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN8907.wav</FileName>
+  <ClassId>lwkbdk</ClassId>
+  <Date>2002-10-31</Date>
+  <Time>18:08</Time>
+  <Locality>Parque Nacional Serra da Canastra, São Roque de Minas, MG</Locality>
+  <Latitude>-20.24528</Latitude>
+  <Longitude>-46.36583</Longitude>
+  <Elevation>1350</Elevation>
+  <Author>Jeremy Minns</Author>
+  <AuthorID>DGVLLRYDXS</AuthorID>
+  <Content>Song A</Content>
+  <Comments>Grassland with scattered bushes.</Comments>
+  <Quality>2</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies>Rhynchotus rufescens,Ammodramus humeralis,Sicalis citrina</BackgroundSpecies>
+  <Order>Tinamiformes</Order>
+  <Family>Tinamidae</Family>
+  <Genus>Nothura</Genus>
+  <Species>maculosa</Species>
+  <Sub-species>major</Sub-species>
+  <VernacularNames>Spotted Nothura</VernacularNames>
+</Audio>

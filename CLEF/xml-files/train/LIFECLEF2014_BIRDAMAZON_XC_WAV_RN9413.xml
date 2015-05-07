@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>9413</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN9413.wav</FileName>
+  <ClassId>qlwaes</ClassId>
+  <Date>2007-01-18</Date>
+  <Time>08:15</Time>
+  <Locality>Serra de Baturité, Ceará</Locality>
+  <Latitude>-4.2334</Latitude>
+  <Longitude>-38.9167</Longitude>
+  <Elevation>690</Elevation>
+  <Author>Richard C. Hoyer</Author>
+  <AuthorID>SRRRBQPENI</AuthorID>
+  <Content>song</Content>
+  <Comments />
+  <Quality>1</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Furnariidae</Family>
+  <Genus>Xiphorhynchus</Genus>
+  <Species>fuscus</Species>
+  <Sub-species />
+  <VernacularNames>Lesser Woodcreeper</VernacularNames>
+</Audio>

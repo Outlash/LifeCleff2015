@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>2411</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN2411.wav</FileName>
+  <ClassId>etzhjw</ClassId>
+  <Date>2010-06-19</Date>
+  <Time>14:30</Time>
+  <Locality>Palhoça, Santa Catarina</Locality>
+  <Latitude>-27.819</Latitude>
+  <Longitude>-48.659</Longitude>
+  <Elevation>10</Elevation>
+  <Author>Evair Legal</Author>
+  <AuthorID>SMJXFKLATM</AuthorID>
+  <Content>song</Content>
+  <Comments>Parula pitiayumi</Comments>
+  <Quality>1</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Tyrannidae</Family>
+  <Genus>Phyllomyias</Genus>
+  <Species>virescens</Species>
+  <Sub-species />
+  <VernacularNames>Greenish Tyrannulet</VernacularNames>
+</Audio>

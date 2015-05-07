@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>24572</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN24572.wav</FileName>
+  <ClassId>mwmwbb</ClassId>
+  <Date>2011-02-24</Date>
+  <Time>18:16</Time>
+  <Locality>Morro do Pilar, Minas Gerais</Locality>
+  <Latitude>-19.185</Latitude>
+  <Longitude>-43.394</Longitude>
+  <Elevation>1.324</Elevation>
+  <Author>Luciano Faria</Author>
+  <AuthorID>MACWXFFUWD</AuthorID>
+  <Content>Song</Content>
+  <Comments />
+  <Quality>2</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Rhinocryptidae</Family>
+  <Genus>Scytalopus</Genus>
+  <Species>iraiensis</Species>
+  <Sub-species />
+  <VernacularNames>Marsh Tapaculo</VernacularNames>
+</Audio>

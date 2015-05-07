@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>1508</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN1508.wav</FileName>
+  <ClassId>jiuopg</ClassId>
+  <Date>2006-08-07</Date>
+  <Time>07:00</Time>
+  <Locality>20 km W Alta Floresta, MT</Locality>
+  <Latitude>-9.826</Latitude>
+  <Longitude>-56.31</Longitude>
+  <Elevation>?</Elevation>
+  <Author>Alexander Lees</Author>
+  <AuthorID>INDDBZAFJL</AuthorID>
+  <Content>song</Content>
+  <Comments>http://www.wikiaves.com.br/348930&amp;p=1&amp;t=c&amp;c=5100250&amp;s=11344</Comments>
+  <Quality>2</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Tyrannidae</Family>
+  <Genus>Sirystes</Genus>
+  <Species>sibilator</Species>
+  <Sub-species>sibilator</Sub-species>
+  <VernacularNames>Eastern Sirystes</VernacularNames>
+</Audio>

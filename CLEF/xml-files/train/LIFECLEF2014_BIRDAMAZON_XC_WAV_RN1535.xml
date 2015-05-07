@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>1535</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN1535.wav</FileName>
+  <ClassId>etzhjw</ClassId>
+  <Date>2010-05-30</Date>
+  <Time>11:15</Time>
+  <Locality>Pq. Nat. Mun. Açude da Concórdia, Valença, RJ</Locality>
+  <Latitude>-22.331</Latitude>
+  <Longitude>-43.738</Longitude>
+  <Elevation>900</Elevation>
+  <Author>Ricardo Gagliardi</Author>
+  <AuthorID>YRDADNREOP</AuthorID>
+  <Content>call</Content>
+  <Comments />
+  <Quality>2</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies>Tolmomyias sulphurescens,Dysithamnus mentalis,Myiornis auricularis</BackgroundSpecies>
+  <Order>Passeriformes</Order>
+  <Family>Tyrannidae</Family>
+  <Genus>Phyllomyias</Genus>
+  <Species>virescens</Species>
+  <Sub-species />
+  <VernacularNames>Greenish Tyrannulet</VernacularNames>
+</Audio>

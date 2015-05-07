@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>6439</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN6439.wav</FileName>
+  <ClassId>azrobg</ClassId>
+  <Date>2007-10-06</Date>
+  <Time>12:50</Time>
+  <Locality>Horto Florestal, Cantareira, Sao Paulo city, Sao Paulo state</Locality>
+  <Latitude>-23.46</Latitude>
+  <Longitude>-46.638</Longitude>
+  <Elevation>830</Elevation>
+  <Author>Daniel Lane</Author>
+  <AuthorID>WOEAFQRMUD</AuthorID>
+  <Content>song</Content>
+  <Comments>Natural song from two pairs in (7-10m up) canopy of subtropical forest.</Comments>
+  <Quality>3</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies>Chiroxiphia caudata,Hylophilus poicilotis</BackgroundSpecies>
+  <Order>Passeriformes</Order>
+  <Family>Thamnophilidae</Family>
+  <Genus>Herpsilochmus</Genus>
+  <Species>rufimarginatus</Species>
+  <Sub-species>rufimarginatus</Sub-species>
+  <VernacularNames>Rufous-winged Antwren</VernacularNames>
+</Audio>

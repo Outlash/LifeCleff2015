@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>20012</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN20012.wav</FileName>
+  <ClassId>msddpb</ClassId>
+  <Date>2001-07-15</Date>
+  <Time>?</Time>
+  <Locality>Reserva Hidrográfica, Forestal, y Parque Ecológico Río Blanco, El Desquite - La Navarra, Manizales, Caldas</Locality>
+  <Latitude>5.1</Latitude>
+  <Longitude>-75.37139</Longitude>
+  <Elevation>2700</Elevation>
+  <Author>Andrés Mauricio López (Colección de Sonidos Ambientales - Instituto Humboldt)</Author>
+  <AuthorID>XMFDPACYJN</AuthorID>
+  <Content>call</Content>
+  <Comments>BSA 11489To obtain a wav file of the original recording, please contact csa@humboldt.org.coplayback-used:no</Comments>
+  <Quality>4</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Grallariidae</Family>
+  <Genus>Grallaria</Genus>
+  <Species>milleri</Species>
+  <Sub-species />
+  <VernacularNames>Brown-banded Antpitta</VernacularNames>
+</Audio>

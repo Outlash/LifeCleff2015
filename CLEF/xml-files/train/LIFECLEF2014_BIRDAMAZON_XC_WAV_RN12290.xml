@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>12290</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN12290.wav</FileName>
+  <ClassId>jjeesd</ClassId>
+  <Date>2010-12-14</Date>
+  <Time>?</Time>
+  <Locality>Floresta Nacional do Tapajós, Bacia 165, Santarem, Para</Locality>
+  <Latitude>-2.7539</Latitude>
+  <Longitude>-54.997</Longitude>
+  <Elevation>?</Elevation>
+  <Author>Nargila Moura</Author>
+  <AuthorID>CWEIBYBYYD</AuthorID>
+  <Content>song</Content>
+  <Comments>primary forest</Comments>
+  <Quality>2</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies>Trogon melanurus,Lipaugus vociferans,Myiarchus tuberculifer,Cercomacra cinerascens,Psarocolius bifasciatus</BackgroundSpecies>
+  <Order>Passeriformes</Order>
+  <Family>Cardinalidae</Family>
+  <Genus>Cyanocompsa</Genus>
+  <Species>cyanoides</Species>
+  <Sub-species>rothschildii</Sub-species>
+  <VernacularNames>Blue-black Grosbeak</VernacularNames>
+</Audio>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>11253</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN11253.wav</FileName>
+  <ClassId>yyklvx</ClassId>
+  <Date>2012-03-14</Date>
+  <Time>11:12</Time>
+  <Locality>Pequena caatinga preservada na Santa Cruz-Pão de Açúcar-Alagoas-Brasil</Locality>
+  <Latitude>NULL</Latitude>
+  <Longitude>NULL</Longitude>
+  <Elevation>?</Elevation>
+  <Author>pedroteia</Author>
+  <AuthorID>BZVNDWLRSQ</AuthorID>
+  <Content>song</Content>
+  <Comments>Gravado em um pequeno pedaço de caatinga preservado na santa cruz -Pão de Açúcar-Alagoas Brasil.</Comments>
+  <Quality>0</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Icteridae</Family>
+  <Genus>Agelaioides</Genus>
+  <Species>badius</Species>
+  <Sub-species />
+  <VernacularNames>Baywing</VernacularNames>
+</Audio>

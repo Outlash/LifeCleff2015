@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>9867</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN9867.wav</FileName>
+  <ClassId>pprfie</ClassId>
+  <Date>2013-09-28</Date>
+  <Time>11:00</Time>
+  <Locality>Instituto Butantan, São Paulo city, São Paulo State</Locality>
+  <Latitude>-23.5682</Latitude>
+  <Longitude>-46.7193</Longitude>
+  <Elevation>750</Elevation>
+  <Author>Antonio Silveira</Author>
+  <AuthorID>NBJQSQJRYH</AuthorID>
+  <Content>song</Content>
+  <Comments>bird-seen:yesplayback-used:no</Comments>
+  <Quality>2</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Vireonidae</Family>
+  <Genus>Cyclarhis</Genus>
+  <Species>gujanensis</Species>
+  <Sub-species />
+  <VernacularNames>Rufous-browed Peppershrike</VernacularNames>
+</Audio>

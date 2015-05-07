@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>972</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN972.wav</FileName>
+  <ClassId>viluoh</ClassId>
+  <Date>2009-04-28</Date>
+  <Time>05:55</Time>
+  <Locality>Pq. Ibirapuera, São Paulo, SP</Locality>
+  <Latitude>-23.5889</Latitude>
+  <Longitude>-46.6606</Longitude>
+  <Elevation>760</Elevation>
+  <Author>Marcos Melo</Author>
+  <AuthorID>MRGDYNJGUJ</AuthorID>
+  <Content>dawn song</Content>
+  <Comments />
+  <Quality>1</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Tyrannidae</Family>
+  <Genus>Pitangus</Genus>
+  <Species>sulphuratus</Species>
+  <Sub-species />
+  <VernacularNames>Great Kiskadee</VernacularNames>
+</Audio>

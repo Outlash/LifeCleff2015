@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>19085</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN19085.wav</FileName>
+  <ClassId>lgpxjn</ClassId>
+  <Date>2011-03-25</Date>
+  <Time>?</Time>
+  <Locality>Iracoubo, savane Trou Poissons</Locality>
+  <Latitude>5.327</Latitude>
+  <Longitude>-53.1028</Longitude>
+  <Elevation>5</Elevation>
+  <Author>Alexandre Renaudier</Author>
+  <AuthorID>GKADEITXTH</AuthorID>
+  <Content>song</Content>
+  <Comments />
+  <Quality>2</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies>Pionus fuscus,Elaenia flavogaster</BackgroundSpecies>
+  <Order>Passeriformes</Order>
+  <Family>Tyrannidae</Family>
+  <Genus>Elaenia</Genus>
+  <Species>chiriquensis</Species>
+  <Sub-species />
+  <VernacularNames>Lesser Elaenia</VernacularNames>
+</Audio>

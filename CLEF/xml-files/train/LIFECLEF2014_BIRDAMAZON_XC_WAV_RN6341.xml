@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>6341</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN6341.wav</FileName>
+  <ClassId>nkvtmg</ClassId>
+  <Date>2006-02-22</Date>
+  <Time>07:00</Time>
+  <Locality>Barroquinha, Ceará State</Locality>
+  <Latitude>-2.9501</Latitude>
+  <Longitude>-41.2167</Longitude>
+  <Elevation>3</Elevation>
+  <Author>Weber Girão</Author>
+  <AuthorID>MXVQPUKGWW</AuthorID>
+  <Content>song</Content>
+  <Comments />
+  <Quality>2</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies>Cnemotriccus fuscatus,Myiodynastes maculatus,Trogon curucui,Icterus icterus,Tolmomyias flaviventris,Hemitriccus margaritaceiventer</BackgroundSpecies>
+  <Order>Columbiformes</Order>
+  <Family>Columbidae</Family>
+  <Genus>Leptotila</Genus>
+  <Species>verreauxi</Species>
+  <Sub-species>approximans</Sub-species>
+  <VernacularNames>White-tipped Dove</VernacularNames>
+</Audio>

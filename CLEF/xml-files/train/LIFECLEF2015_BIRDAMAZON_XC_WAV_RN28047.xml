@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>28047</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN28047.wav</FileName>
+  <ClassId>rfvdkc</ClassId>
+  <Date>2008-00-00</Date>
+  <Time>?:?</Time>
+  <Locality>Mana, piste ONF Dardanelles</Locality>
+  <Latitude>5.649811</Latitude>
+  <Longitude>-53.814468</Longitude>
+  <Elevation>50</Elevation>
+  <Author>A. Renaudier</Author>
+  <AuthorID>GKADEITXTH</AuthorID>
+  <Content>flight call</Content>
+  <Comments />
+  <Quality>1</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Psittaciformes</Order>
+  <Family>Psittacidae</Family>
+  <Genus>Pionites</Genus>
+  <Species>melanocephalus</Species>
+  <Sub-species>melanocephalus</Sub-species>
+  <VernacularNames>Black-headed Parrot</VernacularNames>
+</Audio>

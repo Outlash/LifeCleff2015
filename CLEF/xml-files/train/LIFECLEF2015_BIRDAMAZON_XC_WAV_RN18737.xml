@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>18737</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN18737.wav</FileName>
+  <ClassId>vtmsem</ClassId>
+  <Date>2014-03-14</Date>
+  <Time>11:00</Time>
+  <Locality>Tarumanzinho River,Manaus, Amazonas</Locality>
+  <Latitude>-3.0131</Latitude>
+  <Longitude>-60.1826</Longitude>
+  <Elevation>10</Elevation>
+  <Author>Bruno Lima</Author>
+  <AuthorID>DVJCMXOTVL</AuthorID>
+  <Content>call, song</Content>
+  <Comments>bird-seen:yesplayback-used:no</Comments>
+  <Quality>1</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Piciformes</Order>
+  <Family>Bucconidae</Family>
+  <Genus>Monasa</Genus>
+  <Species>atra</Species>
+  <Sub-species />
+  <VernacularNames>Black Nunbird</VernacularNames>
+</Audio>

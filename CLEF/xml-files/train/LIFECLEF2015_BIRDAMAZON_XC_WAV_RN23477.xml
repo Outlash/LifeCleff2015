@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>23477</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN23477.wav</FileName>
+  <ClassId>ywomvb</ClassId>
+  <Date>2006-06-27</Date>
+  <Time>10:00</Time>
+  <Locality>Reserva Ecológica de Guapiaçu, RJ</Locality>
+  <Latitude>-22.5001</Latitude>
+  <Longitude>-42.7167</Longitude>
+  <Elevation>?</Elevation>
+  <Author>Leonardo Pimentel</Author>
+  <AuthorID>JHBOHGJALL</AuthorID>
+  <Content>Song</Content>
+  <Comments />
+  <Quality>0</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies>Elaenia flavogaster,Elaenia flavogaster</BackgroundSpecies>
+  <Order>Gruiformes</Order>
+  <Family>Rallidae</Family>
+  <Genus>Porzana</Genus>
+  <Species>albicollis</Species>
+  <Sub-species />
+  <VernacularNames>Ash-throated Crake</VernacularNames>
+</Audio>

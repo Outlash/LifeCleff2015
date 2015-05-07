@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>3296</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN3296.wav</FileName>
+  <ClassId>gzfudv</ClassId>
+  <Date>2013-05-04</Date>
+  <Time>06:30</Time>
+  <Locality>Campos de Bragança, Para</Locality>
+  <Latitude>-1.0054</Latitude>
+  <Longitude>-46.8002</Longitude>
+  <Elevation>10</Elevation>
+  <Author>Alex Lees</Author>
+  <AuthorID>INDDBZAFJL</AuthorID>
+  <Content>flight call</Content>
+  <Comments>farmland with mauritia palmgrovesbird-seen:yesplayback-used:no</Comments>
+  <Quality>2</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies>Volatinia jacarina,Ramphocelus carbo</BackgroundSpecies>
+  <Order>Psittaciformes</Order>
+  <Family>Psittacidae</Family>
+  <Genus>Orthopsittaca</Genus>
+  <Species>manilatus</Species>
+  <Sub-species />
+  <VernacularNames>Red-bellied Macaw</VernacularNames>
+</Audio>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>11541</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN11541.wav</FileName>
+  <ClassId>qlwaes</ClassId>
+  <Date>2007-09-22</Date>
+  <Time>6:20</Time>
+  <Locality>Guarau, Peruibe, Sao Paulo</Locality>
+  <Latitude>-24.3701</Latitude>
+  <Longitude>-47.0226</Longitude>
+  <Elevation>3</Elevation>
+  <Author>Gustavo S Cabanne</Author>
+  <AuthorID>XXVEEPYYBD</AuthorID>
+  <Content>song</Content>
+  <Comments />
+  <Quality>1</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies>Troglodytes aedon</BackgroundSpecies>
+  <Order>Passeriformes</Order>
+  <Family>Furnariidae</Family>
+  <Genus>Xiphorhynchus</Genus>
+  <Species>fuscus</Species>
+  <Sub-species />
+  <VernacularNames>Lesser Woodcreeper</VernacularNames>
+</Audio>

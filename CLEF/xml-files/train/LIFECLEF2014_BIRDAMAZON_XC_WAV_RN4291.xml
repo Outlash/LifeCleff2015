@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>4291</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN4291.wav</FileName>
+  <ClassId>ezprzx</ClassId>
+  <Date>2013-02-03</Date>
+  <Time>08:30</Time>
+  <Locality>Linhares, Espirito Santo</Locality>
+  <Latitude>-19.4148</Latitude>
+  <Longitude>-40.188</Longitude>
+  <Elevation>50</Elevation>
+  <Author>Noé Eiterer</Author>
+  <AuthorID>TWSKITNQOV</AuthorID>
+  <Content>song</Content>
+  <Comments>bird-seen:noplayback-used:yes</Comments>
+  <Quality>2</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies />
+  <Order>Tinamiformes</Order>
+  <Family>Tinamidae</Family>
+  <Genus>Crypturellus</Genus>
+  <Species>soui</Species>
+  <Sub-species />
+  <VernacularNames>Little Tinamou</VernacularNames>
+</Audio>

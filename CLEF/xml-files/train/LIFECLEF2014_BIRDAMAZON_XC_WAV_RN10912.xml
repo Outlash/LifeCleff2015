@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>10912</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN10912.wav</FileName>
+  <ClassId>xbszpg</ClassId>
+  <Date>0000-00-00</Date>
+  <Time>?:?</Time>
+  <Locality>Minas Gerais, Serra do Cipo</Locality>
+  <Latitude>-19.35</Latitude>
+  <Longitude>-43.62</Longitude>
+  <Elevation>?</Elevation>
+  <Author>Frank Lambert</Author>
+  <AuthorID>YTUXOCTUEM</AuthorID>
+  <Content>song</Content>
+  <Comments>Previously published on AVoCet as &lt;a href=http://avocet.zoology.msu.edu/recordings/8540&gt;AV8540&lt;/a&gt;.  Certainty: 100%.  ID determined by: seen. GPS: xeno-canto.</Comments>
+  <Quality>2</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Thraupidae</Family>
+  <Genus>Sicalis</Genus>
+  <Species>citrina</Species>
+  <Sub-species />
+  <VernacularNames>Stripe-tailed Yellow Finch</VernacularNames>
+</Audio>

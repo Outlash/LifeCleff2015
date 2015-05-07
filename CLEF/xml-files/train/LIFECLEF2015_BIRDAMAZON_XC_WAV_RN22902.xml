@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>22902</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN22902.wav</FileName>
+  <ClassId>fqumzc</ClassId>
+  <Date>2011-03-24</Date>
+  <Time>9-05</Time>
+  <Locality>Puerto Ajacucho</Locality>
+  <Latitude>5.6709</Latitude>
+  <Longitude>-67.5551</Longitude>
+  <Elevation>250</Elevation>
+  <Author>Albert Lastukhin</Author>
+  <AuthorID>LELYWQKUZX</AuthorID>
+  <Content>Drumming</Content>
+  <Comments />
+  <Quality>3</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Piciformes</Order>
+  <Family>Picidae</Family>
+  <Genus>Campephilus</Genus>
+  <Species>melanoleucos</Species>
+  <Sub-species />
+  <VernacularNames>Crimson-crested Woodpecker</VernacularNames>
+</Audio>

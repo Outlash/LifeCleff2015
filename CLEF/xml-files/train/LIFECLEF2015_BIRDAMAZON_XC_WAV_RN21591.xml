@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>21591</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN21591.wav</FileName>
+  <ClassId>sawlsz</ClassId>
+  <Date>2002-12-12</Date>
+  <Time>06:00</Time>
+  <Locality>Bogota, Quebrada la Vieja</Locality>
+  <Latitude>4.6231</Latitude>
+  <Longitude>-74.0562</Longitude>
+  <Elevation>2900</Elevation>
+  <Author>Doug Knapp</Author>
+  <AuthorID>BHRXQZEQFL</AuthorID>
+  <Content>Song</Content>
+  <Comments />
+  <Quality>1</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Strigiformes</Order>
+  <Family>Strigidae</Family>
+  <Genus>Glaucidium</Genus>
+  <Species>jardinii</Species>
+  <Sub-species />
+  <VernacularNames>Andean Pygmy Owl</VernacularNames>
+</Audio>

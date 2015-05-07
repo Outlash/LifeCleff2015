@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>28643</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN28643.wav</FileName>
+  <ClassId>yplahx</ClassId>
+  <Date>2011-03-07</Date>
+  <Time>07:30</Time>
+  <Locality>Foengoe Island, Coppename River</Locality>
+  <Latitude>4.725</Latitude>
+  <Longitude>-56.206</Longitude>
+  <Elevation>60</Elevation>
+  <Author>Daniel Lane</Author>
+  <AuthorID>WOEAFQRMUD</AuthorID>
+  <Content>song</Content>
+  <Comments>Response to playback from same individual as XC74905.</Comments>
+  <Quality>2</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies>Hylophilus thoracicus,Phaethornis superciliosus</BackgroundSpecies>
+  <Order>Passeriformes</Order>
+  <Family>Polioptilidae</Family>
+  <Genus>Ramphocaenus</Genus>
+  <Species>melanurus</Species>
+  <Sub-species>albiventris</Sub-species>
+  <VernacularNames>Long-billed Gnatwren</VernacularNames>
+</Audio>

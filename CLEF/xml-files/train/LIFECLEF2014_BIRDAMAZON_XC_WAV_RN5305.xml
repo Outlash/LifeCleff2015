@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>5305</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN5305.wav</FileName>
+  <ClassId>ywpbix</ClassId>
+  <Date>2003-06-03</Date>
+  <Time>?</Time>
+  <Locality>Cristalino Jungle Lodge, MT</Locality>
+  <Latitude>-9.5981</Latitude>
+  <Longitude>-55.932</Longitude>
+  <Elevation>?</Elevation>
+  <Author>Alexander Lees</Author>
+  <AuthorID>INDDBZAFJL</AuthorID>
+  <Content>song</Content>
+  <Comments>whisper-singing after playback, terra firme forest</Comments>
+  <Quality>4</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Troglodytidae</Family>
+  <Genus>Cyphorhinus</Genus>
+  <Species>arada</Species>
+  <Sub-species>interpositus</Sub-species>
+  <VernacularNames>Musician Wren</VernacularNames>
+</Audio>

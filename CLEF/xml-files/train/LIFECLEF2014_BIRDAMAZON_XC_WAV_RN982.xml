@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>982</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN982.wav</FileName>
+  <ClassId>mphbjm</ClassId>
+  <Date>2007-02-16</Date>
+  <Time>10:30</Time>
+  <Locality>Portel, state of Pará</Locality>
+  <Latitude>-3.2659</Latitude>
+  <Longitude>-50.3234</Longitude>
+  <Elevation>70</Elevation>
+  <Author>Sidnei de Melo Dantas</Author>
+  <AuthorID>NNCKQMBGPH</AuthorID>
+  <Content>song</Content>
+  <Comments>Pacajá river, on forest subcanopy</Comments>
+  <Quality>4</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Furnariidae</Family>
+  <Genus>Xiphorhynchus</Genus>
+  <Species>obsoletus</Species>
+  <Sub-species />
+  <VernacularNames>Striped Woodcreeper</VernacularNames>
+</Audio>

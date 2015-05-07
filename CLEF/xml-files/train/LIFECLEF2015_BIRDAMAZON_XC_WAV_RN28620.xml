@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>28620</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN28620.wav</FileName>
+  <ClassId>ctdbgi</ClassId>
+  <Date>2009-08-16</Date>
+  <Time>16:20</Time>
+  <Locality>Goiânia, Goiás.</Locality>
+  <Latitude>-16.691448</Latitude>
+  <Longitude>-49.266815</Longitude>
+  <Elevation>610</Elevation>
+  <Author>Nunes D´Acosta</Author>
+  <AuthorID>OHHTDSDNBT</AuthorID>
+  <Content>Flyght</Content>
+  <Comments>Ave assustada com a presença humana alça vôo.</Comments>
+  <Quality>3</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Tinamiformes</Order>
+  <Family>Tinamidae</Family>
+  <Genus>Rhynchotus</Genus>
+  <Species>rufescens</Species>
+  <Sub-species />
+  <VernacularNames>Red-winged Tinamou</VernacularNames>
+</Audio>

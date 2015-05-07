@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>24328</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN24328.wav</FileName>
+  <ClassId>tvizgf</ClassId>
+  <Date>2013-01-09</Date>
+  <Time>14:00</Time>
+  <Locality>Rio Formoso, Pernambuco</Locality>
+  <Latitude>-8.6564</Latitude>
+  <Longitude>-35.1624</Longitude>
+  <Elevation>70</Elevation>
+  <Author>Dan Lane</Author>
+  <AuthorID>WOEAFQRMUD</AuthorID>
+  <Content>song</Content>
+  <Comments>Response to playback from a bird at edge of small forest patch amid sugarcane fields. Perched about 1-4m up in vine tangles along edge.bird-seen:yesplayback-used:yes</Comments>
+  <Quality>3</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies>Thraupis sayaca,Caryothraustes canadensis</BackgroundSpecies>
+  <Order>Passeriformes</Order>
+  <Family>Furnariidae</Family>
+  <Genus>Synallaxis</Genus>
+  <Species>infuscata</Species>
+  <Sub-species />
+  <VernacularNames>Pinto's Spinetail</VernacularNames>
+</Audio>

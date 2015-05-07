@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>6338</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN6338.wav</FileName>
+  <ClassId>kzuumm</ClassId>
+  <Date>2010-11-16</Date>
+  <Time>5:41</Time>
+  <Locality>Belterra, PA - Bacia 307</Locality>
+  <Latitude>-2.844</Latitude>
+  <Longitude>-54.833</Longitude>
+  <Elevation>?</Elevation>
+  <Author>Christian Borges Andretti</Author>
+  <AuthorID>EZSMXGTXKS</AuthorID>
+  <Content>song</Content>
+  <Comments />
+  <Quality>3</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies />
+  <Order>Caprimulgiformes</Order>
+  <Family>Caprimulgidae</Family>
+  <Genus>Nyctiphrynus</Genus>
+  <Species>ocellatus</Species>
+  <Sub-species />
+  <VernacularNames>Ocellated Poorwill</VernacularNames>
+</Audio>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>31483</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN31483.wav</FileName>
+  <ClassId>ebdshm</ClassId>
+  <Date>2006-07-29</Date>
+  <Time>07:30</Time>
+  <Locality>Serra dos Caiabis, Alta Floresta - MT</Locality>
+  <Latitude>-10.7501</Latitude>
+  <Longitude>-56.7501</Longitude>
+  <Elevation>?</Elevation>
+  <Author>Alexander Lees</Author>
+  <AuthorID>INDDBZAFJL</AuthorID>
+  <Content>call</Content>
+  <Comments>campinarana</Comments>
+  <Quality>3</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies>Tyranneutes stolzmanni</BackgroundSpecies>
+  <Order>Passeriformes</Order>
+  <Family>Turdidae</Family>
+  <Genus>Turdus</Genus>
+  <Species>ignobilis</Species>
+  <Sub-species>debilis</Sub-species>
+  <VernacularNames>Black-billed Thrush</VernacularNames>
+</Audio>

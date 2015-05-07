@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>20496</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN20496.wav</FileName>
+  <ClassId>nnuubm</ClassId>
+  <Date>2011-08-28</Date>
+  <Time>08:00</Time>
+  <Locality>Içara, Içara, Santa Catarina</Locality>
+  <Latitude>-28.7137</Latitude>
+  <Longitude>-49.3091</Longitude>
+  <Elevation>50</Elevation>
+  <Author>João Antônio de B. Vitto</Author>
+  <AuthorID>RIVNLYTULO</AuthorID>
+  <Content>song</Content>
+  <Comments>bird-seen:yesplayback-used:no</Comments>
+  <Quality>0</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Icteridae</Family>
+  <Genus>Pseudoleistes</Genus>
+  <Species>guirahuro</Species>
+  <Sub-species />
+  <VernacularNames>Yellow-rumped Marshbird</VernacularNames>
+</Audio>

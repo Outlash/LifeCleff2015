@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>18712</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN18712.wav</FileName>
+  <ClassId>uipfam</ClassId>
+  <Date>0000-00-00</Date>
+  <Time>morning</Time>
+  <Locality>Municipio de Cocalinho, MT</Locality>
+  <Latitude>NULL</Latitude>
+  <Longitude>NULL</Longitude>
+  <Elevation>250</Elevation>
+  <Author>Sergei Quintas Filho</Author>
+  <AuthorID>HHBDQGXMVW</AuthorID>
+  <Content>song</Content>
+  <Comments />
+  <Quality>3</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Thamnophilidae</Family>
+  <Genus>Formicivora</Genus>
+  <Species>melanogaster</Species>
+  <Sub-species />
+  <VernacularNames>Black-bellied Antwren</VernacularNames>
+</Audio>

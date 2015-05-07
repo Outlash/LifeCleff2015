@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>18455</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN18455.wav</FileName>
+  <ClassId>jovoql</ClassId>
+  <Date>1997-09-01</Date>
+  <Time>05:15</Time>
+  <Locality>Cristalino Jungle Lodge, MT</Locality>
+  <Latitude>-9.5981</Latitude>
+  <Longitude>-55.932</Longitude>
+  <Elevation>250</Elevation>
+  <Author>Jeremy Minns</Author>
+  <AuthorID>DGVLLRYDXS</AuthorID>
+  <Content>call</Content>
+  <Comments>Behind lodge.</Comments>
+  <Quality>2</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Caprimulgiformes</Order>
+  <Family>Caprimulgidae</Family>
+  <Genus>Nyctipolus</Genus>
+  <Species>nigrescens</Species>
+  <Sub-species />
+  <VernacularNames>Blackish Nightjar</VernacularNames>
+</Audio>

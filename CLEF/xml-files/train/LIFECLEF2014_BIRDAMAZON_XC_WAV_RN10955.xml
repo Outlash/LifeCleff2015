@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>10955</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN10955.wav</FileName>
+  <ClassId>aiwvzm</ClassId>
+  <Date>2006-03-05</Date>
+  <Time>08:40</Time>
+  <Locality>Hotel Simone, Itatiaia NP,  Rio de Janeiro state</Locality>
+  <Latitude>-22.438</Latitude>
+  <Longitude>-44.607</Longitude>
+  <Elevation>1050</Elevation>
+  <Author>Daniel Lane</Author>
+  <AuthorID>WOEAFQRMUD</AuthorID>
+  <Content>song</Content>
+  <Comments>Natural song, unseen, from about 10m up in gap in natural vegetation with chusqueoid bamboo understory. Part of a flock.</Comments>
+  <Quality>2</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies>Drymophila ochropyga,Myrmeciza loricata,Todirostrum poliocephalum</BackgroundSpecies>
+  <Order>Passeriformes</Order>
+  <Family>Furnariidae</Family>
+  <Genus>Cranioleuca</Genus>
+  <Species>pallida</Species>
+  <Sub-species />
+  <VernacularNames>Pallid Spinetail</VernacularNames>
+</Audio>

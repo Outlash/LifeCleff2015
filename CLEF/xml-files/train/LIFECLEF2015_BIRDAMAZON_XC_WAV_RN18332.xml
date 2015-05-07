@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>18332</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN18332.wav</FileName>
+  <ClassId>wckepf</ClassId>
+  <Date>2012-03-17</Date>
+  <Time>17:00</Time>
+  <Locality>Coello Road, Tolima department, Colombia</Locality>
+  <Latitude>4.256</Latitude>
+  <Longitude>-74.886</Longitude>
+  <Elevation>400</Elevation>
+  <Author>Diego Calderon-F.</Author>
+  <AuthorID>OGATBVKNAG</AuthorID>
+  <Content>Song</Content>
+  <Comments>Natural</Comments>
+  <Quality>2</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies>Saltator striatipectus</BackgroundSpecies>
+  <Order>Passeriformes</Order>
+  <Family>Tyrannidae</Family>
+  <Genus>Euscarthmus</Genus>
+  <Species>meloryphus</Species>
+  <Sub-species>paulus</Sub-species>
+  <VernacularNames>Tawny-crowned Pygmy Tyrant</VernacularNames>
+</Audio>

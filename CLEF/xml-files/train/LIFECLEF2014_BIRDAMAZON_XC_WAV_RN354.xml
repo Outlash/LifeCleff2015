@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>354</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN354.wav</FileName>
+  <ClassId>jorqun</ClassId>
+  <Date>2010-09-09</Date>
+  <Time>06:06</Time>
+  <Locality>Paragominas, PA, Brazil, Bacia 100</Locality>
+  <Latitude>-2.742</Latitude>
+  <Longitude>-47.8681</Longitude>
+  <Elevation>?</Elevation>
+  <Author>Nargila Moura</Author>
+  <AuthorID>CWEIBYBYYD</AuthorID>
+  <Content>song</Content>
+  <Comments>cattle pasture</Comments>
+  <Quality>3</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies>Formicivora grisea,Elaenia flavogaster,Phaeomyias murina,Myiophobus fasciatus,Tyrannus melancholicus,Geothlypis aequinoctialis</BackgroundSpecies>
+  <Order>Passeriformes</Order>
+  <Family>Thraupidae</Family>
+  <Genus>Volatinia</Genus>
+  <Species>jacarina</Species>
+  <Sub-species />
+  <VernacularNames>Blue-black Grassquit</VernacularNames>
+</Audio>

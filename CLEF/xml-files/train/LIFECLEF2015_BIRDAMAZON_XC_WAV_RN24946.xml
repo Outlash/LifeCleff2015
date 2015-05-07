@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>24946</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN24946.wav</FileName>
+  <ClassId>lrkmwb</ClassId>
+  <Date>2007-06-16</Date>
+  <Time>?:?</Time>
+  <Locality>RNA Arrierito Antioqueño, Anorí, Antioquia</Locality>
+  <Latitude>6.9862</Latitude>
+  <Longitude>-75.1251</Longitude>
+  <Elevation>1750</Elevation>
+  <Author>Frank Lambert</Author>
+  <AuthorID>YTUXOCTUEM</AuthorID>
+  <Content>song</Content>
+  <Comments />
+  <Quality>1</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Thraupidae</Family>
+  <Genus>Bangsia</Genus>
+  <Species>melanochlamys</Species>
+  <Sub-species />
+  <VernacularNames>Black-and-gold Tanager</VernacularNames>
+</Audio>

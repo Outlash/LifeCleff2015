@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>4915</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN4915.wav</FileName>
+  <ClassId>scqsvb</ClassId>
+  <Date>2011-06-22</Date>
+  <Time>09:30</Time>
+  <Locality>Sao Jose dos Campos, state of Sao Paulo</Locality>
+  <Latitude>-23.0401</Latitude>
+  <Longitude>-46.0328</Longitude>
+  <Elevation>700</Elevation>
+  <Author>GABRIEL LEITE</Author>
+  <AuthorID>TGBFXDVERJ</AuthorID>
+  <Content>call, song</Content>
+  <Comments>bird-seen:yesplayback-used:no</Comments>
+  <Quality>4</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies>Tolmomyias sulphurescens</BackgroundSpecies>
+  <Order>Psittaciformes</Order>
+  <Family>Psittacidae</Family>
+  <Genus>Forpus</Genus>
+  <Species>xanthopterygius</Species>
+  <Sub-species />
+  <VernacularNames>Blue-winged Parrotlet</VernacularNames>
+</Audio>

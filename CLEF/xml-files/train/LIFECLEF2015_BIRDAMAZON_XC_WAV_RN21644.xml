@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>21644</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN21644.wav</FileName>
+  <ClassId>dgocsv</ClassId>
+  <Date>2013-03-30</Date>
+  <Time>?</Time>
+  <Locality>Reserva Río Claro</Locality>
+  <Latitude>5.8941</Latitude>
+  <Longitude>-74.8583</Longitude>
+  <Elevation>320</Elevation>
+  <Author>Hans Matheve</Author>
+  <AuthorID>VROUALCTKG</AuthorID>
+  <Content>call</Content>
+  <Comments>bird-seen:yes</Comments>
+  <Quality>2</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Psittaciformes</Order>
+  <Family>Psittacidae</Family>
+  <Genus>Forpus</Genus>
+  <Species>conspicillatus</Species>
+  <Sub-species />
+  <VernacularNames>Spectacled Parrotlet</VernacularNames>
+</Audio>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>17473</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN17473.wav</FileName>
+  <ClassId>nsmtcj</ClassId>
+  <Date>2006-11-03</Date>
+  <Time>09:45</Time>
+  <Locality>Parque Dois Irmãos, Recife, Pernambuco</Locality>
+  <Latitude>-8.0539</Latitude>
+  <Longitude>-34.8809</Longitude>
+  <Elevation>60</Elevation>
+  <Author>Glauco Alves Pereira</Author>
+  <AuthorID>ZWEROGGYVP</AuthorID>
+  <Content>call</Content>
+  <Comments>A couple singing on the canopy</Comments>
+  <Quality>3</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Piciformes</Order>
+  <Family>Picidae</Family>
+  <Genus>Veniliornis</Genus>
+  <Species>affinis</Species>
+  <Sub-species>ruficeps</Sub-species>
+  <VernacularNames>Red-stained Woodpecker</VernacularNames>
+</Audio>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>4827</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN4827.wav</FileName>
+  <ClassId>xunfjj</ClassId>
+  <Date>2006-11-15</Date>
+  <Time>15:30</Time>
+  <Locality>Ubatuba, SP. Praia Vermelha do Sul.</Locality>
+  <Latitude>-23.5167</Latitude>
+  <Longitude>-45.1667</Longitude>
+  <Elevation>5</Elevation>
+  <Author>Jeremy Minns</Author>
+  <AuthorID>DGVLLRYDXS</AuthorID>
+  <Content>Song</Content>
+  <Comments>In the garden of a house in a well wooded condominium beside the sea.</Comments>
+  <Quality>2</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies>Vireo olivaceus</BackgroundSpecies>
+  <Order>Passeriformes</Order>
+  <Family>Turdidae</Family>
+  <Genus>Turdus</Genus>
+  <Species>rufiventris</Species>
+  <Sub-species>rufiventris</Sub-species>
+  <VernacularNames>Rufous-bellied Thrush</VernacularNames>
+</Audio>

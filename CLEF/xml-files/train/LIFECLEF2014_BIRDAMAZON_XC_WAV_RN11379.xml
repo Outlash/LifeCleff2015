@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>11379</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN11379.wav</FileName>
+  <ClassId>eofsmg</ClassId>
+  <Date>1993-04-15</Date>
+  <Time>?:?</Time>
+  <Locality>Rio de Janeiro, Serra do Orgaos NP</Locality>
+  <Latitude>-22.44</Latitude>
+  <Longitude>-42.99</Longitude>
+  <Elevation>?</Elevation>
+  <Author>Frank Lambert</Author>
+  <AuthorID>YTUXOCTUEM</AuthorID>
+  <Content>song</Content>
+  <Comments>Previously published on AVoCet as &lt;a href=http://avocet.zoology.msu.edu/recordings/9192&gt;AV9192&lt;/a&gt;.  Certainty: 100%.  ID determined by: seen. GPS: GeoHack.</Comments>
+  <Quality>2</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Cotingidae</Family>
+  <Genus>Tijuca</Genus>
+  <Species>atra</Species>
+  <Sub-species />
+  <VernacularNames>Black-and-gold Cotinga</VernacularNames>
+</Audio>

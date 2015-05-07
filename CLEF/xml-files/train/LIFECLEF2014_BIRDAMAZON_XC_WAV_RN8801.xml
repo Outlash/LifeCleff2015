@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>8801</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN8801.wav</FileName>
+  <ClassId>pswzyj</ClassId>
+  <Date>2007-02-04</Date>
+  <Time>9:50</Time>
+  <Locality>Gleba maior Reserva Biológica Estadual do Sassafrás, Doutor Pedrinho, Santa Catarina</Locality>
+  <Latitude>-26.7117</Latitude>
+  <Longitude>-49.6756</Longitude>
+  <Elevation>920</Elevation>
+  <Author>Adrian Eisen Rupp</Author>
+  <AuthorID>AOPMSCIDIA</AuthorID>
+  <Content>song</Content>
+  <Comments />
+  <Quality>1</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies>Carpornis cucullata,Cranioleuca obsoleta,Elaenia mesoleuca,Stephanophorus diadematus</BackgroundSpecies>
+  <Order>Passeriformes</Order>
+  <Family>Vireonidae</Family>
+  <Genus>Vireo</Genus>
+  <Species>olivaceus</Species>
+  <Sub-species />
+  <VernacularNames>Red-eyed Vireo</VernacularNames>
+</Audio>

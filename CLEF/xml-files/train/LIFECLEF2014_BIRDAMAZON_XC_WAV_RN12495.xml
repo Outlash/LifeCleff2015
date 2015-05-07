@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>12495</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN12495.wav</FileName>
+  <ClassId>pzlpoj</ClassId>
+  <Date>2011-06-22</Date>
+  <Time>09:00</Time>
+  <Locality>Km85 road off BR-174 north of Manaus, AM</Locality>
+  <Latitude>-2.232</Latitude>
+  <Longitude>-60.0156</Longitude>
+  <Elevation>140</Elevation>
+  <Author>Gabriel McCrate</Author>
+  <AuthorID>QTARYWCTXX</AuthorID>
+  <Content>alarm call, call</Content>
+  <Comments>A series of 3 sharp  wit-wit-wit.bird-seen:noplayback-used:no</Comments>
+  <Quality>1</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies>Vireolanius leucotis,Lipaugus vociferans,Tolmomyias assimilis,Cymbilaimus lineatus</BackgroundSpecies>
+  <Order>Passeriformes</Order>
+  <Family>Furnariidae</Family>
+  <Genus>Xenops</Genus>
+  <Species>minutus</Species>
+  <Sub-species />
+  <VernacularNames>Plain Xenops</VernacularNames>
+</Audio>

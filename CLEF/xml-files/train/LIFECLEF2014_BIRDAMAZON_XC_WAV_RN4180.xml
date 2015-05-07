@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>4180</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN4180.wav</FileName>
+  <ClassId>vopkre</ClassId>
+  <Date>2013-09-16</Date>
+  <Time>09:30</Time>
+  <Locality>Cristalino Jungle Lodge, MT</Locality>
+  <Latitude>-9.5981</Latitude>
+  <Longitude>-55.932</Longitude>
+  <Elevation>260</Elevation>
+  <Author>Micah Riegner</Author>
+  <AuthorID>TXYAPFWGKB</AuthorID>
+  <Content>alarm call</Content>
+  <Comments>Two large groups engaging in a territorial dispute at an ant swarm in tall terra firme forest. bird-seen:yesplayback-used:no</Comments>
+  <Quality>0</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies />
+  <Order>Gruiformes</Order>
+  <Family>Psophiidae</Family>
+  <Genus>Psophia</Genus>
+  <Species>viridis</Species>
+  <Sub-species />
+  <VernacularNames>Dark-winged Trumpeter</VernacularNames>
+</Audio>

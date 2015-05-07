@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>3673</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN3673.wav</FileName>
+  <ClassId>qrhwnu</ClassId>
+  <Date>2005-12-17</Date>
+  <Time>8:28</Time>
+  <Locality>Fz. Capitao, Itacare, Bahia.</Locality>
+  <Latitude>NULL</Latitude>
+  <Longitude>NULL</Longitude>
+  <Elevation>?</Elevation>
+  <Author>Brian Campbell</Author>
+  <AuthorID>GRCESHAGGH</AuthorID>
+  <Content>Song</Content>
+  <Comments>If anyone knows the other background species, please contact me (campbelb@biology.queensu.ca)</Comments>
+  <Quality>0</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies>Rhytipterna simplex</BackgroundSpecies>
+  <Order>Piciformes</Order>
+  <Family>Ramphastidae</Family>
+  <Genus>Ramphastos</Genus>
+  <Species>vitellinus</Species>
+  <Sub-species />
+  <VernacularNames>Channel-billed Toucan</VernacularNames>
+</Audio>

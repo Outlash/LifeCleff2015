@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>5767</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN5767.wav</FileName>
+  <ClassId>qnjjng</ClassId>
+  <Date>2009-06-02</Date>
+  <Time>05:45</Time>
+  <Locality>Left bank of Rio Teles Pires, Paranaita, Mato Grosso</Locality>
+  <Latitude>-9.2373</Latitude>
+  <Longitude>-56.9851</Longitude>
+  <Elevation>190</Elevation>
+  <Author>Guilherme R R Brito</Author>
+  <AuthorID>OAYOBWYOOM</AuthorID>
+  <Content>song</Content>
+  <Comments>couple in the forest edge, arbustive vegetation</Comments>
+  <Quality>0</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Thamnophilidae</Family>
+  <Genus>Cercomacra</Genus>
+  <Species>nigrescens</Species>
+  <Sub-species />
+  <VernacularNames>Blackish Antbird</VernacularNames>
+</Audio>

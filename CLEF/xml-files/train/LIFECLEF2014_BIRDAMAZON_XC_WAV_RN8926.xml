@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>8926</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN8926.wav</FileName>
+  <ClassId>fjiyjf</ClassId>
+  <Date>1998-12-09</Date>
+  <Time>07:57</Time>
+  <Locality>Itatiaia NP, RJ</Locality>
+  <Latitude>-22.38</Latitude>
+  <Longitude>-44.63</Longitude>
+  <Elevation>?</Elevation>
+  <Author>Rolf A. de By</Author>
+  <AuthorID>PTYTXQRLSZ</AuthorID>
+  <Content>call</Content>
+  <Comments>included here because different from other calls in x-c</Comments>
+  <Quality>5</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Thamnophilidae</Family>
+  <Genus>Drymophila</Genus>
+  <Species>genei</Species>
+  <Sub-species />
+  <VernacularNames>Rufous-tailed Antbird</VernacularNames>
+</Audio>

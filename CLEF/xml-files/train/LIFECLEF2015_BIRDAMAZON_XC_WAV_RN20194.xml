@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>20194</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN20194.wav</FileName>
+  <ClassId>aflwfz</ClassId>
+  <Date>2001-11-01</Date>
+  <Time>?</Time>
+  <Locality>Reserva Bremen, Buenavista, Quindío</Locality>
+  <Latitude>4.341389</Latitude>
+  <Longitude>-75.73333</Longitude>
+  <Elevation>1750</Elevation>
+  <Author>Mauricio Álvarez Rebolledo (Colección de Sonidos Ambientales - Instituto Humboldt)</Author>
+  <AuthorID>XMFDPACYJN</AuthorID>
+  <Content>call</Content>
+  <Comments>BSA 7158To obtain a wav file of the original recording, please contact csa@humboldt.org.coplayback-used:no</Comments>
+  <Quality>3</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Galliformes</Order>
+  <Family>Cracidae</Family>
+  <Genus>Penelope</Genus>
+  <Species>perspicax</Species>
+  <Sub-species />
+  <VernacularNames>Cauca Guan</VernacularNames>
+</Audio>

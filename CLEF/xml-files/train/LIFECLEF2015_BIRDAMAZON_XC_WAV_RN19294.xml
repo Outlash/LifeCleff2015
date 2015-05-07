@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>19294</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN19294.wav</FileName>
+  <ClassId>mbwjzf</ClassId>
+  <Date>2009-01-00</Date>
+  <Time>06:00</Time>
+  <Locality>RNA El Dorado, Sierra de Santa Marta, Magdalena</Locality>
+  <Latitude>11.1009</Latitude>
+  <Longitude>-74.072</Longitude>
+  <Elevation>1800</Elevation>
+  <Author>Thomas Donegan</Author>
+  <AuthorID>OXSIOLJJUP</AuthorID>
+  <Content>call</Content>
+  <Comments>lower pitched grunting calls are of this species</Comments>
+  <Quality>3</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies>Colibri thalassinus</BackgroundSpecies>
+  <Order>Passeriformes</Order>
+  <Family>Fringillidae</Family>
+  <Genus>Chlorophonia</Genus>
+  <Species>cyanea</Species>
+  <Sub-species />
+  <VernacularNames>Blue-naped Chlorophonia</VernacularNames>
+</Audio>

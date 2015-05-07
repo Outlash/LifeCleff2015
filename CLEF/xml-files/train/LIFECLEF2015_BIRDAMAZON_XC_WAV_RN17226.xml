@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>17226</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN17226.wav</FileName>
+  <ClassId>iangvt</ClassId>
+  <Date>2012-12-17</Date>
+  <Time>07:30</Time>
+  <Locality>Trairi, Trairi, Ceara</Locality>
+  <Latitude>-3.3303</Latitude>
+  <Longitude>-39.2616</Longitude>
+  <Elevation>70</Elevation>
+  <Author>Caio Brito</Author>
+  <AuthorID>YWWWUBVAJF</AuthorID>
+  <Content>song</Content>
+  <Comments>Lowcut at 250Hz and Normalizedbird-seen:yesplayback-used:no</Comments>
+  <Quality>2</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies>Herpsilochmus sellowi</BackgroundSpecies>
+  <Order>Passeriformes</Order>
+  <Family>Polioptilidae</Family>
+  <Genus>Polioptila</Genus>
+  <Species>plumbea</Species>
+  <Sub-species />
+  <VernacularNames>Tropical Gnatcatcher</VernacularNames>
+</Audio>

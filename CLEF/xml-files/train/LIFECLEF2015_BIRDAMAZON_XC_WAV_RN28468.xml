@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>28468</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN28468.wav</FileName>
+  <ClassId>zfacpp</ClassId>
+  <Date>2008-08-30</Date>
+  <Time>?</Time>
+  <Locality>Merida, Rio Frio valley</Locality>
+  <Latitude>NULL</Latitude>
+  <Longitude>NULL</Longitude>
+  <Elevation>?</Elevation>
+  <Author>Alexandre Renaudier</Author>
+  <AuthorID>GKADEITXTH</AuthorID>
+  <Content>song</Content>
+  <Comments>male, natural recording</Comments>
+  <Quality>2</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Thamnophilidae</Family>
+  <Genus>Myrmeciza</Genus>
+  <Species>palliata</Species>
+  <Sub-species />
+  <VernacularNames>Magdalena Antbird</VernacularNames>
+</Audio>

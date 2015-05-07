@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>25223</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN25223.wav</FileName>
+  <ClassId>mryser</ClassId>
+  <Date>2011-03-15</Date>
+  <Time>7-36</Time>
+  <Locality>Bachaquero</Locality>
+  <Latitude>9.9039</Latitude>
+  <Longitude>-71.1039</Longitude>
+  <Elevation>10</Elevation>
+  <Author>Albert Lastukhin</Author>
+  <AuthorID>LELYWQKUZX</AuthorID>
+  <Content>call</Content>
+  <Comments>det. Dan Lane</Comments>
+  <Quality>3</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Gruiformes</Order>
+  <Family>Rallidae</Family>
+  <Genus>Gallinula</Genus>
+  <Species>galeata</Species>
+  <Sub-species />
+  <VernacularNames>Common Gallinule</VernacularNames>
+</Audio>

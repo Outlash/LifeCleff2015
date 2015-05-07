@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>22589</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN22589.wav</FileName>
+  <ClassId>zuweoe</ClassId>
+  <Date>2010-08-03</Date>
+  <Time>17:33</Time>
+  <Locality>Eliseu Martins - Piauí State</Locality>
+  <Latitude>-8.102</Latitude>
+  <Longitude>-43.677</Longitude>
+  <Elevation>258</Elevation>
+  <Author>Cid Espínola</Author>
+  <AuthorID>IRBNRXBEVU</AuthorID>
+  <Content>call?</Content>
+  <Comments />
+  <Quality>1</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Thraupidae</Family>
+  <Genus>Compsothraupis</Genus>
+  <Species>loricata</Species>
+  <Sub-species />
+  <VernacularNames>Scarlet-throated Tanager</VernacularNames>
+</Audio>

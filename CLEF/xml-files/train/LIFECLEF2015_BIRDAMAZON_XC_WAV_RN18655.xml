@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>18655</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN18655.wav</FileName>
+  <ClassId>mvdpht</ClassId>
+  <Date>2013-05-11</Date>
+  <Time>07:00</Time>
+  <Locality>Rio Teuini, Serginal Tupy, Pauini, Amazonas</Locality>
+  <Latitude>-7.9644</Latitude>
+  <Longitude>-67.3469</Longitude>
+  <Elevation>100</Elevation>
+  <Author>Thiago Orsi Laranjeiras</Author>
+  <AuthorID>PMYLTPLTLT</AuthorID>
+  <Content>call, song</Content>
+  <Comments>em mata de várzeabird-seen:yesplayback-used:yes</Comments>
+  <Quality>2</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Furnariidae</Family>
+  <Genus>Xiphocolaptes</Genus>
+  <Species>promeropirhynchus</Species>
+  <Sub-species />
+  <VernacularNames>Strong-billed Woodcreeper</VernacularNames>
+</Audio>

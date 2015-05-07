@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>16326</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN16326.wav</FileName>
+  <ClassId>syipvo</ClassId>
+  <Date>1995-10-00</Date>
+  <Time>09:00</Time>
+  <Locality>Itapecerica da Serra,SP, Brazil</Locality>
+  <Latitude>-23.786</Latitude>
+  <Longitude>-46.871</Longitude>
+  <Elevation>900</Elevation>
+  <Author>Antonio Silveira</Author>
+  <AuthorID>NBJQSQJRYH</AuthorID>
+  <Content>male, song</Content>
+  <Comments>bird singing in the forest. this species is migrant of south amazon forest to south of Brazil, where breeding. normally passes through Sao Paulo, rio de Janeiro (Itatiaia NP) state in October. bird-seen:yesplayback-used:no</Comments>
+  <Quality>0</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies>Turdus rufiventris,Zonotrichia capensis</BackgroundSpecies>
+  <Order>Passeriformes</Order>
+  <Family>Turdidae</Family>
+  <Genus>Turdus</Genus>
+  <Species>subalaris</Species>
+  <Sub-species />
+  <VernacularNames>Eastern Slaty Thrush</VernacularNames>
+</Audio>

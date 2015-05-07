@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>30639</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN30639.wav</FileName>
+  <ClassId>pxqbfm</ClassId>
+  <Date>2014-08-22</Date>
+  <Time>14:00</Time>
+  <Locality>Atibaia, São Paulo</Locality>
+  <Latitude>-23.1161</Latitude>
+  <Longitude>-46.5563</Longitude>
+  <Elevation>800</Elevation>
+  <Author>William Zaca</Author>
+  <AuthorID>QPVHQBUWGE</AuthorID>
+  <Content>song</Content>
+  <Comments>bird-seen:noplayback-used:no</Comments>
+  <Quality>2</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Piciformes</Order>
+  <Family>Bucconidae</Family>
+  <Genus>Malacoptila</Genus>
+  <Species>striata</Species>
+  <Sub-species />
+  <VernacularNames>Crescent-chested Puffbird</VernacularNames>
+</Audio>

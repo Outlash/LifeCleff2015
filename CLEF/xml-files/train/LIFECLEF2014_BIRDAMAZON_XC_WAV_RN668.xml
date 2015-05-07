@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>668</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN668.wav</FileName>
+  <ClassId>ipaxqr</ClassId>
+  <Date>2006-03-05</Date>
+  <Time>05:35</Time>
+  <Locality>Hotel do Ype, Itatiaia NP,  Rio de Janeiro state</Locality>
+  <Latitude>-22.432</Latitude>
+  <Longitude>-44.615</Longitude>
+  <Elevation>1120</Elevation>
+  <Author>Daniel Lane</Author>
+  <AuthorID>WOEAFQRMUD</AuthorID>
+  <Content>call</Content>
+  <Comments>Natural barks from one of many guans in the compound of the hotel. Birds were performing the flying wing-rattle display, but this was not recorded. Mostly adults.</Comments>
+  <Quality>1</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies />
+  <Order>Galliformes</Order>
+  <Family>Cracidae</Family>
+  <Genus>Penelope</Genus>
+  <Species>obscura</Species>
+  <Sub-species />
+  <VernacularNames>Dusky-legged Guan</VernacularNames>
+</Audio>

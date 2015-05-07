@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>6373</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN6373.wav</FileName>
+  <ClassId>ewisum</ClassId>
+  <Date>2006-09-01</Date>
+  <Time>?</Time>
+  <Locality>Reserva Ecológica de Guapiaçu, RJ, Brazil</Locality>
+  <Latitude>-22.4348</Latitude>
+  <Longitude>-42.7089</Longitude>
+  <Elevation>600</Elevation>
+  <Author>Frank Lambert</Author>
+  <AuthorID>YTUXOCTUEM</AuthorID>
+  <Content>song</Content>
+  <Comments />
+  <Quality>3</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Parulidae</Family>
+  <Genus>Basileuterus</Genus>
+  <Species>culicivorus</Species>
+  <Sub-species />
+  <VernacularNames>Golden-crowned Warbler</VernacularNames>
+</Audio>

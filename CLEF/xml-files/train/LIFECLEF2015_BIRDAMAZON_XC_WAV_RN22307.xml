@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>22307</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN22307.wav</FileName>
+  <ClassId>wenuau</ClassId>
+  <Date>2012-09-17</Date>
+  <Time>08:11</Time>
+  <Locality>Saul, St Laurent Du Maroni</Locality>
+  <Latitude>3.6217</Latitude>
+  <Longitude>-53.2088</Longitude>
+  <Elevation>210</Elevation>
+  <Author>Jon King</Author>
+  <AuthorID>LNEEOOWCQR</AuthorID>
+  <Content>call, male, song</Content>
+  <Comments>Distance to mic. 6m. Song and calls all from same male, with female seen nearby. About 2m off ground in scrub next to airfield. Different individual from XC114128.bird-seen:yesplayback-used:yes</Comments>
+  <Quality>1</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Thamnophilidae</Family>
+  <Genus>Myrmoborus</Genus>
+  <Species>leucophrys</Species>
+  <Sub-species />
+  <VernacularNames>White-browed Antbird</VernacularNames>
+</Audio>

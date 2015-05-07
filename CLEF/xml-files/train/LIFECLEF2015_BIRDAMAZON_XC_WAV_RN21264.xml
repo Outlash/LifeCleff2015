@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>21264</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN21264.wav</FileName>
+  <ClassId>yrrqto</ClassId>
+  <Date>2013-08-18</Date>
+  <Time>11:30</Time>
+  <Locality>DMI Arrayanal (Sector la Linda) Mistrato, Risaralda</Locality>
+  <Latitude>5.2898</Latitude>
+  <Longitude>-75.9145</Longitude>
+  <Elevation>2300</Elevation>
+  <Author>Julian Andres Zuleta Marín</Author>
+  <AuthorID>AMCJKUNQOR</AuthorID>
+  <Content>song</Content>
+  <Comments>bird-seen:yesplayback-used:no</Comments>
+  <Quality>0</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Thraupidae</Family>
+  <Genus>Bangsia</Genus>
+  <Species>aureocincta</Species>
+  <Sub-species />
+  <VernacularNames>Gold-ringed Tanager</VernacularNames>
+</Audio>

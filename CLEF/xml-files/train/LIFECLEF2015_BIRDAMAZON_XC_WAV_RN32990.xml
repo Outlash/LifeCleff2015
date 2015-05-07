@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>32990</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN32990.wav</FileName>
+  <ClassId>rdpjcl</ClassId>
+  <Date>2002-03-00</Date>
+  <Time>?</Time>
+  <Locality>Chacrinha, Sao Paulo city, Sao Paulo State</Locality>
+  <Latitude>-23.6501</Latitude>
+  <Longitude>-46.6834</Longitude>
+  <Elevation>800</Elevation>
+  <Author>Carlos Candia-Gallardo</Author>
+  <AuthorID>CXQSLQJCAG</AuthorID>
+  <Content>?</Content>
+  <Comments />
+  <Quality>4</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Apodiformes</Order>
+  <Family>Trochilidae</Family>
+  <Genus>Amazilia</Genus>
+  <Species>lactea</Species>
+  <Sub-species />
+  <VernacularNames>Sapphire-spangled Emerald</VernacularNames>
+</Audio>

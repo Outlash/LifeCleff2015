@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>18580</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN18580.wav</FileName>
+  <ClassId>cxyhrl</ClassId>
+  <Date>2001-05-24</Date>
+  <Time>10:00</Time>
+  <Locality>Reserva Los Besotes_Vereda Los Besotes (Cerro Los Besotes), municipio Valledupar, Cesar</Locality>
+  <Latitude>NULL</Latitude>
+  <Longitude>NULL</Longitude>
+  <Elevation>330</Elevation>
+  <Author>Bernabe Lopez-Lanus</Author>
+  <AuthorID>BYLLSJRVDZ</AuthorID>
+  <Content>call</Content>
+  <Comments />
+  <Quality>3</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Icteridae</Family>
+  <Genus>Psarocolius</Genus>
+  <Species>decumanus</Species>
+  <Sub-species />
+  <VernacularNames>Crested Oropendola</VernacularNames>
+</Audio>

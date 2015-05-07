@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>30039</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN30039.wav</FileName>
+  <ClassId>dlrpwn</ClassId>
+  <Date>1989-07-00</Date>
+  <Time>09:00</Time>
+  <Locality>Nhecolândia,  Mato Grosso do Sul state</Locality>
+  <Latitude>-19.2499</Latitude>
+  <Longitude>-57.0294</Longitude>
+  <Elevation>90</Elevation>
+  <Author>Antonio Silveira</Author>
+  <AuthorID>NBJQSQJRYH</AuthorID>
+  <Content>call, female, male</Content>
+  <Comments>several birds call in a small flock.bird-seen:yesplayback-used:no</Comments>
+  <Quality>0</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Corvidae</Family>
+  <Genus>Cyanocorax</Genus>
+  <Species>cyanomelas</Species>
+  <Sub-species />
+  <VernacularNames>Purplish Jay</VernacularNames>
+</Audio>

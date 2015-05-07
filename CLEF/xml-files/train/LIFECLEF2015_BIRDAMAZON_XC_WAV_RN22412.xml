@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>22412</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN22412.wav</FileName>
+  <ClassId>kgmsiq</ClassId>
+  <Date>0000-00-00</Date>
+  <Time>8:30 AM</Time>
+  <Locality>Libano</Locality>
+  <Latitude>4.924</Latitude>
+  <Longitude>-75.067</Longitude>
+  <Elevation>?</Elevation>
+  <Author>Fabrice Schmitt</Author>
+  <AuthorID>FPAGKPAQYO</AuthorID>
+  <Content>song</Content>
+  <Comments>after playback</Comments>
+  <Quality>1</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Emberizidae</Family>
+  <Genus>Arremon</Genus>
+  <Species>atricapillus</Species>
+  <Sub-species />
+  <VernacularNames>Black-headed Brush Finch</VernacularNames>
+</Audio>

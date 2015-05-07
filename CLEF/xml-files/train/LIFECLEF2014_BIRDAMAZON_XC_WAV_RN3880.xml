@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>3880</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN3880.wav</FileName>
+  <ClassId>jwatvd</ClassId>
+  <Date>2011-02-01</Date>
+  <Time>17:00</Time>
+  <Locality>São Luiz do Paraitinga, São Paulo</Locality>
+  <Latitude>-23.3178</Latitude>
+  <Longitude>-45.1648</Longitude>
+  <Elevation>1000</Elevation>
+  <Author>Rodrigo Dela Rosa de Souza</Author>
+  <AuthorID>VGXDJMKETZ</AuthorID>
+  <Content>song</Content>
+  <Comments>bird-seen:noplayback-used:yes</Comments>
+  <Quality>2</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Grallariidae</Family>
+  <Genus>Grallaria</Genus>
+  <Species>varia</Species>
+  <Sub-species />
+  <VernacularNames>Variegated Antpitta</VernacularNames>
+</Audio>

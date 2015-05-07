@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>10123</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN10123.wav</FileName>
+  <ClassId>njxzte</ClassId>
+  <Date>2010-12-13</Date>
+  <Time>07:18</Time>
+  <Locality>Floresta Nacional do Tapajós, Bacia 165, Santarem, Para</Locality>
+  <Latitude>-2.7539</Latitude>
+  <Longitude>-54.997</Longitude>
+  <Elevation>?</Elevation>
+  <Author>Alexander Lees</Author>
+  <AuthorID>INDDBZAFJL</AuthorID>
+  <Content>call</Content>
+  <Comments>primary forest (once burnt)</Comments>
+  <Quality>0</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies>Trogon viridis,Lophotriccus galeatus,Tolmomyias poliocephalus,Saltator grossus</BackgroundSpecies>
+  <Order>Psittaciformes</Order>
+  <Family>Psittacidae</Family>
+  <Genus>Pyrrhura</Genus>
+  <Species>amazonum</Species>
+  <Sub-species />
+  <VernacularNames>Santarem Parakeet</VernacularNames>
+</Audio>

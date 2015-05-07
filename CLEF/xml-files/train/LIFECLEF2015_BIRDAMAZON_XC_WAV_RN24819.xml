@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>24819</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN24819.wav</FileName>
+  <ClassId>ennzln</ClassId>
+  <Date>2004-04-01</Date>
+  <Time>?:?</Time>
+  <Locality>Mato Grosso, Rio Cristalino, near Cristalino Jungle Lodge, canopy tower</Locality>
+  <Latitude>-9.6</Latitude>
+  <Longitude>-55.93</Longitude>
+  <Elevation>240</Elevation>
+  <Author>Frank Lambert</Author>
+  <AuthorID>YTUXOCTUEM</AuthorID>
+  <Content>call</Content>
+  <Comments>Previously published on AVoCet as &lt;a href=http://avocet.zoology.msu.edu/recordings/10282&gt;AV10282&lt;/a&gt;.  Certainty: 100%.  ID determined by: seen. GPS: Google Earth. flight</Comments>
+  <Quality>2</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies>Lipaugus vociferans</BackgroundSpecies>
+  <Order>Falconiformes</Order>
+  <Family>Falconidae</Family>
+  <Genus>Daptrius</Genus>
+  <Species>ater</Species>
+  <Sub-species />
+  <VernacularNames>Black Caracara</VernacularNames>
+</Audio>

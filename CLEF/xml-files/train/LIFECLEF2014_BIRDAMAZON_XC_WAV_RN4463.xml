@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>4463</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN4463.wav</FileName>
+  <ClassId>nxdwzm</ClassId>
+  <Date>2002-08-29</Date>
+  <Time>06:57</Time>
+  <Locality>Reserva Volta Velha, Itapoá, SC</Locality>
+  <Latitude>-26.0834</Latitude>
+  <Longitude>-48.6334</Longitude>
+  <Elevation>10</Elevation>
+  <Author>Jeremy Minns</Author>
+  <AuthorID>DGVLLRYDXS</AuthorID>
+  <Content>call, song</Content>
+  <Comments>Coastal white sand forest. At end of cut, sounds of interaction with a second bird.</Comments>
+  <Quality>1</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies>Crypturellus noctivagus,Chiroxiphia caudata,Schiffornis virescens,Hylophilus poicilotis,Saltator similis</BackgroundSpecies>
+  <Order>Passeriformes</Order>
+  <Family>Furnariidae</Family>
+  <Genus>Automolus</Genus>
+  <Species>leucophthalmus</Species>
+  <Sub-species>sulphurascens</Sub-species>
+  <VernacularNames>White-eyed Foliage-gleaner</VernacularNames>
+</Audio>

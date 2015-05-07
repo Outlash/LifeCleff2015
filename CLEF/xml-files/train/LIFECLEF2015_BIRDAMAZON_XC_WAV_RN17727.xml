@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>17727</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN17727.wav</FileName>
+  <ClassId>jbyowy</ClassId>
+  <Date>2011-08-19</Date>
+  <Time>17:45</Time>
+  <Locality>Cristalino Jungle Lodge, MT</Locality>
+  <Latitude>-9.5981</Latitude>
+  <Longitude>-55.932</Longitude>
+  <Elevation>200</Elevation>
+  <Author>Tayler Brooks</Author>
+  <AuthorID>ARFGONJCBJ</AuthorID>
+  <Content>song</Content>
+  <Comments>In response to playback. Singing from canopy, several individuals.</Comments>
+  <Quality>1</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Thraupidae</Family>
+  <Genus>Lamprospiza</Genus>
+  <Species>melanoleuca</Species>
+  <Sub-species />
+  <VernacularNames>Red-billed Pied Tanager</VernacularNames>
+</Audio>

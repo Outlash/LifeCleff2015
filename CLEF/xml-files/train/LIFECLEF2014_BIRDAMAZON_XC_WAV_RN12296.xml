@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>12296</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN12296.wav</FileName>
+  <ClassId>maqvgn</ClassId>
+  <Date>2004-03-21</Date>
+  <Time>08:07</Time>
+  <Locality>Estação Ecológica de Murici, Alagoas</Locality>
+  <Latitude>-9.3001</Latitude>
+  <Longitude>-35.9334</Longitude>
+  <Elevation>550</Elevation>
+  <Author>Jeremy Minns</Author>
+  <AuthorID>DGVLLRYDXS</AuthorID>
+  <Content>Song</Content>
+  <Comments>Both cuts natural.</Comments>
+  <Quality>2</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies>Tolmomyias flaviventris,Myiarchus tuberculifer,Euphonia violacea</BackgroundSpecies>
+  <Order>Passeriformes</Order>
+  <Family>Cardinalidae</Family>
+  <Genus>Caryothraustes</Genus>
+  <Species>canadensis</Species>
+  <Sub-species>frontalis</Sub-species>
+  <VernacularNames>Yellow-green Grosbeak</VernacularNames>
+</Audio>

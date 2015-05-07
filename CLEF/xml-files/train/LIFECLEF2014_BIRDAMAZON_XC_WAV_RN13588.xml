@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>13588</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN13588.wav</FileName>
+  <ClassId>doafbd</ClassId>
+  <Date>2003-12-02</Date>
+  <Time>05:50</Time>
+  <Locality>Cristalino Jungle Lodge, MT</Locality>
+  <Latitude>-9.5981</Latitude>
+  <Longitude>-55.932</Longitude>
+  <Elevation>250</Elevation>
+  <Author>Jeremy Minns</Author>
+  <AuthorID>DGVLLRYDXS</AuthorID>
+  <Content>duet, song</Content>
+  <Comments>Secondary growth and cecropias.</Comments>
+  <Quality>1</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Thamnophilidae</Family>
+  <Genus>Hypocnemis</Genus>
+  <Species>striata</Species>
+  <Sub-species>striata</Sub-species>
+  <VernacularNames>Spix's Warbling Antbird</VernacularNames>
+</Audio>

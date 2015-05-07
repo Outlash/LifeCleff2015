@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>17726</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN17726.wav</FileName>
+  <ClassId>bkwfkb</ClassId>
+  <Date>2005-01-00</Date>
+  <Time>07:00</Time>
+  <Locality>Lepipuerto, Serrania de los Yariguies</Locality>
+  <Latitude>6.4581</Latitude>
+  <Longitude>-73.4576</Longitude>
+  <Elevation>2900</Elevation>
+  <Author>Thomas Donegan</Author>
+  <AuthorID>OXSIOLJJUP</AuthorID>
+  <Content>Scolds</Content>
+  <Comments>Ref: Donegan, T.M. &amp; Avendaño-C., J.E. 2008. Notes on Tapaculos (Passeriformes: Rhinocryptidae) of the Eastern Andes of Colombia and Venezuelan Andes, with a new subspecies of Scytalopus griseicollis from Colombia.  Ornitología Colombiana 6: 24-65.</Comments>
+  <Quality>0</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Rhinocryptidae</Family>
+  <Genus>Scytalopus</Genus>
+  <Species>griseicollis</Species>
+  <Sub-species>gilesi</Sub-species>
+  <VernacularNames>Pale-bellied Tapaculo</VernacularNames>
+</Audio>

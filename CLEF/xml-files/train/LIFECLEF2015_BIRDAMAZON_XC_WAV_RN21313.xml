@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>21313</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN21313.wav</FileName>
+  <ClassId>rfdkgs</ClassId>
+  <Date>1996-02-19</Date>
+  <Time>8:00</Time>
+  <Locality>Saint-Eugène, Petit Saut lake</Locality>
+  <Latitude>4.8503</Latitude>
+  <Longitude>-53.0609</Longitude>
+  <Elevation>50</Elevation>
+  <Author>Olivier Claessens</Author>
+  <AuthorID>KRQYNRSSDF</AuthorID>
+  <Content>call</Content>
+  <Comments>perched bird</Comments>
+  <Quality>0</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Psittaciformes</Order>
+  <Family>Psittacidae</Family>
+  <Genus>Amazona</Genus>
+  <Species>dufresniana</Species>
+  <Sub-species />
+  <VernacularNames>Blue-cheeked Amazon</VernacularNames>
+</Audio>

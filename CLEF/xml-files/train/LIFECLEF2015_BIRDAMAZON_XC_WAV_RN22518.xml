@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>22518</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN22518.wav</FileName>
+  <ClassId>ahuzrk</ClassId>
+  <Date>2012-04-25</Date>
+  <Time>17:26</Time>
+  <Locality>SFF Otun-Quimbaya, Pereira, Risaralda, C Andes</Locality>
+  <Latitude>4.727</Latitude>
+  <Longitude>-75.577</Longitude>
+  <Elevation>1875</Elevation>
+  <Author>Jeremy Minns</Author>
+  <AuthorID>DGVLLRYDXS</AuthorID>
+  <Content>Call A</Content>
+  <Comments>Edge of secondary growth in grounds of lodge.</Comments>
+  <Quality>0</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies>Zonotrichia capensis</BackgroundSpecies>
+  <Order>Passeriformes</Order>
+  <Family>Thamnophilidae</Family>
+  <Genus>Thamnophilus</Genus>
+  <Species>multistriatus</Species>
+  <Sub-species>brachyurus</Sub-species>
+  <VernacularNames>Bar-crested Antshrike</VernacularNames>
+</Audio>

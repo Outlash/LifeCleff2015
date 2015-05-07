@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>1465</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN1465.wav</FileName>
+  <ClassId>ombazy</ClassId>
+  <Date>2010-12-16</Date>
+  <Time>9:46</Time>
+  <Locality>Sento Sé</Locality>
+  <Latitude>-9.744</Latitude>
+  <Longitude>-41.091</Longitude>
+  <Elevation>?</Elevation>
+  <Author>Sidnei S. dos Santos</Author>
+  <AuthorID>BHODJXTHGQ</AuthorID>
+  <Content>Song</Content>
+  <Comments />
+  <Quality>2</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Furnariidae</Family>
+  <Genus>Campylorhamphus</Genus>
+  <Species>trochilirostris</Species>
+  <Sub-species />
+  <VernacularNames>Red-billed Scythebill</VernacularNames>
+</Audio>

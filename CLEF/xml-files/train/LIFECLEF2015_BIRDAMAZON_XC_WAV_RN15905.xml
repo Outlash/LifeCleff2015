@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>15905</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN15905.wav</FileName>
+  <ClassId>vrmygt</ClassId>
+  <Date>2014-04-22</Date>
+  <Time>07:00</Time>
+  <Locality>Zipaquira, Cundinamarca</Locality>
+  <Latitude>5.0397</Latitude>
+  <Longitude>-74.0536</Longitude>
+  <Elevation>2900</Elevation>
+  <Author>Juan Sebastián León Lleras</Author>
+  <AuthorID>KURCGJCGSW</AuthorID>
+  <Content>call</Content>
+  <Comments>bird-seen:yesplayback-used:no</Comments>
+  <Quality>2</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Emberizidae</Family>
+  <Genus>Arremon</Genus>
+  <Species>assimilis</Species>
+  <Sub-species />
+  <VernacularNames>Grey-browed Brush Finch</VernacularNames>
+</Audio>

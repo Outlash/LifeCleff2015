@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>17466</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN17466.wav</FileName>
+  <ClassId>njvtdj</ClassId>
+  <Date>2008-02-17</Date>
+  <Time>10:45</Time>
+  <Locality>Ibague, Tolima</Locality>
+  <Latitude>4.43889</Latitude>
+  <Longitude>-75.23222</Longitude>
+  <Elevation>2000</Elevation>
+  <Author>Herman van Oosten</Author>
+  <AuthorID>SNUDCZVUQK</AuthorID>
+  <Content>Song</Content>
+  <Comments>Bird seen. Species or not?</Comments>
+  <Quality>2</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies>Hylophilus semibrunneus,Pachyramphus versicolor</BackgroundSpecies>
+  <Order>Coraciiformes</Order>
+  <Family>Momotidae</Family>
+  <Genus>Momotus</Genus>
+  <Species>aequatorialis</Species>
+  <Sub-species>aequatorialis</Sub-species>
+  <VernacularNames>Andean Motmot</VernacularNames>
+</Audio>

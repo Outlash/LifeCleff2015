@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>2856</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN2856.wav</FileName>
+  <ClassId>uizzbr</ClassId>
+  <Date>1997-08-01</Date>
+  <Time>11:00</Time>
+  <Locality>Lago Salvador, Iranduba, Amazonas</Locality>
+  <Latitude>-3.1386</Latitude>
+  <Longitude>-60.1391</Longitude>
+  <Elevation>20</Elevation>
+  <Author>Antonio Silveira</Author>
+  <AuthorID>NBJQSQJRYH</AuthorID>
+  <Content>song</Content>
+  <Comments>bird-seen:yesplayback-used:no</Comments>
+  <Quality>2</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Cotingidae</Family>
+  <Genus>Lipaugus</Genus>
+  <Species>vociferans</Species>
+  <Sub-species />
+  <VernacularNames>Screaming Piha</VernacularNames>
+</Audio>

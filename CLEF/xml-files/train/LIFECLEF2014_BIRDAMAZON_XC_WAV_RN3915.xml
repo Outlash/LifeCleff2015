@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>3915</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN3915.wav</FileName>
+  <ClassId>fmdsaj</ClassId>
+  <Date>2006-05-18</Date>
+  <Time>06:50</Time>
+  <Locality>Tucuruí dam, right margin of the lake, state of Pará</Locality>
+  <Latitude>-4.2327</Latitude>
+  <Longitude>-49.41194</Longitude>
+  <Elevation>70</Elevation>
+  <Author>Sidnei de Melo Dantas</Author>
+  <AuthorID>NNCKQMBGPH</AuthorID>
+  <Content>song</Content>
+  <Comments>canopy of land forest.</Comments>
+  <Quality>3</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies>Tolmomyias poliocephalus,Cyclarhis gujanensis,Cercomacra cinerascens,Myiopagis gaimardii</BackgroundSpecies>
+  <Order>Passeriformes</Order>
+  <Family>Tyrannidae</Family>
+  <Genus>Piprites</Genus>
+  <Species>chloris</Species>
+  <Sub-species>grisescens</Sub-species>
+  <VernacularNames>Wing-barred Piprites</VernacularNames>
+</Audio>

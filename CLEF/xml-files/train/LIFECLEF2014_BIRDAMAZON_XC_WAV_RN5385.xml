@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>5385</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN5385.wav</FileName>
+  <ClassId>xyvbwf</ClassId>
+  <Date>2000-11-21</Date>
+  <Time>07:52</Time>
+  <Locality>Parque Nacional da Amazônia</Locality>
+  <Latitude>-4.5167</Latitude>
+  <Longitude>-56.3001</Longitude>
+  <Elevation>50</Elevation>
+  <Author>Jeremy Minns</Author>
+  <AuthorID>DGVLLRYDXS</AuthorID>
+  <Content>Song</Content>
+  <Comments>Transitional forest beside igarapé. With mixed flock.</Comments>
+  <Quality>2</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies>Hylophilus semicinereus,Myrmotherula sclateri,Xiphorhynchus guttatus,Hylophilus muscicapinus</BackgroundSpecies>
+  <Order>Passeriformes</Order>
+  <Family>Thamnophilidae</Family>
+  <Genus>Microrhopias</Genus>
+  <Species>quixensis</Species>
+  <Sub-species>bicolor</Sub-species>
+  <VernacularNames>Dot-winged Antwren</VernacularNames>
+</Audio>

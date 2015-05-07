@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>18263</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN18263.wav</FileName>
+  <ClassId>aksucy</ClassId>
+  <Date>2003-02-22</Date>
+  <Time>16:50</Time>
+  <Locality>Finca Merenberg</Locality>
+  <Latitude>2.2001</Latitude>
+  <Longitude>-76.1001</Longitude>
+  <Elevation>2235</Elevation>
+  <Author>Niels Krabbe</Author>
+  <AuthorID>XTVEPHMPPJ</AuthorID>
+  <Content>male song after playback</Content>
+  <Comments>Collected (NK2). Tape ref. B 205-207</Comments>
+  <Quality>3</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Rhinocryptidae</Family>
+  <Genus>Scytalopus</Genus>
+  <Species>rodriguezi</Species>
+  <Sub-species />
+  <VernacularNames>Upper Magdalena Tapaculo</VernacularNames>
+</Audio>

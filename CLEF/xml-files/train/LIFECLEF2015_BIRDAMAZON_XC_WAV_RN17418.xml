@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>17418</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN17418.wav</FileName>
+  <ClassId>ytwsmv</ClassId>
+  <Date>2007-02-19</Date>
+  <Time>18:00</Time>
+  <Locality>Caripe-Las Margaritas</Locality>
+  <Latitude>10.2056</Latitude>
+  <Longitude>-63.5173</Longitude>
+  <Elevation>1000</Elevation>
+  <Author>Doug Knapp</Author>
+  <AuthorID>BHRXQZEQFL</AuthorID>
+  <Content>call</Content>
+  <Comments>Small group in in tall canopy around coffee farms.</Comments>
+  <Quality>2</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Piciformes</Order>
+  <Family>Ramphastidae</Family>
+  <Genus>Aulacorhynchus</Genus>
+  <Species>sulcatus</Species>
+  <Sub-species>calorhynchus</Sub-species>
+  <VernacularNames>Groove-billed Toucanet</VernacularNames>
+</Audio>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>17498</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN17498.wav</FileName>
+  <ClassId>mdgxvm</ClassId>
+  <Date>2009-01-02</Date>
+  <Time>18:00</Time>
+  <Locality>Libertad, Táchira</Locality>
+  <Latitude>7.7121</Latitude>
+  <Longitude>-72.2966</Longitude>
+  <Elevation>750</Elevation>
+  <Author>Joe Klaiber</Author>
+  <AuthorID>TNPOVFLZMY</AuthorID>
+  <Content>song</Content>
+  <Comments />
+  <Quality>3</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Cuculiformes</Order>
+  <Family>Cuculidae</Family>
+  <Genus>Dromococcyx</Genus>
+  <Species>pavoninus</Species>
+  <Sub-species />
+  <VernacularNames>Pavonine Cuckoo</VernacularNames>
+</Audio>

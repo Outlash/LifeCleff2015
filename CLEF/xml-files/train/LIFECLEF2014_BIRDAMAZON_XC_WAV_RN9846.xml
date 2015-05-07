@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>9846</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN9846.wav</FileName>
+  <ClassId>nnuubm</ClassId>
+  <Date>2009-07-17</Date>
+  <Time>07:30</Time>
+  <Locality>Birigui, Sao Paulo state</Locality>
+  <Latitude>-21.2451</Latitude>
+  <Longitude>-50.3734</Longitude>
+  <Elevation>390</Elevation>
+  <Author>Joao Menezes</Author>
+  <AuthorID>BEYMZHZHIB</AuthorID>
+  <Content>call</Content>
+  <Comments>A flock perched on top of a tree</Comments>
+  <Quality>2</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies>Vanellus chilensis</BackgroundSpecies>
+  <Order>Passeriformes</Order>
+  <Family>Icteridae</Family>
+  <Genus>Pseudoleistes</Genus>
+  <Species>guirahuro</Species>
+  <Sub-species />
+  <VernacularNames>Yellow-rumped Marshbird</VernacularNames>
+</Audio>

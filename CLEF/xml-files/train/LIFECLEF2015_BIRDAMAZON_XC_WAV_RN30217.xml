@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>30217</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN30217.wav</FileName>
+  <ClassId>vspudg</ClassId>
+  <Date>2010-03-14</Date>
+  <Time>09:30</Time>
+  <Locality>Turtle Mountain, Iwokrama Forest, Guyana</Locality>
+  <Latitude>NULL</Latitude>
+  <Longitude>NULL</Longitude>
+  <Elevation>80</Elevation>
+  <Author>Charlie Vogt</Author>
+  <AuthorID>NYTXYAQSTH</AuthorID>
+  <Content>song</Content>
+  <Comments>after playback</Comments>
+  <Quality>3</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies>Lipaugus vociferans</BackgroundSpecies>
+  <Order>Passeriformes</Order>
+  <Family>Pipridae</Family>
+  <Genus>Tyranneutes</Genus>
+  <Species>virescens</Species>
+  <Sub-species />
+  <VernacularNames>Tiny Tyrant-Manakin</VernacularNames>
+</Audio>

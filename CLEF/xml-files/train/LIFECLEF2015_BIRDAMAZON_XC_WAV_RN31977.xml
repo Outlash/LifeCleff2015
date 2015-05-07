@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>31977</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN31977.wav</FileName>
+  <ClassId>aezhvb</ClassId>
+  <Date>2011-10-25</Date>
+  <Time>21:30</Time>
+  <Locality>Blumenau, Santa Catarina</Locality>
+  <Latitude>-26.8385</Latitude>
+  <Longitude>-49.1304</Longitude>
+  <Elevation>240</Elevation>
+  <Author>Alexandre Bianco</Author>
+  <AuthorID>ODNEDFESFY</AuthorID>
+  <Content>song</Content>
+  <Comments>bird-seen:yesplayback-used:no</Comments>
+  <Quality>1</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Caprimulgiformes</Order>
+  <Family>Caprimulgidae</Family>
+  <Genus>Antrostomus</Genus>
+  <Species>sericocaudatus</Species>
+  <Sub-species />
+  <VernacularNames>Silky-tailed Nightjar</VernacularNames>
+</Audio>

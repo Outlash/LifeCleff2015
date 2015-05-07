@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>3560</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN3560.wav</FileName>
+  <ClassId>ytroxk</ClassId>
+  <Date>2000-12-30</Date>
+  <Time>07:23</Time>
+  <Locality>Ubatuba, SP. Praia Vermelha do Sul.</Locality>
+  <Latitude>-23.5167</Latitude>
+  <Longitude>-45.1667</Longitude>
+  <Elevation>5</Elevation>
+  <Author>Jeremy Minns</Author>
+  <AuthorID>DGVLLRYDXS</AuthorID>
+  <Content>Song</Content>
+  <Comments>Well wooded condominium beside the sea. A single bird, moving between trees from time to time.</Comments>
+  <Quality>1</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies>Pitangus sulphuratus,Vireo olivaceus,Turdus rufiventris</BackgroundSpecies>
+  <Order>Passeriformes</Order>
+  <Family>Turdidae</Family>
+  <Genus>Turdus</Genus>
+  <Species>amaurochalinus</Species>
+  <Sub-species />
+  <VernacularNames>Creamy-bellied Thrush</VernacularNames>
+</Audio>

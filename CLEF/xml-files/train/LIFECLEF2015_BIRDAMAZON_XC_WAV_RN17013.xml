@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>17013</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN17013.wav</FileName>
+  <ClassId>kaivna</ClassId>
+  <Date>2003-02-19</Date>
+  <Time>?</Time>
+  <Locality>Reserva privada Yotoco, Yotoco, Valle del Cauca</Locality>
+  <Latitude>3.8775</Latitude>
+  <Longitude>-76.43195</Longitude>
+  <Elevation>1400 a 1600</Elevation>
+  <Author>José Agustín López (Colección de Sonidos Ambientales - Instituto Humboldt)</Author>
+  <AuthorID>XMFDPACYJN</AuthorID>
+  <Content>call</Content>
+  <Comments>BSA 12131To obtain a wav file of the original recording, please contact csa@humboldt.org.coplayback-used:no</Comments>
+  <Quality>3</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies>Zimmerius chrysops</BackgroundSpecies>
+  <Order>Galliformes</Order>
+  <Family>Odontophoridae</Family>
+  <Genus>Odontophorus</Genus>
+  <Species>hyperythrus</Species>
+  <Sub-species />
+  <VernacularNames>Chestnut Wood Quail</VernacularNames>
+</Audio>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>7018</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN7018.wav</FileName>
+  <ClassId>dfegpk</ClassId>
+  <Date>2008-08-05</Date>
+  <Time>06:50</Time>
+  <Locality>Goiânia, Goiás.</Locality>
+  <Latitude>-16.691448</Latitude>
+  <Longitude>-49.266815</Longitude>
+  <Elevation>610</Elevation>
+  <Author>Nunes D'Acosta</Author>
+  <AuthorID>OHHTDSDNBT</AuthorID>
+  <Content>song</Content>
+  <Comments>Setor Samambaia, casal vocalizando na copa de um mandiocão-d-cerrado(Schefflera macrocarpa) se alimentando do fruto da mesma.</Comments>
+  <Quality>2</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies />
+  <Order>Psittaciformes</Order>
+  <Family>Psittacidae</Family>
+  <Genus>Amazona</Genus>
+  <Species>aestiva</Species>
+  <Sub-species />
+  <VernacularNames>Turquoise-fronted Amazon</VernacularNames>
+</Audio>

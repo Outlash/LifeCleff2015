@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>17227</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN17227.wav</FileName>
+  <ClassId>ssmptq</ClassId>
+  <Date>2007-11-28</Date>
+  <Time>06:23</Time>
+  <Locality>Parque La Florida, Bogota</Locality>
+  <Latitude>4.729727</Latitude>
+  <Longitude>-74.135742</Longitude>
+  <Elevation>2600</Elevation>
+  <Author>Nick Athanas</Author>
+  <AuthorID>XRABICUARW</AuthorID>
+  <Content>song</Content>
+  <Comments>Response to playback. img:http://www.antpitta.com/images/photos/wrens/Apolinars-Wren.jpg</Comments>
+  <Quality>1</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Troglodytidae</Family>
+  <Genus>Cistothorus</Genus>
+  <Species>apolinari</Species>
+  <Sub-species />
+  <VernacularNames>Apolinar's Wren</VernacularNames>
+</Audio>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>30157</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN30157.wav</FileName>
+  <ClassId>tobccz</ClassId>
+  <Date>2011-06-10</Date>
+  <Time>11:00</Time>
+  <Locality>Mitu, Vaupes</Locality>
+  <Latitude>1.2598</Latitude>
+  <Longitude>-70.2367</Longitude>
+  <Elevation>190</Elevation>
+  <Author>Andrew Spencer</Author>
+  <AuthorID>CDTGHVBGZP</AuthorID>
+  <Content>call</Content>
+  <Comments>natural vocalization, calls from a flock of six birds.</Comments>
+  <Quality>1</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Psittaciformes</Order>
+  <Family>Psittacidae</Family>
+  <Genus>Deroptyus</Genus>
+  <Species>accipitrinus</Species>
+  <Sub-species>accipitrinus</Sub-species>
+  <VernacularNames>Red-fan Parrot</VernacularNames>
+</Audio>

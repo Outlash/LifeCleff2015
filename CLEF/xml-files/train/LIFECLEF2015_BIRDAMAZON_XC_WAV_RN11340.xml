@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>11340</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN11340.wav</FileName>
+  <ClassId>llahcy</ClassId>
+  <Date>2009-05-14</Date>
+  <Time>07:00</Time>
+  <Locality>Paranaíta, Mato Grosso</Locality>
+  <Latitude>-9.5872</Latitude>
+  <Longitude>-56.3461</Longitude>
+  <Elevation>240</Elevation>
+  <Author>Sidnei Dantas</Author>
+  <AuthorID>NNCKQMBGPH</AuthorID>
+  <Content>song</Content>
+  <Comments>interval between sequences reduced.</Comments>
+  <Quality>0</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies>Hypocnemis striata</BackgroundSpecies>
+  <Order>Falconiformes</Order>
+  <Family>Falconidae</Family>
+  <Genus>Micrastur</Genus>
+  <Species>mirandollei</Species>
+  <Sub-species />
+  <VernacularNames>Slaty-backed Forest Falcon</VernacularNames>
+</Audio>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>28383</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN28383.wav</FileName>
+  <ClassId>lssubf</ClassId>
+  <Date>2014-09-30</Date>
+  <Time>09:05</Time>
+  <Locality>Intervales State Park, Sao Paolo</Locality>
+  <Latitude>-24.2667</Latitude>
+  <Longitude>-48.4167</Longitude>
+  <Elevation>850</Elevation>
+  <Author>Andrew Spencer</Author>
+  <AuthorID>CDTGHVBGZP</AuthorID>
+  <Content>song</Content>
+  <Comments>song duet from a pair of birds in response to playback, with the focus bird in the cut being the male.  While singing they were moving low through a dense (but not very tall) patch of bamboo in tall humid forest.bird-seen:yesplayback-used:yes</Comments>
+  <Quality>1</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Thamnophilidae</Family>
+  <Genus>Drymophila</Genus>
+  <Species>ferruginea</Species>
+  <Sub-species />
+  <VernacularNames>Ferruginous Antbird</VernacularNames>
+</Audio>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>12927</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN12927.wav</FileName>
+  <ClassId>athqge</ClassId>
+  <Date>2005-11-12</Date>
+  <Time>09:00</Time>
+  <Locality>Tucuruí dam, right margin of the lake, state of Pará</Locality>
+  <Latitude>-4.2327</Latitude>
+  <Longitude>-49.41194</Longitude>
+  <Elevation>100</Elevation>
+  <Author>Sidnei de Melo Dantas</Author>
+  <AuthorID>NNCKQMBGPH</AuthorID>
+  <Content>song</Content>
+  <Comments>Song after playback. A male, at 8m high, approx.</Comments>
+  <Quality>0</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies>Tolmomyias poliocephalus,Cercomacra laeta,Cercomacra cinerascens</BackgroundSpecies>
+  <Order>Passeriformes</Order>
+  <Family>Thamnophilidae</Family>
+  <Genus>Thamnophilus</Genus>
+  <Species>amazonicus</Species>
+  <Sub-species />
+  <VernacularNames>Amazonian Antshrike</VernacularNames>
+</Audio>

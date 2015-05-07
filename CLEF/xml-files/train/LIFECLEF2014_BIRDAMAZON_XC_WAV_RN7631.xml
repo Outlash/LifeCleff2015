@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>7631</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN7631.wav</FileName>
+  <ClassId>jcyhxm</ClassId>
+  <Date>2004-02-06</Date>
+  <Time>?:?</Time>
+  <Locality>Bahia, Fazenda Bom Jesus, near Una</Locality>
+  <Latitude>-15.2</Latitude>
+  <Longitude>-39.3</Longitude>
+  <Elevation>?</Elevation>
+  <Author>Frank Lambert</Author>
+  <AuthorID>YTUXOCTUEM</AuthorID>
+  <Content>song</Content>
+  <Comments>Previously published on AVoCet as &lt;a href=http://avocet.zoology.msu.edu/recordings/8191&gt;AV8191&lt;/a&gt;.  Certainty: 100%.  ID determined by: not specifically indicated, recordist normally sees birds recorded and indicates if any question, similar to XC cuts. GPS: estimate from Google Earth.</Comments>
+  <Quality>2</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies />
+  <Order>Piciformes</Order>
+  <Family>Picidae</Family>
+  <Genus>Celeus</Genus>
+  <Species>flavescens</Species>
+  <Sub-species />
+  <VernacularNames>Blond-crested Woodpecker</VernacularNames>
+</Audio>

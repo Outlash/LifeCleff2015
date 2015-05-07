@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>16043</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN16043.wav</FileName>
+  <ClassId>lrkmwb</ClassId>
+  <Date>2011-06-26</Date>
+  <Time>07:00</Time>
+  <Locality>RNA Las Tangaras, Choco</Locality>
+  <Latitude>5.7289</Latitude>
+  <Longitude>-76.2439</Longitude>
+  <Elevation>1800</Elevation>
+  <Author>Andrew Spencer</Author>
+  <AuthorID>CDTGHVBGZP</AuthorID>
+  <Content>begging call</Content>
+  <Comments>natural vocalization, begging calls from two older juveniles.  Sounds of the birds being fed at 2s and 28s.</Comments>
+  <Quality>1</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Thraupidae</Family>
+  <Genus>Bangsia</Genus>
+  <Species>melanochlamys</Species>
+  <Sub-species />
+  <VernacularNames>Black-and-gold Tanager</VernacularNames>
+</Audio>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>11094</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN11094.wav</FileName>
+  <ClassId>gaggjv</ClassId>
+  <Date>2010-04-07</Date>
+  <Time>15:25</Time>
+  <Locality>Parque Ecológico Colônia Mineira, Apucarana - PR</Locality>
+  <Latitude>-23.5834</Latitude>
+  <Longitude>-51.4345</Longitude>
+  <Elevation>550</Elevation>
+  <Author>Renan Campos de Oliveira</Author>
+  <AuthorID>SDARDTGGWP</AuthorID>
+  <Content>Song</Content>
+  <Comments />
+  <Quality>1</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Cardinalidae</Family>
+  <Genus>Saltator</Genus>
+  <Species>similis</Species>
+  <Sub-species />
+  <VernacularNames>Green-winged Saltator</VernacularNames>
+</Audio>

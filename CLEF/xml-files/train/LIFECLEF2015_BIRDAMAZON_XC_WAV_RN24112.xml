@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>24112</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN24112.wav</FileName>
+  <ClassId>iqhznr</ClassId>
+  <Date>2007-01-12</Date>
+  <Time>06:35</Time>
+  <Locality>Pico Humboldt Trail, Parque Nacional Sierra Nevada, Mérida</Locality>
+  <Latitude>8.6209</Latitude>
+  <Longitude>-71.0331</Longitude>
+  <Elevation>?</Elevation>
+  <Author>Andrew Spencer</Author>
+  <AuthorID>CDTGHVBGZP</AuthorID>
+  <Content>song</Content>
+  <Comments />
+  <Quality>1</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Cotingidae</Family>
+  <Genus>Pipreola</Genus>
+  <Species>aureopectus</Species>
+  <Sub-species />
+  <VernacularNames>Golden-breasted Fruiteater</VernacularNames>
+</Audio>

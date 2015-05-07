@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>16711</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN16711.wav</FileName>
+  <ClassId>qdnved</ClassId>
+  <Date>2013-11-24</Date>
+  <Time>11:30</Time>
+  <Locality>Ilhabela, São Paulo</Locality>
+  <Latitude>-23.8312</Latitude>
+  <Longitude>-45.3495</Longitude>
+  <Elevation>190</Elevation>
+  <Author>Eduardo D. Schultz</Author>
+  <AuthorID>QYOZQITVAC</AuthorID>
+  <Content>call, female, male</Content>
+  <Comments>bird-seen:yesplayback-used:no</Comments>
+  <Quality>2</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Tyrannidae</Family>
+  <Genus>Colonia</Genus>
+  <Species>colonus</Species>
+  <Sub-species />
+  <VernacularNames>Long-tailed Tyrant</VernacularNames>
+</Audio>

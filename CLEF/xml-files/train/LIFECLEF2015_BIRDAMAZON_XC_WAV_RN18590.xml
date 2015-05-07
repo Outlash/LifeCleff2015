@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>18590</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN18590.wav</FileName>
+  <ClassId>sjimuc</ClassId>
+  <Date>2010-03-14</Date>
+  <Time>08:40</Time>
+  <Locality>Turtle Mountain, Iwokrama Forest, Guyana</Locality>
+  <Latitude>NULL</Latitude>
+  <Longitude>NULL</Longitude>
+  <Elevation>80</Elevation>
+  <Author>Charlie Vogt</Author>
+  <AuthorID>NYTXYAQSTH</AuthorID>
+  <Content>song</Content>
+  <Comments>natural vocalization</Comments>
+  <Quality>1</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies>Celeus undatus,Cyanocompsa cyanoides</BackgroundSpecies>
+  <Order>Passeriformes</Order>
+  <Family>Thamnophilidae</Family>
+  <Genus>Hypocnemoides</Genus>
+  <Species>melanopogon</Species>
+  <Sub-species>melanopogon</Sub-species>
+  <VernacularNames>Black-chinned Antbird</VernacularNames>
+</Audio>

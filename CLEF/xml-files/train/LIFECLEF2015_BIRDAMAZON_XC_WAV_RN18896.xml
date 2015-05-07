@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>18896</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN18896.wav</FileName>
+  <ClassId>pswzyj</ClassId>
+  <Date>2011-09-20</Date>
+  <Time>09:00</Time>
+  <Locality>São Lourenço, Minas Gerais</Locality>
+  <Latitude>-22.1171</Latitude>
+  <Longitude>-45.051</Longitude>
+  <Elevation>900</Elevation>
+  <Author>João Antônio de B. Vitto</Author>
+  <AuthorID>RIVNLYTULO</AuthorID>
+  <Content>song</Content>
+  <Comments>bird-seen:noplayback-used:no</Comments>
+  <Quality>2</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Vireonidae</Family>
+  <Genus>Vireo</Genus>
+  <Species>olivaceus</Species>
+  <Sub-species />
+  <VernacularNames>Red-eyed Vireo</VernacularNames>
+</Audio>

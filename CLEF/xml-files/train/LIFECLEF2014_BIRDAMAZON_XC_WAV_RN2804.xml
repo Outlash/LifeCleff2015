@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>2804</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN2804.wav</FileName>
+  <ClassId>ztxztb</ClassId>
+  <Date>2000-08-14</Date>
+  <Time>06:35</Time>
+  <Locality>Caraguatatuba, São Paulo state. 'Hípica as Gaivotas'</Locality>
+  <Latitude>-23.5667</Latitude>
+  <Longitude>-45.3167</Longitude>
+  <Elevation>10</Elevation>
+  <Author>Jeremy Minns</Author>
+  <AuthorID>DGVLLRYDXS</AuthorID>
+  <Content>call</Content>
+  <Comments>Coastal forest on white sand. Calls by small flock.</Comments>
+  <Quality>1</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies>Drymophila squamata,Pyriglena leucoptera,Automolus leucophthalmus,Cyclarhis gujanensis</BackgroundSpecies>
+  <Order>Passeriformes</Order>
+  <Family>Thraupidae</Family>
+  <Genus>Ramphocelus</Genus>
+  <Species>bresilius</Species>
+  <Sub-species>dorsalis</Sub-species>
+  <VernacularNames>Brazilian Tanager</VernacularNames>
+</Audio>

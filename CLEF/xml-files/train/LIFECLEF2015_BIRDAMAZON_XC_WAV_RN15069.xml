@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>15069</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN15069.wav</FileName>
+  <ClassId>xkvxmc</ClassId>
+  <Date>2007-04-12</Date>
+  <Time>06:00</Time>
+  <Locality>Parque Nacional San Esteban. San Esteban, Puerto Cabello,  Edo. Carabobo</Locality>
+  <Latitude>10.4241</Latitude>
+  <Longitude>-68.0116</Longitude>
+  <Elevation>40</Elevation>
+  <Author>OSWALDO RAMOS</Author>
+  <AuthorID>OKVGIBGWHG</AuthorID>
+  <Content>song</Content>
+  <Comments>bird-seen:no</Comments>
+  <Quality>0</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Turdidae</Family>
+  <Genus>Turdus</Genus>
+  <Species>nudigenis</Species>
+  <Sub-species />
+  <VernacularNames>Spectacled Thrush</VernacularNames>
+</Audio>

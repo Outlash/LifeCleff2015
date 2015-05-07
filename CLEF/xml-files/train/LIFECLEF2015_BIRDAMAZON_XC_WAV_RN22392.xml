@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>22392</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN22392.wav</FileName>
+  <ClassId>mdgxvm</ClassId>
+  <Date>2013-08-27</Date>
+  <Time>19:30</Time>
+  <Locality>Posse, Goiás</Locality>
+  <Latitude>-14.2686</Latitude>
+  <Longitude>-46.3626</Longitude>
+  <Elevation>800</Elevation>
+  <Author>Marcelo Villegas</Author>
+  <AuthorID>YWTZVKKHKP</AuthorID>
+  <Content>song</Content>
+  <Comments>The bird was very far away.bird-seen:noplayback-used:no</Comments>
+  <Quality>4</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies>Crypturellus undulatus</BackgroundSpecies>
+  <Order>Cuculiformes</Order>
+  <Family>Cuculidae</Family>
+  <Genus>Dromococcyx</Genus>
+  <Species>pavoninus</Species>
+  <Sub-species />
+  <VernacularNames>Pavonine Cuckoo</VernacularNames>
+</Audio>

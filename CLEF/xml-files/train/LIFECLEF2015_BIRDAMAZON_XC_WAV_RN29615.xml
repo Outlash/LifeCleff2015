@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>29615</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN29615.wav</FileName>
+  <ClassId>fvhrfq</ClassId>
+  <Date>2010-06-16</Date>
+  <Time>17:24</Time>
+  <Locality>Cupido &amp; Refugio Farm, Linhares, state of Espírito Santo, SE Brazil.</Locality>
+  <Latitude>NULL</Latitude>
+  <Longitude>NULL</Longitude>
+  <Elevation>80</Elevation>
+  <Author>Ciro Albano</Author>
+  <AuthorID>MXVQPUKGWW</AuthorID>
+  <Content>Call</Content>
+  <Comments />
+  <Quality>1</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Tinamiformes</Order>
+  <Family>Tinamidae</Family>
+  <Genus>Tinamus</Genus>
+  <Species>solitarius</Species>
+  <Sub-species />
+  <VernacularNames>Solitary Tinamou</VernacularNames>
+</Audio>

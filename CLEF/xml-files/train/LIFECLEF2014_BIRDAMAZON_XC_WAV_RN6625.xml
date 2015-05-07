@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>6625</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN6625.wav</FileName>
+  <ClassId>ukfemk</ClassId>
+  <Date>1997-12-19</Date>
+  <Time>16:02</Time>
+  <Locality>Boraceia Biological Station, SP state</Locality>
+  <Latitude>-23.6334</Latitude>
+  <Longitude>-45.8667</Longitude>
+  <Elevation>825</Elevation>
+  <Author>Jeremy Minns</Author>
+  <AuthorID>DGVLLRYDXS</AuthorID>
+  <Content>Song</Content>
+  <Comments>In a cecropia beside a river in montane forest.</Comments>
+  <Quality>1</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies>Vireo olivaceus</BackgroundSpecies>
+  <Order>Passeriformes</Order>
+  <Family>Tyrannidae</Family>
+  <Genus>Tyrannus</Genus>
+  <Species>melancholicus</Species>
+  <Sub-species>melancholicus</Sub-species>
+  <VernacularNames>Tropical Kingbird</VernacularNames>
+</Audio>

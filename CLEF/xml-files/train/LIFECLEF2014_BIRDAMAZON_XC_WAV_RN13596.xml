@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>13596</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN13596.wav</FileName>
+  <ClassId>iangvt</ClassId>
+  <Date>2003-10-25</Date>
+  <Time>15:45</Time>
+  <Locality>Parque Estadual da Pedra da Boca, Araruna, Paraíba</Locality>
+  <Latitude>NULL</Latitude>
+  <Longitude>NULL</Longitude>
+  <Elevation>150</Elevation>
+  <Author>Mauricio Cabral Periquito</Author>
+  <AuthorID>HERKCTHDZI</AuthorID>
+  <Content>call</Content>
+  <Comments />
+  <Quality>0</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Polioptilidae</Family>
+  <Genus>Polioptila</Genus>
+  <Species>plumbea</Species>
+  <Sub-species />
+  <VernacularNames>Tropical Gnatcatcher</VernacularNames>
+</Audio>

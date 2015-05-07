@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>2060</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN2060.wav</FileName>
+  <ClassId>umxbnz</ClassId>
+  <Date>2008-02-11</Date>
+  <Time>6:30</Time>
+  <Locality>Corrego Cristal, Cristalina, Goias</Locality>
+  <Latitude>NULL</Latitude>
+  <Longitude>NULL</Longitude>
+  <Elevation>1020</Elevation>
+  <Author>Nunes D'Acosta</Author>
+  <AuthorID>OHHTDSDNBT</AuthorID>
+  <Content>song</Content>
+  <Comments>Fragments of  cerrado between culture of soybean-Femea cantando</Comments>
+  <Quality>1</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies />
+  <Order>Tinamiformes</Order>
+  <Family>Tinamidae</Family>
+  <Genus>Taoniscus</Genus>
+  <Species>nanus</Species>
+  <Sub-species />
+  <VernacularNames>Dwarf Tinamou</VernacularNames>
+</Audio>

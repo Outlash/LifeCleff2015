@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>7798</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN7798.wav</FileName>
+  <ClassId>zwdpnv</ClassId>
+  <Date>2005-11-08</Date>
+  <Time>06:08</Time>
+  <Locality>Caxiuanã Scientific Station</Locality>
+  <Latitude>-1.7375</Latitude>
+  <Longitude>-51.4556</Longitude>
+  <Elevation>12</Elevation>
+  <Author>Jeremy Minns</Author>
+  <AuthorID>DGVLLRYDXS</AuthorID>
+  <Content>Song</Content>
+  <Comments>Terra firme forest.</Comments>
+  <Quality>3</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Thamnophilidae</Family>
+  <Genus>Myrmotherula</Genus>
+  <Species>menetriesii</Species>
+  <Sub-species>omissa</Sub-species>
+  <VernacularNames>Grey Antwren</VernacularNames>
+</Audio>

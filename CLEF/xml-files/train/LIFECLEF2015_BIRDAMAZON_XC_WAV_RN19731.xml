@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>19731</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN19731.wav</FileName>
+  <ClassId>mppolc</ClassId>
+  <Date>2007-02-15</Date>
+  <Time>10:45</Time>
+  <Locality>RNA El Colibrí del Sol, Páramo de Frontino, Antioquia</Locality>
+  <Latitude>6.4381</Latitude>
+  <Longitude>-76.0884</Longitude>
+  <Elevation>3500</Elevation>
+  <Author>Nick Athanas</Author>
+  <AuthorID>XRABICUARW</AuthorID>
+  <Content>song</Content>
+  <Comments>Response to playback.</Comments>
+  <Quality>1</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Thraupidae</Family>
+  <Genus>Diglossa</Genus>
+  <Species>gloriosissima</Species>
+  <Sub-species>boylei</Sub-species>
+  <VernacularNames>Chestnut-bellied Flowerpiercer</VernacularNames>
+</Audio>

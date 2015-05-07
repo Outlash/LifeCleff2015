@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>11664</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN11664.wav</FileName>
+  <ClassId>inyngh</ClassId>
+  <Date>2005-11-04</Date>
+  <Time>09:00</Time>
+  <Locality>Fazenda Ipanema, Iperó,São Paulo State,Brazil</Locality>
+  <Latitude>-23.43</Latitude>
+  <Longitude>-47.646</Longitude>
+  <Elevation>700</Elevation>
+  <Author>Antonio Silveira</Author>
+  <AuthorID>NBJQSQJRYH</AuthorID>
+  <Content>call, male</Content>
+  <Comments>bird-seen:yesplayback-used:no</Comments>
+  <Quality>0</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Thraupidae</Family>
+  <Genus>Tachyphonus</Genus>
+  <Species>coronatus</Species>
+  <Sub-species />
+  <VernacularNames>Ruby-crowned Tanager</VernacularNames>
+</Audio>

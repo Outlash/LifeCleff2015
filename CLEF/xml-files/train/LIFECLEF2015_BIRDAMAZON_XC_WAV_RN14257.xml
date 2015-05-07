@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>14257</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN14257.wav</FileName>
+  <ClassId>uydzcv</ClassId>
+  <Date>1985-09-12</Date>
+  <Time>?</Time>
+  <Locality>San Carlos del Rio Negro, Amazonas</Locality>
+  <Latitude>1.9201</Latitude>
+  <Longitude>-67.0606</Longitude>
+  <Elevation>119</Elevation>
+  <Author>Chris Parrish</Author>
+  <AuthorID>IHIOGGZVQA</AuthorID>
+  <Content>song</Content>
+  <Comments />
+  <Quality>1</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Tyrannidae</Family>
+  <Genus>Tolmomyias</Genus>
+  <Species>assimilis</Species>
+  <Sub-species>neglectus</Sub-species>
+  <VernacularNames>Zimmer's Flatbill</VernacularNames>
+</Audio>

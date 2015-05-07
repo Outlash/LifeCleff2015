@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>1942</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN1942.wav</FileName>
+  <ClassId>vifxpb</ClassId>
+  <Date>2010-08-25</Date>
+  <Time>07:36</Time>
+  <Locality>Pedra de Baú, Campos do Jordao, SP</Locality>
+  <Latitude>-22.6834</Latitude>
+  <Longitude>-45.6501</Longitude>
+  <Elevation>1700</Elevation>
+  <Author>Herman van Oosten</Author>
+  <AuthorID>SNUDCZVUQK</AuthorID>
+  <Content>song?</Content>
+  <Comments>Bird not seen, id by Hermann Redies &amp; Nacho Areta</Comments>
+  <Quality>1</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies />
+  <Order>Falconiformes</Order>
+  <Family>Falconidae</Family>
+  <Genus>Micrastur</Genus>
+  <Species>ruficollis</Species>
+  <Sub-species />
+  <VernacularNames>Barred Forest Falcon</VernacularNames>
+</Audio>

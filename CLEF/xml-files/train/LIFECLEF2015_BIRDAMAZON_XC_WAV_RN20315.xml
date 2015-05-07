@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>20315</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN20315.wav</FileName>
+  <ClassId>jhwuqr</ClassId>
+  <Date>2009-08-20</Date>
+  <Time>08:42</Time>
+  <Locality>Municipio de Pandi, Carretera Pandi-Icononzo (Cundinamarca)</Locality>
+  <Latitude>4.19</Latitude>
+  <Longitude>-74.494</Longitude>
+  <Elevation>1200</Elevation>
+  <Author>Oswaldo Cortes, Giovanni Chaves and Fabian Tavera</Author>
+  <AuthorID>VVDRVZCVWW</AuthorID>
+  <Content>song</Content>
+  <Comments />
+  <Quality>4</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Thraupidae</Family>
+  <Genus>Sporophila</Genus>
+  <Species>nigricollis</Species>
+  <Sub-species />
+  <VernacularNames>Yellow-bellied Seedeater</VernacularNames>
+</Audio>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>12924</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN12924.wav</FileName>
+  <ClassId>pprfie</ClassId>
+  <Date>2006-03-07</Date>
+  <Time>09:05</Time>
+  <Locality>Cachoeira, Itatiaia NP, Rio de Janeiro state</Locality>
+  <Latitude>-22.434</Latitude>
+  <Longitude>-44.621</Longitude>
+  <Elevation>1050</Elevation>
+  <Author>Daniel Lane</Author>
+  <AuthorID>WOEAFQRMUD</AuthorID>
+  <Content>song</Content>
+  <Comments>Response to playback from same individual as previous cut. About 14m up in gap with bamboo understory.</Comments>
+  <Quality>3</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies>Drymophila ferruginea</BackgroundSpecies>
+  <Order>Passeriformes</Order>
+  <Family>Vireonidae</Family>
+  <Genus>Cyclarhis</Genus>
+  <Species>gujanensis</Species>
+  <Sub-species />
+  <VernacularNames>Rufous-browed Peppershrike</VernacularNames>
+</Audio>

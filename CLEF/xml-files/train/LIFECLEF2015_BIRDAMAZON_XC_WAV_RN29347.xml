@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>29347</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN29347.wav</FileName>
+  <ClassId>rxgdwi</ClassId>
+  <Date>2011-01-28</Date>
+  <Time>14:59</Time>
+  <Locality>RNA Arrierito Antioqueño, Anorí, Antioquia</Locality>
+  <Latitude>6.9862</Latitude>
+  <Longitude>-75.1251</Longitude>
+  <Elevation>1650</Elevation>
+  <Author>Eric DeFonso</Author>
+  <AuthorID>KTLCZCRCQX</AuthorID>
+  <Content>call</Content>
+  <Comments>purring calls, from same individual in XC103487, given just seconds after song sequence</Comments>
+  <Quality>1</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Columbiformes</Order>
+  <Family>Columbidae</Family>
+  <Genus>Patagioenas</Genus>
+  <Species>subvinacea</Species>
+  <Sub-species>anolaimae</Sub-species>
+  <VernacularNames>Ruddy Pigeon</VernacularNames>
+</Audio>

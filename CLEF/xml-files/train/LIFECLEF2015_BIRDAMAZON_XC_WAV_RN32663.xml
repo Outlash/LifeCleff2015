@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>32663</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN32663.wav</FileName>
+  <ClassId>ywpbix</ClassId>
+  <Date>1994-07-12</Date>
+  <Time>?</Time>
+  <Locality>San Miguel de Betania, north of Las Claritas, Bolivar</Locality>
+  <Latitude>6.2834</Latitude>
+  <Longitude>-61.3001</Longitude>
+  <Elevation>170</Elevation>
+  <Author>Allen T. Chartier</Author>
+  <AuthorID>AZXTZTQJRO</AuthorID>
+  <Content>Song</Content>
+  <Comments>Very clear and close.</Comments>
+  <Quality>2</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Troglodytidae</Family>
+  <Genus>Cyphorhinus</Genus>
+  <Species>arada</Species>
+  <Sub-species>urbanoi</Sub-species>
+  <VernacularNames>Musician Wren</VernacularNames>
+</Audio>

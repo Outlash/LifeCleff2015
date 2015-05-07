@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>3420</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN3420.wav</FileName>
+  <ClassId>hdtboj</ClassId>
+  <Date>2006-06-11</Date>
+  <Time>16:30</Time>
+  <Locality>Itatiaia NP, RJ</Locality>
+  <Latitude>-22.38</Latitude>
+  <Longitude>-44.63</Longitude>
+  <Elevation>800</Elevation>
+  <Author>Ricardo Gagliardi</Author>
+  <AuthorID>YRDADNREOP</AuthorID>
+  <Content>call</Content>
+  <Comments />
+  <Quality>0</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Tyrannidae</Family>
+  <Genus>Hirundinea</Genus>
+  <Species>ferruginea</Species>
+  <Sub-species />
+  <VernacularNames>Cliff Flycatcher</VernacularNames>
+</Audio>

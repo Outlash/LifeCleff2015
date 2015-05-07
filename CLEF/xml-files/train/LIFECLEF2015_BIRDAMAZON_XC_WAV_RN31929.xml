@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>31929</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN31929.wav</FileName>
+  <ClassId>qgszhv</ClassId>
+  <Date>2013-09-28</Date>
+  <Time>09:13</Time>
+  <Locality>Taquaruçu, Palmas, Tocantins</Locality>
+  <Latitude>-10.3046</Latitude>
+  <Longitude>-48.1371</Longitude>
+  <Elevation>480</Elevation>
+  <Author>Marcelo O. Barbosa</Author>
+  <AuthorID>PRUNXYYZTR</AuthorID>
+  <Content>male, song</Content>
+  <Comments>Recorded in a slope forest near stream.bird-seen:yesplayback-used:yes</Comments>
+  <Quality>2</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies>Neopelma pallescens,Herpsilochmus atricapillus</BackgroundSpecies>
+  <Order>Passeriformes</Order>
+  <Family>Pipridae</Family>
+  <Genus>Machaeropterus</Genus>
+  <Species>pyrocephalus</Species>
+  <Sub-species>pyrocephalus</Sub-species>
+  <VernacularNames>Fiery-capped Manakin</VernacularNames>
+</Audio>

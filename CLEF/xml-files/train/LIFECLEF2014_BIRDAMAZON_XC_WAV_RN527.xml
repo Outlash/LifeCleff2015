@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>527</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN527.wav</FileName>
+  <ClassId>lssubf</ClassId>
+  <Date>2005-10-06</Date>
+  <Time>7:30</Time>
+  <Locality>Boa Nova, Wet Forest, state of Bahia</Locality>
+  <Latitude>-14.3834</Latitude>
+  <Longitude>-40.1001</Longitude>
+  <Elevation>850</Elevation>
+  <Author>Richard C. Hoyer</Author>
+  <AuthorID>SRRRBQPENI</AuthorID>
+  <Content>song</Content>
+  <Comments>in response to playback</Comments>
+  <Quality>0</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies>Dysithamnus stictothorax,Herpsilochmus rufimarginatus,Basileuterus culicivorus,Myrmeciza loricata</BackgroundSpecies>
+  <Order>Passeriformes</Order>
+  <Family>Thamnophilidae</Family>
+  <Genus>Drymophila</Genus>
+  <Species>ferruginea</Species>
+  <Sub-species />
+  <VernacularNames>Ferruginous Antbird</VernacularNames>
+</Audio>

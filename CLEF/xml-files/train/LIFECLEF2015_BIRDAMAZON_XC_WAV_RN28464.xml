@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>28464</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN28464.wav</FileName>
+  <ClassId>fgfalp</ClassId>
+  <Date>2012-03-17</Date>
+  <Time>10:00</Time>
+  <Locality>Laguna de Pedro Palo, Cundinamarca</Locality>
+  <Latitude>4.6834</Latitude>
+  <Longitude>-74.3834</Longitude>
+  <Elevation>2000</Elevation>
+  <Author>Diego Calderon-F.</Author>
+  <AuthorID>OGATBVKNAG</AuthorID>
+  <Content>Call</Content>
+  <Comments>Male responding to playback in the canopy</Comments>
+  <Quality>0</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Thraupidae</Family>
+  <Genus>Dacnis</Genus>
+  <Species>hartlaubi</Species>
+  <Sub-species />
+  <VernacularNames>Turquoise Dacnis</VernacularNames>
+</Audio>

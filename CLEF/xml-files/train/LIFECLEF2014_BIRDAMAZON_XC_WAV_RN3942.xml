@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>3942</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN3942.wav</FileName>
+  <ClassId>hkgozq</ClassId>
+  <Date>2008-09-12</Date>
+  <Time>7:20</Time>
+  <Locality>Gleba maior Reserva Biológica Estadual do Sassafrás, Doutor Pedrinho, Santa Catarina</Locality>
+  <Latitude>-26.7117</Latitude>
+  <Longitude>-49.6756</Longitude>
+  <Elevation>920</Elevation>
+  <Author>Adrian Eisen Rupp</Author>
+  <AuthorID>AOPMSCIDIA</AuthorID>
+  <Content>call</Content>
+  <Comments />
+  <Quality>2</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies>Pyrrhura frontalis</BackgroundSpecies>
+  <Order>Apodiformes</Order>
+  <Family>Trochilidae</Family>
+  <Genus>Phaethornis</Genus>
+  <Species>eurynome</Species>
+  <Sub-species />
+  <VernacularNames>Scale-throated Hermit</VernacularNames>
+</Audio>

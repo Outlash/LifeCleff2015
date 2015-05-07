@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>16932</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN16932.wav</FileName>
+  <ClassId>wvihlf</ClassId>
+  <Date>2011-01-28</Date>
+  <Time>14:40</Time>
+  <Locality>RNA Arrierito Antioqueño, Anorí, Antioquia</Locality>
+  <Latitude>6.9862</Latitude>
+  <Longitude>-75.1251</Longitude>
+  <Elevation>1650</Elevation>
+  <Author>Eric DeFonso</Author>
+  <AuthorID>KTLCZCRCQX</AuthorID>
+  <Content>song</Content>
+  <Comments>song from a very distant bird</Comments>
+  <Quality>4</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Rhinocryptidae</Family>
+  <Genus>Scytalopus</Genus>
+  <Species>stilesi</Species>
+  <Sub-species />
+  <VernacularNames>Stiles's Tapaculo</VernacularNames>
+</Audio>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>23593</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN23593.wav</FileName>
+  <ClassId>ibivsq</ClassId>
+  <Date>2000-11-02</Date>
+  <Time>am</Time>
+  <Locality>San Lorenzo arriba (PNN Sierra Nevada de Santa Marta), Vereda San Lorenzo, Mpio San Lorenzo, Magdalena</Locality>
+  <Latitude>NULL</Latitude>
+  <Longitude>NULL</Longitude>
+  <Elevation>?</Elevation>
+  <Author>Bernabe Lopez-Lanus</Author>
+  <AuthorID>BYLLSJRVDZ</AuthorID>
+  <Content>Call</Content>
+  <Comments>Two birds calling</Comments>
+  <Quality>2</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Emberizidae</Family>
+  <Genus>Atlapetes</Genus>
+  <Species>melanocephalus</Species>
+  <Sub-species />
+  <VernacularNames>Santa Marta Brush Finch</VernacularNames>
+</Audio>

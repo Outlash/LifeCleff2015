@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>27769</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN27769.wav</FileName>
+  <ClassId>uissyt</ClassId>
+  <Date>2007-05-09</Date>
+  <Time>10:45</Time>
+  <Locality>Colombia, Tolima, Anzoategui, Palomar, Parche de Roble</Locality>
+  <Latitude>4.6512</Latitude>
+  <Longitude>-75.2178</Longitude>
+  <Elevation>2800</Elevation>
+  <Author>Yair G Molina - Martínez</Author>
+  <AuthorID>UQUOPFIYYQ</AuthorID>
+  <Content>?</Content>
+  <Comments />
+  <Quality>0</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies>Melanerpes formicivorus</BackgroundSpecies>
+  <Order>Passeriformes</Order>
+  <Family>Tyrannidae</Family>
+  <Genus>Pyrrhomyias</Genus>
+  <Species>cinnamomeus</Species>
+  <Sub-species />
+  <VernacularNames>Cinnamon Flycatcher</VernacularNames>
+</Audio>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>31597</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN31597.wav</FileName>
+  <ClassId>bsewbt</ClassId>
+  <Date>2006-10-30</Date>
+  <Time>07:05</Time>
+  <Locality>Plateau de Lucifer (Lucifer Dékou-Dékou reserve)</Locality>
+  <Latitude>4.777</Latitude>
+  <Longitude>-53.9456</Longitude>
+  <Elevation>560</Elevation>
+  <Author>Olivier Claessens</Author>
+  <AuthorID>KRQYNRSSDF</AuthorID>
+  <Content>call, song</Content>
+  <Comments>double-note call is much more often heard than true song</Comments>
+  <Quality>2</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies>Procnias albus</BackgroundSpecies>
+  <Order>Passeriformes</Order>
+  <Family>Tyrannidae</Family>
+  <Genus>Zimmerius</Genus>
+  <Species>acer</Species>
+  <Sub-species />
+  <VernacularNames>Guianan Tyrannulet</VernacularNames>
+</Audio>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>32138</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN32138.wav</FileName>
+  <ClassId>mveelf</ClassId>
+  <Date>2010-10-09</Date>
+  <Time>07:07</Time>
+  <Locality>Paragominas, PA, Brazil, Bacia 245</Locality>
+  <Latitude>-3.1253</Latitude>
+  <Longitude>-46.8456</Longitude>
+  <Elevation>?</Elevation>
+  <Author>Alexander Lees</Author>
+  <AuthorID>INDDBZAFJL</AuthorID>
+  <Content>flight call</Content>
+  <Comments>selectively-logged primary forest</Comments>
+  <Quality>0</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies>Leucopternis kuhli,Veniliornis affinis,Tityra cayana,Phylloscartes virescens,Zimmerius acer,Tachyphonus cristatus</BackgroundSpecies>
+  <Order>Psittaciformes</Order>
+  <Family>Psittacidae</Family>
+  <Genus>Pionus</Genus>
+  <Species>fuscus</Species>
+  <Sub-species />
+  <VernacularNames>Dusky Parrot</VernacularNames>
+</Audio>

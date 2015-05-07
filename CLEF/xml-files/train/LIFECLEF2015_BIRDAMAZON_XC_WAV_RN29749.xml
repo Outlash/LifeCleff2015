@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>29749</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN29749.wav</FileName>
+  <ClassId>iywuqr</ClassId>
+  <Date>2010-04-19</Date>
+  <Time>8:00 AM</Time>
+  <Locality>San Vicente</Locality>
+  <Latitude>6.8464</Latitude>
+  <Longitude>-73.3751</Longitude>
+  <Elevation>?</Elevation>
+  <Author>Fabrice Schmitt</Author>
+  <AuthorID>FPAGKPAQYO</AuthorID>
+  <Content>song</Content>
+  <Comments>after playback</Comments>
+  <Quality>1</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Vireonidae</Family>
+  <Genus>Vireolanius</Genus>
+  <Species>eximius</Species>
+  <Sub-species>eximius</Sub-species>
+  <VernacularNames>Yellow-browed Shrike-Vireo</VernacularNames>
+</Audio>

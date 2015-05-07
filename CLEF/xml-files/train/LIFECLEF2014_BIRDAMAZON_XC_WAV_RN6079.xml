@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>6079</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN6079.wav</FileName>
+  <ClassId>zpvuom</ClassId>
+  <Date>2004-12-18</Date>
+  <Time>10:00</Time>
+  <Locality>Parque dos Manguezais, Pina, Recife, Pernambuco</Locality>
+  <Latitude>-8.09781</Latitude>
+  <Longitude>-34.899015</Longitude>
+  <Elevation>10</Elevation>
+  <Author>Glauco Alves Pereira</Author>
+  <AuthorID>ZWEROGGYVP</AuthorID>
+  <Content>duet, song</Content>
+  <Comments>Mangrove</Comments>
+  <Quality>3</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies />
+  <Order>Gruiformes</Order>
+  <Family>Rallidae</Family>
+  <Genus>Aramides</Genus>
+  <Species>cajaneus</Species>
+  <Sub-species />
+  <VernacularNames>Grey-necked Wood Rail</VernacularNames>
+</Audio>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>13674</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN13674.wav</FileName>
+  <ClassId>vwbbga</ClassId>
+  <Date>2009-01-10</Date>
+  <Time>06:02</Time>
+  <Locality>Reserva Ecológica Mãe-da-Lua, Itapajé, Ceará</Locality>
+  <Latitude>-3.8114</Latitude>
+  <Longitude>-39.4737</Longitude>
+  <Elevation>100</Elevation>
+  <Author>Hermann Redies</Author>
+  <AuthorID>VKWSROQKWH</AuthorID>
+  <Content>song</Content>
+  <Comments>Syllable at 1.7 seconds could be from Empidonomus varius</Comments>
+  <Quality>1</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Thraupidae</Family>
+  <Genus>Conirostrum</Genus>
+  <Species>speciosum</Species>
+  <Sub-species />
+  <VernacularNames>Chestnut-vented Conebill</VernacularNames>
+</Audio>

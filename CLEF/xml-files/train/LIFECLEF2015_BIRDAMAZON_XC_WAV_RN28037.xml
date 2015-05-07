@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>28037</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN28037.wav</FileName>
+  <ClassId>wxqfzo</ClassId>
+  <Date>2010-10-07</Date>
+  <Time>?</Time>
+  <Locality>Mont Itoupé</Locality>
+  <Latitude>3.01667</Latitude>
+  <Longitude>-53.0667</Longitude>
+  <Elevation>450</Elevation>
+  <Author>Alexandre Renaudier</Author>
+  <AuthorID>GKADEITXTH</AuthorID>
+  <Content>lekking birds</Content>
+  <Comments />
+  <Quality>1</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Pipridae</Family>
+  <Genus>Dixiphia</Genus>
+  <Species>erythrocephala</Species>
+  <Sub-species />
+  <VernacularNames>Golden-headed Manakin</VernacularNames>
+</Audio>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>19297</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN19297.wav</FileName>
+  <ClassId>kndwgb</ClassId>
+  <Date>2010-11-24</Date>
+  <Time>8,3</Time>
+  <Locality>Minca Pozo azul</Locality>
+  <Latitude>NULL</Latitude>
+  <Longitude>NULL</Longitude>
+  <Elevation>450</Elevation>
+  <Author>Walberto Naranjo</Author>
+  <AuthorID>CHKLMNWCZI</AuthorID>
+  <Content>call</Content>
+  <Comments />
+  <Quality>3</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Thraupidae</Family>
+  <Genus>Ramphocelus</Genus>
+  <Species>dimidiatus</Species>
+  <Sub-species />
+  <VernacularNames>Crimson-backed Tanager</VernacularNames>
+</Audio>

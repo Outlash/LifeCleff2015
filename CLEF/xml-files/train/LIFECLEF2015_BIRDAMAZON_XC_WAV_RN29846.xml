@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>29846</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN29846.wav</FileName>
+  <ClassId>wwdydp</ClassId>
+  <Date>2004-07-02</Date>
+  <Time>?</Time>
+  <Locality>Jati, State of Ceará</Locality>
+  <Latitude>-7.692449</Latitude>
+  <Longitude>-39.005241</Longitude>
+  <Elevation>?</Elevation>
+  <Author>Weber Girão</Author>
+  <AuthorID>MXVQPUKGWW</AuthorID>
+  <Content>song</Content>
+  <Comments />
+  <Quality>3</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Columbiformes</Order>
+  <Family>Columbidae</Family>
+  <Genus>Columbina</Genus>
+  <Species>talpacoti</Species>
+  <Sub-species />
+  <VernacularNames>Ruddy Ground Dove</VernacularNames>
+</Audio>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>7088</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN7088.wav</FileName>
+  <ClassId>asvgnp</ClassId>
+  <Date>2004-01-06</Date>
+  <Time>10am</Time>
+  <Locality>Santo Antonio do Pinhal, São Paulo State</Locality>
+  <Latitude>-22.854</Latitude>
+  <Longitude>-45.671</Longitude>
+  <Elevation>1270</Elevation>
+  <Author>Antonio Silveira</Author>
+  <AuthorID>NBJQSQJRYH</AuthorID>
+  <Content>song</Content>
+  <Comments>bird-seen:yesplayback-used:no</Comments>
+  <Quality>0</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies />
+  <Order>Falconiformes</Order>
+  <Family>Falconidae</Family>
+  <Genus>Milvago</Genus>
+  <Species>chimachima</Species>
+  <Sub-species />
+  <VernacularNames>Yellow-headed Caracara</VernacularNames>
+</Audio>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>28753</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN28753.wav</FileName>
+  <ClassId>peiocp</ClassId>
+  <Date>2009-12-06</Date>
+  <Time>15:30</Time>
+  <Locality>RPPN Serra Bonita, Camacan, BA</Locality>
+  <Latitude>-15.3851</Latitude>
+  <Longitude>-39.5709</Longitude>
+  <Elevation>850</Elevation>
+  <Author>José Almir Jacomelli Junior</Author>
+  <AuthorID>GBKFZLQTNG</AuthorID>
+  <Content>Duet, alarm call</Content>
+  <Comments>bird-seen:yesplayback-used:yes</Comments>
+  <Quality>2</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Tyrannidae</Family>
+  <Genus>Conopias</Genus>
+  <Species>trivirgatus</Species>
+  <Sub-species />
+  <VernacularNames>Three-striped Flycatcher</VernacularNames>
+</Audio>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>4770</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN4770.wav</FileName>
+  <ClassId>wenuau</ClassId>
+  <Date>2006-08-09</Date>
+  <Time>7:05</Time>
+  <Locality>PN Virua, Roraima</Locality>
+  <Latitude>1.4898</Latitude>
+  <Longitude>-61.023</Longitude>
+  <Elevation>75</Elevation>
+  <Author>Rolf A. de By</Author>
+  <AuthorID>PTYTXQRLSZ</AuthorID>
+  <Content>song</Content>
+  <Comments />
+  <Quality>1</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies>Cercomacra laeta,Cercomacra tyrannina,Thamnophilus punctatus</BackgroundSpecies>
+  <Order>Passeriformes</Order>
+  <Family>Thamnophilidae</Family>
+  <Genus>Myrmoborus</Genus>
+  <Species>leucophrys</Species>
+  <Sub-species>angustirostris</Sub-species>
+  <VernacularNames>White-browed Antbird</VernacularNames>
+</Audio>

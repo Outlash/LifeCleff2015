@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>748</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN748.wav</FileName>
+  <ClassId>vjukoo</ClassId>
+  <Date>2004-04-06</Date>
+  <Time>07:21</Time>
+  <Locality>Parque Estadual Intervales. Barra Grande</Locality>
+  <Latitude>-24.2667</Latitude>
+  <Longitude>-48.3834</Longitude>
+  <Elevation>800</Elevation>
+  <Author>Jeremy Minns</Author>
+  <AuthorID>DGVLLRYDXS</AuthorID>
+  <Content>Call</Content>
+  <Comments>Montane forest edge. Foraging very low down. This is Call b in our DVD-ROM 'Birds of Brazil'.</Comments>
+  <Quality>2</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies>Carpornis cucullata</BackgroundSpecies>
+  <Order>Passeriformes</Order>
+  <Family>Tyrannidae</Family>
+  <Genus>Attila</Genus>
+  <Species>rufus</Species>
+  <Sub-species>rufus</Sub-species>
+  <VernacularNames>Grey-hooded Attila</VernacularNames>
+</Audio>

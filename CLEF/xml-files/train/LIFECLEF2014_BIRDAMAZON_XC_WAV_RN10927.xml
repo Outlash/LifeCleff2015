@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>10927</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN10927.wav</FileName>
+  <ClassId>nrzcow</ClassId>
+  <Date>2007-01-07</Date>
+  <Time>09:00</Time>
+  <Locality>Carmo - RJ</Locality>
+  <Latitude>-21.9384</Latitude>
+  <Longitude>-42.6195</Longitude>
+  <Elevation>400</Elevation>
+  <Author>Ricardo Gagliardi</Author>
+  <AuthorID>YRDADNREOP</AuthorID>
+  <Content>call</Content>
+  <Comments />
+  <Quality>2</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies>Coryphospingus pileatus</BackgroundSpecies>
+  <Order>Piciformes</Order>
+  <Family>Picidae</Family>
+  <Genus>Colaptes</Genus>
+  <Species>campestris</Species>
+  <Sub-species />
+  <VernacularNames>Campo Flicker</VernacularNames>
+</Audio>

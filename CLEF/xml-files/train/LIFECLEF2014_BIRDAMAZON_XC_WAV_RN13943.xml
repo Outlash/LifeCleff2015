@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>13943</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN13943.wav</FileName>
+  <ClassId>rseeil</ClassId>
+  <Date>2006-07-05</Date>
+  <Time>11:30</Time>
+  <Locality>Campos do Jordao State Park, Sao Paulo state</Locality>
+  <Latitude>-22.6681</Latitude>
+  <Longitude>-45.5031</Longitude>
+  <Elevation>1630</Elevation>
+  <Author>Joao Menezes</Author>
+  <AuthorID>BEYMZHZHIB</AuthorID>
+  <Content>call</Content>
+  <Comments />
+  <Quality>4</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies>Penelope obscura</BackgroundSpecies>
+  <Order>Passeriformes</Order>
+  <Family>Icteridae</Family>
+  <Genus>Cacicus</Genus>
+  <Species>chrysopterus</Species>
+  <Sub-species />
+  <VernacularNames>Golden-winged Cacique</VernacularNames>
+</Audio>

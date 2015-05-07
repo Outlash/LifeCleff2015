@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>21055</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN21055.wav</FileName>
+  <ClassId>wvihlf</ClassId>
+  <Date>2009-02-11</Date>
+  <Time>8:00</Time>
+  <Locality>RNA Arrierito Antioqueño, Anorí, Antioquia</Locality>
+  <Latitude>6.9862</Latitude>
+  <Longitude>-75.1251</Longitude>
+  <Elevation>1800</Elevation>
+  <Author>Fabrice Schmitt</Author>
+  <AuthorID>FPAGKPAQYO</AuthorID>
+  <Content>song</Content>
+  <Comments />
+  <Quality>2</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies>Patagioenas subvinacea</BackgroundSpecies>
+  <Order>Passeriformes</Order>
+  <Family>Rhinocryptidae</Family>
+  <Genus>Scytalopus</Genus>
+  <Species>stilesi</Species>
+  <Sub-species />
+  <VernacularNames>Stiles's Tapaculo</VernacularNames>
+</Audio>

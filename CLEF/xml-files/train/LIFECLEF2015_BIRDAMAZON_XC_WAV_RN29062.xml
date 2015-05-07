@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>29062</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN29062.wav</FileName>
+  <ClassId>xkvxmc</ClassId>
+  <Date>2010-10-28</Date>
+  <Time>?</Time>
+  <Locality>Tonate-Macouria, Pripris Maillard</Locality>
+  <Latitude>5.09</Latitude>
+  <Longitude>-52.4628</Longitude>
+  <Elevation>?</Elevation>
+  <Author>Alexandre Renaudier</Author>
+  <AuthorID>GKADEITXTH</AuthorID>
+  <Content>call</Content>
+  <Comments />
+  <Quality>1</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies>Amazilia fimbriata,Chaetura spinicaudus,Tyrannulus elatus</BackgroundSpecies>
+  <Order>Passeriformes</Order>
+  <Family>Turdidae</Family>
+  <Genus>Turdus</Genus>
+  <Species>nudigenis</Species>
+  <Sub-species />
+  <VernacularNames>Spectacled Thrush</VernacularNames>
+</Audio>

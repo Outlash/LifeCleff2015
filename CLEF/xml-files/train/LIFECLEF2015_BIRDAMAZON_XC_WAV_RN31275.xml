@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>31275</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN31275.wav</FileName>
+  <ClassId>xychdo</ClassId>
+  <Date>2011-07-22</Date>
+  <Time>10:28</Time>
+  <Locality>Sitio Tomio, Salete, Santa Catarina State</Locality>
+  <Latitude>-26.995</Latitude>
+  <Longitude>-50.014</Longitude>
+  <Elevation>460</Elevation>
+  <Author>Douglas Meyer</Author>
+  <AuthorID>MNENFHYTAE</AuthorID>
+  <Content>song</Content>
+  <Comments>bird-seen:yesplayback-used:no</Comments>
+  <Quality>3</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Troglodytidae</Family>
+  <Genus>Troglodytes</Genus>
+  <Species>aedon</Species>
+  <Sub-species />
+  <VernacularNames>House Wren</VernacularNames>
+</Audio>

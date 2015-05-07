@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>30155</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN30155.wav</FileName>
+  <ClassId>swkumm</ClassId>
+  <Date>2013-02-08</Date>
+  <Time>10:00</Time>
+  <Locality>Laguna Tabacal</Locality>
+  <Latitude>5.0209</Latitude>
+  <Longitude>-74.302</Longitude>
+  <Elevation>1380</Elevation>
+  <Author>Diego Calderon-F.</Author>
+  <AuthorID>OGATBVKNAG</AuthorID>
+  <Content>song</Content>
+  <Comments>Female callsbird-seen:yesplayback-used:yes</Comments>
+  <Quality>0</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies>Saltator striatipectus</BackgroundSpecies>
+  <Order>Passeriformes</Order>
+  <Family>Thraupidae</Family>
+  <Genus>Rhodinocichla</Genus>
+  <Species>rosea</Species>
+  <Sub-species>harterti</Sub-species>
+  <VernacularNames>Rosy Thrush-Tanager</VernacularNames>
+</Audio>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>5231</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN5231.wav</FileName>
+  <ClassId>fupfmw</ClassId>
+  <Date>2011-01-24</Date>
+  <Time>?</Time>
+  <Locality>Tapajos National Forest, Bacia 363, Santarém, PA</Locality>
+  <Latitude>-3.2939</Latitude>
+  <Longitude>-54.9978</Longitude>
+  <Elevation>?</Elevation>
+  <Author>Nargila Moura</Author>
+  <AuthorID>CWEIBYBYYD</AuthorID>
+  <Content>song</Content>
+  <Comments>primary forest</Comments>
+  <Quality>0</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies>Lipaugus vociferans</BackgroundSpecies>
+  <Order>Passeriformes</Order>
+  <Family>Thamnophilidae</Family>
+  <Genus>Hylophylax</Genus>
+  <Species>punctulatus</Species>
+  <Sub-species />
+  <VernacularNames>Dot-backed Antbird</VernacularNames>
+</Audio>

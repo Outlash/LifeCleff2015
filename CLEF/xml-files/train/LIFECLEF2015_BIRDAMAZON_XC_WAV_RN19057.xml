@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>19057</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN19057.wav</FileName>
+  <ClassId>ohgmhe</ClassId>
+  <Date>2011-05-28</Date>
+  <Time>?</Time>
+  <Locality>Régina, Inselberg Virginie</Locality>
+  <Latitude>NULL</Latitude>
+  <Longitude>NULL</Longitude>
+  <Elevation>100</Elevation>
+  <Author>Alexandre Renaudier</Author>
+  <AuthorID>GKADEITXTH</AuthorID>
+  <Content>?</Content>
+  <Comments />
+  <Quality>3</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Furnariidae</Family>
+  <Genus>Philydor</Genus>
+  <Species>erythrocercum</Species>
+  <Sub-species />
+  <VernacularNames>Rufous-rumped Foliage-gleaner</VernacularNames>
+</Audio>

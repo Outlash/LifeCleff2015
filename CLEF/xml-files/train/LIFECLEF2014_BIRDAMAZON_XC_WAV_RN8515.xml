@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>8515</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN8515.wav</FileName>
+  <ClassId>gumwit</ClassId>
+  <Date>2003-03-31</Date>
+  <Time>09:23</Time>
+  <Locality>Humaitá, AM. Sítio Boa Fé</Locality>
+  <Latitude>-7.7167</Latitude>
+  <Longitude>-63.0834</Longitude>
+  <Elevation>80</Elevation>
+  <Author>Jeremy Minns</Author>
+  <AuthorID>DGVLLRYDXS</AuthorID>
+  <Content>Song</Content>
+  <Comments>Terra firme forest with many palms.</Comments>
+  <Quality>2</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Furnariidae</Family>
+  <Genus>Deconychura</Genus>
+  <Species>longicauda</Species>
+  <Sub-species>pallida</Sub-species>
+  <VernacularNames>Long-tailed Woodcreeper</VernacularNames>
+</Audio>

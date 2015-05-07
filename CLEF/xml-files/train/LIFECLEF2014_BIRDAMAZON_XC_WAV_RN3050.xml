@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>3050</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN3050.wav</FileName>
+  <ClassId>lksjxc</ClassId>
+  <Date>2011-02-17</Date>
+  <Time>12:50</Time>
+  <Locality>Poço Preto trail, Iguaçu NP, Parana state</Locality>
+  <Latitude>-25.6084</Latitude>
+  <Longitude>-54.4326</Longitude>
+  <Elevation>200</Elevation>
+  <Author>Daniel Lane</Author>
+  <AuthorID>WOEAFQRMUD</AuthorID>
+  <Content>song duet, call</Content>
+  <Comments>Response to playback from a second pair in forest edge by flooded area. Photo: link:http://www.flickr.com/photos/8013969@N03/5486656790/</Comments>
+  <Quality>1</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies>Herpsilochmus rufimarginatus,Cnemotriccus fuscatus,Piprites chloris</BackgroundSpecies>
+  <Order>Passeriformes</Order>
+  <Family>Tyrannidae</Family>
+  <Genus>Myiopagis</Genus>
+  <Species>caniceps</Species>
+  <Sub-species>caniceps</Sub-species>
+  <VernacularNames>Grey Elaenia</VernacularNames>
+</Audio>

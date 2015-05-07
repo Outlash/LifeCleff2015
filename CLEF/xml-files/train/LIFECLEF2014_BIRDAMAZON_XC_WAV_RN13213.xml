@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>13213</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN13213.wav</FileName>
+  <ClassId>zwxknm</ClassId>
+  <Date>2009-02-06</Date>
+  <Time>?</Time>
+  <Locality>RPPN Rio das Lontras, Águas Mornas, Santa Catarina</Locality>
+  <Latitude>-27.6253</Latitude>
+  <Longitude>-48.8842</Longitude>
+  <Elevation>500</Elevation>
+  <Author>Adrian Eisen Rupp</Author>
+  <AuthorID>AOPMSCIDIA</AuthorID>
+  <Content>call</Content>
+  <Comments />
+  <Quality>2</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies>Habia rubica</BackgroundSpecies>
+  <Order>Passeriformes</Order>
+  <Family>Tyrannidae</Family>
+  <Genus>Phyllomyias</Genus>
+  <Species>burmeisteri</Species>
+  <Sub-species />
+  <VernacularNames>Rough-legged Tyrannulet</VernacularNames>
+</Audio>

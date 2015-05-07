@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>28168</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN28168.wav</FileName>
+  <ClassId>ummihq</ClassId>
+  <Date>2008-01-23</Date>
+  <Time>09:00</Time>
+  <Locality>San Isidro quarry, Barinas</Locality>
+  <Latitude>8.8323</Latitude>
+  <Longitude>-70.5801</Longitude>
+  <Elevation>1500</Elevation>
+  <Author>Daniel Lane</Author>
+  <AuthorID>WOEAFQRMUD</AuthorID>
+  <Content>calls, duet</Content>
+  <Comments>Natural calls, duet from beside shade coffee plantation.</Comments>
+  <Quality>2</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies>Henicorhina leucophrys</BackgroundSpecies>
+  <Order>Passeriformes</Order>
+  <Family>Tyrannidae</Family>
+  <Genus>Myiozetetes</Genus>
+  <Species>cayanensis</Species>
+  <Sub-species>rufipennis</Sub-species>
+  <VernacularNames>Rusty-margined Flycatcher</VernacularNames>
+</Audio>

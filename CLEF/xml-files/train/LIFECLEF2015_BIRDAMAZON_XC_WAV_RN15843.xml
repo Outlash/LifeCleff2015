@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>15843</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN15843.wav</FileName>
+  <ClassId>cpigyt</ClassId>
+  <Date>1998-06-18</Date>
+  <Time>am</Time>
+  <Locality>Hacienda Las Cruces, area La Ceja-Toche, Mpio Ibague, Tolima</Locality>
+  <Latitude>NULL</Latitude>
+  <Longitude>NULL</Longitude>
+  <Elevation>2800</Elevation>
+  <Author>Bernabe Lopez-Lanus</Author>
+  <AuthorID>BYLLSJRVDZ</AuthorID>
+  <Content>Rattle call and 'song'</Content>
+  <Comments>Coordinates: 4º31’44”N 75º26’51”W</Comments>
+  <Quality>0</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Piciformes</Order>
+  <Family>Ramphastidae</Family>
+  <Genus>Andigena</Genus>
+  <Species>nigrirostris</Species>
+  <Sub-species>spilorhynchus</Sub-species>
+  <VernacularNames>Black-billed Mountain Toucan</VernacularNames>
+</Audio>

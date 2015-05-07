@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>15241</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN15241.wav</FileName>
+  <ClassId>zszaux</ClassId>
+  <Date>2006-08-18</Date>
+  <Time>8:37</Time>
+  <Locality>Clarita Botero, Ibagué, Tolima</Locality>
+  <Latitude>4.4689</Latitude>
+  <Longitude>-75.2281</Longitude>
+  <Elevation>1700</Elevation>
+  <Author>Charles Hesse</Author>
+  <AuthorID>FMQSRXIRTH</AuthorID>
+  <Content>?</Content>
+  <Comments>link:http://www.geocities.com/fringe_backed_fire_eye/index.html</Comments>
+  <Quality>2</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Cardinalidae</Family>
+  <Genus>Habia</Genus>
+  <Species>cristata</Species>
+  <Sub-species />
+  <VernacularNames>Crested Ant Tanager</VernacularNames>
+</Audio>

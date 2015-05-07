@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>855</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN855.wav</FileName>
+  <ClassId>pswzyj</ClassId>
+  <Date>2013-10-29</Date>
+  <Time>08:30</Time>
+  <Locality>Vale do Quilombo, Gramado, Rio Grande do Sul state</Locality>
+  <Latitude>-29.3762</Latitude>
+  <Longitude>-50.8526</Longitude>
+  <Elevation>600</Elevation>
+  <Author>Antonio Silveira</Author>
+  <AuthorID>NBJQSQJRYH</AuthorID>
+  <Content>male, song</Content>
+  <Comments>Bird singing in the forest. bird-seen:yesplayback-used:no</Comments>
+  <Quality>3</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Vireonidae</Family>
+  <Genus>Vireo</Genus>
+  <Species>olivaceus</Species>
+  <Sub-species />
+  <VernacularNames>Red-eyed Vireo</VernacularNames>
+</Audio>

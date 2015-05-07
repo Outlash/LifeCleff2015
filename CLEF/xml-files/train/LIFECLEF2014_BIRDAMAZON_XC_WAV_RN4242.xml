@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>4242</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN4242.wav</FileName>
+  <ClassId>dkgzcm</ClassId>
+  <Date>2004-04-30</Date>
+  <Time>?:?</Time>
+  <Locality>Cristalino Jungle Lodge, MT</Locality>
+  <Latitude>-9.5981</Latitude>
+  <Longitude>-55.932</Longitude>
+  <Elevation>240</Elevation>
+  <Author>Frank Lambert</Author>
+  <AuthorID>YTUXOCTUEM</AuthorID>
+  <Content>song</Content>
+  <Comments>Previously published on AVoCet as &lt;a href=http://avocet.zoology.msu.edu/recordings/10068&gt;AV10068&lt;/a&gt;.  Certainty: 100%.  ID determined by: not specifically indicated, recordist normally sees birds recorded and indicates if any question, matches XC cuts. GPS: Google Earth.</Comments>
+  <Quality>2</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies>Lipaugus vociferans,Lipaugus vociferans</BackgroundSpecies>
+  <Order>Passeriformes</Order>
+  <Family>Tyrannidae</Family>
+  <Genus>Ornithion</Genus>
+  <Species>inerme</Species>
+  <Sub-species />
+  <VernacularNames>White-lored Tyrannulet</VernacularNames>
+</Audio>

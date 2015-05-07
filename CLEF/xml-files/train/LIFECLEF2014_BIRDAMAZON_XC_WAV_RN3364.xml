@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>3364</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN3364.wav</FileName>
+  <ClassId>kzuumm</ClassId>
+  <Date>2008-04-03</Date>
+  <Time>18:30</Time>
+  <Locality>Parque Estadual Mata dos Godoy, Londrina, Parana</Locality>
+  <Latitude>-23.4501</Latitude>
+  <Longitude>-51.2334</Longitude>
+  <Elevation>641</Elevation>
+  <Author>Eduardo Patrial</Author>
+  <AuthorID>QEFRRVCRRP</AuthorID>
+  <Content>song</Content>
+  <Comments />
+  <Quality>1</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies />
+  <Order>Caprimulgiformes</Order>
+  <Family>Caprimulgidae</Family>
+  <Genus>Nyctiphrynus</Genus>
+  <Species>ocellatus</Species>
+  <Sub-species />
+  <VernacularNames>Ocellated Poorwill</VernacularNames>
+</Audio>

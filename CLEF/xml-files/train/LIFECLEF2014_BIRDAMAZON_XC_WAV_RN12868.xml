@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>12868</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN12868.wav</FileName>
+  <ClassId>ppdwrk</ClassId>
+  <Date>2002-09-26</Date>
+  <Time>17:30</Time>
+  <Locality>Anavilhanas Archipelago</Locality>
+  <Latitude>-2.6834</Latitude>
+  <Longitude>-60.7501</Longitude>
+  <Elevation>21</Elevation>
+  <Author>Jeremy Minns</Author>
+  <AuthorID>DGVLLRYDXS</AuthorID>
+  <Content>call, song</Content>
+  <Comments>Igapó forest on island.</Comments>
+  <Quality>2</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies>Amazona festiva,Ramphastos tucanus,Butorides striata</BackgroundSpecies>
+  <Order>Coraciiformes</Order>
+  <Family>Alcedinidae</Family>
+  <Genus>Chloroceryle</Genus>
+  <Species>amazona</Species>
+  <Sub-species />
+  <VernacularNames>Amazon Kingfisher</VernacularNames>
+</Audio>

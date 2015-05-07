@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>15883</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN15883.wav</FileName>
+  <ClassId>nhfrir</ClassId>
+  <Date>2005-07-00</Date>
+  <Time>xx:xx</Time>
+  <Locality>Galan, Santander, Yariguies, 06º38N, 73º19W</Locality>
+  <Latitude>6.6334</Latitude>
+  <Longitude>-73.3167</Longitude>
+  <Elevation>1600</Elevation>
+  <Author>Thomas Donegan</Author>
+  <AuthorID>OXSIOLJJUP</AuthorID>
+  <Content>call</Content>
+  <Comments>Former mystery 969 / Pai-Luiz 1492</Comments>
+  <Quality>0</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies>Thamnophilus multistriatus</BackgroundSpecies>
+  <Order>Passeriformes</Order>
+  <Family>Thraupidae</Family>
+  <Genus>Tiaris</Genus>
+  <Species>olivaceus</Species>
+  <Sub-species />
+  <VernacularNames>Yellow-faced Grassquit</VernacularNames>
+</Audio>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>19145</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN19145.wav</FileName>
+  <ClassId>ofurok</ClassId>
+  <Date>2014-09-06</Date>
+  <Time>08:00</Time>
+  <Locality>Alto Japurá, margem direita.</Locality>
+  <Latitude>-1.8754</Latitude>
+  <Longitude>-69.045</Longitude>
+  <Elevation>90</Elevation>
+  <Author>Eduardo D. Schultz</Author>
+  <AuthorID>QYOZQITVAC</AuthorID>
+  <Content>alarm call</Content>
+  <Comments>High Japurá, right bank. 65 km from Vila Bittencourt at the border. Terra firme forest.bird-seen:yesplayback-used:yes</Comments>
+  <Quality>2</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies>Thamnophilus murinus,Cercomacra cinerascens,Trogon ramonianus</BackgroundSpecies>
+  <Order>Passeriformes</Order>
+  <Family>Furnariidae</Family>
+  <Genus>Sclerurus</Genus>
+  <Species>caudacutus</Species>
+  <Sub-species />
+  <VernacularNames>Black-tailed Leaftosser</VernacularNames>
+</Audio>

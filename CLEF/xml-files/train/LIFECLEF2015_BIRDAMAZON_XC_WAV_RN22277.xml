@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>22277</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN22277.wav</FileName>
+  <ClassId>mveelf</ClassId>
+  <Date>2010-06-13</Date>
+  <Time>08:04</Time>
+  <Locality>Montagne des chevaux - Roura</Locality>
+  <Latitude>NULL</Latitude>
+  <Longitude>NULL</Longitude>
+  <Elevation>?</Elevation>
+  <Author>Patrick INGREMEAU</Author>
+  <AuthorID>IIVTYSKEYX</AuthorID>
+  <Content>flight call</Content>
+  <Comments />
+  <Quality>1</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Psittaciformes</Order>
+  <Family>Psittacidae</Family>
+  <Genus>Pionus</Genus>
+  <Species>fuscus</Species>
+  <Sub-species />
+  <VernacularNames>Dusky Parrot</VernacularNames>
+</Audio>

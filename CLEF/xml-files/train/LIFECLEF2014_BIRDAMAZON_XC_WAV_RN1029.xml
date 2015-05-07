@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>1029</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN1029.wav</FileName>
+  <ClassId>nurzze</ClassId>
+  <Date>2002-02-09</Date>
+  <Time>07:50</Time>
+  <Locality>Cavernas do Peruaçu National Park</Locality>
+  <Latitude>-15.0334</Latitude>
+  <Longitude>-44.2501</Longitude>
+  <Elevation>750</Elevation>
+  <Author>Jeremy Minns</Author>
+  <AuthorID>DGVLLRYDXS</AuthorID>
+  <Content>Song</Content>
+  <Comments>Semi-deciduous forest.</Comments>
+  <Quality>2</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies />
+  <Order>Columbiformes</Order>
+  <Family>Columbidae</Family>
+  <Genus>Patagioenas</Genus>
+  <Species>plumbea</Species>
+  <Sub-species>baeri</Sub-species>
+  <VernacularNames>Plumbeous Pigeon</VernacularNames>
+</Audio>

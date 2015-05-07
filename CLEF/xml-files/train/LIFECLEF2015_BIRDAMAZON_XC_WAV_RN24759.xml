@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>24759</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN24759.wav</FileName>
+  <ClassId>nnxjdw</ClassId>
+  <Date>2009-08-30</Date>
+  <Time>11:00</Time>
+  <Locality>Cristalino Jungle Lodge, MT</Locality>
+  <Latitude>-9.5981</Latitude>
+  <Longitude>-55.932</Longitude>
+  <Elevation>250</Elevation>
+  <Author>Andrew Spencer</Author>
+  <AuthorID>CDTGHVBGZP</AuthorID>
+  <Content>call</Content>
+  <Comments />
+  <Quality>1</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Piciformes</Order>
+  <Family>Bucconidae</Family>
+  <Genus>Chelidoptera</Genus>
+  <Species>tenebrosa</Species>
+  <Sub-species />
+  <VernacularNames>Swallow-winged Puffbird</VernacularNames>
+</Audio>

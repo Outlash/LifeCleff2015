@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>9621</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN9621.wav</FileName>
+  <ClassId>nntytu</ClassId>
+  <Date>2012-03-03</Date>
+  <Time>10:00</Time>
+  <Locality>Parauapebas, Para</Locality>
+  <Latitude>-6.1242</Latitude>
+  <Longitude>-50.4382</Longitude>
+  <Elevation>650</Elevation>
+  <Author>GABRIEL LEITE</Author>
+  <AuthorID>TGBFXDVERJ</AuthorID>
+  <Content>call, male</Content>
+  <Comments>bird-seen:yesplayback-used:no</Comments>
+  <Quality>2</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Thamnophilidae</Family>
+  <Genus>Pyriglena</Genus>
+  <Species>leuconota</Species>
+  <Sub-species />
+  <VernacularNames>White-backed Fire-eye</VernacularNames>
+</Audio>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>7695</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN7695.wav</FileName>
+  <ClassId>ltmvlu</ClassId>
+  <Date>2005-02-22</Date>
+  <Time>09:00</Time>
+  <Locality>Reserva de Desenvolvimento Sustentável Amanã, Amazonas</Locality>
+  <Latitude>-2.01</Latitude>
+  <Longitude>-63.01</Longitude>
+  <Elevation>50</Elevation>
+  <Author>Sidnei de Melo Dantas</Author>
+  <AuthorID>NNCKQMBGPH</AuthorID>
+  <Content>song</Content>
+  <Comments>one individual, on understory, on varzea forest.</Comments>
+  <Quality>2</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Furnariidae</Family>
+  <Genus>Xiphorhynchus</Genus>
+  <Species>guttatus</Species>
+  <Sub-species>guttatoides</Sub-species>
+  <VernacularNames>Buff-throated Woodcreeper</VernacularNames>
+</Audio>

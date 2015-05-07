@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>18097</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN18097.wav</FileName>
+  <ClassId>gvyxhh</ClassId>
+  <Date>2014-01-08</Date>
+  <Time>07:30</Time>
+  <Locality>Intervales State Park. Residential area</Locality>
+  <Latitude>-24.2667</Latitude>
+  <Longitude>-48.4167</Longitude>
+  <Elevation>850</Elevation>
+  <Author>Fabricio Gorleri</Author>
+  <AuthorID>YHDVBURCZQ</AuthorID>
+  <Content>song</Content>
+  <Comments>bird-seen:yesplayback-used:no</Comments>
+  <Quality>1</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Thraupidae</Family>
+  <Genus>Stephanophorus</Genus>
+  <Species>diadematus</Species>
+  <Sub-species />
+  <VernacularNames>Diademed Tanager</VernacularNames>
+</Audio>

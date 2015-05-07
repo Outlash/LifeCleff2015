@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>14011</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN14011.wav</FileName>
+  <ClassId>ebxlim</ClassId>
+  <Date>2008-07-10</Date>
+  <Time>8:40</Time>
+  <Locality>Eldorado, Mato Grosso do Sul state</Locality>
+  <Latitude>-23.8501</Latitude>
+  <Longitude>-54.2537</Longitude>
+  <Elevation>340</Elevation>
+  <Author>Joao Menezes</Author>
+  <AuthorID>BEYMZHZHIB</AuthorID>
+  <Content>call</Content>
+  <Comments />
+  <Quality>2</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies>Cacicus haemorrhous,Euphonia chlorotica,Euphonia chlorotica</BackgroundSpecies>
+  <Order>Passeriformes</Order>
+  <Family>Thamnophilidae</Family>
+  <Genus>Taraba</Genus>
+  <Species>major</Species>
+  <Sub-species />
+  <VernacularNames>Great Antshrike</VernacularNames>
+</Audio>

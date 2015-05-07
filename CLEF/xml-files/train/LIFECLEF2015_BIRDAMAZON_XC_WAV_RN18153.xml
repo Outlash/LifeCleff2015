@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>18153</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN18153.wav</FileName>
+  <ClassId>uarutv</ClassId>
+  <Date>2010-07-23</Date>
+  <Time>10:00</Time>
+  <Locality>Presidente Figueiredo, Amazonas</Locality>
+  <Latitude>-2.028</Latitude>
+  <Longitude>-59.997</Longitude>
+  <Elevation>?</Elevation>
+  <Author>Marcos Melo</Author>
+  <AuthorID>MRGDYNJGUJ</AuthorID>
+  <Content>call, song</Content>
+  <Comments />
+  <Quality>2</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies>Lipaugus vociferans</BackgroundSpecies>
+  <Order>Passeriformes</Order>
+  <Family>Tyrannidae</Family>
+  <Genus>Hemitriccus</Genus>
+  <Species>zosterops</Species>
+  <Sub-species />
+  <VernacularNames>White-eyed Tody-Tyrant</VernacularNames>
+</Audio>

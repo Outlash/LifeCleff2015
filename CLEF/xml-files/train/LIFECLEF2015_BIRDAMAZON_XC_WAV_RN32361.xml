@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>32361</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN32361.wav</FileName>
+  <ClassId>jatqgd</ClassId>
+  <Date>2013-03-23</Date>
+  <Time>17:36</Time>
+  <Locality>Cajamarca, Tolima</Locality>
+  <Latitude>4.4837</Latitude>
+  <Longitude>-75.4797</Longitude>
+  <Elevation>3400</Elevation>
+  <Author>Oscar H. Marín-Gómez</Author>
+  <AuthorID>CSUHASNRSU</AuthorID>
+  <Content>call</Content>
+  <Comments>Ref OHM 433. Confidencia 70%. Un individuo en Chusquebird-seen:noplayback-used:no</Comments>
+  <Quality>1</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Rhinocryptidae</Family>
+  <Genus>Myornis</Genus>
+  <Species>senilis</Species>
+  <Sub-species />
+  <VernacularNames>Ash-colored Tapaculo</VernacularNames>
+</Audio>

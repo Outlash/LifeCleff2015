@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>29544</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN29544.wav</FileName>
+  <ClassId>xqglsv</ClassId>
+  <Date>2013-11-02</Date>
+  <Time>05:30</Time>
+  <Locality>Setor  Samambaia, mata seca, perto da UFG-Agronomia, Goiânia-Goiás</Locality>
+  <Latitude>-16.6003</Latitude>
+  <Longitude>-49.2802</Longitude>
+  <Elevation>750</Elevation>
+  <Author>Nunes D'Acosta</Author>
+  <AuthorID>OHHTDSDNBT</AuthorID>
+  <Content>alarm call, female</Content>
+  <Comments>Canto de advertência da fêmea na madrugada próximo ao ninho em um buraco no solo da mata seca do Campus Samambaia UFG.bird-seen:yesplayback-used:no</Comments>
+  <Quality>1</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Coraciiformes</Order>
+  <Family>Momotidae</Family>
+  <Genus>Momotus</Genus>
+  <Species>momota</Species>
+  <Sub-species />
+  <VernacularNames>Amazonian Motmot</VernacularNames>
+</Audio>

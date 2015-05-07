@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>8957</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN8957.wav</FileName>
+  <ClassId>jvqabt</ClassId>
+  <Date>2004-02-17</Date>
+  <Time>08:00</Time>
+  <Locality>Nucleo Picinguaba (Rio Fazenda), 32 km al N de Ubatuba, Sao Paulo</Locality>
+  <Latitude>NULL</Latitude>
+  <Longitude>NULL</Longitude>
+  <Elevation>1</Elevation>
+  <Author>Bernabe Lopez-Lanus</Author>
+  <AuthorID>BYLLSJRVDZ</AuthorID>
+  <Content>Song</Content>
+  <Comments />
+  <Quality>4</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Parulidae</Family>
+  <Genus>Myiothlypis</Genus>
+  <Species>rivularis</Species>
+  <Sub-species />
+  <VernacularNames>Riverbank Warbler</VernacularNames>
+</Audio>

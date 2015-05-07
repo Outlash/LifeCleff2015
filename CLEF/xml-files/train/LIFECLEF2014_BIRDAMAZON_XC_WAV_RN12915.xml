@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>12915</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN12915.wav</FileName>
+  <ClassId>wbapfb</ClassId>
+  <Date>2008-10-29</Date>
+  <Time>09:30</Time>
+  <Locality>Sitio Roda D'água, São Paulo, SP</Locality>
+  <Latitude>NULL</Latitude>
+  <Longitude>NULL</Longitude>
+  <Elevation>780</Elevation>
+  <Author>Marcos Melo</Author>
+  <AuthorID>MRGDYNJGUJ</AuthorID>
+  <Content>song</Content>
+  <Comments>in response playback</Comments>
+  <Quality>2</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies>Vireo olivaceus,Chiroxiphia caudata,Cyclarhis gujanensis,Basileuterus culicivorus</BackgroundSpecies>
+  <Order>Passeriformes</Order>
+  <Family>Fringillidae</Family>
+  <Genus>Euphonia</Genus>
+  <Species>pectoralis</Species>
+  <Sub-species />
+  <VernacularNames>Chestnut-bellied Euphonia</VernacularNames>
+</Audio>

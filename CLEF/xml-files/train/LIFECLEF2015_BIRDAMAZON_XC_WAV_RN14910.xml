@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>14910</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN14910.wav</FileName>
+  <ClassId>mddteh</ClassId>
+  <Date>0000-00-00</Date>
+  <Time>?:?</Time>
+  <Locality>Mana</Locality>
+  <Latitude>5.652886</Latitude>
+  <Longitude>-53.831291</Longitude>
+  <Elevation>10</Elevation>
+  <Author>Alexandre Renaudier</Author>
+  <AuthorID>GKADEITXTH</AuthorID>
+  <Content>Call ?</Content>
+  <Comments>natural recording</Comments>
+  <Quality>1</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Tyrannidae</Family>
+  <Genus>Myiopagis</Genus>
+  <Species>gaimardii</Species>
+  <Sub-species />
+  <VernacularNames>Forest Elaenia</VernacularNames>
+</Audio>

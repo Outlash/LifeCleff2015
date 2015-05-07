@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>12828</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN12828.wav</FileName>
+  <ClassId>jwnnob</ClassId>
+  <Date>2011-08-12</Date>
+  <Time>8:55</Time>
+  <Locality>Cristalino Jungle Lodge, MT</Locality>
+  <Latitude>-9.5981</Latitude>
+  <Longitude>-55.932</Longitude>
+  <Elevation>200</Elevation>
+  <Author>Tayler Brooks</Author>
+  <AuthorID>ARFGONJCBJ</AuthorID>
+  <Content>call</Content>
+  <Comments>Natural vocalization. From female?</Comments>
+  <Quality>2</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies>Lipaugus vociferans</BackgroundSpecies>
+  <Order>Falconiformes</Order>
+  <Family>Falconidae</Family>
+  <Genus>Micrastur</Genus>
+  <Species>mintoni</Species>
+  <Sub-species />
+  <VernacularNames>Cryptic Forest Falcon</VernacularNames>
+</Audio>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>6051</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN6051.wav</FileName>
+  <ClassId>rxywkl</ClassId>
+  <Date>2005-12-26</Date>
+  <Time>07:30</Time>
+  <Locality>Porteiras, Altinho, Pernambuco</Locality>
+  <Latitude>-8.3</Latitude>
+  <Longitude>-37.75</Longitude>
+  <Elevation>460</Elevation>
+  <Author>Glauco Alves Pereira</Author>
+  <AuthorID>ZWEROGGYVP</AuthorID>
+  <Content>song</Content>
+  <Comments>Edge of forest (caatinga)</Comments>
+  <Quality>0</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies>Furnarius figulus,Todirostrum cinereum,Vanellus chilensis,Camptostoma obsoletum,Nystalus maculatus,Thraupis sayaca,Polioptila plumbea,Hylophilus amaurocephalus</BackgroundSpecies>
+  <Order>Passeriformes</Order>
+  <Family>Tyrannidae</Family>
+  <Genus>Phaeomyias</Genus>
+  <Species>murina</Species>
+  <Sub-species />
+  <VernacularNames>Mouse-colored Tyrannulet</VernacularNames>
+</Audio>

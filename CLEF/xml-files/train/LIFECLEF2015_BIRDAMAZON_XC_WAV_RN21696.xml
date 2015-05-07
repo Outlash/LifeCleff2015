@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>21696</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN21696.wav</FileName>
+  <ClassId>vvablg</ClassId>
+  <Date>2011-08-17</Date>
+  <Time>9:20</Time>
+  <Locality>Cristalino Jungle Lodge, MT</Locality>
+  <Latitude>-9.5981</Latitude>
+  <Longitude>-55.932</Longitude>
+  <Elevation>200</Elevation>
+  <Author>Tayler Brooks</Author>
+  <AuthorID>ARFGONJCBJ</AuthorID>
+  <Content>call</Content>
+  <Comments>Natural vocalization. Flying by canopy tower.</Comments>
+  <Quality>1</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Apodiformes</Order>
+  <Family>Apodidae</Family>
+  <Genus>Chaetura</Genus>
+  <Species>cinereiventris</Species>
+  <Sub-species>sclateri</Sub-species>
+  <VernacularNames>Grey-rumped Swift</VernacularNames>
+</Audio>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>22712</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN22712.wav</FileName>
+  <ClassId>fkjcci</ClassId>
+  <Date>2014-08-08</Date>
+  <Time>19:00</Time>
+  <Locality>Siderópolis, Santa Catarina state, Brazil</Locality>
+  <Latitude>-28.6155</Latitude>
+  <Longitude>-49.5164</Longitude>
+  <Elevation>180</Elevation>
+  <Author>João Gava Just</Author>
+  <AuthorID>CEKMJEZKSJ</AuthorID>
+  <Content>call</Content>
+  <Comments>Recorder: Panasonic RR-US300.bird-seen:noplayback-used:no</Comments>
+  <Quality>3</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Strigiformes</Order>
+  <Family>Strigidae</Family>
+  <Genus>Strix</Genus>
+  <Species>virgata</Species>
+  <Sub-species>bo</Sub-species>
+  <VernacularNames>Mottled Owl</VernacularNames>
+</Audio>

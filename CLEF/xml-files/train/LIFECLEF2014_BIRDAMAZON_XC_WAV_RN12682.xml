@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>12682</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN12682.wav</FileName>
+  <ClassId>xychdo</ClassId>
+  <Date>2009-07-15</Date>
+  <Time>07:20</Time>
+  <Locality>Raso da Catarina Ecological Station, Jeremoabo, Bahia.</Locality>
+  <Latitude>-9.872</Latitude>
+  <Longitude>-38.6445</Longitude>
+  <Elevation>?</Elevation>
+  <Author>Fernando Fávaro</Author>
+  <AuthorID>QTNGUZTTQM</AuthorID>
+  <Content>alarm calls?</Content>
+  <Comments>Possibly, I was close to the nest. Playback not used.</Comments>
+  <Quality>3</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies>Amazona aestiva,Zonotrichia capensis</BackgroundSpecies>
+  <Order>Passeriformes</Order>
+  <Family>Troglodytidae</Family>
+  <Genus>Troglodytes</Genus>
+  <Species>aedon</Species>
+  <Sub-species>musculus</Sub-species>
+  <VernacularNames>House Wren</VernacularNames>
+</Audio>

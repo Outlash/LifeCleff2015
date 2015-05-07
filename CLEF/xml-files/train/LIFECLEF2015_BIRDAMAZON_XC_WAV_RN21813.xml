@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>21813</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN21813.wav</FileName>
+  <ClassId>xohbun</ClassId>
+  <Date>2008-05-17</Date>
+  <Time>17:21</Time>
+  <Locality>Pousada Rio Azul, PA</Locality>
+  <Latitude>-9.2456</Latitude>
+  <Longitude>-55.987</Longitude>
+  <Elevation>190</Elevation>
+  <Author>Bradley Davis</Author>
+  <AuthorID>YNXJLOESBB</AuthorID>
+  <Content>call</Content>
+  <Comments />
+  <Quality>3</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies>Ramphastos tucanus,Euphonia xanthogaster</BackgroundSpecies>
+  <Order>Passeriformes</Order>
+  <Family>Fringillidae</Family>
+  <Genus>Euphonia</Genus>
+  <Species>chrysopasta</Species>
+  <Sub-species>chrysopasta?</Sub-species>
+  <VernacularNames>White-lored Euphonia</VernacularNames>
+</Audio>

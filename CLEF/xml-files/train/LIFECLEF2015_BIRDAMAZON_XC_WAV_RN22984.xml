@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>22984</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN22984.wav</FileName>
+  <ClassId>sjjpbk</ClassId>
+  <Date>2001-10-25</Date>
+  <Time>08:31</Time>
+  <Locality>Perequê - Angra dos Reis - RJ</Locality>
+  <Latitude>-23.012</Latitude>
+  <Longitude>-44.5351</Longitude>
+  <Elevation>50</Elevation>
+  <Author>Jeremy Minns</Author>
+  <AuthorID>DGVLLRYDXS</AuthorID>
+  <Content>Song</Content>
+  <Comments>Scrubby secondary growth near humid forest. Male.</Comments>
+  <Quality>1</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies>Legatus leucophaius,Myiodynastes maculatus,Pachyramphus castaneus,Cantorchilus longirostris,Turdus rufiventris</BackgroundSpecies>
+  <Order>Passeriformes</Order>
+  <Family>Thraupidae</Family>
+  <Genus>Thlypopsis</Genus>
+  <Species>sordida</Species>
+  <Sub-species>sordida</Sub-species>
+  <VernacularNames>Orange-headed Tanager</VernacularNames>
+</Audio>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>948</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN948.wav</FileName>
+  <ClassId>yyvzjd</ClassId>
+  <Date>2007-07-30</Date>
+  <Time>07:01</Time>
+  <Locality>Pousada Rio Azul, PA</Locality>
+  <Latitude>-9.2456</Latitude>
+  <Longitude>-55.987</Longitude>
+  <Elevation>220</Elevation>
+  <Author>Bradley Davis</Author>
+  <AuthorID>YNXJLOESBB</AuthorID>
+  <Content>song</Content>
+  <Comments />
+  <Quality>0</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Furnariidae</Family>
+  <Genus>Automolus</Genus>
+  <Species>ochrolaemus</Species>
+  <Sub-species>auricularis</Sub-species>
+  <VernacularNames>Buff-throated Foliage-gleaner</VernacularNames>
+</Audio>

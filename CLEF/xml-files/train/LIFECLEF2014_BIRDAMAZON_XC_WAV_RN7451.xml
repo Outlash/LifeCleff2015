@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>7451</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN7451.wav</FileName>
+  <ClassId>hctcgx</ClassId>
+  <Date>2011-10-28</Date>
+  <Time>07:30</Time>
+  <Locality>Mata do Buraquinho, PB</Locality>
+  <Latitude>-7.147</Latitude>
+  <Longitude>-34.854</Longitude>
+  <Elevation>?</Elevation>
+  <Author>Alexander Lees</Author>
+  <AuthorID>INDDBZAFJL</AuthorID>
+  <Content>song</Content>
+  <Comments />
+  <Quality>3</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies>Laterallus melanophaius</BackgroundSpecies>
+  <Order>Passeriformes</Order>
+  <Family>Parulidae</Family>
+  <Genus>Geothlypis</Genus>
+  <Species>velata</Species>
+  <Sub-species>velata</Sub-species>
+  <VernacularNames>Southern Yellowthroat</VernacularNames>
+</Audio>

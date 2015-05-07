@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>28712</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN28712.wav</FileName>
+  <ClassId>oublby</ClassId>
+  <Date>2011-03-15</Date>
+  <Time>08:30</Time>
+  <Locality>Hanover Savanna</Locality>
+  <Latitude>5.474</Latitude>
+  <Longitude>-55.182</Longitude>
+  <Elevation>15</Elevation>
+  <Author>Daniel Lane</Author>
+  <AuthorID>WOEAFQRMUD</AuthorID>
+  <Content>excited calls in flight</Content>
+  <Comments>Aerial interaction among several pairs over open shrubby savanna on white sand soil with islands of trees and borrow pits scattered about. When giving the higher-pitched calls, the vocalizaing bird gave shallower, slow wingbeats, with wings mostly below plane of body, head raised high, then landed in a tree with wings fanning.</Comments>
+  <Quality>2</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies>Tyrannus melancholicus,Legatus leucophaius,Volatinia jacarina,Thraupis episcopus</BackgroundSpecies>
+  <Order>Coraciiformes</Order>
+  <Family>Alcedinidae</Family>
+  <Genus>Megaceryle</Genus>
+  <Species>torquata</Species>
+  <Sub-species />
+  <VernacularNames>Ringed Kingfisher</VernacularNames>
+</Audio>

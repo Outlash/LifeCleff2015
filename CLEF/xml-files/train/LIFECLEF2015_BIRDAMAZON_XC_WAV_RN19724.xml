@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>19724</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN19724.wav</FileName>
+  <ClassId>clakup</ClassId>
+  <Date>2011-05-21</Date>
+  <Time>10:10</Time>
+  <Locality>Alpestre, Rio Grande do Sul</Locality>
+  <Latitude>-27.239</Latitude>
+  <Longitude>-52.9696</Longitude>
+  <Elevation>300</Elevation>
+  <Author>Douglas Meyer</Author>
+  <AuthorID>MNENFHYTAE</AuthorID>
+  <Content>song</Content>
+  <Comments>bird-seen:yesplayback-used:no</Comments>
+  <Quality>2</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Tyrannidae</Family>
+  <Genus>Phylloscartes</Genus>
+  <Species>ventralis</Species>
+  <Sub-species />
+  <VernacularNames>Mottle-cheeked Tyrannulet</VernacularNames>
+</Audio>

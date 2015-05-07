@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>28729</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN28729.wav</FileName>
+  <ClassId>uphahj</ClassId>
+  <Date>2012-09-05</Date>
+  <Time>17:30</Time>
+  <Locality>Parque Nacional Yacambú, Lara</Locality>
+  <Latitude>9.7031</Latitude>
+  <Longitude>-69.6048</Longitude>
+  <Elevation>1800</Elevation>
+  <Author>Galo Buitrón-Jurado</Author>
+  <AuthorID>XUAITKZGSQ</AuthorID>
+  <Content>song</Content>
+  <Comments>bird-seen:yesplayback-used:no</Comments>
+  <Quality>3</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Accipitriformes</Order>
+  <Family>Accipitridae</Family>
+  <Genus>Rupornis</Genus>
+  <Species>magnirostris</Species>
+  <Sub-species />
+  <VernacularNames>Roadside Hawk</VernacularNames>
+</Audio>

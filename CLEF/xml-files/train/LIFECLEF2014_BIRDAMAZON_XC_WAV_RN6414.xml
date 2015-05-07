@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>6414</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN6414.wav</FileName>
+  <ClassId>zhxbyo</ClassId>
+  <Date>2010-11-26</Date>
+  <Time>10:10</Time>
+  <Locality>Caetité, Bahia.</Locality>
+  <Latitude>NULL</Latitude>
+  <Longitude>NULL</Longitude>
+  <Elevation>?</Elevation>
+  <Author>Sidnei S. dos Santos</Author>
+  <AuthorID>BHODJXTHGQ</AuthorID>
+  <Content>Song</Content>
+  <Comments>After playback</Comments>
+  <Quality>1</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Tyrannidae</Family>
+  <Genus>Serpophaga</Genus>
+  <Species>subcristata</Species>
+  <Sub-species />
+  <VernacularNames>White-crested Tyrannulet</VernacularNames>
+</Audio>

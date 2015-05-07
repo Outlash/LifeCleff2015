@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>1530</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN1530.wav</FileName>
+  <ClassId>kuggpr</ClassId>
+  <Date>2003-01-02</Date>
+  <Time>05:51</Time>
+  <Locality>Serra da Bocaina State Park. Parati-Cunha road</Locality>
+  <Latitude>-23.2001</Latitude>
+  <Longitude>-44.8167</Longitude>
+  <Elevation>600</Elevation>
+  <Author>Jeremy Minns</Author>
+  <AuthorID>DGVLLRYDXS</AuthorID>
+  <Content>Call</Content>
+  <Comments>Call C. Classification as in our DVD-ROM 'Birds of Brazil' Montane forest. The female recorded in XC77915 was joined by an adult male. One of them then gave the two unusual calls heard at the beginning and end of this cut.</Comments>
+  <Quality>2</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies>Geotrygon montana,Grallaria varia,Cichlocolaptes leucophrus,Hylophilus poicilotis,Turdus flavipes,Turdus rufiventris,Turdus albicollis</BackgroundSpecies>
+  <Order>Passeriformes</Order>
+  <Family>Thamnophilidae</Family>
+  <Genus>Batara</Genus>
+  <Species>cinerea</Species>
+  <Sub-species>cinerea</Sub-species>
+  <VernacularNames>Giant Antshrike</VernacularNames>
+</Audio>

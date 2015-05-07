@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>30000</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN30000.wav</FileName>
+  <ClassId>kunsua</ClassId>
+  <Date>2014-01-16</Date>
+  <Time>7:00</Time>
+  <Locality>Braço do Trombudo, Santa Catarina</Locality>
+  <Latitude>-27.3532</Latitude>
+  <Longitude>-49.9037</Longitude>
+  <Elevation>460</Elevation>
+  <Author>Glauco Kohler</Author>
+  <AuthorID>JDNMEJOJEQ</AuthorID>
+  <Content>call</Content>
+  <Comments>bird-seen:noplayback-used:no</Comments>
+  <Quality>1</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies>Turdus albicollis,Rhopias gularis</BackgroundSpecies>
+  <Order>Passeriformes</Order>
+  <Family>Furnariidae</Family>
+  <Genus>Sclerurus</Genus>
+  <Species>scansor</Species>
+  <Sub-species />
+  <VernacularNames>Rufous-breasted Leaftosser</VernacularNames>
+</Audio>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>5332</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN5332.wav</FileName>
+  <ClassId>syipvo</ClassId>
+  <Date>2006-09-28</Date>
+  <Time>11:00</Time>
+  <Locality>Córrego Batalha, Catalão, Goiás State</Locality>
+  <Latitude>NULL</Latitude>
+  <Longitude>NULL</Longitude>
+  <Elevation>750</Elevation>
+  <Author>Robson Silva e Silva</Author>
+  <AuthorID>WZSVLIHYQF</AuthorID>
+  <Content>?</Content>
+  <Comments />
+  <Quality>1</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Turdidae</Family>
+  <Genus>Turdus</Genus>
+  <Species>subalaris</Species>
+  <Sub-species />
+  <VernacularNames>Eastern Slaty Thrush</VernacularNames>
+</Audio>

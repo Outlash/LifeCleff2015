@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>10569</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN10569.wav</FileName>
+  <ClassId>bnpmye</ClassId>
+  <Date>2002-02-11</Date>
+  <Time>19:19</Time>
+  <Locality>Pirapora, MG</Locality>
+  <Latitude>-17.3584</Latitude>
+  <Longitude>-44.8501</Longitude>
+  <Elevation>540</Elevation>
+  <Author>Jeremy Minns</Author>
+  <AuthorID>DGVLLRYDXS</AuthorID>
+  <Content>call, song</Content>
+  <Comments>Lake in pasture near Rio das Velhas.</Comments>
+  <Quality>2</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies>Hoploxypterus cayanus,Vanellus chilensis,Columbina talpacoti</BackgroundSpecies>
+  <Order>Charadriiformes</Order>
+  <Family>Jacanidae</Family>
+  <Genus>Jacana</Genus>
+  <Species>jacana</Species>
+  <Sub-species>jacana</Sub-species>
+  <VernacularNames>Wattled Jacana</VernacularNames>
+</Audio>

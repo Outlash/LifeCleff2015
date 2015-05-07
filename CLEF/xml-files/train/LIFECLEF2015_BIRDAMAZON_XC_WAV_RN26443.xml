@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>26443</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN26443.wav</FileName>
+  <ClassId>unqfdn</ClassId>
+  <Date>2010-01-09</Date>
+  <Time>07:00</Time>
+  <Locality>Santa Cecilia, Serrania de San Lucas</Locality>
+  <Latitude>NULL</Latitude>
+  <Longitude>NULL</Longitude>
+  <Elevation>1550</Elevation>
+  <Author>Thomas Donegan</Author>
+  <AuthorID>OXSIOLJJUP</AuthorID>
+  <Content>female</Content>
+  <Comments>Bird in natural conditions .  Not seen and only noted its presence on reviewing tapes.  Short notes in 5-9kHz range  after the scuffle appear to be of this species.bird-seen:noplayback-used:no</Comments>
+  <Quality>5</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Parulidae</Family>
+  <Genus>Basileuterus</Genus>
+  <Species>tristriatus</Species>
+  <Sub-species />
+  <VernacularNames>Three-striped Warbler</VernacularNames>
+</Audio>

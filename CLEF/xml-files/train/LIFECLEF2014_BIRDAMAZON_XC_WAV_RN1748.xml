@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>1748</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN1748.wav</FileName>
+  <ClassId>nkvtmg</ClassId>
+  <Date>2004-03-22</Date>
+  <Time>09:30</Time>
+  <Locality>Mata da Millenium, Mataraca, State of Paraíba</Locality>
+  <Latitude>-6.5834</Latitude>
+  <Longitude>-35.0501</Longitude>
+  <Elevation>30</Elevation>
+  <Author>Glauco Alves Pereira</Author>
+  <AuthorID>ZWEROGGYVP</AuthorID>
+  <Content>song</Content>
+  <Comments>restinga</Comments>
+  <Quality>4</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies>Thamnophilus pelzelni</BackgroundSpecies>
+  <Order>Columbiformes</Order>
+  <Family>Columbidae</Family>
+  <Genus>Leptotila</Genus>
+  <Species>verreauxi</Species>
+  <Sub-species />
+  <VernacularNames>White-tipped Dove</VernacularNames>
+</Audio>

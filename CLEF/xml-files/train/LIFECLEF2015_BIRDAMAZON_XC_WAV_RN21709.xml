@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>21709</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN21709.wav</FileName>
+  <ClassId>byvvse</ClassId>
+  <Date>2005-11-29</Date>
+  <Time>14:15</Time>
+  <Locality>Parque do Zizo, Sao Paulo State</Locality>
+  <Latitude>-24.017146</Latitude>
+  <Longitude>-47.81044</Longitude>
+  <Elevation>630</Elevation>
+  <Author>Bob Planqué</Author>
+  <AuthorID>OH38YHKJBS</AuthorID>
+  <Content>song</Content>
+  <Comments>seen nearly every day</Comments>
+  <Quality>2</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies>Sittasomus griseicapillus</BackgroundSpecies>
+  <Order>Passeriformes</Order>
+  <Family>Tityridae</Family>
+  <Genus>Oxyruncus</Genus>
+  <Species>cristatus</Species>
+  <Sub-species />
+  <VernacularNames>Sharpbill</VernacularNames>
+</Audio>

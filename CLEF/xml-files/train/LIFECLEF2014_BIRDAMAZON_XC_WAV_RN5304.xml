@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>5304</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN5304.wav</FileName>
+  <ClassId>wxviiz</ClassId>
+  <Date>2012-03-24</Date>
+  <Time>13:30</Time>
+  <Locality>Pé da Serra da corcunda do camelo.Minador-Pão de Açúcar-Alagoas-Brasil</Locality>
+  <Latitude>NULL</Latitude>
+  <Longitude>NULL</Longitude>
+  <Elevation>?</Elevation>
+  <Author>pedroteia</Author>
+  <AuthorID>BZVNDWLRSQ</AuthorID>
+  <Content>song</Content>
+  <Comments>gravado no pé da serra corcunda de camelo no Minador-Pão de Açúcar-Alagoas-Brasil</Comments>
+  <Quality>2</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies />
+  <Order>Strigiformes</Order>
+  <Family>Strigidae</Family>
+  <Genus>Athene</Genus>
+  <Species>cunicularia</Species>
+  <Sub-species />
+  <VernacularNames>Burrowing Owl</VernacularNames>
+</Audio>

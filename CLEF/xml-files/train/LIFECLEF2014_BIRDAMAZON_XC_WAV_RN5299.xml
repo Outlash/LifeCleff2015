@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>5299</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN5299.wav</FileName>
+  <ClassId>pjuaxh</ClassId>
+  <Date>2013-02-03</Date>
+  <Time>17:00</Time>
+  <Locality>Linhares, Espirito Santo</Locality>
+  <Latitude>-19.4148</Latitude>
+  <Longitude>-40.188</Longitude>
+  <Elevation>50</Elevation>
+  <Author>Noé Eiterer</Author>
+  <AuthorID>TWSKITNQOV</AuthorID>
+  <Content>song</Content>
+  <Comments>bird-seen:yesplayback-used:yes</Comments>
+  <Quality>2</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies />
+  <Order>Trogoniformes</Order>
+  <Family>Trogonidae</Family>
+  <Genus>Trogon</Genus>
+  <Species>viridis</Species>
+  <Sub-species />
+  <VernacularNames>Green-backed Trogon</VernacularNames>
+</Audio>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>2190</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN2190.wav</FileName>
+  <ClassId>gsmjhm</ClassId>
+  <Date>2003-10-08</Date>
+  <Time>06:59</Time>
+  <Locality>Intervales State Park. Carmo road</Locality>
+  <Latitude>-24.2834</Latitude>
+  <Longitude>-48.4334</Longitude>
+  <Elevation>800</Elevation>
+  <Author>Jeremy Minns</Author>
+  <AuthorID>DGVLLRYDXS</AuthorID>
+  <Content>flight call</Content>
+  <Comments>Humid forest. Fly over by 5-6 birds.</Comments>
+  <Quality>2</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies />
+  <Order>Psittaciformes</Order>
+  <Family>Psittacidae</Family>
+  <Genus>Pyrrhura</Genus>
+  <Species>frontalis</Species>
+  <Sub-species>chiripepe</Sub-species>
+  <VernacularNames>Maroon-bellied Parakeet</VernacularNames>
+</Audio>

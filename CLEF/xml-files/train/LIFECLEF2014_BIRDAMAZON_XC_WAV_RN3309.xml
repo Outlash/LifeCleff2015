@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>3309</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN3309.wav</FileName>
+  <ClassId>afzbzd</ClassId>
+  <Date>2010-10-08</Date>
+  <Time>05:50</Time>
+  <Locality>Paragominas, PA, Brazil, Bacia 245</Locality>
+  <Latitude>-3.1253</Latitude>
+  <Longitude>-46.8456</Longitude>
+  <Elevation>?</Elevation>
+  <Author>Nargila Moura</Author>
+  <AuthorID>CWEIBYBYYD</AuthorID>
+  <Content>call, song</Content>
+  <Comments>overgrown cattle pasture</Comments>
+  <Quality>3</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies>Elaenia flavogaster,Todirostrum cinereum,Camptostoma obsoletum,Phaeomyias murina,Ramphocelus carbo</BackgroundSpecies>
+  <Order>Cuculiformes</Order>
+  <Family>Cuculidae</Family>
+  <Genus>Tapera</Genus>
+  <Species>naevia</Species>
+  <Sub-species>naevia</Sub-species>
+  <VernacularNames>Striped Cuckoo</VernacularNames>
+</Audio>

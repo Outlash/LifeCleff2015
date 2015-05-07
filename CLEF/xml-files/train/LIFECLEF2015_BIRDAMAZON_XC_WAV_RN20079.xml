@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>20079</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN20079.wav</FileName>
+  <ClassId>dlrpwn</ClassId>
+  <Date>2005-05-00</Date>
+  <Time>morning</Time>
+  <Locality>Bonito,Mato Grosso do Sul State</Locality>
+  <Latitude>-21.05</Latitude>
+  <Longitude>-56.563</Longitude>
+  <Elevation>350</Elevation>
+  <Author>Antonio Silveira</Author>
+  <AuthorID>NBJQSQJRYH</AuthorID>
+  <Content>sons</Content>
+  <Comments />
+  <Quality>3</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies>Pitangus sulphuratus</BackgroundSpecies>
+  <Order>Passeriformes</Order>
+  <Family>Corvidae</Family>
+  <Genus>Cyanocorax</Genus>
+  <Species>cyanomelas</Species>
+  <Sub-species />
+  <VernacularNames>Purplish Jay</VernacularNames>
+</Audio>

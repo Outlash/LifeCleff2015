@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>11438</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN11438.wav</FileName>
+  <ClassId>gumwit</ClassId>
+  <Date>2008-02-02</Date>
+  <Time>7:30</Time>
+  <Locality>Belo Monte, left bank of Rio Xingu, Pará</Locality>
+  <Latitude>-3.3848</Latitude>
+  <Longitude>-51.9245</Longitude>
+  <Elevation>70</Elevation>
+  <Author>Lincoln Carneiro</Author>
+  <AuthorID>NNCKQMBGPH</AuthorID>
+  <Content>song</Content>
+  <Comments />
+  <Quality>2</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies>Dryocopus lineatus,Cercomacra cinerascens,Trogon rufus</BackgroundSpecies>
+  <Order>Passeriformes</Order>
+  <Family>Furnariidae</Family>
+  <Genus>Deconychura</Genus>
+  <Species>longicauda</Species>
+  <Sub-species />
+  <VernacularNames>Long-tailed Woodcreeper</VernacularNames>
+</Audio>

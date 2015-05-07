@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>26823</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN26823.wav</FileName>
+  <ClassId>pcfxys</ClassId>
+  <Date>2011-09-15</Date>
+  <Time>?</Time>
+  <Locality>Papaïchton, Abattis Kottica</Locality>
+  <Latitude>3.80703</Latitude>
+  <Longitude>-54.14949</Longitude>
+  <Elevation>50</Elevation>
+  <Author>Alexandre Renaudier</Author>
+  <AuthorID>GKADEITXTH</AuthorID>
+  <Content>Call</Content>
+  <Comments />
+  <Quality>1</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies>Ramphastos vitellinus</BackgroundSpecies>
+  <Order>Piciformes</Order>
+  <Family>Ramphastidae</Family>
+  <Genus>Ramphastos</Genus>
+  <Species>tucanus</Species>
+  <Sub-species />
+  <VernacularNames>White-throated Toucan</VernacularNames>
+</Audio>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>16250</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN16250.wav</FileName>
+  <ClassId>gupevx</ClassId>
+  <Date>2008-01-00</Date>
+  <Time>?:?</Time>
+  <Locality>Azulita road to Cano Sancudo</Locality>
+  <Latitude>NULL</Latitude>
+  <Longitude>NULL</Longitude>
+  <Elevation>800</Elevation>
+  <Author>Joe Klaiber</Author>
+  <AuthorID>TNPOVFLZMY</AuthorID>
+  <Content>song</Content>
+  <Comments>link:http://www.birds-venezuela.de</Comments>
+  <Quality>3</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Psittaciformes</Order>
+  <Family>Psittacidae</Family>
+  <Genus>Brotogeris</Genus>
+  <Species>jugularis</Species>
+  <Sub-species />
+  <VernacularNames>Orange-chinned Parakeet</VernacularNames>
+</Audio>

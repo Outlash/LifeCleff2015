@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>798</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN798.wav</FileName>
+  <ClassId>myyugr</ClassId>
+  <Date>2001-11-10</Date>
+  <Time>04:29</Time>
+  <Locality>Estância, state of Sergipe</Locality>
+  <Latitude>-11.2667</Latitude>
+  <Longitude>-37.4334</Longitude>
+  <Elevation>30</Elevation>
+  <Author>Jeremy Minns</Author>
+  <AuthorID>DGVLLRYDXS</AuthorID>
+  <Content>Dawn Song</Content>
+  <Comments>Before dawn. Singing in a palm tree in front of our hotel in town.</Comments>
+  <Quality>1</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Tyrannidae</Family>
+  <Genus>Machetornis</Genus>
+  <Species>rixosa</Species>
+  <Sub-species>rixosa</Sub-species>
+  <VernacularNames>Cattle Tyrant</VernacularNames>
+</Audio>

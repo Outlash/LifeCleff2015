@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>3151</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN3151.wav</FileName>
+  <ClassId>bskumd</ClassId>
+  <Date>2007-04-14</Date>
+  <Time>08:00</Time>
+  <Locality>Frade - Angra dos Reis - RJ</Locality>
+  <Latitude>-22.9612</Latitude>
+  <Longitude>-44.4334</Longitude>
+  <Elevation>50</Elevation>
+  <Author>Ricardo Gagliardi</Author>
+  <AuthorID>YRDADNREOP</AuthorID>
+  <Content>contact call</Content>
+  <Comments />
+  <Quality>3</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies>Terenura maculata,Basileuterus culicivorus,Dysithamnus stictothorax</BackgroundSpecies>
+  <Order>Passeriformes</Order>
+  <Family>Thamnophilidae</Family>
+  <Genus>Hypoedaleus</Genus>
+  <Species>guttatus</Species>
+  <Sub-species />
+  <VernacularNames>Spot-backed Antshrike</VernacularNames>
+</Audio>

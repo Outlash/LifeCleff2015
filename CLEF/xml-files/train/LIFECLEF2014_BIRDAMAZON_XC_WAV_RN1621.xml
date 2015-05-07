@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>1621</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN1621.wav</FileName>
+  <ClassId>nhduqd</ClassId>
+  <Date>2006-03-14</Date>
+  <Time>17:45</Time>
+  <Locality>Bahiazinho, Pousada Caiman, Matto Grosso do Sul state</Locality>
+  <Latitude>-19.957</Latitude>
+  <Longitude>-56.235</Longitude>
+  <Elevation>190</Elevation>
+  <Author>Daniel Lane</Author>
+  <AuthorID>WOEAFQRMUD</AuthorID>
+  <Content>call</Content>
+  <Comments>Natural vocalizations from a perched group on antennae of building at edge of lake.</Comments>
+  <Quality>2</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies>Jacana jacana,Chaetura meridionalis,Pitangus sulphuratus,Crotophaga ani</BackgroundSpecies>
+  <Order>Passeriformes</Order>
+  <Family>Hirundinidae</Family>
+  <Genus>Progne</Genus>
+  <Species>chalybea</Species>
+  <Sub-species>macroramphus?</Sub-species>
+  <VernacularNames>Grey-breasted Martin</VernacularNames>
+</Audio>

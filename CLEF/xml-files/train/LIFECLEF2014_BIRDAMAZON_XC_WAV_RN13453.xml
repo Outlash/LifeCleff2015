@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>13453</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN13453.wav</FileName>
+  <ClassId>jwatvd</ClassId>
+  <Date>2003-10-08</Date>
+  <Time>18:15</Time>
+  <Locality>Intervales State Park. Bocanha and Lageado</Locality>
+  <Latitude>-24.2667</Latitude>
+  <Longitude>-48.4501</Longitude>
+  <Elevation>800</Elevation>
+  <Author>Jeremy Minns</Author>
+  <AuthorID>DGVLLRYDXS</AuthorID>
+  <Content>Song</Content>
+  <Comments>Montane forest. Natural song of a bird nearby, answering a second bird calling in the distance.</Comments>
+  <Quality>1</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies>Schiffornis virescens,Turdus albicollis</BackgroundSpecies>
+  <Order>Passeriformes</Order>
+  <Family>Grallariidae</Family>
+  <Genus>Grallaria</Genus>
+  <Species>varia</Species>
+  <Sub-species>imperator</Sub-species>
+  <VernacularNames>Variegated Antpitta</VernacularNames>
+</Audio>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>10822</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN10822.wav</FileName>
+  <ClassId>gcyzcu</ClassId>
+  <Date>2013-10-20</Date>
+  <Time>09:00</Time>
+  <Locality>Ibirapuera Park,São Paulo city,São Paulo State</Locality>
+  <Latitude>-23.59</Latitude>
+  <Longitude>-46.66</Longitude>
+  <Elevation>750</Elevation>
+  <Author>Antonio Silveira</Author>
+  <AuthorID>NBJQSQJRYH</AuthorID>
+  <Content>call, female, male</Content>
+  <Comments>Flock about 6 individuals.bird-seen:yesplayback-used:no</Comments>
+  <Quality>3</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies />
+  <Order>Psittaciformes</Order>
+  <Family>Psittacidae</Family>
+  <Genus>Diopsittaca</Genus>
+  <Species>nobilis</Species>
+  <Sub-species />
+  <VernacularNames>Red-shouldered Macaw</VernacularNames>
+</Audio>

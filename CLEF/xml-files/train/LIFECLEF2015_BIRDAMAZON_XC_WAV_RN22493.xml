@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>22493</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN22493.wav</FileName>
+  <ClassId>yruddd</ClassId>
+  <Date>2009-08-29</Date>
+  <Time>08:20</Time>
+  <Locality>Cristalino Jungle Lodge, MT</Locality>
+  <Latitude>-9.5981</Latitude>
+  <Longitude>-55.932</Longitude>
+  <Elevation>250</Elevation>
+  <Author>Andrew Spencer</Author>
+  <AuthorID>CDTGHVBGZP</AuthorID>
+  <Content>call</Content>
+  <Comments />
+  <Quality>1</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Piciformes</Order>
+  <Family>Picidae</Family>
+  <Genus>Piculus</Genus>
+  <Species>flavigula</Species>
+  <Sub-species />
+  <VernacularNames>Yellow-throated Woodpecker</VernacularNames>
+</Audio>

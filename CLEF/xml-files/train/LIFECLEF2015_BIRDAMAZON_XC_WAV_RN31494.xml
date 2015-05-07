@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>31494</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN31494.wav</FileName>
+  <ClassId>cfyywg</ClassId>
+  <Date>2011-08-15</Date>
+  <Time>08:00</Time>
+  <Locality>Parque Natural Sumapaz, Laguna de Chisaca</Locality>
+  <Latitude>NULL</Latitude>
+  <Longitude>NULL</Longitude>
+  <Elevation>3800</Elevation>
+  <Author>Oswaldo Cortes</Author>
+  <AuthorID>VVDRVZCVWW</AuthorID>
+  <Content>song</Content>
+  <Comments />
+  <Quality>3</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Thraupidae</Family>
+  <Genus>Diglossa</Genus>
+  <Species>lafresnayii</Species>
+  <Sub-species />
+  <VernacularNames>Glossy Flowerpiercer</VernacularNames>
+</Audio>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>27625</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN27625.wav</FileName>
+  <ClassId>udwyft</ClassId>
+  <Date>2014-08-21</Date>
+  <Time>08:00</Time>
+  <Locality>Rogitama (Reserva Principe de Arcabuco)</Locality>
+  <Latitude>5.7796</Latitude>
+  <Longitude>-73.4464</Longitude>
+  <Elevation>2600</Elevation>
+  <Author>Oswaldo Cortes</Author>
+  <AuthorID>VVDRVZCVWW</AuthorID>
+  <Content>song</Content>
+  <Comments>bird-seen:yesplayback-used:no</Comments>
+  <Quality>3</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Icteridae</Family>
+  <Genus>Icterus</Genus>
+  <Species>chrysater</Species>
+  <Sub-species />
+  <VernacularNames>Yellow-backed Oriole</VernacularNames>
+</Audio>

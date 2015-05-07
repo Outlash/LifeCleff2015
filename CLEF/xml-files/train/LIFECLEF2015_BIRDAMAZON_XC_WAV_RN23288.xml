@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>23288</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN23288.wav</FileName>
+  <ClassId>qflnvv</ClassId>
+  <Date>2007-01-05</Date>
+  <Time>08:10</Time>
+  <Locality>Rio Caura south of Maripa, Bolivar</Locality>
+  <Latitude>7.1167</Latitude>
+  <Longitude>-64.9667</Longitude>
+  <Elevation>?</Elevation>
+  <Author>Andrew Spencer</Author>
+  <AuthorID>CDTGHVBGZP</AuthorID>
+  <Content>call</Content>
+  <Comments>pair flying overhead</Comments>
+  <Quality>1</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Psittaciformes</Order>
+  <Family>Psittacidae</Family>
+  <Genus>Ara</Genus>
+  <Species>chloropterus</Species>
+  <Sub-species />
+  <VernacularNames>Red-and-green Macaw</VernacularNames>
+</Audio>

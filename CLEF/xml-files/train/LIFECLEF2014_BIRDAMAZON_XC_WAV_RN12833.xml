@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>12833</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN12833.wav</FileName>
+  <ClassId>prpzcg</ClassId>
+  <Date>2012-11-20</Date>
+  <Time>08:30</Time>
+  <Locality>Fazenda Bacury, Anhembi, São Paulo</Locality>
+  <Latitude>NULL</Latitude>
+  <Longitude>NULL</Longitude>
+  <Elevation>550</Elevation>
+  <Author>Juha Honkala</Author>
+  <AuthorID>UTCLOBFQPH</AuthorID>
+  <Content>call</Content>
+  <Comments>The bird came in after the short playback of Helmeted Manakin, it kept quite high up, some 5-8 m above us, flying around and calling. Black plumage with red frontal crest, frontal crest shorter than in pure Helmeted Manakin, upper back pale ochraceous yellow.  bird-seen:yesplayback-used:yes</Comments>
+  <Quality>2</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies>Basileuterus culicivorus,Tolmomyias sulphurescens</BackgroundSpecies>
+  <Order>Passeriformes</Order>
+  <Family>Pipridae</Family>
+  <Genus>Antilophia</Genus>
+  <Species>galeata</Species>
+  <Sub-species>Antilophia galeata x Chiroxiphia caudata hybrid</Sub-species>
+  <VernacularNames>Helmeted Manakin</VernacularNames>
+</Audio>

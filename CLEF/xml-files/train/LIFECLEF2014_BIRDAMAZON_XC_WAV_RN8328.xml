@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>8328</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN8328.wav</FileName>
+  <ClassId>bmiqmk</ClassId>
+  <Date>2013-05-07</Date>
+  <Time>10:30</Time>
+  <Locality>Borebi, São Paulo</Locality>
+  <Latitude>-22.6736</Latitude>
+  <Longitude>-48.9592</Longitude>
+  <Elevation>700</Elevation>
+  <Author>Paulo Affonso Fonseca Pires Neto</Author>
+  <AuthorID>QOMWCAGQJX</AuthorID>
+  <Content>call</Content>
+  <Comments>bird-seen:noplayback-used:no</Comments>
+  <Quality>1</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Pipridae</Family>
+  <Genus>Chiroxiphia</Genus>
+  <Species>caudata</Species>
+  <Sub-species />
+  <VernacularNames>Blue Manakin</VernacularNames>
+</Audio>

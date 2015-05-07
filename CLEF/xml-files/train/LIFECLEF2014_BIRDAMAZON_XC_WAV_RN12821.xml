@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>12821</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN12821.wav</FileName>
+  <ClassId>vqsusq</ClassId>
+  <Date>2010-10-22</Date>
+  <Time>15:30</Time>
+  <Locality>Pousada Paraiso -Taquaril - Petrópolis - RJ</Locality>
+  <Latitude>-22.3023</Latitude>
+  <Longitude>-43.077</Longitude>
+  <Elevation>1400</Elevation>
+  <Author>Bernardo Lacombe</Author>
+  <AuthorID>RXFTJGTCHD</AuthorID>
+  <Content>call</Content>
+  <Comments>Jequitiba Trail - Pousada Paraiso - Perópolis _RJ - Brazilbird-seen:yesplayback-used:no</Comments>
+  <Quality>2</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies>Saltator similis</BackgroundSpecies>
+  <Order>Passeriformes</Order>
+  <Family>Furnariidae</Family>
+  <Genus>Campylorhamphus</Genus>
+  <Species>falcularius</Species>
+  <Sub-species />
+  <VernacularNames>Black-billed Scythebill</VernacularNames>
+</Audio>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>27025</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN27025.wav</FileName>
+  <ClassId>wvgogb</ClassId>
+  <Date>2010-11-09</Date>
+  <Time>07:30</Time>
+  <Locality>Porto Ferreira, São Paulo</Locality>
+  <Latitude>-21.854</Latitude>
+  <Longitude>-47.4925</Longitude>
+  <Elevation>600</Elevation>
+  <Author>Fernando Igor de Godoy</Author>
+  <AuthorID>CHDHFSVVIN</AuthorID>
+  <Content>duet song</Content>
+  <Comments>FNJV 30186bird-seen:yes</Comments>
+  <Quality>0</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Cariamiformes</Order>
+  <Family>Cariamidae</Family>
+  <Genus>Cariama</Genus>
+  <Species>cristata</Species>
+  <Sub-species />
+  <VernacularNames>Red-legged Seriema</VernacularNames>
+</Audio>

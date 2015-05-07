@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>31105</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN31105.wav</FileName>
+  <ClassId>wtxeww</ClassId>
+  <Date>2013-04-26</Date>
+  <Time>09:50</Time>
+  <Locality>Belo Vale, Minas Gerais</Locality>
+  <Latitude>-20.4082</Latitude>
+  <Longitude>-44.0279</Longitude>
+  <Elevation>800</Elevation>
+  <Author>Douglas Meyer</Author>
+  <AuthorID>MNENFHYTAE</AuthorID>
+  <Content>flight call, song</Content>
+  <Comments>bird-seen:yesplayback-used:no</Comments>
+  <Quality>0</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Psittaciformes</Order>
+  <Family>Psittacidae</Family>
+  <Genus>Eupsittula</Genus>
+  <Species>aurea</Species>
+  <Sub-species />
+  <VernacularNames>Peach-fronted Parakeet</VernacularNames>
+</Audio>

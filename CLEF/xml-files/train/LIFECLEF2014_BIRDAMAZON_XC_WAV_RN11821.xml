@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>11821</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN11821.wav</FileName>
+  <ClassId>hdkmhj</ClassId>
+  <Date>2006-08-06</Date>
+  <Time>15:20</Time>
+  <Locality>Sítio Pitombeiras, Feira Nova, Pernambuco</Locality>
+  <Latitude>NULL</Latitude>
+  <Longitude>NULL</Longitude>
+  <Elevation>169</Elevation>
+  <Author>Glauco Alves Pereira</Author>
+  <AuthorID>ZWEROGGYVP</AuthorID>
+  <Content>Two diferents calls</Content>
+  <Comments>A couple was observed. They were emitting a fine call. Among those fine calls they emitted the knownest call.</Comments>
+  <Quality>3</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies>Passer domesticus,Volatinia jacarina,Sturnella superciliaris</BackgroundSpecies>
+  <Order>Passeriformes</Order>
+  <Family>Tyrannidae</Family>
+  <Genus>Fluvicola</Genus>
+  <Species>nengeta</Species>
+  <Sub-species />
+  <VernacularNames>Masked Water Tyrant</VernacularNames>
+</Audio>

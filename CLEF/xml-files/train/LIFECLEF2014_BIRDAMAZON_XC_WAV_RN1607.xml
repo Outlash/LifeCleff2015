@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>1607</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN1607.wav</FileName>
+  <ClassId>yyjrms</ClassId>
+  <Date>1999-12-16</Date>
+  <Time>07:17</Time>
+  <Locality>Parque Nacional da Serra do Cipó, Minas Gerais State</Locality>
+  <Latitude>-19.3481</Latitude>
+  <Longitude>-43.6189</Longitude>
+  <Elevation>1200</Elevation>
+  <Author>Jeremy Minns</Author>
+  <AuthorID>DGVLLRYDXS</AuthorID>
+  <Content>Song</Content>
+  <Comments>Near Hotel ChapŽu do Sol. Rocky cerrado.</Comments>
+  <Quality>2</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies>Myiarchus swainsoni</BackgroundSpecies>
+  <Order>Passeriformes</Order>
+  <Family>Emberizidae</Family>
+  <Genus>Zonotrichia</Genus>
+  <Species>capensis</Species>
+  <Sub-species>subtorquata</Sub-species>
+  <VernacularNames>Rufous-collared Sparrow</VernacularNames>
+</Audio>

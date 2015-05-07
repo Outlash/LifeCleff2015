@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>9485</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN9485.wav</FileName>
+  <ClassId>myyugr</ClassId>
+  <Date>2000-01-11</Date>
+  <Time>08:16</Time>
+  <Locality>Aquidauana</Locality>
+  <Latitude>-20.4834</Latitude>
+  <Longitude>-55.8167</Longitude>
+  <Elevation>174</Elevation>
+  <Author>Jeremy Minns</Author>
+  <AuthorID>DGVLLRYDXS</AuthorID>
+  <Content>call</Content>
+  <Comments>Road to Barra Mansa. Scattered clumps of small trees and bushes with short grass between.</Comments>
+  <Quality>1</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies>Crypturellus undulatus,Columbina talpacoti,Diopsittaca nobilis,Nystalus striolatus,Elaenia spectabilis,Cyclarhis gujanensis,Progne tapera</BackgroundSpecies>
+  <Order>Passeriformes</Order>
+  <Family>Tyrannidae</Family>
+  <Genus>Machetornis</Genus>
+  <Species>rixosa</Species>
+  <Sub-species>rixosa</Sub-species>
+  <VernacularNames>Cattle Tyrant</VernacularNames>
+</Audio>

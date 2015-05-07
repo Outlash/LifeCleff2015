@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>19067</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN19067.wav</FileName>
+  <ClassId>uwcrre</ClassId>
+  <Date>1990-12-02</Date>
+  <Time>?</Time>
+  <Locality>Huila, San Agustin, Finca Guaribá</Locality>
+  <Latitude>NULL</Latitude>
+  <Longitude>NULL</Longitude>
+  <Elevation />
+  <Author>Gary Stiles (Colección de Sonidos Ambientales - Instituto Humboldt)</Author>
+  <AuthorID>XMFDPACYJN</AuthorID>
+  <Content>song,call</Content>
+  <Comments>BSA 11362To obtain a wav file of the original recording, please contact csa@humboldt.org.cobird-seen:noplayback-used:no</Comments>
+  <Quality>2</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Tyrannidae</Family>
+  <Genus>Uromyias</Genus>
+  <Species>agilis</Species>
+  <Sub-species />
+  <VernacularNames>Agile Tit-Tyrant</VernacularNames>
+</Audio>

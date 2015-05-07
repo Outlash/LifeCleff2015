@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>31683</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN31683.wav</FileName>
+  <ClassId>gcyuvy</ClassId>
+  <Date>2005-06-05</Date>
+  <Time>?</Time>
+  <Locality>Arapahu island</Locality>
+  <Latitude>3.4601</Latitude>
+  <Longitude>-57.6201</Longitude>
+  <Elevation>?</Elevation>
+  <Author>Otte Ottema</Author>
+  <AuthorID>ASEUAUOXZA</AuthorID>
+  <Content>call</Content>
+  <Comments>Two different calls. second call while attacking white hawk. Scores for latter. link:http://www.planktonik.com/birdingsuriname/</Comments>
+  <Quality>4</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Tyrannidae</Family>
+  <Genus>Attila</Genus>
+  <Species>spadiceus</Species>
+  <Sub-species />
+  <VernacularNames>Bright-rumped Attila</VernacularNames>
+</Audio>

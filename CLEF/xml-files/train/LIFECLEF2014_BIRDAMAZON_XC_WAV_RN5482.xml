@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>5482</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN5482.wav</FileName>
+  <ClassId>qrhwnu</ClassId>
+  <Date>1997-11-09</Date>
+  <Time>10:45</Time>
+  <Locality>Reserva Biológica A. Ruschi, ES</Locality>
+  <Latitude>-19.8834</Latitude>
+  <Longitude>-40.5834</Longitude>
+  <Elevation>750</Elevation>
+  <Author>Jeremy Minns</Author>
+  <AuthorID>DGVLLRYDXS</AuthorID>
+  <Content>call</Content>
+  <Comments>Two birds in a dead tree in an open area surrounded by montane forest.</Comments>
+  <Quality>2</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies>Patagioenas plumbea,Chiroxiphia caudata,Hylophilus poicilotis,Turdus albicollis</BackgroundSpecies>
+  <Order>Piciformes</Order>
+  <Family>Ramphastidae</Family>
+  <Genus>Ramphastos</Genus>
+  <Species>vitellinus</Species>
+  <Sub-species>ariel</Sub-species>
+  <VernacularNames>Channel-billed Toucan</VernacularNames>
+</Audio>

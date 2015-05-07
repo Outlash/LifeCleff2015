@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>31855</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN31855.wav</FileName>
+  <ClassId>cnlalq</ClassId>
+  <Date>2010-01-28</Date>
+  <Time>9:10</Time>
+  <Locality>RNA Arrierito Antioqueño, Anorí, Antioquia</Locality>
+  <Latitude>6.9862</Latitude>
+  <Longitude>-75.1251</Longitude>
+  <Elevation>1400</Elevation>
+  <Author>David Geale</Author>
+  <AuthorID>SBFBVYGIJC</AuthorID>
+  <Content>Call</Content>
+  <Comments>Not seen well, 2 birds.</Comments>
+  <Quality>3</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Thamnophilidae</Family>
+  <Genus>Cercomacra</Genus>
+  <Species>parkeri</Species>
+  <Sub-species />
+  <VernacularNames>Parker's Antbird</VernacularNames>
+</Audio>

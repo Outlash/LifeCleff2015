@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>20901</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN20901.wav</FileName>
+  <ClassId>addsdr</ClassId>
+  <Date>2007-10-09</Date>
+  <Time>08:35</Time>
+  <Locality>Near Ilha Diana, Santos, São Paulo state</Locality>
+  <Latitude>NULL</Latitude>
+  <Longitude>NULL</Longitude>
+  <Elevation>5</Elevation>
+  <Author>Robson Silva e Silva</Author>
+  <AuthorID>WZSVLIHYQF</AuthorID>
+  <Content>?</Content>
+  <Comments />
+  <Quality>2</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Tyrannidae</Family>
+  <Genus>Hemitriccus</Genus>
+  <Species>nidipendulus</Species>
+  <Sub-species />
+  <VernacularNames>Hangnest Tody-Tyrant</VernacularNames>
+</Audio>

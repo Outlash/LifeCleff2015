@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>6437</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN6437.wav</FileName>
+  <ClassId>fakmli</ClassId>
+  <Date>2010-12-03</Date>
+  <Time>10:35</Time>
+  <Locality>Baixada do Maciambu, Palhoça, Santa Catarina</Locality>
+  <Latitude>-27.816</Latitude>
+  <Longitude>-48.651</Longitude>
+  <Elevation>10</Elevation>
+  <Author>Glauco Kohler</Author>
+  <AuthorID>JDNMEJOJEQ</AuthorID>
+  <Content>call</Content>
+  <Comments />
+  <Quality>2</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies>Manacus manacus</BackgroundSpecies>
+  <Order>Passeriformes</Order>
+  <Family>Tyrannidae</Family>
+  <Genus>Platyrinchus</Genus>
+  <Species>mystaceus</Species>
+  <Sub-species />
+  <VernacularNames>White-throated Spadebill</VernacularNames>
+</Audio>

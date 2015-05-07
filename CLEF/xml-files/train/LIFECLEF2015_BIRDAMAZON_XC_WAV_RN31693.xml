@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>31693</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN31693.wav</FileName>
+  <ClassId>mrhqhi</ClassId>
+  <Date>2000-01-04</Date>
+  <Time>?</Time>
+  <Locality>Caquetá, Solano, PNN Chiribiquete, Sararamano</Locality>
+  <Latitude>0.1797222</Latitude>
+  <Longitude>-72.62334</Longitude>
+  <Elevation>350</Elevation>
+  <Author>Mauricio Álvarez Rebolledo (Colección de Sonidos Ambientales - Instituto Humboldt)</Author>
+  <AuthorID>XMFDPACYJN</AuthorID>
+  <Content>song</Content>
+  <Comments>BSA 2385To obtain a wav file of the original recording, please contact csa@humboldt.org.cobird-seen:noplayback-used:no</Comments>
+  <Quality>2</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Piciformes</Order>
+  <Family>Picidae</Family>
+  <Genus>Celeus</Genus>
+  <Species>grammicus</Species>
+  <Sub-species />
+  <VernacularNames>Scaly-breasted Woodpecker</VernacularNames>
+</Audio>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>17392</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN17392.wav</FileName>
+  <ClassId>nsbalk</ClassId>
+  <Date>2000-08-24</Date>
+  <Time>Dawn</Time>
+  <Locality>Reserva Iguaque (SFF), Villa de Leyva, Boyaca</Locality>
+  <Latitude>NULL</Latitude>
+  <Longitude>NULL</Longitude>
+  <Elevation>3000</Elevation>
+  <Author>Bernabe Lopez-Lanus</Author>
+  <AuthorID>BYLLSJRVDZ</AuthorID>
+  <Content>Second song</Content>
+  <Comments>99%</Comments>
+  <Quality>1</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Emberizidae</Family>
+  <Genus>Atlapetes</Genus>
+  <Species>albofrenatus</Species>
+  <Sub-species />
+  <VernacularNames>Moustached Brush Finch</VernacularNames>
+</Audio>

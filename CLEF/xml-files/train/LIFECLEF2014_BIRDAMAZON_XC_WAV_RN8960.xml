@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>8960</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN8960.wav</FileName>
+  <ClassId>yjatvw</ClassId>
+  <Date>2006-04-06</Date>
+  <Time>16:20</Time>
+  <Locality>Goiânia-Goiás - Setor Jaó - near Meia-Ponte river</Locality>
+  <Latitude>NULL</Latitude>
+  <Longitude>NULL</Longitude>
+  <Elevation>680</Elevation>
+  <Author>Nunes D´Acosta</Author>
+  <AuthorID>OHHTDSDNBT</AuthorID>
+  <Content>song</Content>
+  <Comments>Defendendo  filhotes no ninho</Comments>
+  <Quality>2</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies />
+  <Order>Strigiformes</Order>
+  <Family>Strigidae</Family>
+  <Genus>Pseudoscops</Genus>
+  <Species>clamator</Species>
+  <Sub-species />
+  <VernacularNames>Striped Owl</VernacularNames>
+</Audio>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>16231</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN16231.wav</FileName>
+  <ClassId>hwqenp</ClassId>
+  <Date>2011-03-11</Date>
+  <Time>07:00</Time>
+  <Locality>Serra do Mar State Park. Curucutú</Locality>
+  <Latitude>-23.9501</Latitude>
+  <Longitude>-46.7667</Longitude>
+  <Elevation>800</Elevation>
+  <Author>Fernando Igor de Godoy</Author>
+  <AuthorID>CHDHFSVVIN</AuthorID>
+  <Content>song</Content>
+  <Comments>FNJV 30278bird-seen:yesplayback-used:no</Comments>
+  <Quality>3</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies>Conopophaga lineata</BackgroundSpecies>
+  <Order>Passeriformes</Order>
+  <Family>Thamnophilidae</Family>
+  <Genus>Dysithamnus</Genus>
+  <Species>mentalis</Species>
+  <Sub-species />
+  <VernacularNames>Plain Antvireo</VernacularNames>
+</Audio>

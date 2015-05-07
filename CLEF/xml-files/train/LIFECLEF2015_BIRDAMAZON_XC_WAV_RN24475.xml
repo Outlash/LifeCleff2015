@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>24475</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN24475.wav</FileName>
+  <ClassId>ngukgn</ClassId>
+  <Date>2012-11-22</Date>
+  <Time>08:30</Time>
+  <Locality>Bahía Solano, Choco</Locality>
+  <Latitude>6.1114</Latitude>
+  <Longitude>-77.372</Longitude>
+  <Elevation>20</Elevation>
+  <Author>Oswaldo Cortes</Author>
+  <AuthorID>VVDRVZCVWW</AuthorID>
+  <Content>song</Content>
+  <Comments>bird-seen:yesplayback-used:no</Comments>
+  <Quality>3</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Troglodytidae</Family>
+  <Genus>Microcerculus</Genus>
+  <Species>marginatus</Species>
+  <Sub-species />
+  <VernacularNames>Southern Nightingale-Wren</VernacularNames>
+</Audio>

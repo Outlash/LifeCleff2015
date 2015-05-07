@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>33169</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN33169.wav</FileName>
+  <ClassId>wbchba</ClassId>
+  <Date>1985-05-03</Date>
+  <Time>?</Time>
+  <Locality>Cerro La Cumbre, Turiamo, Aragua</Locality>
+  <Latitude>10.4276</Latitude>
+  <Longitude>-67.8106</Longitude>
+  <Elevation>475</Elevation>
+  <Author>Chris Parrish</Author>
+  <AuthorID>IHIOGGZVQA</AuthorID>
+  <Content>song</Content>
+  <Comments />
+  <Quality>2</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies>Xiphorhynchus susurrans,Galbula ruficauda</BackgroundSpecies>
+  <Order>Passeriformes</Order>
+  <Family>Emberizidae</Family>
+  <Genus>Arremonops</Genus>
+  <Species>conirostris</Species>
+  <Sub-species>conirostris</Sub-species>
+  <VernacularNames>Black-striped Sparrow</VernacularNames>
+</Audio>

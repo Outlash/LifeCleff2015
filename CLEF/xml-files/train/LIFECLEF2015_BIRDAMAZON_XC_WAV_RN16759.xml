@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>16759</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN16759.wav</FileName>
+  <ClassId>vsvcnk</ClassId>
+  <Date>2009-10-00</Date>
+  <Time>07:00</Time>
+  <Locality>Big Pond, San Andres isla</Locality>
+  <Latitude>12.547</Latitude>
+  <Longitude>-81.719</Longitude>
+  <Elevation>70</Elevation>
+  <Author>Thomas Donegan</Author>
+  <AuthorID>OXSIOLJJUP</AuthorID>
+  <Content>flight call</Content>
+  <Comments />
+  <Quality>3</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Psittaciformes</Order>
+  <Family>Psittacidae</Family>
+  <Genus>Eupsittula</Genus>
+  <Species>pertinax</Species>
+  <Sub-species />
+  <VernacularNames>Brown-throated Parakeet</VernacularNames>
+</Audio>

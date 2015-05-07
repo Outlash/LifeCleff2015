@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>9314</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN9314.wav</FileName>
+  <ClassId>wpfguq</ClassId>
+  <Date>2008-04-26</Date>
+  <Time>18:20</Time>
+  <Locality>Rio Bonito de Cima - Nova Friburgo - RJ</Locality>
+  <Latitude>-22.3917</Latitude>
+  <Longitude>-42.3751</Longitude>
+  <Elevation>980</Elevation>
+  <Author>Ricardo Gagliardi</Author>
+  <AuthorID>YRDADNREOP</AuthorID>
+  <Content>call</Content>
+  <Comments>Vale das Taquaras Lodge area</Comments>
+  <Quality>0</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Conopophagidae</Family>
+  <Genus>Conopophaga</Genus>
+  <Species>lineata</Species>
+  <Sub-species />
+  <VernacularNames>Rufous Gnateater</VernacularNames>
+</Audio>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>18194</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN18194.wav</FileName>
+  <ClassId>ofurok</ClassId>
+  <Date>2008-04-15</Date>
+  <Time>08:40</Time>
+  <Locality>route Paul Isnard, Saint-Laurent-du-Maroni</Locality>
+  <Latitude>5.3606</Latitude>
+  <Longitude>-53.9626</Longitude>
+  <Elevation>30</Elevation>
+  <Author>Olivier Claessens</Author>
+  <AuthorID>KRQYNRSSDF</AuthorID>
+  <Content>song</Content>
+  <Comments>just after playback (same bird as XC42095)</Comments>
+  <Quality>1</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Furnariidae</Family>
+  <Genus>Sclerurus</Genus>
+  <Species>caudacutus</Species>
+  <Sub-species />
+  <VernacularNames>Black-tailed Leaftosser</VernacularNames>
+</Audio>

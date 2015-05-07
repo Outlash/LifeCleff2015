@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>27119</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN27119.wav</FileName>
+  <ClassId>vofzgr</ClassId>
+  <Date>2009-04-11</Date>
+  <Time>16:00</Time>
+  <Locality>Finca La Judea, Vereda Pedregales Alto, Génova, Quindio</Locality>
+  <Latitude>4.1543</Latitude>
+  <Longitude>-75.7191</Longitude>
+  <Elevation>3300</Elevation>
+  <Author>Oscar Humberto Marin-Gomez</Author>
+  <AuthorID>CSUHASNRSU</AuthorID>
+  <Content>flight call, male</Content>
+  <Comments>OHM060B. 1911. Llamados del macho en vuelo. bird-seen:yesplayback-used:no</Comments>
+  <Quality>3</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies>Amazona mercenarius</BackgroundSpecies>
+  <Order>Passeriformes</Order>
+  <Family>Fringillidae</Family>
+  <Genus>Spinus</Genus>
+  <Species>magellanica</Species>
+  <Sub-species />
+  <VernacularNames>Hooded Siskin</VernacularNames>
+</Audio>

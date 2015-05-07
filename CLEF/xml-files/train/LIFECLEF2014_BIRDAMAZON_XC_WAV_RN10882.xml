@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>10882</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN10882.wav</FileName>
+  <ClassId>eejqqp</ClassId>
+  <Date>2011-06-18</Date>
+  <Time>16:00</Time>
+  <Locality>Banhado do Maçarico region, Rio Grande, Rio Grande do Sul</Locality>
+  <Latitude>-32.111</Latitude>
+  <Longitude>-52.261</Longitude>
+  <Elevation>9</Elevation>
+  <Author>Rafael Antunes Dias</Author>
+  <AuthorID>XJSWEWQCEC</AuthorID>
+  <Content>call</Content>
+  <Comments>After playback, in eucalyptus grove in grassland</Comments>
+  <Quality>4</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Furnariidae</Family>
+  <Genus>Anumbius</Genus>
+  <Species>annumbi</Species>
+  <Sub-species />
+  <VernacularNames>Firewood-gatherer</VernacularNames>
+</Audio>

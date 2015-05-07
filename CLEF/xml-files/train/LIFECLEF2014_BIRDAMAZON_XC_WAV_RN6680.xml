@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>6680</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN6680.wav</FileName>
+  <ClassId>wsyiro</ClassId>
+  <Date>2013-10-29</Date>
+  <Time>17:00</Time>
+  <Locality>Vila Suzana, Canela, Rio Grande do Sul state</Locality>
+  <Latitude>-29.3525</Latitude>
+  <Longitude>-50.8273</Longitude>
+  <Elevation>800</Elevation>
+  <Author>Antonio Silveira</Author>
+  <AuthorID>NBJQSQJRYH</AuthorID>
+  <Content>male, song</Content>
+  <Comments>Male singing in the forest of village.bird-seen:noplayback-used:no</Comments>
+  <Quality>2</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Turdidae</Family>
+  <Genus>Turdus</Genus>
+  <Species>flavipes</Species>
+  <Sub-species />
+  <VernacularNames>Yellow-legged Thrush</VernacularNames>
+</Audio>

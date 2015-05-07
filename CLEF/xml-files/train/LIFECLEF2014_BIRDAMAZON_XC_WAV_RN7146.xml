@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>7146</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN7146.wav</FileName>
+  <ClassId>qiauol</ClassId>
+  <Date>1997-09-07</Date>
+  <Time>?</Time>
+  <Locality>Hotel do Ype, Itatiaia National Park</Locality>
+  <Latitude>-22.38</Latitude>
+  <Longitude>-44.63</Longitude>
+  <Elevation>?</Elevation>
+  <Author>Don Jones</Author>
+  <AuthorID>BCWZQTGMSO</AuthorID>
+  <Content>song</Content>
+  <Comments />
+  <Quality>1</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies />
+  <Order>Piciformes</Order>
+  <Family>Ramphastidae</Family>
+  <Genus>Ramphastos</Genus>
+  <Species>dicolorus</Species>
+  <Sub-species />
+  <VernacularNames>Green-billed Toucan</VernacularNames>
+</Audio>

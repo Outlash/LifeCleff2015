@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>1464</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN1464.wav</FileName>
+  <ClassId>tovyzm</ClassId>
+  <Date>2013-06-28</Date>
+  <Time>14:30</Time>
+  <Locality>Reserva Biológica do Aguaí, Nova Veneza, Santa Catarina</Locality>
+  <Latitude>-28.6452</Latitude>
+  <Longitude>-49.6892</Longitude>
+  <Elevation>440</Elevation>
+  <Author>João Gava</Author>
+  <AuthorID>CEKMJEZKSJ</AuthorID>
+  <Content>call, song</Content>
+  <Comments>Flying. Distance to mic. c. 100 m.bird-seen:yesplayback-used:no</Comments>
+  <Quality>3</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies />
+  <Order>Accipitriformes</Order>
+  <Family>Accipitridae</Family>
+  <Genus>Spizaetus</Genus>
+  <Species>tyrannus</Species>
+  <Sub-species />
+  <VernacularNames>Black Hawk-Eagle</VernacularNames>
+</Audio>

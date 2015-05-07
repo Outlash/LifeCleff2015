@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>13734</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN13734.wav</FileName>
+  <ClassId>vxjqml</ClassId>
+  <Date>2010-09-22</Date>
+  <Time>7:31</Time>
+  <Locality>Jardim Botânico, Londrina - PR</Locality>
+  <Latitude>-23.3512</Latitude>
+  <Longitude>-51.1673</Longitude>
+  <Elevation>600</Elevation>
+  <Author>Renan Campos de Oliveira</Author>
+  <AuthorID>SDARDTGGWP</AuthorID>
+  <Content>Song</Content>
+  <Comments />
+  <Quality>1</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Tyrannidae</Family>
+  <Genus>Corythopis</Genus>
+  <Species>delalandi</Species>
+  <Sub-species />
+  <VernacularNames>Southern Antpipit</VernacularNames>
+</Audio>

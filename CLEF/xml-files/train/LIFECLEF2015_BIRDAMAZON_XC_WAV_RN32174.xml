@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>32174</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN32174.wav</FileName>
+  <ClassId>ipvlig</ClassId>
+  <Date>2005-06-20</Date>
+  <Time>5:51</Time>
+  <Locality>PNN Chingaza, Sector monteredonde</Locality>
+  <Latitude>4.5167</Latitude>
+  <Longitude>-73.7501</Longitude>
+  <Elevation>2800</Elevation>
+  <Author>Oscar Laverde</Author>
+  <AuthorID>WKVKSVMNDZ</AuthorID>
+  <Content>song</Content>
+  <Comments />
+  <Quality>1</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies>Mecocerculus leucophrys</BackgroundSpecies>
+  <Order>Passeriformes</Order>
+  <Family>Parulidae</Family>
+  <Genus>Myioborus</Genus>
+  <Species>ornatus</Species>
+  <Sub-species />
+  <VernacularNames>Golden-fronted Whitestart</VernacularNames>
+</Audio>

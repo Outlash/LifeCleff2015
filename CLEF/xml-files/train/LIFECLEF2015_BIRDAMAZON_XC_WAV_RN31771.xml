@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>31771</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN31771.wav</FileName>
+  <ClassId>buacoa</ClassId>
+  <Date>2011-03-07</Date>
+  <Time>16:20</Time>
+  <Locality>Voltzberg, Raleighvallen National Park</Locality>
+  <Latitude>4.68333</Latitude>
+  <Longitude>-56.16667</Longitude>
+  <Elevation>60</Elevation>
+  <Author>Daniel Lane</Author>
+  <AuthorID>WOEAFQRMUD</AuthorID>
+  <Content>song</Content>
+  <Comments>Response to playback from male in understory of short-stature, viney forest at bottom of hill.</Comments>
+  <Quality>2</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies>Percnostola rufifrons,Hypocnemis cantator</BackgroundSpecies>
+  <Order>Passeriformes</Order>
+  <Family>Thamnophilidae</Family>
+  <Genus>Cercomacra</Genus>
+  <Species>tyrannina</Species>
+  <Sub-species>saturatior</Sub-species>
+  <VernacularNames>Dusky Antbird</VernacularNames>
+</Audio>

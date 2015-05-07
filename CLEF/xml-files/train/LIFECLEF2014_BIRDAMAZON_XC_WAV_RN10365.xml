@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>10365</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN10365.wav</FileName>
+  <ClassId>fmdsaj</ClassId>
+  <Date>2013-06-09</Date>
+  <Time>09:00</Time>
+  <Locality>Paraibuna, São Paulo</Locality>
+  <Latitude>-23.5797</Latitude>
+  <Longitude>-45.5474</Longitude>
+  <Elevation>800</Elevation>
+  <Author>Rodrigo Dela Rosa</Author>
+  <AuthorID>VGXDJMKETZ</AuthorID>
+  <Content>song</Content>
+  <Comments>bird-seen:yesplayback-used:yes</Comments>
+  <Quality>2</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Tyrannidae</Family>
+  <Genus>Piprites</Genus>
+  <Species>chloris</Species>
+  <Sub-species />
+  <VernacularNames>Wing-barred Piprites</VernacularNames>
+</Audio>

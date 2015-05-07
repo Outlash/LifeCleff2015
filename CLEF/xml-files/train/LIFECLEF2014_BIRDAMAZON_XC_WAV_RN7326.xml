@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>7326</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN7326.wav</FileName>
+  <ClassId>dvcjbu</ClassId>
+  <Date>2011-12-03</Date>
+  <Time>00:00</Time>
+  <Locality>Reserva Ecológica de Guapi Açu (REGUA), RJ</Locality>
+  <Latitude>-22.4508</Latitude>
+  <Longitude>-42.7735</Longitude>
+  <Elevation>30</Elevation>
+  <Author>Eric DeFonso</Author>
+  <AuthorID>KTLCZCRCQX</AuthorID>
+  <Content>song</Content>
+  <Comments>Extended cut of a duetting pair in a tall tree near the volunteer dorms.bird-seen:noplayback-used:no</Comments>
+  <Quality>1</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies />
+  <Order>Strigiformes</Order>
+  <Family>Strigidae</Family>
+  <Genus>Pulsatrix</Genus>
+  <Species>koeniswaldiana</Species>
+  <Sub-species />
+  <VernacularNames>Tawny-browed Owl</VernacularNames>
+</Audio>

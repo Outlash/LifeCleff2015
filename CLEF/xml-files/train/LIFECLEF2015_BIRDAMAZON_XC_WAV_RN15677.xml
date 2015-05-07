@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>15677</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN15677.wav</FileName>
+  <ClassId>qdnved</ClassId>
+  <Date>2010-12-02</Date>
+  <Time>?</Time>
+  <Locality>bolivar, El Pauji road, Uaiparu</Locality>
+  <Latitude>NULL</Latitude>
+  <Longitude>NULL</Longitude>
+  <Elevation>?</Elevation>
+  <Author>Alexandre Renaudier</Author>
+  <AuthorID>GKADEITXTH</AuthorID>
+  <Content>call</Content>
+  <Comments>in response to playback</Comments>
+  <Quality>1</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies>Amazona amazonica,Saltator maximus,Capito auratus</BackgroundSpecies>
+  <Order>Passeriformes</Order>
+  <Family>Tyrannidae</Family>
+  <Genus>Colonia</Genus>
+  <Species>colonus</Species>
+  <Sub-species />
+  <VernacularNames>Long-tailed Tyrant</VernacularNames>
+</Audio>

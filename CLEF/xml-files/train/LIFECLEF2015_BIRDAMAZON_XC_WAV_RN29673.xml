@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>29673</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN29673.wav</FileName>
+  <ClassId>fakmli</ClassId>
+  <Date>2007-09-20</Date>
+  <Time>?</Time>
+  <Locality>Parque Nacional do Itatiaia, Rio de Janeiro</Locality>
+  <Latitude>-22.4902</Latitude>
+  <Longitude>-44.5679</Longitude>
+  <Elevation>?</Elevation>
+  <Author>Diego Caiafa</Author>
+  <AuthorID>AFYLJUDWMT</AuthorID>
+  <Content>song</Content>
+  <Comments>bird-seen:yesplayback-used:no</Comments>
+  <Quality>0</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Tyrannidae</Family>
+  <Genus>Platyrinchus</Genus>
+  <Species>mystaceus</Species>
+  <Sub-species>mystaceus</Sub-species>
+  <VernacularNames>White-throated Spadebill</VernacularNames>
+</Audio>

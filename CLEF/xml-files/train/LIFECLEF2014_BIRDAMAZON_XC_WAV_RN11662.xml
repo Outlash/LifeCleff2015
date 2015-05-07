@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>11662</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN11662.wav</FileName>
+  <ClassId>vnmlmt</ClassId>
+  <Date>2006-09-29</Date>
+  <Time>06:10</Time>
+  <Locality>Usina Zillo Lorenzetti - Quatá, Sao Paulo State</Locality>
+  <Latitude>-22.2589</Latitude>
+  <Longitude>-50.7089</Longitude>
+  <Elevation>550</Elevation>
+  <Author>Guilherme R R Brito</Author>
+  <AuthorID>OAYOBWYOOM</AuthorID>
+  <Content>song</Content>
+  <Comments>male - playback response</Comments>
+  <Quality>1</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Thamnophilidae</Family>
+  <Genus>Thamnophilus</Genus>
+  <Species>doliatus</Species>
+  <Sub-species />
+  <VernacularNames>Barred Antshrike</VernacularNames>
+</Audio>

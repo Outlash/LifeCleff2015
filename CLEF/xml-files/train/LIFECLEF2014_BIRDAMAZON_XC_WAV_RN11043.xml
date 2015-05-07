@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>11043</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN11043.wav</FileName>
+  <ClassId>nlducw</ClassId>
+  <Date>2012-08-28</Date>
+  <Time>?</Time>
+  <Locality>Parque Estadual Lago Azul,Campo Mourao, Paraná</Locality>
+  <Latitude>-24.331</Latitude>
+  <Longitude>-52.387</Longitude>
+  <Elevation>630</Elevation>
+  <Author>Luiz C.Silva</Author>
+  <AuthorID>ORPKXJRFDZ</AuthorID>
+  <Content>chamados/calls</Content>
+  <Comments>Não avistada/unseen</Comments>
+  <Quality>3</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Tyrannidae</Family>
+  <Genus>Contopus</Genus>
+  <Species>cinereus</Species>
+  <Sub-species />
+  <VernacularNames>Tropical Pewee</VernacularNames>
+</Audio>

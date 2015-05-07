@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>20889</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN20889.wav</FileName>
+  <ClassId>nkotzb</ClassId>
+  <Date>2011-06-25</Date>
+  <Time>07:29</Time>
+  <Locality>Panato - Awala - French Guiana</Locality>
+  <Latitude>NULL</Latitude>
+  <Longitude>NULL</Longitude>
+  <Elevation>0</Elevation>
+  <Author>Patrick Ingremeau</Author>
+  <AuthorID>IIVTYSKEYX</AuthorID>
+  <Content>song</Content>
+  <Comments />
+  <Quality>1</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Tyrannidae</Family>
+  <Genus>Attila</Genus>
+  <Species>cinnamomeus</Species>
+  <Sub-species />
+  <VernacularNames>Cinnamon Attila</VernacularNames>
+</Audio>

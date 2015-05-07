@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>25390</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN25390.wav</FileName>
+  <ClassId>dlrpwn</ClassId>
+  <Date>2010-05-17</Date>
+  <Time>15:28</Time>
+  <Locality>Pantanal do Miranda - MS</Locality>
+  <Latitude>-19.5512</Latitude>
+  <Longitude>-57.012</Longitude>
+  <Elevation>100</Elevation>
+  <Author>Renan Campos de Oliveira</Author>
+  <AuthorID>SDARDTGGWP</AuthorID>
+  <Content>call</Content>
+  <Comments />
+  <Quality>1</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Corvidae</Family>
+  <Genus>Cyanocorax</Genus>
+  <Species>cyanomelas</Species>
+  <Sub-species />
+  <VernacularNames>Purplish Jay</VernacularNames>
+</Audio>

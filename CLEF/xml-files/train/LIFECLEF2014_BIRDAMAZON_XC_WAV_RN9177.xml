@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>9177</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN9177.wav</FileName>
+  <ClassId>sjrtzw</ClassId>
+  <Date>2007-10-03</Date>
+  <Time>22:13</Time>
+  <Locality>Parque Estadual Intervales, SP</Locality>
+  <Latitude>-24.2759</Latitude>
+  <Longitude>-48.4181</Longitude>
+  <Elevation>850</Elevation>
+  <Author>Nick Athanas</Author>
+  <AuthorID>XRABICUARW</AuthorID>
+  <Content>song</Content>
+  <Comments>Response to playback. Interval shortened (original interval was 1m12s.)</Comments>
+  <Quality>1</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies />
+  <Order>Strigiformes</Order>
+  <Family>Strigidae</Family>
+  <Genus>Strix</Genus>
+  <Species>hylophila</Species>
+  <Sub-species />
+  <VernacularNames>Rusty-barred Owl</VernacularNames>
+</Audio>

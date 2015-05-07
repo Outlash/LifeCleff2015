@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>7366</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN7366.wav</FileName>
+  <ClassId>dkecip</ClassId>
+  <Date>2011-02-02</Date>
+  <Time>06:30</Time>
+  <Locality>Bacia 157, Santarém, PA</Locality>
+  <Latitude>-2.8328</Latitude>
+  <Longitude>-54.4928</Longitude>
+  <Elevation>?</Elevation>
+  <Author>Nargila Moura</Author>
+  <AuthorID>CWEIBYBYYD</AuthorID>
+  <Content>call</Content>
+  <Comments>pasture</Comments>
+  <Quality>3</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies>Elaenia flavogaster,Sporophila americana</BackgroundSpecies>
+  <Order>Passeriformes</Order>
+  <Family>Tyrannidae</Family>
+  <Genus>Myiophobus</Genus>
+  <Species>fasciatus</Species>
+  <Sub-species>flammiceps</Sub-species>
+  <VernacularNames>Bran-colored Flycatcher</VernacularNames>
+</Audio>

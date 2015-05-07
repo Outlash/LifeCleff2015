@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>25548</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN25548.wav</FileName>
+  <ClassId>vrurmm</ClassId>
+  <Date>2010-03-06</Date>
+  <Time>18:30</Time>
+  <Locality>Leopoldo de Bulhões,  Goiás.</Locality>
+  <Latitude>NULL</Latitude>
+  <Longitude>NULL</Longitude>
+  <Elevation>960</Elevation>
+  <Author>Nunes D´A costa</Author>
+  <AuthorID>OHHTDSDNBT</AuthorID>
+  <Content>song</Content>
+  <Comments>Vocalizando  ás margens do Rio dos Bois,  Leopoldo de Bulhões, Goiás.</Comments>
+  <Quality>2</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Strigiformes</Order>
+  <Family>Strigidae</Family>
+  <Genus>Bubo</Genus>
+  <Species>virginianus</Species>
+  <Sub-species />
+  <VernacularNames>Great Horned Owl</VernacularNames>
+</Audio>

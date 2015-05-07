@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>28257</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN28257.wav</FileName>
+  <ClassId>arlrfh</ClassId>
+  <Date>2000-04-16</Date>
+  <Time>pm</Time>
+  <Locality>Finca La Pradera, Parroquia Remolinos, Municipio Puerto Lopez, Meta</Locality>
+  <Latitude>NULL</Latitude>
+  <Longitude>NULL</Longitude>
+  <Elevation>?</Elevation>
+  <Author>Bernabe Lopez-Lanus</Author>
+  <AuthorID>BYLLSJRVDZ</AuthorID>
+  <Content>call</Content>
+  <Comments />
+  <Quality>1</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Cuculiformes</Order>
+  <Family>Cuculidae</Family>
+  <Genus>Crotophaga</Genus>
+  <Species>major</Species>
+  <Sub-species />
+  <VernacularNames>Greater Ani</VernacularNames>
+</Audio>

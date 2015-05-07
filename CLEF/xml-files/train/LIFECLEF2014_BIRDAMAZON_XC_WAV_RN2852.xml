@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>2852</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN2852.wav</FileName>
+  <ClassId>xiyuxl</ClassId>
+  <Date>2013-10-10</Date>
+  <Time>17:30</Time>
+  <Locality>Campo Mourao, Paraná.</Locality>
+  <Latitude>-24.0458</Latitude>
+  <Longitude>-52.3828</Longitude>
+  <Elevation>600</Elevation>
+  <Author>Luiz C.  Silva</Author>
+  <AuthorID>ORPKXJRFDZ</AuthorID>
+  <Content>call</Content>
+  <Comments>Very close.bird-seen:noplayback-used:no</Comments>
+  <Quality>1</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Furnariidae</Family>
+  <Genus>Syndactyla</Genus>
+  <Species>rufosuperciliata</Species>
+  <Sub-species />
+  <VernacularNames>Buff-browed Foliage-gleaner</VernacularNames>
+</Audio>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>17125</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN17125.wav</FileName>
+  <ClassId>nnbhgj</ClassId>
+  <Date>2011-12-07</Date>
+  <Time>05:14</Time>
+  <Locality>Estrada do Mingú, Rio Acima, Minas Gerais</Locality>
+  <Latitude>-20.0663</Latitude>
+  <Longitude>-43.7712</Longitude>
+  <Elevation>1000</Elevation>
+  <Author>Luiz Gabriel Mazzoni</Author>
+  <AuthorID>MPOKMOFDDX</AuthorID>
+  <Content>song</Content>
+  <Comments>bird-seen:yesplayback-used:yes</Comments>
+  <Quality>1</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies>Vireo olivaceus,Thamnophilus caerulescens,Corythopis delalandi,Dysithamnus mentalis</BackgroundSpecies>
+  <Order>Piciformes</Order>
+  <Family>Bucconidae</Family>
+  <Genus>Nonnula</Genus>
+  <Species>rubecula</Species>
+  <Sub-species />
+  <VernacularNames>Rusty-breasted Nunlet</VernacularNames>
+</Audio>

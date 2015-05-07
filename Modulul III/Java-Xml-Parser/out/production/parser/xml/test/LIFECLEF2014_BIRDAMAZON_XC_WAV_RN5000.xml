@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>5000</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN5000.wav</FileName>
+  <Date>2004-02-23</Date>
+  <Time>xx:xx</Time>
+  <Locality>Parque Nacional Itatiaia (Hotel Simon), Rio de Janeiro</Locality>
+  <Latitude>NULL</Latitude>
+  <Longitude>NULL</Longitude>
+  <Elevation>1080</Elevation>
+  <Author>Bernabe Lopez-Lanus</Author>
+  <AuthorID>BYLLSJRVDZ</AuthorID>
+  <Year>BirdCLEF2014</Year>
+</Audio>

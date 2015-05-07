@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>17136</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN17136.wav</FileName>
+  <ClassId>yjdnmm</ClassId>
+  <Date>2013-11-02</Date>
+  <Time>20:00</Time>
+  <Locality>PNN Cueva de los Guácharos, Acevedo, Huila</Locality>
+  <Latitude>1.6169</Latitude>
+  <Longitude>-76.1002</Longitude>
+  <Elevation>2000</Elevation>
+  <Author>Oswaldo Cortes</Author>
+  <AuthorID>VVDRVZCVWW</AuthorID>
+  <Content>song</Content>
+  <Comments>bird-seen:yesplayback-used:no</Comments>
+  <Quality>2</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies>Troglodytes aedon</BackgroundSpecies>
+  <Order>Galliformes</Order>
+  <Family>Cracidae</Family>
+  <Genus>Ortalis</Genus>
+  <Species>columbiana</Species>
+  <Sub-species />
+  <VernacularNames>Colombian Chachalaca</VernacularNames>
+</Audio>

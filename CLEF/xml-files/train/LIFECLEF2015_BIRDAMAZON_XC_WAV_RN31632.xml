@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>31632</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN31632.wav</FileName>
+  <ClassId>ipvlig</ClassId>
+  <Date>2008-02-09</Date>
+  <Time>13:15</Time>
+  <Locality>Jardin, Antioquia</Locality>
+  <Latitude>5.736243</Latitude>
+  <Longitude>-75.86608</Longitude>
+  <Elevation>2800</Elevation>
+  <Author>Herman van Oosten</Author>
+  <AuthorID>SNUDCZVUQK</AuthorID>
+  <Content>call</Content>
+  <Comments>Beautiful birds and best I apparently have!</Comments>
+  <Quality>0</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Parulidae</Family>
+  <Genus>Myioborus</Genus>
+  <Species>ornatus</Species>
+  <Sub-species />
+  <VernacularNames>Golden-fronted Whitestart</VernacularNames>
+</Audio>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>23867</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN23867.wav</FileName>
+  <ClassId>iqvfgo</ClassId>
+  <Date>2011-05-30</Date>
+  <Time>16:00</Time>
+  <Locality>São José dos Campos, São Paulo</Locality>
+  <Latitude>-23.1791</Latitude>
+  <Longitude>-45.8244</Longitude>
+  <Elevation>600</Elevation>
+  <Author>Tomaz Nascimento de Melo</Author>
+  <AuthorID>BRGFQCGOEP</AuthorID>
+  <Content>song</Content>
+  <Comments>At the edge of a pasture.bird-seen:yesplayback-used:no</Comments>
+  <Quality>2</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Accipitriformes</Order>
+  <Family>Accipitridae</Family>
+  <Genus>Buteogallus</Genus>
+  <Species>meridionalis</Species>
+  <Sub-species />
+  <VernacularNames>Savanna Hawk</VernacularNames>
+</Audio>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>3013</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN3013.wav</FileName>
+  <ClassId>qgrzoy</ClassId>
+  <Date>2010-06-06</Date>
+  <Time>08:30</Time>
+  <Locality>Careiro, Amazonas</Locality>
+  <Latitude>-3.4915</Latitude>
+  <Longitude>-59.9304</Longitude>
+  <Elevation>20</Elevation>
+  <Author>GABRIEL LEITE</Author>
+  <AuthorID>TGBFXDVERJ</AuthorID>
+  <Content>call</Content>
+  <Comments>bird-seen:noplayback-used:no</Comments>
+  <Quality>3</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Tyrannidae</Family>
+  <Genus>Hemitriccus</Genus>
+  <Species>griseipectus</Species>
+  <Sub-species />
+  <VernacularNames>White-bellied Tody-Tyrant</VernacularNames>
+</Audio>

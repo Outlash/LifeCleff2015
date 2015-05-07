@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>20852</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN20852.wav</FileName>
+  <ClassId>mgeafu</ClassId>
+  <Date>2011-08-15</Date>
+  <Time>08:00</Time>
+  <Locality>Tibacuy, Cuchilla del Quinini, Cundinamarca</Locality>
+  <Latitude>NULL</Latitude>
+  <Longitude>NULL</Longitude>
+  <Elevation>1500</Elevation>
+  <Author>Oswaldo Cortes</Author>
+  <AuthorID>VVDRVZCVWW</AuthorID>
+  <Content>song</Content>
+  <Comments />
+  <Quality>0</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Fringillidae</Family>
+  <Genus>Euphonia</Genus>
+  <Species>concinna</Species>
+  <Sub-species />
+  <VernacularNames>Velvet-fronted Euphonia</VernacularNames>
+</Audio>

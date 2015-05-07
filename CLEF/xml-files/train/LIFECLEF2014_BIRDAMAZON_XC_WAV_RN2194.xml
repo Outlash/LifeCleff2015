@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>2194</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN2194.wav</FileName>
+  <ClassId>ojdrck</ClassId>
+  <Date>2006-07-23</Date>
+  <Time>8:00</Time>
+  <Locality>southern Minas Gerais, southern to Serra da Babilonia</Locality>
+  <Latitude>-20.3667</Latitude>
+  <Longitude>-46.5667</Longitude>
+  <Elevation>800</Elevation>
+  <Author>Gustavo S Cabanne &amp; Frank Rheindt</Author>
+  <AuthorID>XXVEEPYYBD</AuthorID>
+  <Content>song</Content>
+  <Comments />
+  <Quality>2</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies>Gallus gallus</BackgroundSpecies>
+  <Order>Passeriformes</Order>
+  <Family>Furnariidae</Family>
+  <Genus>Phacellodomus</Genus>
+  <Species>rufifrons</Species>
+  <Sub-species />
+  <VernacularNames>Rufous-fronted Thornbird</VernacularNames>
+</Audio>

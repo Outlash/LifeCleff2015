@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>10775</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN10775.wav</FileName>
+  <ClassId>gncrmz</ClassId>
+  <Date>2001-04-18</Date>
+  <Time>11:45</Time>
+  <Locality>Cachoeira Rio Ferro Doido, Morro do Chapéu, Bahia</Locality>
+  <Latitude>NULL</Latitude>
+  <Longitude>NULL</Longitude>
+  <Elevation>?</Elevation>
+  <Author>Rolf A. de By</Author>
+  <AuthorID>PTYTXQRLSZ</AuthorID>
+  <Content>song</Content>
+  <Comments />
+  <Quality>0</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Thamnophilidae</Family>
+  <Genus>Pyriglena</Genus>
+  <Species>leucoptera</Species>
+  <Sub-species />
+  <VernacularNames>White-shouldered Fire-eye</VernacularNames>
+</Audio>

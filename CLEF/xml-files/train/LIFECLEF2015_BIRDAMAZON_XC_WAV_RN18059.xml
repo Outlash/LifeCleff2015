@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>18059</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN18059.wav</FileName>
+  <ClassId>busuhu</ClassId>
+  <Date>2008-10-10</Date>
+  <Time>07:30</Time>
+  <Locality>Cumaribo, Vichada</Locality>
+  <Latitude>5.1304</Latitude>
+  <Longitude>-68.3063</Longitude>
+  <Elevation>110</Elevation>
+  <Author>Oswaldo Cortes</Author>
+  <AuthorID>VVDRVZCVWW</AuthorID>
+  <Content>song</Content>
+  <Comments>bird-seen:yes</Comments>
+  <Quality>3</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Tyrannidae</Family>
+  <Genus>Atalotriccus</Genus>
+  <Species>pilaris</Species>
+  <Sub-species />
+  <VernacularNames>Pale-eyed Pygmy Tyrant</VernacularNames>
+</Audio>

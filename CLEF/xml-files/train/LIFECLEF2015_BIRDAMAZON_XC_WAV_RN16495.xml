@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>16495</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN16495.wav</FileName>
+  <ClassId>czoixh</ClassId>
+  <Date>2008-08-14</Date>
+  <Time>21:00</Time>
+  <Locality>Serra dos Carajás, PA</Locality>
+  <Latitude>-6.1603</Latitude>
+  <Longitude>-50.3459</Longitude>
+  <Elevation>400</Elevation>
+  <Author>Sidnei Dantas</Author>
+  <AuthorID>NNCKQMBGPH</AuthorID>
+  <Content>call</Content>
+  <Comments>land forest, on canopy. Not seen. There are short 'songs' of M. watsonii.</Comments>
+  <Quality>2</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies>Megascops watsonii</BackgroundSpecies>
+  <Order>Strigiformes</Order>
+  <Family>Strigidae</Family>
+  <Genus>Strix</Genus>
+  <Species>huhula</Species>
+  <Sub-species />
+  <VernacularNames>Black-banded Owl</VernacularNames>
+</Audio>

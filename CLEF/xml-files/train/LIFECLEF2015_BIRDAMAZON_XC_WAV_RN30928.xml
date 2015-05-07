@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>30928</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN30928.wav</FileName>
+  <ClassId>xiuiqd</ClassId>
+  <Date>2008-01-24</Date>
+  <Time>09:00</Time>
+  <Locality>Agua Blanca, about 10 km NE, Portuguesa</Locality>
+  <Latitude>9.6978</Latitude>
+  <Longitude>-69.0273</Longitude>
+  <Elevation>220</Elevation>
+  <Author>Daniel Lane</Author>
+  <AuthorID>WOEAFQRMUD</AuthorID>
+  <Content>call</Content>
+  <Comments>Spit' calls from male after flying off of road and into bush.</Comments>
+  <Quality>2</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies>Columbina talpacoti,Picumnus squamulatus,Columbina squammata,Gallus gallus,Eupsittula pertinax</BackgroundSpecies>
+  <Order>Passeriformes</Order>
+  <Family>Thraupidae</Family>
+  <Genus>Coryphospingus</Genus>
+  <Species>pileatus</Species>
+  <Sub-species />
+  <VernacularNames>Grey Pileated Finch</VernacularNames>
+</Audio>

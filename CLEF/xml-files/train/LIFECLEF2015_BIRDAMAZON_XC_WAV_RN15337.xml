@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>15337</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN15337.wav</FileName>
+  <ClassId>pbswuq</ClassId>
+  <Date>2013-12-24</Date>
+  <Time>08:00</Time>
+  <Locality>Juiz de Fora, Minas Gerais</Locality>
+  <Latitude>-21.765</Latitude>
+  <Longitude>-43.3488</Longitude>
+  <Elevation>700</Elevation>
+  <Author>Noé Eiterer</Author>
+  <AuthorID>TWSKITNQOV</AuthorID>
+  <Content>song</Content>
+  <Comments>bird-seen:yesplayback-used:yes</Comments>
+  <Quality>1</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Thraupidae</Family>
+  <Genus>Embernagra</Genus>
+  <Species>platensis</Species>
+  <Sub-species />
+  <VernacularNames>Pampa Finch</VernacularNames>
+</Audio>

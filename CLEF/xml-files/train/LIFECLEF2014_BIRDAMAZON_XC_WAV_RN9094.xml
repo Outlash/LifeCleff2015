@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>9094</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN9094.wav</FileName>
+  <ClassId>cxxjnh</ClassId>
+  <Date>2007-08-23</Date>
+  <Time>07:00</Time>
+  <Locality>Anavilhanas Jungle Lodge, municipality of Novo Airão, right bank of Ne</Locality>
+  <Latitude>NULL</Latitude>
+  <Longitude>NULL</Longitude>
+  <Elevation>?</Elevation>
+  <Author>Thiago Vernaschi V. Costa</Author>
+  <AuthorID>FPHQAPNAFU</AuthorID>
+  <Content>song</Content>
+  <Comments />
+  <Quality>3</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies>Rhytipterna simplex</BackgroundSpecies>
+  <Order>Passeriformes</Order>
+  <Family>Tityridae</Family>
+  <Genus>Pachyramphus</Genus>
+  <Species>marginatus</Species>
+  <Sub-species />
+  <VernacularNames>Black-capped Becard</VernacularNames>
+</Audio>

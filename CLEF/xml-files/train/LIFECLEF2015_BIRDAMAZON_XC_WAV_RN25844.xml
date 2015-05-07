@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>25844</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN25844.wav</FileName>
+  <ClassId>vsywgi</ClassId>
+  <Date>2010-08-09</Date>
+  <Time>07:54</Time>
+  <Locality>Paragominas, PA, Brazil, Bacia 235</Locality>
+  <Latitude>-3.0975</Latitude>
+  <Longitude>-47.3167</Longitude>
+  <Elevation>?</Elevation>
+  <Author>Nargila Moura</Author>
+  <AuthorID>CWEIBYBYYD</AuthorID>
+  <Content>call</Content>
+  <Comments>selectively-logged primary forest</Comments>
+  <Quality>3</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Psittaciformes</Order>
+  <Family>Psittacidae</Family>
+  <Genus>Ara</Genus>
+  <Species>macao</Species>
+  <Sub-species />
+  <VernacularNames>Scarlet Macaw</VernacularNames>
+</Audio>

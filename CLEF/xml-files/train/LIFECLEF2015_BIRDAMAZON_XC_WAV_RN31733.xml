@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>31733</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN31733.wav</FileName>
+  <ClassId>loriov</ClassId>
+  <Date>2007-07-07</Date>
+  <Time>19:00</Time>
+  <Locality>Parque Nacional San Esteban. San Esteban, Puerto Cabello,  Edo. Carabobo</Locality>
+  <Latitude>10.4248</Latitude>
+  <Longitude>-68.0118</Longitude>
+  <Elevation>40</Elevation>
+  <Author>OSWALDO RAMOS</Author>
+  <AuthorID>OKVGIBGWHG</AuthorID>
+  <Content>song</Content>
+  <Comments>bird-seen:no</Comments>
+  <Quality>3</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Strigiformes</Order>
+  <Family>Strigidae</Family>
+  <Genus>Pulsatrix</Genus>
+  <Species>perspicillata</Species>
+  <Sub-species />
+  <VernacularNames>Spectacled Owl</VernacularNames>
+</Audio>

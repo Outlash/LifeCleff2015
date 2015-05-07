@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>12122</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN12122.wav</FileName>
+  <ClassId>jeidcr</ClassId>
+  <Date>2004-10-25</Date>
+  <Time>05:42</Time>
+  <Locality>Ubatuba, SP. Fazenda Angelim</Locality>
+  <Latitude>-23.4334</Latitude>
+  <Longitude>-45.1167</Longitude>
+  <Elevation>30</Elevation>
+  <Author>Jeremy Minns</Author>
+  <AuthorID>DGVLLRYDXS</AuthorID>
+  <Content>call, song</Content>
+  <Comments>Open area in coastal forest. Vocalizing on a tall isolated tree.</Comments>
+  <Quality>2</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies>Tapera naevia,Attila rufus,Vireo olivaceus</BackgroundSpecies>
+  <Order>Passeriformes</Order>
+  <Family>Thraupidae</Family>
+  <Genus>Thraupis</Genus>
+  <Species>palmarum</Species>
+  <Sub-species>palmarum</Sub-species>
+  <VernacularNames>Palm Tanager</VernacularNames>
+</Audio>

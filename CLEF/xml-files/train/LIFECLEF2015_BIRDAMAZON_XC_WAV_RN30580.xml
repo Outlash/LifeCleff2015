@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>30580</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN30580.wav</FileName>
+  <ClassId>oozajf</ClassId>
+  <Date>2011-10-08</Date>
+  <Time>16:00</Time>
+  <Locality>Urussanga, Santa Catarina</Locality>
+  <Latitude>-28.5186</Latitude>
+  <Longitude>-49.3243</Longitude>
+  <Elevation>60</Elevation>
+  <Author>João Antônio de B. Vitto</Author>
+  <AuthorID>RIVNLYTULO</AuthorID>
+  <Content>call</Content>
+  <Comments>bird-seen:noplayback-used:no</Comments>
+  <Quality>0</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Tinamiformes</Order>
+  <Family>Tinamidae</Family>
+  <Genus>Crypturellus</Genus>
+  <Species>obsoletus</Species>
+  <Sub-species />
+  <VernacularNames>Brown Tinamou</VernacularNames>
+</Audio>

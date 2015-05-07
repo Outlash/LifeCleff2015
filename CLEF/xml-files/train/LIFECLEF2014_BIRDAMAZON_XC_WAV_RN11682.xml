@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>11682</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN11682.wav</FileName>
+  <ClassId>oozajf</ClassId>
+  <Date>2012-09-10</Date>
+  <Time>17:30</Time>
+  <Locality>Nova Veneza, Santa Catarina state, Brazil</Locality>
+  <Latitude>-28.6301</Latitude>
+  <Longitude>-49.5073</Longitude>
+  <Elevation>100</Elevation>
+  <Author>João Gava</Author>
+  <AuthorID>CEKMJEZKSJ</AuthorID>
+  <Content>song</Content>
+  <Comments>bird-seen:noplayback-used:no</Comments>
+  <Quality>2</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies />
+  <Order>Tinamiformes</Order>
+  <Family>Tinamidae</Family>
+  <Genus>Crypturellus</Genus>
+  <Species>obsoletus</Species>
+  <Sub-species />
+  <VernacularNames>Brown Tinamou</VernacularNames>
+</Audio>

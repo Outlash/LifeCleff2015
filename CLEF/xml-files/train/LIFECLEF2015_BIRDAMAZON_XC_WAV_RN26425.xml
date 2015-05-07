@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>26425</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN26425.wav</FileName>
+  <ClassId>dxrogt</ClassId>
+  <Date>2009-09-26</Date>
+  <Time>09:00</Time>
+  <Locality>Tena, Laguna de pedro palo, Cundinamarca</Locality>
+  <Latitude>4.6501</Latitude>
+  <Longitude>-74.3834</Longitude>
+  <Elevation>1900</Elevation>
+  <Author>Oswaldo Cortes</Author>
+  <AuthorID>VVDRVZCVWW</AuthorID>
+  <Content>song</Content>
+  <Comments />
+  <Quality>4</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies>Rupornis magnirostris</BackgroundSpecies>
+  <Order>Passeriformes</Order>
+  <Family>Fringillidae</Family>
+  <Genus>Spinus</Genus>
+  <Species>psaltria</Species>
+  <Sub-species />
+  <VernacularNames>Lesser Goldfinch</VernacularNames>
+</Audio>

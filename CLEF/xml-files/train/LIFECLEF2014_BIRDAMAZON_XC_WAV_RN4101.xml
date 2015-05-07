@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>4101</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN4101.wav</FileName>
+  <ClassId>breyju</ClassId>
+  <Date>2013-01-10</Date>
+  <Time>08:30</Time>
+  <Locality>Montes Claros, Minas Gerais</Locality>
+  <Latitude>-16.7369</Latitude>
+  <Longitude>-43.8652</Longitude>
+  <Elevation>650</Elevation>
+  <Author>Paulo Ricardo Siqueira</Author>
+  <AuthorID>XFUFDXVFNP</AuthorID>
+  <Content>song</Content>
+  <Comments>bird-seen:yesplayback-used:yes</Comments>
+  <Quality>2</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Emberizidae</Family>
+  <Genus>Arremon</Genus>
+  <Species>franciscanus</Species>
+  <Sub-species />
+  <VernacularNames>Sao Francisco Sparrow</VernacularNames>
+</Audio>

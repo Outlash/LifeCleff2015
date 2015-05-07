@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>19878</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN19878.wav</FileName>
+  <ClassId>wyhvpw</ClassId>
+  <Date>2010-04-23</Date>
+  <Time>07:34</Time>
+  <Locality>Pains- Minas Gerais State</Locality>
+  <Latitude>NULL</Latitude>
+  <Longitude>NULL</Longitude>
+  <Elevation>800</Elevation>
+  <Author>Helberth Cardoso</Author>
+  <AuthorID>XIRUVWSNEN</AuthorID>
+  <Content>Chorus</Content>
+  <Comments />
+  <Quality>1</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Psittaciformes</Order>
+  <Family>Psittacidae</Family>
+  <Genus>Aratinga</Genus>
+  <Species>auricapillus</Species>
+  <Sub-species />
+  <VernacularNames>Golden-capped Parakeet</VernacularNames>
+</Audio>

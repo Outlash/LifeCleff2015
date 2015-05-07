@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>11996</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN11996.wav</FileName>
+  <ClassId>hgmqff</ClassId>
+  <Date>2009-09-29</Date>
+  <Time>7:30</Time>
+  <Locality>Mata do Estado, São Vicente Férrer, Pernambuco</Locality>
+  <Latitude>-7.6167</Latitude>
+  <Longitude>-35.5001</Longitude>
+  <Elevation>547</Elevation>
+  <Author>Mauricio Cabral Periquito</Author>
+  <AuthorID>HERKCTHDZI</AuthorID>
+  <Content>song</Content>
+  <Comments />
+  <Quality>5</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Thamnophilidae</Family>
+  <Genus>Myrmeciza</Genus>
+  <Species>ruficauda</Species>
+  <Sub-species>soror</Sub-species>
+  <VernacularNames>Scalloped Antbird</VernacularNames>
+</Audio>

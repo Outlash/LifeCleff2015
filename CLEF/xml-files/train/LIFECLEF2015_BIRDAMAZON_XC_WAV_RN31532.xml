@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>31532</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN31532.wav</FileName>
+  <ClassId>sfzdae</ClassId>
+  <Date>2010-11-08</Date>
+  <Time>08:29</Time>
+  <Locality>Paragominas, PA, Brazil, Bacia 369</Locality>
+  <Latitude>-3.376</Latitude>
+  <Longitude>-47.821</Longitude>
+  <Elevation>?</Elevation>
+  <Author>Alexander Lees</Author>
+  <AuthorID>INDDBZAFJL</AuthorID>
+  <Content>song</Content>
+  <Comments />
+  <Quality>3</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies>Cercomacra cinerascens,Lipaugus vociferans,Hylophilus semicinereus</BackgroundSpecies>
+  <Order>Anseriformes</Order>
+  <Family>Anhimidae</Family>
+  <Genus>Anhima</Genus>
+  <Species>cornuta</Species>
+  <Sub-species />
+  <VernacularNames>Horned Screamer</VernacularNames>
+</Audio>

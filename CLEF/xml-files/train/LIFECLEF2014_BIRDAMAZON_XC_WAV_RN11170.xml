@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>11170</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN11170.wav</FileName>
+  <ClassId>qfjwpy</ClassId>
+  <Date>2009-09-23</Date>
+  <Time>16:00</Time>
+  <Locality>Cristalino Jungle Lodge, MT</Locality>
+  <Latitude>-9.5981</Latitude>
+  <Longitude>-55.932</Longitude>
+  <Elevation>250</Elevation>
+  <Author>Andrew Spencer</Author>
+  <AuthorID>CDTGHVBGZP</AuthorID>
+  <Content>call</Content>
+  <Comments />
+  <Quality>1</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies />
+  <Order>Charadriiformes</Order>
+  <Family>Charadriidae</Family>
+  <Genus>Vanellus</Genus>
+  <Species>chilensis</Species>
+  <Sub-species>lampronotus</Sub-species>
+  <VernacularNames>Southern Lapwing</VernacularNames>
+</Audio>

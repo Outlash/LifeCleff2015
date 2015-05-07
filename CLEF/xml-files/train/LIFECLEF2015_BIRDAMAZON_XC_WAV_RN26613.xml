@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>26613</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN26613.wav</FileName>
+  <ClassId>yyvzjd</ClassId>
+  <Date>2013-09-08</Date>
+  <Time>06:30</Time>
+  <Locality>Cristalino Jungle Lodge, MT</Locality>
+  <Latitude>-9.5981</Latitude>
+  <Longitude>-55.932</Longitude>
+  <Elevation>260</Elevation>
+  <Author>Micah Riegner</Author>
+  <AuthorID>TXYAPFWGKB</AuthorID>
+  <Content>song</Content>
+  <Comments>Calling from midstory of terra firme forest.bird-seen:yesplayback-used:yes</Comments>
+  <Quality>1</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Furnariidae</Family>
+  <Genus>Automolus</Genus>
+  <Species>ochrolaemus</Species>
+  <Sub-species />
+  <VernacularNames>Buff-throated Foliage-gleaner</VernacularNames>
+</Audio>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>26975</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN26975.wav</FileName>
+  <ClassId>hzcyvm</ClassId>
+  <Date>2013-11-02</Date>
+  <Time>08:30</Time>
+  <Locality>PNN Cueva de los Guácharos, Acevedo, Huila</Locality>
+  <Latitude>1.6169</Latitude>
+  <Longitude>-76.1002</Longitude>
+  <Elevation>2000</Elevation>
+  <Author>Oswaldo Cortes</Author>
+  <AuthorID>VVDRVZCVWW</AuthorID>
+  <Content>song</Content>
+  <Comments>bird-seen:yesplayback-used:no</Comments>
+  <Quality>2</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Turdidae</Family>
+  <Genus>Turdus</Genus>
+  <Species>fuscater</Species>
+  <Sub-species />
+  <VernacularNames>Great Thrush</VernacularNames>
+</Audio>

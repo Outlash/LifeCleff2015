@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>4084</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN4084.wav</FileName>
+  <ClassId>cxxjnh</ClassId>
+  <Date>2001-09-24</Date>
+  <Time>06:34</Time>
+  <Locality>Paratí. Patrimônio</Locality>
+  <Latitude>-23.3501</Latitude>
+  <Longitude>-44.7167</Longitude>
+  <Elevation>50</Elevation>
+  <Author>Jeremy Minns</Author>
+  <AuthorID>DGVLLRYDXS</AuthorID>
+  <Content>Song B</Content>
+  <Comments>Humid forest.</Comments>
+  <Quality>2</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies>Chiroxiphia caudata</BackgroundSpecies>
+  <Order>Passeriformes</Order>
+  <Family>Tityridae</Family>
+  <Genus>Pachyramphus</Genus>
+  <Species>marginatus</Species>
+  <Sub-species>marginatus</Sub-species>
+  <VernacularNames>Black-capped Becard</VernacularNames>
+</Audio>

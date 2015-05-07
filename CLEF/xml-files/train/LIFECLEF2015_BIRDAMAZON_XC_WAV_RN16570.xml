@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>16570</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN16570.wav</FileName>
+  <ClassId>szaokc</ClassId>
+  <Date>2006-11-25</Date>
+  <Time>?</Time>
+  <Locality>Caranumba</Locality>
+  <Latitude>NULL</Latitude>
+  <Longitude>NULL</Longitude>
+  <Elevation>50?</Elevation>
+  <Author>Frank Lambert</Author>
+  <AuthorID>YTUXOCTUEM</AuthorID>
+  <Content>song</Content>
+  <Comments />
+  <Quality>3</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Vireonidae</Family>
+  <Genus>Hylophilus</Genus>
+  <Species>pectoralis</Species>
+  <Sub-species />
+  <VernacularNames>Ashy-headed Greenlet</VernacularNames>
+</Audio>

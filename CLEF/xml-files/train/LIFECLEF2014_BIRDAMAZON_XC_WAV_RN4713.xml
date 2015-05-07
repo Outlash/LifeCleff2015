@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>4713</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN4713.wav</FileName>
+  <ClassId>igcdnl</ClassId>
+  <Date>1993-06-10</Date>
+  <Time>7pm</Time>
+  <Locality>Hotel Donati, Itatiaia NP, Rio de Janeiro state</Locality>
+  <Latitude>-22.3798</Latitude>
+  <Longitude>-44.6301</Longitude>
+  <Elevation>950</Elevation>
+  <Author>Antonio Silveira</Author>
+  <AuthorID>NBJQSQJRYH</AuthorID>
+  <Content>song</Content>
+  <Comments>bird-seen:noplayback-used:no</Comments>
+  <Quality>0</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies />
+  <Order>Coraciiformes</Order>
+  <Family>Momotidae</Family>
+  <Genus>Baryphthengus</Genus>
+  <Species>ruficapillus</Species>
+  <Sub-species />
+  <VernacularNames>Rufous-capped Motmot</VernacularNames>
+</Audio>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>1275</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN1275.wav</FileName>
+  <ClassId>lsoxmb</ClassId>
+  <Date>2002-07-19</Date>
+  <Time>15:28</Time>
+  <Locality>Mucugê, Chapada Diamantina, Bahia</Locality>
+  <Latitude>-12.999205</Latitude>
+  <Longitude>-41.363525</Longitude>
+  <Elevation>1100</Elevation>
+  <Author>Jeremy Minns</Author>
+  <AuthorID>DGVLLRYDXS</AuthorID>
+  <Content>Call</Content>
+  <Comments>Road to Andara’. Campo rupestre. This is Call A in our DVD-ROM 'Birds of Brazil'.</Comments>
+  <Quality>2</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies>Ammodramus humeralis</BackgroundSpecies>
+  <Order>Passeriformes</Order>
+  <Family>Mimidae</Family>
+  <Genus>Mimus</Genus>
+  <Species>saturninus</Species>
+  <Sub-species>arenaceus</Sub-species>
+  <VernacularNames>Chalk-browed Mockingbird</VernacularNames>
+</Audio>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>26158</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN26158.wav</FileName>
+  <ClassId>ummihq</ClassId>
+  <Date>2010-01-10</Date>
+  <Time>08:30</Time>
+  <Locality>Santa Cecilia, Serrania de San Lucas</Locality>
+  <Latitude>7.9759</Latitude>
+  <Longitude>-74.2153</Longitude>
+  <Elevation>1550</Elevation>
+  <Author>Thomas Donegan</Author>
+  <AuthorID>OXSIOLJJUP</AuthorID>
+  <Content>Call</Content>
+  <Comments>Forest edge, bird not seen. Best guess but could be Myiarchus tuberculifer alternatively.</Comments>
+  <Quality>3</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Tyrannidae</Family>
+  <Genus>Myiozetetes</Genus>
+  <Species>cayanensis</Species>
+  <Sub-species />
+  <VernacularNames>Rusty-margined Flycatcher</VernacularNames>
+</Audio>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>21653</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN21653.wav</FileName>
+  <ClassId>qvcasw</ClassId>
+  <Date>2011-03-18</Date>
+  <Time>8-00</Time>
+  <Locality>16 km w Barquisimeto</Locality>
+  <Latitude>10.0339</Latitude>
+  <Longitude>-69.5648</Longitude>
+  <Elevation>650</Elevation>
+  <Author>Albert Lastukhin</Author>
+  <AuthorID>LELYWQKUZX</AuthorID>
+  <Content>? call</Content>
+  <Comments>Very similar to the voice (?call 'I-chii...I-chii') from Russia (Identity unknown. mystery mystery (In the mixed forest of the southern taiga, flew in transit, on the tops of trees (as a bird from tree to tree), and screamed. Such a cry I had never heard of these places ... )) XC106704 !!</Comments>
+  <Quality>4</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Furnariidae</Family>
+  <Genus>Synallaxis</Genus>
+  <Species>albescens</Species>
+  <Sub-species />
+  <VernacularNames>Pale-breasted Spinetail</VernacularNames>
+</Audio>

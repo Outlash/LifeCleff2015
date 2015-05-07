@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>26950</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN26950.wav</FileName>
+  <ClassId>djuprc</ClassId>
+  <Date>2007-10-10</Date>
+  <Time>15:15</Time>
+  <Locality>Lagoa da Confusão, Tocantins State</Locality>
+  <Latitude>-8.1195</Latitude>
+  <Longitude>-49.0648</Longitude>
+  <Elevation>200</Elevation>
+  <Author>Advaldo D. Prado</Author>
+  <AuthorID>LUMSAVGFDA</AuthorID>
+  <Content>Call</Content>
+  <Comments />
+  <Quality>3</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Tyrannidae</Family>
+  <Genus>Philohydor</Genus>
+  <Species>lictor</Species>
+  <Sub-species />
+  <VernacularNames>Lesser Kiskadee</VernacularNames>
+</Audio>

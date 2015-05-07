@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>23338</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN23338.wav</FileName>
+  <ClassId>kgrlhv</ClassId>
+  <Date>2011-07-15</Date>
+  <Time>09:00</Time>
+  <Locality>SANTEC, Içara, SC</Locality>
+  <Latitude>-28.7888</Latitude>
+  <Longitude>-49.3351</Longitude>
+  <Elevation>23</Elevation>
+  <Author>Bruno Henrique Grolhi Carvalho</Author>
+  <AuthorID>CEKMJEZKSJ</AuthorID>
+  <Content>female, song</Content>
+  <Comments>bird-seen:yesplayback-used:yes</Comments>
+  <Quality>3</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Strigiformes</Order>
+  <Family>Strigidae</Family>
+  <Genus>Megascops</Genus>
+  <Species>sanctaecatarinae</Species>
+  <Sub-species />
+  <VernacularNames>Long-tufted Screech Owl</VernacularNames>
+</Audio>

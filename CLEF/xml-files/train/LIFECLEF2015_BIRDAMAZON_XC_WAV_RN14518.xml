@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>14518</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN14518.wav</FileName>
+  <ClassId>pgnepr</ClassId>
+  <Date>2011-02-17</Date>
+  <Time>14:40</Time>
+  <Locality>RNA Fuertesi, near Cajamarca, Tolima</Locality>
+  <Latitude>4.2945</Latitude>
+  <Longitude>-75.5492</Longitude>
+  <Elevation>3215</Elevation>
+  <Author>Jon King</Author>
+  <AuthorID>LNEEOOWCQR</AuthorID>
+  <Content>song</Content>
+  <Comments>After playback. Distance to mic. 4m, seen singing from ground.</Comments>
+  <Quality>1</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Grallariidae</Family>
+  <Genus>Grallaria</Genus>
+  <Species>nuchalis</Species>
+  <Sub-species />
+  <VernacularNames>Chestnut-naped Antpitta</VernacularNames>
+</Audio>

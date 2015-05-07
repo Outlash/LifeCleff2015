@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>20639</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN20639.wav</FileName>
+  <ClassId>fpypli</ClassId>
+  <Date>2005-06-20</Date>
+  <Time>9:38</Time>
+  <Locality>PNN Chingaza, Sector monteredonde</Locality>
+  <Latitude>4.5167</Latitude>
+  <Longitude>-73.7501</Longitude>
+  <Elevation>2800</Elevation>
+  <Author>Oscar Laverde</Author>
+  <AuthorID>WKVKSVMNDZ</AuthorID>
+  <Content>song</Content>
+  <Comments>En bandada.</Comments>
+  <Quality>4</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies>Zonotrichia capensis</BackgroundSpecies>
+  <Order>Passeriformes</Order>
+  <Family>Thraupidae</Family>
+  <Genus>Anisognathus</Genus>
+  <Species>igniventris</Species>
+  <Sub-species />
+  <VernacularNames>Scarlet-bellied Mountain Tanager</VernacularNames>
+</Audio>

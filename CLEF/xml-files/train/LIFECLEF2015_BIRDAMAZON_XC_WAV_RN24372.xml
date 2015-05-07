@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>24372</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN24372.wav</FileName>
+  <ClassId>fknsgw</ClassId>
+  <Date>2013-08-01</Date>
+  <Time>09:00</Time>
+  <Locality>El Diamante de las Aguas, San José del Guaviare, Guaviare</Locality>
+  <Latitude>2.4956</Latitude>
+  <Longitude>-72.641</Longitude>
+  <Elevation>220</Elevation>
+  <Author>Oswaldo Cortes</Author>
+  <AuthorID>VVDRVZCVWW</AuthorID>
+  <Content>song</Content>
+  <Comments>bird-seen:yesplayback-used:no</Comments>
+  <Quality>0</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Furnariidae</Family>
+  <Genus>Nasica</Genus>
+  <Species>longirostris</Species>
+  <Sub-species />
+  <VernacularNames>Long-billed Woodcreeper</VernacularNames>
+</Audio>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>15736</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN15736.wav</FileName>
+  <ClassId>vvablg</ClassId>
+  <Date>2009-05-05</Date>
+  <Time>09:25</Time>
+  <Locality>Miracatu, São Paulo</Locality>
+  <Latitude>-24.188</Latitude>
+  <Longitude>-47.391</Longitude>
+  <Elevation>35</Elevation>
+  <Author>Marcos Melo</Author>
+  <AuthorID>MRGDYNJGUJ</AuthorID>
+  <Content>song in flightcalls</Content>
+  <Comments>five individuals</Comments>
+  <Quality>2</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Apodiformes</Order>
+  <Family>Apodidae</Family>
+  <Genus>Chaetura</Genus>
+  <Species>cinereiventris</Species>
+  <Sub-species />
+  <VernacularNames>Grey-rumped Swift</VernacularNames>
+</Audio>

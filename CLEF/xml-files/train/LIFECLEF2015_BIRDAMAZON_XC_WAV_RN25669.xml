@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>25669</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN25669.wav</FileName>
+  <ClassId>inrkmj</ClassId>
+  <Date>2010-11-07</Date>
+  <Time>09:30</Time>
+  <Locality>Taió, Santa Catarina</Locality>
+  <Latitude>-27.1518</Latitude>
+  <Longitude>-49.9862</Longitude>
+  <Elevation>440</Elevation>
+  <Author>Douglas Meyer</Author>
+  <AuthorID>MNENFHYTAE</AuthorID>
+  <Content>song</Content>
+  <Comments>bird-seen:yesplayback-used:no</Comments>
+  <Quality>1</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Furnariidae</Family>
+  <Genus>Synallaxis</Genus>
+  <Species>spixi</Species>
+  <Sub-species />
+  <VernacularNames>Spix's Spinetail</VernacularNames>
+</Audio>

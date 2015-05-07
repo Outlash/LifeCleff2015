@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>33055</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN33055.wav</FileName>
+  <ClassId>pndtuh</ClassId>
+  <Date>2012-06-27</Date>
+  <Time>07:48</Time>
+  <Locality>San Jose de Guaviare - Departamento del Guaviare</Locality>
+  <Latitude>2.667</Latitude>
+  <Longitude>-72.6148</Longitude>
+  <Elevation>50</Elevation>
+  <Author>Oswaldo Cortes</Author>
+  <AuthorID>VVDRVZCVWW</AuthorID>
+  <Content>call</Content>
+  <Comments />
+  <Quality>3</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Apodiformes</Order>
+  <Family>Trochilidae</Family>
+  <Genus>Phaethornis</Genus>
+  <Species>ruber</Species>
+  <Sub-species />
+  <VernacularNames>Reddish Hermit</VernacularNames>
+</Audio>

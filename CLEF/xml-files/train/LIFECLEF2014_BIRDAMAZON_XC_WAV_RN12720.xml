@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>12720</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN12720.wav</FileName>
+  <ClassId>pazlce</ClassId>
+  <Date>2000-09-07</Date>
+  <Time>10:10</Time>
+  <Locality>Parque Nacional da Amazônia</Locality>
+  <Latitude>-4.5167</Latitude>
+  <Longitude>-56.3001</Longitude>
+  <Elevation>50</Elevation>
+  <Author>Jeremy Minns</Author>
+  <AuthorID>DGVLLRYDXS</AuthorID>
+  <Content>Call</Content>
+  <Comments>Terra firme forest.</Comments>
+  <Quality>2</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Tyrannidae</Family>
+  <Genus>Lophotriccus</Genus>
+  <Species>galeatus</Species>
+  <Sub-species />
+  <VernacularNames>Helmeted Pygmy Tyrant</VernacularNames>
+</Audio>

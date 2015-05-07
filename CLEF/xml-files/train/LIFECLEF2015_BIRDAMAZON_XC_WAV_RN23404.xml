@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>23404</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN23404.wav</FileName>
+  <ClassId>gsmjhm</ClassId>
+  <Date>2014-02-15</Date>
+  <Time>16:30</Time>
+  <Locality>Capanema, Parana</Locality>
+  <Latitude>-25.6849</Latitude>
+  <Longitude>-53.8602</Longitude>
+  <Elevation>260</Elevation>
+  <Author>André J. PIeri</Author>
+  <AuthorID>MQVGMZQRIN</AuthorID>
+  <Content>flight call</Content>
+  <Comments />
+  <Quality>2</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Psittaciformes</Order>
+  <Family>Psittacidae</Family>
+  <Genus>Pyrrhura</Genus>
+  <Species>frontalis</Species>
+  <Sub-species>chiripepe</Sub-species>
+  <VernacularNames>Maroon-bellied Parakeet</VernacularNames>
+</Audio>

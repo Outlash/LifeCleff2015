@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>23740</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN23740.wav</FileName>
+  <ClassId>xpmcwb</ClassId>
+  <Date>2013-03-17</Date>
+  <Time>11:00</Time>
+  <Locality>Bragança, Para</Locality>
+  <Latitude>-0.888</Latitude>
+  <Longitude>-46.6546</Longitude>
+  <Elevation>10</Elevation>
+  <Author>Alex Lees</Author>
+  <AuthorID>INDDBZAFJL</AuthorID>
+  <Content>song</Content>
+  <Comments>freshwater marshbird-seen:noplayback-used:no</Comments>
+  <Quality>5</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies>Jacana jacana,Taraba major</BackgroundSpecies>
+  <Order>Passeriformes</Order>
+  <Family>Furnariidae</Family>
+  <Genus>Synallaxis</Genus>
+  <Species>gujanensis</Species>
+  <Sub-species>inornata</Sub-species>
+  <VernacularNames>Plain-crowned Spinetail</VernacularNames>
+</Audio>

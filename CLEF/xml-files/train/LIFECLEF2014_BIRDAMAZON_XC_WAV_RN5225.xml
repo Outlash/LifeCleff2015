@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>5225</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN5225.wav</FileName>
+  <ClassId>npugir</ClassId>
+  <Date>2010-02-17</Date>
+  <Time>14:30</Time>
+  <Locality>State Park of Serra do Mar, Itanhaém-SP</Locality>
+  <Latitude>-24.057</Latitude>
+  <Longitude>-46.852</Longitude>
+  <Elevation>400</Elevation>
+  <Author>Bruno Lima</Author>
+  <AuthorID>DVJCMXOTVL</AuthorID>
+  <Content>call</Content>
+  <Comments />
+  <Quality>1</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Rhinocryptidae</Family>
+  <Genus>Merulaxis</Genus>
+  <Species>ater</Species>
+  <Sub-species />
+  <VernacularNames>Slaty Bristlefront</VernacularNames>
+</Audio>

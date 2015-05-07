@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>9878</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN9878.wav</FileName>
+  <ClassId>iutawf</ClassId>
+  <Date>2004-07-17</Date>
+  <Time>10:50</Time>
+  <Locality>Aquidauana. Fazenda Aguapé</Locality>
+  <Latitude>-20.0834</Latitude>
+  <Longitude>-55.9501</Longitude>
+  <Elevation>128</Elevation>
+  <Author>Jeremy Minns</Author>
+  <AuthorID>DGVLLRYDXS</AuthorID>
+  <Content>Call</Content>
+  <Comments>Cerrado. Female. This is Call C in our DVD-ROM 'Birds of Brazil'.</Comments>
+  <Quality>1</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Thamnophilidae</Family>
+  <Genus>Formicivora</Genus>
+  <Species>rufa</Species>
+  <Sub-species>rufa</Sub-species>
+  <VernacularNames>Rusty-backed Antwren</VernacularNames>
+</Audio>

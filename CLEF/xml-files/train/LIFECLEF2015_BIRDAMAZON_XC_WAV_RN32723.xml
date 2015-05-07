@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>32723</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN32723.wav</FileName>
+  <ClassId>cmlkob</ClassId>
+  <Date>2011-12-05</Date>
+  <Time>09:36</Time>
+  <Locality>Vidal Ramos, Santa Catarina</Locality>
+  <Latitude>-27.3536</Latitude>
+  <Longitude>-49.348</Longitude>
+  <Elevation>400</Elevation>
+  <Author>Douglas Meyer</Author>
+  <AuthorID>MNENFHYTAE</AuthorID>
+  <Content>song</Content>
+  <Comments>bird-seen:yesplayback-used:no</Comments>
+  <Quality>0</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Tityridae</Family>
+  <Genus>Pachyramphus</Genus>
+  <Species>viridis</Species>
+  <Sub-species />
+  <VernacularNames>Green-backed Becard</VernacularNames>
+</Audio>

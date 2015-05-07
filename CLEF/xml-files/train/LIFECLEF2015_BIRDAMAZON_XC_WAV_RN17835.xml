@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>17835</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN17835.wav</FileName>
+  <ClassId>zxmweq</ClassId>
+  <Date>2009-01-25</Date>
+  <Time>8:00</Time>
+  <Locality>RNA Hormiguero de Torcoroma, Ocaña, Norte de Santander</Locality>
+  <Latitude>8.2031</Latitude>
+  <Longitude>-73.3798</Longitude>
+  <Elevation>?</Elevation>
+  <Author>Fabrice Schmitt</Author>
+  <AuthorID>FPAGKPAQYO</AuthorID>
+  <Content>song</Content>
+  <Comments />
+  <Quality>2</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Turdidae</Family>
+  <Genus>Catharus</Genus>
+  <Species>aurantiirostris</Species>
+  <Sub-species>inornatus</Sub-species>
+  <VernacularNames>Orange-billed Nightingale-Thrush</VernacularNames>
+</Audio>

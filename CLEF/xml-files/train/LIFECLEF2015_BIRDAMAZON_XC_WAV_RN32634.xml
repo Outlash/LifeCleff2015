@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>32634</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN32634.wav</FileName>
+  <ClassId>vrurmm</ClassId>
+  <Date>2009-04-14</Date>
+  <Time>19:20</Time>
+  <Locality>Fazenda Santa Tereza, Rio Pixaim, Mato Grosso</Locality>
+  <Latitude>-16.7501</Latitude>
+  <Longitude>-56.8501</Longitude>
+  <Elevation>?</Elevation>
+  <Author>Paul Donahue</Author>
+  <AuthorID>LLRXADGTBA</AuthorID>
+  <Content>cries</Content>
+  <Comments />
+  <Quality>2</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Strigiformes</Order>
+  <Family>Strigidae</Family>
+  <Genus>Bubo</Genus>
+  <Species>virginianus</Species>
+  <Sub-species />
+  <VernacularNames>Great Horned Owl</VernacularNames>
+</Audio>

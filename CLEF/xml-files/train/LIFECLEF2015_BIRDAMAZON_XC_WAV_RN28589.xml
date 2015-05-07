@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>28589</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN28589.wav</FileName>
+  <ClassId>wsyiro</ClassId>
+  <Date>2013-12-12</Date>
+  <Time>09:00</Time>
+  <Locality>Atibaia, SP</Locality>
+  <Latitude>-23.2001</Latitude>
+  <Longitude>-46.5834</Longitude>
+  <Elevation>800</Elevation>
+  <Author>William Zaca</Author>
+  <AuthorID>QPVHQBUWGE</AuthorID>
+  <Content>Tangara sayaca, song</Content>
+  <Comments>bird-seen:noplayback-used:no</Comments>
+  <Quality>2</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Turdidae</Family>
+  <Genus>Turdus</Genus>
+  <Species>flavipes</Species>
+  <Sub-species />
+  <VernacularNames>Yellow-legged Thrush</VernacularNames>
+</Audio>

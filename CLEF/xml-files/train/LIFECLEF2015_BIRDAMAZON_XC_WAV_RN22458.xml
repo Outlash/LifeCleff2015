@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>22458</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN22458.wav</FileName>
+  <ClassId>pfbymd</ClassId>
+  <Date>2009-04-16</Date>
+  <Time>09:00</Time>
+  <Locality>FARALLON DE MEDINA</Locality>
+  <Latitude>4.5834</Latitude>
+  <Longitude>-73.4834</Longitude>
+  <Elevation>2200</Elevation>
+  <Author>Oswaldo Cortes</Author>
+  <AuthorID>VVDRVZCVWW</AuthorID>
+  <Content>call</Content>
+  <Comments />
+  <Quality>3</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Apodiformes</Order>
+  <Family>Trochilidae</Family>
+  <Genus>Heliangelus</Genus>
+  <Species>amethysticollis</Species>
+  <Sub-species />
+  <VernacularNames>Amethyst-throated Sunangel</VernacularNames>
+</Audio>

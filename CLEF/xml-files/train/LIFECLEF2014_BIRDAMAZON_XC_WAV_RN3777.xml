@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>3777</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN3777.wav</FileName>
+  <ClassId>ghwdea</ClassId>
+  <Date>2007-01-23</Date>
+  <Time>09:00</Time>
+  <Locality>Santa Maria do Tocantins (08º 47 53 S, 47º 24 32 W</Locality>
+  <Latitude>-8.7981</Latitude>
+  <Longitude>-47.4089</Longitude>
+  <Elevation>100</Elevation>
+  <Author>Edson Endrigo</Author>
+  <AuthorID>QXFWTUTECQ</AuthorID>
+  <Content>call</Content>
+  <Comments />
+  <Quality>1</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Cardinalidae</Family>
+  <Genus>Amaurospiza</Genus>
+  <Species>moesta</Species>
+  <Sub-species />
+  <VernacularNames>Blackish-blue Seedeater</VernacularNames>
+</Audio>

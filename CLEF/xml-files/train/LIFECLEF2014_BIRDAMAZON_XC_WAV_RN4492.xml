@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>4492</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN4492.wav</FileName>
+  <ClassId>vzrhzv</ClassId>
+  <Date>2009-05-31</Date>
+  <Time>07:00</Time>
+  <Locality>Ilha de Fora, Curuçá, Pará.</Locality>
+  <Latitude>-0.7009</Latitude>
+  <Longitude>-47.8953</Longitude>
+  <Elevation>0</Elevation>
+  <Author>Sidnei Dantas</Author>
+  <AuthorID>NNCKQMBGPH</AuthorID>
+  <Content>song</Content>
+  <Comments>land forest</Comments>
+  <Quality>3</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies>Ramphastos vitellinus</BackgroundSpecies>
+  <Order>Passeriformes</Order>
+  <Family>Thamnophilidae</Family>
+  <Genus>Thamnophilus</Genus>
+  <Species>aethiops</Species>
+  <Sub-species />
+  <VernacularNames>White-shouldered Antshrike</VernacularNames>
+</Audio>

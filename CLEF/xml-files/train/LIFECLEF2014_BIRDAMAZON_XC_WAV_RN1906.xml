@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>1906</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN1906.wav</FileName>
+  <ClassId>hvojcw</ClassId>
+  <Date>2008-11-07</Date>
+  <Time>10:00</Time>
+  <Locality>Parque Municipal Nove de Julho, São Paulo, SP</Locality>
+  <Latitude>-23.7192</Latitude>
+  <Longitude>-46.717</Longitude>
+  <Elevation>760</Elevation>
+  <Author>Marcos Melo</Author>
+  <AuthorID>MRGDYNJGUJ</AuthorID>
+  <Content>flight call</Content>
+  <Comments>various indiv. in flight</Comments>
+  <Quality>2</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies />
+  <Order>Anseriformes</Order>
+  <Family>Anatidae</Family>
+  <Genus>Dendrocygna</Genus>
+  <Species>viduata</Species>
+  <Sub-species />
+  <VernacularNames>White-faced Whistling Duck</VernacularNames>
+</Audio>

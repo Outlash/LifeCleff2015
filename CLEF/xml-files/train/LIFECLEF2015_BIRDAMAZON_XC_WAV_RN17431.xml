@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>17431</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN17431.wav</FileName>
+  <ClassId>asvgnp</ClassId>
+  <Date>2013-12-09</Date>
+  <Time>17:09</Time>
+  <Locality>Sabaneta, Antioquia</Locality>
+  <Latitude>6.1422</Latitude>
+  <Longitude>-75.6172</Longitude>
+  <Elevation>1600</Elevation>
+  <Author>Danny Zapata-Henao</Author>
+  <AuthorID>AHYWLCEJLP</AuthorID>
+  <Content>song</Content>
+  <Comments>A group of around 3 individuals.bird-seen:yesplayback-used:no</Comments>
+  <Quality>0</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Falconiformes</Order>
+  <Family>Falconidae</Family>
+  <Genus>Milvago</Genus>
+  <Species>chimachima</Species>
+  <Sub-species />
+  <VernacularNames>Yellow-headed Caracara</VernacularNames>
+</Audio>

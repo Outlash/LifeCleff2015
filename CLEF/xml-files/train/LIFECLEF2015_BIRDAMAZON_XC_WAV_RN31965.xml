@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>31965</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN31965.wav</FileName>
+  <ClassId>bmiqmk</ClassId>
+  <Date>2012-05-11</Date>
+  <Time>09:00</Time>
+  <Locality>Siderópolis, Santa Catarina</Locality>
+  <Latitude>-28.596</Latitude>
+  <Longitude>-49.4319</Longitude>
+  <Elevation>110</Elevation>
+  <Author>João Antônio de B. Vitto</Author>
+  <AuthorID>RIVNLYTULO</AuthorID>
+  <Content>call, song</Content>
+  <Comments>bird-seen:noplayback-used:no</Comments>
+  <Quality>2</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Pipridae</Family>
+  <Genus>Chiroxiphia</Genus>
+  <Species>caudata</Species>
+  <Sub-species />
+  <VernacularNames>Blue Manakin</VernacularNames>
+</Audio>

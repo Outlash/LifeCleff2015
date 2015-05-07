@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>7569</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN7569.wav</FileName>
+  <ClassId>cgxaxh</ClassId>
+  <Date>2006-11-12</Date>
+  <Time>12:20</Time>
+  <Locality>Angra dos Reis, NW, Rio de Janeiro state</Locality>
+  <Latitude>-22.903</Latitude>
+  <Longitude>-44.418</Longitude>
+  <Elevation>70</Elevation>
+  <Author>Daniel Lane</Author>
+  <AuthorID>WOEAFQRMUD</AuthorID>
+  <Content>calls, duet song</Content>
+  <Comments>Response to playback from a pair in dense undergrowth in second growth habitat.</Comments>
+  <Quality>2</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies>Vireo olivaceus</BackgroundSpecies>
+  <Order>Passeriformes</Order>
+  <Family>Furnariidae</Family>
+  <Genus>Phacellodomus</Genus>
+  <Species>erythrophthalmus</Species>
+  <Sub-species />
+  <VernacularNames>Orange-eyed Thornbird</VernacularNames>
+</Audio>

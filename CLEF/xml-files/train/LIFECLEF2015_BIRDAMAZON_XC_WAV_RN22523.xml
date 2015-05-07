@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>22523</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN22523.wav</FileName>
+  <ClassId>gupfgh</ClassId>
+  <Date>2010-10-05</Date>
+  <Time>?</Time>
+  <Locality>Mont Itoupé</Locality>
+  <Latitude>3.01667</Latitude>
+  <Longitude>-53.0667</Longitude>
+  <Elevation>500</Elevation>
+  <Author>Alexandre Renaudier</Author>
+  <AuthorID>GKADEITXTH</AuthorID>
+  <Content>call ?</Content>
+  <Comments>In response to playback</Comments>
+  <Quality>2</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Thamnophilidae</Family>
+  <Genus>Thamnomanes</Genus>
+  <Species>caesius</Species>
+  <Sub-species />
+  <VernacularNames>Cinereous Antshrike</VernacularNames>
+</Audio>

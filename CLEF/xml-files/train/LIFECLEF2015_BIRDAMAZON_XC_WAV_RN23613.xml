@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>23613</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN23613.wav</FileName>
+  <ClassId>smoutd</ClassId>
+  <Date>2013-03-02</Date>
+  <Time>13:30</Time>
+  <Locality>Chingaza NP</Locality>
+  <Latitude>4.747</Latitude>
+  <Longitude>-73.8559</Longitude>
+  <Elevation>3500</Elevation>
+  <Author>Oscar Johnson</Author>
+  <AuthorID>MPMDLXWNBH</AuthorID>
+  <Content>call</Content>
+  <Comments>Perched atop an Espeletia sp. and calling repeatedly for approximately 5 minutes. This is just a sample of the calls.bird-seen:yesplayback-used:no</Comments>
+  <Quality>2</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Grallariidae</Family>
+  <Genus>Grallaria</Genus>
+  <Species>quitensis</Species>
+  <Sub-species />
+  <VernacularNames>Tawny Antpitta</VernacularNames>
+</Audio>

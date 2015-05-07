@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>24343</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN24343.wav</FileName>
+  <ClassId>zcwqjv</ClassId>
+  <Date>2008-07-29</Date>
+  <Time>07:00</Time>
+  <Locality>Iwokrama Forest</Locality>
+  <Latitude>4.2448</Latitude>
+  <Longitude>-58.9056</Longitude>
+  <Elevation>80</Elevation>
+  <Author>Ken Allaire</Author>
+  <AuthorID>AEWPPXBBYE</AuthorID>
+  <Content>call</Content>
+  <Comments>Perched birds.</Comments>
+  <Quality>0</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Psittaciformes</Order>
+  <Family>Psittacidae</Family>
+  <Genus>Ara</Genus>
+  <Species>ararauna</Species>
+  <Sub-species />
+  <VernacularNames>Blue-and-yellow Macaw</VernacularNames>
+</Audio>

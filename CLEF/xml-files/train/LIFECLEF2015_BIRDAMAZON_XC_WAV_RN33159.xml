@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>33159</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN33159.wav</FileName>
+  <ClassId>rxgdwi</ClassId>
+  <Date>2007-12-17</Date>
+  <Time>09:10</Time>
+  <Locality>Parque Regional Barbas-Bremen, Filandia, Quindio. Sector Barbas</Locality>
+  <Latitude>4.6717</Latitude>
+  <Longitude>-75.6283</Longitude>
+  <Elevation>1900</Elevation>
+  <Author>Oscar Humberto Marin-Gomez</Author>
+  <AuthorID>CSUHASNRSU</AuthorID>
+  <Content>song</Content>
+  <Comments>Ref: OHM15A 0921bird-seen:noplayback-used:no</Comments>
+  <Quality>3</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Columbiformes</Order>
+  <Family>Columbidae</Family>
+  <Genus>Patagioenas</Genus>
+  <Species>subvinacea</Species>
+  <Sub-species />
+  <VernacularNames>Ruddy Pigeon</VernacularNames>
+</Audio>

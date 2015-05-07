@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>12404</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN12404.wav</FileName>
+  <ClassId>xbszpg</ClassId>
+  <Date>2010-03-06</Date>
+  <Time>07:55</Time>
+  <Locality>Taquaril - Petrópolis - RJ</Locality>
+  <Latitude>-22.3023</Latitude>
+  <Longitude>-43.077</Longitude>
+  <Elevation>1400</Elevation>
+  <Author>Ricardo Gagliardi</Author>
+  <AuthorID>YRDADNREOP</AuthorID>
+  <Content>song</Content>
+  <Comments />
+  <Quality>3</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies>Megarynchus pitangua,Tangara cayana</BackgroundSpecies>
+  <Order>Passeriformes</Order>
+  <Family>Thraupidae</Family>
+  <Genus>Sicalis</Genus>
+  <Species>citrina</Species>
+  <Sub-species />
+  <VernacularNames>Stripe-tailed Yellow Finch</VernacularNames>
+</Audio>

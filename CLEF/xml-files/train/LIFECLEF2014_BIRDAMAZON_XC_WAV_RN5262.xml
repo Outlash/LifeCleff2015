@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>5262</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN5262.wav</FileName>
+  <ClassId>rxywkl</ClassId>
+  <Date>2000-01-11</Date>
+  <Time>08:58</Time>
+  <Locality>Aquidauana</Locality>
+  <Latitude>-20.4834</Latitude>
+  <Longitude>-55.8167</Longitude>
+  <Elevation>174</Elevation>
+  <Author>Jeremy Minns</Author>
+  <AuthorID>DGVLLRYDXS</AuthorID>
+  <Content>call</Content>
+  <Comments>Road to Bara Mansa. Dry forest.</Comments>
+  <Quality>3</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Tyrannidae</Family>
+  <Genus>Phaeomyias</Genus>
+  <Species>murina</Species>
+  <Sub-species>murina</Sub-species>
+  <VernacularNames>Mouse-colored Tyrannulet</VernacularNames>
+</Audio>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>19404</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN19404.wav</FileName>
+  <ClassId>upfjhp</ClassId>
+  <Date>2007-05-09</Date>
+  <Time>13:00</Time>
+  <Locality>Colombia, Tolima, Anzoategui, Palomar, Parche de bosque</Locality>
+  <Latitude>4.6512</Latitude>
+  <Longitude>-75.2178</Longitude>
+  <Elevation>2800</Elevation>
+  <Author>Yair G Molina - Martínez</Author>
+  <AuthorID>UQUOPFIYYQ</AuthorID>
+  <Content>Song</Content>
+  <Comments />
+  <Quality>3</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Troglodytidae</Family>
+  <Genus>Cistothorus</Genus>
+  <Species>platensis</Species>
+  <Sub-species />
+  <VernacularNames>Sedge Wren</VernacularNames>
+</Audio>

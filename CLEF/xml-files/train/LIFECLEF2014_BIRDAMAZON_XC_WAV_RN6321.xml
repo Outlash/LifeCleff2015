@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>6321</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN6321.wav</FileName>
+  <ClassId>gshgib</ClassId>
+  <Date>2010-09-02</Date>
+  <Time>15:54</Time>
+  <Locality>Itatiaia National Park - Agulhas Negras road</Locality>
+  <Latitude>-22.3667</Latitude>
+  <Longitude>-44.7334</Longitude>
+  <Elevation>2000</Elevation>
+  <Author>Herman van Oosten</Author>
+  <AuthorID>SNUDCZVUQK</AuthorID>
+  <Content>song?</Content>
+  <Comments>Bird not seen, best I have!</Comments>
+  <Quality>1</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Furnariidae</Family>
+  <Genus>Asthenes</Genus>
+  <Species>moreirae</Species>
+  <Sub-species />
+  <VernacularNames>Itatiaia Spinetail</VernacularNames>
+</Audio>

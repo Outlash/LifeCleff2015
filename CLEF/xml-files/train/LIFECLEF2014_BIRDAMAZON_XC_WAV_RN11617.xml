@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>11617</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN11617.wav</FileName>
+  <ClassId>fmdsaj</ClassId>
+  <Date>2011-05-26</Date>
+  <Time>05:47</Time>
+  <Locality>Paragominas, PA, Brazil, Bacia 369</Locality>
+  <Latitude>-3.376</Latitude>
+  <Longitude>-47.821</Longitude>
+  <Elevation>?</Elevation>
+  <Author>Alexander Lees</Author>
+  <AuthorID>INDDBZAFJL</AuthorID>
+  <Content>song</Content>
+  <Comments>singing pre dawn in logged primary forest</Comments>
+  <Quality>1</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies>Penelope pileata</BackgroundSpecies>
+  <Order>Passeriformes</Order>
+  <Family>Tyrannidae</Family>
+  <Genus>Piprites</Genus>
+  <Species>chloris</Species>
+  <Sub-species>grisescens</Sub-species>
+  <VernacularNames>Wing-barred Piprites</VernacularNames>
+</Audio>

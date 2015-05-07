@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>21880</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN21880.wav</FileName>
+  <ClassId>ayfewp</ClassId>
+  <Date>2007-11-05</Date>
+  <Time>06:55</Time>
+  <Locality>Parque Regional Barbas-Bremen, Filandia, Quindio. Sector Bremen-La Popa</Locality>
+  <Latitude>4.6717</Latitude>
+  <Longitude>-75.6283</Longitude>
+  <Elevation>1800</Elevation>
+  <Author>Oscar Humberto Marin-Gomez</Author>
+  <AuthorID>CSUHASNRSU</AuthorID>
+  <Content>song</Content>
+  <Comments>OHM002A 0650. Interior de bosque, sotobosque. 20m del mic. Bosque montano bajo. A 30m del mic. Vocalización natural.bird-seen:noplayback-used:no</Comments>
+  <Quality>2</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Emberizidae</Family>
+  <Genus>Arremon</Genus>
+  <Species>brunneinucha</Species>
+  <Sub-species />
+  <VernacularNames>Chestnut-capped Brush Finch</VernacularNames>
+</Audio>

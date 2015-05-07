@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>25618</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN25618.wav</FileName>
+  <ClassId>ttmtic</ClassId>
+  <Date>2003-11-30</Date>
+  <Time>17:30</Time>
+  <Locality>Cristalino Jungle Lodge, MT</Locality>
+  <Latitude>-9.5981</Latitude>
+  <Longitude>-55.932</Longitude>
+  <Elevation>250</Elevation>
+  <Author>Jeremy Minns</Author>
+  <AuthorID>DGVLLRYDXS</AuthorID>
+  <Content>Song</Content>
+  <Comments>Terra firme forest. Four natural takes, made from the tower.  The first two are Tinamus major (thanks to Dan Lane for correcting me), the third and fourth are Crypturellus variegatus.</Comments>
+  <Quality>1</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies>Ramphastos vitellinus,Xiphorhynchus guttatus,Crypturellus variegatus</BackgroundSpecies>
+  <Order>Tinamiformes</Order>
+  <Family>Tinamidae</Family>
+  <Genus>Tinamus</Genus>
+  <Species>major</Species>
+  <Sub-species />
+  <VernacularNames>Great Tinamou</VernacularNames>
+</Audio>

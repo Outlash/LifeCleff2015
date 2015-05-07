@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>3157</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN3157.wav</FileName>
+  <ClassId>nrjjbm</ClassId>
+  <Date>2010-06-09</Date>
+  <Time>11:14</Time>
+  <Locality>Fazenda Refúgio, Londrina, Parana</Locality>
+  <Latitude>-23.3503</Latitude>
+  <Longitude>-51.1173</Longitude>
+  <Elevation>600</Elevation>
+  <Author>Renan Campos de Oliveira</Author>
+  <AuthorID>SDARDTGGWP</AuthorID>
+  <Content>Song</Content>
+  <Comments>Perched on a dry branch over a little river</Comments>
+  <Quality>3</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Furnariidae</Family>
+  <Genus>Lochmias</Genus>
+  <Species>nematura</Species>
+  <Sub-species />
+  <VernacularNames>Sharp-tailed Streamcreeper</VernacularNames>
+</Audio>

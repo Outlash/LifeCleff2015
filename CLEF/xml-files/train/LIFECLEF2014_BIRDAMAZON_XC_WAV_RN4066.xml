@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>4066</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN4066.wav</FileName>
+  <ClassId>vjukoo</ClassId>
+  <Date>2003-11-11</Date>
+  <Time>05:52</Time>
+  <Locality>Serra do Mar State Park. Picinguaba</Locality>
+  <Latitude>-23.3334</Latitude>
+  <Longitude>-44.8834</Longitude>
+  <Elevation>3</Elevation>
+  <Author>Jeremy Minns</Author>
+  <AuthorID>DGVLLRYDXS</AuthorID>
+  <Content>call, song</Content>
+  <Comments>Access road to Casa da Farinha. Lowland forest. This is Call B in our DVD-ROM 'Birds of Brazil'.</Comments>
+  <Quality>2</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies>Automolus leucophthalmus</BackgroundSpecies>
+  <Order>Passeriformes</Order>
+  <Family>Tyrannidae</Family>
+  <Genus>Attila</Genus>
+  <Species>rufus</Species>
+  <Sub-species>rufus</Sub-species>
+  <VernacularNames>Grey-hooded Attila</VernacularNames>
+</Audio>

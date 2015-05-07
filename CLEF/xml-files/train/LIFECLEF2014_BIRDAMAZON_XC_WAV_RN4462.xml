@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>4462</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN4462.wav</FileName>
+  <ClassId>tpwgoq</ClassId>
+  <Date>2009-10-22</Date>
+  <Time>?</Time>
+  <Locality>Fazenda Santa Rita, Parque Nacional da Serra do Itajaí, Indaial, Santa Catarina</Locality>
+  <Latitude>-27.1073</Latitude>
+  <Longitude>-49.1573</Longitude>
+  <Elevation>740</Elevation>
+  <Author>Adrian Eisen Rupp</Author>
+  <AuthorID>AOPMSCIDIA</AuthorID>
+  <Content>song</Content>
+  <Comments />
+  <Quality>3</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies>Synallaxis spixi,Troglodytes aedon,Procnias nudicollis</BackgroundSpecies>
+  <Order>Passeriformes</Order>
+  <Family>Icteridae</Family>
+  <Genus>Gnorimopsar</Genus>
+  <Species>chopi</Species>
+  <Sub-species />
+  <VernacularNames>Chopi Blackbird</VernacularNames>
+</Audio>

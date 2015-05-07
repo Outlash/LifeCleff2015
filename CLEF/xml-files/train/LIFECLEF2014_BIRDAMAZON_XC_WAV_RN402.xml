@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>402</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN402.wav</FileName>
+  <ClassId>acvtjw</ClassId>
+  <Date>2002-01-29</Date>
+  <Time>16:34</Time>
+  <Locality>Serra dos Carajás. Rio Parauapebas</Locality>
+  <Latitude>-6.0667</Latitude>
+  <Longitude>-49.9167</Longitude>
+  <Elevation>170</Elevation>
+  <Author>Jeremy Minns</Author>
+  <AuthorID>DGVLLRYDXS</AuthorID>
+  <Content>Song and two different calls</Content>
+  <Comments>Várzea forest.</Comments>
+  <Quality>1</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Thamnophilidae</Family>
+  <Genus>Myrmotherula</Genus>
+  <Species>brachyura</Species>
+  <Sub-species />
+  <VernacularNames>Pygmy Antwren</VernacularNames>
+</Audio>

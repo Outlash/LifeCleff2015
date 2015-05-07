@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>24599</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN24599.wav</FileName>
+  <ClassId>jfkqxa</ClassId>
+  <Date>2000-04-15</Date>
+  <Time>?</Time>
+  <Locality>Finca La Pradera, Parroquia Remolinos, Municipio Puerto Lopez, Meta</Locality>
+  <Latitude>NULL</Latitude>
+  <Longitude>NULL</Longitude>
+  <Elevation>?</Elevation>
+  <Author>Bernabe Lopez-Lanus</Author>
+  <AuthorID>BYLLSJRVDZ</AuthorID>
+  <Content>Call</Content>
+  <Comments />
+  <Quality>1</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Piciformes</Order>
+  <Family>Picidae</Family>
+  <Genus>Dryocopus</Genus>
+  <Species>lineatus</Species>
+  <Sub-species>lineatus</Sub-species>
+  <VernacularNames>Lineated Woodpecker</VernacularNames>
+</Audio>

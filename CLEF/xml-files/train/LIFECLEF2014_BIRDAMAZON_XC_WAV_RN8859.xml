@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>8859</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN8859.wav</FileName>
+  <ClassId>ywuvnu</ClassId>
+  <Date>2007-07-30</Date>
+  <Time>17:38</Time>
+  <Locality>Pousada Rio Azul, PA</Locality>
+  <Latitude>-9.2456</Latitude>
+  <Longitude>-55.987</Longitude>
+  <Elevation>220</Elevation>
+  <Author>Bradley Davis</Author>
+  <AuthorID>YNXJLOESBB</AuthorID>
+  <Content>song</Content>
+  <Comments>recording along the Rio Azul is made difficult due to many rapids link:http://www.surfbirds.com/trip_report.php?id=1203</Comments>
+  <Quality>3</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies>Dendrocolaptes picumnus</BackgroundSpecies>
+  <Order>Tinamiformes</Order>
+  <Family>Tinamidae</Family>
+  <Genus>Crypturellus</Genus>
+  <Species>cinereus</Species>
+  <Sub-species />
+  <VernacularNames>Cinereous Tinamou</VernacularNames>
+</Audio>

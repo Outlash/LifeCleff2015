@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>31042</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN31042.wav</FileName>
+  <ClassId>uqcfuk</ClassId>
+  <Date>1992-08-12</Date>
+  <Time>19:00</Time>
+  <Locality>Rio Salobra,Miranda,Mato Grosso do Sul State</Locality>
+  <Latitude>-20.216</Latitude>
+  <Longitude>-56.494</Longitude>
+  <Elevation>120</Elevation>
+  <Author>Antonio Silveira</Author>
+  <AuthorID>NBJQSQJRYH</AuthorID>
+  <Content>call</Content>
+  <Comments>bird near the river.bird-seen:noplayback-used:no</Comments>
+  <Quality>0</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Caprimulgiformes</Order>
+  <Family>Caprimulgidae</Family>
+  <Genus>Antrostomus</Genus>
+  <Species>rufus</Species>
+  <Sub-species />
+  <VernacularNames>Rufous Nightjar</VernacularNames>
+</Audio>

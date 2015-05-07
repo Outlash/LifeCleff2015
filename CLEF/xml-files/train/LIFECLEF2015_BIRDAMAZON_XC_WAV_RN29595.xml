@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>29595</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN29595.wav</FileName>
+  <ClassId>dfxend</ClassId>
+  <Date>2013-02-01</Date>
+  <Time>08:00</Time>
+  <Locality>Itaituba, Para</Locality>
+  <Latitude>-5.1894</Latitude>
+  <Longitude>-56.7554</Longitude>
+  <Elevation>110</Elevation>
+  <Author>GABRIEL LEITE</Author>
+  <AuthorID>TGBFXDVERJ</AuthorID>
+  <Content>call, female, male, song</Content>
+  <Comments>bird-seen:yesplayback-used:no</Comments>
+  <Quality>1</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Piciformes</Order>
+  <Family>Bucconidae</Family>
+  <Genus>Monasa</Genus>
+  <Species>morphoeus</Species>
+  <Sub-species />
+  <VernacularNames>White-fronted Nunbird</VernacularNames>
+</Audio>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>22223</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN22223.wav</FileName>
+  <ClassId>aksucy</ClassId>
+  <Date>2010-03-27</Date>
+  <Time>9:40</Time>
+  <Locality>La Argentina.Vereda.Quebrada Negra. Huila.</Locality>
+  <Latitude>NULL</Latitude>
+  <Longitude>NULL</Longitude>
+  <Elevation>2300</Elevation>
+  <Author>Pablo Florez</Author>
+  <AuthorID>ISWBQKPBGS</AuthorID>
+  <Content>?</Content>
+  <Comments />
+  <Quality>1</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Rhinocryptidae</Family>
+  <Genus>Scytalopus</Genus>
+  <Species>rodriguezi</Species>
+  <Sub-species />
+  <VernacularNames>Upper Magdalena Tapaculo</VernacularNames>
+</Audio>

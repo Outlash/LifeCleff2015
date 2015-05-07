@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>30090</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN30090.wav</FileName>
+  <ClassId>zuweoe</ClassId>
+  <Date>2009-12-12</Date>
+  <Time>18:00</Time>
+  <Locality>Riacho dos Machados - MG</Locality>
+  <Latitude>NULL</Latitude>
+  <Longitude>NULL</Longitude>
+  <Elevation>800</Elevation>
+  <Author>Luiz Gabriel Mazzoni</Author>
+  <AuthorID>MPOKMOFDDX</AuthorID>
+  <Content>Calls / Song</Content>
+  <Comments />
+  <Quality>1</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Thraupidae</Family>
+  <Genus>Compsothraupis</Genus>
+  <Species>loricata</Species>
+  <Sub-species />
+  <VernacularNames>Scarlet-throated Tanager</VernacularNames>
+</Audio>

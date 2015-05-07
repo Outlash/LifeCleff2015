@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>26589</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN26589.wav</FileName>
+  <ClassId>uqwtge</ClassId>
+  <Date>2010-10-11</Date>
+  <Time>07:49</Time>
+  <Locality>Puerto Lopez, Rio Humea (meta)</Locality>
+  <Latitude>4.155</Latitude>
+  <Longitude>-72.923</Longitude>
+  <Elevation>100</Elevation>
+  <Author>Oswaldo Cortes</Author>
+  <AuthorID>VVDRVZCVWW</AuthorID>
+  <Content>call</Content>
+  <Comments />
+  <Quality>0</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Tyrannidae</Family>
+  <Genus>Ramphotrigon</Genus>
+  <Species>ruficauda</Species>
+  <Sub-species />
+  <VernacularNames>Rufous-tailed Flatbill</VernacularNames>
+</Audio>

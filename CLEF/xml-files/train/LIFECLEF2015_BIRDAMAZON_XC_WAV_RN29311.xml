@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>29311</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN29311.wav</FileName>
+  <ClassId>qfjwpy</ClassId>
+  <Date>2012-06-05</Date>
+  <Time>08:38</Time>
+  <Locality>Arauca, Laguna Rodriguera</Locality>
+  <Latitude>7.092</Latitude>
+  <Longitude>-70.697</Longitude>
+  <Elevation>100</Elevation>
+  <Author>Oswaldo Cortes</Author>
+  <AuthorID>VVDRVZCVWW</AuthorID>
+  <Content>?</Content>
+  <Comments />
+  <Quality>3</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Charadriiformes</Order>
+  <Family>Charadriidae</Family>
+  <Genus>Vanellus</Genus>
+  <Species>chilensis</Species>
+  <Sub-species />
+  <VernacularNames>Southern Lapwing</VernacularNames>
+</Audio>

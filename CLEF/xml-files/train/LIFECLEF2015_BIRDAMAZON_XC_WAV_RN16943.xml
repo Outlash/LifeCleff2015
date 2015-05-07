@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>16943</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN16943.wav</FileName>
+  <ClassId>enlzwu</ClassId>
+  <Date>2005-03-23</Date>
+  <Time>?</Time>
+  <Locality>Tafelberg</Locality>
+  <Latitude>3.9201</Latitude>
+  <Longitude>-56.17</Longitude>
+  <Elevation>?</Elevation>
+  <Author>Otte Ottema</Author>
+  <AuthorID>ASEUAUOXZA</AuthorID>
+  <Content>song</Content>
+  <Comments>link:http://www.planktonik.com/birdingsuriname/</Comments>
+  <Quality>0</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Thraupidae</Family>
+  <Genus>Oryzoborus</Genus>
+  <Species>angolensis</Species>
+  <Sub-species />
+  <VernacularNames>Chestnut-bellied Seed Finch</VernacularNames>
+</Audio>

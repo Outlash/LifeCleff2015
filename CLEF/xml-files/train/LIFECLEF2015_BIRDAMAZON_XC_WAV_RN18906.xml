@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>18906</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN18906.wav</FileName>
+  <ClassId>yjsier</ClassId>
+  <Date>2006-12-26</Date>
+  <Time>06:40</Time>
+  <Locality>Paso de Choroni, Aragua</Locality>
+  <Latitude>10.3612</Latitude>
+  <Longitude>-67.5856</Longitude>
+  <Elevation>?</Elevation>
+  <Author>Andrew Spencer</Author>
+  <AuthorID>CDTGHVBGZP</AuthorID>
+  <Content>call</Content>
+  <Comments>from a flock near dawn</Comments>
+  <Quality>2</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Turdidae</Family>
+  <Genus>Turdus</Genus>
+  <Species>serranus</Species>
+  <Sub-species />
+  <VernacularNames>Glossy-black Thrush</VernacularNames>
+</Audio>

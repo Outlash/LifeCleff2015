@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>12335</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN12335.wav</FileName>
+  <ClassId>waknsi</ClassId>
+  <Date>2013-08-22</Date>
+  <Time>21:00</Time>
+  <Locality>São Francisco Xavier, São José dos Campos,São Paulo state, Brazil</Locality>
+  <Latitude>-22.898</Latitude>
+  <Longitude>-45.994</Longitude>
+  <Elevation>1300</Elevation>
+  <Author>Antonio Silveira</Author>
+  <AuthorID>NBJQSQJRYH</AuthorID>
+  <Content>male, song</Content>
+  <Comments>Bird singing near the farm house. In a open area.bird-seen:noplayback-used:no</Comments>
+  <Quality>2</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies />
+  <Order>Caprimulgiformes</Order>
+  <Family>Caprimulgidae</Family>
+  <Genus>Nyctidromus</Genus>
+  <Species>albicollis</Species>
+  <Sub-species />
+  <VernacularNames>Pauraque</VernacularNames>
+</Audio>

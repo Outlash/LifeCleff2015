@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>6933</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN6933.wav</FileName>
+  <ClassId>hijhrx</ClassId>
+  <Date>2013-06-22</Date>
+  <Time>22:30</Time>
+  <Locality>Xapuri, Acre</Locality>
+  <Latitude>-10.65</Latitude>
+  <Longitude>-68.5053</Longitude>
+  <Elevation>170</Elevation>
+  <Author>Marcos A. Melo</Author>
+  <AuthorID>MRGDYNJGUJ</AuthorID>
+  <Content>Human voices., song</Content>
+  <Comments>Urban area. bird-seen:noplayback-used:no</Comments>
+  <Quality>3</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies />
+  <Order>Strigiformes</Order>
+  <Family>Strigidae</Family>
+  <Genus>Megascops</Genus>
+  <Species>choliba</Species>
+  <Sub-species />
+  <VernacularNames>Tropical Screech Owl</VernacularNames>
+</Audio>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>18528</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN18528.wav</FileName>
+  <ClassId>fzbuqa</ClassId>
+  <Date>2012-02-02</Date>
+  <Time>19:12</Time>
+  <Locality>Campo Belo do Sul - Santa Catarina State</Locality>
+  <Latitude>-27.9159</Latitude>
+  <Longitude>-50.757</Longitude>
+  <Elevation>1017</Elevation>
+  <Author>Cid Espínola</Author>
+  <AuthorID>IRBNRXBEVU</AuthorID>
+  <Content>Song</Content>
+  <Comments>Approximately three individuals perched in a tree top.</Comments>
+  <Quality>1</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Tyrannidae</Family>
+  <Genus>Tyrannus</Genus>
+  <Species>savana</Species>
+  <Sub-species />
+  <VernacularNames>Fork-tailed Flycatcher</VernacularNames>
+</Audio>

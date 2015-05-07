@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>4138</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN4138.wav</FileName>
+  <ClassId>qnjjng</ClassId>
+  <Date>2002-02-03</Date>
+  <Time>09:30</Time>
+  <Locality>Serra dos Carajás, Pará</Locality>
+  <Latitude>-6.1603</Latitude>
+  <Longitude>-50.3459</Longitude>
+  <Elevation>400</Elevation>
+  <Author>David Beadle</Author>
+  <AuthorID>ETVSBTKLBC</AuthorID>
+  <Content>male, song</Content>
+  <Comments>Song from a male in understory of terra firme forest.bird-seen:yesplayback-used:no</Comments>
+  <Quality>1</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Thamnophilidae</Family>
+  <Genus>Cercomacra</Genus>
+  <Species>nigrescens</Species>
+  <Sub-species>ochrogyna</Sub-species>
+  <VernacularNames>Blackish Antbird</VernacularNames>
+</Audio>

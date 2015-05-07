@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>13401</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN13401.wav</FileName>
+  <ClassId>hdtboj</ClassId>
+  <Date>2003-07-16</Date>
+  <Time>14:25</Time>
+  <Locality>Serra da Capivara National Park, state of Piauí</Locality>
+  <Latitude>-8.863</Latitude>
+  <Longitude>-42.627</Longitude>
+  <Elevation>450</Elevation>
+  <Author>Jeremy Minns</Author>
+  <AuthorID>DGVLLRYDXS</AuthorID>
+  <Content>call</Content>
+  <Comments>Baixo do Perna. Semi-deciduous forest in narrow valley formed by rocky cliffs. Calls by two birds on landing after sallying to hawk for insects.</Comments>
+  <Quality>2</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies>Myiarchus tyrannulus</BackgroundSpecies>
+  <Order>Passeriformes</Order>
+  <Family>Tyrannidae</Family>
+  <Genus>Hirundinea</Genus>
+  <Species>ferruginea</Species>
+  <Sub-species>bellicosa</Sub-species>
+  <VernacularNames>Cliff Flycatcher</VernacularNames>
+</Audio>

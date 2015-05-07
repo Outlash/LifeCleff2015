@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>791</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN791.wav</FileName>
+  <ClassId>wvgogb</ClassId>
+  <Date>2012-10-11</Date>
+  <Time>10:30</Time>
+  <Locality>Pousada Piuval, Transpantaneira km 12, MT</Locality>
+  <Latitude>-16.3834</Latitude>
+  <Longitude>-56.6167</Longitude>
+  <Elevation>120</Elevation>
+  <Author>Andrew Spencer</Author>
+  <AuthorID>CDTGHVBGZP</AuthorID>
+  <Content>song</Content>
+  <Comments>natural vocalizations, prolonged song duet from a pair of birds on the ground, approximately 10m apart from each other and about 40m from me.  While singing the birds didn't move along the ground at all, but sat in one spot with their necks slightly extended and their mouths wide open, with their bodies quivering a bit from the effort of singing.bird-seen:yesplayback-used:no</Comments>
+  <Quality>1</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies />
+  <Order>Cariamiformes</Order>
+  <Family>Cariamidae</Family>
+  <Genus>Cariama</Genus>
+  <Species>cristata</Species>
+  <Sub-species />
+  <VernacularNames>Red-legged Seriema</VernacularNames>
+</Audio>

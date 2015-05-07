@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>2426</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN2426.wav</FileName>
+  <ClassId>coqwwn</ClassId>
+  <Date>2004-03-22</Date>
+  <Time>16:36</Time>
+  <Locality>Jaqueira Private Reserve, State of Pernambuco</Locality>
+  <Latitude>-8.72667</Latitude>
+  <Longitude>-35.79333</Longitude>
+  <Elevation>700</Elevation>
+  <Author>Jeremy Minns</Author>
+  <AuthorID>DGVLLRYDXS</AuthorID>
+  <Content>Song</Content>
+  <Comments>Secondary scrub.</Comments>
+  <Quality>2</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies>Caracara plancus,Pitangus sulphuratus,Turdus leucomelas</BackgroundSpecies>
+  <Order>Passeriformes</Order>
+  <Family>Thraupidae</Family>
+  <Genus>Sporophila</Genus>
+  <Species>leucoptera</Species>
+  <Sub-species>cinereola</Sub-species>
+  <VernacularNames>White-bellied Seedeater</VernacularNames>
+</Audio>

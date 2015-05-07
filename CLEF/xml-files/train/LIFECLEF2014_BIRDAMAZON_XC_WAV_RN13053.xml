@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>13053</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN13053.wav</FileName>
+  <ClassId>bzmmfv</ClassId>
+  <Date>1998-12-14</Date>
+  <Time>07:48</Time>
+  <Locality>Mt. Anhangava, SE of Quatro Barras, Parana</Locality>
+  <Latitude>-25.3867</Latitude>
+  <Longitude>-49.0139</Longitude>
+  <Elevation>1015</Elevation>
+  <Author>Rolf A. de By</Author>
+  <AuthorID>PTYTXQRLSZ</AuthorID>
+  <Content>call</Content>
+  <Comments>the sneeze call</Comments>
+  <Quality>4</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies>Procnias nudicollis,Carpornis cucullata</BackgroundSpecies>
+  <Order>Passeriformes</Order>
+  <Family>Furnariidae</Family>
+  <Genus>Clibanornis</Genus>
+  <Species>dendrocolaptoides</Species>
+  <Sub-species />
+  <VernacularNames>Canebrake Groundcreeper</VernacularNames>
+</Audio>

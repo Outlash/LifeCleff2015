@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>29699</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN29699.wav</FileName>
+  <ClassId>pexhzz</ClassId>
+  <Date>2008-01-00</Date>
+  <Time>?:?</Time>
+  <Locality>Azulita road - Carbonera forest</Locality>
+  <Latitude>NULL</Latitude>
+  <Longitude>NULL</Longitude>
+  <Elevation>1600</Elevation>
+  <Author>Joe Klaiber</Author>
+  <AuthorID>TNPOVFLZMY</AuthorID>
+  <Content>song</Content>
+  <Comments>link:http://www.birds-venezuela.de</Comments>
+  <Quality>2</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Rhinocryptidae</Family>
+  <Genus>Scytalopus</Genus>
+  <Species>meridanus</Species>
+  <Sub-species />
+  <VernacularNames>Merida Tapaculo</VernacularNames>
+</Audio>

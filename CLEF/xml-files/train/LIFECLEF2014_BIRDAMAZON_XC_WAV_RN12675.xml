@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>12675</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN12675.wav</FileName>
+  <ClassId>tkfjdd</ClassId>
+  <Date>2005-12-11</Date>
+  <Time>6:00</Time>
+  <Locality>Parque Estadual Intervales, SP</Locality>
+  <Latitude>-24.2759</Latitude>
+  <Longitude>-48.4181</Longitude>
+  <Elevation>830</Elevation>
+  <Author>Bob Planqué</Author>
+  <AuthorID>OH38YHKJBS</AuthorID>
+  <Content>dawn song</Content>
+  <Comments>Calling while flying overhead</Comments>
+  <Quality>2</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies>Pyriglena leucoptera,Thraupis cyanoptera,Basileuterus culicivorus,Scytalopus speluncae</BackgroundSpecies>
+  <Order>Caprimulgiformes</Order>
+  <Family>Caprimulgidae</Family>
+  <Genus>Lurocalis</Genus>
+  <Species>semitorquatus</Species>
+  <Sub-species />
+  <VernacularNames>Short-tailed Nighthawk</VernacularNames>
+</Audio>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>6533</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN6533.wav</FileName>
+  <ClassId>rstljd</ClassId>
+  <Date>2004-05-19</Date>
+  <Time>?:?</Time>
+  <Locality>Mato Grosso, west bank of Rio Teles Pires</Locality>
+  <Latitude>-9.64</Latitude>
+  <Longitude>-55.94</Longitude>
+  <Elevation>240</Elevation>
+  <Author>Frank Lambert</Author>
+  <AuthorID>YTUXOCTUEM</AuthorID>
+  <Content>call</Content>
+  <Comments>Previously published on AVoCet as &lt;a href=http://avocet.zoology.msu.edu/recordings/10173&gt;AV10173&lt;/a&gt;.  Certainty: slightly less than 100%.  ID determined by: not specifically indicated, recordist normally sees birds recorded and indicates if any question, no close match among XC cuts. GPS: Google Earth.</Comments>
+  <Quality>3</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Tyrannidae</Family>
+  <Genus>Hemitriccus</Genus>
+  <Species>minor</Species>
+  <Sub-species />
+  <VernacularNames>Snethlage's Tody-Tyrant</VernacularNames>
+</Audio>

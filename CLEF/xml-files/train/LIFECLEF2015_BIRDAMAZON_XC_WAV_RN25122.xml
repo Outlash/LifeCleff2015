@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>25122</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN25122.wav</FileName>
+  <ClassId>bjsvvq</ClassId>
+  <Date>2013-01-27</Date>
+  <Time>11:00</Time>
+  <Locality>Laguna de Pedro Palo, Cundinamarca</Locality>
+  <Latitude>4.6834</Latitude>
+  <Longitude>-74.3834</Longitude>
+  <Elevation>2100</Elevation>
+  <Author>Diego Calderon-F.</Author>
+  <AuthorID>OGATBVKNAG</AuthorID>
+  <Content>song</Content>
+  <Comments>2 individualsbird-seen:yesplayback-used:yes</Comments>
+  <Quality>0</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Furnariidae</Family>
+  <Genus>Synallaxis</Genus>
+  <Species>cinnamomea</Species>
+  <Sub-species>cinnamomea</Sub-species>
+  <VernacularNames>Stripe-breasted Spinetail</VernacularNames>
+</Audio>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>18690</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN18690.wav</FileName>
+  <ClassId>ayzwsf</ClassId>
+  <Date>2010-10-10</Date>
+  <Time>15:19</Time>
+  <Locality>Sitio Tomio, Salete, Santa Catarina State</Locality>
+  <Latitude>-26.995</Latitude>
+  <Longitude>-50.014</Longitude>
+  <Elevation>460</Elevation>
+  <Author>Douglas Meyer</Author>
+  <AuthorID>MNENFHYTAE</AuthorID>
+  <Content>flight call, song</Content>
+  <Comments>bird-seen:yesplayback-used:no</Comments>
+  <Quality>1</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Pelecaniformes</Order>
+  <Family>Threskiornithidae</Family>
+  <Genus>Mesembrinibis</Genus>
+  <Species>cayennensis</Species>
+  <Sub-species />
+  <VernacularNames>Green Ibis</VernacularNames>
+</Audio>

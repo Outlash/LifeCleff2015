@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>9919</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN9919.wav</FileName>
+  <ClassId>htgkfv</ClassId>
+  <Date>2010-08-07</Date>
+  <Time>07:30</Time>
+  <Locality>Trilha do Buritizal - Serra do Viruá - Parque Nacional do Viruá</Locality>
+  <Latitude>1.4829</Latitude>
+  <Longitude>-60.9891</Longitude>
+  <Elevation>90</Elevation>
+  <Author>Thiago Orsi Laranjeiras</Author>
+  <AuthorID>PMYLTPLTLT</AuthorID>
+  <Content>song</Content>
+  <Comments>bird-seen:noplayback-used:no</Comments>
+  <Quality>4</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Tyrannidae</Family>
+  <Genus>Mionectes</Genus>
+  <Species>oleagineus</Species>
+  <Sub-species />
+  <VernacularNames>Ochre-bellied Flycatcher</VernacularNames>
+</Audio>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>31393</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN31393.wav</FileName>
+  <ClassId>yxdaxx</ClassId>
+  <Date>2012-11-22</Date>
+  <Time>08:30</Time>
+  <Locality>Bahía Solano, Choco</Locality>
+  <Latitude>6.1114</Latitude>
+  <Longitude>-77.372</Longitude>
+  <Elevation>20</Elevation>
+  <Author>Oswaldo Cortes</Author>
+  <AuthorID>VVDRVZCVWW</AuthorID>
+  <Content>song</Content>
+  <Comments>bird-seen:yesplayback-used:no</Comments>
+  <Quality>2</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Thamnophilidae</Family>
+  <Genus>Myrmeciza</Genus>
+  <Species>exsul</Species>
+  <Sub-species />
+  <VernacularNames>Chestnut-backed Antbird</VernacularNames>
+</Audio>

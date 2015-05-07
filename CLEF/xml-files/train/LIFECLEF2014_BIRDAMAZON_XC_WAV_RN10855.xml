@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>10855</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN10855.wav</FileName>
+  <ClassId>yofmmq</ClassId>
+  <Date>2011-06-06</Date>
+  <Time>07:15</Time>
+  <Locality>Banhado do Maçarico region, Rio Grande, Rio Grande do Sul</Locality>
+  <Latitude>-32.111</Latitude>
+  <Longitude>-52.261</Longitude>
+  <Elevation>2</Elevation>
+  <Author>Rafael Antunes Dias</Author>
+  <AuthorID>XJSWEWQCEC</AuthorID>
+  <Content>song</Content>
+  <Comments>In bulrush marsh</Comments>
+  <Quality>5</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Furnariidae</Family>
+  <Genus>Phleocryptes</Genus>
+  <Species>melanops</Species>
+  <Sub-species />
+  <VernacularNames>Wren-like Rushbird</VernacularNames>
+</Audio>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>24245</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN24245.wav</FileName>
+  <ClassId>qfjwpy</ClassId>
+  <Date>2008-01-28</Date>
+  <Time>08:30</Time>
+  <Locality>Hato Pinero, Laguna Grande, Cojedes</Locality>
+  <Latitude>8.967</Latitude>
+  <Longitude>-68.078</Longitude>
+  <Elevation>80</Elevation>
+  <Author>Daniel Lane</Author>
+  <AuthorID>WOEAFQRMUD</AuthorID>
+  <Content>call</Content>
+  <Comments>Calls from pair flying along edge of lake.</Comments>
+  <Quality>1</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies>Ortalis ruficauda</BackgroundSpecies>
+  <Order>Charadriiformes</Order>
+  <Family>Charadriidae</Family>
+  <Genus>Vanellus</Genus>
+  <Species>chilensis</Species>
+  <Sub-species />
+  <VernacularNames>Southern Lapwing</VernacularNames>
+</Audio>

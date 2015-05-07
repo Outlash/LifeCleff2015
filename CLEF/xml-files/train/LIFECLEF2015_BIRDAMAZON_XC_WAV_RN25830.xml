@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>25830</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN25830.wav</FileName>
+  <ClassId>mdgxvm</ClassId>
+  <Date>2008-09-27</Date>
+  <Time>?</Time>
+  <Locality>Lajeado Grande, Alpestre, Rio Grande do Sul</Locality>
+  <Latitude>-27.2395</Latitude>
+  <Longitude>-52.9695</Longitude>
+  <Elevation>275</Elevation>
+  <Author>Adrian Eisen Rupp</Author>
+  <AuthorID>AOPMSCIDIA</AuthorID>
+  <Content>song</Content>
+  <Comments />
+  <Quality>1</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies>Conopophaga lineata,Saltator similis,Aramides saracura</BackgroundSpecies>
+  <Order>Cuculiformes</Order>
+  <Family>Cuculidae</Family>
+  <Genus>Dromococcyx</Genus>
+  <Species>pavoninus</Species>
+  <Sub-species />
+  <VernacularNames>Pavonine Cuckoo</VernacularNames>
+</Audio>

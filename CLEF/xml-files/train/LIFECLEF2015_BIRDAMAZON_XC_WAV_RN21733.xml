@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>21733</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN21733.wav</FileName>
+  <ClassId>mxonho</ClassId>
+  <Date>2003-05-24</Date>
+  <Time>xx:xx</Time>
+  <Locality>Humedal Laguna del Neuta, Soacha, Cundinamarca</Locality>
+  <Latitude>NULL</Latitude>
+  <Longitude>NULL</Longitude>
+  <Elevation>2600</Elevation>
+  <Author>Bernabe Lopez-Lanus</Author>
+  <AuthorID>BYLLSJRVDZ</AuthorID>
+  <Content>call</Content>
+  <Comments>Youngs and an adult arriving to the nest</Comments>
+  <Quality>2</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Pelecaniformes</Order>
+  <Family>Ardeidae</Family>
+  <Genus>Bubulcus</Genus>
+  <Species>ibis</Species>
+  <Sub-species />
+  <VernacularNames>Western Cattle Egret</VernacularNames>
+</Audio>

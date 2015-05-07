@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>20360</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN20360.wav</FileName>
+  <ClassId>efojdf</ClassId>
+  <Date>2007-04-05</Date>
+  <Time>08:30</Time>
+  <Locality>FARALLON DE MEDINA</Locality>
+  <Latitude>4.5834</Latitude>
+  <Longitude>-73.4834</Longitude>
+  <Elevation>2100</Elevation>
+  <Author>Oswaldo Cortes</Author>
+  <AuthorID>VVDRVZCVWW</AuthorID>
+  <Content>song</Content>
+  <Comments />
+  <Quality>2</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Grallariidae</Family>
+  <Genus>Grallaria</Genus>
+  <Species>kaestneri</Species>
+  <Sub-species />
+  <VernacularNames>Cundinamarca Antpitta</VernacularNames>
+</Audio>

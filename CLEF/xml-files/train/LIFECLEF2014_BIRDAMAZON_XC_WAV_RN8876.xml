@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>8876</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN8876.wav</FileName>
+  <ClassId>bzmmfv</ClassId>
+  <Date>2007-12-09</Date>
+  <Time>07:17</Time>
+  <Locality>Fazenda Cerro Azul, Rio Negrinho, Santa Catarina</Locality>
+  <Latitude>-26.7048</Latitude>
+  <Longitude>-49.6042</Longitude>
+  <Elevation>960</Elevation>
+  <Author>Adrian Eisen Rupp</Author>
+  <AuthorID>AOPMSCIDIA</AuthorID>
+  <Content>song</Content>
+  <Comments />
+  <Quality>1</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies>Cyclarhis gujanensis</BackgroundSpecies>
+  <Order>Passeriformes</Order>
+  <Family>Furnariidae</Family>
+  <Genus>Clibanornis</Genus>
+  <Species>dendrocolaptoides</Species>
+  <Sub-species />
+  <VernacularNames>Canebrake Groundcreeper</VernacularNames>
+</Audio>

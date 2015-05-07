@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>22964</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN22964.wav</FileName>
+  <ClassId>smulfl</ClassId>
+  <Date>2010-01-08</Date>
+  <Time>14:00</Time>
+  <Locality>Santa Cecilia, Serrania de San Lucas</Locality>
+  <Latitude>7.9759</Latitude>
+  <Longitude>-74.2153</Longitude>
+  <Elevation>1550</Elevation>
+  <Author>Thomas Donegan</Author>
+  <AuthorID>OXSIOLJJUP</AuthorID>
+  <Content>Song</Content>
+  <Comments>In a mixed species flock</Comments>
+  <Quality>5</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies>Hylophilus semibrunneus</BackgroundSpecies>
+  <Order>Passeriformes</Order>
+  <Family>Furnariidae</Family>
+  <Genus>Cranioleuca</Genus>
+  <Species>erythrops</Species>
+  <Sub-species />
+  <VernacularNames>Red-faced Spinetail</VernacularNames>
+</Audio>

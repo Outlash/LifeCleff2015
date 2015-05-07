@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>13625</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN13625.wav</FileName>
+  <ClassId>gwzyoa</ClassId>
+  <Date>2003-04-09</Date>
+  <Time>06:11</Time>
+  <Locality>Pousada Thaimaçu. Rio São Benedito</Locality>
+  <Latitude>-9.0501</Latitude>
+  <Longitude>-56.5834</Longitude>
+  <Elevation>250</Elevation>
+  <Author>Jeremy Minns</Author>
+  <AuthorID>DGVLLRYDXS</AuthorID>
+  <Content>Song</Content>
+  <Comments>Waterlogged area around a stream in terra firme forest.</Comments>
+  <Quality>1</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies>Schistocichla rufifacies</BackgroundSpecies>
+  <Order>Passeriformes</Order>
+  <Family>Thamnophilidae</Family>
+  <Genus>Hylophylax</Genus>
+  <Species>naevius</Species>
+  <Sub-species>ochraceus</Sub-species>
+  <VernacularNames>Spot-backed Antbird</VernacularNames>
+</Audio>

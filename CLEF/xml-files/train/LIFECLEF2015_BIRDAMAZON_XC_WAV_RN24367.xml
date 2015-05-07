@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>24367</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN24367.wav</FileName>
+  <ClassId>tlnmxr</ClassId>
+  <Date>2008-07-17</Date>
+  <Time>10:00</Time>
+  <Locality>El 18, Valle del Cauca</Locality>
+  <Latitude>3.4853</Latitude>
+  <Longitude>-76.6178</Longitude>
+  <Elevation>?</Elevation>
+  <Author>Andrew Spencer</Author>
+  <AuthorID>CDTGHVBGZP</AuthorID>
+  <Content>song</Content>
+  <Comments />
+  <Quality>1</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Furnariidae</Family>
+  <Genus>Syndactyla</Genus>
+  <Species>subalaris</Species>
+  <Sub-species>subalaris</Sub-species>
+  <VernacularNames>Lineated Foliage-gleaner</VernacularNames>
+</Audio>

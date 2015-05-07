@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>7235</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN7235.wav</FileName>
+  <ClassId>nlducw</ClassId>
+  <Date>2006-11-13</Date>
+  <Time>13:15</Time>
+  <Locality>Hotel Simone, Itatiaia NP,  Rio de Janeiro state</Locality>
+  <Latitude>-22.4378</Latitude>
+  <Longitude>-44.607</Longitude>
+  <Elevation>1050</Elevation>
+  <Author>Daniel Lane</Author>
+  <AuthorID>WOEAFQRMUD</AuthorID>
+  <Content>daytime song</Content>
+  <Comments>Natural song from a bird about 20m up in tall montane forest on slope with heavy bamboo understory, around edge of gap.</Comments>
+  <Quality>2</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies>Chiroxiphia caudata,Orchesticus abeillei</BackgroundSpecies>
+  <Order>Passeriformes</Order>
+  <Family>Tyrannidae</Family>
+  <Genus>Contopus</Genus>
+  <Species>cinereus</Species>
+  <Sub-species>cinereus</Sub-species>
+  <VernacularNames>Tropical Pewee</VernacularNames>
+</Audio>

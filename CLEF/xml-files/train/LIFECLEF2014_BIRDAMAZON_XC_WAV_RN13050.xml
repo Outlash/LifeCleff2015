@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>13050</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN13050.wav</FileName>
+  <ClassId>myyugr</ClassId>
+  <Date>2012-10-11</Date>
+  <Time>05:15</Time>
+  <Locality>Pousada Piuval, Transpantaneira km 12, MT</Locality>
+  <Latitude>-16.3834</Latitude>
+  <Longitude>-56.6167</Longitude>
+  <Elevation>120</Elevation>
+  <Author>Andrew Spencer</Author>
+  <AuthorID>CDTGHVBGZP</AuthorID>
+  <Content>dawn song</Content>
+  <Comments>natural vocalizations, dawn song from a bird sitting on top of the lodge buildings.bird-seen:yesplayback-used:no</Comments>
+  <Quality>1</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Tyrannidae</Family>
+  <Genus>Machetornis</Genus>
+  <Species>rixosa</Species>
+  <Sub-species>rixosa</Sub-species>
+  <VernacularNames>Cattle Tyrant</VernacularNames>
+</Audio>

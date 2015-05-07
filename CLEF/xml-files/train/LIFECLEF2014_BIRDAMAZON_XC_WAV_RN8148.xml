@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>8148</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN8148.wav</FileName>
+  <ClassId>jnqggx</ClassId>
+  <Date>2011-10-11</Date>
+  <Time>07:30</Time>
+  <Locality>Porto Velho, Rondônia</Locality>
+  <Latitude>-9.2485</Latitude>
+  <Longitude>-64.4897</Longitude>
+  <Elevation>100</Elevation>
+  <Author>GABRIEL LEITE</Author>
+  <AuthorID>TGBFXDVERJ</AuthorID>
+  <Content>call</Content>
+  <Comments>bird-seen:yesplayback-used:no</Comments>
+  <Quality>3</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Furnariidae</Family>
+  <Genus>Glyphorynchus</Genus>
+  <Species>spirurus</Species>
+  <Sub-species />
+  <VernacularNames>Wedge-billed Woodcreeper</VernacularNames>
+</Audio>

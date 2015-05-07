@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>7209</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN7209.wav</FileName>
+  <ClassId>xjpygk</ClassId>
+  <Date>2006-01-29</Date>
+  <Time>08:00</Time>
+  <Locality>Careiro da Varzea, AM</Locality>
+  <Latitude>-3.2231</Latitude>
+  <Longitude>-59.8664</Longitude>
+  <Elevation>20</Elevation>
+  <Author>Nick Athanas</Author>
+  <AuthorID>XRABICUARW</AuthorID>
+  <Content>call</Content>
+  <Comments>Calls from male. img:http://www.antpitta.com/images/photos/antbirds/Glossy-Antshrike-Careiro.jpg</Comments>
+  <Quality>2</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies>Cantorchilus leucotis,Rupornis magnirostris,Leptotila rufaxilla,Attila cinnamomeus</BackgroundSpecies>
+  <Order>Passeriformes</Order>
+  <Family>Thamnophilidae</Family>
+  <Genus>Sakesphorus</Genus>
+  <Species>luctuosus</Species>
+  <Sub-species>luctuosus</Sub-species>
+  <VernacularNames>Glossy Antshrike</VernacularNames>
+</Audio>

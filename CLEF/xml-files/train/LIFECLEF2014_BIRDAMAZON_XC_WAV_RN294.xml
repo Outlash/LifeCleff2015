@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>294</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN294.wav</FileName>
+  <ClassId>tovyzm</ClassId>
+  <Date>2007-12-08</Date>
+  <Time>09:00</Time>
+  <Locality>right bank medio Rio Jurua, near Bauana</Locality>
+  <Latitude>-5.423</Latitude>
+  <Longitude>-67.28</Longitude>
+  <Elevation>?</Elevation>
+  <Author>Alexander Lees</Author>
+  <AuthorID>INDDBZAFJL</AuthorID>
+  <Content>song</Content>
+  <Comments />
+  <Quality>2</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies />
+  <Order>Accipitriformes</Order>
+  <Family>Accipitridae</Family>
+  <Genus>Spizaetus</Genus>
+  <Species>tyrannus</Species>
+  <Sub-species />
+  <VernacularNames>Black Hawk-Eagle</VernacularNames>
+</Audio>

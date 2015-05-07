@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>22631</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN22631.wav</FileName>
+  <ClassId>yrrqto</ClassId>
+  <Date>2010-01-31</Date>
+  <Time>11:00</Time>
+  <Locality>Alto Galapagos</Locality>
+  <Latitude>NULL</Latitude>
+  <Longitude>NULL</Longitude>
+  <Elevation>1500</Elevation>
+  <Author>Frank Lambert</Author>
+  <AuthorID>YTUXOCTUEM</AuthorID>
+  <Content>call</Content>
+  <Comments>altitude may be a bit lower than stated</Comments>
+  <Quality>0</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Thraupidae</Family>
+  <Genus>Bangsia</Genus>
+  <Species>aureocincta</Species>
+  <Sub-species />
+  <VernacularNames>Gold-ringed Tanager</VernacularNames>
+</Audio>

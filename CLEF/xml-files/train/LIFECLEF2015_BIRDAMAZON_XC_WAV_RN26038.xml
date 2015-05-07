@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>26038</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN26038.wav</FileName>
+  <ClassId>abyhkz</ClassId>
+  <Date>2013-01-28</Date>
+  <Time>08:00</Time>
+  <Locality>Libano</Locality>
+  <Latitude>4.924</Latitude>
+  <Longitude>-75.067</Longitude>
+  <Elevation>1600</Elevation>
+  <Author>Ottavio Janni</Author>
+  <AuthorID>PWMAZXONXH</AuthorID>
+  <Content>flight call</Content>
+  <Comments>Calls from flockbird-seen:yesplayback-used:no</Comments>
+  <Quality>2</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Apodiformes</Order>
+  <Family>Apodidae</Family>
+  <Genus>Streptoprocne</Genus>
+  <Species>zonaris</Species>
+  <Sub-species />
+  <VernacularNames>White-collared Swift</VernacularNames>
+</Audio>

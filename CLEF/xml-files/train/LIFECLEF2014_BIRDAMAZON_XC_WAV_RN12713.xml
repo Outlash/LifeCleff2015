@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>12713</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN12713.wav</FileName>
+  <ClassId>yznhag</ClassId>
+  <Date>2009-04-22</Date>
+  <Time>7:00</Time>
+  <Locality>Horto Marcanair, Jandaíra, Bahia</Locality>
+  <Latitude>NULL</Latitude>
+  <Longitude>NULL</Longitude>
+  <Elevation>100</Elevation>
+  <Author>Sidnei S. dos Santos</Author>
+  <AuthorID>BHODJXTHGQ</AuthorID>
+  <Content>song</Content>
+  <Comments />
+  <Quality>1</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Thamnophilidae</Family>
+  <Genus>Pyriglena</Genus>
+  <Species>atra</Species>
+  <Sub-species />
+  <VernacularNames>Fringe-backed Fire-eye</VernacularNames>
+</Audio>

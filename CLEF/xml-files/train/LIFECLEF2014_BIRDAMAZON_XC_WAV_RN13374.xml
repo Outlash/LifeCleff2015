@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>13374</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN13374.wav</FileName>
+  <ClassId>ixjdrc</ClassId>
+  <Date>2007-01-02</Date>
+  <Time>pm</Time>
+  <Locality>Reserva Natural da Vale do Rio Doce, ES</Locality>
+  <Latitude>-19.1167</Latitude>
+  <Longitude>-39.9501</Longitude>
+  <Elevation>50</Elevation>
+  <Author>Richard Raby</Author>
+  <AuthorID>IMAIFIHBRG</AuthorID>
+  <Content>Teretorial, non lekking</Content>
+  <Comments />
+  <Quality>1</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Pipridae</Family>
+  <Genus>Dixiphia</Genus>
+  <Species>rubrocapilla</Species>
+  <Sub-species />
+  <VernacularNames>Red-headed Manakin</VernacularNames>
+</Audio>

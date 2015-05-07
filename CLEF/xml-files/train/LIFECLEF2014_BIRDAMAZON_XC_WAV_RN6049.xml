@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>6049</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN6049.wav</FileName>
+  <ClassId>rfdfsw</ClassId>
+  <Date>1996-11-15</Date>
+  <Time>07:15</Time>
+  <Locality>Ubatuba, SP. Corcovado.</Locality>
+  <Latitude>-23.5001</Latitude>
+  <Longitude>-45.2167</Longitude>
+  <Elevation>40</Elevation>
+  <Author>Jeremy Minns</Author>
+  <AuthorID>DGVLLRYDXS</AuthorID>
+  <Content>Song</Content>
+  <Comments>Open area with scattered trees near humid forest and beside a stream.</Comments>
+  <Quality>2</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies>Drymophila ferruginea,Capsiempis flaveola</BackgroundSpecies>
+  <Order>Passeriformes</Order>
+  <Family>Vireonidae</Family>
+  <Genus>Hylophilus</Genus>
+  <Species>thoracicus</Species>
+  <Sub-species>thoracicus</Sub-species>
+  <VernacularNames>Lemon-chested Greenlet</VernacularNames>
+</Audio>

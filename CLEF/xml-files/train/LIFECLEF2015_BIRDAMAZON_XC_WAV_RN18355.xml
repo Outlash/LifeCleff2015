@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>18355</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN18355.wav</FileName>
+  <ClassId>mddteh</ClassId>
+  <Date>2006-01-10</Date>
+  <Time>?</Time>
+  <Locality>Coesewijne</Locality>
+  <Latitude>5.38</Latitude>
+  <Longitude>-55.6101</Longitude>
+  <Elevation>?</Elevation>
+  <Author>Otte Ottema</Author>
+  <AuthorID>ASEUAUOXZA</AuthorID>
+  <Content>song</Content>
+  <Comments>link:http://www.planktonik.com/birdingsuriname/</Comments>
+  <Quality>2</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Tyrannidae</Family>
+  <Genus>Myiopagis</Genus>
+  <Species>gaimardii</Species>
+  <Sub-species />
+  <VernacularNames>Forest Elaenia</VernacularNames>
+</Audio>

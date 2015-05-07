@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>989</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN989.wav</FileName>
+  <ClassId>nhduqd</ClassId>
+  <Date>2010-12-02</Date>
+  <Time>06:30</Time>
+  <Locality>Belterra, Bacia 357, PA</Locality>
+  <Latitude>-3.372</Latitude>
+  <Longitude>-54.8478</Longitude>
+  <Elevation>?</Elevation>
+  <Author>Alexander Lees</Author>
+  <AuthorID>INDDBZAFJL</AuthorID>
+  <Content>song</Content>
+  <Comments>primary forest (burnt)</Comments>
+  <Quality>4</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies>Amazona farinosa,Myrmeciza hemimelaena,Pachyramphus marginatus,Saltator grossus</BackgroundSpecies>
+  <Order>Passeriformes</Order>
+  <Family>Hirundinidae</Family>
+  <Genus>Progne</Genus>
+  <Species>chalybea</Species>
+  <Sub-species>chalybea</Sub-species>
+  <VernacularNames>Grey-breasted Martin</VernacularNames>
+</Audio>

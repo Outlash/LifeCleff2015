@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>31120</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN31120.wav</FileName>
+  <ClassId>mogrgi</ClassId>
+  <Date>2000-06-03</Date>
+  <Time>15:00</Time>
+  <Locality>Reserva La Forzosa (Vereda Roble arriba), Anori, Antioquia</Locality>
+  <Latitude>NULL</Latitude>
+  <Longitude>NULL</Longitude>
+  <Elevation>1800</Elevation>
+  <Author>Bernabe Lopez-Lanus</Author>
+  <AuthorID>BYLLSJRVDZ</AuthorID>
+  <Content>Song</Content>
+  <Comments />
+  <Quality>2</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Cotingidae</Family>
+  <Genus>Lipaugus</Genus>
+  <Species>weberi</Species>
+  <Sub-species />
+  <VernacularNames>Chestnut-capped Piha</VernacularNames>
+</Audio>

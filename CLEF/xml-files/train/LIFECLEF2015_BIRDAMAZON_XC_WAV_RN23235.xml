@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>23235</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN23235.wav</FileName>
+  <ClassId>zptkey</ClassId>
+  <Date>2013-02-25</Date>
+  <Time>15:00</Time>
+  <Locality>Viçosa, Minas Gerais</Locality>
+  <Latitude>-20.79</Latitude>
+  <Longitude>-42.8882</Longitude>
+  <Elevation>800</Elevation>
+  <Author>Noé Eiterer</Author>
+  <AuthorID>TWSKITNQOV</AuthorID>
+  <Content>call</Content>
+  <Comments>bird-seen:noplayback-used:no</Comments>
+  <Quality>2</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Tyrannidae</Family>
+  <Genus>Myiarchus</Genus>
+  <Species>tuberculifer</Species>
+  <Sub-species />
+  <VernacularNames>Dusky-capped Flycatcher</VernacularNames>
+</Audio>

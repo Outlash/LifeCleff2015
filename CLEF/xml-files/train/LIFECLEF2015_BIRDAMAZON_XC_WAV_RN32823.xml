@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>32823</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN32823.wav</FileName>
+  <ClassId>zvyuyj</ClassId>
+  <Date>2004-01-00</Date>
+  <Time>xx:xx</Time>
+  <Locality>Cerro de la Paz, nr. Serrania de los Yariguies, mun. Zapatoca Santande</Locality>
+  <Latitude>6.9834</Latitude>
+  <Longitude>-73.4334</Longitude>
+  <Elevation>1300</Elevation>
+  <Author>Thomas Donegan</Author>
+  <AuthorID>OXSIOLJJUP</AuthorID>
+  <Content>Flight Call</Content>
+  <Comments />
+  <Quality>4</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies>Patagioenas plumbea</BackgroundSpecies>
+  <Order>Psittaciformes</Order>
+  <Family>Psittacidae</Family>
+  <Genus>Pyrilia</Genus>
+  <Species>pyrilia</Species>
+  <Sub-species />
+  <VernacularNames>Saffron-headed Parrot</VernacularNames>
+</Audio>

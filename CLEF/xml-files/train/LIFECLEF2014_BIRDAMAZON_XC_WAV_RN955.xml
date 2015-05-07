@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>955</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN955.wav</FileName>
+  <ClassId>lssubf</ClassId>
+  <Date>2001-10-00</Date>
+  <Time>?:?</Time>
+  <Locality>Ubatuba, SP. Fazenda Angelim</Locality>
+  <Latitude>-23.4334</Latitude>
+  <Longitude>-45.1167</Longitude>
+  <Elevation>?</Elevation>
+  <Author>John van der Woude</Author>
+  <AuthorID>LDKAWQWMRJ</AuthorID>
+  <Content>song</Content>
+  <Comments>trip:http://home.tiscali.nl/~jvanderw/brazil01/summary.html</Comments>
+  <Quality>1</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies>Vireo olivaceus</BackgroundSpecies>
+  <Order>Passeriformes</Order>
+  <Family>Thamnophilidae</Family>
+  <Genus>Drymophila</Genus>
+  <Species>ferruginea</Species>
+  <Sub-species />
+  <VernacularNames>Ferruginous Antbird</VernacularNames>
+</Audio>

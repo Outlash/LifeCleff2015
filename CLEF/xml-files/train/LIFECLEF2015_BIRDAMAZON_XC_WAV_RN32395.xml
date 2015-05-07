@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>32395</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN32395.wav</FileName>
+  <ClassId>rvpusq</ClassId>
+  <Date>2001-11-20</Date>
+  <Time>06:16</Time>
+  <Locality>Road to Remanso, Lençóis, Chapada Diamantina, BA</Locality>
+  <Latitude>-12.5834</Latitude>
+  <Longitude>-41.3667</Longitude>
+  <Elevation>400</Elevation>
+  <Author>Jeremy Minns</Author>
+  <AuthorID>DGVLLRYDXS</AuthorID>
+  <Content>Wing sounds and calls</Content>
+  <Comments>Humid forest.</Comments>
+  <Quality>2</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies>Tolmomyias flaviventris,Myiodynastes maculatus,Cyclarhis gujanensis</BackgroundSpecies>
+  <Order>Passeriformes</Order>
+  <Family>Icteridae</Family>
+  <Genus>Icterus</Genus>
+  <Species>jamacaii</Species>
+  <Sub-species />
+  <VernacularNames>Campo Troupial</VernacularNames>
+</Audio>

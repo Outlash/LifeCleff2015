@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>13916</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN13916.wav</FileName>
+  <ClassId>yjatvw</ClassId>
+  <Date>2012-09-22</Date>
+  <Time>03:00</Time>
+  <Locality>Reserva de Floresta seca-Avenida Samambaia-Campus II UFGo - Goiânia, Goias.</Locality>
+  <Latitude>NULL</Latitude>
+  <Longitude>NULL</Longitude>
+  <Elevation>740</Elevation>
+  <Author>Nunes D´Acosta</Author>
+  <AuthorID>OHHTDSDNBT</AuthorID>
+  <Content>Alarme</Content>
+  <Comments />
+  <Quality>3</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies />
+  <Order>Strigiformes</Order>
+  <Family>Strigidae</Family>
+  <Genus>Pseudoscops</Genus>
+  <Species>clamator</Species>
+  <Sub-species />
+  <VernacularNames>Striped Owl</VernacularNames>
+</Audio>

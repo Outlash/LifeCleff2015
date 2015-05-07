@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>3757</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN3757.wav</FileName>
+  <ClassId>rthdxq</ClassId>
+  <Date>2013-09-07</Date>
+  <Time>09:30</Time>
+  <Locality>Tanquã, Rio Piracicaba, Piracicaba, São Paulo</Locality>
+  <Latitude>-22.6771</Latitude>
+  <Longitude>-47.9831</Longitude>
+  <Elevation>460</Elevation>
+  <Author>Robson Silva e Silva</Author>
+  <AuthorID>WZSVLIHYQF</AuthorID>
+  <Content>song</Content>
+  <Comments>bird-seen:yesplayback-used:no</Comments>
+  <Quality>1</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Motacillidae</Family>
+  <Genus>Anthus</Genus>
+  <Species>lutescens</Species>
+  <Sub-species />
+  <VernacularNames>Yellowish Pipit</VernacularNames>
+</Audio>

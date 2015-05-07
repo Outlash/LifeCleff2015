@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>25124</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN25124.wav</FileName>
+  <ClassId>ovfpsf</ClassId>
+  <Date>1999-05-07</Date>
+  <Time>pm</Time>
+  <Locality>Finca La Siberia, Roncesvalles, Tolima</Locality>
+  <Latitude>NULL</Latitude>
+  <Longitude>NULL</Longitude>
+  <Elevation>2650</Elevation>
+  <Author>Bernabe Lopez-Lanus</Author>
+  <AuthorID>BYLLSJRVDZ</AuthorID>
+  <Content>call</Content>
+  <Comments>Calls from perched birds. Note: The Grallaria Antpitta three notes song at the end of this cut is from a hybrid bird between G. ruficapilla x G. nuchalis (see B. Lopez-Lanus in Cadena et al. 2007).</Comments>
+  <Quality>1</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Psittaciformes</Order>
+  <Family>Psittacidae</Family>
+  <Genus>Ognorhynchus</Genus>
+  <Species>icterotis</Species>
+  <Sub-species />
+  <VernacularNames>Yellow-eared Parrot</VernacularNames>
+</Audio>

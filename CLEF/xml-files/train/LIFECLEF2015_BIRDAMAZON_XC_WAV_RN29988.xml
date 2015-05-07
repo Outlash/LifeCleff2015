@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>29988</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN29988.wav</FileName>
+  <ClassId>wbchba</ClassId>
+  <Date>2012-05-31</Date>
+  <Time>6:54 Am</Time>
+  <Locality>Reserva Alegrias</Locality>
+  <Latitude>4.921</Latitude>
+  <Longitude>-75.081</Longitude>
+  <Elevation>1670</Elevation>
+  <Author>Jeisson Poveda</Author>
+  <AuthorID>CVJNYXJFAW</AuthorID>
+  <Content>?</Content>
+  <Comments />
+  <Quality>2</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Emberizidae</Family>
+  <Genus>Arremonops</Genus>
+  <Species>conirostris</Species>
+  <Sub-species />
+  <VernacularNames>Black-striped Sparrow</VernacularNames>
+</Audio>

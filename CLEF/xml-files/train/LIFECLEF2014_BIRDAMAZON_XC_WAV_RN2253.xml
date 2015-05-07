@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>2253</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN2253.wav</FileName>
+  <ClassId>gmeajz</ClassId>
+  <Date>2011-03-25</Date>
+  <Time>10.26</Time>
+  <Locality>Lencois, Remanso Road, Bahia</Locality>
+  <Latitude>-12.548</Latitude>
+  <Longitude>-41.362</Longitude>
+  <Elevation>484</Elevation>
+  <Author>Juha Honkala</Author>
+  <AuthorID>UTCLOBFQPH</AuthorID>
+  <Content>Call</Content>
+  <Comments />
+  <Quality>2</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Pipridae</Family>
+  <Genus>Chiroxiphia</Genus>
+  <Species>pareola</Species>
+  <Sub-species />
+  <VernacularNames>Blue-backed Manakin</VernacularNames>
+</Audio>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>15377</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN15377.wav</FileName>
+  <ClassId>oamyzj</ClassId>
+  <Date>2010-06-19</Date>
+  <Time>14:44</Time>
+  <Locality>Salto da Divisa, state of Minas Gerais</Locality>
+  <Latitude>-16.031</Latitude>
+  <Longitude>-39.942</Longitude>
+  <Elevation>200</Elevation>
+  <Author>Ciro Albano</Author>
+  <AuthorID>MXVQPUKGWW</AuthorID>
+  <Content>song</Content>
+  <Comments>img:http://www.flickr.com/photos/ciroalbanofotos/4805948164/#/photos/ciroalbanofotos/4805948164/lightbox/</Comments>
+  <Quality>0</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Thamnophilidae</Family>
+  <Genus>Rhopornis</Genus>
+  <Species>ardesiacus</Species>
+  <Sub-species />
+  <VernacularNames>Slender Antbird</VernacularNames>
+</Audio>

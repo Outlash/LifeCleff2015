@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>11979</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN11979.wav</FileName>
+  <ClassId>xyvbwf</ClassId>
+  <Date>2004-08-15</Date>
+  <Time>06:31</Time>
+  <Locality>Borba, Amazonas</Locality>
+  <Latitude>-4.3881</Latitude>
+  <Longitude>-59.5934</Longitude>
+  <Elevation>30</Elevation>
+  <Author>Jeremy Minns</Author>
+  <AuthorID>DGVLLRYDXS</AuthorID>
+  <Content>call, song</Content>
+  <Comments>Scrub on edge of terra firme forest. Male.</Comments>
+  <Quality>1</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies>Ramphastos tucanus</BackgroundSpecies>
+  <Order>Passeriformes</Order>
+  <Family>Thamnophilidae</Family>
+  <Genus>Microrhopias</Genus>
+  <Species>quixensis</Species>
+  <Sub-species>bicolor</Sub-species>
+  <VernacularNames>Dot-winged Antwren</VernacularNames>
+</Audio>

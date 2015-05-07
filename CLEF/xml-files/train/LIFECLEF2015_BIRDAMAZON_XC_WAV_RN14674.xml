@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>14674</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN14674.wav</FileName>
+  <ClassId>dtjwwt</ClassId>
+  <Date>2013-02-01</Date>
+  <Time>08:00</Time>
+  <Locality>Ventanas Peak Road, Jardin, Antioquia, W Andes</Locality>
+  <Latitude>5.547</Latitude>
+  <Longitude>-75.794</Longitude>
+  <Elevation>2800</Elevation>
+  <Author>Diego Calderon-F.</Author>
+  <AuthorID>OGATBVKNAG</AuthorID>
+  <Content>call, song</Content>
+  <Comments>a couple after heavy playbackbird-seen:yesplayback-used:yes</Comments>
+  <Quality>0</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies>Acropternis orthonyx</BackgroundSpecies>
+  <Order>Passeriformes</Order>
+  <Family>Rhinocryptidae</Family>
+  <Genus>Acropternis</Genus>
+  <Species>orthonyx</Species>
+  <Sub-species>orthonyx</Sub-species>
+  <VernacularNames>Ocellated Tapaculo</VernacularNames>
+</Audio>

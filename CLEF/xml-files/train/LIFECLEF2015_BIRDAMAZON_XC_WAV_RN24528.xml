@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>24528</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN24528.wav</FileName>
+  <ClassId>ffvgyk</ClassId>
+  <Date>2006-01-00</Date>
+  <Time>xx:xx</Time>
+  <Locality>Honduras Alto, El Carmen, Serrania de los Yariguies</Locality>
+  <Latitude>6.6212</Latitude>
+  <Longitude>-73.5003</Longitude>
+  <Elevation>1600</Elevation>
+  <Author>Thomas Donegan</Author>
+  <AuthorID>OXSIOLJJUP</AuthorID>
+  <Content>Call</Content>
+  <Comments>Gets louder and louder over time as birds approach closer</Comments>
+  <Quality>5</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies>Thalurania colombica,Vireolanius eximius</BackgroundSpecies>
+  <Order>Passeriformes</Order>
+  <Family>Troglodytidae</Family>
+  <Genus>Henicorhina</Genus>
+  <Species>leucophrys</Species>
+  <Sub-species />
+  <VernacularNames>Grey-breasted Wood Wren</VernacularNames>
+</Audio>

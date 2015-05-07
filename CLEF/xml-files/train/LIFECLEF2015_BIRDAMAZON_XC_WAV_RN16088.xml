@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>16088</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN16088.wav</FileName>
+  <ClassId>uvfjyo</ClassId>
+  <Date>2013-12-27</Date>
+  <Time>09:30</Time>
+  <Locality>Juiz de Fora, Minas Gerais</Locality>
+  <Latitude>NULL</Latitude>
+  <Longitude>NULL</Longitude>
+  <Elevation>700</Elevation>
+  <Author>Noé Eiterer</Author>
+  <AuthorID>TWSKITNQOV</AuthorID>
+  <Content>song</Content>
+  <Comments>bird-seen:yesplayback-used:yes</Comments>
+  <Quality>1</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Thraupidae</Family>
+  <Genus>Hemithraupis</Genus>
+  <Species>ruficapilla</Species>
+  <Sub-species />
+  <VernacularNames>Rufous-headed Tanager</VernacularNames>
+</Audio>

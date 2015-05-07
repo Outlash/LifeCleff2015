@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>25057</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN25057.wav</FileName>
+  <ClassId>hultky</ClassId>
+  <Date>2006-12-00</Date>
+  <Time>?:?</Time>
+  <Locality>Rio Grande, Sierra de Imataca, Bolivar</Locality>
+  <Latitude>8.1101</Latitude>
+  <Longitude>-61.6714</Longitude>
+  <Elevation>300</Elevation>
+  <Author>David Edwards</Author>
+  <AuthorID>AFEHYCAHZR</AuthorID>
+  <Content>song</Content>
+  <Comments />
+  <Quality>1</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Icteridae</Family>
+  <Genus>Psarocolius</Genus>
+  <Species>viridis</Species>
+  <Sub-species />
+  <VernacularNames>Green Oropendola</VernacularNames>
+</Audio>

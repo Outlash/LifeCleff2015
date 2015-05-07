@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>6462</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN6462.wav</FileName>
+  <ClassId>gghnhg</ClassId>
+  <Date>2011-02-03</Date>
+  <Time>11:00</Time>
+  <Locality>Parque Municipal Nove de Julho, São Paulo, SP</Locality>
+  <Latitude>-23.7192</Latitude>
+  <Longitude>-46.717</Longitude>
+  <Elevation>760</Elevation>
+  <Author>Marcos Melo</Author>
+  <AuthorID>MRGDYNJGUJ</AuthorID>
+  <Content>call</Content>
+  <Comments>two-notes, male</Comments>
+  <Quality>2</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Icteridae</Family>
+  <Genus>Sturnella</Genus>
+  <Species>superciliaris</Species>
+  <Sub-species />
+  <VernacularNames>White-browed Blackbird</VernacularNames>
+</Audio>

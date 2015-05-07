@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>6456</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN6456.wav</FileName>
+  <ClassId>qoqtfu</ClassId>
+  <Date>2009-09-25</Date>
+  <Time>09:15</Time>
+  <Locality>Itu, São Paulo</Locality>
+  <Latitude>-23.270681</Latitude>
+  <Longitude>-47.298889</Longitude>
+  <Elevation>590</Elevation>
+  <Author>Marcos Melo</Author>
+  <AuthorID>MRGDYNJGUJ</AuthorID>
+  <Content>song</Content>
+  <Comments>no playback</Comments>
+  <Quality>2</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Hirundinidae</Family>
+  <Genus>Stelgidopteryx</Genus>
+  <Species>ruficollis</Species>
+  <Sub-species />
+  <VernacularNames>Southern Rough-winged Swallow</VernacularNames>
+</Audio>

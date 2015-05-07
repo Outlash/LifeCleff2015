@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>16650</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN16650.wav</FileName>
+  <ClassId>eydhxz</ClassId>
+  <Date>2010-12-03</Date>
+  <Time>08:30</Time>
+  <Locality>Belterra, Bacia 357, PA</Locality>
+  <Latitude>-3.372</Latitude>
+  <Longitude>-54.8478</Longitude>
+  <Elevation>?</Elevation>
+  <Author>Alexander Lees</Author>
+  <AuthorID>INDDBZAFJL</AuthorID>
+  <Content>song</Content>
+  <Comments>border of primary forest and ploughed field</Comments>
+  <Quality>0</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies>Ramphocaenus melanurus,Ramphocelus carbo</BackgroundSpecies>
+  <Order>Passeriformes</Order>
+  <Family>Thraupidae</Family>
+  <Genus>Coryphospingus</Genus>
+  <Species>cucullatus</Species>
+  <Sub-species>cucullatus</Sub-species>
+  <VernacularNames>Red Pileated Finch</VernacularNames>
+</Audio>

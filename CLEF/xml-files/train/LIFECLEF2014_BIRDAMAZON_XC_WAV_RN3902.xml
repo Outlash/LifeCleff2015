@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>3902</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN3902.wav</FileName>
+  <ClassId>objnpr</ClassId>
+  <Date>2010-04-07</Date>
+  <Time>?</Time>
+  <Locality>Serra da Uruburetama, state of Ceara, NE Brazil</Locality>
+  <Latitude>-3.609</Latitude>
+  <Longitude>-39.589</Longitude>
+  <Elevation>600</Elevation>
+  <Author>Ciro Albano</Author>
+  <AuthorID>MXVQPUKGWW</AuthorID>
+  <Content>song</Content>
+  <Comments />
+  <Quality>1</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Parulidae</Family>
+  <Genus>Setophaga</Genus>
+  <Species>pitiayumi</Species>
+  <Sub-species />
+  <VernacularNames>Tropical Parula</VernacularNames>
+</Audio>

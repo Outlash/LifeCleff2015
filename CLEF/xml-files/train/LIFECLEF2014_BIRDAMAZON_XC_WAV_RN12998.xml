@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>12998</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN12998.wav</FileName>
+  <ClassId>gghnhg</ClassId>
+  <Date>2006-08-06</Date>
+  <Time>16:10</Time>
+  <Locality>Sítio Pitombeiras, Feira Nova, Pernambuco</Locality>
+  <Latitude>NULL</Latitude>
+  <Longitude>NULL</Longitude>
+  <Elevation>169</Elevation>
+  <Author>Glauco Alves Pereira</Author>
+  <AuthorID>ZWEROGGYVP</AuthorID>
+  <Content>two calls and song</Content>
+  <Comments>Open area</Comments>
+  <Quality>2</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies>Volatinia jacarina</BackgroundSpecies>
+  <Order>Passeriformes</Order>
+  <Family>Icteridae</Family>
+  <Genus>Sturnella</Genus>
+  <Species>superciliaris</Species>
+  <Sub-species />
+  <VernacularNames>White-browed Blackbird</VernacularNames>
+</Audio>

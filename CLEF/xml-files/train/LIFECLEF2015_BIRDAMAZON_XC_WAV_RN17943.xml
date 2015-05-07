@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>17943</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN17943.wav</FileName>
+  <ClassId>gycosl</ClassId>
+  <Date>2011-04-01</Date>
+  <Time>?</Time>
+  <Locality>Sinnamary, savanes de la piste de St Elie</Locality>
+  <Latitude>NULL</Latitude>
+  <Longitude>NULL</Longitude>
+  <Elevation>9</Elevation>
+  <Author>Alexandre Renaudier</Author>
+  <AuthorID>GKADEITXTH</AuthorID>
+  <Content>flush call</Content>
+  <Comments />
+  <Quality>2</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies />
+  <Order>Charadriiformes</Order>
+  <Family>Scolopacidae</Family>
+  <Genus>Gallinago</Genus>
+  <Species>paraguaiae</Species>
+  <Sub-species>paraguaiae</Sub-species>
+  <VernacularNames>South American Snipe</VernacularNames>
+</Audio>

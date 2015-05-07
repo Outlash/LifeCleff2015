@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>1396</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN1396.wav</FileName>
+  <ClassId>uuvfxv</ClassId>
+  <Date>2002-11-01</Date>
+  <Time>07:08</Time>
+  <Locality>Casca d'Anta, Parque Nacional da Serra da Canastra, SW Minas Gerais</Locality>
+  <Latitude>-20.2503</Latitude>
+  <Longitude>-46.3667</Longitude>
+  <Elevation>900</Elevation>
+  <Author>Jeremy Minns</Author>
+  <AuthorID>DGVLLRYDXS</AuthorID>
+  <Content>Song</Content>
+  <Comments>Casca d'Anta. Semi-deciduous gallery forest.</Comments>
+  <Quality>2</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Parulidae</Family>
+  <Genus>Myiothlypis</Genus>
+  <Species>flaveola</Species>
+  <Sub-species />
+  <VernacularNames>Flavescent Warbler</VernacularNames>
+</Audio>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>3804</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN3804.wav</FileName>
+  <ClassId>yudfzp</ClassId>
+  <Date>2008-10-28</Date>
+  <Time>17:31</Time>
+  <Locality>Chapada dos Guimaraes, MT</Locality>
+  <Latitude>-15.456327</Latitude>
+  <Longitude>-55.774841</Longitude>
+  <Elevation>640</Elevation>
+  <Author>Bradley Davis</Author>
+  <AuthorID>YNXJLOESBB</AuthorID>
+  <Content>short song</Content>
+  <Comments>not seen</Comments>
+  <Quality>1</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Troglodytidae</Family>
+  <Genus>Pheugopedius</Genus>
+  <Species>genibarbis</Species>
+  <Sub-species />
+  <VernacularNames>Moustached Wren</VernacularNames>
+</Audio>

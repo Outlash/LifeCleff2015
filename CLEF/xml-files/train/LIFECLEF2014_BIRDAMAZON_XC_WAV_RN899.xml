@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>899</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN899.wav</FileName>
+  <ClassId>gghnhg</ClassId>
+  <Date>2010-01-16</Date>
+  <Time>10:12</Time>
+  <Locality>Salseiro, Vidal Ramos, Santa Catarina</Locality>
+  <Latitude>-27.39726</Latitude>
+  <Longitude>-49.379082</Longitude>
+  <Elevation>360</Elevation>
+  <Author>Evair Legal</Author>
+  <AuthorID>SMJXFKLATM</AuthorID>
+  <Content>call</Content>
+  <Comments />
+  <Quality>3</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies />
+  <Order>Passeriformes</Order>
+  <Family>Icteridae</Family>
+  <Genus>Sturnella</Genus>
+  <Species>superciliaris</Species>
+  <Sub-species />
+  <VernacularNames>White-browed Blackbird</VernacularNames>
+</Audio>

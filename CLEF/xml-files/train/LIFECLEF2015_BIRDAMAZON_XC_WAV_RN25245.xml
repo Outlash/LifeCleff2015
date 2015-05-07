@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>25245</MediaId>
+  <FileName>LIFECLEF2015_BIRDAMAZON_XC_WAV_RN25245.wav</FileName>
+  <ClassId>iofesp</ClassId>
+  <Date>2010-11-19</Date>
+  <Time>07:57</Time>
+  <Locality>Paragominas, PA, Brazil, Bacia 342</Locality>
+  <Latitude>-3.311</Latitude>
+  <Longitude>-48.183</Longitude>
+  <Elevation>?</Elevation>
+  <Author>Alexander Lees</Author>
+  <AuthorID>INDDBZAFJL</AuthorID>
+  <Content>song</Content>
+  <Comments>primary forest</Comments>
+  <Quality>2</Quality>
+  <Year>BirdCLEF2015</Year>
+  <BackgroundSpecies>Patagioenas plumbea,Tyranneutes stolzmanni</BackgroundSpecies>
+  <Order>Passeriformes</Order>
+  <Family>Tyrannidae</Family>
+  <Genus>Rhynchocyclus</Genus>
+  <Species>olivaceus</Species>
+  <Sub-species>sordidus</Sub-species>
+  <VernacularNames>Olivaceous Flatbill</VernacularNames>
+</Audio>

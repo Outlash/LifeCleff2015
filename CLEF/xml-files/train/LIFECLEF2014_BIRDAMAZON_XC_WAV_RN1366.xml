@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Audio>
+  <MediaId>1366</MediaId>
+  <FileName>LIFECLEF2014_BIRDAMAZON_XC_WAV_RN1366.wav</FileName>
+  <ClassId>bgqyzr</ClassId>
+  <Date>2009-08-26</Date>
+  <Time>14:00</Time>
+  <Locality>Cristalino Jungle Lodge, MT</Locality>
+  <Latitude>-9.5981</Latitude>
+  <Longitude>-55.932</Longitude>
+  <Elevation>250</Elevation>
+  <Author>Andrew Spencer</Author>
+  <AuthorID>CDTGHVBGZP</AuthorID>
+  <Content>call</Content>
+  <Comments>calls from a male bird</Comments>
+  <Quality>2</Quality>
+  <Year>BirdCLEF2014</Year>
+  <BackgroundSpecies />
+  <Order>Galliformes</Order>
+  <Family>Cracidae</Family>
+  <Genus>Crax</Genus>
+  <Species>fasciolata</Species>
+  <Sub-species />
+  <VernacularNames>Bare-faced Curassow</VernacularNames>
+</Audio>
