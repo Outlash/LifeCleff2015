@@ -22,13 +22,22 @@ public class App {
         File wavFile=null;
         wavFiles = it.readWaveFilesList();
         for (int i = 0; i < wavFiles.length; i++) {
-                    wavFile = wavFiles[i];
-                    buffer = op.generateLines(wavFile);
-                    save_output(buffer, wavFile);
-                    System.out.println(Integer.toString(i)+"/"+Integer.toString(wavFiles.length));
-
-
-            }
+                try {
+                	wavFile = wavFiles[i];
+                	buffer = op.generateLines(wavFile);
+                	save_output(buffer, wavFile);
+                	System.out.println(Integer.toString(i)+"/"+Integer.toString(wavFiles.length));
+            	} catch (Exception e) {
+                	try {
+             			Path dest = Paths.get("C:\\Users\\Robertmw\\Documents\\NetBeansProjects\\[IP] Proiect\\output\\corupt");
+                    		System.out.println(wavFiles[i].getAbsolutePath() + " " + dest);
+                    		moveFile(Paths.get(wavFiles[i].getAbsolutePath()),dest);
+                	} catch (Exception ex){
+                    		System.out.println(ex);
+		        }
+                
+            	}
+         }
 
     }
 
@@ -78,5 +87,9 @@ public class App {
         } catch (IOException e) {
             e.printStackTrace();
         }
+    }
+
+    public static void moveFile(Path source, Path dest) throws IOException {
+            Files.move(source, dest);
     }
 }
