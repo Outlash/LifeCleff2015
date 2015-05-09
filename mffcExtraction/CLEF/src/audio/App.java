@@ -12,13 +12,13 @@ public class App {
 
     public static boolean train=true;
     public static void main(String[] args) {
-        String buffer = "";
+        //String buffer = "";
         Operations op = new Operations();
         FileIterator it=new FileIterator(train);
         File[] wavFiles;
         File wavFile=null;
         wavFiles = it.readWaveFilesList();
-        for (int i = 3677; i < wavFiles.length; i++) {
+        for (int i = 0; i < wavFiles.length; i++) {
             System.out.print(wavFiles[i].getName()+"--");
             System.out.println(Integer.toString(i) + "/" + Integer.toString(wavFiles.length));
                     wavFile = wavFiles[i];
