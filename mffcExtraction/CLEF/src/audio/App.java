@@ -18,7 +18,7 @@ public class App {
         File[] wavFiles;
         File wavFile=null;
         wavFiles = it.readWaveFilesList();
-        for (int i = 77; i < wavFiles.length; i++) {
+        for (int i = 3677; i < wavFiles.length; i++) {
             System.out.print(wavFiles[i].getName()+"--");
             System.out.println(Integer.toString(i) + "/" + Integer.toString(wavFiles.length));
                     wavFile = wavFiles[i];
