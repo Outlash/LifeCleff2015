@@ -61,6 +61,7 @@ public class WaveData {
 			// create bytearray from file
 			arrFile = new byte[(int) wavFile.length()];
 			fis.read(arrFile);
+			fis.close();
 		} catch (Exception e) {
 			System.out.println("SomeException : " + e.toString());
 		}

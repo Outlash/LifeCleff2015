@@ -3,10 +3,7 @@ package audio;
 import files.FileIterator;
 import files.SaxParser;
 
-import java.io.BufferedWriter;
-import java.io.File;
-import java.io.FileWriter;
-import java.io.IOException;
+import java.io.*;
 
 /**
  * Created by Ionut on 5/7/2015.
@@ -21,24 +18,19 @@ public class App {
         File[] wavFiles;
         File wavFile=null;
         wavFiles = it.readWaveFilesList();
-        for (int i = 0; i < wavFiles.length; i++) {
-                try {
-                	wavFile = wavFiles[i];
-                	buffer = op.generateLines(wavFile);
-                	save_output(buffer, wavFile);
-                	System.out.println(Integer.toString(i)+"/"+Integer.toString(wavFiles.length));
-            	} catch (Exception e) {
-                	try {
-             			Path dest = Paths.get("C:\\Users\\Robertmw\\Documents\\NetBeansProjects\\[IP] Proiect\\output\\corupt");
-                    		System.out.println(wavFiles[i].getAbsolutePath() + " " + dest);
-                    		moveFile(Paths.get(wavFiles[i].getAbsolutePath()),dest);
-                	} catch (Exception ex){
-                    		System.out.println(ex);
-		        }
-                
-            	}
-         }
+        for (int i = 77; i < wavFiles.length; i++) {
+            System.out.print(wavFiles[i].getName()+"--");
+            System.out.println(Integer.toString(i) + "/" + Integer.toString(wavFiles.length));
+                    wavFile = wavFiles[i];
+                    //buffer = op.generateLines(wavFile);
+            try {
+                op.generateLines(wavFile);
+            } catch (IOException e) {
+                e.printStackTrace();
+            }
+            //save_output(buffer, wavFile);
 
+            }
     }
 
     public static String get_id(String filename) {
@@ -81,15 +73,29 @@ public class App {
             }
 
             FileWriter fw = new FileWriter(file.getAbsoluteFile());
-            BufferedWriter bw = new BufferedWriter(fw);
-            bw.write(buffer);
-            bw.close();
+            //BufferedWriter bw = new BufferedWriter(fw);
+            fw.write(buffer);
+            fw.close();
         } catch (IOException e) {
             e.printStackTrace();
         }
     }
 
-    public static void moveFile(Path source, Path dest) throws IOException {
-            Files.move(source, dest);
+    public static void copyFileUsingStream(File source, File dest) throws IOException {
+        InputStream is = null;
+        OutputStream os = null;
+        try {
+            is = new FileInputStream(source);
+            os = new FileOutputStream(dest);
+            byte[] buffer = new byte[1024];
+            int length;
+            while ((length = is.read(buffer)) > 0) {
+                os.write(buffer, 0, length);
+            }
+        } finally {
+            is.close();
+            os.close();
+        }
     }
+
 }

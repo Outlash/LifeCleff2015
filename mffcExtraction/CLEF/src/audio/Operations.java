@@ -7,18 +7,12 @@
  */
 package audio;
 
-import java.io.File;
-import java.util.Arrays;
+import java.io.*;
 import java.util.List;
 import java.util.ArrayList;
-
-import audio.FeatureExtract;
-import audio.FormatControlConf;
-import audio.PreProcess;
-import audio.WaveData;
+import java.io.File;
+import java.io.IOException;
 import audio.feature.FeatureVector;
-import util.ArrayWriter;
-
 /**
  * @author Ganesh Tiwari
  */
@@ -38,28 +32,58 @@ public class Operations {
         wd = new WaveData();
     }
 
-    public String generateLines(File wavFile) {
-        int totalFrames = 0;
+    public void generateLines(File wavFile) throws IOException {
 
 
 
-        FeatureVector feature = extractFeatureFromFile(wavFile);
-        for (int k = 0; k < feature.getNoOfFrames(); k++) {
-            allFeaturesList.add(feature.getMfccFeature()[k]);
-            totalFrames++;//
-        }
         String Output="";
-        // make a single 2d array of all features
-        double allFeatures[][] = new double[totalFrames][FEATUREDIMENSION];
-        for (int i = 0; i < totalFrames; i++) {
-            double[] tmp = allFeaturesList.get(i);
-            for(int j=0;j<tmp.length;j++)
-                Output+=(j+1)+":"+tmp[j]+" ";
-            Output+="%n";
-            allFeatures[i] = tmp;
+        String classid="";
+        BufferedWriter writer=null;
+        if(App.train) {
+            writer = new BufferedWriter(new FileWriter("output/train/" + wavFile.getName() + ".txt"));
+            classid="#"+App.get_classid(wavFile);
         }
-        return String.format(Output);
-    } 
+        else
+        {
+            writer = new BufferedWriter(new FileWriter("output/train/" + wavFile.getName() + ".txt"));
+        }
+        PrintWriter printWriter=new PrintWriter(writer);
+        try {
+            FeatureVector feature = extractFeatureFromFile(wavFile);
+            for (int k = 0; k < feature.getNoOfFrames(); k++) {
+                allFeaturesList.add(feature.getMfccFeature()[k]);
+                double[] tmp = allFeaturesList.get(k);
+
+                for (int j = 0; j < tmp.length; j++)
+                    printWriter.print((j + 1) + ":" + tmp[j] + " ");
+                //Output+=(j+1)+":"+tmp[j]+" ";
+                printWriter.print(System.lineSeparator());
+
+                //Output+="%n";
+
+            }
+        }
+     catch (Exception e) {
+         System.out.println("Error : " + e.getMessage());
+         File dest=null;
+         if(App.train) {
+             dest = new File("input/error/train/"+wavFile.getName());
+         }else
+         {
+             dest = new File("input/error/test/"+wavFile.getName());
+         }
+         if (!dest.exists()) {
+             dest.createNewFile();
+         }
+         System.out.print(dest.getAbsolutePath());
+
+         App.copyFileUsingStream(wavFile, dest);
+     }
+
+        printWriter.print(classid);
+        printWriter.close();
+       // return String.format(Output);
+    }
 
 
     /**
