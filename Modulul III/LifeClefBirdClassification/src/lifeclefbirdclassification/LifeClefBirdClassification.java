@@ -18,6 +18,10 @@ import java.nio.file.Path;
 import java.nio.file.Paths;
 import java.nio.file.StandardOpenOption;
 import java.util.*;
+<<<<<<< HEAD
+=======
+import java.util.Map.Entry;
+>>>>>>> a5169b348b702d9b97e87b38c42cf89838df9d38
 
 
 class Element implements Comparable{
@@ -68,6 +72,12 @@ class TestProcent {
         procentaje = new HashMap<String, Double>();
     }
 
+<<<<<<< HEAD
+=======
+    public void setProcentaje(Map<String, Double> hashmap) {
+        procentaje = hashmap;
+    }
+>>>>>>> a5169b348b702d9b97e87b38c42cf89838df9d38
     public void setProcentFinal(float valoare) {
         procentFinal = valoare;
     }
@@ -129,12 +139,21 @@ public class LifeClefBirdClassification {
         //pathScript = "E:\\Facultate\\AnII\\IP\\LifeClef\\libsvm-3.20\\libsvm-3.20\\windows\\";
         classIDClassValue = getBirdNumber("E:\\Download Normal\\result.txt");
         invertClass();
+<<<<<<< HEAD
         concatTrainFiles("E:\\Download Normal\\Train\\");
         countAndConcatTestFiles("E:\\Download Normal\\Test\\");
         executeCode("");
         predictionsList = getPredictionsList("predict.dat");
         getPredictionsApparition(predictionsList);
         print();
+=======
+        //concatTrainFiles("E:\\Download Normal\\Train\\");
+        countAndConcatTestFiles("E:\\Download Normal\\Test1\\Test\\");
+        //executeCode("");
+        //predictionsList = getPredictionsList("predict.dat");
+        //getPredictionsApparition(predictionsList);
+        //print();
+>>>>>>> a5169b348b702d9b97e87b38c42cf89838df9d38
     }
 
     public LifeClefBirdClassification(String cale) {
@@ -225,7 +244,14 @@ public class LifeClefBirdClassification {
         output.close();
     }
 
+<<<<<<< HEAD
 
+=======
+    /*
+    // Aceasta functie va concatena fisierele (test)
+    // intr-un singur fisier
+ */
+>>>>>>> a5169b348b702d9b97e87b38c42cf89838df9d38
 
     public void countAndConcatTestFiles(String path) throws IOException {
         File parent = new File(path);
@@ -273,7 +299,11 @@ public class LifeClefBirdClassification {
             name = pathFile.toString();
             nrLines = 0;
             lines = Files.readAllLines(pathFile, charset);
+<<<<<<< HEAD
             System.out.println(lines.get(0));
+=======
+            //System.out.println(lines.get(0));
+>>>>>>> a5169b348b702d9b97e87b38c42cf89838df9d38
 
             //Files.write(output, lines, charset, StandardOpenOption.CREATE,
             //        StandardOpenOption.APPEND);
@@ -295,7 +325,13 @@ public class LifeClefBirdClassification {
 
 
 
+<<<<<<< HEAD
 
+=======
+    /*
+    // Aceasta functie va executa algoritmul de cautare
+ */
+>>>>>>> a5169b348b702d9b97e87b38c42cf89838df9d38
 
     public void executeCode(String path) throws IOException {
         //Runtime rt = Runtime.getRuntime();
@@ -354,6 +390,10 @@ public class LifeClefBirdClassification {
         Map<Integer, Integer> tempMap = new HashMap<Integer, Integer>();
         int k;
         int i = -1;
+<<<<<<< HEAD
+=======
+        Map<String, Double> unsortedMap = new HashMap<String, Double>();
+>>>>>>> a5169b348b702d9b97e87b38c42cf89838df9d38
         System.out.println(valoriTeste.size());
         for (int j = 0; j < valoriTeste.size(); j++) {
             for (k = 0; k < valoriTeste.get(j).getNrLinii(); k++) {
@@ -370,8 +410,15 @@ public class LifeClefBirdClassification {
             i = k - 1;
             System.out.println(i);
             for (Integer key : tempMap.keySet()) {
+<<<<<<< HEAD
                 valoriTeste.get(j).addProcent(classIDValueClass.get(key), ((double)(tempMap.get(key)) / (double)(valoriTeste.get(j).getNrLinii())));
             }
+=======
+                unsortedMap.put(classIDValueClass.get(key), ((double)(tempMap.get(key)) / (double)(valoriTeste.get(j).getNrLinii())));
+                //valoriTeste.get(j).addProcent(classIDValueClass.get(key), ((double)(tempMap.get(key)) / (double)(valoriTeste.get(j).getNrLinii())));
+            }
+            valoriTeste.get(j).setProcentaje(sortByComparator(unsortedMap, false));
+>>>>>>> a5169b348b702d9b97e87b38c42cf89838df9d38
             valoriTeste.get(j).setProcentFinal(procent);
             tempMap = new HashMap<Integer, Integer>();
         }
@@ -423,7 +470,11 @@ public class LifeClefBirdClassification {
 
             String lastLine = sb.reverse().toString();
             
+<<<<<<< HEAD
             System.out.print("-------------- Am returnat CLASSID-ul pentru fisierul; " + file.getName() + " ----- ");
+=======
+            //System.out.print("-------------- Am returnat CLASSID-ul pentru fisierul; " + file.getName() + " ----- ");
+>>>>>>> a5169b348b702d9b97e87b38c42cf89838df9d38
             return lastLine.substring(1, lastLine.length());
         } catch( java.io.FileNotFoundException e ) {
             e.printStackTrace();
@@ -471,7 +522,11 @@ public class LifeClefBirdClassification {
         }
 
         
+<<<<<<< HEAD
         System.out.print("-------------- Am incarcat LISATA HASH cu CLASSID --------------");
+=======
+        //System.out.print("-------------- Am incarcat LISATA HASH cu CLASSID --------------");
+>>>>>>> a5169b348b702d9b97e87b38c42cf89838df9d38
         return temp;
     }
 
@@ -483,17 +538,69 @@ public class LifeClefBirdClassification {
     public void print(){
         System.out.println(this.procent);
         for (TestProcent testFile : valoriTeste) {
+<<<<<<< HEAD
             System.out.println(testFile.getFileName() + ": " + testFile.getCod());
             //System.out.println(testFile.getCod() + ":");
             Iterator it = testFile.getProcentaje().entrySet().iterator();
             while (it.hasNext()) {
                 Map.Entry pair = (Map.Entry)it.next();
                 System.out.println("\t" + pair.getKey() + " = " + pair.getValue());
+=======
+            int i = 0;
+            System.out.println(testFile.getFileName() + ": " + testFile.getCod());
+            //System.out.println(testFile.getCod() + ":");
+            i = testFile.getProcentaje().size();
+            if (testFile.getProcentaje().size() > 10) i = 10;
+            Iterator it = testFile.getProcentaje().entrySet().iterator();
+            while (it.hasNext() && i > 0) {
+                Map.Entry pair = (Map.Entry)it.next();
+                System.out.println("\t" + pair.getKey() + " = " + pair.getValue());
+                i--;
+>>>>>>> a5169b348b702d9b97e87b38c42cf89838df9d38
                 it.remove(); // avoids a ConcurrentModificationException
             }
         }
     }
 
+<<<<<<< HEAD
+=======
+    
+    
+    
+    private Map<String, Double> sortByComparator(Map<String, Double> unsortMap, boolean order) {
+        
+        if(unsortMap.size() == 0) return null;
+
+        List<Entry<String, Double>> list = new LinkedList<Entry<String, Double>>(unsortMap.entrySet());
+
+        // Sorting the list based on values
+        Collections.sort(list, new Comparator<Entry<String, Double>>()
+        {
+            public int compare(Entry<String, Double> o1,
+                    Entry<String, Double> o2)
+            {
+                if (order)
+                {
+                    return o1.getValue().compareTo(o2.getValue());
+                }
+                else
+                {
+                    return o2.getValue().compareTo(o1.getValue());
+
+                }
+            }
+        });
+
+        // Maintaining insertion order with the help of LinkedList
+        Map<String, Double> sortedMap = new LinkedHashMap<String, Double>();
+        for (Entry<String, Double> entry : list)
+        {
+            sortedMap.put(entry.getKey(), entry.getValue());
+        }
+
+        return sortedMap;
+    }
+>>>>>>> a5169b348b702d9b97e87b38c42cf89838df9d38
 
 
     /*
@@ -614,7 +721,11 @@ public class LifeClefBirdClassification {
     public static void main(String[] args) throws IOException {
 	// write your code here
 
+<<<<<<< HEAD
         LifeClefBirdClassification proc2 = new LifeClefBirdClassification();
+=======
+        LifeClefBirdClassification proces = new LifeClefBirdClassification();
+>>>>>>> a5169b348b702d9b97e87b38c42cf89838df9d38
         //proc2.executeCode("C:\\Users\\Dinu\\Documents\\NetBeansProjects\\Procentaj\\src\\com\\company\\svm_multiclass\\");
         //Procentaj proc = new Procentaj("C:\\Users\\Dinu\\Documents\\NetBeansProjects\\Procentaj\\src\\com\\company\\");
 
