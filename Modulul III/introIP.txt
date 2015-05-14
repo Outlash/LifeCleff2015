@@ -1,0 +1,45 @@
+Modulul III Machine Learning - explicatie :
+
+Scopul nostru e sa preluam fisierele cu informatii despre fisierele audio (sunt fisiere text) de la modulul 2 si sa la prelucram astfel incat sa obtinem o clasificare a datelor din fisierele test (tot fisiere text) cu ajutorul fisierelor train + sa aflam o probabilitate ca am gasit raspunsul corect. 
+
+Formatul fisierelor:
+	-fiecare fisier test/train prezinta un numar de linii care reprezinta un frame audio.
+	-acest frame audio prezinta mai multe caracteristici care sunt notate cu x:valoare pe cate o linie (o line=un frame) unde x reprezinta nr caracteristicii si valoarea valoarea pe care aceasta caracteristica o are;
+	-unele frameuri nu au toate caracteristicile posibile deci acele caracteristici ce nu exista nu s-au scris.
+
+ex de linie dintr-un posibil fisier 1:12.23131 5:131.1324 65:23.4131
+Explicatie : frameul din acest fisier are doar 3 caracteristici 1,3,65; restul au valoarea 0 si nu se iau in calcul la svm.
+
+
+
+Noi folosim o implementare a unui algoritm numit SVM Support Vector Machine care este format din 2 module:
+	- primul modul primeste ca input un fisier de train pe care il parcurge si pe baza datelor din acesta, creeaza un fisier output numit model care descrie
+			datele gasite in fisierul train;
+	- al doilea model care foloseste 2 fisiere de input : test si modelul creat mai devreme cu care face clasificarea datelor din test in functie de model 
+	creand un fisier output in care pentru fiecare linie din test (care corespunde cu un cantec al unei pasari) ii predice clasa din care face parte.
+
+Clasificare se face pe niste clase. Cele 999 de specii sunt clasele noastre pe care acest algoritm face clasificarea. (este o implementare a unui svm multi class, exista si doar pentru 2 clase dar ne era inutil).
+
+Preprocesare pre svm:
+3: s-a facut o numerotare a claselor : noi in fisierele xml care descriu fiecare fisier audio avem clasele ca siruri string, noi am facut o mica aplicatie care preia fiecare string si ii atribuie un nr intr-o ordine; se pot face diagrame si aici;
+2:  s-a facut concatenarea fisierelor primite de la modulul II gen 24k de train (puteti face diagrame pentru treaba asta): gen s-au primit un nr x de fisiere si s-au concatenat formand fisierul "id classes.txt". acest lucru s-a facut putin diferit pentru fisierele train: pentru train s-a pus in fata fiecarui rand din fiecare fisier clasa din care face parte acest fisier(nu s-a facut concatenarea lor) (se stie clasa din xml si nr din fisierul id classes txt) 
+3: pentru test s-am pus in fata fiecarui rand numaru 0 ce inseamna ca nu are nici o clasa atribuita.
+
+Exemple pentru rularea algoritmului se pot gasi in: 
+\\LifeCleff2015\Modulul III\libsvm-3.20\libsvm-3.20\windows
+
+abcd.train -fisier train
+abcd.test - fisier test
+abcd.train.model - fisier model
+abcd.out -fisierul de output
+
+Comenzi pentru rulare : deschideti cmd si rulati:
+
+1. svm-train.exe abcd.train va genera output in cmd :   optimization finished, #iter = 5371
+														nu = 0.606150
+														obj = -1061.528918, rho = -0.495266
+														nSV = 3053, nBSV = 722
+														Total nSV = 3053
+2. svm-predict.exe abcd.test abcd.train.model abcd.out va genera output in cmd : Accuracy = 66.925% (2677/4000) (classification)
+
+Am mai facut si o aplicatie care parseaza xml si recupereaza datele din acestea si le pune intr-un fisier dar nu am folosit functionalitatea in algortim.
