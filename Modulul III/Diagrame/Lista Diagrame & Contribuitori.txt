@@ -1,0 +1,14 @@
+Lista Diagrame & Contribuitori
+
+XML Parser Class Diagram - Bartic Adrei
+XML Parser Use Case Diagram - Denis Dima
+Concatenation Class Diagram - Soare George
+Concatenation Use Case Diagram - Anca Dorneanu
+SVM Class Diagram - Tutuianu Corneliu
+SVM Use Case Diagram - Giulitti Salvadore
+Prediction Class Diagram - Dinu Ionut
+Prediction Use Case Diagram - Giulitti Salvadore
+Package Diagram - Tutuianu Corneliu
+Activity Diagram - Dobranici Alexandru
+Class ID Use Case Diagram - Bartic Andrei
+Sequence Diagram - Dobranici Alexandru
